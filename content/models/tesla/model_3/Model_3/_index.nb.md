@@ -29,25 +29,25 @@ Vi har delt vår Tesla Model 3-artikkel i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-Tesla Model 3 har en maksimal effekt på 208KW (283hk).Totalt dreiemoment er 420nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Topphastigheten er 225 km/t.
+Tesla Model 3 har en maksimal effekt på 208KW (283hk). Totalt dreiemoment er 420nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Topphastigheten er 225 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 59kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (1,7%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 59kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (1,7%). Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 513 km (319 mi). Forbruket er 11.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 513 km (319 mi). Forbruket er 11.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 20 minutter og 31 sekunder. 
+Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 20 minutter og 31 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 17kWh/100km, vil 1000km ta 9 timer og 41 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 3% til 51%. Totalt tapt tid for å lade opp batteriet vil være 82 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 21 minutter. 
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 21 minutter.
 
 ### Ladeport
 
-Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -55,30 +55,30 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 ## Drivverk
 
-Tesla Model 3 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen. 
+Tesla Model 3 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
-standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 140 mm. 
+standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 140 mm.
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Tesla Model 3. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. 
+Dynamisk styring er standard-funksjonen på Tesla Model 3. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm. 
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
 
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Du kan velge mellom tre stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, rullemodus får kjøretøyet til å rulle til det stopper av seg selv, og krypemodus vil krype bilen fremover i lav hastighet. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen. 
-I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 19 tommer. 
+Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 19 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-Vutene fra B-stolpen og baksiden er tonet. 
+Vutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/exterior_1_st.jpeg" title="Tesla Model 3" width="3000" height="2250"  >}}
@@ -90,22 +90,22 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
+Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
-Bare én type forsete er tilgjengelig i Tesla Model 3. 
+Bare én type forsete er tilgjengelig i Tesla Model 3.
 
-Følgende funksjoner er tilgjengelige på **standard** setet. 
+Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering 
-- høydejusterbar hodestøtte 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) 
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
+- elektrisk justering
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
+- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.<br />
 <br />
 
 
@@ -117,10 +117,10 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen. <br />
 
 
 
-Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
+Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 
-Det er bare én type ratt tilgjengelig. 
+Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
@@ -128,15 +128,15 @@ Det er ett tilgjengelig klimasystem. Klimasystemet standard støtter kun kontrol
 
 ## Komfort
 
-Tesla Model 3 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt. 
+Tesla Model 3 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene. 
+Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
 
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen. 
+Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
-Rattet er elektrisk justerbart. 
+Rattet er elektrisk justerbart.
 
-Du har trådløs lading for telefonen din. 
+Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +144,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Model 3 har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. -skjermen i dashbordets sentrum  er 15.0 tommer stor og har en oppløsning på 2200 x 1300 piksler. 
+Tesla Model 3 har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. -skjermen i dashbordets sentrum  er 15.0 tommer stor og har en oppløsning på 2200 x 1300 piksler.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -153,14 +153,14 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Model 3. Med Tesla Imersive Sound får du ni høyttalere med en maksimal systemeffekt på 560 watt. 
+Én type lydsystem er tilgjengelig for Tesla Model 3. Med Tesla Imersive Sound får du ni høyttalere med en maksimal systemeffekt på 560 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-Modellen har 3 USB-C-tilkoblinger som standard. 
+Modellen har 3 USB-C-tilkoblinger som standard.
 ## Lys
 
-Standardlyktene bruker LED-teknologi. 
+Standardlyktene bruker LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/headlights_1_st.jpeg" title="Tesla Model 3" width="3000" height="2250"  >}}
@@ -174,32 +174,32 @@ Tesla Model 3 har flere standard og valgfrie [avanserte førerassistentsystemer]
 
 Tesla Model 3 har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Tesla Model 3 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+Tesla Model 3 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-Tesla Model 3 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Tesla Model 3 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
 Tesla Model 3 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon. 
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon.
 
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner. 
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
-Tesla Model 3 tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået. 
+Tesla Model 3 tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
-Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner. 
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
 
 
-Med Enhanced Autopilot  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor. 
+Med Enhanced Autopilot  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
 - Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet. 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).  
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
 
 

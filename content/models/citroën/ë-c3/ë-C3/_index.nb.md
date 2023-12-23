@@ -29,19 +29,19 @@ Vi har delt vår Citroën ë-C3-artikkel i seksjoner. Hvis du vil vente med å l
 
 ## Ytelse
 
-Citroën ë-C3 har en maksimal effekt på 83KW (113hk).Totalt dreiemoment er nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 11 sekunder. Topphastigheten er 135 km/t.
+Citroën ë-C3 har en maksimal effekt på 83KW (113hk). Totalt dreiemoment er nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 11 sekunder. Topphastigheten er 135 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 44kWh og en nettokapasitet på 43kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (2,3%).Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene. 
+Batteriet har en bruttokapasitet på 44kWh og en nettokapasitet på 43kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (2,3%). Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 320 km (199 mi). Forbruket er 13.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 320 km (199 mi). Forbruket er 13.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 64 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 13% til 69%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 64kW. Hver ladeøkt vil ta 23 minutter og 34 sekunder. 
+Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 64 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 13% til 69%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 64kW. Hver ladeøkt vil ta 23 minutter og 34 sekunder.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 3 timer og 54 minutter. 
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 3 timer og 54 minutter.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
@@ -49,7 +49,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -57,26 +57,26 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 ## Drivverk
 
-Citroën ë-C3 har et forhjulsdriftssystem støttet av én motor på forakselen. 
+Citroën ë-C3 har et forhjulsdriftssystem støttet av én motor på forakselen.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm. 
+Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen. 
-I tillegg kan du velge mellom 2 hjul med størrelser fra 16 til 17 tommer. 
+Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+I tillegg kan du velge mellom 2 hjul med størrelser fra 16 til 17 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Det er bare ett tak for denne modellen. 
+Det er bare ett tak for denne modellen.
 
-Du kan bestille bilen med tonede vinduer fra B-stolpen og bak. 
+Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/exterior_1_st.jpg" title="Citroën ë-C3" width="3000" height="2000"  >}}
@@ -92,12 +92,12 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 ### Forseter
 
-Bare én type forsete er tilgjengelig i Citroën ë-C3. 
+Bare én type forsete er tilgjengelig i Citroën ë-C3.
 
-Følgende funksjoner er tilgjengelige på **** setet. 
+Følgende funksjoner er tilgjengelige på **** setet.
 
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. 
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - black/white [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
@@ -110,10 +110,10 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-Følgende funksjoner er tilgjengelige på **** setet. 
+Følgende funksjoner er tilgjengelige på **** setet.
 
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen. 
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - black/white [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
@@ -122,17 +122,17 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}
 
 
-Det er bare én type ratt tilgjengelig. 
+Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen. 
+Det er ett tilgjengelig klimasystem. Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen.
 
 ## Komfort
 
-Citroën ë-C3 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt. 
+Citroën ë-C3 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
 
-Du har trådløs lading for telefonen din. 
+Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +140,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Citroën ë-C3 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 5.0 tommer stor. touch-skjermen øverst på midtkonsollen er 10.3 tommer stor. 
+Citroën ë-C3 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 5.0 tommer stor . touch-skjermen øverst på midtkonsollen er 10.3 tommer stor .
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -149,14 +149,14 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Citroën ë-C3. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for Citroën ë-C3. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Citroën ë-C3 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze. 
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Citroën ë-C3 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-Modellen har 4 USB-C-tilkoblinger som standard. 
+Modellen har 4 USB-C-tilkoblinger som standard.
 ## Lys
 
-Standardlyktene bruker LED-teknologi.  I tillegg bruker standard baklykter LED-teknologi. 
+Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/headlights_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
@@ -174,7 +174,7 @@ Citroën ë-C3 har [**automatisk nødbremsing**](../../../../technology/driveras
 
 
 
-Med standardsystemet tilbyr modellen ingen kjøreautomatisering. 
+Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -183,7 +183,7 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 310 liter. 
+Lastkapasiteten i bagasjerommet er 310 liter.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 

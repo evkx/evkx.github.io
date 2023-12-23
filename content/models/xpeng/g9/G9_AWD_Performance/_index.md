@@ -33,17 +33,17 @@ The XPENG G9 AWD Performance has a maximum power of 405 KW (551 hp/543 bhp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4,5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
+The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4,5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
- The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi).   The consumption is 18.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi). The consumption is 18.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 60%, resulting in an actual charge speed, including time loss, of 169kW. Each charge session would take 18 minutes and 36 seconds. 
+The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 60%, resulting in an actual charge speed, including time loss, of 169kW. Each charge session would take 18 minutes and 36 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 9 hours and 20 minutes. This trip will require three charge session(s) charging from 7% to 67%. The total time lost for charging up the battery will be 60 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 30 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 30 minutes.
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" title="XPENG G9 AWD Performance" width="1600" height="1040"  >}}
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW c
 
 ### Charge port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -59,25 +59,25 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-XPENG G9 AWD Performance has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+XPENG G9 AWD Performance has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 95 mm, and the maximum is 195 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 95 mm, and the maximum is 195 mm.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. At low speeds, the one-pedal drive mode will keep the car creeping forward. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model. 
+You can choose between 5 different paint colors when ordering this model.
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-The windows from B-pillar and back are tinted. 
+The windows from B-pillar and back are tinted.
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
@@ -89,26 +89,26 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear. 
+The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 
-Only one front seat type is available in the XPENG G9 AWD Performance. 
+Only one front seat type is available in the XPENG G9 AWD Performance.
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **** seat.
 
-- electric adjustment 
-- [heating](../../../../technology/seats/adjustment/#heating) 
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
-- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) 
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
-- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support) 
+- electric adjustment
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
+- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-You can choose from 2 different materials/colors for this seat type. 
+You can choose from 2 different materials/colors for this seat type.
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
@@ -122,16 +122,16 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-- [heating](../../../../technology/seats/adjustment/#heating) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="1687"  >}}
 
 
-There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel. 
+There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 
 ## Climate system
 
@@ -139,15 +139,15 @@ There is one climate system available. The 4-zone climate system supports differ
 
 ## Comfort
 
-XPENG G9 AWD Performance has several features to make your life as a driver or passenger more comfortable. 
+XPENG G9 AWD Performance has several features to make your life as a driver or passenger more comfortable.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
 
-Keyless go makes it possible to start the car without using the key. 
+Keyless go makes it possible to start the car without using the key.
 
-The steering wheel is electrically adjustable. 
+The steering wheel is electrically adjustable.
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,20 +155,20 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The XPENG G9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 15.0 inches large. The touch screen in front of the passenger on the dashboard is 15.0 inches large. 
+The XPENG G9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large . The touch screen on the dashboard's center  is 15.0 inches large . The touch screen in front of the passenger on the dashboard is 15.0 inches large .
 The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
 
 ## Infotainment
 
-One type of sound system is available for the XPENG G9 AWD Performance. With the , you get 24 speakers with a max system output of 1940 watts. 
+One type of sound system is available for the XPENG G9 AWD Performance. With the , you get 24 speakers with a max system output of 1940 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 
 
 ## Lights
@@ -183,28 +183,28 @@ The XPENG G9 AWD Performance has several standard and optional [advanced driver 
 
 The XPENG G9 AWD Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The XPENG G9 AWD Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The XPENG G9 AWD Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
 The XPENG G9 AWD Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway. 
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
 
 The XPENG G9 AWD Performance has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
 
 
-With the   level 2 system, you get the following driving automation features. 
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+With the   level 2 system, you get the following driving automation features.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).  
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 
 {{<evkxdisplayaddarticle />}}
@@ -213,7 +213,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2,5 CU FT). The maxium weight of the car is 2800 kg (6173 lbs), and with the base weight of 2360 kg (5203 lbs), you can max load 440 kg (970 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.440kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers. 
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2,5 CU FT). The maxium weight of the car is 2800 kg (6173 lbs), and with the base weight of 2360 kg (5203 lbs), you can max load 440 kg (970 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 440kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
 

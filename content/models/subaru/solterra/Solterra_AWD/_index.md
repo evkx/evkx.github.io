@@ -33,21 +33,21 @@ The Subaru Solterra AWD has a maximum power of 160 KW (218 hp/215 bhp). The tota
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71,4kWh and a net capacity of 58kWh, meaning you have a 13,4kWh buffer for protection. (18,8%). 
+The battery has a gross capacity of 71,4kWh and a net capacity of 58kWh, meaning you have a 13,4kWh buffer for protection. (18,8%).
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 466 to 416 km (290-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range.   The consumption is between 12.4kWh/100km for the basic version and 13.9kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 466 to 416 km (290-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.4kWh/100km for the basic version and 13.9kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 147kW. A full charge from 0 - 100% would take 74 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 50%, resulting in an actual charge speed, including time loss, of 78kW. Each charge session would take 21 minutes and 27 seconds. 
+The maximum DC charging speed is 147kW. A full charge from 0 - 100% would take 74 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 50%, resulting in an actual charge speed, including time loss, of 78kW. Each charge session would take 21 minutes and 27 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 34 minutes. This trip will require six charge session(s) charging from 1% to 51%. The total time lost for charging up the battery will be 134 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 47 minutes. You can also select an optional onboard charger that supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 16 minutes. 
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 47 minutes. You can also select an optional onboard charger that supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 16 minutes.
 
 ### Charge port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -55,9 +55,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Subaru Solterra AWD has an all-wheel drive system supported by two motors, one on each axle. 
+Subaru Solterra AWD has an all-wheel drive system supported by two motors, one on each axle.
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm. 
+The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
 
 ### Brakes
 
@@ -67,13 +67,13 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model. 
+You can choose between 1 different paint colors when ordering this model.
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-You can order the car with tinted windows from B-pillar and back. 
+You can order the car with tinted windows from B-pillar and back.
 
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/exterior_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
@@ -89,17 +89,17 @@ You can order the car with tinted windows from B-pillar and back.
 
 ### First row seats
 
-Only one front seat type is available in the Subaru Solterra AWD. 
+Only one front seat type is available in the Subaru Solterra AWD.
 
-The following functionalities are available on the **standard** seat. 
+The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
-- height adjustable headrest 
-- [heating](../../../../technology/seats/adjustment/#heating) 
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 1 different materials/colors for this seat type. <br />
+You can choose from 1 different materials/colors for this seat type.<br />
 <br />
 
 
@@ -111,7 +111,7 @@ You can choose from 1 different materials/colors for this seat type. <br />
 
 
 
-The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
@@ -119,17 +119,17 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/secondrowseats_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather. 
+There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
 ## Comfort
 
-Subaru Solterra AWD has several features to make your life as a driver or passenger more comfortable. 
+Subaru Solterra AWD has several features to make your life as a driver or passenger more comfortable.
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,11 +137,11 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Two different screen setups are available on the Subaru Solterra AWD. 
+Two different screen setups are available on the Subaru Solterra AWD.
 
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large. The touch screen at the top of the center console is 8.9 inches large. 
+The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large . The touch screen at the top of the center console is 8.9 inches large .
 
-The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large. The touch screen at the top of the center console is 12.3 inches large. 
+The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large . The touch screen at the top of the center console is 12.3 inches large .
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -150,14 +150,14 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Subaru Solterra AWD. With the Toyota, you get six speakers with a max system output of  watts. With the JBL Premium Sound, you get nine speakers with a max system output of  watts. 
+You can choose between two sound systems on the Subaru Solterra AWD. With the Toyota, you get six speakers with a max system output of  watts. With the JBL Premium Sound, you get nine speakers with a max system output of  watts.
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Subaru Solterra AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Subaru Solterra AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-The model has 4 USB-C connections as standard. 
+The model has 4 USB-C connections as standard.
 ## Lights
 
-You can choose between two types of headlights for the Subaru Solterra AWD. The standard headlights use LED technology.  Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.  In addition, the standard taillights use LED technology. 
+You can choose between two types of headlights for the Subaru Solterra AWD. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/headlights_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
@@ -171,20 +171,20 @@ The Subaru Solterra AWD has several standard and optional [advanced driver assis
 
 The Subaru Solterra AWD has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions. 
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
 
 The Subaru Solterra AWD has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
 
 
-With the standard system the model offers no driving automation. 
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+With the standard system the model offers no driving automation.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
 {{<evkxdisplayaddarticle />}}

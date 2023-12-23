@@ -33,19 +33,19 @@ The Peugot E-208 has a maximum power of 115 KW (156 hp/154 bhp). The total torqu
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 51kWh and a net capacity of 48,1kWh, meaning you have a 2,9kWh buffer for protection. (5,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
+The battery has a gross capacity of 51kWh and a net capacity of 48,1kWh, meaning you have a 2,9kWh buffer for protection. (5,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
- The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi).   The consumption is 12.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 12.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 57%, resulting in an actual charge speed, including time loss, of 65kW. Each charge session would take 23 minutes and 23 seconds. 
+The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 57%, resulting in an actual charge speed, including time loss, of 65kW. Each charge session would take 23 minutes and 23 seconds.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 22 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 22 minutes.
 
 ### Charge port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -53,26 +53,26 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Peugot E-208 has an all-wheel drive system supported by two motors, one on each axle. 
+Peugot E-208 has an all-wheel drive system supported by two motors, one on each axle.
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm.
 
 ### Brakes
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model. 
-Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches. 
+You can choose between 5 different paint colors when ordering this model.
+Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model. 
+There is only one roof for this model.
 
-You can order the car with tinted windows from B-pillar and back. 
+You can order the car with tinted windows from B-pillar and back.
 
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
@@ -84,19 +84,19 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear. 
+The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 
-Only one front seat type is available in the Peugot E-208. 
+Only one front seat type is available in the Peugot E-208.
 
-The following functionalities are available on the **standard** seat. 
+The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type. 
+You can choose from 4 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -112,10 +112,10 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available.
 
 ## Climate system
 
@@ -123,11 +123,11 @@ There is one climate system available. This model has a [heat pump](../../../../
 
 ## Comfort
 
-Peugot E-208 has several features to make your life as a driver or passenger more comfortable. 
+Peugot E-208 has several features to make your life as a driver or passenger more comfortable.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
 
-Keyless go makes it possible to start the car without using the key. 
+Keyless go makes it possible to start the car without using the key.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +135,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 10.3 inches large. 
+The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large . The touch screen on the dashboard's center  is 10.3 inches large .
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -144,14 +144,14 @@ A head-up display is a standard system that presents speed and other important d
 
 ## Infotainment
 
-One type of sound system is available for the Peugot E-208. With the , you get NULL speakers with a max system output of  watts. 
+One type of sound system is available for the Peugot E-208. With the , you get NULL speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-208 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-208 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/headlights_1_st.jpg" title="Peugot E-208" width="3000" height="2000"  >}}
@@ -173,8 +173,8 @@ The Peugot E-208 has [**automatic emergency braking**](../../../../technology/dr
 
 The Peugot E-208 offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the DS Drive Assist  level 1 system, you get the following driving automation features. 
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+With the DS Drive Assist  level 1 system, you get the following driving automation features.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
 {{<evkxdisplayaddarticle />}}

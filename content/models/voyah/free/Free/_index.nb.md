@@ -29,23 +29,23 @@ Vi har delt vår VOYAH FREE-artikkel i seksjoner. Hvis du vil vente med å lese 
 
 ## Ytelse
 
-VOYAH FREE har en maksimal effekt på 360KW (490hk).Totalt dreiemoment er 720nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Topphastigheten er 200 km/t.
+VOYAH FREE har en maksimal effekt på 360KW (490hk). Totalt dreiemoment er 720nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 106kWh og en nettokapasitet på 100kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (5,7%).
 
- [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 500 km (311 mi). Forbruket er 20.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side. 
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 500 km (311 mi). Forbruket er 20.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 97 minutter, mens et mer vanlig scenario på 10-80 % vil ta 60 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 15% til 83%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 63 minutter og 34 sekunder. 
+Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 97 minutter, mens et mer vanlig scenario på 10-80 % vil ta 60 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 15% til 83%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 63 minutter og 34 sekunder.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 9 timer og 5 minutter. 
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 9 timer og 5 minutter.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. 
+Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -53,25 +53,25 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 ## Drivverk
 
-VOYAH FREE har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. 
+VOYAH FREE har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 118 mm, og maksimum er 213 mm. 
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 118 mm, og maksimum er 213 mm.
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). 
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. 
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv.
 
 ## Eksteriør
 
-Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen. 
+Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. exterior.roof.standard.panoramic.FullFixed.ElectrochromicMultipleLevels
 
-Vutene fra B-stolpen og baksiden er tonet. 
+Vutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
@@ -83,22 +83,22 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak. 
+Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
-Bare én type forsete er tilgjengelig i VOYAH FREE. 
+Bare én type forsete er tilgjengelig i VOYAH FREE.
 
-Følgende funksjoner er tilgjengelige på **** setet. 
+Følgende funksjoner er tilgjengelige på **** setet.
 
-- elektrisk justering 
-- høydejusterbar hodestøtte 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) 
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massasje](../../../../technology/seats/adjustment/#massage) 
+- elektrisk justering
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen. 
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
@@ -110,10 +110,10 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige. 
+Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 
-Det er bare én type ratt tilgjengelig. 
+Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
@@ -121,9 +121,9 @@ Det er ett tilgjengelig klimasystem. Denne modellen har en [varmepumpe](../../..
 
 ## Komfort
 
-VOYAH FREE har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt. 
+VOYAH FREE har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
 
-Du har trådløs lading for telefonen din. 
+Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -131,7 +131,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-VOYAH FREE har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. -skjermen i dashbordets sentrum er 12.3 tommer stor. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor. 
+VOYAH FREE har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor . -skjermen i dashbordets sentrum er 12.3 tommer stor . -skjermen foran passasjeren i dashbordet er 12.3 tommer stor .
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -140,14 +140,14 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for VOYAH FREE. Med DYNAUDIO HIFI Sound system får du NULL høyttalere med en maksimal systemeffekt på  watt. 
+Én type lydsystem er tilgjengelig for VOYAH FREE. Med DYNAUDIO HIFI Sound system får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. 
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard. 
+Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
 ## Lys
 
-Standardlyktene bruker LED-teknologi. 
+Standardlyktene bruker LED-teknologi.
 ## Avanserte førerassistentsystemer
 
 VOYAH FREE har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
@@ -157,16 +157,16 @@ VOYAH FREE har flere standard og valgfrie [avanserte førerassistentsystemer](..
 
 VOYAH FREE har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-VOYAH FREE har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold. 
+VOYAH FREE har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-VOYAH FREE har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet.I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+VOYAH FREE har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
 ### Kjøreautomatisering
 
 
 
-Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner. 
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
 
 

@@ -33,19 +33,19 @@ The Peugot E-3008 Long Range has a maximum power of 170 KW (231 hp/228 bhp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98kWh and a net capacity of 98kWh, meaning you have a 0kWh buffer for protection. (0,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
+The battery has a gross capacity of 98kWh and a net capacity of 98kWh, meaning you have a 0kWh buffer for protection. (0,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
- The [WLTP range](../../../../guides/understandingrange/wltp/) is 700 km (435 mi).   The consumption is 14.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 700 km (435 mi). The consumption is 14.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 110 minutes, while a more common scenario of 10-80% would take 56 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 56%, resulting in an actual charge speed, including time loss, of 74kW. Each charge session would take 41 minutes and 45 seconds. 
+The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 110 minutes, while a more common scenario of 10-80% would take 56 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 56%, resulting in an actual charge speed, including time loss, of 74kW. Each charge session would take 41 minutes and 45 seconds.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 54 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 54 minutes.
 
 ### Charge port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -53,26 +53,26 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Peugot E-3008 Long Range has a front-wheel drive system supported by one motor on the front axle. 
+Peugot E-3008 Long Range has a front-wheel drive system supported by one motor on the front axle.
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 200 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 200 mm.
 
 ### Brakes
 
 
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. 
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model. 
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches. 
+You can choose between 6 different paint colors when ordering this model.
+Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model. 
+There is only one roof for this model.
 
-You can order the car with tinted windows from B-pillar and back. 
+You can order the car with tinted windows from B-pillar and back.
 
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/exterior_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="1666"  >}}
@@ -84,19 +84,19 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear. 
+The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 
-Only one front seat type is available in the Peugot E-3008 Long Range. 
+Only one front seat type is available in the Peugot E-3008 Long Range.
 
-The following functionalities are available on the **standard** seat. 
+The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type. 
+You can choose from 4 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -112,10 +112,10 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available.
 
 ## Climate system
 
@@ -123,11 +123,11 @@ There is one climate system available. This model has a [heat pump](../../../../
 
 ## Comfort
 
-Peugot E-3008 Long Range has several features to make your life as a driver or passenger more comfortable. 
+Peugot E-3008 Long Range has several features to make your life as a driver or passenger more comfortable.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
 
-Keyless go makes it possible to start the car without using the key. 
+Keyless go makes it possible to start the car without using the key.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +135,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 10.3 inches large. 
+The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large . The touch screen on the dashboard's center  is 10.3 inches large .
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -144,14 +144,14 @@ A head-up display is a standard system that presents speed and other important d
 
 ## Infotainment
 
-One type of sound system is available for the Peugot E-3008 Long Range. With the , you get NULL speakers with a max system output of  watts. 
+One type of sound system is available for the Peugot E-3008 Long Range. With the , you get NULL speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.   In addition, the standard taillights use LED technology. 
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/headlights_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
@@ -173,8 +173,8 @@ The Peugot E-3008 Long Range has [**automatic emergency braking**](../../../../t
 
 The Peugot E-3008 Long Range offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the DS Drive Assist  level 1 system, you get the following driving automation features. 
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+With the DS Drive Assist  level 1 system, you get the following driving automation features.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -183,6 +183,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 434 liters. With the rear seat down, it is 1467 liters. The maxium weight of the car is 2030 kg (4475 lbs), and with the base weight of 1573 kg (3468 lbs), you can max load 457 kg (1008 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.457kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers. 
+The cargo capacity in the trunk is 434 liters. With the rear seat down, it is 1467 liters. The maxium weight of the car is 2030 kg (4475 lbs), and with the base weight of 1573 kg (3468 lbs), you can max load 457 kg (1008 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 457kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.

@@ -33,17 +33,17 @@ The MG MG4 Electric Extended Range has a maximum power of 150 KW (204 hp/201 bhp
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77kWh and a net capacity of 74,4kWh, meaning you have a 2,6kWh buffer for protection. (3,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc) 
+The battery has a gross capacity of 77kWh and a net capacity of 74,4kWh, meaning you have a 2,6kWh buffer for protection. (3,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
- The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi).   The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 101 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 58%, resulting in an actual charge speed, including time loss, of 100kW. Each charge session would take 25 minutes and 33 seconds. 
+The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 101 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 58%, resulting in an actual charge speed, including time loss, of 100kW. Each charge session would take 25 minutes and 33 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 43 minutes. This trip will require three charge session(s) charging from 2% to 63%. The total time lost for charging up the battery will be 83 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 45 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 45 minutes.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/charging_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2249"  >}}
@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW c
 
 ### Charge port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -59,19 +59,19 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-MG MG4 Electric Extended Range has a rear-wheel drive system supported by one motor on the rear axle. 
+MG MG4 Electric Extended Range has a rear-wheel drive system supported by one motor on the rear axle.
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). 
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving).
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model. 
+You can choose between 7 different paint colors when ordering this model.
 
 
 
@@ -87,17 +87,17 @@ There is only one roof for this model. As an option, you can order this model wi
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. 
+You can choose between different types of seat materials and interior styling.
 
 ### First row seats
 
-Only one front seat type is available in the MG MG4 Electric Extended Range. 
+Only one front seat type is available in the MG MG4 Electric Extended Range.
 
-The following functionalities are available on the **standard** seat. 
+The following functionalities are available on the **standard** seat.
 
-- electric adjustment 
+- electric adjustment
 
-You can choose from 2 different materials/colors for this seat type. 
+You can choose from 2 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -111,14 +111,14 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/secondrowseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available.
 
 ## Climate system
 
@@ -126,11 +126,11 @@ There is one climate system available. The  climate system supports only control
 
 ## Comfort
 
-MG MG4 Electric Extended Range has several features to make your life as a driver or passenger more comfortable. 
+MG MG4 Electric Extended Range has several features to make your life as a driver or passenger more comfortable.
 
-Keyless go makes it possible to start the car without using the key. 
+Keyless go makes it possible to start the car without using the key.
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,22 +138,22 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large. The touch screen at the top of the center console is 10.2 inches large. 
+The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large . The touch screen at the top of the center console is 10.2 inches large .
 The model is not available with head-up display.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/screens_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands. 
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
 
 ## Infotainment
 
-One type of sound system is available for the MG MG4 Electric Extended Range. With the , you get NULL speakers with a max system output of  watts. 
+One type of sound system is available for the MG MG4 Electric Extended Range. With the , you get NULL speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG4 Electric Extended Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG MG4 Electric Extended Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard. 
+The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 ## Lights
 
 
@@ -174,8 +174,8 @@ The MG MG4 Electric Extended Range has a [**lane-keeping assist**](../../../../t
 
 
 
-With the   level 2 system, you get the following driving automation features. 
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+With the   level 2 system, you get the following driving automation features.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 

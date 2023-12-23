@@ -33,11 +33,11 @@ The Honda e:Ny1 has a maximum power of 150 KW (204 hp/201 bhp). The total torque
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 68,8kWh and a net capacity of 61,9kWh, meaning you have a 6,9kWh buffer for protection. (10,0%). 
+The battery has a gross capacity of 68,8kWh and a net capacity of 61,9kWh, meaning you have a 6,9kWh buffer for protection. (10,0%).
 
- The [WLTP range](../../../../guides/understandingrange/wltp/) is 412 km (256 mi).   The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 412 km (256 mi). The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 92%, resulting in an actual charge speed, including time loss, of 62kW. Each charge session would take 51 minutes and 28 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 92%, resulting in an actual charge speed, including time loss, of 62kW. Each charge session would take 51 minutes and 28 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 11 hours and 18 minutes. This trip will require four charge session(s) charging from 16% to 90%. The total time lost for charging up the battery will be 179 minutes.
 
@@ -47,7 +47,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Charge port
 
-The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. 
+The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -57,7 +57,7 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 drivetrain.drivesetup.NotSet
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm. 
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm.
 
 ### Brakes
 
@@ -67,11 +67,11 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model. 
+You can choose between 1 different paint colors when ordering this model.
 
 
 
-There is only one roof for this model. 
+There is only one roof for this model.
 
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
@@ -87,27 +87,27 @@ There is only one roof for this model.
 
 ### First row seats
 
-Only one front seat type is available in the Honda e:Ny1. 
+Only one front seat type is available in the Honda e:Ny1.
 
-The following functionalities are available on the **** seat. 
+The following functionalities are available on the **** seat.
 
 
 ### Second-row seat
 
 
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. 
+There is one climate system available.
 
 ## Comfort
 
-Honda e:Ny1 has several features to make your life as a driver or passenger more comfortable. 
+Honda e:Ny1 has several features to make your life as a driver or passenger more comfortable.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -115,7 +115,7 @@ Honda e:Ny1 has several features to make your life as a driver or passenger more
 
 ## User interface and control
 
-The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large. The touch screen at the top of the center console is 15.2 inches large. 
+The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large . The touch screen at the top of the center console is 15.2 inches large .
 The model is not available with head-up display.
 
 
@@ -124,7 +124,7 @@ The model is not available with head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the Honda e:Ny1. With the , you get NULL speakers with a max system output of  watts. 
+One type of sound system is available for the Honda e:Ny1. With the , you get NULL speakers with a max system output of  watts.
 
 
 ## Lights
@@ -145,7 +145,7 @@ The Honda e:Ny1 has several standard and optional [advanced driver assistance sy
 
 
 
-With the standard system the model offers no driving automation. 
+With the standard system the model offers no driving automation.
 
 
 {{<evkxdisplayaddarticle />}}

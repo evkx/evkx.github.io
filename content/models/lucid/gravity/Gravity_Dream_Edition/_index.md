@@ -33,21 +33,21 @@ The Lucid Gravity Dream Edition has a maximum power of 600 KW (816 hp/805 bhp). 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 124kWh and a net capacity of 122kWh, meaning you have a 2kWh buffer for protection. (1,6%). 
+The battery has a gross capacity of 124kWh and a net capacity of 122kWh, meaning you have a 2kWh buffer for protection. (1,6%).
 
- The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km).   The consumption is 3.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page. 
+The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km). The consumption is 3.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 81 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 45%, resulting in an actual charge speed, including time loss, of 176kW. Each charge session would take 18 minutes and 16 seconds. 
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 81 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 45%, resulting in an actual charge speed, including time loss, of 176kW. Each charge session would take 18 minutes and 16 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 8 hours and 51 minutes. This trip will require two charge session(s) charging from 1% to 38%. The total time lost for charging up the battery will be 31 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 32 minutes. 
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 32 minutes.
 
 ### Charge port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger.  The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. See full specifications for all markets. 
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -55,28 +55,28 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Lucid Gravity Dream Edition has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/). 
+Lucid Gravity Dream Edition has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 155 mm. 
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 155 mm.
 
-You can order Lucid Gravity Dream Edition with an alternative  suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 155 mm, and the maximum is 220 mm. 
+You can order Lucid Gravity Dream Edition with an alternative  suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 155 mm, and the maximum is 220 mm.
 
 ### Steering
 
-Dynamic steering is a standard feature on the Lucid Gravity Dream Edition. Dynamic steering varies the steering ratio as a function of driving speed. 
+Dynamic steering is a standard feature on the Lucid Gravity Dream Edition. Dynamic steering varies the steering ratio as a function of driving speed.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 386mm, and the rear discs are 381mm. 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 386mm, and the rear discs are 381mm.
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. The system stops the car completely using friction brakes. 
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. The system stops the car completely using friction brakes.
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model. 
-Additionally, you can choose between 6 wheels with sizes from 20 to 23 inches. 
+You can choose between 7 different paint colors when ordering this model.
+Additionally, you can choose between 6 wheels with sizes from 20 to 23 inches.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). 
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -90,26 +90,26 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 ## Interior
 
-You can choose between several interior designs. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row. 
+You can choose between several interior designs. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
 
 ### First row seats
 
-Only one front seat type is available in the Lucid Gravity Dream Edition. 
+Only one front seat type is available in the Lucid Gravity Dream Edition.
 
-The following functionalities are available on the **standard** seat. 
+The following functionalities are available on the **standard** seat.
 
-- electric adjustment 
-- length adjustable headrest 
-- [heating](../../../../technology/seats/adjustment/#heating) 
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) 
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) 
-- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) 
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) 
-- integrated headrest 
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) 
-- [massage](../../../../technology/seats/adjustment/#massage) 
+- electric adjustment
+- length adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- integrated headrest
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 4 different materials/colors for this seat type. 
+You can choose from 4 different materials/colors for this seat type.
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -125,9 +125,9 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space.  In addition, the following functionalities are available. 
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-- [heating](../../../../technology/seats/adjustment/#heating) 
+- [heating](../../../../technology/seats/adjustment/#heating)
 
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
@@ -137,25 +137,25 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 
-The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity. 
+The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
-There is only one type of steering wheel available. 
+There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump. 
+There is one climate system available. The  climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort
 
-Lucid Gravity Dream Edition has several features to make your life as a driver or passenger more comfortable. 
+Lucid Gravity Dream Edition has several features to make your life as a driver or passenger more comfortable.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open. 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
 
-Keyless go makes it possible to start the car without using the key. 
+Keyless go makes it possible to start the car without using the key.
 
-The steering wheel is electrically adjustable. 
+The steering wheel is electrically adjustable.
 
-You have wireless charging for your phone.  
+You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -163,7 +163,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The touch screen behind the steering wheel accross the the center of the dash  is 34.0 inches large. The touch screen in the middle of the center console is 12.0 inches large. 
+The touch screen behind the steering wheel accross the the center of the dash  is 34.0 inches large . The touch screen in the middle of the center console is 12.0 inches large .
 The model is not available with head-up display.
 
 
@@ -172,14 +172,14 @@ The model is not available with head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the Lucid Gravity Dream Edition. With the Surreal Sound Pro System, you get 22 speakers with a max system output of  watts. 
+One type of sound system is available for the Lucid Gravity Dream Edition. With the Surreal Sound Pro System, you get 22 speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 
-The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard. 
+The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 ## Lights
 
-The standard headlights use LED technology.  
+The standard headlights use LED technology.
 
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/headlights_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1999"  >}}
@@ -193,22 +193,22 @@ The Lucid Gravity Dream Edition has several standard and optional [advanced driv
 
 The Lucid Gravity Dream Edition has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Lucid Gravity Dream Edition has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions. 
+The Lucid Gravity Dream Edition has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
 The Lucid Gravity Dream Edition has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position. 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency. 
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots. 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
 
 
-With the ADAS  level 2 system, you get the following driving automation features. 
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/) 
+With the ADAS  level 2 system, you get the following driving automation features.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
