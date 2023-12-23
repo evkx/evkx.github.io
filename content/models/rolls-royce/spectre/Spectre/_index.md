@@ -226,4 +226,4 @@ The cargo capacity in the trunk is 500 liters. The maxium weight of the car is 3
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 18.10.2022, and deliveries started in December 2023.
+This model had a world premiere on 18.10.2022, and deliveries started in December 2023. 

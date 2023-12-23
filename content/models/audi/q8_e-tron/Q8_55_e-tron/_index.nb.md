@@ -295,4 +295,4 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 09.11.2022, og leveringene startet i March 2023.
+Denne modellen hadde verdenspremiere 09.11.2022, og leveringene startet i March 2023.Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten. 

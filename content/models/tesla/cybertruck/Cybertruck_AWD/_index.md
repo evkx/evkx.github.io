@@ -230,4 +230,4 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ### Availability & Pricing
 
-This model had a world premiere on 30.11.2023, and deliveries started in November 2023.This model is only available in North-America. 
+This model had a world premiere on 30.11.2023, and deliveries started in November 2023. This model is only available in North-America. 
