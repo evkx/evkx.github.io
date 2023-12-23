@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Nio ET9. Click on im
 				Electrical torque output
 			</td>
 			<td>
-				700 nm (517 ft-lb)
+				900 nm (664 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -209,7 +209,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12,4 meter (488,2")
+				10,9 meter (429,1")
 			</td>
 		</tr>
 	</tbody>
@@ -331,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				168 mm (6,6")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				88 mm (3,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>

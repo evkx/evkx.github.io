@@ -29,7 +29,7 @@ We have separated our Nio ET9 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio ET9 has a maximum power of 520 KW (707 hp/697 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 200 km/h.
+The Nio ET9 has a maximum power of 520 KW (707 hp/697 bhp). The total torque is 900 nm (664 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -60,11 +60,11 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio ET9 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
-The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The  suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 88 mm.
+The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The  suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 150 mm.
 
 ### Steering
 
-Dynamic steering is a standard feature on the Nio ET9. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard feature on the Nio ET9. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
