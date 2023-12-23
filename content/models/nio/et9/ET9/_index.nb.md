@@ -1,7 +1,7 @@
 ---
 title: Nio ET9
 linktitle: "ET9"
-description: "Nio ET9 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. "
+description: "Nio ET9 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 720 km (448 miles). EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ Nio ET9 har en maksimal effekt på 520KW (707hk). Totalt dreiemoment er 700nm. D
 
 Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 112kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (6,7%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 580 til 505 km (361-314 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 19.3kWh/100 km for basisversjonen og 22.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 720 km (448 mi). Forbruket er 15.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 126kW. En full lading fra 0 - 100 % vil ta 94 minutter, mens et mer vanlig scenario på 10-80 % vil ta 52 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 40%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 29 minutter og 20 sekunder.
+Maksimal DC-ladehastighet er 600kW. En full lading fra 0 - 100 % vil ta 31 minutter, mens et mer vanlig scenario på 10-80 % vil ta 14 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 266kW. Hver ladeøkt vil ta 15 minutter og 41 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 34 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 50%. Totalt tapt tid for å lade opp batteriet vil være 75 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 8 timer og 45 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 6% til 55%. Totalt tapt tid for å lade opp batteriet vil være 25 minutter.
 
 ### Ombordlader
 
@@ -75,7 +75,6 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Myk lukking er standard-funksjon for sidedørene.
 
@@ -91,7 +90,7 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Du kan velge mellom ulike typer seter, setematerialer og interiørstil.
 
 ### Forseter
 
@@ -117,12 +116,14 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.<br />
 
 
 
-Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive- seter). I tillegg er følgende funksjoner tilgjengelige.
 
 - elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
+- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
@@ -152,7 +153,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 12.3 tommer stor .
+-skjermen bak rattet montert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 18.0 tommer stor .
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.

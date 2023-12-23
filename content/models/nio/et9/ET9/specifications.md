@@ -80,114 +80,26 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				580 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
-			</td>
-			<td>
-				19,3 kWh/100km
+				720 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
+			</td>
+			<td>
+				15,6 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
 				19,0 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
-			</td>
-			<td>
-				505 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
-			</td>
-			<td>
-				22,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
-			</td>
-			<td>
-				22,7 kwh/100km
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
-<table class="table table-striped">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
-			</td>
-			<td>
-				445 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
-			</td>
-			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
-			</td>
-			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
-			</td>
-			<td>
-				385 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
-			</td>
-			<td>
-				22,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
-			</td>
-			<td>
-				22,3 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -230,15 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				126 kW
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/batterypack/">Pack Configuration</a>
-			</td>
-			<td>
-				96s1p
+				600 kW
 			</td>
 		</tr>
 		<tr>
@@ -246,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				358
+				925
 			</td>
 		</tr>
 	</tbody>
@@ -491,7 +395,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
-This model is available with a seat configuration with five seats.
+This model is available with a seat configuration with four seats.
 
 ### Front seats
 
@@ -655,7 +559,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				ThreeSeatBench
+				TwinExecutive
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +623,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +631,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1049,7 +953,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12,3"
+				Yes, 18"
 			</td>
 		</tr>
 		<tr>

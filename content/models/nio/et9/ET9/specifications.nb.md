@@ -80,114 +80,26 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde
 			</td>
 			<td>
-				580 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Basic trim WLTP-forbruk
-			</td>
-			<td>
-				19,3 kWh/100km
+				720 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk
+			</td>
+			<td>
+				15,6 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk med ladetap
 			</td>
 			<td>
 				19,0 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-rekkevidde
-			</td>
-			<td>
-				505 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk
-			</td>
-			<td>
-				22,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk med ladetap
-			</td>
-			<td>
-				22,7 kwh/100km
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
-<table class="table table-striped">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				WLTP-område for grunnleggende trim
-			</td>
-			<td>
-				445 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Basic trim WLTP-forbruk
-			</td>
-			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Basic trim WLTP-forbruk med ladetap
-			</td>
-			<td>
-				19,3 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-rekkevidde
-			</td>
-			<td>
-				385 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk
-			</td>
-			<td>
-				22,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk med ladetap
-			</td>
-			<td>
-				22,3 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -230,15 +142,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				126 kW
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Pakkekonfigurasjon
-			</td>
-			<td>
-				96s1p
+				600 kW
 			</td>
 		</tr>
 		<tr>
@@ -246,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				358
+				925
 			</td>
 		</tr>
 	</tbody>
@@ -491,7 +395,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
+Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 
 ### Forseter
 
@@ -655,7 +559,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				ThreeSeatBench
+				TwinExecutive
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +623,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +631,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1049,7 +953,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 18
 			</td>
 		</tr>
 		<tr>
