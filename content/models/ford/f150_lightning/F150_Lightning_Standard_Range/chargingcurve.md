@@ -1,6 +1,6 @@
 ---
 title: Ford F150 Lightning Standard Range charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Ford F150 Lightning Standard Range. "
 weight: 10
 hidden: true

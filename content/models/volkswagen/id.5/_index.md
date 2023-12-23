@@ -16,7 +16,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -34,7 +34,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -52,7 +52,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.5_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_pro/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_pro/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -72,7 +72,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="id.5_gtx_4motion_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>

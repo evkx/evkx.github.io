@@ -16,7 +16,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_450plus_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -34,7 +34,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_450_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -52,7 +52,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_580_4matic_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -70,7 +70,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eqs_680_suv/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>

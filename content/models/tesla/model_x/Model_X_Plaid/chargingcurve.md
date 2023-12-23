@@ -1,6 +1,6 @@
 ---
 title: Tesla Model X Plaid charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Tesla Model X Plaid. "
 weight: 10
 hidden: true

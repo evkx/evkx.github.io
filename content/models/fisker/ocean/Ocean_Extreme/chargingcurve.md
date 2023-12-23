@@ -1,6 +1,6 @@
 ---
 title: Fisker Ocean Extreme charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Fisker Ocean Extreme. "
 weight: 10
 hidden: true

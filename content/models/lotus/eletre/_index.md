@@ -16,7 +16,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="eletre/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eletre/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -34,7 +34,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="eletre_r/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre_r/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eletre_r/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_r/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre_r/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre_r/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre_r/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -52,7 +52,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="eletre_s/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre_s/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="eletre_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="eletre_s/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre_s/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre_s/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="eletre_s/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>

@@ -16,7 +16,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_3_long_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_3_long_range/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -34,7 +34,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="model_3_performance/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_performance/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_3_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_3_performance/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_performance/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_performance/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_performance/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -52,7 +52,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="model_3/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_3/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_3/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -72,7 +72,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range_gen1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_3_long_range_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_3_long_range_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_long_range_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -90,7 +90,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="model_3_gen1/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_gen1/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="model_3_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="model_3_gen1/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_gen1/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_gen1/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="model_3_gen1/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>

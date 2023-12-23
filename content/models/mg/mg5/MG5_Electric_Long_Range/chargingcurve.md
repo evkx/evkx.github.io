@@ -1,6 +1,6 @@
 ---
 title: MG MG5 Electric Long Range charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for MG MG5 Electric Long Range. "
 weight: 10
 hidden: true

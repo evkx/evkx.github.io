@@ -1,6 +1,6 @@
 ---
 title: Volvo XC40 Recharge Twin Motor charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Volvo XC40 Recharge Twin Motor. "
 weight: 10
 hidden: true

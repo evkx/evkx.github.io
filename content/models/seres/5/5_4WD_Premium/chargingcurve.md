@@ -1,6 +1,6 @@
 ---
 title: Seres 5 4WD Premium charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Seres 5 4WD Premium. "
 weight: 10
 hidden: true

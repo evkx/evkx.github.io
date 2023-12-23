@@ -16,7 +16,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_comfort/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_comfort/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="e-hs9_comfort/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-hs9_comfort/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_comfort/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_comfort/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_comfort/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -34,7 +34,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusive/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusive/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusive/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusive/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusive/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusive/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusive/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -52,7 +52,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusiveplus/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusiveplus/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusiveplus/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusiveplus/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusiveplus/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusiveplus/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_exclusiveplus/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
@@ -70,7 +70,7 @@ weight: 30
 			<ul class="list-group list-group-flush">
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_premium/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_premium/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
-				<li class="list-group-item list-group-item-action"><a href="e-hs9_premium/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Chargingcurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="e-hs9_premium/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_premium/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_premium/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="e-hs9_premium/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>

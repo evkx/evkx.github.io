@@ -1,6 +1,6 @@
 ---
 title: Tesla Cybertruck AWD charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Tesla Cybertruck AWD. "
 weight: 10
 hidden: true

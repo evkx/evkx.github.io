@@ -1,6 +1,6 @@
 ---
 title: Tesla Model Y Long Range charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Tesla Model Y Long Range. "
 weight: 10
 hidden: true

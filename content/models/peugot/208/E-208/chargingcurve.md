@@ -1,6 +1,6 @@
 ---
 title: Peugot E-208 charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Peugot E-208. "
 weight: 10
 hidden: true

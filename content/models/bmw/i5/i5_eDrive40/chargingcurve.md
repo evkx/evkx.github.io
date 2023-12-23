@@ -1,6 +1,6 @@
 ---
 title: BMW i5 eDrive40 charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for BMW i5 eDrive40. "
 weight: 10
 hidden: true

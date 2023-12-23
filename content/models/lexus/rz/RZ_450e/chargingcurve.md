@@ -1,6 +1,6 @@
 ---
 title: Lexus RZ 450e charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Lexus RZ 450e. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: BYD Atto 3 charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for BYD Atto 3. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Jaguar I-Pace EV400 charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Jaguar I-Pace EV400. "
 weight: 10
 hidden: true

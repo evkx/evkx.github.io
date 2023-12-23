@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan Turbo charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Porsche Taycan Turbo. "
 weight: 10
 hidden: true

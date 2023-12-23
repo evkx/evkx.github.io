@@ -1,6 +1,6 @@
 ---
 title: Rivian R1S Quad-Motor AWD charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Rivian R1S Quad-Motor AWD. "
 weight: 10
 hidden: true

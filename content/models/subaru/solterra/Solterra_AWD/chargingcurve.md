@@ -1,6 +1,6 @@
 ---
 title: Subaru Solterra AWD charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Subaru Solterra AWD. "
 weight: 10
 hidden: true

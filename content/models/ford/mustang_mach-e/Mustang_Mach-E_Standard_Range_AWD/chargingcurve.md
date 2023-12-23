@@ -1,6 +1,6 @@
 ---
 title: Ford Mustang Mach-E Standard Range AWD charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Ford Mustang Mach-E Standard Range AWD. "
 weight: 10
 hidden: true

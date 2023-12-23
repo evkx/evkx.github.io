@@ -1,6 +1,6 @@
 ---
 title: Mercedes-EQ EQE 350+ charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Mercedes-EQ EQE 350+. "
 weight: 10
 hidden: true

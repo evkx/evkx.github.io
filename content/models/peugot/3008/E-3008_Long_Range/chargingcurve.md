@@ -1,6 +1,6 @@
 ---
 title: Peugot E-3008 Long Range charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Peugot E-3008 Long Range. "
 weight: 10
 hidden: true

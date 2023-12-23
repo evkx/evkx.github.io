@@ -1,6 +1,6 @@
 ---
 title: BMW i7 xDrive60 charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for BMW i7 xDrive60. "
 weight: 10
 hidden: true

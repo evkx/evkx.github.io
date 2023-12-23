@@ -1,6 +1,6 @@
 ---
 title: Zeekr 001 FR charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Zeekr 001 FR. "
 weight: 10
 hidden: true

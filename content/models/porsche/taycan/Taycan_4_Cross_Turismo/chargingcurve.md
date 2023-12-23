@@ -1,6 +1,6 @@
 ---
 title: Porsche Taycan 4 Cross Turismo charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Porsche Taycan 4 Cross Turismo. "
 weight: 10
 hidden: true

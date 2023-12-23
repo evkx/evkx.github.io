@@ -1,6 +1,6 @@
 ---
 title: BMW iX M60 charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for BMW iX M60. "
 weight: 10
 hidden: true

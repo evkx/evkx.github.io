@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.5 Pro Performance charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Volkswagen ID.5 Pro Performance. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Citroën ë-C3 charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Citroën ë-C3. "
 weight: 10
 hidden: true

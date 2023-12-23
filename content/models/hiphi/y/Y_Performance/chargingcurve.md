@@ -1,6 +1,6 @@
 ---
 title: HiPhi Y Performance charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for HiPhi Y Performance. "
 weight: 10
 hidden: true

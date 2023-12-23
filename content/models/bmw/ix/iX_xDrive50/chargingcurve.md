@@ -1,6 +1,6 @@
 ---
 title: BMW iX xDrive50 charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for BMW iX xDrive50. "
 weight: 10
 hidden: true

@@ -1,6 +1,6 @@
 ---
 title: Volkswagen ID.5 GTX 4MOTION (GEN1) charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Volkswagen ID.5 GTX 4MOTION (GEN1). "
 weight: 10
 hidden: true

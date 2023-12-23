@@ -1,6 +1,6 @@
 ---
 title: MG MG4 Electric Extended Range charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for MG MG4 Electric Extended Range. "
 weight: 10
 hidden: true

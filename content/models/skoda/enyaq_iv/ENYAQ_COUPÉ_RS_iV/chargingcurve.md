@@ -1,6 +1,6 @@
 ---
 title: SKODA ENYAQ COUPÉ RS iV charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for SKODA ENYAQ COUPÉ RS iV. "
 weight: 10
 hidden: true

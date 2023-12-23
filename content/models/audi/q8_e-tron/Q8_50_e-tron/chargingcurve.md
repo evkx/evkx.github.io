@@ -1,6 +1,6 @@
 ---
 title: Audi Q8 50 e-tron charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Audi Q8 50 e-tron. "
 weight: 10
 hidden: true

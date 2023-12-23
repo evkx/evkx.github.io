@@ -1,6 +1,6 @@
 ---
 title: Cadillac LYRIQ AWD charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Cadillac LYRIQ AWD. "
 weight: 10
 hidden: true

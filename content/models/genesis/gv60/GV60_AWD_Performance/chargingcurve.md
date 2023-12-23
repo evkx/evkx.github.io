@@ -1,6 +1,6 @@
 ---
 title: Genesis GV60 AWD Performance charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Genesis GV60 AWD Performance. "
 weight: 10
 hidden: true

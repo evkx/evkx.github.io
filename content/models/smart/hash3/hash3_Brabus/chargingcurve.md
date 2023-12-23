@@ -1,6 +1,6 @@
 ---
 title: Smart #3 Brabus charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Smart #3 Brabus. "
 weight: 10
 hidden: true

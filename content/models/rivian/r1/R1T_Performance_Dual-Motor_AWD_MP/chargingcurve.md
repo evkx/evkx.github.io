@@ -1,6 +1,6 @@
 ---
 title: Rivian R1T Performance Dual-Motor AWD MP charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Rivian R1T Performance Dual-Motor AWD MP. "
 weight: 10
 hidden: true

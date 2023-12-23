@@ -1,6 +1,6 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Polestar 3 Long Range Dual Motor Performance. "
 weight: 10
 hidden: true

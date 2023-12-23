@@ -1,6 +1,6 @@
 ---
 title: Hyundai Kona Standard Range charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Hyundai Kona Standard Range. "
 weight: 10
 hidden: true

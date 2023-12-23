@@ -1,6 +1,6 @@
 ---
 title: Tesla Model 3 (GEN1) charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for Tesla Model 3 (GEN1). "
 weight: 10
 hidden: true

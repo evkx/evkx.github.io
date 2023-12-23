@@ -1,6 +1,6 @@
 ---
 title: VOYAH FREE charging curve & performance
-linktitle: "Chargingcurve"
+linktitle: "Charging curve"
 description: "Here you find the charging curve for VOYAH FREE. "
 weight: 10
 hidden: true
