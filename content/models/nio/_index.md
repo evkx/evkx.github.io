@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Nio has currently 5 all electric models with total 6 variants in the market. Below you find links for each model page.  
+Nio has currently 6 all electric models with total 7 variants in the market. Below you find links for each model page.  
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
 <h3> Nio EL6</h3>
@@ -65,6 +65,18 @@ This model is available in 2 variant(s).
 		<div class="col col-12 col-md-6">
 This model is available in 1 variant(s). 
 <a href="et7">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<h3> Nio ET9</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="et9"><img src="https://media.evkx.net/multimedia/models/nio/et9/et9/main_1_st.jpg" class="img-fluid" alt="Nio ET9" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+This model is available in 1 variant(s). 
+<a href="et9">Go to model info</a>
 		</div>
 	</div>
 </div>

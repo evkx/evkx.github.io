@@ -259,7 +259,7 @@ MG har 2 modell(er) med totalt 5 varianter.
 <a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid" alt="Nio" ></a>
 
 <h2>Nio</h2>
-Nio har 5 modell(er) med totalt 6 varianter. 
+Nio har 6 modell(er) med totalt 7 varianter. 
 
 <a href="nio/" class="btn btn-primary" role="button">Gå til Nio modelloversikt</a>
 </div>
