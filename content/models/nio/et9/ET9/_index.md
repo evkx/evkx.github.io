@@ -60,7 +60,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio ET9 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
-The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The  suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 150 mm.
+The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 150 mm, and the maximum is 200 mm.
 
 ### Steering
 
