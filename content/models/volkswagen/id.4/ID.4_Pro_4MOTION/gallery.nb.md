@@ -8,141 +8,141 @@ navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
 <div class="row" id ="my-gallery">
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1.jpg"
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_2.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_2_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_3.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_2_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_3.jpg"
 data-pswp-width="1795"
 data-pswp-height="1197" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_3_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_3_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/gearshifter_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/gearshifter_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/gearshifter_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/gearshifter_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/gearshifter_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/interior_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/headlights_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/interior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/interior_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/keyfob_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/interior_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/keyfob_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/keyfob_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/keyfob_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="111px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/keyfob_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/screens_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/taillights_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/taillights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/taillights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/taillights_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/taillights_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_2.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_1_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_2_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_3.jpg"
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_2_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_3.jpg"
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_3_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" width="200px" height="133px" />
-</a>
-</div>
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/trunk_3_xst.jpg" alt="Volkswagen ID.4 Pro 4MOTION" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

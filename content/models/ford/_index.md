@@ -16,7 +16,7 @@ Ford is investing $22 billion in electrification through 2025 as part of its pla
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Ford F150 Lightning is a Pick-Up Truck available in 2 variants.
+Ford F150 Lightning is a pickup truck available in 2 variants.
 </p>
 	<a href="f150_lightning/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

@@ -16,7 +16,7 @@ Tesla's EV models have been at the forefront of the electric vehicle revolution,
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Tesla Cybertruck is a Pick-Up Truck available in 2 variants.
+Tesla Cybertruck is a pickup truck available in 2 variants.
 </p>
 	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

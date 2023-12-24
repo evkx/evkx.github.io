@@ -8,78 +8,78 @@ navicon: bi-images
 ---
 <!-- markdownlint-disable MD033 -->
 <div class="row" id ="my-gallery">
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_1.jpg"
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_1_xst.jpg" alt="Audi Q8 55 e-tron" width="200px" height="149px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_2.jpg"
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_1_xst.jpg" alt="Audi Q8 55 e-tron" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_2_xst.jpg" alt="Audi Q8 55 e-tron" width="200px" height="149px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/frontseats_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/exterior_2_xst.jpg" alt="Audi Q8 55 e-tron" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/frontseats_1_xst.jpg" alt="Audi Q8 55 e-tron" width="200px" height="149px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/headlights_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/frontseats_1_xst.jpg" alt="Audi Q8 55 e-tron" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/headlights_1.jpg"
 data-pswp-width="2557"
 data-pswp-height="1353" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/headlights_1_xst.jpg" alt="Audi Q8 55 e-tron" width="200px" height="105px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/headlights_1_xst.jpg" alt="Audi Q8 55 e-tron" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1_xst.jpg" alt="Audi Q8 55 e-tron" width="200px" height="149px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/screens_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/main_1_xst.jpg" alt="Audi Q8 55 e-tron" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/screens_1_xst.jpg" alt="Audi Q8 55 e-tron" width="200px" height="149px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/screens_1_xst.jpg" alt="Audi Q8 55 e-tron" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1_xst.jpg" alt="Audi Q8 55 e-tron" width="200px" height="150px" />
-</a>
-</div>
-<div class="pswp-grid-item col-12 col-md-6 col-lg-4">
-<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/trunk_1.jpg"
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1_xst.jpg" alt="Audi Q8 55 e-tron" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/trunk_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/trunk_1_xst.jpg" alt="Audi Q8 55 e-tron" width="200px" height="149px" />
-</a>
-</div>
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_55_e-tron/trunk_1_xst.jpg" alt="Audi Q8 55 e-tron" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
