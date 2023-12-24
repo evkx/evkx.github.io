@@ -15,7 +15,7 @@ From 2025 onwards, all newly launched vehicle architectures will be electric-onl
 			<a href="eqa"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" class="img-fluid" alt="Mercedes EQA" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 3 variant(s). 
+Mercedes EQA is a premium crossover available in 3 variants.
 <a href="eqa">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 3 variant(s).
 			<a href="eqb"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" class="img-fluid" alt="Mercedes EQB" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 3 variant(s). 
+Mercedes EQB is a premium SUV available in 3 variants.
 <a href="eqb">Go to model info</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ This model is available in 3 variant(s).
 			<a href="eqc"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="Mercedes EQC" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Mercedes EQC is a luxury SUV available in 1 variants.
 <a href="eqc">Go to model info</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ This model is available in 1 variant(s).
 			<a href="eqe"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" class="img-fluid" alt="Mercedes EQE" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 6 variant(s). 
+Mercedes EQE is a luxury sedan available in 6 variants.
 <a href="eqe">Go to model info</a>
 		</div>
 	</div>
@@ -63,7 +63,7 @@ This model is available in 6 variant(s).
 			<a href="eqe_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" class="img-fluid" alt="Mercedes EQE SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 4 variant(s). 
+Mercedes EQE SUV is a luxury SUV available in 4 variants.
 <a href="eqe_suv">Go to model info</a>
 		</div>
 	</div>
@@ -75,7 +75,7 @@ This model is available in 4 variant(s).
 			<a href="eqs"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" class="img-fluid" alt="Mercedes EQS" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 5 variant(s). 
+Mercedes EQS is a luxury sedan available in 5 variants.
 <a href="eqs">Go to model info</a>
 		</div>
 	</div>
@@ -87,7 +87,7 @@ This model is available in 5 variant(s).
 			<a href="eqs_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" class="img-fluid" alt="Mercedes EQS SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 4 variant(s). 
+Mercedes EQS SUV is a luxury SUV available in 4 variants.
 <a href="eqs_suv">Go to model info</a>
 		</div>
 	</div>

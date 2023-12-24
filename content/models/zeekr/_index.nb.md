@@ -15,7 +15,7 @@ weight: 30
 			<a href="001"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" class="img-fluid" alt="Zeekr 001" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 4 variant(er).
+Zeekr 001 er en stasjonsvogn tilgjengelig i 4 varianter.
 <a href="001">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 4 variant(er).
 			<a href="x"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privelige_awd/main_1_st.jpg" class="img-fluid" alt="Zeekr X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 2 variant(er).
+Zeekr X er en crossover tilgjengelig i 2 varianter.
 <a href="x">Gå til modellinfo</a>
 		</div>
 	</div>

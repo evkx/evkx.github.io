@@ -15,7 +15,7 @@ One of the key elements of Chevrolet's EV strategy is its Ultium platform, a pur
 			<a href="blazer_ev"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" class="img-fluid" alt="Chevrolet Blazer EV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+Chevrolet Blazer EV is a SUV available in 2 variants.
 <a href="blazer_ev">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 2 variant(s).
 			<a href="silverado_ev"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Chevrolet Silverado EV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Chevrolet Silverado EV is a Pick-Up Truck available in 1 variants.
 <a href="silverado_ev">Go to model info</a>
 		</div>
 	</div>

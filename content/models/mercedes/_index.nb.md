@@ -15,7 +15,7 @@ weight: 30
 			<a href="eqa"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_st.jpg" class="img-fluid" alt="Mercedes EQA" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+Mercedes EQA er en premium crossover tilgjengelig i 3 varianter.
 <a href="eqa">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="eqb"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_st.jpg" class="img-fluid" alt="Mercedes EQB" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+Mercedes EQB er en premium SUV tilgjengelig i 3 varianter.
 <a href="eqb">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="eqc"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" class="img-fluid" alt="Mercedes EQC" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Mercedes EQC er en luksus-SUV tilgjengelig i 1 varianter.
 <a href="eqc">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="eqe"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_st.jpg" class="img-fluid" alt="Mercedes EQE" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 6 variant(er).
+Mercedes EQE er en luksus sedan tilgjengelig i 6 varianter.
 <a href="eqe">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -63,7 +63,7 @@ Denne modellen er tilgjengelig i 6 variant(er).
 			<a href="eqe_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" class="img-fluid" alt="Mercedes EQE SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 4 variant(er).
+Mercedes EQE SUV er en luksus-SUV tilgjengelig i 4 varianter.
 <a href="eqe_suv">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -75,7 +75,7 @@ Denne modellen er tilgjengelig i 4 variant(er).
 			<a href="eqs"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_st.jpg" class="img-fluid" alt="Mercedes EQS" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 5 variant(er).
+Mercedes EQS er en luksus sedan tilgjengelig i 5 varianter.
 <a href="eqs">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -87,7 +87,7 @@ Denne modellen er tilgjengelig i 5 variant(er).
 			<a href="eqs_suv"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_st.jpg" class="img-fluid" alt="Mercedes EQS SUV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 4 variant(er).
+Mercedes EQS SUV er en luksus-SUV tilgjengelig i 4 varianter.
 <a href="eqs_suv">Gå til modellinfo</a>
 		</div>
 	</div>

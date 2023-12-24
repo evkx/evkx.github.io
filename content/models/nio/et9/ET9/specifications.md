@@ -953,7 +953,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 18"
+				Yes, 14,5"
 			</td>
 		</tr>
 		<tr>

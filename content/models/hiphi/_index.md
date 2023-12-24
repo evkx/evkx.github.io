@@ -15,7 +15,7 @@ Human Horizons is an innovative technology company based in Shanghai, China. It 
 			<a href="x"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+HiPhi X is a luxury SUV available in 2 variants.
 <a href="x">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 2 variant(s).
 			<a href="y"><img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1_st.jpg" class="img-fluid" alt="HiPhi Y" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+HiPhi Y is a premium SUV available in 1 variants.
 <a href="y">Go to model info</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ This model is available in 1 variant(s).
 			<a href="z"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi Z" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+HiPhi Z is a luxury sedan available in 2 variants.
 <a href="z">Go to model info</a>
 		</div>
 	</div>

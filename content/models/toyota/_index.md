@@ -15,7 +15,7 @@ weight: 30
 			<a href="bz4x"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="Toyota bZ4X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+Toyota bZ4X is a SUV available in 2 variants.
 <a href="bz4x">Go to model info</a>
 		</div>
 	</div>

@@ -15,7 +15,7 @@ weight: 30
 			<a href="id._buzz"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID. Buzz" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 2 variant(er).
+modelintro.MPV.Mid
 <a href="id._buzz">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 2 variant(er).
 			<a href="id.3"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 2 variant(er).
+Volkswagen ID.3 er en hatcback tilgjengelig i 2 varianter.
 <a href="id.3">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ Denne modellen er tilgjengelig i 2 variant(er).
 			<a href="id.4"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.4" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 5 variant(er).
+Volkswagen ID.4 er en SUV tilgjengelig i 5 varianter.
 <a href="id.4">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ Denne modellen er tilgjengelig i 5 variant(er).
 			<a href="id.5"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 4 variant(er).
+modelintro.CoupeSUVSUV.Mid
 <a href="id.5">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -63,7 +63,7 @@ Denne modellen er tilgjengelig i 4 variant(er).
 			<a href="id.7"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Volkswagen ID.7 er en sedan tilgjengelig i 1 varianter.
 <a href="id.7">Gå til modellinfo</a>
 		</div>
 	</div>

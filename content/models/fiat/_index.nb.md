@@ -15,7 +15,7 @@ weight: 30
 			<a href="600e"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="Fiat 600e" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Fiat 600e er en crossover tilgjengelig i 1 varianter.
 <a href="600e">Gå til modellinfo</a>
 		</div>
 	</div>

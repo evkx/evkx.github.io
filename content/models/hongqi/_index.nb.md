@@ -15,7 +15,7 @@ weight: 30
 			<a href="e-hs9"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/main_1_st.jpg" class="img-fluid" alt="Hongqi E-HS9" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 4 variant(er).
+Hongqi E-HS9 er en SUV tilgjengelig i 4 varianter.
 <a href="e-hs9">Gå til modellinfo</a>
 		</div>
 	</div>

@@ -15,7 +15,7 @@ Porsche has been investing heavily in electric vehicle (EV) technology in recent
 			<a href="taycan"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" class="img-fluid" alt="Porsche Taycan" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 14 variant(s). 
+modelintro.SedanStationWagon.Luxury
 <a href="taycan">Go to model info</a>
 		</div>
 	</div>

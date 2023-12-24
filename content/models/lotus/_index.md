@@ -15,7 +15,7 @@ Instead, Lotus will focus on developing a range of electric vehicles, including 
 			<a href="eletre"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Lotus Eletre" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 3 variant(s). 
+Lotus Eletre is a luxury SUV available in 3 variants.
 <a href="eletre">Go to model info</a>
 		</div>
 	</div>

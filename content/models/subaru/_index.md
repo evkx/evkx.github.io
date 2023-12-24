@@ -15,7 +15,7 @@ weight: 30
 			<a href="solterra"><img src="https://media.evkx.net/multimedia/models/subaru/solterra/solterra_awd/main_1_st.jpeg" class="img-fluid" alt="Subaru Solterra" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Subaru Solterra is a SUV available in 1 variants.
 <a href="solterra">Go to model info</a>
 		</div>
 	</div>

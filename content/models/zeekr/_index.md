@@ -15,7 +15,7 @@ Global expansion: Zeekr has ambitious plans to expand its presence in the global
 			<a href="001"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_st.jpg" class="img-fluid" alt="Zeekr 001" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 4 variant(s). 
+Zeekr 001 is a station wagon available in 4 variants.
 <a href="001">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 4 variant(s).
 			<a href="x"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privelige_awd/main_1_st.jpg" class="img-fluid" alt="Zeekr X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+Zeekr X is a crossover available in 2 variants.
 <a href="x">Go to model info</a>
 		</div>
 	</div>

@@ -15,7 +15,7 @@ Cadillac's electric vehicle (EV) strategy is part of GM's vision to create a wor
 			<a href="escalade"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="Cadillac ESCALADE" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Cadillac ESCALADE is a SUV available in 1 variants.
 <a href="escalade">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 1 variant(s).
 			<a href="lyriq"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="Cadillac LYRIQ" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+Cadillac LYRIQ is a SUV available in 2 variants.
 <a href="lyriq">Go to model info</a>
 		</div>
 	</div>

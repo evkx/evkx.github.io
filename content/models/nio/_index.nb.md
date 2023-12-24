@@ -15,7 +15,7 @@ weight: 30
 			<a href="el6"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="Nio EL6" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Nio EL6 er en SUV tilgjengelig i 1 varianter.
 <a href="el6">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="el7"><img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" class="img-fluid" alt="Nio EL7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Nio EL7 er en SUV tilgjengelig i 1 varianter.
 <a href="el7">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="es8"><img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" class="img-fluid" alt="Nio ES8" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Nio ES8 er en SUV tilgjengelig i 1 varianter.
 <a href="es8">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="et5"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" class="img-fluid" alt="Nio ET5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 2 variant(er).
+modelintro.SedanStationWagon.Mid
 <a href="et5">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -63,7 +63,7 @@ Denne modellen er tilgjengelig i 2 variant(er).
 			<a href="et7"><img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg" class="img-fluid" alt="Nio ET7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Nio ET7 er en sedan tilgjengelig i 1 varianter.
 <a href="et7">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -75,7 +75,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="et9"><img src="https://media.evkx.net/multimedia/models/nio/et9/et9/main_1_st.jpg" class="img-fluid" alt="Nio ET9" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Nio ET9 er en premium sedan tilgjengelig i 1 varianter.
 <a href="et9">Gå til modellinfo</a>
 		</div>
 	</div>

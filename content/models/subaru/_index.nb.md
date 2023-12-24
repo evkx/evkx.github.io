@@ -15,7 +15,7 @@ weight: 30
 			<a href="solterra"><img src="https://media.evkx.net/multimedia/models/subaru/solterra/solterra_awd/main_1_st.jpeg" class="img-fluid" alt="Subaru Solterra" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Subaru Solterra er en SUV tilgjengelig i 1 varianter.
 <a href="solterra">Gå til modellinfo</a>
 		</div>
 	</div>

@@ -15,7 +15,7 @@ weight: 30
 			<a href="spectre"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Rolls-Royce Spectre" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Rolls-Royce Spectre er en luksus sedan tilgjengelig i 1 varianter.
 <a href="spectre">Gå til modellinfo</a>
 		</div>
 	</div>

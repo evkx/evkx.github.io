@@ -15,7 +15,7 @@ weight: 30
 			<a href="i4"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" class="img-fluid" alt="BMW i4" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+BMW i4 er en premium sedan tilgjengelig i 3 varianter.
 <a href="i4">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="i5"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" class="img-fluid" alt="BMW i5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 2 variant(er).
+BMW i5 er en premium sedan tilgjengelig i 2 varianter.
 <a href="i5">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ Denne modellen er tilgjengelig i 2 variant(er).
 			<a href="i7"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_st.jpg" class="img-fluid" alt="BMW i7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+BMW i7 er en luksus sedan tilgjengelig i 3 varianter.
 <a href="i7">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="ix"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" class="img-fluid" alt="BMW iX" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+BMW iX er en luksus-SUV tilgjengelig i 3 varianter.
 <a href="ix">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -63,7 +63,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="ix1"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" class="img-fluid" alt="BMW iX1" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 2 variant(er).
+BMW iX1 er en premium SUV tilgjengelig i 2 varianter.
 <a href="ix1">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -75,7 +75,7 @@ Denne modellen er tilgjengelig i 2 variant(er).
 			<a href="ix2"><img src="https://media.evkx.net/multimedia/models/bmw/ix2/ix2_xdrive30/main_1_st.jpg" class="img-fluid" alt="BMW iX2" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+BMW iX2 er en premium Coupe SUV tilgjengelig i 1 varianter.
 <a href="ix2">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -87,7 +87,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="ix3"><img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg" class="img-fluid" alt="BMW iX3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+BMW iX3 er en premium SUV tilgjengelig i 1 varianter.
 <a href="ix3">Gå til modellinfo</a>
 		</div>
 	</div>

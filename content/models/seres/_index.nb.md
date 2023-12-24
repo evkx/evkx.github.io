@@ -15,7 +15,7 @@ weight: 30
 			<a href="5"><img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_st.jpg" class="img-fluid" alt="Seres 5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Seres 5 er en Coupe SUV tilgjengelig i 1 varianter.
 <a href="5">Gå til modellinfo</a>
 		</div>
 	</div>

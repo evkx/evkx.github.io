@@ -15,7 +15,7 @@ Genesis has recently announced its vision for a sustainable future with electrif
 			<a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="Genesis GV60" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 3 variant(s). 
+Genesis GV60 is a SUV available in 3 variants.
 <a href="gv60">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 3 variant(s).
 			<a href="gv70"><img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/main_1_st.jpg" class="img-fluid" alt="Genesis GV70" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Genesis GV70 is a premium SUV available in 1 variants.
 <a href="gv70">Go to model info</a>
 		</div>
 	</div>

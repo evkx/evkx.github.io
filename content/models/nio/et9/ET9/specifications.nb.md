@@ -953,7 +953,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 18
+				Ja, 14,5
 			</td>
 		</tr>
 		<tr>

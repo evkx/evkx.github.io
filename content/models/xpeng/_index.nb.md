@@ -15,7 +15,7 @@ weight: 30
 			<a href="g9"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_st.jpg" class="img-fluid" alt="XPENG G9" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+XPENG G9 er en SUV tilgjengelig i 3 varianter.
 <a href="g9">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="p7"><img src="https://media.evkx.net/multimedia/models/xpeng/p7/p7_awd_performance/main_1_st.jpg" class="img-fluid" alt="XPENG P7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+XPENG P7 er en sedan tilgjengelig i 1 varianter.
 <a href="p7">Gå til modellinfo</a>
 		</div>
 	</div>

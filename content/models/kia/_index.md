@@ -15,7 +15,7 @@ Kia has currently 3 model with total 7 variants in the market.
 			<a href="ev6"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" class="img-fluid" alt="Kia EV6" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 5 variant(s). 
+Kia EV6 is a Coupe SUV available in 5 variants.
 <a href="ev6">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 5 variant(s).
 			<a href="ev9"><img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Kia EV9" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Kia EV9 is a SUV available in 1 variants.
 <a href="ev9">Go to model info</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ This model is available in 1 variant(s).
 			<a href="niro"><img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" class="img-fluid" alt="Kia Niro" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Kia Niro is a crossover available in 1 variants.
 <a href="niro">Go to model info</a>
 		</div>
 	</div>

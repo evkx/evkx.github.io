@@ -15,7 +15,7 @@ Volkswagen is aiming to increase the proportion of unit sales accounted for by p
 			<a href="id._buzz"><img src="https://media.evkx.net/multimedia/models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID. Buzz" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+modelintro.MPV.Mid
 <a href="id._buzz">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 2 variant(s).
 			<a href="id.3"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+Volkswagen ID.3 is a hatcback available in 2 variants.
 <a href="id.3">Go to model info</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ This model is available in 2 variant(s).
 			<a href="id.4"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.4" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 5 variant(s). 
+Volkswagen ID.4 is a SUV available in 5 variants.
 <a href="id.4">Go to model info</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ This model is available in 5 variant(s).
 			<a href="id.5"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 4 variant(s). 
+modelintro.CoupeSUVSUV.Mid
 <a href="id.5">Go to model info</a>
 		</div>
 	</div>
@@ -63,7 +63,7 @@ This model is available in 4 variant(s).
 			<a href="id.7"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_st.jpg" class="img-fluid" alt="Volkswagen ID.7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Volkswagen ID.7 is a sedan available in 1 variants.
 <a href="id.7">Go to model info</a>
 		</div>
 	</div>

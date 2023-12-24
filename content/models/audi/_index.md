@@ -15,7 +15,7 @@ weight: 30
 			<a href="e-tron"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg" class="img-fluid" alt="Audi e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 6 variant(s). 
+Audi e-tron is a luxury SUV/Coupe SUV available in 6 variants.
 <a href="e-tron">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 6 variant(s).
 			<a href="e-tron_gt"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" class="img-fluid" alt="Audi e-tron GT" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+Audi e-tron GT is a luxury sedan available in 2 variants.
 <a href="e-tron_gt">Go to model info</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ This model is available in 2 variant(s).
 			<a href="q4_e-tron"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/main_1_st.jpg" class="img-fluid" alt="Audi Q4 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 14 variant(s). 
+Audi Q4 e-tron is a premium SUV/Coupe SUV available in 14 variants.
 <a href="q4_e-tron">Go to model info</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ This model is available in 14 variant(s).
 			<a href="q8_e-tron"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" class="img-fluid" alt="Audi Q8 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 6 variant(s). 
+Audi Q8 e-tron is a luxury SUV/Coupe SUV available in 6 variants.
 <a href="q8_e-tron">Go to model info</a>
 		</div>
 	</div>

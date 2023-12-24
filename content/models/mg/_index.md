@@ -15,7 +15,7 @@ weight: 30
 			<a href="mg4"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/main_1_st.jpg" class="img-fluid" alt="MG MG4" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 4 variant(s). 
+MG MG4 is a crossover available in 4 variants.
 <a href="mg4">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 4 variant(s).
 			<a href="mg5"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG MG5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+MG MG5 is a station wagon available in 1 variants.
 <a href="mg5">Go to model info</a>
 		</div>
 	</div>

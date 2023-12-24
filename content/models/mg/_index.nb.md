@@ -15,7 +15,7 @@ weight: 30
 			<a href="mg4"><img src="https://media.evkx.net/multimedia/models/mg/mg4/mg4_electric_luxury/main_1_st.jpg" class="img-fluid" alt="MG MG4" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 4 variant(er).
+MG MG4 er en crossover tilgjengelig i 4 varianter.
 <a href="mg4">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 4 variant(er).
 			<a href="mg5"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" class="img-fluid" alt="MG MG5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+MG MG5 er en stasjonsvogn tilgjengelig i 1 varianter.
 <a href="mg5">Gå til modellinfo</a>
 		</div>
 	</div>

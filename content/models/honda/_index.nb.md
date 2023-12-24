@@ -15,7 +15,7 @@ weight: 30
 			<a href="e_ny1"><img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_st.jpg" class="img-fluid" alt="Honda e:Ny1" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Honda e:Ny1 er en crossover tilgjengelig i 1 varianter.
 <a href="e_ny1">Gå til modellinfo</a>
 		</div>
 	</div>

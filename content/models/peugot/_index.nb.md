@@ -15,7 +15,7 @@ weight: 30
 			<a href="2008"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid" alt="Peugot 2008" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Peugot 2008 er en crossover tilgjengelig i 1 varianter.
 <a href="2008">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="208"><img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" class="img-fluid" alt="Peugot 208" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Peugot 208 er en crossover tilgjengelig i 1 varianter.
 <a href="208">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="3008"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" class="img-fluid" alt="Peugot 3008" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Peugot 3008 er en Coupe SUV tilgjengelig i 1 varianter.
 <a href="3008">Gå til modellinfo</a>
 		</div>
 	</div>

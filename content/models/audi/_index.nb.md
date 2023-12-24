@@ -15,7 +15,7 @@ weight: 30
 			<a href="e-tron"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg" class="img-fluid" alt="Audi e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 6 variant(er).
+Audi e-tron er en luksus SUV/Coupe SUV tilgjengelig i 6 varianter.
 <a href="e-tron">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 6 variant(er).
 			<a href="e-tron_gt"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" class="img-fluid" alt="Audi e-tron GT" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 2 variant(er).
+Audi e-tron GT er en luksus sedan tilgjengelig i 2 varianter.
 <a href="e-tron_gt">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ Denne modellen er tilgjengelig i 2 variant(er).
 			<a href="q4_e-tron"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/main_1_st.jpg" class="img-fluid" alt="Audi Q4 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 14 variant(er).
+Audi Q4 e-tron er en premium SUV/Coupe SUV tilgjengelig i 14 varianter.
 <a href="q4_e-tron">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ Denne modellen er tilgjengelig i 14 variant(er).
 			<a href="q8_e-tron"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" class="img-fluid" alt="Audi Q8 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 6 variant(er).
+Audi Q8 e-tron er en luksus SUV/Coupe SUV tilgjengelig i 6 varianter.
 <a href="q8_e-tron">Gå til modellinfo</a>
 		</div>
 	</div>

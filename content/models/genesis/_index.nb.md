@@ -15,7 +15,7 @@ weight: 30
 			<a href="gv60"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_sport/main_1_st.jpg" class="img-fluid" alt="Genesis GV60" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+Genesis GV60 er en SUV tilgjengelig i 3 varianter.
 <a href="gv60">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="gv70"><img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/main_1_st.jpg" class="img-fluid" alt="Genesis GV70" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Genesis GV70 er en premium SUV tilgjengelig i 1 varianter.
 <a href="gv70">Gå til modellinfo</a>
 		</div>
 	</div>

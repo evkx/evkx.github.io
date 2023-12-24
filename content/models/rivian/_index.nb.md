@@ -15,7 +15,7 @@ weight: 30
 			<a href="r1"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="Rivian R1" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 6 variant(er).
+modelintro.SUVPickupTruck.Mid
 <a href="r1">Gå til modellinfo</a>
 		</div>
 	</div>

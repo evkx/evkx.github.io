@@ -15,7 +15,7 @@ Seres has production, research, and development facilities in the USA, China, an
 			<a href="5"><img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_st.jpg" class="img-fluid" alt="Seres 5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+Seres 5 is a Coupe SUV available in 1 variants.
 <a href="5">Go to model info</a>
 		</div>
 	</div>

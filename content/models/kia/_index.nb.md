@@ -15,7 +15,7 @@ weight: 30
 			<a href="ev6"><img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_standard_range_2wd/main_1_st.jpg" class="img-fluid" alt="Kia EV6" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 5 variant(er).
+Kia EV6 er en Coupe SUV tilgjengelig i 5 varianter.
 <a href="ev6">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 5 variant(er).
 			<a href="ev9"><img src="https://media.evkx.net/multimedia/models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Kia EV9" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Kia EV9 er en SUV tilgjengelig i 1 varianter.
 <a href="ev9">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ Denne modellen er tilgjengelig i 1 variant(er).
 			<a href="niro"><img src="https://media.evkx.net/multimedia/models/kia/niro/niro_ev/main_1_st.jpg" class="img-fluid" alt="Kia Niro" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Kia Niro er en crossover tilgjengelig i 1 varianter.
 <a href="niro">Gå til modellinfo</a>
 		</div>
 	</div>

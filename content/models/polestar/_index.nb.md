@@ -15,7 +15,7 @@ weight: 30
 			<a href="2"><img src="https://media.evkx.net/multimedia/models/polestar/2/2_long_range_single_motor/main_1_st.jpg" class="img-fluid" alt="Polestar 2" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+Polestar 2 er en sedan tilgjengelig i 3 varianter.
 <a href="2">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="3"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="Polestar 3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Polestar 3 er en SUV tilgjengelig i 1 varianter.
 <a href="3">Gå til modellinfo</a>
 		</div>
 	</div>

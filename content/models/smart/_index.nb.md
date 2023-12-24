@@ -15,7 +15,7 @@ weight: 30
 			<a href="hash1"><img src="https://media.evkx.net/multimedia/models/smart/#1/#1_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #1" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 3 variant(er).
+Smart #1 er en crossover tilgjengelig i 3 varianter.
 <a href="hash1">Gå til modellinfo</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ Denne modellen er tilgjengelig i 3 variant(er).
 			<a href="hash3"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+Smart #3 er en crossover tilgjengelig i 1 varianter.
 <a href="hash3">Gå til modellinfo</a>
 		</div>
 	</div>

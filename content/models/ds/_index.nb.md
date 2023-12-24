@@ -15,7 +15,7 @@ weight: 30
 			<a href="3"><img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_st.jpg" class="img-fluid" alt="DS 3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+DS 3 er en crossover tilgjengelig i 1 varianter.
 <a href="3">Gå til modellinfo</a>
 		</div>
 	</div>

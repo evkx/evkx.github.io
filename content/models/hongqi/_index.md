@@ -15,7 +15,7 @@ Hongqi entered the electric car market in 2018 with the launch of its first EV m
 			<a href="e-hs9"><img src="https://media.evkx.net/multimedia/models/hongqi/e-hs9/e-hs9_comfort/main_1_st.jpg" class="img-fluid" alt="Hongqi E-HS9" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 4 variant(s). 
+Hongqi E-HS9 is a SUV available in 4 variants.
 <a href="e-hs9">Go to model info</a>
 		</div>
 	</div>

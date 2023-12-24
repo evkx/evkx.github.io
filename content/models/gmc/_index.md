@@ -15,7 +15,7 @@ GMC is also committed to an all-electric future as part of GM's vision to create
 			<a href="hummer_ev"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" class="img-fluid" alt="GMC Hummer EV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 1 variant(s). 
+GMC Hummer EV is a Pick-Up Truck available in 1 variants.
 <a href="hummer_ev">Go to model info</a>
 		</div>
 	</div>

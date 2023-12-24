@@ -15,7 +15,7 @@ weight: 30
 			<a href="free"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid" alt="VOYAH FREE" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-Denne modellen er tilgjengelig i 1 variant(er).
+VOYAH FREE er en SUV tilgjengelig i 1 varianter.
 <a href="free">Gå til modellinfo</a>
 		</div>
 	</div>

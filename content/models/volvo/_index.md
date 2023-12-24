@@ -15,7 +15,7 @@ In recent years, Volvo has focused on developing electric vehicles (EVs) as part
 			<a href="c40"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" class="img-fluid" alt="Volvo C40" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 3 variant(s). 
+Volvo C40 is a crossover available in 3 variants.
 <a href="c40">Go to model info</a>
 		</div>
 	</div>
@@ -27,7 +27,7 @@ This model is available in 3 variant(s).
 			<a href="ex30"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="Volvo EX30" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 3 variant(s). 
+Volvo EX30 is a crossover available in 3 variants.
 <a href="ex30">Go to model info</a>
 		</div>
 	</div>
@@ -39,7 +39,7 @@ This model is available in 3 variant(s).
 			<a href="ex90"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="Volvo EX90" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 2 variant(s). 
+Volvo EX90 is a SUV available in 2 variants.
 <a href="ex90">Go to model info</a>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ This model is available in 2 variant(s).
 			<a href="xc40"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" class="img-fluid" alt="Volvo XC40" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
-This model is available in 3 variant(s). 
+Volvo XC40 is a crossover available in 3 variants.
 <a href="xc40">Go to model info</a>
 		</div>
 	</div>
