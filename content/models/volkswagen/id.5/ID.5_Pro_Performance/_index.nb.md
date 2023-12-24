@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.5 Pro Performance
 linktitle: "ID.5 Pro Performance"
-description: "Volkswagen ID.5 Pro Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 529 km (329 miles). EVKX.net har alle detaljene. "
+description: "Volkswagen ID.5 Pro Performance er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 529 km (329 miles). EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

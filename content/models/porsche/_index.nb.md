@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.SedanStationWagon.Luxury
+Porsche Taycan er en luksus sedan /stasjonsvogn tilgjengelig i 14 varianter.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

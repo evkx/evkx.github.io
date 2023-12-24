@@ -16,7 +16,7 @@ Porsche has been investing heavily in electric vehicle (EV) technology in recent
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.SedanStationWagon.Luxury
+Porsche Taycan is a luxury sedan /station wagon available in 14 variants.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

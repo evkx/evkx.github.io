@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.5 Pro
 linktitle: "ID.5 Pro"
-description: "Volkswagen ID.5 Pro is an all-electric SUV with a WLTP range of up to 556 km (346 miles). EVKX.net has all the details. "
+description: "Volkswagen ID.5 Pro is an all-electric coupe SUV with a WLTP range of up to 556 km (346 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
