@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 <p>Audi har nylig annonsert sin visjon for en bærekraftig fremtid med elektrifisering som kjernestrategi. Ifølge konsernsjef Markus Duesmann vil Audi kun lansere nye modeller med elektriske drivsystemer på det globale markedet fra og med 2026. Produksjonen av forbrenningsmotorer vil gradvis fases ut frem til 2033. Audi har som mål å fokusere på programvare, oppgraderbare biler, og autonom teknologi i løpet av de neste årene, mens de utvikler kjøretøyenes distinkte DNA. Audi forventer en raskere slutt på forbrenningstiden enn andre bilprodusenter.</p><p> Audi tilbyr for tiden flere elektriske modeller, som e-tron, e-tron GT og Q4 e-tron. Den planlegger også å introdusere flere elektriske modeller i nær fremtid, for eksempel A6 e-tron, Q6 e-tron og Project Artemis. Audis elektriske kjøretøy tilbyr høy ytelse, elegant design og avanserte funksjoner. Audi gir også kundene sine et økosystem av tjenester og løsninger, som lademuligheter, digitale plattformer og mobilitetstilbud</p>
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Audi e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -20,7 +20,7 @@ Audi e-tron er en luksus SUV/Coupe SUV tilgjengelig i 6 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Audi e-tron GT</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -32,7 +32,7 @@ Audi e-tron GT er en luksus sedan tilgjengelig i 2 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Audi Q4 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -44,7 +44,7 @@ Audi Q4 e-tron er en premium SUV/Coupe SUV tilgjengelig i 14 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Audi Q8 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

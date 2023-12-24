@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 In recent years, Volvo has focused on developing electric vehicles (EVs) as part of its commitment to reducing its carbon footprint and contributing to a more sustainable future. The company has set a target to have half of its global sales be fully electric by 2025 and aims to be climate-neutral by 2040.  <br /> <br /> Volvo's first all-electric vehicle, the XC40 Recharge, was introduced in 2020. The XC40 Recharge has a range of over 200 miles on a single charge and can be charged to 80% capacity in 40 minutes using a fast charger. The vehicle is also equipped with advanced safety features, including collision avoidance technology and a 360-degree camera system. <br /> <br />In addition to the XC40 Recharge, Volvo has announced plans to launch several other EV models in the coming years, including an electric version of the popular XC90 SUV. The company is also developing new battery technology that will allow its EVs to have longer ranges and faster charging times. Volvo has made sustainability a key focus of its business, and its EVs are just one example of its commitment to reducing its carbon footprint and contributing to a more sustainable future. The company's goal is to create a circular economy in which resources are used efficiently and waste is minimized, and its EVs play an important role in achieving that goal. 
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Volvo C40</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -20,7 +20,7 @@ Volvo C40 is a crossover available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Volvo EX30</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -32,7 +32,7 @@ Volvo EX30 is a crossover available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Volvo EX90</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -44,7 +44,7 @@ Volvo EX90 is a SUV available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Volvo XC40</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

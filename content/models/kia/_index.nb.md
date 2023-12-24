@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Kia EV6</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -20,7 +20,7 @@ Kia EV6 er en Coupe SUV tilgjengelig i 5 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Kia EV9</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -32,7 +32,7 @@ Kia EV9 er en SUV tilgjengelig i 1 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Kia Niro</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

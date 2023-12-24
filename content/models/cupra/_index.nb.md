@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> CUPRA BORN</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -20,7 +20,7 @@ CUPRA BORN er en hatcback tilgjengelig i 3 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> CUPRA Tavascan</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 The name Voyah comes from the word 'voyage' and reflects the brand's vision of providing freedom and exploration to its customers. Voyah was launched in 2020 and has introduced three models so far: the Voyah Free crossover SUV, the Voyah Dreamer MPV, and the Voyah Passion sedan. All of these models are based on Dongfeng's Essa electric platform and feature advanced technology, performance, and design. Voyah aims to enter the global market and compete with other premium electric vehicle brands such as Tesla, Lucid, and Nio. 
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> VOYAH FREE</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

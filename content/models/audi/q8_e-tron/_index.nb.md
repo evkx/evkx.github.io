@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q8 50 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -24,7 +24,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q8 Sportback 50 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -42,7 +42,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q8 55 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -60,7 +60,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q8 Sportback 55 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -78,7 +78,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Audi SQ8 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -96,7 +96,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Audi SQ8 Sportback e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

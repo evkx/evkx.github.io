@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV6 Standard Range 2WD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -24,7 +24,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV6 Standard Range AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -42,7 +42,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV6 Long Range 2WD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -60,7 +60,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV6 Long Range AWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -78,7 +78,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV6 GT</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

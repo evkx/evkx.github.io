@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Instead, Lotus will focus on developing a range of electric vehicles, including sports cars, SUVs and saloons, that will usher in a new era for the brand.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Lotus Eletre</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

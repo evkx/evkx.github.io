@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
  Subaru's EV strategy is to introduce eight electric models by 2028 and achieve a 50% BEV sales share by 2030. Subaru will leverage its partnership with Toyota to develop and produce electric vehicles with high efficiency, low emissions, and excellent driving performance. Subaru will also invest in battery capacity and production facilities to meet the growing demand for EVs. Subaru's first EV, the Solterra, is a compact electric SUV that is co-branded with Huawei and offers a range of over 1000 km with an intelligent range extension system. Subaru plans to launch three more electric SUVs by 2026 and another four by 2028. Subaru aims to sell 200,000 EVs globally in 2026 and 400,000 EVs in the US in 2028.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Subaru Solterra</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

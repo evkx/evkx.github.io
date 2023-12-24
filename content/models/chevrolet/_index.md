@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 One of the key elements of Chevrolet's EV strategy is its Ultium platform, a purpose-built platform for electric vehicles that can be used to build any number of vehicles. The Ultium platform features a modular battery pack that can vary in size and configuration, depending on the vehicle type and performance. The battery pack uses large-format pouch cells that are cheaper and more energy-dense than cylindrical cells, and can be stacked vertically or horizontally to optimize space and weight.<br /><br />The Ultium platform also features a set of interchangeable propulsion components that can deliver different levels of power and torque, as well as different drivetrain configurations, such as front-wheel drive, rear-wheel drive, all-wheel drive, or performance all-wheel drive. The Ultium platform can support vehicles with up to 450 miles of range on a full charge, up to 785 lb-ft of torque and 754 hp, and 0-60 mph acceleration in under 4.5 seconds.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Chevrolet Blazer EV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -20,7 +20,7 @@ Chevrolet Blazer EV is a SUV available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> Chevrolet Silverado EV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
