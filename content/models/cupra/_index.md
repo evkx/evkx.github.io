@@ -15,8 +15,10 @@ Cupra has a strong focus on electrification and performance. It aims to combine 
 			<a href="born"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" class="img-fluid" alt="CUPRA BORN" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 CUPRA BORN is a hatcback available in 3 variants.
-<a href="born">Go to model info</a>
+</p>
+	<a href="born/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ CUPRA BORN is a hatcback available in 3 variants.
 			<a href="tavascan"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="CUPRA Tavascan" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 CUPRA Tavascan is a SUV available in 2 variants.
-<a href="tavascan">Go to model info</a>
+</p>
+	<a href="tavascan/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

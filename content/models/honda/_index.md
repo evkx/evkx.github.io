@@ -15,8 +15,10 @@ Honda has a goal to achieve carbon neutrality for all its products and corporate
 			<a href="e_ny1"><img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_st.jpg" class="img-fluid" alt="Honda e:Ny1" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Honda e:Ny1 is a crossover available in 1 variants.
-<a href="e_ny1">Go to model info</a>
+</p>
+	<a href="e_ny1/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

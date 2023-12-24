@@ -15,8 +15,10 @@ weight: 30
 			<a href="ë-c3"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c3/ë-c3/main_1_st.jpg" class="img-fluid" alt="Citroën ë-C3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Citroën ë-C3 er en crossover tilgjengelig i 1 varianter.
-<a href="ë-c3">Gå til modellinfo</a>
+</p>
+	<a href="ë-c3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Citroën ë-C3 er en crossover tilgjengelig i 1 varianter.
 			<a href="ë-c4"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_st.jpg" class="img-fluid" alt="Citroën ë-C4" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Citroën ë-C4 er en crossover tilgjengelig i 1 varianter.
-<a href="ë-c4">Gå til modellinfo</a>
+</p>
+	<a href="ë-c4/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

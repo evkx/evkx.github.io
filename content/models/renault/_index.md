@@ -15,8 +15,10 @@ Renault's EV strategy is based on six pillars: - Batteries: Renault aims to mast
 			<a href="megane"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" class="img-fluid" alt="Renault Megane" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Renault Megane is a crossover available in 1 variants.
-<a href="megane">Go to model info</a>
+</p>
+	<a href="megane/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Renault Megane is a crossover available in 1 variants.
 			<a href="scenic"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" class="img-fluid" alt="Renault Scenic" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Renault Scenic is a crossover available in 1 variants.
-<a href="scenic">Go to model info</a>
+</p>
+	<a href="scenic/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

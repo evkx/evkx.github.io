@@ -15,8 +15,10 @@ Jaguar has recently announced its EV strategy, called Reimagine, which aims to t
 			<a href="i-pace"><img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" class="img-fluid" alt="Jaguar I-Pace" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Jaguar I-Pace is a premium SUV available in 1 variants.
-<a href="i-pace">Go to model info</a>
+</p>
+	<a href="i-pace/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

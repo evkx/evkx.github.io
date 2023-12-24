@@ -15,8 +15,10 @@ weight: 30
 			<a href="enyaq_iv"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_st.jpg" class="img-fluid" alt="SKODA Enyaq iV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 modelintro.CoupeSUVSUV.Mid
-<a href="enyaq_iv">Go to model info</a>
+</p>
+	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

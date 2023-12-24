@@ -15,8 +15,10 @@ Ford is investing $22 billion in electrification through 2025 as part of its pla
 			<a href="f150_lightning"><img src="https://media.evkx.net/multimedia/models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" class="img-fluid" alt="Ford F150 Lightning" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Ford F150 Lightning is a Pick-Up Truck available in 2 variants.
-<a href="f150_lightning">Go to model info</a>
+</p>
+	<a href="f150_lightning/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Ford F150 Lightning is a Pick-Up Truck available in 2 variants.
 			<a href="mustang_mach-e"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Ford Mustang Mach-E" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Ford Mustang Mach-E is a Coupe SUV available in 5 variants.
-<a href="mustang_mach-e">Go to model info</a>
+</p>
+	<a href="mustang_mach-e/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

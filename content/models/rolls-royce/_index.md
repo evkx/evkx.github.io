@@ -15,8 +15,10 @@ Rolls Royce's EV strategy is based on three pillars: delivering on its commitmen
 			<a href="spectre"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Rolls-Royce Spectre" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Rolls-Royce Spectre is a luxury sedan available in 1 variants.
-<a href="spectre">Go to model info</a>
+</p>
+	<a href="spectre/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

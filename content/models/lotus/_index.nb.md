@@ -15,8 +15,10 @@ weight: 30
 			<a href="eletre"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Lotus Eletre" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Lotus Eletre er en luksus-SUV tilgjengelig i 3 varianter.
-<a href="eletre">Gå til modellinfo</a>
+</p>
+	<a href="eletre/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

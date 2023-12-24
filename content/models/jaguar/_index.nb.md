@@ -15,8 +15,10 @@ weight: 30
 			<a href="i-pace"><img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" class="img-fluid" alt="Jaguar I-Pace" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Jaguar I-Pace er en premium SUV tilgjengelig i 1 varianter.
-<a href="i-pace">Gå til modellinfo</a>
+</p>
+	<a href="i-pace/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

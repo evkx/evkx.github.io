@@ -15,8 +15,10 @@ weight: 30
 			<a href="x"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 HiPhi X er en luksus-SUV tilgjengelig i 2 varianter.
-<a href="x">Gå til modellinfo</a>
+</p>
+	<a href="x/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ HiPhi X er en luksus-SUV tilgjengelig i 2 varianter.
 			<a href="y"><img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1_st.jpg" class="img-fluid" alt="HiPhi Y" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 HiPhi Y er en premium SUV tilgjengelig i 1 varianter.
-<a href="y">Gå til modellinfo</a>
+</p>
+	<a href="y/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ HiPhi Y er en premium SUV tilgjengelig i 1 varianter.
 			<a href="z"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi Z" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 HiPhi Z er en luksus sedan tilgjengelig i 2 varianter.
-<a href="z">Gå til modellinfo</a>
+</p>
+	<a href="z/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

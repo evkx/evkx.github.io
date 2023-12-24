@@ -15,8 +15,10 @@ Tesla's EV models have been at the forefront of the electric vehicle revolution,
 			<a href="cybertruck"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" class="img-fluid" alt="Tesla Cybertruck" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Cybertruck is a Pick-Up Truck available in 2 variants.
-<a href="cybertruck">Go to model info</a>
+</p>
+	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Tesla Cybertruck is a Pick-Up Truck available in 2 variants.
 			<a href="model_3"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model 3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Model 3 is a sedan available in 5 variants.
-<a href="model_3">Go to model info</a>
+</p>
+	<a href="model_3/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ Tesla Model 3 is a sedan available in 5 variants.
 			<a href="model_s"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Tesla Model S" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Model S is a sedan available in 3 variants.
-<a href="model_s">Go to model info</a>
+</p>
+	<a href="model_s/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -51,8 +57,10 @@ Tesla Model S is a sedan available in 3 variants.
 			<a href="model_x"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" class="img-fluid" alt="Tesla Model X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Model X is a SUV available in 3 variants.
-<a href="model_x">Go to model info</a>
+</p>
+	<a href="model_x/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -63,8 +71,10 @@ Tesla Model X is a SUV available in 3 variants.
 			<a href="model_y"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model Y" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Model Y is a Coupe SUV available in 3 variants.
-<a href="model_y">Go to model info</a>
+</p>
+	<a href="model_y/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

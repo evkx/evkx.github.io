@@ -15,8 +15,10 @@ weight: 30
 			<a href="e-tron"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_st.jpg" class="img-fluid" alt="Audi e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Audi e-tron is a luxury SUV/Coupe SUV available in 6 variants.
-<a href="e-tron">Go to model info</a>
+</p>
+	<a href="e-tron/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Audi e-tron is a luxury SUV/Coupe SUV available in 6 variants.
 			<a href="e-tron_gt"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" class="img-fluid" alt="Audi e-tron GT" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Audi e-tron GT is a luxury sedan available in 2 variants.
-<a href="e-tron_gt">Go to model info</a>
+</p>
+	<a href="e-tron_gt/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ Audi e-tron GT is a luxury sedan available in 2 variants.
 			<a href="q4_e-tron"><img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/main_1_st.jpg" class="img-fluid" alt="Audi Q4 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Audi Q4 e-tron is a premium SUV/Coupe SUV available in 14 variants.
-<a href="q4_e-tron">Go to model info</a>
+</p>
+	<a href="q4_e-tron/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -51,8 +57,10 @@ Audi Q4 e-tron is a premium SUV/Coupe SUV available in 14 variants.
 			<a href="q8_e-tron"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" class="img-fluid" alt="Audi Q8 e-tron" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Audi Q8 e-tron is a luxury SUV/Coupe SUV available in 6 variants.
-<a href="q8_e-tron">Go to model info</a>
+</p>
+	<a href="q8_e-tron/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

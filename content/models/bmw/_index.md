@@ -15,8 +15,10 @@ From 2025 onwards, the BMW Group plans to increase its delivery share of all-ele
 			<a href="i4"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_st.jpg" class="img-fluid" alt="BMW i4" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BMW i4 is a premium sedan available in 3 variants.
-<a href="i4">Go to model info</a>
+</p>
+	<a href="i4/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ BMW i4 is a premium sedan available in 3 variants.
 			<a href="i5"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" class="img-fluid" alt="BMW i5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BMW i5 is a premium sedan available in 2 variants.
-<a href="i5">Go to model info</a>
+</p>
+	<a href="i5/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ BMW i5 is a premium sedan available in 2 variants.
 			<a href="i7"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_st.jpg" class="img-fluid" alt="BMW i7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BMW i7 is a luxury sedan available in 3 variants.
-<a href="i7">Go to model info</a>
+</p>
+	<a href="i7/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -51,8 +57,10 @@ BMW i7 is a luxury sedan available in 3 variants.
 			<a href="ix"><img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive40/main_1_st.jpg" class="img-fluid" alt="BMW iX" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BMW iX is a luxury SUV available in 3 variants.
-<a href="ix">Go to model info</a>
+</p>
+	<a href="ix/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -63,8 +71,10 @@ BMW iX is a luxury SUV available in 3 variants.
 			<a href="ix1"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" class="img-fluid" alt="BMW iX1" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BMW iX1 is a premium SUV available in 2 variants.
-<a href="ix1">Go to model info</a>
+</p>
+	<a href="ix1/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -75,8 +85,10 @@ BMW iX1 is a premium SUV available in 2 variants.
 			<a href="ix2"><img src="https://media.evkx.net/multimedia/models/bmw/ix2/ix2_xdrive30/main_1_st.jpg" class="img-fluid" alt="BMW iX2" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BMW iX2 is a premium Coupe SUV available in 1 variants.
-<a href="ix2">Go to model info</a>
+</p>
+	<a href="ix2/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -87,8 +99,10 @@ BMW iX2 is a premium Coupe SUV available in 1 variants.
 			<a href="ix3"><img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_st.jpg" class="img-fluid" alt="BMW iX3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BMW iX3 is a premium SUV available in 1 variants.
-<a href="ix3">Go to model info</a>
+</p>
+	<a href="ix3/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

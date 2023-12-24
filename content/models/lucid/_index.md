@@ -15,8 +15,10 @@ Lucid is majority-owned by the Public Investment Fund of Saudi Arabia and has it
 			<a href="air"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid" alt="Lucid Air" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Lucid Air is a sedan available in 5 variants.
-<a href="air">Go to model info</a>
+</p>
+	<a href="air/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Lucid Air is a sedan available in 5 variants.
 			<a href="gravity"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" class="img-fluid" alt="Lucid Gravity" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Lucid Gravity is a SUV available in 1 variants.
-<a href="gravity">Go to model info</a>
+</p>
+	<a href="gravity/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

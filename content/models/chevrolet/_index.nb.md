@@ -15,8 +15,10 @@ weight: 30
 			<a href="blazer_ev"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" class="img-fluid" alt="Chevrolet Blazer EV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Chevrolet Blazer EV er en SUV tilgjengelig i 2 varianter.
-<a href="blazer_ev">Gå til modellinfo</a>
+</p>
+	<a href="blazer_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Chevrolet Blazer EV er en SUV tilgjengelig i 2 varianter.
 			<a href="silverado_ev"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" class="img-fluid" alt="Chevrolet Silverado EV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Chevrolet Silverado EV er en pick-up som er tilgjengelig i 1 varianter.
-<a href="silverado_ev">Gå til modellinfo</a>
+</p>
+	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

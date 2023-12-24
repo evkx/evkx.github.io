@@ -15,8 +15,10 @@ weight: 30
 			<a href="escalade"><img src="https://media.evkx.net/multimedia/models/cadillac/escalade/escalade_iq/main_1_st.jpg" class="img-fluid" alt="Cadillac ESCALADE" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Cadillac ESCALADE er en SUV tilgjengelig i 1 varianter.
-<a href="escalade">Gå til modellinfo</a>
+</p>
+	<a href="escalade/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Cadillac ESCALADE er en SUV tilgjengelig i 1 varianter.
 			<a href="lyriq"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_st.jpg" class="img-fluid" alt="Cadillac LYRIQ" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Cadillac LYRIQ er en SUV tilgjengelig i 2 varianter.
-<a href="lyriq">Gå til modellinfo</a>
+</p>
+	<a href="lyriq/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

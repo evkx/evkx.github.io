@@ -15,8 +15,10 @@ weight: 30
 			<a href="ariya"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Nissan Ariya" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Nissan Ariya is a Coupe SUV available in 3 variants.
-<a href="ariya">Go to model info</a>
+</p>
+	<a href="ariya/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

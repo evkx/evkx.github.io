@@ -15,8 +15,10 @@ weight: 30
 			<a href="ocean"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_st.jpg" class="img-fluid" alt="Fisker Ocean" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Fisker Ocean er en SUV tilgjengelig i 1 varianter.
-<a href="ocean">Gå til modellinfo</a>
+</p>
+	<a href="ocean/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

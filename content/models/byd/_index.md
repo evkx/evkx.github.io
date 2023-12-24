@@ -15,8 +15,10 @@ weight: 30
 			<a href="atto_3"><img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg" class="img-fluid" alt="BYD Atto 3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Atto 3 is a crossover available in 1 variants.
-<a href="atto_3">Go to model info</a>
+</p>
+	<a href="atto_3/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ BYD Atto 3 is a crossover available in 1 variants.
 			<a href="dolphin"><img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" class="img-fluid" alt="BYD Dolphin" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Dolphin is a crossover available in 1 variants.
-<a href="dolphin">Go to model info</a>
+</p>
+	<a href="dolphin/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ BYD Dolphin is a crossover available in 1 variants.
 			<a href="han"><img src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg" class="img-fluid" alt="BYD Han" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Han is a sedan available in 1 variants.
-<a href="han">Go to model info</a>
+</p>
+	<a href="han/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -51,8 +57,10 @@ BYD Han is a sedan available in 1 variants.
 			<a href="seal"><img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" class="img-fluid" alt="BYD Seal" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Seal is a sedan available in 1 variants.
-<a href="seal">Go to model info</a>
+</p>
+	<a href="seal/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -63,8 +71,10 @@ BYD Seal is a sedan available in 1 variants.
 			<a href="tang"><img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" class="img-fluid" alt="BYD Tang" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Tang is a SUV available in 1 variants.
-<a href="tang">Go to model info</a>
+</p>
+	<a href="tang/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

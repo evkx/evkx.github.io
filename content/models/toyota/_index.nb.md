@@ -15,8 +15,10 @@ weight: 30
 			<a href="bz4x"><img src="https://media.evkx.net/multimedia/models/toyota/bz4x/bz4x_awd/main_1_st.jpg" class="img-fluid" alt="Toyota bZ4X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Toyota bZ4X er en SUV tilgjengelig i 2 varianter.
-<a href="bz4x">Gå til modellinfo</a>
+</p>
+	<a href="bz4x/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

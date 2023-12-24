@@ -15,8 +15,10 @@ The company has announced four all-electric SUVs that will launch in key markets
 			<a href="avenger"><img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" class="img-fluid" alt="Jeep Avenger" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Jeep Avenger is a crossover available in 1 variants.
-<a href="avenger">Go to model info</a>
+</p>
+	<a href="avenger/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

@@ -15,8 +15,10 @@ weight: 30
 			<a href="avenger"><img src="https://media.evkx.net/multimedia/models/jeep/avenger/avenger/main_1_st.jpg" class="img-fluid" alt="Jeep Avenger" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Jeep Avenger er en crossover tilgjengelig i 1 varianter.
-<a href="avenger">Gå til modellinfo</a>
+</p>
+	<a href="avenger/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

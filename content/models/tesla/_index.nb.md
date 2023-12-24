@@ -15,8 +15,10 @@ weight: 30
 			<a href="cybertruck"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" class="img-fluid" alt="Tesla Cybertruck" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Cybertruck er en pick-up som er tilgjengelig i 2 varianter.
-<a href="cybertruck">Gå til modellinfo</a>
+</p>
+	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Tesla Cybertruck er en pick-up som er tilgjengelig i 2 varianter.
 			<a href="model_3"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model 3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Model 3 er en sedan tilgjengelig i 5 varianter.
-<a href="model_3">Gå til modellinfo</a>
+</p>
+	<a href="model_3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ Tesla Model 3 er en sedan tilgjengelig i 5 varianter.
 			<a href="model_s"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Tesla Model S" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Model S er en sedan tilgjengelig i 3 varianter.
-<a href="model_s">Gå til modellinfo</a>
+</p>
+	<a href="model_s/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -51,8 +57,10 @@ Tesla Model S er en sedan tilgjengelig i 3 varianter.
 			<a href="model_x"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" class="img-fluid" alt="Tesla Model X" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Model X er en SUV tilgjengelig i 3 varianter.
-<a href="model_x">Gå til modellinfo</a>
+</p>
+	<a href="model_x/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -63,8 +71,10 @@ Tesla Model X er en SUV tilgjengelig i 3 varianter.
 			<a href="model_y"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model Y" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Tesla Model Y er en Coupe SUV tilgjengelig i 3 varianter.
-<a href="model_y">Gå til modellinfo</a>
+</p>
+	<a href="model_y/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

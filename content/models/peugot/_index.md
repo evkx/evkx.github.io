@@ -15,8 +15,10 @@ Peugeot has announced an all-electric strategy in Europe by 2030, which means th
 			<a href="2008"><img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_st.jpg" class="img-fluid" alt="Peugot 2008" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Peugot 2008 is a crossover available in 1 variants.
-<a href="2008">Go to model info</a>
+</p>
+	<a href="2008/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Peugot 2008 is a crossover available in 1 variants.
 			<a href="208"><img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_st.jpg" class="img-fluid" alt="Peugot 208" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Peugot 208 is a crossover available in 1 variants.
-<a href="208">Go to model info</a>
+</p>
+	<a href="208/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ Peugot 208 is a crossover available in 1 variants.
 			<a href="3008"><img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008_long_range/main_1_st.jpg" class="img-fluid" alt="Peugot 3008" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Peugot 3008 is a Coupe SUV available in 1 variants.
-<a href="3008">Go to model info</a>
+</p>
+	<a href="3008/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

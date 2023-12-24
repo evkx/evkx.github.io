@@ -15,8 +15,10 @@ Nio has currently 6 all electric models with total 7 variants in the market. Bel
 			<a href="el6"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_st.jpg" class="img-fluid" alt="Nio EL6" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Nio EL6 is a SUV available in 1 variants.
-<a href="el6">Go to model info</a>
+</p>
+	<a href="el6/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Nio EL6 is a SUV available in 1 variants.
 			<a href="el7"><img src="https://media.evkx.net/multimedia/models/nio/el7/el7/main_1_st.jpg" class="img-fluid" alt="Nio EL7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Nio EL7 is a SUV available in 1 variants.
-<a href="el7">Go to model info</a>
+</p>
+	<a href="el7/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ Nio EL7 is a SUV available in 1 variants.
 			<a href="es8"><img src="https://media.evkx.net/multimedia/models/nio/es8/es8/main_1_st.jpg" class="img-fluid" alt="Nio ES8" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Nio ES8 is a SUV available in 1 variants.
-<a href="es8">Go to model info</a>
+</p>
+	<a href="es8/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -51,8 +57,10 @@ Nio ES8 is a SUV available in 1 variants.
 			<a href="et5"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_st.jpg" class="img-fluid" alt="Nio ET5" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 modelintro.SedanStationWagon.Mid
-<a href="et5">Go to model info</a>
+</p>
+	<a href="et5/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -63,8 +71,10 @@ modelintro.SedanStationWagon.Mid
 			<a href="et7"><img src="https://media.evkx.net/multimedia/models/nio/et7/et7/main_1_st.jpg" class="img-fluid" alt="Nio ET7" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Nio ET7 is a sedan available in 1 variants.
-<a href="et7">Go to model info</a>
+</p>
+	<a href="et7/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -75,8 +85,10 @@ Nio ET7 is a sedan available in 1 variants.
 			<a href="et9"><img src="https://media.evkx.net/multimedia/models/nio/et9/et9/main_1_st.jpg" class="img-fluid" alt="Nio ET9" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Nio ET9 is a premium sedan available in 1 variants.
-<a href="et9">Go to model info</a>
+</p>
+	<a href="et9/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

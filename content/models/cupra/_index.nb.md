@@ -15,8 +15,10 @@ weight: 30
 			<a href="born"><img src="https://media.evkx.net/multimedia/models/cupra/born/born_58/main_1_st.jpg" class="img-fluid" alt="CUPRA BORN" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 CUPRA BORN er en hatcback tilgjengelig i 3 varianter.
-<a href="born">Gå til modellinfo</a>
+</p>
+	<a href="born/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ CUPRA BORN er en hatcback tilgjengelig i 3 varianter.
 			<a href="tavascan"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_st.JPG" class="img-fluid" alt="CUPRA Tavascan" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 CUPRA Tavascan er en SUV tilgjengelig i 2 varianter.
-<a href="tavascan">Gå til modellinfo</a>
+</p>
+	<a href="tavascan/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

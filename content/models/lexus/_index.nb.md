@@ -15,8 +15,10 @@ weight: 30
 			<a href="rz"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_st.jpg" class="img-fluid" alt="Lexus RZ" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Lexus RZ er en SUV tilgjengelig i 1 varianter.
-<a href="rz">Gå til modellinfo</a>
+</p>
+	<a href="rz/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

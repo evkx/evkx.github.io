@@ -15,8 +15,10 @@ weight: 30
 			<a href="megane"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" class="img-fluid" alt="Renault Megane" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Renault Megane er en crossover tilgjengelig i 1 varianter.
-<a href="megane">Gå til modellinfo</a>
+</p>
+	<a href="megane/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Renault Megane er en crossover tilgjengelig i 1 varianter.
 			<a href="scenic"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" class="img-fluid" alt="Renault Scenic" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Renault Scenic er en crossover tilgjengelig i 1 varianter.
-<a href="scenic">Gå til modellinfo</a>
+</p>
+	<a href="scenic/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

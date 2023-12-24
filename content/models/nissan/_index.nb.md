@@ -15,8 +15,10 @@ weight: 30
 			<a href="ariya"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Nissan Ariya" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Nissan Ariya er en Coupe SUV tilgjengelig i 3 varianter.
-<a href="ariya">Gå til modellinfo</a>
+</p>
+	<a href="ariya/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

@@ -15,8 +15,10 @@ weight: 30
 			<a href="hummer_ev"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" class="img-fluid" alt="GMC Hummer EV" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 GMC Hummer EV er en pick-up som er tilgjengelig i 1 varianter.
-<a href="hummer_ev">Gå til modellinfo</a>
+</p>
+	<a href="hummer_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

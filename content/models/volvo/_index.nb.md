@@ -15,8 +15,10 @@ weight: 30
 			<a href="c40"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" class="img-fluid" alt="Volvo C40" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Volvo C40 er en crossover tilgjengelig i 3 varianter.
-<a href="c40">Gå til modellinfo</a>
+</p>
+	<a href="c40/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Volvo C40 er en crossover tilgjengelig i 3 varianter.
 			<a href="ex30"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="Volvo EX30" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Volvo EX30 er en crossover tilgjengelig i 3 varianter.
-<a href="ex30">Gå til modellinfo</a>
+</p>
+	<a href="ex30/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ Volvo EX30 er en crossover tilgjengelig i 3 varianter.
 			<a href="ex90"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" class="img-fluid" alt="Volvo EX90" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Volvo EX90 er en SUV tilgjengelig i 2 varianter.
-<a href="ex90">Gå til modellinfo</a>
+</p>
+	<a href="ex90/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -51,8 +57,10 @@ Volvo EX90 er en SUV tilgjengelig i 2 varianter.
 			<a href="xc40"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" class="img-fluid" alt="Volvo XC40" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Volvo XC40 er en crossover tilgjengelig i 3 varianter.
-<a href="xc40">Gå til modellinfo</a>
+</p>
+	<a href="xc40/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

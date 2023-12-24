@@ -15,8 +15,10 @@ The name Voyah comes from the word 'voyage' and reflects the brand's vision of p
 			<a href="free"><img src="https://media.evkx.net/multimedia/models/voyah/free/free/main_1_st.jpg" class="img-fluid" alt="VOYAH FREE" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 VOYAH FREE is a SUV available in 1 variants.
-<a href="free">Go to model info</a>
+</p>
+	<a href="free/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>

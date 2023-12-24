@@ -15,8 +15,10 @@ weight: 30
 			<a href="taycan"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" class="img-fluid" alt="Porsche Taycan" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 modelintro.SedanStationWagon.Luxury
-<a href="taycan">Gå til modellinfo</a>
+</p>
+	<a href="taycan/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

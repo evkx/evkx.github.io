@@ -15,8 +15,10 @@ weight: 30
 			<a href="atto_3"><img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_st.jpg" class="img-fluid" alt="BYD Atto 3" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Atto 3 er en crossover tilgjengelig i 1 varianter.
-<a href="atto_3">Gå til modellinfo</a>
+</p>
+	<a href="atto_3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ BYD Atto 3 er en crossover tilgjengelig i 1 varianter.
 			<a href="dolphin"><img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" class="img-fluid" alt="BYD Dolphin" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Dolphin er en crossover tilgjengelig i 1 varianter.
-<a href="dolphin">Gå til modellinfo</a>
+</p>
+	<a href="dolphin/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -39,8 +43,10 @@ BYD Dolphin er en crossover tilgjengelig i 1 varianter.
 			<a href="han"><img src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_st.jpg" class="img-fluid" alt="BYD Han" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Han er en sedan tilgjengelig i 1 varianter.
-<a href="han">Gå til modellinfo</a>
+</p>
+	<a href="han/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -51,8 +57,10 @@ BYD Han er en sedan tilgjengelig i 1 varianter.
 			<a href="seal"><img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_st.jpg" class="img-fluid" alt="BYD Seal" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Seal er en sedan tilgjengelig i 1 varianter.
-<a href="seal">Gå til modellinfo</a>
+</p>
+	<a href="seal/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -63,8 +71,10 @@ BYD Seal er en sedan tilgjengelig i 1 varianter.
 			<a href="tang"><img src="https://media.evkx.net/multimedia/models/byd/tang/tang_ev600/main_1_st.jpg" class="img-fluid" alt="BYD Tang" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 BYD Tang er en SUV tilgjengelig i 1 varianter.
-<a href="tang">Gå til modellinfo</a>
+</p>
+	<a href="tang/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>

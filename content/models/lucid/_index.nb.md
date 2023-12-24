@@ -15,8 +15,10 @@ weight: 30
 			<a href="air"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_st.jpg" class="img-fluid" alt="Lucid Air" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Lucid Air er en sedan tilgjengelig i 5 varianter.
-<a href="air">Gå til modellinfo</a>
+</p>
+	<a href="air/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
@@ -27,8 +29,10 @@ Lucid Air er en sedan tilgjengelig i 5 varianter.
 			<a href="gravity"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" class="img-fluid" alt="Lucid Gravity" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
+<p>
 Lucid Gravity er en SUV tilgjengelig i 1 varianter.
-<a href="gravity">Gå til modellinfo</a>
+</p>
+	<a href="gravity/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
 	</div>
 </div>
