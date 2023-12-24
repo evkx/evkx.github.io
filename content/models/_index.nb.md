@@ -7,52 +7,142 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll ned for å lese introduksjonen for hvert merke.
-<p>
-<a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="bmw"><img src="https://media.evkx.net/multimedia/models/bmw/logo_xst.png" alt="BMW" title="BMW" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="byd"><img src="https://media.evkx.net/multimedia/models/byd/logo_xst.png" alt="BYD" title="BYD" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="cadillac"><img src="https://media.evkx.net/multimedia/models/cadillac/logo_xst.png" alt="Cadillac" title="Cadillac" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="chevrolet"><img src="https://media.evkx.net/multimedia/models/chevrolet/logo_xst.png" alt="Chevrolet" title="Chevrolet" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="citroën"><img src="https://media.evkx.net/multimedia/models/citroën/logo_xst.png" alt="Citroën" title="Citroën" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="cupra"><img src="https://media.evkx.net/multimedia/models/cupra/logo_xst.png" alt="CUPRA" title="CUPRA" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="ds"><img src="https://media.evkx.net/multimedia/models/ds/logo_xst.png" alt="DS" title="DS" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="fiat"><img src="https://media.evkx.net/multimedia/models/fiat/logo_xst.png" alt="Fiat" title="Fiat" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="fisker"><img src="https://media.evkx.net/multimedia/models/fisker/logo_xst.png" alt="Fisker" title="Fisker" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="ford"><img src="https://media.evkx.net/multimedia/models/ford/logo_xst.png" alt="Ford" title="Ford" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="genesis"><img src="https://media.evkx.net/multimedia/models/genesis/logo_xst.png" alt="Genesis" title="Genesis" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="gmc"><img src="https://media.evkx.net/multimedia/models/gmc/logo_xst.png" alt="GMC" title="GMC" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="hiphi"><img src="https://media.evkx.net/multimedia/models/hiphi/logo_xst.png" alt="HiPhi" title="HiPhi" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="honda"><img src="https://media.evkx.net/multimedia/models/honda/logo_xst.png" alt="Honda" title="Honda" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="hongqi"><img src="https://media.evkx.net/multimedia/models/hongqi/logo_xst.png" alt="Hongqi" title="Hongqi" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="hyundai"><img src="https://media.evkx.net/multimedia/models/hyundai/logo_xst.png" alt="Hyundai" title="Hyundai" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="jaguar"><img src="https://media.evkx.net/multimedia/models/jaguar/logo_xst.png" alt="Jaguar" title="Jaguar" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="jeep"><img src="https://media.evkx.net/multimedia/models/jeep/logo_xst.png" alt="Jeep" title="Jeep" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="lexus"><img src="https://media.evkx.net/multimedia/models/lexus/logo_xst.png" alt="Lexus" title="Lexus" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="lotus"><img src="https://media.evkx.net/multimedia/models/lotus/logo_xst.png" alt="Lotus" title="Lotus" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="lucid"><img src="https://media.evkx.net/multimedia/models/lucid/logo_xst.png" alt="Lucid" title="Lucid" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="mercedes"><img src="https://media.evkx.net/multimedia/models/mercedes/logo_xst.png" alt="Mercedes" title="Mercedes" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="nio"><img src="https://media.evkx.net/multimedia/models/nio/logo_xst.png" alt="Nio" title="Nio" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="nissan"><img src="https://media.evkx.net/multimedia/models/nissan/logo_xst.png" alt="Nissan" title="Nissan" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="peugot"><img src="https://media.evkx.net/multimedia/models/peugot/logo_xst.png" alt="Peugot" title="Peugot" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="polestar"><img src="https://media.evkx.net/multimedia/models/polestar/logo_xst.png" alt="Polestar" title="Polestar" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="porsche"><img src="https://media.evkx.net/multimedia/models/porsche/logo_xst.png" alt="Porsche" title="Porsche" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="renault"><img src="https://media.evkx.net/multimedia/models/renault/logo_xst.png" alt="Renault" title="Renault" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="rivian"><img src="https://media.evkx.net/multimedia/models/rivian/logo_xst.png" alt="Rivian" title="Rivian" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="rolls-royce"><img src="https://media.evkx.net/multimedia/models/rolls-royce/logo_xst.png" alt="Rolls-Royce" title="Rolls-Royce" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="seres"><img src="https://media.evkx.net/multimedia/models/seres/logo_xst.png" alt="Seres" title="Seres" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="skoda"><img src="https://media.evkx.net/multimedia/models/skoda/logo_xst.png" alt="Skoda" title="Skoda" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="smart"><img src="https://media.evkx.net/multimedia/models/smart/logo_xst.png" alt="Smart" title="Smart" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="subaru"><img src="https://media.evkx.net/multimedia/models/subaru/logo_xst.png" alt="Subaru" title="Subaru" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="tesla"><img src="https://media.evkx.net/multimedia/models/tesla/logo_xst.png" alt="Tesla" title="Tesla" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="toyota"><img src="https://media.evkx.net/multimedia/models/toyota/logo_xst.png" alt="Toyota" title="Toyota" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="volkswagen"><img src="https://media.evkx.net/multimedia/models/volkswagen/logo_xst.png" alt="Volkswagen" title="Volkswagen" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="volvo"><img src="https://media.evkx.net/multimedia/models/volvo/logo_xst.png" alt="Volvo" title="Volvo" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="voyah"><img src="https://media.evkx.net/multimedia/models/voyah/logo_xst.png" alt="VOYAH" title="VOYAH" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="xpeng"><img src="https://media.evkx.net/multimedia/models/xpeng/logo_xst.png" alt="XPENG" title="XPENG" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-<a href="zeekr"><img src="https://media.evkx.net/multimedia/models/zeekr/logo_xst.png" alt="Zeekr" title="Zeekr" width="160px" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
-</p>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+	<div class="row align-items-start">
+		<div class="col col-6 col-md-3" >
+			<a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="bmw"><img src="https://media.evkx.net/multimedia/models/bmw/logo_xst.png" alt="BMW" title="BMW" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="byd"><img src="https://media.evkx.net/multimedia/models/byd/logo_xst.png" alt="BYD" title="BYD" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="cadillac"><img src="https://media.evkx.net/multimedia/models/cadillac/logo_xst.png" alt="Cadillac" title="Cadillac" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="chevrolet"><img src="https://media.evkx.net/multimedia/models/chevrolet/logo_xst.png" alt="Chevrolet" title="Chevrolet" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="citroën"><img src="https://media.evkx.net/multimedia/models/citroën/logo_xst.png" alt="Citroën" title="Citroën" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="cupra"><img src="https://media.evkx.net/multimedia/models/cupra/logo_xst.png" alt="CUPRA" title="CUPRA" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="ds"><img src="https://media.evkx.net/multimedia/models/ds/logo_xst.png" alt="DS" title="DS" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="fiat"><img src="https://media.evkx.net/multimedia/models/fiat/logo_xst.png" alt="Fiat" title="Fiat" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="fisker"><img src="https://media.evkx.net/multimedia/models/fisker/logo_xst.png" alt="Fisker" title="Fisker" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="ford"><img src="https://media.evkx.net/multimedia/models/ford/logo_xst.png" alt="Ford" title="Ford" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="genesis"><img src="https://media.evkx.net/multimedia/models/genesis/logo_xst.png" alt="Genesis" title="Genesis" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="gmc"><img src="https://media.evkx.net/multimedia/models/gmc/logo_xst.png" alt="GMC" title="GMC" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="hiphi"><img src="https://media.evkx.net/multimedia/models/hiphi/logo_xst.png" alt="HiPhi" title="HiPhi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="honda"><img src="https://media.evkx.net/multimedia/models/honda/logo_xst.png" alt="Honda" title="Honda" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="hongqi"><img src="https://media.evkx.net/multimedia/models/hongqi/logo_xst.png" alt="Hongqi" title="Hongqi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="hyundai"><img src="https://media.evkx.net/multimedia/models/hyundai/logo_xst.png" alt="Hyundai" title="Hyundai" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="jaguar"><img src="https://media.evkx.net/multimedia/models/jaguar/logo_xst.png" alt="Jaguar" title="Jaguar" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="jeep"><img src="https://media.evkx.net/multimedia/models/jeep/logo_xst.png" alt="Jeep" title="Jeep" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="lexus"><img src="https://media.evkx.net/multimedia/models/lexus/logo_xst.png" alt="Lexus" title="Lexus" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="lotus"><img src="https://media.evkx.net/multimedia/models/lotus/logo_xst.png" alt="Lotus" title="Lotus" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="lucid"><img src="https://media.evkx.net/multimedia/models/lucid/logo_xst.png" alt="Lucid" title="Lucid" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="mercedes"><img src="https://media.evkx.net/multimedia/models/mercedes/logo_xst.png" alt="Mercedes" title="Mercedes" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="nio"><img src="https://media.evkx.net/multimedia/models/nio/logo_xst.png" alt="Nio" title="Nio" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="nissan"><img src="https://media.evkx.net/multimedia/models/nissan/logo_xst.png" alt="Nissan" title="Nissan" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="peugot"><img src="https://media.evkx.net/multimedia/models/peugot/logo_xst.png" alt="Peugot" title="Peugot" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="polestar"><img src="https://media.evkx.net/multimedia/models/polestar/logo_xst.png" alt="Polestar" title="Polestar" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="porsche"><img src="https://media.evkx.net/multimedia/models/porsche/logo_xst.png" alt="Porsche" title="Porsche" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="renault"><img src="https://media.evkx.net/multimedia/models/renault/logo_xst.png" alt="Renault" title="Renault" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="rivian"><img src="https://media.evkx.net/multimedia/models/rivian/logo_xst.png" alt="Rivian" title="Rivian" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="rolls-royce"><img src="https://media.evkx.net/multimedia/models/rolls-royce/logo_xst.png" alt="Rolls-Royce" title="Rolls-Royce" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="seres"><img src="https://media.evkx.net/multimedia/models/seres/logo_xst.png" alt="Seres" title="Seres" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="skoda"><img src="https://media.evkx.net/multimedia/models/skoda/logo_xst.png" alt="Skoda" title="Skoda" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="smart"><img src="https://media.evkx.net/multimedia/models/smart/logo_xst.png" alt="Smart" title="Smart" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="subaru"><img src="https://media.evkx.net/multimedia/models/subaru/logo_xst.png" alt="Subaru" title="Subaru" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="tesla"><img src="https://media.evkx.net/multimedia/models/tesla/logo_xst.png" alt="Tesla" title="Tesla" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="toyota"><img src="https://media.evkx.net/multimedia/models/toyota/logo_xst.png" alt="Toyota" title="Toyota" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="volkswagen"><img src="https://media.evkx.net/multimedia/models/volkswagen/logo_xst.png" alt="Volkswagen" title="Volkswagen" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="volvo"><img src="https://media.evkx.net/multimedia/models/volvo/logo_xst.png" alt="Volvo" title="Volvo" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="voyah"><img src="https://media.evkx.net/multimedia/models/voyah/logo_xst.png" alt="VOYAH" title="VOYAH" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="xpeng"><img src="https://media.evkx.net/multimedia/models/xpeng/logo_xst.png" alt="XPENG" title="XPENG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
+			<a href="zeekr"><img src="https://media.evkx.net/multimedia/models/zeekr/logo_xst.png" alt="Zeekr" title="Zeekr" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+	</div>
+</div>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
