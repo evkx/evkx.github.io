@@ -154,7 +154,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 15.6 tommer stor .
+-skjermen bak rattet montert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 15.6 tommer stor . For baksetepassasjerene er det infotainmentskjermer bak på første seterad
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
