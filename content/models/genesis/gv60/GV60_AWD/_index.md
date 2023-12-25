@@ -68,7 +68,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ## Exterior
 
 You can choose between 10 different paint colors when ordering this model.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

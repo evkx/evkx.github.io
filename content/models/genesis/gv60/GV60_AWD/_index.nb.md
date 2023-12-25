@@ -68,7 +68,7 @@ Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#mac
 ## Eksteriør
 
 Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
+I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
 

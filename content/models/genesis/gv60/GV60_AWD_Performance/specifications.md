@@ -31,7 +31,15 @@ EVKX.net seeks to have the most complete specifications for Genesis GV60 AWD Per
 				Peak power
 			</td>
 			<td>
-				360 KW (489 hp /483 bhp)
+				320 KW (435 hp /429 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peak power with  boost
+			</td>
+			<td>
+				360 Kw
 			</td>
 		</tr>
 		<tr>

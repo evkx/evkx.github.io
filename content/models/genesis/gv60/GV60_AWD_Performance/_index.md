@@ -29,7 +29,7 @@ We have separated our Genesis GV60 AWD Performance article into sections. If you
 
 ## Performance
 
-The Genesis GV60 AWD Performance has a maximum power of 360 KW (490 hp/483 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 235 km/h.
+With overboost, the Genesis GV60 AWD Performance has a maximum power of 360 KW (490 hp / 435 bhp). Without overboost, it is 320 KW (435 hp / 483 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 235 km/h.
 
 ## Battery, range, and charging
 
@@ -68,7 +68,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ## Exterior
 
 You can choose between 10 different paint colors when ordering this model.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

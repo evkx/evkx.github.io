@@ -29,7 +29,7 @@ Vi har delt vår Genesis GV60 AWD Performance-artikkel i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Genesis GV60 AWD Performance har en maksimal effekt på 360KW (490hk). Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Topphastigheten er 235 km/t.
+Med overboost har Genesis GV60 AWD Performance en maksimal effekt på 360KW (490hk). Uten overboost er den 320KW (435hk). Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Topphastigheten er 235 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -68,7 +68,7 @@ Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#mac
 ## Eksteriør
 
 Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
+I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
 
