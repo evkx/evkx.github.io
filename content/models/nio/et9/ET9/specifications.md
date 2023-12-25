@@ -615,7 +615,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +953,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 14,5"
+				Yes, 15,6"
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +969,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
-				Not available
+				Yes, 14,5"
 			</td>
 		</tr>
 	</tbody>

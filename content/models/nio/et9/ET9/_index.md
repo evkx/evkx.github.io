@@ -119,11 +119,12 @@ You can choose from 3 different materials/colors for this seat type.<br />
 For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
 
 - electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
+- [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
@@ -153,7 +154,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large . The touch screen in the middle of the center console is 14.5 inches large .
+The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large . The touch screen in the middle of the center console is 15.6 inches large .
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.

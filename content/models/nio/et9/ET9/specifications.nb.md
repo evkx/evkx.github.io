@@ -615,7 +615,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +953,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 14,5
+				Ja, 15,6
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +969,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Infotainment skjerm bak
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 14,5"
 			</td>
 		</tr>
 	</tbody>

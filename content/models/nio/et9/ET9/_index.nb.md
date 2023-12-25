@@ -119,11 +119,12 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.<br />
 For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive- seter). I tillegg er følgende funksjoner tilgjengelige.
 
 - elektrisk justering
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
+- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
@@ -153,7 +154,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 14.5 tommer stor .
+-skjermen bak rattet montert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 15.6 tommer stor .
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
