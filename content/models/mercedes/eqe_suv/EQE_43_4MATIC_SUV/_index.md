@@ -161,7 +161,7 @@ Keyless go makes it possible to start the car without using the key.
 
 The steering wheel is electrically adjustable.
 
-You have easy entry for the driver seat that move the seat to make it more easy to enter the car.
+You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
 
 You have wireless charging for your phone.
 

@@ -156,7 +156,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The XPENG G9 RWD Standard Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large . The touch screen on the dashboard's center  is 15.0 inches large . The touch screen in front of the passenger on the dashboard is 15.0 inches large .
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/screens_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}

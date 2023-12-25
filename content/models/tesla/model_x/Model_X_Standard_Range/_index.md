@@ -151,7 +151,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Tesla Model X Standard Range has twin screens with information for the driver and passengers and a third screen in rear for multimedia. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17.0 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8.0 inches large .
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/screens_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}

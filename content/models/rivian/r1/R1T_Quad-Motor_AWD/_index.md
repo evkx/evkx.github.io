@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 9 different paint colors when ordering this model.
 
-The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electric powered.
+The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electrically powered.
 
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -145,7 +145,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Rivian R1T Quad-Motor AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 15.3 inches large and has a 1540 x 720 pixels resolution.
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/screens_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="1600" height="1067"  >}}

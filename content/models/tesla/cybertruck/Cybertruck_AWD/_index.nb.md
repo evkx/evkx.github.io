@@ -53,6 +53,10 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder.
 
+### V2L - Vehichle to load
+
+Denne modellen støtter V2L (Vehicle 2 Load) som betyr at du drive elektriske apparater med opptil  kW effekt. Dette inkluderer at du kan nødlade andre elbiler med denne. Det er tilgjengelige kontakter både på lasteplanet og i kabinen.
+
 {{<evkxdisplayaddarticle />}}
 
 

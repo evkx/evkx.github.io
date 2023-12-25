@@ -136,7 +136,7 @@ Keyless go makes it possible to start the car without using the key.
 ## User interface and control
 
 The Chevrolet Blazer EV RS AWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 11.0 inches large . The touch screen at the right part of the shared frame is 17.7 inches large .
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/screens_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}

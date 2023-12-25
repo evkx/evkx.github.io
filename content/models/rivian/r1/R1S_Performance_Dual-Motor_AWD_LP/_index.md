@@ -151,7 +151,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Rivian R1S Performance Dual-Motor AWD LP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 15.3 inches large and has a 1540 x 720 pixels resolution.
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/screens_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1600" height="1067"  >}}

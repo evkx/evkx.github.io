@@ -155,7 +155,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The  screen behind the steering wheel mounted into the dashboard is 35.0 inches large . The touch screen at the bottom of the center console is 11.0 inches large . The touch screen in front of the passenger on the dashboard is 20.0 inches large .
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}

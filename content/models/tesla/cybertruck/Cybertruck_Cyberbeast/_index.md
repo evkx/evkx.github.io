@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 3 different paint colors when ordering this model.
 
-The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electric powered.
+The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electrically powered.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -141,7 +141,7 @@ Keyless go makes it possible to start the car without using the key.
 
 The steering wheel is electrically adjustable.
 
-You have easy entry for the driver seat that move the seat to make it more easy to enter the car.
+You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
 
 You have wireless charging for your phone.
 
@@ -152,7 +152,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Tesla Cybertruck Cyberbeast has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 18.5 inches large .
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/screens_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
@@ -230,4 +230,4 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ### Availability & Pricing
 
-This model had a world premiere on 30.11.2023, and deliveries started in November 2023. This model is only available in North-America.
+This model had a world premiere on 30.11.2023, and deliveries started in November 2023. This model is only available in North America.

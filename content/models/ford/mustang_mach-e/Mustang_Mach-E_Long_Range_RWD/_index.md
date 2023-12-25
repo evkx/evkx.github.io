@@ -137,7 +137,7 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without using the key.
 
-You have easy entry for the driver seat that move the seat to make it more easy to enter the car.
+You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
 
 You have wireless charging for your phone.
 
@@ -148,7 +148,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large . The touch screen at the top of the center console is 15.5 inches large .
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2000"  >}}

@@ -139,7 +139,7 @@ Keyless go makes it possible to start the car without using the key.
 ## User interface and control
 
 The Cadillac LYRIQ AWD has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen behind the steering wheel accross the the center of the dash  is 33.0 inches large .
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/screens_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2000"  >}}

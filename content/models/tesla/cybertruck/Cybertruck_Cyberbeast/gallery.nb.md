@@ -207,24 +207,6 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/v2g_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/v2g_1.jpg"
-data-pswp-width="3000"
-data-pswp-height="2250" 
-target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/v2g_1_xst.jpg" alt="Tesla Cybertruck Cyberbeast" class="img-fluid img-thumbnail" />
-		</a>
-	</div>
-	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/v2g_2.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/v2g_2.jpg"
-data-pswp-width="3000"
-data-pswp-height="2250" 
-target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/v2g_2_xst.jpg" alt="Tesla Cybertruck Cyberbeast" class="img-fluid img-thumbnail" />
-		</a>
-	</div>
-	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/wheels_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/wheels_1.jpg"
 data-pswp-width="3000"

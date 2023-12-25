@@ -147,7 +147,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 11.0 inches large and has a 1888x1728 pixels resolution.
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
@@ -199,4 +199,4 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 05.01.2022, and deliveries started in September 2023. This model is only available in North-America.
+This model had a world premiere on 05.01.2022, and deliveries started in September 2023. This model is only available in North America.

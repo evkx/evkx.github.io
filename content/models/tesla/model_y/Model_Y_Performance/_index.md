@@ -149,7 +149,7 @@ Keyless go makes it possible to start the car without using the key.
 
 The steering wheel is electrically adjustable.
 
-You have easy entry for the driver seat that move the seat to make it more easy to enter the car.
+You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
 
 You have wireless charging for your phone.
 
@@ -160,7 +160,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Tesla Model Y Performance has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15.0 inches large and has a 2200 x 1300 pixels resolution.
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}

@@ -126,7 +126,7 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without using the key.
 
-You have easy entry for the driver seat that move the seat to make it more easy to enter the car.
+You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
 
 You have wireless charging for your phone.
 
@@ -137,7 +137,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Fisker Ocean Extreme has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large . The touch screen in the middle of the center console is 17.1 inches large .
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}

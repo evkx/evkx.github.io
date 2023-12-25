@@ -152,7 +152,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Tesla Model 3 Performance has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The  screen on the dashboard's center  is 15.0 inches large and has a 2200 x 1300 pixels resolution.
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_2_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}

@@ -137,7 +137,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 13.4 inches large and has a 1888x1728 pixels resolution.
-The model is not available with head-up display.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
@@ -187,4 +187,4 @@ The cargo capacity in the truck bed is 1039 liters. The bed width is 1272 mm, an
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3402, and on unbraked, it is 750 kg (7500/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 20.10.2020, and deliveries started in December 2021. This model is only available in North-America.
+This model had a world premiere on 20.10.2020, and deliveries started in December 2021. This model is only available in North America.
