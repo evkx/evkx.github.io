@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Extreme
 linktitle: "Ocean Extreme"
-description: "Fisker Ocean Extreme er en helelektrisk SUV med en WLTP rekkevidde på opptil 707 km (439 miles). EVKX.net har alle detaljene. "
+description: "Fisker Ocean Extreme er en helelektrisk SUV med en WLTP rekkevidde på opptil 707 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

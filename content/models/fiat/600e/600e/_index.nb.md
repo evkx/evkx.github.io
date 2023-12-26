@@ -1,7 +1,7 @@
 ---
 title: Fiat 600e
 linktitle: "600e"
-description: "Fiat 600e er en helelektrisk delefilter med en WLTP rekkevidde på opptil 409 km (254 miles). EVKX.net har alle detaljene. "
+description: "Fiat 600e er en helelektrisk delefilter med en WLTP rekkevidde på opptil 409 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

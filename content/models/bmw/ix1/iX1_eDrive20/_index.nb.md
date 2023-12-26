@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 eDrive20
 linktitle: "iX1 eDrive20"
-description: "BMW iX1 eDrive20 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 475 km (295 miles). EVKX.net har alle detaljene. "
+description: "BMW iX1 eDrive20 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 475 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

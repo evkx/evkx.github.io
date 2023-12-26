@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Sapphire
 linktitle: "Air Sapphire"
-description: "Lucid Air Sapphire er en helelektrisk sedan med en EPA rekkevidde på opptil 687 km (427 miles). EVKX.net har alle detaljene. "
+description: "Lucid Air Sapphire er en helelektrisk sedan med en EPA rekkevidde på opptil 687 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

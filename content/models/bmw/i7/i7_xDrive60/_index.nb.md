@@ -1,7 +1,7 @@
 ---
 title: BMW i7 xDrive60
 linktitle: "i7 xDrive60"
-description: "BMW i7 xDrive60 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 625 km (388 miles). EVKX.net har alle detaljene. "
+description: "BMW i7 xDrive60 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

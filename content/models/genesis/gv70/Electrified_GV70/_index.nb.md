@@ -1,7 +1,7 @@
 ---
 title: Genesis Electrified GV70
 linktitle: "Electrified GV70"
-description: "Genesis Electrified GV70 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km (292 miles). EVKX.net har alle detaljene. "
+description: "Genesis Electrified GV70 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

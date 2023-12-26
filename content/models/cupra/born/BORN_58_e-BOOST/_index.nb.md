@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 58 e-BOOST
 linktitle: "BORN 58 e-BOOST"
-description: "CUPRA BORN 58 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil 420 km (261 miles). EVKX.net har alle detaljene. "
+description: "CUPRA BORN 58 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil 420 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: BMW iX M60
 linktitle: "iX M60"
-description: "BMW iX M60 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 561 km (349 miles). EVKX.net har alle detaljene. "
+description: "BMW iX M60 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 561 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

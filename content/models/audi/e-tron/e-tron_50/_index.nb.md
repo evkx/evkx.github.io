@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 50
 linktitle: "e-tron 50"
-description: "Audi e-tron 50 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 341 km (212 miles). EVKX.net har alle detaljene. "
+description: "Audi e-tron 50 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 341 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

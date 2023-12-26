@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3
 linktitle: "Model 3"
-description: "Tesla Model 3 er en helelektrisk sedan med en WLTP rekkevidde på opptil 513 km (319 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model 3 er en helelektrisk sedan med en WLTP rekkevidde på opptil 513 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

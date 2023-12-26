@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 GTX 4MOTION
 linktitle: "ID.4 GTX 4MOTION"
-description: "Volkswagen ID.4 GTX 4MOTION er en helelektrisk SUV med en WLTP rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. "
+description: "Volkswagen ID.4 GTX 4MOTION er en helelektrisk SUV med en WLTP rekkevidde på opptil 515 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

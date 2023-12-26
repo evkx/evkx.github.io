@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4S Cross Turismo
 linktitle: "Taycan 4S Cross Turismo"
-description: "Porsche Taycan 4S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 490 km (305 miles). EVKX.net har alle detaljene. "
+description: "Porsche Taycan 4S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 490 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Long Range RWD
 linktitle: "001 Long Range RWD"
-description: "Zeekr 001 Long Range RWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 590 km (367 miles). EVKX.net har alle detaljene. "
+description: "Zeekr 001 Long Range RWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 590 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.5 Pro
 linktitle: "ID.5 Pro"
-description: "Volkswagen ID.5 Pro er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 556 km (346 miles). EVKX.net har alle detaljene. "
+description: "Volkswagen ID.5 Pro er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 556 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

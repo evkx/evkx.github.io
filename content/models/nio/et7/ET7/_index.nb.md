@@ -1,7 +1,7 @@
 ---
 title: Nio ET7
 linktitle: "ET7"
-description: "Nio ET7 er en helelektrisk sedan med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. "
+description: "Nio ET7 er en helelektrisk sedan med en WLTP rekkevidde på opptil 580 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

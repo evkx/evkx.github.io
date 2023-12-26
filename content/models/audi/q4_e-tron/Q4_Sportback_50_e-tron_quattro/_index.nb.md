@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 50 e-tron quattro
 linktitle: "Q4 Sportback 50 e-tron quattro"
-description: "Audi Q4 Sportback 50 e-tron quattro er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 522 km (324 miles). EVKX.net har alle detaljene. "
+description: "Audi Q4 Sportback 50 e-tron quattro er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 522 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

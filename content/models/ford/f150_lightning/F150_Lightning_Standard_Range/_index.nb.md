@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Standard Range
 linktitle: "F150 Lightning Standard Range"
-description: "Ford F150 Lightning Standard Range er en helelektrisk pickup med en WLTP rekkevidde på opptil 427 km (265 miles). EVKX.net har alle detaljene. "
+description: "Ford F150 Lightning Standard Range er en helelektrisk pickup med en WLTP rekkevidde på opptil 427 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

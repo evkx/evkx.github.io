@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 6 Long Range RWD
 linktitle: "Ioniq 6 Long Range RWD"
-description: "Hyundai Ioniq 6 Long Range RWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 614 km (382 miles). EVKX.net har alle detaljene. "
+description: "Hyundai Ioniq 6 Long Range RWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 614 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 55 Sportback
 linktitle: "e-tron 55 Sportback"
-description: "Audi e-tron 55 Sportback er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 452 km (281 miles). EVKX.net har alle detaljene. "
+description: "Audi e-tron 55 Sportback er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 452 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X Plaid
 linktitle: "Model X Plaid"
-description: "Tesla Model X Plaid er en helelektrisk SUV med en WLTP rekkevidde på opptil 543 km (338 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model X Plaid er en helelektrisk SUV med en WLTP rekkevidde på opptil 543 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

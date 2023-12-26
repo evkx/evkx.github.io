@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S
 linktitle: "Model S"
-description: "Tesla Model S er en helelektrisk sedan med en WLTP rekkevidde på opptil 649 km (403 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model S er en helelektrisk sedan med en WLTP rekkevidde på opptil 649 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Extended Range
 linktitle: "F150 Lightning Extended Range"
-description: "Ford F150 Lightning Extended Range er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. "
+description: "Ford F150 Lightning Extended Range er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

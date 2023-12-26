@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV
 linktitle: "EQS 680 SUV"
-description: "Mercedes-Maybach EQS 680 SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 600 km (373 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-Maybach EQS 680 SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

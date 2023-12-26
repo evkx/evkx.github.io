@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Dream Edition Range
 linktitle: "Air Dream Edition Range"
-description: "Lucid Air Dream Edition Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 883 km (549 miles). EVKX.net har alle detaljene. "
+description: "Lucid Air Dream Edition Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 883 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

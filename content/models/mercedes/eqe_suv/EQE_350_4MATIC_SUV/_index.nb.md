@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 350 4MATIC SUV
 linktitle: "EQE 350 4MATIC SUV"
-description: "Mercedes-EQ EQE 350 4MATIC SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQE 350 4MATIC SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 547 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

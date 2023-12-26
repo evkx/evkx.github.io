@@ -1,7 +1,7 @@
 ---
 title: Peugot E-2008
 linktitle: "E-2008"
-description: "Peugot E-2008 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 406 km (252 miles). EVKX.net har alle detaljene. "
+description: "Peugot E-2008 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 406 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

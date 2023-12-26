@@ -1,7 +1,7 @@
 ---
 title: Kia EV9 Long Range AWD
 linktitle: "EV9 Long Range AWD"
-description: "Kia EV9 Long Range AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 497 km (309 miles). EVKX.net har alle detaljene. "
+description: "Kia EV9 Long Range AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 497 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Nio ES8
 linktitle: "ES8"
-description: "Nio ES8 er en helelektrisk SUV med en WLTP rekkevidde på opptil 460 km (286 miles). EVKX.net har alle detaljene. "
+description: "Nio ES8 er en helelektrisk SUV med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

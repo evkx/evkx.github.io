@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ RS iV
 linktitle: "ENYAQ COUPÉ RS iV"
-description: "SKODA ENYAQ COUPÉ RS iV er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. "
+description: "SKODA ENYAQ COUPÉ RS iV er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 547 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Standard Range
 linktitle: "Model Y Standard Range"
-description: "Tesla Model Y Standard Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 430 km (267 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model Y Standard Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 430 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

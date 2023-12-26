@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Performance
 linktitle: "Model Y Performance"
-description: "Tesla Model Y Performance er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km (320 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model Y Performance er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

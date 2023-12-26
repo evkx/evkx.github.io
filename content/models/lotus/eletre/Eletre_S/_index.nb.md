@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre S
 linktitle: "Eletre S"
-description: "Lotus Eletre S er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 535 km (333 miles). EVKX.net har alle detaljene. "
+description: "Lotus Eletre S er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 535 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

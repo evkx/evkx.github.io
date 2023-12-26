@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Privilege AWD
 linktitle: "001 Privilege AWD"
-description: "Zeekr 001 Privilege AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. "
+description: "Zeekr 001 Privilege AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID. Buzz Pro
 linktitle: "ID. Buzz Pro"
-description: "Volkswagen ID. Buzz Pro er en helelektrisk MPV med en WLTP rekkevidde på opptil 418 km (260 miles). EVKX.net har alle detaljene. "
+description: "Volkswagen ID. Buzz Pro er en helelektrisk MPV med en WLTP rekkevidde på opptil 418 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

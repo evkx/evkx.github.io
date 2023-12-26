@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 40 e-tron
 linktitle: "Q4 40 e-tron"
-description: "Audi Q4 40 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 521 km (324 miles). EVKX.net har alle detaljene. "
+description: "Audi Q4 40 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 521 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

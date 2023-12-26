@@ -1,7 +1,7 @@
 ---
 title: BMW iX2 xDrive30
 linktitle: "iX2 xDrive30"
-description: "BMW iX2 xDrive30 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km (279 miles). EVKX.net har alle detaljene. "
+description: "BMW iX2 xDrive30 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

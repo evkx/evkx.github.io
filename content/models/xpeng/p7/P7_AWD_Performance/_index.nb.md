@@ -1,7 +1,7 @@
 ---
 title: XPENG P7 AWD Performance
 linktitle: "P7 AWD Performance"
-description: "XPENG P7 AWD Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 505 km (314 miles). EVKX.net har alle detaljene. "
+description: "XPENG P7 AWD Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 505 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan
 linktitle: "Taycan"
-description: "Porsche Taycan er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 431 km (268 miles). EVKX.net har alle detaljene. "
+description: "Porsche Taycan er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 431 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

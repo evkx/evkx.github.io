@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 (GEN1)
 linktitle: "Model 3 GEN1"
-description: "Tesla Model 3 (GEN1) er en helelektrisk sedan med en WLTP rekkevidde på opptil 495 km (308 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model 3 (GEN1) er en helelektrisk sedan med en WLTP rekkevidde på opptil 495 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

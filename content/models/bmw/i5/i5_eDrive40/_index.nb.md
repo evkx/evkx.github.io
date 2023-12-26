@@ -1,7 +1,7 @@
 ---
 title: BMW i5 eDrive40
 linktitle: "i5 eDrive40"
-description: "BMW i5 eDrive40 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 581 km (361 miles). EVKX.net har alle detaljene. "
+description: "BMW i5 eDrive40 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 581 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: BMW iX xDrive40
 linktitle: "iX xDrive40"
-description: "BMW iX xDrive40 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 425 km (264 miles). EVKX.net har alle detaljene. "
+description: "BMW iX xDrive40 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 425 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

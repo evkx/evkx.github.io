@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Performance
 linktitle: "Model 3 Performance"
-description: "Tesla Model 3 Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model 3 Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 547 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: HiPhi X 4 Seater
 linktitle: "X 4 Seater"
-description: "HiPhi X 4 Seater er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 460 km (286 miles). EVKX.net har alle detaljene. "
+description: "HiPhi X 4 Seater er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

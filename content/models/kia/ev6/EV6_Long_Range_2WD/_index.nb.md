@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range 2WD
 linktitle: "EV6 Long Range 2WD"
-description: "Kia EV6 Long Range 2WD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 528 km (328 miles). EVKX.net har alle detaljene. "
+description: "Kia EV6 Long Range 2WD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 528 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

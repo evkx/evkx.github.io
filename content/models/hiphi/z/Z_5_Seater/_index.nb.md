@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 5 Seater
 linktitle: "Z 5 Seater"
-description: "HiPhi Z 5 Seater er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 555 km (345 miles). EVKX.net har alle detaljene. "
+description: "HiPhi Z 5 Seater er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 555 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

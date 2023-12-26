@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron S Sportback
 linktitle: "e-tron S Sportback"
-description: "Audi e-tron S Sportback er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 379 km (236 miles). EVKX.net har alle detaljene. "
+description: "Audi e-tron S Sportback er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 379 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

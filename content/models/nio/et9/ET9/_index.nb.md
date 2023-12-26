@@ -1,7 +1,7 @@
 ---
 title: Nio ET9
 linktitle: "ET9"
-description: "Nio ET9 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 720 km (448 miles). EVKX.net har alle detaljene. "
+description: "Nio ET9 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 720 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

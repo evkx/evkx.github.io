@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQE 43 4MATIC SUV
 linktitle: "EQE 43 4MATIC SUV"
-description: "Mercedes-AMG EQE 43 4MATIC SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 488 km (303 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-AMG EQE 43 4MATIC SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 488 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

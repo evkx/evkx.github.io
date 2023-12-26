@@ -1,7 +1,7 @@
 ---
 title: Hyundai Kona Standard Range
 linktitle: "Kona Standard Range"
-description: "Hyundai Kona Standard Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 377 km (234 miles). EVKX.net har alle detaljene. "
+description: "Hyundai Kona Standard Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 377 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

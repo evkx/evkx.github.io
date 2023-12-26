@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 350 4MATIC
 linktitle: "EQE 350 4MATIC"
-description: "Mercedes-EQ EQE 350 4MATIC er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 597 km (371 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQE 350 4MATIC er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 597 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Grand Touring
 linktitle: "Air Grand Touring"
-description: "Lucid Air Grand Touring er en helelektrisk sedan med en WLTP rekkevidde på opptil 839 km (521 miles). EVKX.net har alle detaljene. "
+description: "Lucid Air Grand Touring er en helelektrisk sedan med en WLTP rekkevidde på opptil 839 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

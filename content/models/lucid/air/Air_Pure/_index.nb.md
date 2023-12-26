@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Pure
 linktitle: "Air Pure"
-description: "Lucid Air Pure er en helelektrisk sedan med en EPA rekkevidde på opptil 660 km (410 miles). EVKX.net har alle detaljene. "
+description: "Lucid Air Pure er en helelektrisk sedan med en EPA rekkevidde på opptil 660 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

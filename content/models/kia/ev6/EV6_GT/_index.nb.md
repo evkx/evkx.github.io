@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT
 linktitle: "EV6 GT"
-description: "Kia EV6 GT er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 424 km (264 miles). EVKX.net har alle detaljene. "
+description: "Kia EV6 GT er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 424 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

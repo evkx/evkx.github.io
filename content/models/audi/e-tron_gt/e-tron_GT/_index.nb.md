@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT
 linktitle: "e-tron GT"
-description: "Audi e-tron GT er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 488 km (303 miles). EVKX.net har alle detaljene. "
+description: "Audi e-tron GT er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 488 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Audi SQ8 Sportback e-tron
 linktitle: "SQ8 Sportback e-tron"
-description: "Audi SQ8 Sportback e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 513 km (319 miles). EVKX.net har alle detaljene. "
+description: "Audi SQ8 Sportback e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 513 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

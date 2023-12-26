@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E GT
 linktitle: "Mustang Mach-E GT"
-description: "Ford Mustang Mach-E GT er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 490 km (305 miles). EVKX.net har alle detaljene. "
+description: "Ford Mustang Mach-E GT er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 490 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

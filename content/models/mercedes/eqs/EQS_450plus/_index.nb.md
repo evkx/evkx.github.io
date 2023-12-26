@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 450+
 linktitle: "EQS 450+"
-description: "Mercedes-EQ EQS 450+ er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 783 km (487 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQS 450+ er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 783 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: MG MG5 Electric Long Range
 linktitle: "MG5 Electric Long Range"
-description: "MG MG5 Electric Long Range er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 400 km (249 miles). EVKX.net har alle detaljene. "
+description: "MG MG5 Electric Long Range er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 400 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

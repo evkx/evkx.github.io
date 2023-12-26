@@ -1,7 +1,7 @@
 ---
 title: Nio ET5 Touring
 linktitle: "ET5 Touring"
-description: "Nio ET5 Touring er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 560 km (348 miles). EVKX.net har alle detaljene. "
+description: "Nio ET5 Touring er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 560 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

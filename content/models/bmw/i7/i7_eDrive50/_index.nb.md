@@ -1,7 +1,7 @@
 ---
 title: BMW i7 eDrive50
 linktitle: "i7 eDrive50"
-description: "BMW i7 eDrive50 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 611 km (380 miles). EVKX.net har alle detaljene. "
+description: "BMW i7 eDrive50 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 611 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S
 linktitle: "Taycan Turbo S"
-description: "Porsche Taycan Turbo S er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 507 km (315 miles). EVKX.net har alle detaljene. "
+description: "Porsche Taycan Turbo S er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 507 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

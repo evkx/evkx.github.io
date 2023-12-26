@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90 Twin Motor
 linktitle: "EX90 Twin Motor"
-description: "Volvo EX90 Twin Motor er en helelektrisk SUV med en WLTP rekkevidde på opptil 580 km (361 miles). EVKX.net har alle detaljene. "
+description: "Volvo EX90 Twin Motor er en helelektrisk SUV med en WLTP rekkevidde på opptil 580 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

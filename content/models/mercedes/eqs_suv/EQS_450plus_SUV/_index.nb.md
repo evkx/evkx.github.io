@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 450+ SUV
 linktitle: "EQS 450+ SUV"
-description: "Mercedes-EQ EQS 450+ SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 672 km (418 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQS 450+ SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 672 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

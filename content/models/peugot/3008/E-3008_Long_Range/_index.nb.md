@@ -1,7 +1,7 @@
 ---
 title: Peugot E-3008 Long Range
 linktitle: "E-3008 Long Range"
-description: "Peugot E-3008 Long Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 700 km (435 miles). EVKX.net har alle detaljene. "
+description: "Peugot E-3008 Long Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 700 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

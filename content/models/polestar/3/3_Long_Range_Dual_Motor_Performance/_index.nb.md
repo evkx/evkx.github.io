@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance
 linktitle: "3 Long Range Dual Motor Performance"
-description: "Polestar 3 Long Range Dual Motor Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 560 km (348 miles). EVKX.net har alle detaljene. "
+description: "Polestar 3 Long Range Dual Motor Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 560 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

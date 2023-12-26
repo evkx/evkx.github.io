@@ -1,7 +1,7 @@
 ---
 title: SKODA Enyaq iV80
 linktitle: "Enyaq iV80"
-description: "SKODA Enyaq iV80 er en helelektrisk SUV med en WLTP rekkevidde på opptil 534 km (332 miles). EVKX.net har alle detaljene. "
+description: "SKODA Enyaq iV80 er en helelektrisk SUV med en WLTP rekkevidde på opptil 534 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

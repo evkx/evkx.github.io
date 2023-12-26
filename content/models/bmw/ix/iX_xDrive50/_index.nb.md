@@ -1,7 +1,7 @@
 ---
 title: BMW iX xDrive50
 linktitle: "iX xDrive50"
-description: "BMW iX xDrive50 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 631 km (392 miles). EVKX.net har alle detaljene. "
+description: "BMW iX xDrive50 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 631 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

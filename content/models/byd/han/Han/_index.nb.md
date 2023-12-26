@@ -1,7 +1,7 @@
 ---
 title: BYD Han
 linktitle: "Han"
-description: "BYD Han er en helelektrisk sedan med en WLTP rekkevidde på opptil 521 km (324 miles). EVKX.net har alle detaljene. "
+description: "BYD Han er en helelektrisk sedan med en WLTP rekkevidde på opptil 521 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

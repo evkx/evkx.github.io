@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE
 linktitle: "Ariya 87kWh e-4ORCE"
-description: "Nissan Ariya 87kWh e-4ORCE er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 500 km (311 miles). EVKX.net har alle detaljene. "
+description: "Nissan Ariya 87kWh e-4ORCE er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 500 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

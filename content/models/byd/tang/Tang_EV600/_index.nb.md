@@ -1,7 +1,7 @@
 ---
 title: BYD Tang EV600
 linktitle: "Tang EV600"
-description: "BYD Tang EV600 er en helelektrisk SUV med en WLTP rekkevidde på opptil 400 km (249 miles). EVKX.net har alle detaljene. "
+description: "BYD Tang EV600 er en helelektrisk SUV med en WLTP rekkevidde på opptil 400 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

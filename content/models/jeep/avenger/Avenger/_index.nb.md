@@ -1,7 +1,7 @@
 ---
 title: Jeep Avenger
 linktitle: "Avenger"
-description: "Jeep Avenger er en helelektrisk delefilter med en WLTP rekkevidde på opptil 404 km (251 miles). EVKX.net har alle detaljene. "
+description: "Jeep Avenger er en helelektrisk delefilter med en WLTP rekkevidde på opptil 404 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

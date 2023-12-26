@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 350+
 linktitle: "EQE 350+"
-description: "Mercedes-EQ EQE 350+ er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 639 km (397 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQE 350+ er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 639 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

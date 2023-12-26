@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Pro
 linktitle: "ID.7 Pro"
-description: "Volkswagen ID.7 Pro er en helelektrisk sedan med en WLTP rekkevidde på opptil 615 km (382 miles). EVKX.net har alle detaljene. "
+description: "Volkswagen ID.7 Pro er en helelektrisk sedan med en WLTP rekkevidde på opptil 615 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

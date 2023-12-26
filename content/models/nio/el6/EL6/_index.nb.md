@@ -1,7 +1,7 @@
 ---
 title: Nio EL6
 linktitle: "EL6"
-description: "Nio EL6 er en helelektrisk SUV med en WLTP rekkevidde på opptil 513 km (319 miles). EVKX.net har alle detaljene. "
+description: "Nio EL6 er en helelektrisk SUV med en WLTP rekkevidde på opptil 513 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Tesla Cybertruck Cyberbeast
 linktitle: "Cybertruck Cyberbeast"
-description: "Tesla Cybertruck Cyberbeast er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. "
+description: "Tesla Cybertruck Cyberbeast er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

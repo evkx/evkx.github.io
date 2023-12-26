@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan GTS
 linktitle: "Taycan GTS"
-description: "Porsche Taycan GTS er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 504 km (313 miles). EVKX.net har alle detaljene. "
+description: "Porsche Taycan GTS er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 504 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

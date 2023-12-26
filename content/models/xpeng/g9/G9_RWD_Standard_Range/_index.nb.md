@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 RWD Standard Range
 linktitle: "G9 RWD Standard Range"
-description: "XPENG G9 RWD Standard Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 460 km (286 miles). EVKX.net har alle detaljene. "
+description: "XPENG G9 RWD Standard Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

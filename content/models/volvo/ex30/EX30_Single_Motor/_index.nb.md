@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Single Motor
 linktitle: "EX30 Single Motor"
-description: "Volvo EX30 Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 344 km (214 miles). EVKX.net har alle detaljene. "
+description: "Volvo EX30 Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 344 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

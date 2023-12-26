@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 Sportback 50 e-tron
 linktitle: "Q8 Sportback 50 e-tron"
-description: "Audi Q8 Sportback 50 e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 505 km (314 miles). EVKX.net har alle detaljene. "
+description: "Audi Q8 Sportback 50 e-tron er en helelektrisk luksuskupé-SUV med en WLTP rekkevidde på opptil 505 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

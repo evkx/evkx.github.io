@@ -1,7 +1,7 @@
 ---
 title: Seres 5 4WD Premium
 linktitle: "5 4WD Premium"
-description: "Seres 5 4WD Premium er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 483 km (300 miles). EVKX.net har alle detaljene. "
+description: "Seres 5 4WD Premium er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 483 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

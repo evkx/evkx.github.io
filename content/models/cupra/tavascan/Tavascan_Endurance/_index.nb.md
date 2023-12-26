@@ -1,7 +1,7 @@
 ---
 title: CUPRA Tavascan Endurance
 linktitle: "Tavascan Endurance"
-description: "CUPRA Tavascan Endurance er en helelektrisk SUV med en WLTP rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. "
+description: "CUPRA Tavascan Endurance er en helelektrisk SUV med en WLTP rekkevidde på opptil 547 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

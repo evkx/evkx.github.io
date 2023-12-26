@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 55 e-tron
 linktitle: "Q8 55 e-tron"
-description: "Audi Q8 55 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 582 km (362 miles). EVKX.net har alle detaljene. "
+description: "Audi Q8 55 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 582 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

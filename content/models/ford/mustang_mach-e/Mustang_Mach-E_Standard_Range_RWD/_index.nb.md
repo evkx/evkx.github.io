@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Standard Range RWD
 linktitle: "Mustang Mach-E Standard Range RWD"
-description: "Ford Mustang Mach-E Standard Range RWD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 440 km (274 miles). EVKX.net har alle detaljene. "
+description: "Ford Mustang Mach-E Standard Range RWD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 440 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Dual Motor Performance
 linktitle: "2 Long Range Dual Motor Performance"
-description: "Polestar 2 Long Range Dual Motor Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 592 km (368 miles). EVKX.net har alle detaljene. "
+description: "Polestar 2 Long Range Dual Motor Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 592 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

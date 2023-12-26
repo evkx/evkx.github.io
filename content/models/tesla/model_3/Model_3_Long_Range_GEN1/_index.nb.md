@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range (GEN1)
 linktitle: "Model 3 Long Range GEN1"
-description: "Tesla Model 3 Long Range (GEN1) er en helelektrisk sedan med en WLTP rekkevidde på opptil 602 km (374 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model 3 Long Range (GEN1) er en helelektrisk sedan med en WLTP rekkevidde på opptil 602 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

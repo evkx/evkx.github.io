@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQS 53 4MATIC+
 linktitle: "EQS 53 4MATIC+"
-description: "Mercedes-AMG EQS 53 4MATIC+ er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 570 km (354 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-AMG EQS 53 4MATIC+ er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

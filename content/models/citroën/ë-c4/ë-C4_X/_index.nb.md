@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C4 X
 linktitle: "ë-C4 X"
-description: "Citroën ë-C4 X er en helelektrisk delefilter med en WLTP rekkevidde på opptil 402 km (250 miles). EVKX.net har alle detaljene. "
+description: "Citroën ë-C4 X er en helelektrisk delefilter med en WLTP rekkevidde på opptil 402 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

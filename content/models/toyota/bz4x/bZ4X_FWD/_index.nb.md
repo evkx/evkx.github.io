@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X FWD
 linktitle: "bZ4X FWD"
-description: "Toyota bZ4X FWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 516 km (321 miles). EVKX.net har alle detaljene. "
+description: "Toyota bZ4X FWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 516 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

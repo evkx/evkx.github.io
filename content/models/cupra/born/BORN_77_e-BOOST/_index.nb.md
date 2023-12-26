@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 77 e-BOOST
 linktitle: "BORN 77 e-BOOST"
-description: "CUPRA BORN 77 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil 548 km (341 miles). EVKX.net har alle detaljene. "
+description: "CUPRA BORN 77 e-BOOST er en helelektrisk kombi med en WLTP rekkevidde på opptil 548 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

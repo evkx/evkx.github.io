@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 RWD Long Range
 linktitle: "G9 RWD Long Range"
-description: "XPENG G9 RWD Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 570 km (354 miles). EVKX.net har alle detaljene. "
+description: "XPENG G9 RWD Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

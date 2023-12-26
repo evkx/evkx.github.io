@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 55
 linktitle: "e-tron 55"
-description: "Audi e-tron 55 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 441 km (274 miles). EVKX.net har alle detaljene. "
+description: "Audi e-tron 55 er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 441 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

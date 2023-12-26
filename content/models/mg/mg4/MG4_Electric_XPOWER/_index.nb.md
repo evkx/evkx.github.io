@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric XPOWER
 linktitle: "MG4 Electric XPOWER"
-description: "MG MG4 Electric XPOWER er en helelektrisk delefilter med en WLTP rekkevidde på opptil 435 km (270 miles). EVKX.net har alle detaljene. "
+description: "MG MG4 Electric XPOWER er en helelektrisk delefilter med en WLTP rekkevidde på opptil 435 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

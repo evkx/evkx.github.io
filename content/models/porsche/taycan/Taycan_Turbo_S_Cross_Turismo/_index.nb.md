@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S Cross Turismo
 linktitle: "Taycan Turbo S Cross Turismo"
-description: "Porsche Taycan Turbo S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 419 km (260 miles). EVKX.net har alle detaljene. "
+description: "Porsche Taycan Turbo S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 419 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

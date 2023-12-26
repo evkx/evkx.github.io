@@ -1,7 +1,7 @@
 ---
 title: Tesla Cybertruck AWD
 linktitle: "Cybertruck AWD"
-description: "Tesla Cybertruck AWD er en helelektrisk pickup med en EPA rekkevidde på opptil 547 km (340 miles). EVKX.net har alle detaljene. "
+description: "Tesla Cybertruck AWD er en helelektrisk pickup med en EPA rekkevidde på opptil 547 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

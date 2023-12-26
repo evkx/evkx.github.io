@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ RS iV (GEN1)
 linktitle: "ENYAQ COUPÉ RS iV GEN1"
-description: "SKODA ENYAQ COUPÉ RS iV (GEN1) er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km (320 miles). EVKX.net har alle detaljene. "
+description: "SKODA ENYAQ COUPÉ RS iV (GEN1) er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

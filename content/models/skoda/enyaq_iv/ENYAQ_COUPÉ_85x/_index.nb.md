@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ 85x
 linktitle: "ENYAQ COUPÉ 85x"
-description: "SKODA ENYAQ COUPÉ 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 545 km (339 miles). EVKX.net har alle detaljene. "
+description: "SKODA ENYAQ COUPÉ 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 545 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: BYD Seal AWD
 linktitle: "Seal AWD"
-description: "BYD Seal AWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 520 km (323 miles). EVKX.net har alle detaljene. "
+description: "BYD Seal AWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 520 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

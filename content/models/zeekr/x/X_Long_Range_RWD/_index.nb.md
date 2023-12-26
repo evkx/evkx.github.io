@@ -1,7 +1,7 @@
 ---
 title: Zeekr X Long Range RWD
 linktitle: "X Long Range RWD"
-description: "Zeekr X Long Range RWD er en helelektrisk delefilter med en WLTP rekkevidde på opptil 440 km (274 miles). EVKX.net har alle detaljene. "
+description: "Zeekr X Long Range RWD er en helelektrisk delefilter med en WLTP rekkevidde på opptil 440 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

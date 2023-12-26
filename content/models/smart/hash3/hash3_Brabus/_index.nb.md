@@ -1,7 +1,7 @@
 ---
 title: Smart #3 Brabus
 linktitle: "#3 Brabus"
-description: "Smart #3 Brabus er en helelektrisk delefilter med en WLTP rekkevidde på opptil 415 km (258 miles). EVKX.net har alle detaljene. "
+description: "Smart #3 Brabus er en helelektrisk delefilter med en WLTP rekkevidde på opptil 415 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

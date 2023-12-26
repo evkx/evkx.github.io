@@ -1,7 +1,7 @@
 ---
 title: Hongqi E-HS9 Premium
 linktitle: "E-HS9 Premium"
-description: "Hongqi E-HS9 Premium er en helelektrisk SUV med en WLTP rekkevidde på opptil 465 km (289 miles). EVKX.net har alle detaljene. "
+description: "Hongqi E-HS9 Premium er en helelektrisk SUV med en WLTP rekkevidde på opptil 465 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

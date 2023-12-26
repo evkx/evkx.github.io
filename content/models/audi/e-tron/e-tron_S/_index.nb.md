@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron S
 linktitle: "e-tron S"
-description: "Audi e-tron S er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 374 km (232 miles). EVKX.net har alle detaljene. "
+description: "Audi e-tron S er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 374 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

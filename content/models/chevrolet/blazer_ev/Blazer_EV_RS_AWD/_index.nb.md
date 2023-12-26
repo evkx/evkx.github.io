@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Blazer EV RS AWD
 linktitle: "Blazer EV RS AWD"
-description: "Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km (279 miles). EVKX.net har alle detaljene. "
+description: "Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

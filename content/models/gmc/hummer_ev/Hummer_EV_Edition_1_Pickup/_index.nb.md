@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV Edition 1 Pickup
 linktitle: "Hummer EV Edition 1 Pickup"
-description: "GMC Hummer EV Edition 1 Pickup er en helelektrisk pickup med en EPA rekkevidde på opptil 529 km (329 miles). EVKX.net har alle detaljene. "
+description: "GMC Hummer EV Edition 1 Pickup er en helelektrisk pickup med en EPA rekkevidde på opptil 529 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

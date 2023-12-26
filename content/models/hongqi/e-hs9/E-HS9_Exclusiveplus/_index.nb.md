@@ -1,7 +1,7 @@
 ---
 title: Hongqi E-HS9 Exclusive+
 linktitle: "E-HS9 Exclusive+"
-description: "Hongqi E-HS9 Exclusive+ er en helelektrisk SUV med en WLTP rekkevidde på opptil 515 km (320 miles). EVKX.net har alle detaljene. "
+description: "Hongqi E-HS9 Exclusive+ er en helelektrisk SUV med en WLTP rekkevidde på opptil 515 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

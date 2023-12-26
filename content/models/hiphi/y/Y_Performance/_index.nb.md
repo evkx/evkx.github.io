@@ -1,7 +1,7 @@
 ---
 title: HiPhi Y Performance
 linktitle: "Y Performance"
-description: "HiPhi Y Performance er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 620 km (385 miles). EVKX.net har alle detaljene. "
+description: "HiPhi Y Performance er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 620 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

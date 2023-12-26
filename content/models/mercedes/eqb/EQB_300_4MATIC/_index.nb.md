@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQB 300 4MATIC
 linktitle: "EQB 300 4MATIC"
-description: "Mercedes-EQ EQB 300 4MATIC er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 423 km (263 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQB 300 4MATIC er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 423 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

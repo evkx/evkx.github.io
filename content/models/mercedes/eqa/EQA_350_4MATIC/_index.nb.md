@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQA 350 4MATIC
 linktitle: "EQA 350 4MATIC"
-description: "Mercedes-EQ EQA 350 4MATIC er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 438 km (272 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQA 350 4MATIC er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 438 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

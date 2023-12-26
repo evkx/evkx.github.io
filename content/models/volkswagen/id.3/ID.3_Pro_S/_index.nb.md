@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.3 Pro S
 linktitle: "ID.3 Pro S"
-description: "Volkswagen ID.3 Pro S er en helelektrisk kombi med en WLTP rekkevidde på opptil 553 km (344 miles). EVKX.net har alle detaljene. "
+description: "Volkswagen ID.3 Pro S er en helelektrisk kombi med en WLTP rekkevidde på opptil 553 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

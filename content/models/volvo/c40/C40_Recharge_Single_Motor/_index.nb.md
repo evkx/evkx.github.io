@@ -1,7 +1,7 @@
 ---
 title: Volvo C40 Recharge Single Motor
 linktitle: "C40 Recharge Single Motor"
-description: "Volvo C40 Recharge Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 478 km (297 miles). EVKX.net har alle detaljene. "
+description: "Volvo C40 Recharge Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 478 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

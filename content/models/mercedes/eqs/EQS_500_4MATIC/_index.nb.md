@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 500 4MATIC
 linktitle: "EQS 500 4MATIC"
-description: "Mercedes-EQ EQS 500 4MATIC er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 696 km (433 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQS 500 4MATIC er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 696 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

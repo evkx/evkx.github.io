@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 63kWh
 linktitle: "Ariya 63kWh"
-description: "Nissan Ariya 63kWh er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 403 km (251 miles). EVKX.net har alle detaljene. "
+description: "Nissan Ariya 63kWh er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 403 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

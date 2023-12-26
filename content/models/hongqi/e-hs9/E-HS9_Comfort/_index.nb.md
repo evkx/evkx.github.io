@@ -1,7 +1,7 @@
 ---
 title: Hongqi E-HS9 Comfort
 linktitle: "E-HS9 Comfort"
-description: "Hongqi E-HS9 Comfort er en helelektrisk SUV med en WLTP rekkevidde på opptil 396 km (246 miles). EVKX.net har alle detaljene. "
+description: "Hongqi E-HS9 Comfort er en helelektrisk SUV med en WLTP rekkevidde på opptil 396 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Long Range RWD
 linktitle: "Mustang Mach-E Long Range RWD"
-description: "Ford Mustang Mach-E Long Range RWD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 600 km (373 miles). EVKX.net har alle detaljene. "
+description: "Ford Mustang Mach-E Long Range RWD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

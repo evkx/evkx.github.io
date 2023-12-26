@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range 2WD
 linktitle: "Ioniq 5 Long Range 2WD"
-description: "Hyundai Ioniq 5 Long Range 2WD er en helelektrisk SUV med en WLTP rekkevidde på opptil 507 km (315 miles). EVKX.net har alle detaljene. "
+description: "Hyundai Ioniq 5 Long Range 2WD er en helelektrisk SUV med en WLTP rekkevidde på opptil 507 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S Plaid
 linktitle: "Model S Plaid"
-description: "Tesla Model S Plaid er en helelektrisk sedan med en WLTP rekkevidde på opptil 600 km (373 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model S Plaid er en helelektrisk sedan med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQC 400 4MATIC
 linktitle: "EQC 400 4MATIC"
-description: "Mercedes-EQ EQC 400 4MATIC er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 432 km (269 miles). EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQC 400 4MATIC er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 432 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

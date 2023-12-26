@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S Standard Range
 linktitle: "Model S Standard Range"
-description: "Tesla Model S Standard Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 512 km (318 miles). EVKX.net har alle detaljene. "
+description: "Tesla Model S Standard Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 512 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

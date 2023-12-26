@@ -1,7 +1,7 @@
 ---
 title: BMW i4 eDrive35
 linktitle: "i4 eDrive35"
-description: "BMW i4 eDrive35 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 490 km (305 miles). EVKX.net har alle detaljene. "
+description: "BMW i4 eDrive35 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 490 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

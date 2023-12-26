@@ -1,7 +1,7 @@
 ---
 title: Audi SQ8 e-tron
 linktitle: "SQ8 e-tron"
-description: "Audi SQ8 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 494 km (307 miles). EVKX.net har alle detaljene. "
+description: "Audi SQ8 e-tron er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 494 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

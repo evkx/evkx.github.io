@@ -1,7 +1,7 @@
 ---
 title: Rolls-Royce Spectre
 linktitle: "Spectre"
-description: "Rolls-Royce Spectre er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 530 km (329 miles). EVKX.net har alle detaljene. "
+description: "Rolls-Royce Spectre er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 530 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

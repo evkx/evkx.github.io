@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV 4WT
 linktitle: "Silverado EV 4WT"
-description: "Chevrolet Silverado EV 4WT er en helelektrisk pickup med en EPA rekkevidde på opptil 724 km (450 miles). EVKX.net har alle detaljene. "
+description: "Chevrolet Silverado EV 4WT er en helelektrisk pickup med en EPA rekkevidde på opptil 724 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Audi RS e-tron GT
 linktitle: "RS e-tron GT"
-description: "Audi RS e-tron GT er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 495 km (308 miles). EVKX.net har alle detaljene. "
+description: "Audi RS e-tron GT er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 495 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
