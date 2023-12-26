@@ -65,7 +65,7 @@ Volkswagen ID.5 GTX 4MOTION (GEN1) har et firehjulsdriftssystem som støttes av 
 
 Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 170 mm.
 
-Du kan bestille Volkswagen ID.5 GTX 4MOTION (GEN1) med en alternativ sport suspensjon. Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 153 mm.
+Du kan bestille Volkswagen ID.5 GTX 4MOTION (GEN1) med en alternativ sport hjuloppheng. Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 153 mm.
 
 ### Styring
 

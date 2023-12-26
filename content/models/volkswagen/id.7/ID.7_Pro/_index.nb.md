@@ -63,7 +63,7 @@ Volkswagen ID.7 Pro har et bakhjulsdriftssystem støttet av en motor på bakakse
 
 standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 180 mm.
 
-Du kan bestille Volkswagen ID.7 Pro med en alternativ sport suspensjon. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
+Du kan bestille Volkswagen ID.7 Pro med en alternativ sport hjuloppheng. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
 
 ### Styring
 

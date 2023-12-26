@@ -63,7 +63,7 @@ SKODA Enyaq iV80 har et bakhjulsdriftssystem støttet av en motor på bakakselen
 
 standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 187 mm.
 
-Du kan bestille SKODA Enyaq iV80 med en alternativ sport suspensjon. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 171 mm.
+Du kan bestille SKODA Enyaq iV80 med en alternativ sport hjuloppheng. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 171 mm.
 
 ### Styring
 
