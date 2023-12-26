@@ -57,6 +57,10 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 Denne modellen støtter V2L (Vehicle 2 Load) som betyr at du drive elektriske apparater med opptil  kW effekt. Dette inkluderer at du kan nødlade andre elbiler med denne. Det er tilgjengelige kontakter både på lasteplanet og i kabinen.
 
+
+{{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 

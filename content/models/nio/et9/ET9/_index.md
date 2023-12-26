@@ -112,6 +112,10 @@ You can choose from 3 different materials/colors for this seat type.<br />
 <br />
 
 
+
+{{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
+
+
 ### Second-row seat
 
 

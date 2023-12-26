@@ -38,7 +38,7 @@ You can learn more about Bjørn Nyland in this podcast
 
 {{< youtube wafwTXdg5-A >}}
 
-Bjørn Nyland live stream many of his tests in his [Teslabjorn Live channel](https://www.youtube.com/@TeslabjornLive24).
+Bjørn Nyland live stream many of his tests in his [Teslabjorn Live channel](https://www.youtube.com/@TeslabjornLive24). You can also track him on [chargefinder](https://chargefinder.com/en/live/teslabjorn)
 
 Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyland).
 

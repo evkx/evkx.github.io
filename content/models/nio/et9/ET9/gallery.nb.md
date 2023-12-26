@@ -81,6 +81,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/nio/et9/et9/frontseats_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/nio/et9/et9/frontseats_1.jpg"
+data-pswp-width="1170"
+data-pswp-height="759" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/nio/et9/et9/frontseats_1_xst.jpg" alt="Nio ET9" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/nio/et9/et9/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/nio/et9/et9/headlights_1.jpg"
 data-pswp-width="2560"
@@ -150,6 +159,24 @@ data-pswp-width="2560"
 data-pswp-height="1600" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/nio/et9/et9/secondrowseats_3_xst.jpg" alt="Nio ET9" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/nio/et9/et9/secondrowseats_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/nio/et9/et9/secondrowseats_4.jpg"
+data-pswp-width="1041"
+data-pswp-height="695" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/nio/et9/et9/secondrowseats_4_xst.jpg" alt="Nio ET9" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/nio/et9/et9/secondrowseats_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/nio/et9/et9/secondrowseats_5.jpg"
+data-pswp-width="1044"
+data-pswp-height="693" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/nio/et9/et9/secondrowseats_5_xst.jpg" alt="Nio ET9" class="img-fluid img-thumbnail" />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
