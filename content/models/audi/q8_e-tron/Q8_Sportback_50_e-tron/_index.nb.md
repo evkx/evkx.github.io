@@ -65,6 +65,19 @@ Du kan bestille Audi Q8 Sportback 50 e-tron med en alternativ Adaptive Air Suspe
 
 Dynamisk styring er standard-funksjonen på Audi Q8 Sportback 50 e-tron. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
+### Kjøremoduser
+
+Audi Q8 Sportback 50 e-tron lar brukeren velge forskjellige kjøremoduser som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
+
+- Dynamic: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Efficiency: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Allroad: Balansert styring, høy fjæringshøyde med balansert gass og demping.
+- Offroad: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Auto: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
+- Custom: Egendefinert styring, fjæring og gassrespons.
+
+
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 375mm, og de bakre skivene er 350mm.

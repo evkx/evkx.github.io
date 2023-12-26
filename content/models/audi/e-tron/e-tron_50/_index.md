@@ -71,6 +71,19 @@ You can order Audi e-tron 50 with an alternative Adaptive Air Suspension Sport s
 
 Dynamic steering is a standard feature on the Audi e-tron 50. Dynamic steering varies the steering ratio as a function of driving speed.
 
+### Drive modes
+
+The Audi e-tron 50 lets the user select different drive modes that affect the car's handling. The driver can choose between 7 modes:
+
+- Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Allroad: Balanced steering, high suspension height with balanced throttle and damping.
+- Offroad: Balanced steering, max suspension height with balanced throttle and damping.
+- Auto: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- Custom: Custom-defined steering, suspension, and throttle response.
+
+
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
