@@ -17,7 +17,7 @@ Vi har delt vår SKODA ENYAQ COUPÉ RS iV (GEN1)-artikkel i seksjoner. Hvis du v
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -35,15 +35,15 @@ Denne modellen er erstattet av [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv
 
 ## Ytelse
 
-Med overboost har SKODA ENYAQ COUPÉ RS iV (GEN1) en maksimal effekt på 220KW (299hk). Uten overboost er den 195KW (265hk). Dreemomentet er 460nm med overboost og 425 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder med overboost og 6,9 sekunder uten overboost. Topphastigheten er 180 km/t.
+Med overboost har SKODA ENYAQ COUPÉ RS iV (GEN1) en maksimal effekt på 220 KW (299hk). Uten overboost er den 195KW (265hk). Dreiemomentet er 460 nm med overboost og 425 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder med overboost og 6,9 sekunder uten overboost. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 514 til 496 km (320-308 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.0kWh/100 km for basisversjonen og 15.5kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 514 til 496 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.0kWh/100 km for basisversjonen og 15.5kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
+Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 9 timer og 40 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 2% til 46%. Totalt tapt tid for å lade opp batteriet vil være 80 minutter.
 

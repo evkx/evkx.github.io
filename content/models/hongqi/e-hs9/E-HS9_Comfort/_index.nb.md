@@ -17,7 +17,7 @@ Vi har delt vår Hongqi E-HS9 Comfort-artikkel i seksjoner. Hvis du vil vente me
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Hongqi E-HS9 Comfort-artikkel i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Hongqi E-HS9 Comfort har en maksimal effekt på 320KW (435hk). Totalt dreiemoment er 300nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder. Topphastigheten er 200 km/t.
+Hongqi E-HS9 Comfort har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 84kWh og en nettokapasitet på 81,7kWh, noe som betyr at du har et 2,3kWh-buffer for beskyttelse. (2,7%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 396 km (246 mi). Forbruket er 20.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 396 km. Forbruket er 20.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 94kW. Hver ladeøkt vil ta 34 minutter og 1 sekunder.
+Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 94kW. Hver ladeøkt vil ta 34 minutter og 1 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 32kWh/100km, vil 1000km ta 10 timer og 53 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 6% til 79%. Totalt tapt tid for å lade opp batteriet vil være 153 minutter.
 

@@ -17,7 +17,7 @@ Vi har delt vår Volkswagen ID.7 Pro-artikkel i seksjoner. Hvis du vil vente med
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Volkswagen ID.7 Pro-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Volkswagen ID.7 Pro har en maksimal effekt på 210KW (286hk). Totalt dreiemoment er 550nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 10,4 sekunder. Topphastigheten er 180 km/t.
+Volkswagen ID.7 Pro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 550 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 10,4 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 615 til 550 km (382-342 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.5kWh/100 km for basisversjonen og 14.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 615 til 550 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.5kWh/100 km for basisversjonen og 14.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
+Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19kWh/100km, vil 1000km ta 9 timer og 27 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 3% til 40%. Totalt tapt tid for å lade opp batteriet vil være 68 minutter.
 

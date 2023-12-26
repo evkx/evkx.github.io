@@ -17,7 +17,7 @@ Vi har delt vår Audi Q4 35 e-tron-artikkel i seksjoner. Hvis du vil vente med �
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Audi Q4 35 e-tron-artikkel i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-Audi Q4 35 e-tron har en maksimal effekt på 125KW (170hk). Totalt dreiemoment er 310nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Topphastigheten er 160 km/t.
+Audi Q4 35 e-tron har en maksimal effekt på 125 KW (170hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 55kWh og en nettokapasitet på 51,5kWh, noe som betyr at du har et 3,5kWh-buffer for beskyttelse. (6,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 357 til 323 km (222-201 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.4kWh/100 km for basisversjonen og 15.9kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 357 til 323 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.4kWh/100 km for basisversjonen og 15.9kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 125kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 40%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 68kW. Hver ladeøkt vil ta 17 minutter og 9 sekunder.
+Maksimal DC-ladehastighet er 125 kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 40%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 68kW. Hver ladeøkt vil ta 17 minutter og 9 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 10 timer og 39 minutter. Denne turen vil kreve syv ladeøkt(er) lading fra 2% til 46%. Totalt tapt tid for å lade opp batteriet vil være 140 minutter.
 

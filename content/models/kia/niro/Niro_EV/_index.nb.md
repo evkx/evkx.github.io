@@ -17,7 +17,7 @@ Vi har delt vår Kia Niro EV-artikkel i seksjoner. Hvis du vil vente med å lese
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Kia Niro EV-artikkel i seksjoner. Hvis du vil vente med å lese
 
 ## Ytelse
 
-Kia Niro EV har en maksimal effekt på 150KW (204hk). Totalt dreiemoment er 255nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,8 sekunder. Topphastigheten er 167 km/t.
+Kia Niro EV har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,8 sekunder. Topphastigheten er 167 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (4,7%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 463 km (288 mi). Forbruket er 14.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 463 km. Forbruket er 14.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 93 minutter, mens et mer vanlig scenario på 10-80 % vil ta 44 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 60kW. Hver ladeøkt vil ta 33 minutter og 30 sekunder.
+Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 93 minutter, mens et mer vanlig scenario på 10-80 % vil ta 44 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 60kW. Hver ladeøkt vil ta 33 minutter og 30 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 20kWh/100km, vil 1000km ta 10 timer og 35 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 4% til 46%. Totalt tapt tid for å lade opp batteriet vil være 136 minutter.
 

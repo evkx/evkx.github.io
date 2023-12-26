@@ -17,7 +17,7 @@ Vi har delt vår MG MG4 Electric Long Range-artikkel i seksjoner. Hvis du vil ve
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår MG MG4 Electric Long Range-artikkel i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-MG MG4 Electric Long Range har en maksimal effekt på 150KW (204hk). Totalt dreiemoment er 250nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Topphastigheten er 160 km/t.
+MG MG4 Electric Long Range har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 250 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 64kWh og en nettokapasitet på 61,7kWh, noe som betyr at du har et 2,3kWh-buffer for beskyttelse. (3,6%). Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 64kWh og en nettokapasitet på 61,7kWh, noe som betyr at du har et 2,3kWh-buffer for beskyttelse. (3,6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 435 km (270 mi). Forbruket er 14.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 435 km. Forbruket er 14.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 135kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 96kW. Hver ladeøkt vil ta 21 minutter og 12 sekunder.
+Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 96kW. Hver ladeøkt vil ta 21 minutter og 12 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 9 timer og 55 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 2% til 63%. Totalt tapt tid for å lade opp batteriet vil være 95 minutter.
 

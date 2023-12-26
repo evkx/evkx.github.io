@@ -17,7 +17,7 @@ Vi har delt vår Volkswagen ID.5 GTX 4MOTION-artikkel i seksjoner. Hvis du vil v
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Volkswagen ID.5 GTX 4MOTION-artikkel i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Med overboost har Volkswagen ID.5 GTX 4MOTION en maksimal effekt på 250KW (340hk). Uten overboost er den 210KW (286hk). Dreemomentet er 679nm med overboost og 545 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder med overboost og 6,7 sekunder uten overboost. Topphastigheten er 180 km/t.
+Med overboost har Volkswagen ID.5 GTX 4MOTION en maksimal effekt på 250 KW (340hk). Uten overboost er den 210KW (286hk). Dreiemomentet er 679 nm med overboost og 545 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder med overboost og 6,7 sekunder uten overboost. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 533 km (331 mi). Forbruket er 14.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 533 km. Forbruket er 14.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 170kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
+Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 46 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 2% til 49%. Totalt tapt tid for å lade opp batteriet vil være 86 minutter.
 

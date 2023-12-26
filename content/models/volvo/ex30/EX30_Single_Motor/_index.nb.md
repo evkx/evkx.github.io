@@ -17,7 +17,7 @@ Vi har delt vår Volvo EX30 Single Motor-artikkel i seksjoner. Hvis du vil vente
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Volvo EX30 Single Motor-artikkel i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Volvo EX30 Single Motor har en maksimal effekt på 200KW (272hk). Totalt dreiemoment er 343nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,3 sekunder. Topphastigheten er 180 km/t.
+Volvo EX30 Single Motor har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,3 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 49kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (3,9%). Lithium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 49kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (3,9%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 344 km (214 mi). Forbruket er 14.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 344 km. Forbruket er 14.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 153kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 84kW. Hver ladeøkt vil ta 18 minutter og 15 sekunder.
+Maksimal DC-ladehastighet er 153 kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 84kW. Hver ladeøkt vil ta 18 minutter og 15 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28kWh/100km, vil 1000km ta 11 timer og 7 minutter. Denne turen vil kreve åtte ladeøkt(er) lading fra 3% til 62%. Totalt tapt tid for å lade opp batteriet vil være 167 minutter.
 

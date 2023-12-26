@@ -17,7 +17,7 @@ Vi har delt vår Ford F150 Lightning Extended Range-artikkel i seksjoner. Hvis d
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Ford F150 Lightning Extended Range-artikkel i seksjoner. Hvis d
 
 ## Ytelse
 
-Ford F150 Lightning Extended Range har en maksimal effekt på 433KW (589hk). Totalt dreiemoment er 1050nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 180 km/t.
+Ford F150 Lightning Extended Range har en maksimal effekt på 433 KW (589hk). Totalt dreiemoment er 1050 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 150kWh og en nettokapasitet på 131kWh, noe som betyr at du har et 19kWh-buffer for beskyttelse. (12,7%). Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 150kWh og en nettokapasitet på 131kWh, noe som betyr at du har et 19kWh-buffer for beskyttelse. (12,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) varierer fra 320 til 300 miles (515–483 km) ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 2.4mi/kWh for basisversjonen og 2.3mi/kWh for topputstyrt versjon for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 155kW. En full lading fra 0 - 100 % vil ta 130 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 106kW. Hver ladeøkt vil ta 46 minutter og 54 sekunder.
+Maksimal DC-ladehastighet er 155 kW. En full lading fra 0 - 100 % vil ta 130 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 106kW. Hver ladeøkt vil ta 46 minutter og 54 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 33kWh/100km, vil 1000km ta 10 timer og 13 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 0% til 76%. Totalt tapt tid for å lade opp batteriet vil være 113 minutter.
 

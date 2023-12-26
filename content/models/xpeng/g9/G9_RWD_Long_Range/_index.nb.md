@@ -17,7 +17,7 @@ Vi har delt vår XPENG G9 RWD Long Range-artikkel i seksjoner. Hvis du vil vente
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår XPENG G9 RWD Long Range-artikkel i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-XPENG G9 RWD Long Range har en maksimal effekt på 230KW (313hk). Totalt dreiemoment er 430nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,4 sekunder. Topphastigheten er 200 km/t.
+XPENG G9 RWD Long Range har en maksimal effekt på 230 KW (313hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,4 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 98kWh og en nettokapasitet på 93,6kWh, noe som betyr at du har et 4,4kWh-buffer for beskyttelse. (4,5%). Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 98kWh og en nettokapasitet på 93,6kWh, noe som betyr at du har et 4,4kWh-buffer for beskyttelse. (4,5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 570 km (354 mi). Forbruket er 16.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 570 km. Forbruket er 16.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 300kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 19 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 60%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 169kW. Hver ladeøkt vil ta 18 minutter og 36 sekunder.
+Maksimal DC-ladehastighet er 300 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 19 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 60%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 169kW. Hver ladeøkt vil ta 18 minutter og 36 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 9 timer og 15 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 7% til 63%. Totalt tapt tid for å lade opp batteriet vil være 56 minutter.
 

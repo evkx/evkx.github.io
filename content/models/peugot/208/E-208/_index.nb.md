@@ -17,7 +17,7 @@ Vi har delt vår Peugot E-208-artikkel i seksjoner. Hvis du vil vente med å les
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Peugot E-208-artikkel i seksjoner. Hvis du vil vente med å les
 
 ## Ytelse
 
-Peugot E-208 har en maksimal effekt på 115KW (156hk). Totalt dreiemoment er 260nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,1 sekunder. Topphastigheten er 150 km/t.
+Peugot E-208 har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,1 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48,1kWh, noe som betyr at du har et 2,9kWh-buffer for beskyttelse. (5,7%). Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48,1kWh, noe som betyr at du har et 2,9kWh-buffer for beskyttelse. (5,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km (249 mi). Forbruket er 12.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 12.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 54 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 23 minutter og 23 sekunder.
+Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 54 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 23 minutter og 23 sekunder.
 
 ### Ombordlader
 

@@ -17,7 +17,7 @@ Vi har delt vår Cadillac LYRIQ RWD-artikkel i seksjoner. Hvis du vil vente med 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,7 +29,7 @@ Vi har delt vår Cadillac LYRIQ RWD-artikkel i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Cadillac LYRIQ RWD har en maksimal effekt på 255KW (347hk). Totalt dreiemoment er 450nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder.
+Cadillac LYRIQ RWD har en maksimal effekt på 255 KW (347hk). Totalt dreiemoment er 450 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder.
 
 ## Batteri, rekkevidde og lading
 
@@ -37,7 +37,7 @@ Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 102kWh, noe
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 312 miles (502 km). Forbruket er 3.1mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er kW. En full lading fra 0 - 100 % vil ta 176 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 29 minutter og 59 sekunder.
+Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 176 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 29 minutter og 59 sekunder.
 
 ### Ombordlader
 

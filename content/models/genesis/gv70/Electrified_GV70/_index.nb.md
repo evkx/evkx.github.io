@@ -17,7 +17,7 @@ Vi har delt vår Genesis Electrified GV70-artikkel i seksjoner. Hvis du vil vent
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Genesis Electrified GV70-artikkel i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Med overboost har Genesis Electrified GV70 en maksimal effekt på 360KW (490hk). Uten overboost er den 320KW (435hk). Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder med overboost og 4,8 sekunder uten overboost. Topphastigheten er 235 km/t.
+Med overboost har Genesis Electrified GV70 en maksimal effekt på 360 KW (490hk). Uten overboost er den 320KW (435hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder med overboost og 4,8 sekunder uten overboost. Topphastigheten er 235 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3,4kWh-buffer for beskyttelse. (4,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 470 km (292 mi). Forbruket er 15.7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 470 km. Forbruket er 15.7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 22 minutter og 59 sekunder.
+Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 22 minutter og 59 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 9 timer og 25 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 76%. Totalt tapt tid for å lade opp batteriet vil være 66 minutter.
 

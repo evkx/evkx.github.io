@@ -17,7 +17,7 @@ Vi har delt vår BYD Tang EV600-artikkel i seksjoner. Hvis du vil vente med å l
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår BYD Tang EV600-artikkel i seksjoner. Hvis du vil vente med å l
 
 ## Ytelse
 
-BYD Tang EV600 har en maksimal effekt på 380KW (517hk). Totalt dreiemoment er 680nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder. Topphastigheten er 180 km/t.
+BYD Tang EV600 har en maksimal effekt på 380 KW (517hk). Totalt dreiemoment er 680 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 90kWh og en nettokapasitet på 86,4kWh, noe som betyr at du har et 3,6kWh-buffer for beskyttelse. (4,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km (249 mi). Forbruket er 21.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 21.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 110kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 93kW. Hver ladeøkt vil ta 31 minutter og 37 sekunder.
+Maksimal DC-ladehastighet er 110 kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 93kW. Hver ladeøkt vil ta 31 minutter og 37 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 31,7kWh/100km, vil 1000km ta 10 timer og 50 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 5% til 59%. Totalt tapt tid for å lade opp batteriet vil være 150 minutter.
 

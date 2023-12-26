@@ -17,7 +17,7 @@ Vi har delt vår Nio ET9-artikkel i seksjoner. Hvis du vil vente med å lese hel
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Nio ET9-artikkel i seksjoner. Hvis du vil vente med å lese hel
 
 ## Ytelse
 
-Nio ET9 har en maksimal effekt på 520KW (707hk). Totalt dreiemoment er 900nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Topphastigheten er 200 km/t.
+Nio ET9 har en maksimal effekt på 520 KW (707hk). Totalt dreiemoment er 900 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 112kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (6,7%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 720 km (448 mi). Forbruket er 15.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 720 km. Forbruket er 15.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 600kW. En full lading fra 0 - 100 % vil ta 31 minutter, mens et mer vanlig scenario på 10-80 % vil ta 14 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 266kW. Hver ladeøkt vil ta 15 minutter og 41 sekunder.
+Maksimal DC-ladehastighet er 600 kW. En full lading fra 0 - 100 % vil ta 31 minutter, mens et mer vanlig scenario på 10-80 % vil ta 14 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 266kW. Hver ladeøkt vil ta 15 minutter og 41 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 8 timer og 45 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 6% til 55%. Totalt tapt tid for å lade opp batteriet vil være 25 minutter.
 

@@ -17,7 +17,7 @@ Vi har delt vår Mercedes-EQ EQS 580 4MATIC SUV-artikkel i seksjoner. Hvis du vi
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Mercedes-EQ EQS 580 4MATIC SUV-artikkel i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Mercedes-EQ EQS 580 4MATIC SUV har en maksimal effekt på 400KW (544hk). Totalt dreiemoment er 858nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder. Topphastigheten er 210 km/t.
+Mercedes-EQ EQS 580 4MATIC SUV har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 108,4kWh, noe som betyr at du har et 11,6kWh-buffer for beskyttelse. (9,7%). Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 108,4kWh, noe som betyr at du har et 11,6kWh-buffer for beskyttelse. (9,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 610 til 511 km (379-318 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.8kWh/100 km for basisversjonen og 21.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 610 til 511 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.8kWh/100 km for basisversjonen og 21.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 200kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 142kW. Hver ladeøkt vil ta 26 minutter og 41 sekunder.
+Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 142kW. Hver ladeøkt vil ta 26 minutter og 41 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 28,5kWh/100km, vil 1000km ta 9 timer og 35 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 56%. Totalt tapt tid for å lade opp batteriet vil være 76 minutter.
 

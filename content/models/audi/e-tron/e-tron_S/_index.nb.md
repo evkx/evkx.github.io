@@ -17,7 +17,7 @@ Vi har delt vår Audi e-tron S-artikkel i seksjoner. Hvis du vil vente med å le
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -35,15 +35,15 @@ Denne modellen er erstattet av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tr
 
 ## Ytelse
 
-Med overboost har Audi e-tron S en maksimal effekt på 370KW (503hk). Uten overboost er den 320KW (435hk). Dreemomentet er 973nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
+Med overboost har Audi e-tron S en maksimal effekt på 370 KW (503hk). Uten overboost er den 320KW (435hk). Dreiemomentet er 973 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 95kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 9kWh-buffer for beskyttelse. (9,5%). Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 95kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 9kWh-buffer for beskyttelse. (9,5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 374 til 344 km (232-214 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 23.0kWh/100 km for basisversjonen og 25.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 374 til 344 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 23.0kWh/100 km for basisversjonen og 25.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 150kW. En full lading fra 0 - 100 % vil ta 44 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 81%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 118kW. Hver ladeøkt vil ta 34 minutter og 14 sekunder.
+Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 44 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 81%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 118kW. Hver ladeøkt vil ta 34 minutter og 14 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 29kWh/100km, vil 1000km ta 10 timer og 5 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 2% til 82%. Totalt tapt tid for å lade opp batteriet vil være 106 minutter.
 

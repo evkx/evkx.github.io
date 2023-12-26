@@ -17,7 +17,7 @@ Vi har delt vår Zeekr X Long Range RWD-artikkel i seksjoner. Hvis du vil vente 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Zeekr X Long Range RWD-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Zeekr X Long Range RWD har en maksimal effekt på 200KW (272hk). Totalt dreiemoment er 343nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Topphastigheten er 180 km/t.
+Zeekr X Long Range RWD har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (7,2%). Lithium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (7,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 440 km (274 mi). Forbruket er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 440 km. Forbruket er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 150kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 21 minutter og 58 sekunder.
+Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 21 minutter og 58 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 10 timer og 32 minutter. Denne turen vil kreve syv ladeøkt(er) lading fra 5% til 49%. Totalt tapt tid for å lade opp batteriet vil være 132 minutter.
 

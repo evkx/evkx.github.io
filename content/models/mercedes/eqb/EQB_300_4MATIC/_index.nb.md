@@ -17,7 +17,7 @@ Vi har delt vår Mercedes-EQ EQB 300 4MATIC-artikkel i seksjoner. Hvis du vil ve
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Mercedes-EQ EQB 300 4MATIC-artikkel i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Mercedes-EQ EQB 300 4MATIC har en maksimal effekt på 168KW (228hk). Totalt dreiemoment er 390nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8 sekunder. Topphastigheten er 160 km/t.
+Mercedes-EQ EQB 300 4MATIC har en maksimal effekt på 168 KW (228hk). Totalt dreiemoment er 390 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 69,7kWh og en nettokapasitet på 66,5kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (4,6%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 423 til 388 km (263-241 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.7kWh/100 km for basisversjonen og 17.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 423 til 388 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.7kWh/100 km for basisversjonen og 17.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 112kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 70%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 84kW. Hver ladeøkt vil ta 31 minutter og 19 sekunder.
+Maksimal DC-ladehastighet er 112 kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 70%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 84kW. Hver ladeøkt vil ta 31 minutter og 19 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 31 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 4% til 73%. Totalt tapt tid for å lade opp batteriet vil være 131 minutter.
 

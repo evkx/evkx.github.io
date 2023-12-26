@@ -17,7 +17,7 @@ Vi har delt vår Nissan Ariya 87kWh-artikkel i seksjoner. Hvis du vil vente med 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Nissan Ariya 87kWh-artikkel i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Nissan Ariya 87kWh har en maksimal effekt på 178KW (242hk). Totalt dreiemoment er 300nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder. Topphastigheten er 160 km/t.
+Nissan Ariya 87kWh har en maksimal effekt på 178 KW (242hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 87kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 533 til 475 km (331-295 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.3kWh/100 km for basisversjonen og 18.3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 533 til 475 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.3kWh/100 km for basisversjonen og 18.3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 130kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 98kW. Hver ladeøkt vil ta 28 minutter og 18 sekunder.
+Maksimal DC-ladehastighet er 130 kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 98kW. Hver ladeøkt vil ta 28 minutter og 18 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24,5kWh/100km, vil 1000km ta 9 timer og 58 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 6% til 67%. Totalt tapt tid for å lade opp batteriet vil være 98 minutter.
 

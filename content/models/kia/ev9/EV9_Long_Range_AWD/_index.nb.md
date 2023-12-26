@@ -17,7 +17,7 @@ Vi har delt vår Kia EV9 Long Range AWD-artikkel i seksjoner. Hvis du vil vente 
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Kia EV9 Long Range AWD-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Kia EV9 Long Range AWD har en maksimal effekt på 283KW (385hk). Totalt dreiemoment er 700nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,3 sekunder. Topphastigheten er 200 km/t.
+Kia EV9 Long Range AWD har en maksimal effekt på 283 KW (385hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,3 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 99,8kWh og en nettokapasitet på 94kWh, noe som betyr at du har et 5,8kWh-buffer for beskyttelse. (5,8%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 497 til 484 km (309-301 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.9kWh/100 km for basisversjonen og 19.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 497 til 484 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.9kWh/100 km for basisversjonen og 19.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 233kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 159kW. Hver ladeøkt vil ta 26 minutter og 12 sekunder.
+Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 159kW. Hver ladeøkt vil ta 26 minutter og 12 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 8 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 69%. Totalt tapt tid for å lade opp batteriet vil være 48 minutter.
 

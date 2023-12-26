@@ -17,7 +17,7 @@ Vi har delt vår BMW iX1 eDrive20-artikkel i seksjoner. Hvis du vil vente med å
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår BMW iX1 eDrive20-artikkel i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-BMW iX1 eDrive20 har en maksimal effekt på 150KW (204hk). Totalt dreiemoment er 250nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Topphastigheten er 170 km/t.
+BMW iX1 eDrive20 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 250 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64,7kWh, noe som betyr at du har et 3,3kWh-buffer for beskyttelse. (4,9%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 475 til 430 km (295-267 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.6kWh/100 km for basisversjonen og 15.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 475 til 430 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.6kWh/100 km for basisversjonen og 15.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 130kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 51%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 85kW. Hver ladeøkt vil ta 23 minutter og 55 sekunder.
+Maksimal DC-ladehastighet er 130 kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 51%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 85kW. Hver ladeøkt vil ta 23 minutter og 55 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 10 timer og 12 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 1% til 50%. Totalt tapt tid for å lade opp batteriet vil være 112 minutter.
 

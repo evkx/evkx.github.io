@@ -17,7 +17,7 @@ Vi har delt vår Tesla Model X Plaid-artikkel i seksjoner. Hvis du vil vente med
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Tesla Model X Plaid-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Tesla Model X Plaid har en maksimal effekt på 760KW (1033hk). Totalt dreiemoment er 1020nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 2,6 sekunder. Topphastigheten er 262 km/t.
+Tesla Model X Plaid har en maksimal effekt på 760 KW (1033hk). Totalt dreiemoment er 1020 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 2,6 sekunder. Topphastigheten er 262 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (338-328 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.7kWh/100 km for basisversjonen og 18.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.7kWh/100 km for basisversjonen og 18.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 250kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 143kW. Hver ladeøkt vil ta 16 minutter og 9 sekunder.
+Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 143kW. Hver ladeøkt vil ta 16 minutter og 9 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24,0kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 8% til 46%. Totalt tapt tid for å lade opp batteriet vil være 61 minutter.
 

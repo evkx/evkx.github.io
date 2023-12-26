@@ -17,7 +17,7 @@ Vi har delt vår Hyundai Kona Long Range-artikkel i seksjoner. Hvis du vil vente
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
-- [Drivetrain (fjæring, bremser, styring)](#drivverk)
+- [Drivverk (fjæring, bremser, styring)](#drivverk)
 - [Eksteriør (lakkfarger, hjul ++)](#eksteriør)
 - [Interiør (seter++)](#interiør)
 - [Brukergrensesnitt og kontroll](#brukergrensesnitt-og-kontroll)
@@ -29,15 +29,15 @@ Vi har delt vår Hyundai Kona Long Range-artikkel i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Hyundai Kona Long Range har en maksimal effekt på 160KW (218hk). Totalt dreiemoment er 255nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 185 km/t.
+Hyundai Kona Long Range har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 68,5kWh og en nettokapasitet på 65,4kWh, noe som betyr at du har et 3,1kWh-buffer for beskyttelse. (4,5%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 514 til 454 km (320-282 mi ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.7kWh/100 km for basisversjonen og 14.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 514 til 454 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.7kWh/100 km for basisversjonen og 14.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 100kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 74kW. Hver ladeøkt vil ta 30 minutter og 34 sekunder.
+Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 74kW. Hver ladeøkt vil ta 30 minutter og 34 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 10 timer og 33 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 4% til 67%. Totalt tapt tid for å lade opp batteriet vil være 134 minutter.
 
