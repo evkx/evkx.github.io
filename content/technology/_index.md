@@ -77,12 +77,14 @@ However, not all EVs and charging stations are compatible. Different charging po
 ## Cargo & Towing
 
 <a href="cargoandtowing/">
-    <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg" alt="Cargo & Towing" title="Chargo & Towing" class="img-fluid">
+    <img src="https://media.evkx.net/multimedia/technology/cargoandtowing/hitchcargo/hitchcargo_1_st.jpg" alt="Cargo & Towing" title="Chargo & Towing" class="img-fluid">
 </a>
 
 Cars are not only meant for transporting people, but also for carrying various kinds of cargo, such as groceries, luggage, pets, or sports equipment.
 
-[Read our cargo & towing article.](chargoandtowing/)
+Learn everything about possibilites and limitations in our article.
+
+[Read our cargo & towing article.](cargoandtowing/)
 
 ## Climate system
 
