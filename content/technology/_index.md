@@ -76,15 +76,14 @@ Electric vehicles (EVs) are becoming more popular and affordable but require a d
 
 However, not all EVs and charging stations are compatible. Different charging ports and connectors vary by region, speed, and standards.
 
-[Read our charging technology article.](charging/)
-
+<a href="charging/" class="btn btn-outline-primary" role="button">Read our charging technology article.</a>
 </div>
+
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 
 <a href="cargoandtowing/">
     <img src="https://media.evkx.net/multimedia/technology/cargoandtowing/hitchcargo/hitchcargo_1_st.jpg" alt="Cargo & Towing" title="Chargo & Towing" class="img-fluid mb-2">
 </a>
-
 
 ## Cargo & Towing
 
@@ -108,7 +107,7 @@ Climate systems in cars refer to the HVAC (Heating, Ventilation, and Air Conditi
 
 These systems typically consist of various components, including a heat pump, crucial in providing a comfortable cabin environment and keeping a good range in winter.
 
-[Read our climate system technology article](hvac/)
+<a href="hvac/" class="btn btn-outline-primary" role="button">Read our climate system technology article</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -122,7 +121,7 @@ Doors are essential parts of cars that allow passengers and drivers to enter and
 
 Doors also integrate side windows for visibility and ventilation and may have other features such as mirrors, handles, locks, speakers, and storage compartments. Depending on the design and style of the car, doors may vary in size, shape, location, and mechanism.
 
-[Read our doors technology article.](doors/)
+<a href="doors/" class="btn btn-outline-primary" role="button">Read our doors technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -137,8 +136,7 @@ EV batteries are responsible for storing the energy that powers the vehicle’s 
 
 In this article, we will explore the different types of EV batteries, how they work, their advantages and disadvantages, and the latest developments in EV battery technology. We will also discuss the environmental impact of EV batteries. Go through all the articles in this section. You will better understand EV batteries' current state and future prospects and their role in the transition to a more sustainable transportation system.
 
-[Read our battery technology article.](battery/)
-
+<a href="battery/" class="btn btn-outline-primary" role="button">Read our battery technology article.</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 
@@ -150,7 +148,7 @@ In this article, we will explore the different types of EV batteries, how they w
 
 Building an EV is more complex than replacing a combustion engine with an electric motor and a battery pack. EVs require a different approach to design, engineering, and manufacturing, which is where EV platforms come in.
 
-[Read our EV platform technology article.](platforms/)
+<a href="platforms/" class="btn btn-outline-primary" role="button">Read our EV platform technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -165,7 +163,7 @@ A glass panel roof is a type of window that covers part or all of the car's roof
 
 A glass panel roof allows for natural light and ventilation to enter the car and enhances the aesthetic appeal and spaciousness of the interior.
 
-[Read our glass-panel-roof technology article.](glassroof/)
+<a href="glassroof/" class="btn btn-outline-primary" role="button">Read our glass-panel-roof technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -178,7 +176,7 @@ A glass panel roof allows for natural light and ventilation to enter the car and
 
 Infotainment systems have become a standard feature in most modern cars. They combine entertainment and information functionalities, providing drivers access to music, navigation, communication, and vehicle controls.
 
-[Read our infotainment system technology article.](glassroof/)
+<a href="infotainment/" class="btn btn-outline-primary" role="button">Read our infotainment system technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -190,7 +188,7 @@ Infotainment systems have become a standard feature in most modern cars. They co
 
 Electric vehicles (EVs) are transforming not only the way we drive but also the way we design car interiors. EVs offer new possibilities and challenges for car interior designers who must balance functionality, comfort, aesthetics, and sustainability.
 
-[Read our interior technology article.](interior/)
+<a href="interior/" class="btn btn-outline-primary" role="button">Read our interior technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -200,10 +198,9 @@ Electric vehicles (EVs) are transforming not only the way we drive but also the 
 
 ## Lights
 
-Electric vehicles (EVs) are revolutionizing the way we think about transportation, and with this revolution comes a whole new world of lighting technology. Lights are an essential component of any vehicle. Still, in the case of EVs, they serve a dual purpose: to improve visibility for the driver and make the vehicle more visible to other drivers and pedestrians. This article will explore the various types of lights used in EVs, from traditional LED lights to advanced technologies like laser lights and adaptive headlights. We will also explore the importance of ambient, rear, and other relevant lights in EVs. 
+Electric vehicles (EVs) are revolutionizing the way we think about transportation, and with this revolution comes a whole new world of lighting technology. Lights are an essential component of any vehicle. Still, in the case of EVs, they serve a dual purpose: to improve visibility for the driver and make the vehicle more visible to other drivers and pedestrians. This article will explore the various types of lights used in EVs, from traditional LED lights to advanced technologies like laser lights and adaptive headlights. We will also explore the importance of ambient, rear, and other relevant lights in EVs.
 
-[Read our lights technology article.](lights/)
-
+<a href="lights/" class="btn btn-outline-primary" role="button">Read our lights technology article.</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <a href="motors/">
@@ -214,7 +211,7 @@ Electric vehicles (EVs) are revolutionizing the way we think about transportatio
 
 Electric motors are the heart of any electric vehicle (EV), converting electrical energy into mechanical energy to propel the vehicle. As the demand for EVs continues to grow, there is an increasing need to understand the different types of electric motors used in these vehicles and their advantages and limitations. In this article, we will explore the various types of electric motors used in EVs, how they work, and the pros and cons of each type.
 
-[Read our electric motors technology article.](motors/)
+<a href="motors/" class="btn btn-outline-primary" role="button">Read our electric motors technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -226,7 +223,7 @@ Electric motors are the heart of any electric vehicle (EV), converting electrica
 
 Electric vehicles (EVs) are becoming increasingly popular due to their eco-friendly nature and low operating costs. One of the unique features of EVs is regenerative braking, a system that converts the kinetic energy of the vehicle’s motion into electrical energy to recharge the battery. Regenerative braking improves the vehicle’s efficiency and range and reduces wear and tear on the brakes. This article will explore the science behind regenerative braking and how it works in EVs. We will also examine the benefits and limitations of this braking system and its impact on the overall performance of EVs.
 
-[Read our regenerative braking technology article.](regen/)
+<a href="regen/" class="btn btn-outline-primary" role="button">Read our regenerative braking technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -238,7 +235,7 @@ Electric vehicles (EVs) are becoming increasingly popular due to their eco-frien
 
 Airbags are a critical safety feature in modern vehicles, including electric vehicles (EVs). Manufacturers design these safety devices to protect occupants in the event of a collision, reducing the risk of severe injury or death. With the growing popularity of EVs, it’s essential to understand the different types of airbags available, their locations, and how they work. In this extensive article, we will explore the different types of airbags used in EVs, their placement within the vehicle, and the benefits of their locations. We will also examine the role of airbags in improving overall vehicle safety and reducing the severity of injuries in the event of an accident.
 
-[Read our safety technology article.](safety/)
+<a href="safety/" class="btn btn-outline-primary" role="button">Read our safety technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -252,7 +249,7 @@ One area where we see rapid innovation is in seat technology, with EVs boasting 
 
 We will delve into how these technologies work and their benefits, giving you a comprehensive understanding of the seat features available in modern EVs.
 
-[Read our seats technology article.](seats/)
+<a href="seats/" class="btn btn-outline-primary" role="button">Read our seats technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -266,7 +263,7 @@ Sensors and cameras are critical in modern cars because they are crucial in many
 
 Manufacturers use various types of technology for sensors in modern cars, depending on the specific application and the sensor’s requirements.
 
-[Read our sensors & cameras technology article.](sensorsandcameras/)
+<a href="sensorsandcameras/" class="btn btn-outline-primary" role="button">Read our sensors & cameras technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -283,7 +280,7 @@ We will also look at some of the latest developments and innovations in EV suspe
 
 By the end of this article, you will better understand the importance of suspension in EVs and how advancements in this technology are shaping the future of transportation.
 
-[Read our suspension technology article.](suspension/)
+<a href="suspension/" class="btn btn-outline-primary" role="button">Read our suspension technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -298,7 +295,7 @@ Tires are one of the most critical components of a car, as they affect its perfo
 
 Choosing the right tires and wheels for your car depends on several factors, such as the type of car, the driving conditions, the weather, and your personal preferences. In this article, we will explain the difference between types of tires & wheels, the sizes of tires & wheels, and the special tires & wheels for electric vehicles (EVs).
 
-[Read our tires & wheels technology article.](wheels/)
+<a href="wheels/" class="btn btn-outline-primary" role="button">Read our tires & wheels technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -314,7 +311,7 @@ In this article, we will explore the user interface technologies used in modern 
 
 Understanding these features and how they work together can help drivers make informed decisions when choosing an EV and enhance their driving experience.
 
-[Read our user interface technology article.](userinterface/)
+<a href="userinterface/" class="btn btn-outline-primary" role="button">Read our user interface technology article.</a>
 
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
