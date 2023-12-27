@@ -8,19 +8,20 @@ weight: 4
 ## Hvordan beskytter jeg batteriet på elbilen min?
 
 <a href="protectingbattery">
-     <img src="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_st.jpg" alt="Battery" title="Battery" class="img-fluid">
+     <img src="https://media.evkx.net/multimedia/technology/battery/cell/bladebattery_st.jpg" alt="Battery" title="Battery" class="img-fluid mb-2">
 </a>
 
 En av hovedbekymringene som mange elbileiere og potensielle kjøpere har, er batterilevetiden og ytelsen. Batteriet er hjertet i en elbil, og det bestemmer hvor langt og hvor fort du kan kjøre. Derfor er det viktig å vite hvordan du beskytter elbilbatteriet ditt og får det til å vare lenger.
 
 I denne veiledningen vil vi gi deg noen tips og beste fremgangsmåter for hvordan du kan forlenge levetiden og effektiviteten til elbilbatteriet ditt. Vi vil dekke emner som ladevaner, kjørestiler, temperatureffekter, lagringsforhold og mer. Ved å følge disse tipsene kan du spare penger og nyte elbilen din i lengre tid.
 
-[Les guide](protectingbattery/)
+<a href="protectingbattery/" class="btn btn-outline-primary" role="button">Les guide</a>
+
 
 ## Hvordan sjekke batterihelsen
 
 <a href="checkingbatteryhealth">
-     <img src="https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_st.jpg" alt="Batteri" title="Battery" class="img-fluid">
+     <img src="https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_st.jpg" alt="Batteri" title="Battery" class="img-fluid mb-2">
 </a>
 
 En av de viktigste faktorene som påvirker ytelsen og verdien til et elektrisk kjøretøy er batterihelsen. Batterihelsen er et mål på hvor mye kapasitet og strøm batteriet kan levere sammenlignet med da det var nytt. Et sunt batteri kan gi lengre rekkevidde, raskere lading og lavere nedbrytning. Et degradert batteri kan redusere rekkevidden, øke ladetiden og senke videresalgsverdien til elbilen.
@@ -34,7 +35,7 @@ I denne guiden vil vi vise deg hvordan du beregner batterihelsen til elbilen din
 ## EV-anmeldere
 
 <a href="evreviewers">
-     <img src="https://media.evkx.net/multimedia/guides/evreviewers/bjornyland_st.jpg" alt="EV Reviewers" title="EV Reviewers" class="img-fluid">
+     <img src="https://media.evkx.net/multimedia/guides/evreviewers/bjornyland_st.jpg" alt="EV Reviewers" title="EV Reviewers" class="img-fluid mb-2">
 </a>
 
 Hvis du er interessert i elektriske kjøretøy, kan det være lurt å følge noen av de beste YouTuberne som deler sin lidenskap, kunnskap og erfaring med verden. Elbil youtubere er innholdsskapere som lager videoer om ulike emner relatert til elbiler, for eksempel anmeldelser, nyheter, tips, sammenligninger og mer. De kan hjelpe deg med å lære mer om elbiler, oppdage nye modeller og funksjoner og bli inspirert av historiene og eventyrene deres.
@@ -46,7 +47,7 @@ I denne artikkelen vil vi dekke våre favoritt Elbil YouTubers som vi synes er v
 ## EV-søk
 
 <a href="evsearch">
-     <img src="https://media.evkx.net/multimedia/guides/evsearch/search_1_st.jpg" alt="EV-søk" title="EV-søk" class="img-fluid">
+     <img src="https://media.evkx.net/multimedia/guides/evsearch/search_1_st.jpg" alt="EV-søk" title="EV-søk" class="img-fluid mb-2">
 </a>
 
 Ser du etter et elektrisk kjøretøy som passer dine behov, preferanser og budsjett? Vil du sammenligne forskjellige modeller og funksjoner til elbiler på en enkel og praktisk måte? I så fall vil du kanskje prøve elbilsøket på EVKX.net, et nettsted som tilbyr omfattende og oppdatert informasjon om elbiler.
@@ -60,7 +61,7 @@ I denne artikkelen vil vi vise deg hvordan du bruker elbilsøket på EVKX.net. V
 ## Forstå rekkevidde
 
 <a href="understandingrange">
-     <img src="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_st.png" alt="Forståelsesområde" title="Forståelsesområde" class="img-fluid">
+     <img src="https://media.evkx.net/multimedia/guides/understandingrange/aerodynamicdrag_st.png" alt="Forståelsesområde" title="Forståelsesområde" class="img-fluid mb-2">
 </a>
 
 Et av de viktigste og mest stilte spørsmålene om elektriske kjøretøy er hvor langt de kan kjøre på en enkelt lading. Rekkevidden til en elbil er avstanden den kan reise før batteriet går tom for strøm og må lades. Rekkevidden til en elbil avhenger av mange faktorer, som batteristørrelsen, kjørehastigheten, værforholdene, kjørestilen og mer. Derfor er det ikke lett å gi et presist og universelt svar på dette spørsmålet.
@@ -74,7 +75,7 @@ I denne artikkelen vil vi dekke alt du trenger å vite om rekkevidden for elbile
 ## Kjøretøytyper
 
 <a href="vehicletypes">
-     <img src="https://media.evkx.net/multimedia/guides/veichletypes/convertible_1_st.jpg" alt="Kjøretøytyper" title="Kjøretøytyper" class="img-fluid">
+     <img src="https://media.evkx.net/multimedia/guides/veichletypes/convertible_1_st.jpg" alt="Kjøretøytyper" title="Kjøretøytyper" class="img-fluid mb-2">
 </a>
 
 Elektriske kjøretøy er ikke bare bra for miljøet, men også for mangfoldet av valg. Elbiler kommer i forskjellige former, størrelser og stiler, for å passe ulike behov, preferanser og smaker. Enten du leter etter en romslig SUV, en kraftig pickup, en kompakt kombi, en elegant crossover, en sporty coupe SUV eller en allsidig MPV, kan du finne en EV som matcher dine forventninger.
