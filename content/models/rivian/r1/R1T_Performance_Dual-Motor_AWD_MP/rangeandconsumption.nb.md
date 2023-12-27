@@ -21,8 +21,8 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>660km / 410 mi</td><td> 21,6 kWh/100km / 2,9 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>660km /410mi</td><td> 21,6 kWh/100km / 2,9 mi/kWh  </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>660km / 410 mi</td><td> 21,7 kWh/100km / 2,9 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>660km /410mi</td><td> 21,7 kWh/100km / 2,9 mi/kWh  </td></tr> 
 </tbody></table>
 
 ### Offisielle testsyklusresultater med ekstra oppvarming
@@ -45,10 +45,10 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden i perf
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td> 90kmh/56mph perfect condition </td><td> 569km /354mi</td><td> 25 kWh/100km / 2,5 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 533km /325mi</td><td> 27,2 kWh/100km / 2,3 mi/kWh </td></tr
-<tr><td> 70mph/112kmh perfect condition </td><td> 527km /327mi</td><td> 27,0 kWh/100km / 2,3 mi/kWh</td></tr>
-<tr><td> 70mph/112kmh with 2KW heating </td><td> 796km /495mi</td><td> 28,8 kWh/100km / 2,2 mi/kWh  </td></tr
-<tr><td> 120kmh/75mph perfect condition </td><td> 474km /295mi</td><td> 30 kWh/100km / 2,1 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 449km /279mi</td><td> 31,7 kWh/100km / 2,0 mi/kWh </td></tr
+<tr><td> 90kmh/56mph perfect condition </td><td> 572km /355mi</td><td> 25 kWh/100km / 2,5 mi/kWh </td></tr>
+<tr><td> 90kmh/56mph with 2KW heating </td><td> 536km /326mi</td><td> 27,2 kWh/100km / 2,3 mi/kWh </td></tr
+<tr><td> 70mph/112kmh perfect condition </td><td> 554km /344mi</td><td> 25,8 kWh/100km / 2,4 mi/kWh</td></tr>
+<tr><td> 70mph/112kmh with 2KW heating </td><td> 835km /519mi</td><td> 27,6 kWh/100km / 2,3 mi/kWh  </td></tr
+<tr><td> 120kmh/75mph perfect condition </td><td> 477km /296mi</td><td> 30 kWh/100km / 2,1 mi/kWh </td></tr>
+<tr><td> 120kmh/75mph with 2KW heating </td><td> 452km /281mi</td><td> 31,7 kWh/100km / 2,0 mi/kWh </td></tr
 </tbody></table>

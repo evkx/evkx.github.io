@@ -14,7 +14,7 @@ In a lithium-ion battery, the anode is typically made of graphite, which has a l
 
 The performance of the anode is a critical factor in the overall performance and safety of an EV battery. A high-quality anode material should have high lithium-ion storage capacity, good conductivity, good structural stability, and be resistant to degradation over multiple charge and discharge cycles. The graphite anode used in most lithium-ion batteries meets these requirements, but researchers are also exploring other anode materials such as silicon, which has a much higher storage capacity but is more prone to degradation.
 
-In summary, the anode is the electrode where oxidation occurs during the discharge cycle of an EV battery, releasing electrons into the external circuit to power the device. It is typically made of graphite and plays a critical role in the performance and safety of the battery.
+Some companies like StoreDot is working on anodes based on [Silicon](https://www.store-dot.com/blog/silicon-dominant-anodes-pave-the-way-for-future-li-ion-ev-batteries). This could theoretically see cell level energy density almost doubling, bringing obvious benefits to EVs. Beyond this, Si anodes could also improve the appeal of lower energy cells, such as LFP, narrowing the gap to NMC-based cells and minimizing the core disadvantage of LFP – limited energy density - especially in EV applications. Estimates show that incorporating 20 percent Si into an anode could improve an LFP cell’s energy density by 17 percent – although the additional cost of the Si anode may be prohibitive.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,7 +58,7 @@ Lithium Iron (Ferro) Phosphate (LFP) is a cathode material commonly used in elec
 
 The composition of LFP cathodes consists of lithium iron phosphate (LiFePO4), which is a relatively stable and non-toxic material compared to other lithium-ion battery chemistries. This makes LFP cathodes a popular choice for EV batteries in China, where safety regulations are strict.
 
-Brands like Tesla has started using LFP in their lower range models. 
+Brands like Tesla has started using LFP in their lower range models.
 
 #### Advantages with LFP
 
@@ -153,7 +153,13 @@ Liquid electrolytes in lithium-ion batteries consist of lithium salts in an orga
 
 A liquid electrolyte acts as a conductive pathway for the movement of cations passing from the negative to the positive electrodes during discharge and the opposite direction when charging.
 
-Electrolytes based on solid materials are areas that many works on. These are called [solid-state batteries](https://en.wikipedia.org/wiki/Solid-state_battery). Currently, there are no concrete plans for any mass production EV with Solid-state batteries.
+Electrolytes based on solid materials are areas that many works on. These are called [solid-state batteries](https://en.wikipedia.org/wiki/Solid-state_battery).
+
+Solid-state batteries have many potential advantages, such as higher energy density, faster charging, longer lifespan, and better safety. However, they also face many challenges, such as high cost, low power density, poor interface stability, and difficult scalability.
+
+Semi-solid state batteries are a hybrid type of battery that combines solid and liquid electrolytes. They aim to overcome some of the drawbacks of solid state batteries, such as low contact area and slow manufacturing. Semi solid state batteries have higher ionic conductivity, lower internal resistance, and better compatibility with lithium metal than traditional batteries. However, they also have lower energy density, higher weight, and more complexity than solid-state batteries. Currently, only Nio has announced a semi-solid state pack that will be available in China during 2024.
+
+Quasi solid state batteries are another hybrid type of battery that uses a gel-like electrolyte instead of a liquid or solid one. They have similar properties to semi solid state batteries, but with more flexibility and viscosity. Quasi solid state batteries can also form a protective layer on the surface of lithium metal, which improves the cycling performance and safety of the battery. However, they also suffer from low ionic conductivity, high polarization, and poor mechanical strength.
 
 ## Current collector
 

@@ -43,13 +43,11 @@ Click on the direct link below or scroll down for an introduction to each sectio
 
 ## Advanced Driver Assistance Systems (ADAS)
 
-As electric vehicles (EVs) become more common on our roads, advanced driver assistance systems (ADAS) are increasingly important in making them safer and more efficient. 
+Advanced driver assistance systems (ADAS) are increasingly important in making vehicles safer and more efficient.
 
 ADAS technology uses sensors, cameras, and software to provide drivers with safety features and semi-autonomous driving capabilities.
 
 This article will explore the different types of ADAS available in EVs, such as adaptive cruise control, lane departure warning, and automatic emergency braking. We will also discuss how these systems work, their benefits, and their challenges. Additionally, we will look at the future of ADAS in EVs, including the potential for fully autonomous driving and the role of artificial intelligence in improving safety and efficiency.
-
-By the end of this article, you will better understand the importance of ADAS in EVs and how this technology is helping to shape the future of transportation.
 
 <a href="driverassistance/" class="btn btn-outline-primary" role="button">Read our advanced driver assist systems technology article.</a>
 </div>

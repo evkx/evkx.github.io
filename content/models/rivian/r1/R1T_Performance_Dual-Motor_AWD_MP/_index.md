@@ -33,17 +33,17 @@ The Rivian R1T Performance Dual-Motor AWD MP has a maximum power of 495 KW (673 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 149kWh and a net capacity of 142,3kWh, meaning you have a 6,7kWh buffer for protection. (4,5%).
+The battery has a gross capacity of 149kWh and a net capacity of 143kWh, meaning you have a 6kWh buffer for protection. (4,0%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 410 miles (660 km). The consumption is 2.9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 113 minutes, while a more common scenario of 10-80% would take 46 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 141kW. Each charge session would take 27 minutes and 12 seconds.
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 129 minutes, while a more common scenario of 10-80% would take 46 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 141kW. Each charge session would take 27 minutes and 19 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 9 hours and 28 minutes. This trip will require three charge session(s) charging from 0% to 37%. The total time lost for charging up the battery will be 68 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 22 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 26 minutes.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2048" height="1280"  >}}

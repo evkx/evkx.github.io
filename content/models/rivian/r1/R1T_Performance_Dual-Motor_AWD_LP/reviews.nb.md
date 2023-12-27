@@ -8,6 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
+### Out of Spec Reviews: Rivian R1T Max vs Large Pack Highway Range / Capacity Test! $10k Gives You How Much More Range?! 27.12.2023
+
+{{< youtube kRfSzDdcxnE >}}
+
 ### Throttle House: 2022 Rivian R1T Review // The Cybertruck That Actually Exists 26.10.2022
 
 {{< youtube 0BmG0ZlnmHE >}}

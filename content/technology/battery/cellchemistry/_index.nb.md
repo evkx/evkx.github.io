@@ -14,7 +14,7 @@ I et litiumionbatteri er anoden typisk laget av grafitt, som har en lagdelt stru
 
 Ytelsen til anoden er en kritisk faktor i den generelle ytelsen og sikkerheten til et EV-batteri. Et anodemateriale av høy kvalitet bør ha høy litiumion-lagringskapasitet, god ledningsevne, god strukturell stabilitet og være motstandsdyktig mot nedbrytning over flere lade- og utladningssykluser. Grafittanoden som brukes i de fleste litium-ion-batterier oppfyller disse kravene, men forskere utforsker også andre anodematerialer som silisium, som har mye høyere lagringskapasitet, men som er mer utsatt for nedbrytning.
 
-Oppsummert er anoden elektroden der oksidasjon skjer under utladingssyklusen til et EV-batteri, og frigjør elektroner til den eksterne kretsen for å drive enheten. Den er vanligvis laget av grafitt og spiller en kritisk rolle i ytelsen og sikkerheten til batteriet.
+Noen selskaper som StoreDot jobber med anoder basert på [Silicon](https://www.store-dot.com/blog/silicon-dominant-anodes-pave-the-way-for-future-li-ion-ev- batterier). Dette kan teoretisk sett se at energitettheten på cellenivå nesten dobles, noe som gir åpenbare fordeler for elbiler. Utover dette kan Si-anoder også forbedre appellen til lavere energiceller, for eksempel LFP, redusere gapet til NMC-baserte celler og minimere kjerneulempen med LFP - begrenset energitetthet - spesielt i EV-applikasjoner. Estimater viser at å inkorporere 20 prosent Si i en anode kan forbedre en LFP-celles energitetthet med 17 prosent – selv om tilleggskostnadene for Si-anoden kan være uoverkommelige.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -152,7 +152,13 @@ Flytende elektrolytter i litiumionbatterier består av litiumsalter i et organis
 
 En flytende elektrolytt fungerer som en ledende bane for bevegelse av kationer som går fra de negative til de positive elektrodene under utladning og motsatt retning ved lading.
 
-Elektrolytter basert på faste materialer er områder som mange jobber med. Disse kalles [solid-state-batterier](https://en.wikipedia.org/wiki/Solid-state_battery). Foreløpig er det ingen konkrete planer for noen masseproduksjon EV med Solid-state batterier.
+Elektrolytter basert på faste materialer er områder som mange jobber med. Disse kalles [solid-state-batterier](https://en.wikipedia.org/wiki/Solid-state_battery).
+
+Solid-state batterier har mange potensielle fordeler, som høyere energitetthet, raskere lading, lengre levetid og bedre sikkerhet. Imidlertid står de også overfor mange utfordringer, som høye kostnader, lav strømtetthet, dårlig grensesnittstabilitet og vanskelig skalerbarhet.
+
+Semi-solid state batterier er en hybrid type batteri som kombinerer faste og flytende elektrolytter. De tar sikte på å overvinne noen av ulempene med solid state-batterier, for eksempel lavt kontaktområde og langsom produksjon. Semi solid state-batterier har høyere ionisk ledningsevne, lavere indre motstand og bedre kompatibilitet med litiummetall enn tradisjonelle batterier. Imidlertid har de også lavere energitetthet, høyere vekt og mer kompleksitet enn solid-state batterier. Foreløpig er det bare Nio som har annonsert en semi-solid state-pakke som vil være tilgjengelig i Kina i løpet av 2024.
+
+Quasi solid state-batterier er en annen hybrid type batteri som bruker en gel-lignende elektrolytt i stedet for en flytende eller fast. De har lignende egenskaper som semi solid state-batterier, men med mer fleksibilitet og viskositet. Quasi solid state-batterier kan også danne et beskyttende lag på overflaten av litiummetall, noe som forbedrer sykkelytelsen og sikkerheten til batteriet. Imidlertid lider de også av lav ionisk ledningsevne, høy polarisering og dårlig mekanisk styrke.
 
 ## Nåværende samler
 

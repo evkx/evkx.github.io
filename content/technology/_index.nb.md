@@ -43,13 +43,11 @@ Klikk på direktelenken nedenfor eller bla ned for en introduksjon til hver seks
 
 ## Avanserte førerassistentsystemer (ADAS)
 
-Etter hvert som elektriske kjøretøy (EV-er) blir mer vanlig på veiene våre, blir avanserte førerassistentsystemer (ADAS) stadig viktigere for å gjøre dem tryggere og mer effektive.
+Avanserte førerassistentsystemer (ADAS) stadig viktigere for å gjøre kjøretøy tryggere og mer effektive.
 
 ADAS-teknologien bruker sensorer, kameraer og programvare for å gi sjåfører sikkerhetsfunksjoner og semi-autonome kjøreegenskaper.
 
 Denne artikkelen vil utforske de forskjellige typene ADAS tilgjengelig i elbiler, for eksempel adaptiv cruisekontroll, filskiftevarsling og automatisk nødbremsing. Vi vil også diskutere hvordan disse systemene fungerer, deres fordeler og utfordringer. I tillegg vil vi se på fremtiden til ADAS i elbiler, inkludert potensialet for fullstendig autonom kjøring og rollen til kunstig intelligens for å forbedre sikkerhet og effektivitet.
-
-Mot slutten av denne artikkelen vil du bedre forstå viktigheten av ADAS i elbiler og hvordan denne teknologien er med på å forme fremtidens transport.
 
 <a href="driverassistance/" class="btn btn-outline-primary" role="button">Les vår teknologiartikkel om avanserte førerassistentsystemer.</a>
 
