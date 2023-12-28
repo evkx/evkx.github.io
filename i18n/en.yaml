@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-6dae8dd0
+  translation: Fisker Ocean Sport is an all-electric SUV with a WLTP range of up to 690 km (429 miles). EVKX.net has all the details. 
+
 - id: frontpage-description-be62bb42
   translation: Fisker Ocean Ultra is an all-electric SUV with a WLTP range of up to 690 km (429 miles). EVKX.net has all the details. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-65c52c8e
   translation: Genesis GV60 2WD is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net has all the details. 
-
-- id: frontpage-description-c3b21caf
-  translation: Genesis GV60 AWD Performance is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. 
 
