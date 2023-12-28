@@ -223,7 +223,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="fisker/"><img src="https://media.evkx.net/multimedia/models/fisker/brandevs_st.jpg" class="img-fluid mb-2" alt="Fisker" ></a>
 	<h2>Fisker</h2>
 	<p>
-	Fisker har 1 modell(er) med totalt 1 varianter. 
+	Fisker har 1 modell(er) med totalt 2 varianter. 
 	</p>
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Gå til Fisker modelloversikt</a>
 </div>

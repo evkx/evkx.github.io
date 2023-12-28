@@ -1,7 +1,7 @@
 ---
-title: Fisker Ocean Extreme
-linktitle: "Ocean Extreme"
-description: "Fisker Ocean Extreme er en helelektrisk SUV med en WLTP rekkevidde på opptil 707 km. EVKX.net har alle detaljene. "
+title: Fisker Ocean Ultra
+linktitle: "Ocean Ultra"
+description: "Fisker Ocean Ultra er en helelektrisk SUV med en WLTP rekkevidde på opptil 690 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/main_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/main_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="2000"  >}}
 
-Vi har delt vår Fisker Ocean Extreme-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har delt vår Fisker Ocean Ultra-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
@@ -29,23 +29,19 @@ Vi har delt vår Fisker Ocean Extreme-artikkel i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Med overboost har Fisker Ocean Extreme en maksimal effekt på 415 KW (564hk). Uten overboost er den 344KW (468hk). Dreiemomentet er 737 nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Topphastigheten er 205 km/t.
+Med overboost har Fisker Ocean Ultra en maksimal effekt på 400 KW (544hk). Uten overboost er den 344KW (468hk). Dreiemomentet er 737 nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 113kWh og en nettokapasitet på 106,5kWh, noe som betyr at du har et 6,5kWh-buffer for beskyttelse. (5,8%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 707 til 701 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.1kWh/100 km for basisversjonen og 15.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 690 km. Forbruket er 15.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 72 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 126kW. Hver ladeøkt vil ta 28 minutter og 49 sekunder.
 
 ### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 9 timer og 40 minutter.
-
-
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/charging_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2250"  >}}
-
 
 ### Ladeport
 
@@ -57,7 +53,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 ## Drivverk
 
-Fisker Ocean Extreme har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
+Fisker Ocean Ultra har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
 Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 165 mm.
 
@@ -77,7 +73,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/exterior_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1635"  >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/exterior_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1635"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -90,12 +86,11 @@ Du kan velge mellom ulike typer setematerialer og interiørstil. Seteoppsettet e
 
 ### Forseter
 
-Bare én type forsete er tilgjengelig i Fisker Ocean Extreme.
+Bare én type forsete er tilgjengelig i Fisker Ocean Ultra.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - integrert hodestøtte
@@ -109,7 +104,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/frontseats_2_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1687"  >}}
 
 
 ### Seter på andre rad
@@ -118,7 +113,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 Det er bare én type ratt tilgjengelig.
 
@@ -128,7 +122,7 @@ Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temper
 
 ## Komfort
 
-Fisker Ocean Extreme har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Fisker Ocean Ultra har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
 
 Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
 
@@ -144,16 +138,16 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Fisker Ocean Extreme har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 17.1 tommer stor .
+Fisker Ocean Ultra har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 17.1 tommer stor .
 Modellen er ikke tilgjengelig med head-up display.
 
 
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/screens_1_st.jpg" title="Fisker Ocean Ultra" width="1920" height="1080"  >}}
 
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Fisker Ocean Extreme. Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
+Én type lydsystem er tilgjengelig for Fisker Ocean Ultra. Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
@@ -163,22 +157,22 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 ## Avanserte førerassistentsystemer
 
-Fisker Ocean Extreme har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+Fisker Ocean Ultra har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
 ### Sikkerhetssystemer
 
 
 
-Fisker Ocean Extreme har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Fisker Ocean Ultra har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Fisker Ocean Extreme har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
+Fisker Ocean Ultra har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-Fisker Ocean Extreme har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Fisker Ocean Ultra har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-Fisker Ocean Extreme har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Fisker Ocean Ultra har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 [**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon.
 
@@ -193,7 +187,6 @@ Fisker Ocean Extreme har [**automatisk nødbremsing**](../../../../technology/dr
 Med Fisker Intelligent Pilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 
 {{<evkxdisplayaddarticle />}}

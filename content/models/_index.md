@@ -250,7 +250,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Fisker Inc. is an American electric vehicle (EV) manufacturer that was founded in 2016 by Henrik Fisker, a well-known automotive designer. The company is based in Manhattan Beach, California, and is focused on creating sustainable, electric mobility solutions.
 	</p>
 	<p>
-	Fisker has 1 models with total 1 variants. 
+	Fisker has 1 models with total 2 variants. 
 	</p>
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Go to Fisker EV-model overview</a>
 </div>
