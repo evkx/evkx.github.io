@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				690 km
+				464 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				10,1 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -120,34 +120,18 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/epa/">Basic trim EPA range</a>
+				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
-				360 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/epa/">Basic trim EPA consumption</a>
-			</td>
-			<td>
-				5,1 mi/kWh
+				231 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/epa/">Top trim EPA range</a>
+				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				355 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/epa/">Top trim EPA consumption</a>
-			</td>
-			<td>
-				5,1 mi/kWh
+				3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>

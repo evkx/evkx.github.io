@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Sport
 linktitle: "Ocean Sport"
-description: "Fisker Ocean Sport er en helelektrisk SUV med en WLTP rekkevidde på opptil 690 km. EVKX.net har alle detaljene. "
+description: "Fisker Ocean Sport er en helelektrisk SUV med en WLTP rekkevidde på opptil 464 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Med overboost har Fisker Ocean Sport en maksimal effekt på 209 KW (284hk). Uten
 
 Batteriet har en bruttokapasitet på 73kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (4,1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 690 km. Forbruket er 10.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 464 km. Forbruket er 15.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 47 minutter, mens et mer vanlig scenario på 10-80 % vil ta 22 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 116kW. Hver ladeøkt vil ta 22 minutter og 24 sekunder.
 

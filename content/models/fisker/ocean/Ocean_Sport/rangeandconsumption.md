@@ -21,10 +21,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 690 km / 429mi </td><td>10,14kWh/100km / 6,1 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 690 km / 429mi </td><td> 10,14 kWh/100km / 6,1 mi/kWh </td></tr>  
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>579km / 360 mi</td><td> 12,1 kWh/100km / 5,1 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>571km /355mi</td><td> 12,3 kWh/100km / 5,1 mi/kWh  </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 464 km / 288mi </td><td>15,09kWh/100km / 4,1 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 464 km / 288mi </td><td> 15,09 kWh/100km / 4,1 mi/kWh </td></tr>  
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>372km / 231 mi</td><td> 18,8 kWh/100km / 3,3 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>372km /231mi</td><td> 18,8 kWh/100km / 3,3 mi/kWh  </td></tr> 
 </tbody></table>
 
 ### Official test cycle results with added heating
@@ -35,10 +35,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
-<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 484km /301 mi </td><td> -29,9%</td></tr>
-<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 484km /301 mi </td><td>-29,9%</td></tr>
-<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 266km /165 mi </td><td> -26,1%</td></tr>
-<tr><td>  EPA-combined top trim with 2KW AC </td><td> 263km /163 mi </td><td> -25,9%</td></tr>
+<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 361km /224 mi </td><td> -22,2%</td></tr>
+<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 361km /224 mi </td><td>-22,2%</td></tr>
+<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 188km /117 mi </td><td> -18,6%</td></tr>
+<tr><td>  EPA-combined top trim with 2KW AC </td><td> 188km /117 mi </td><td> -18,6%</td></tr>
 </tbody></table>
 
 ### Real world range estimates

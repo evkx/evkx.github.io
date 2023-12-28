@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Sport
 linktitle: "Ocean Sport"
-description: "Fisker Ocean Sport is an all-electric SUV with a WLTP range of up to 690 km (429 miles). EVKX.net has all the details. "
+description: "Fisker Ocean Sport is an all-electric SUV with a WLTP range of up to 464 km (288 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ With overboost, the Fisker Ocean Sport has a maximum power of 209 KW (284 hp / 2
 
 The battery has a gross capacity of 73kWh and a net capacity of 70kWh, meaning you have a 3kWh buffer for protection. (4,1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 690 km (429 mi). The consumption is 10.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 464 km (288 mi). The consumption is 15.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 47 minutes, while a more common scenario of 10-80% would take 22 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64%, resulting in an actual charge speed, including time loss, of 116kW. Each charge session would take 22 minutes and 24 seconds.
 

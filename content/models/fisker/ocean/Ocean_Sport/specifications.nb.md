@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde
 			</td>
 			<td>
-				690 km
+				464 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				10,1 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -120,34 +120,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				EPA rekkevidde for minimum utstyrsnivå
+				EPA-rekkevidde
 			</td>
 			<td>
-				360 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Basic trim EPA-forbruk
-			</td>
-			<td>
-				5,1 mi/kWh
+				231 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt EPA-rekkevidde
+				EPA-forbruk
 			</td>
 			<td>
-				355 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt EPA-forbruk
-			</td>
-			<td>
-				5,1 mi/kWh
+				3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
