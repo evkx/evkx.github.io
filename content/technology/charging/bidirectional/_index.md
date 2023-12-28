@@ -1,10 +1,12 @@
 ---
 title: Bidirectional Charging
 linktitle: Bidirectional
-description: Bidirectional charging is a technology that allows EVs to not only receive electricity from the grid or a charging station, but also to send it back to the grid or a home. This way, EVs can act as backup power sources, grid stabilizers, or renewable energy integrators.
+description: Bidirectional charging is a technology that allows EVs to not only receive electricity from the grid or a charging station, but also to send it back to the grid or a home. 
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
+
+This way, EVs can act as backup power sources, grid stabilizers, or renewable energy integrators.
 
 In this article, we will explain everything you need to know about bidirectional charging for EVs. We will cover the following topics:
 
@@ -65,6 +67,21 @@ V2H stands for vehicle-to-home and refers to bidirectional charging between an E
 V2L stands for vehicle-to-load and refers to bidirectional charging between an EV and a load. A load is any device or appliance that consumes electricity, such as a refrigerator, a coffee maker, a laptop, or another EV. V2L allows an EV to send electricity to a load when it is needed or requested by the user or the device. V2L can provide portable power to a load in case of a lack of access to the grid or a charging station. V2L can also enable sharing of power between EVs or other loads.
 
 {{< sitefiguresized thumb="technology/charging/bidirectional/v2l_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq 5 charging electric bike" >}}
+
+There are typical two main methods to draw power
+
+- From chargeport using an V2L adapter
+- From socket inside car our in trunk/frunk/cargobed
+
+{{< sitefiguresized thumb="technology/charging/bidirectional/v2l_2_st.jpg" width="3000" height="2000" title="Tesla Cybertruck charging Tesla Model Y from Nema 14-50 socket in bed" >}}
+
+{{< sitefiguresized thumb="technology/charging/bidirectional/v2l_3_st.jpg" width="3000" height="2000" title="Lucid Air charging a Tesla Model s from own chargeport with adapter" >}}
+
+{{< sitefiguresized thumb="technology/charging/bidirectional/v2l_4_st.jpg" width="3000" height="2000" title="Tools connected to Ford F150 Lightning" >}}
+
+{{< sitefiguresized thumb="technology/charging/bidirectional/v2l_5_st.jpg" width="3000" height="2000" title="Hair iron connected to Hyundai Ioniq 5 interior connected" >}}
+
+The power that can be drawn from the EVs varies from 1 - 11.5kW depending on model and which connector that is used. 
 
 ## The Different Types of Bidirectional Chargers and Connectors
 

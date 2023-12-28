@@ -20,6 +20,7 @@ Click on the direct link below or scroll down for an introduction to each sectio
 - [Charging](charging/)
 - [Climate system](hvac/)
 - [Doors](doors/)
+- [Drive Modes](drivemodes/)
 - [EV Batteries](battery/)
 - [EV Platforms](platforms/)
 - [Glass Panel roof](glassroof/)
