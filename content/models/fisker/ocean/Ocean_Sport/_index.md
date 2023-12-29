@@ -37,7 +37,7 @@ The battery has a gross capacity of 73kWh and a net capacity of 70kWh, meaning y
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 464 km (288 mi). The consumption is 15.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 60 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 30 minutes and 40 seconds.
+The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 30 minutes and 40 seconds.
 
 ### Onboard charger
 
