@@ -3,10 +3,11 @@ title: Forstå rekkevidde
 linktitle: Forstå rekkevidde
 description: For mange er rekkevidden det mest kritiske aspektet ved en elbil. I denne veiledningen forklarer vi hvilke faktorer som påvirker rekkevidden til elbiler og hvorfor nye elbileiere ofte opplever lavere rekkevidde enn forventet.
 weight: 3
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 Rekkevidden av elektriske biler er vanligvis gitt som en [WLTP rekkevidde](wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) i
-Europa, [EPA](epa/) i USA og CLTC i Kina.
+Europa, [EPA](epa/) i USA og [CLTC](cltc/) i Kina.
 
 Modellene som er tilgjengelige i dag (sommeren 2023) har en rangert rekkevidde mellom ca. 200 km og 900 km.
 

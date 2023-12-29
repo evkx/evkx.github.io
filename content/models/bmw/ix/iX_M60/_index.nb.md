@@ -77,7 +77,7 @@ Dynamisk styring er standard-funksjonen på BMW iX M60. Dynamisk styring variere
 
 Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Myk lukking er tilvalg-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er tilvalg-funksjon for sidedørene.
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.FullFixed.Electrochromic
 
@@ -179,7 +179,7 @@ BMW iX M60 har flere standard og valgfrie [avanserte førerassistentsystemer](..
 
 
 
-BMW iX M60 har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+BMW iX M60 har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 BMW iX M60 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

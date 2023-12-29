@@ -73,7 +73,7 @@ Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceram
 
 Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. Myk lukking er standard-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er standard-funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
@@ -178,7 +178,7 @@ Lucid Air Sapphire har flere standard og valgfrie [avanserte førerassistentsyst
 
 
 
-Lucid Air Sapphire har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Lucid Air Sapphire har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Lucid Air Sapphire har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

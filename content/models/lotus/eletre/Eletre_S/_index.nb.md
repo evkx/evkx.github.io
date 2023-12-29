@@ -187,7 +187,7 @@ Lotus Eletre S har flere standard og valgfrie [avanserte førerassistentsystemer
 
 
 
-Lotus Eletre S har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Lotus Eletre S har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Lotus Eletre S har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

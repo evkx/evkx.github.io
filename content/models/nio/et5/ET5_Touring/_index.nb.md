@@ -89,7 +89,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Myk lukking er standard-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er standard-funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. exterior.roof.standard.panoramic.FullFixed.ElectrochromicMultipleLevels
 
@@ -187,7 +187,7 @@ Nio ET5 Touring har flere standard og valgfrie [avanserte førerassistentsysteme
 
 
 
-Nio ET5 Touring har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Nio ET5 Touring har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Nio ET5 Touring har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

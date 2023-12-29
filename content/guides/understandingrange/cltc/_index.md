@@ -3,6 +3,7 @@ title: CLTC Range testing
 linktitle: CLTC
 description: The CLTC is a driving cycle that simulates the typical driving conditions and patterns of Chinese drivers.
 weight: 3
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

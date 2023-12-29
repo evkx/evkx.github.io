@@ -3,11 +3,12 @@ title: Understanding range
 linktitle: Understanding range
 description: For many, the range is the most critical aspect of an EV. In this guide, we explain what factors affect the driving range of EVs and why new EV owners often experience a lower range than expected. 
 weight: 3
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
 The range of electric cars is typically given as a [WLTP range](wltp/) (Worldwide Harmonised Light Vehicles Test Procedure) in
-Europe, [EPA](epa/) in the US, and CLTC in China.
+Europe, [EPA](epa/) in the US, and [CLTC](cltc/) in China.
 
 The models available today (summer 2023) have a rated range between approx 200km and 900km.
 

@@ -171,18 +171,10 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Pakkekonfigurasjon
-			</td>
-			<td>
-				192s2p
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Nominell spenning
 			</td>
 			<td>
-				697
+				552
 			</td>
 		</tr>
 	</tbody>

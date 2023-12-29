@@ -161,7 +161,7 @@ Toyota bZ4X FWD har flere standard og valgfrie [avanserte førerassistentsysteme
 
 
 
-Toyota bZ4X FWD har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Toyota bZ4X FWD har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 

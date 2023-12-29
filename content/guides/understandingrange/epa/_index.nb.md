@@ -3,6 +3,7 @@ title: EPA Range testing
 linktitle: EPA
 description: EPA-rekkeviddetestingen er testen som brukes i USA. Det amerikanske miljøvernbyrået definerer testene.
 weight: 1
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 ## Hvordan testes det?

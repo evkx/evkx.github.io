@@ -95,7 +95,7 @@ exterior.styling.blackoptics
 
 I tillegg kan du velge mellom 10 hjul med størrelser fra 19 til 22 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). Myk lukking er tilvalg-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' er tilvalg-funksjon for sidedørene.
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
@@ -261,7 +261,7 @@ Audi Q8 55 e-tron har flere standard og valgfrie [avanserte førerassistentsyste
 
 
 
-Audi Q8 55 e-tron har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Audi Q8 55 e-tron har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Audi Q8 55 e-tron har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

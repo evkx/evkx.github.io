@@ -73,7 +73,7 @@ Dynamisk styring er standard-funksjonen på Rolls-Royce Spectre. Dynamisk styrin
 
 Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har to [selvmordsdører](../../../../technology/doors/) på og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Myk lukking er standard-funksjon for sidedørene. Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [selvmordsdører](../../../../technology/doors/) på og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. 'Soft Close' er standard-funksjon for sidedørene. Elektriske dører er standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
@@ -191,7 +191,7 @@ Rolls-Royce Spectre har flere standard og valgfrie [avanserte førerassistentsys
 
 
 
-Rolls-Royce Spectre har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Rolls-Royce Spectre har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Rolls-Royce Spectre har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

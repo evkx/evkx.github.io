@@ -161,7 +161,7 @@ Jeep Avenger har flere standard og valgfrie [avanserte førerassistentsystemer](
 
 
 
-Jeep Avenger har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Jeep Avenger har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Jeep Avenger har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 

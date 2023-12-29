@@ -209,7 +209,7 @@ Mercedes-EQ EQE 350 4MATIC SUV har flere standard og valgfrie [avanserte førera
 
 
 
-Mercedes-EQ EQE 350 4MATIC SUV har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Mercedes-EQ EQE 350 4MATIC SUV har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Mercedes-EQ EQE 350 4MATIC SUV har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

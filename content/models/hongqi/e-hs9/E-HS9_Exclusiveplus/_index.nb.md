@@ -74,7 +74,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 21 til 22 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Myk lukking er standard-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er standard-funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
@@ -180,7 +180,7 @@ Hongqi E-HS9 Exclusive+ har flere standard og valgfrie [avanserte førerassisten
 
 
 
-Hongqi E-HS9 Exclusive+ har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Hongqi E-HS9 Exclusive+ har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Hongqi E-HS9 Exclusive+ har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

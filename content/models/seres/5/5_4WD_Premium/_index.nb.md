@@ -170,7 +170,7 @@ Seres 5 4WD Premium har flere standard og valgfrie [avanserte førerassistentsys
 
 
 
-Seres 5 4WD Premium har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Seres 5 4WD Premium har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Seres 5 4WD Premium har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 

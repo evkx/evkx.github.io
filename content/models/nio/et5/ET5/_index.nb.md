@@ -89,7 +89,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Myk lukking er standard-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er standard-funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
@@ -189,7 +189,7 @@ Nio ET5 har flere standard og valgfrie [avanserte førerassistentsystemer](../..
 
 
 
-Nio ET5 har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Nio ET5 har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Nio ET5 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

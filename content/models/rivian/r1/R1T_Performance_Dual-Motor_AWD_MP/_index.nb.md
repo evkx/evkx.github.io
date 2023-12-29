@@ -174,7 +174,7 @@ Rivian R1T Performance Dual-Motor AWD MP har flere standard og valgfrie [avanser
 
 
 
-Rivian R1T Performance Dual-Motor AWD MP har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Rivian R1T Performance Dual-Motor AWD MP har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Rivian R1T Performance Dual-Motor AWD MP har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

@@ -200,7 +200,7 @@ Volkswagen ID.5 GTX 4MOTION (GEN1) har flere standard og valgfrie [avanserte fø
 
 
 
-Volkswagen ID.5 GTX 4MOTION (GEN1) har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Volkswagen ID.5 GTX 4MOTION (GEN1) har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 Volkswagen ID.5 GTX 4MOTION (GEN1) har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 

@@ -74,7 +74,7 @@ Dynamisk styring er standard-funksjonen på BMW i7 M70 xDrive. Dynamisk styring 
 Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 8 hjul med størrelser fra 19 til 21 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. Myk lukking er tilvalg-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er tilvalg-funksjon for sidedørene.
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
@@ -187,7 +187,7 @@ BMW i7 M70 xDrive har flere standard og valgfrie [avanserte førerassistentsyste
 
 
 
-BMW i7 M70 xDrive har et [**låsefri bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+BMW i7 M70 xDrive har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
 BMW i7 M70 xDrive har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
