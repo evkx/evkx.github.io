@@ -29,7 +29,7 @@ Vi har delt vår Lucid Air Dream Edition Performance-artikkel i seksjoner. Hvis 
 
 ## Ytelse
 
-Lucid Air Dream Edition Performance har en maksimal effekt på 828 KW (1126hk). Totalt dreiemoment er 1390 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 2,7 sekunder. Topphastigheten er 270 km/t.
+Lucid Air Dream Edition Performance har en maksimal effekt på 828 KW (1126hk). Totalt dreiemoment er 1390 nm. Den utfører sprinten 0-100 km/t på 2,7 sekunder. Topphastigheten er 270 km/t.
 
 ## Batteri, rekkevidde og lading
 

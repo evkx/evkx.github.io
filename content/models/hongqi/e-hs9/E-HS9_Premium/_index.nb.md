@@ -29,7 +29,7 @@ Vi har delt vår Hongqi E-HS9 Premium-artikkel i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Hongqi E-HS9 Premium har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 670 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,9 sekunder. Topphastigheten er 200 km/t.
+Hongqi E-HS9 Premium har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 670 nm. Den utfører sprinten 0-100 km/t på 4,9 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

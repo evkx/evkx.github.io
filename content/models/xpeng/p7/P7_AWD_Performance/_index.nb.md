@@ -29,7 +29,7 @@ Vi har delt vår XPENG P7 AWD Performance-artikkel i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-XPENG P7 AWD Performance har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 717 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 205 km/t.
+XPENG P7 AWD Performance har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 717 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 XPENG P7 AWD Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 113 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 113 mm.
 
 ### Bremser
 

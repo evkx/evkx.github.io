@@ -29,7 +29,7 @@ Vi har delt vår Honda e:Ny1-artikkel i seksjoner. Hvis du vil vente med å lese
 
 ## Ytelse
 
-Honda e:Ny1 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,7 sekunder. Topphastigheten er 160 km/t.
+Honda e:Ny1 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7,7 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 drivetrain.drivesetup.NotSet
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 140 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 140 mm.
 
 ### Bremser
 

@@ -29,7 +29,7 @@ Vi har delt vår Volkswagen ID.4 GTX 4MOTION-artikkel i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Med overboost har Volkswagen ID.4 GTX 4MOTION en maksimal effekt på 250 KW (340hk). Uten overboost er den 210KW (286hk). Dreiemomentet er 679 nm med overboost og 545 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder med overboost og 6,7 sekunder uten overboost. Topphastigheten er 180 km/t.
+Med overboost har Volkswagen ID.4 GTX 4MOTION en maksimal effekt på 250 KW (340hk). Uten overboost er den 210KW (286hk). Dreiemomentet er 679 nm med overboost og 545 uten overboost. Den utfører sprinten 0-100 km/t på 5,5 sekunder med overboost og 6,7 sekunder uten overboost. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -57,9 +57,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Volkswagen ID.4 GTX 4MOTION har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 180 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 180 mm.
 
-Du kan bestille Volkswagen ID.4 GTX 4MOTION med en alternativ sport hjuloppheng. Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
+Du kan bestille Volkswagen ID.4 GTX 4MOTION med en alternativ sport hjuloppheng. Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
 
 ### Styring
 

@@ -29,7 +29,7 @@ Vi har delt vår Smart #3 Brabus-artikkel i seksjoner. Hvis du vil vente med å 
 
 ## Ytelse
 
-Smart #3 Brabus har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 543 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Topphastigheten er 180 km/t.
+Smart #3 Brabus har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 543 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Smart #3 Brabus har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
 
 ### Bremser
 

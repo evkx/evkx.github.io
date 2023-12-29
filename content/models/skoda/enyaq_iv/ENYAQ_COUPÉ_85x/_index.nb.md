@@ -29,7 +29,7 @@ Vi har delt vår SKODA ENYAQ COUPÉ 85x-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-SKODA ENYAQ COUPÉ 85x har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 6,6 sekunder. Topphastigheten er 180 km/t.
+SKODA ENYAQ COUPÉ 85x har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 6,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har delt vår Kia EV6 Standard Range 2WD-artikkel i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Kia EV6 Standard Range 2WD har en maksimal effekt på 125 KW (170hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,5 sekunder. Topphastigheten er 185 km/t.
+Kia EV6 Standard Range 2WD har en maksimal effekt på 125 KW (170hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 8,5 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 

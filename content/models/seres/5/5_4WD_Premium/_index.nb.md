@@ -29,7 +29,7 @@ Vi har delt vår Seres 5 4WD Premium-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Seres 5 4WD Premium har en maksimal effekt på 430 KW (585hk). Totalt dreiemoment er 940 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Topphastigheten er 200 km/t.
+Seres 5 4WD Premium har en maksimal effekt på 430 KW (585hk). Totalt dreiemoment er 940 nm. Den utfører sprinten 0-100 km/t på 4 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

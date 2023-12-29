@@ -29,7 +29,7 @@ Vi har delt vår Tesla Cybertruck Cyberbeast-artikkel i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Tesla Cybertruck Cyberbeast har en maksimal effekt på 630 KW (857hk). Totalt dreiemoment er 930 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 2,7 sekunder. Topphastigheten er 209 km/t.
+Tesla Cybertruck Cyberbeast har en maksimal effekt på 630 KW (857hk). Totalt dreiemoment er 930 nm. Den utfører sprinten 0-100 km/t på 2,7 sekunder. Topphastigheten er 209 km/t.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har delt vår Cadillac LYRIQ AWD-artikkel i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Cadillac LYRIQ AWD har en maksimal effekt på 373 KW (507hk). Totalt dreiemoment er 610 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder.
+Cadillac LYRIQ AWD har en maksimal effekt på 373 KW (507hk). Totalt dreiemoment er 610 nm. Den utfører sprinten 0-100 km/t på 4,6 sekunder.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har delt vår Tesla Model X-artikkel i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-Tesla Model X har en maksimal effekt på 493 KW (670hk). Totalt dreiemoment er 800 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 250 km/t.
+Tesla Model X har en maksimal effekt på 493 KW (670hk). Totalt dreiemoment er 800 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 

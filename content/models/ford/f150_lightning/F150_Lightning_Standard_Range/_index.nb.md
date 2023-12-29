@@ -29,7 +29,7 @@ Vi har delt vår Ford F150 Lightning Standard Range-artikkel i seksjoner. Hvis d
 
 ## Ytelse
 
-Ford F150 Lightning Standard Range har en maksimal effekt på 433 KW (589hk). Totalt dreiemoment er 1050 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 180 km/t.
+Ford F150 Lightning Standard Range har en maksimal effekt på 433 KW (589hk). Totalt dreiemoment er 1050 nm. Den utfører sprinten 0-100 km/t på 4,2 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

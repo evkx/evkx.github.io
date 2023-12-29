@@ -29,7 +29,7 @@ Vi har delt vår Tesla Model X Standard Range-artikkel i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Tesla Model X Standard Range har en maksimal effekt på 381 KW (518hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 250 km/t.
+Tesla Model X Standard Range har en maksimal effekt på 381 KW (518hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 4,2 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 

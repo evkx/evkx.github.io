@@ -29,7 +29,7 @@ Vi har delt vår Citroën ë-C3-artikkel i seksjoner. Hvis du vil vente med å l
 
 ## Ytelse
 
-Citroën ë-C3 har en maksimal effekt på 83 KW (113hk). Totalt dreiemoment er  nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 11 sekunder. Topphastigheten er 135 km/t.
+Citroën ë-C3 har en maksimal effekt på 83 KW (113hk). Totalt dreiemoment er  nm. Den utfører sprinten 0-100 km/t på 11 sekunder. Topphastigheten er 135 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -59,7 +59,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Citroën ë-C3 har et forhjulsdriftssystem støttet av én motor på forakselen.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
 
 ### Bremser
 

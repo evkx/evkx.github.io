@@ -29,7 +29,7 @@ Vi har delt vår Nio ET9-artikkel i seksjoner. Hvis du vil vente med å lese hel
 
 ## Ytelse
 
-Nio ET9 har en maksimal effekt på 520 KW (707hk). Totalt dreiemoment er 900 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Topphastigheten er 200 km/t.
+Nio ET9 har en maksimal effekt på 520 KW (707hk). Totalt dreiemoment er 900 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 

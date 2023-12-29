@@ -29,7 +29,7 @@ Vi har delt vår HiPhi Y Performance-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-HiPhi Y Performance har en maksimal effekt på 371 KW (504hk). Totalt dreiemoment er 620 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,7 sekunder.
+HiPhi Y Performance har en maksimal effekt på 371 KW (504hk). Totalt dreiemoment er 620 nm. Den utfører sprinten 0-100 km/t på 4,7 sekunder.
 
 ## Batteri, rekkevidde og lading
 

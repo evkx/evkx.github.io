@@ -29,7 +29,7 @@ Vi har delt vår Peugot E-3008 Long Range-artikkel i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Peugot E-3008 Long Range har en maksimal effekt på 170 KW (231hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 9,1 sekunder. Topphastigheten er 150 km/t.
+Peugot E-3008 Long Range har en maksimal effekt på 170 KW (231hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 9,1 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Peugot E-3008 Long Range har et forhjulsdriftssystem støttet av én motor på forakselen.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 200 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 200 mm.
 
 ### Bremser
 

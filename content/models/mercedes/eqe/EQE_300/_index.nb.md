@@ -29,7 +29,7 @@ Vi har delt vår Mercedes-EQ EQE 300-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Mercedes-EQ EQE 300 har en maksimal effekt på 180 KW (245hk). Totalt dreiemoment er 565 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Topphastigheten er 210 km/t.
+Mercedes-EQ EQE 300 har en maksimal effekt på 180 KW (245hk). Totalt dreiemoment er 565 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 

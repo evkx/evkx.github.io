@@ -29,7 +29,7 @@ Vi har delt vår Porsche Taycan Turbo S-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Med overboost har Porsche Taycan Turbo S en maksimal effekt på 560 KW (761hk). Uten overboost er den 460KW (625hk). Dreiemomentet er 850 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 2,8 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Taycan Turbo S en maksimal effekt på 560 KW (761hk). Uten overboost er den 460KW (625hk). Dreiemomentet er 850 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,8 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 

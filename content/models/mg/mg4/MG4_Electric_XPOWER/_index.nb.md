@@ -29,7 +29,7 @@ Vi har delt vår MG MG4 Electric XPOWER-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-MG MG4 Electric XPOWER har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 600 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Topphastigheten er 160 km/t.
+MG MG4 Electric XPOWER har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 600 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 MG MG4 Electric XPOWER har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 150 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 150 mm.
 
 ### Bremser
 

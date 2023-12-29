@@ -29,7 +29,7 @@ Vi har delt vår Mercedes-AMG EQE 43 4MATIC SUV-artikkel i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Mercedes-AMG EQE 43 4MATIC SUV har en maksimal effekt på 350 KW (476hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,3 sekunder. Topphastigheten er 210 km/t.
+Mercedes-AMG EQE 43 4MATIC SUV har en maksimal effekt på 350 KW (476hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t på 4,3 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 

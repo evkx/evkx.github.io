@@ -29,7 +29,7 @@ Vi har delt vår SKODA ENYAQ COUPÉ RS iV-artikkel i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Med overboost har SKODA ENYAQ COUPÉ RS iV en maksimal effekt på 250 KW (340hk). Uten overboost er den 210KW (286hk). Dreiemomentet er 679 nm med overboost og 679 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder. Topphastigheten er 180 km/t.
+Med overboost har SKODA ENYAQ COUPÉ RS iV en maksimal effekt på 250 KW (340hk). Uten overboost er den 210KW (286hk). Dreiemomentet er 679 nm med overboost og 679 uten overboost. Den utfører sprinten 0-100 km/t på 5,5 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

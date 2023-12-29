@@ -29,7 +29,7 @@ Vi har delt vår Genesis GV60 2WD-artikkel i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-Genesis GV60 2WD har en maksimal effekt på 168 KW (228hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder. Topphastigheten er 185 km/t.
+Genesis GV60 2WD har en maksimal effekt på 168 KW (228hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 5,5 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Genesis GV60 2WD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 161 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 161 mm.
 
 ### Bremser
 

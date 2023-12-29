@@ -29,7 +29,7 @@ Vi har delt vår Ford Mustang Mach-E GT-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Ford Mustang Mach-E GT har en maksimal effekt på 358 KW (487hk). Totalt dreiemoment er 860 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Topphastigheten er 200 km/t.
+Ford Mustang Mach-E GT har en maksimal effekt på 358 KW (487hk). Totalt dreiemoment er 860 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Ford Mustang Mach-E GT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 147 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 147 mm.
 
 ### Bremser
 

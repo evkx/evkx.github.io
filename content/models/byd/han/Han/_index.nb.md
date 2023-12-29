@@ -29,7 +29,7 @@ Vi har delt vår BYD Han-artikkel i seksjoner. Hvis du vil vente med å lese hel
 
 ## Ytelse
 
-BYD Han har en maksimal effekt på 380 KW (517hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 180 km/t.
+BYD Han har en maksimal effekt på 380 KW (517hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 

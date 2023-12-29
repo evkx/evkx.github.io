@@ -29,7 +29,7 @@ Vi har delt vår MG MG5 Electric Long Range-artikkel i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-MG MG5 Electric Long Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 8,3 sekunder. Topphastigheten er 185 km/t.
+MG MG5 Electric Long Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t på 8,3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 MG MG5 Electric Long Range har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 115 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 115 mm.
 
 ### Bremser
 

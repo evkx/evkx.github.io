@@ -29,7 +29,7 @@ Vi har delt vår XPENG G9 AWD Performance-artikkel i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-XPENG G9 AWD Performance har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 717 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Topphastigheten er 205 km/t.
+XPENG G9 AWD Performance har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 717 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har delt vår Fisker Ocean Extreme-artikkel i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Med overboost har Fisker Ocean Extreme en maksimal effekt på 415 KW (564hk). Uten overboost er den 344KW (468hk). Dreiemomentet er 737 nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Topphastigheten er 205 km/t.
+Med overboost har Fisker Ocean Extreme en maksimal effekt på 415 KW (564hk). Uten overboost er den 344KW (468hk). Dreiemomentet er 737 nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t på 4 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -59,7 +59,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Fisker Ocean Extreme har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 165 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 165 mm.
 
 ### Kjøremoduser
 

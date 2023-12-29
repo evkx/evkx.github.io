@@ -29,7 +29,7 @@ Vi har delt vår Mercedes-Maybach EQS 680 SUV-artikkel i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Mercedes-Maybach EQS 680 SUV har en maksimal effekt på 484 KW (658hk). Totalt dreiemoment er 950 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Topphastigheten er 210 km/t.
+Mercedes-Maybach EQS 680 SUV har en maksimal effekt på 484 KW (658hk). Totalt dreiemoment er 950 nm. Den utfører sprinten 0-100 km/t på 4,4 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 

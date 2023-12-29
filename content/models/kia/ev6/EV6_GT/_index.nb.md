@@ -29,7 +29,7 @@ Vi har delt vår Kia EV6 GT-artikkel i seksjoner. Hvis du vil vente med å lese 
 
 ## Ytelse
 
-Kia EV6 GT har en maksimal effekt på 430 KW (585hk). Totalt dreiemoment er 740 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Topphastigheten er 260 km/t.
+Kia EV6 GT har en maksimal effekt på 430 KW (585hk). Totalt dreiemoment er 740 nm. Den utfører sprinten 0-100 km/t på 3,5 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 

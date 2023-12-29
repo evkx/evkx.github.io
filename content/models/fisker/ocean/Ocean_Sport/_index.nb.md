@@ -29,7 +29,7 @@ Vi har delt vår Fisker Ocean Sport-artikkel i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Med overboost har Fisker Ocean Sport en maksimal effekt på 209 KW (284hk). Uten overboost er den 180KW (245hk). Dreiemomentet er 386 nm med overboost og 386 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Topphastigheten er 188 km/t.
+Med overboost har Fisker Ocean Sport en maksimal effekt på 209 KW (284hk). Uten overboost er den 180KW (245hk). Dreiemomentet er 386 nm med overboost og 386 uten overboost. Den utfører sprinten 0-100 km/t på 7,9 sekunder. Topphastigheten er 188 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Fisker Ocean Sport har et forhjulsdriftssystem støttet av én motor på forakselen.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 165 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 165 mm.
 
 ### Bremser
 

@@ -29,7 +29,7 @@ Vi har delt vår Tesla Model S Plaid-artikkel i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Tesla Model S Plaid har en maksimal effekt på 760 KW (1033hk). Totalt dreiemoment er 1420 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 2,1 sekunder. Topphastigheten er 322 km/t.
+Tesla Model S Plaid har en maksimal effekt på 760 KW (1033hk). Totalt dreiemoment er 1420 nm. Den utfører sprinten 0-100 km/t på 2,1 sekunder. Topphastigheten er 322 km/t.
 
 ## Batteri, rekkevidde og lading
 

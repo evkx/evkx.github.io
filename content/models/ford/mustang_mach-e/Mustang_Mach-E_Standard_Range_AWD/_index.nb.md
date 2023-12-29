@@ -29,7 +29,7 @@ Vi har delt vår Ford Mustang Mach-E Standard Range AWD-artikkel i seksjoner. Hv
 
 ## Ytelse
 
-Ford Mustang Mach-E Standard Range AWD har en maksimal effekt på 258 KW (351hk). Totalt dreiemoment er 580 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 5,8 sekunder. Topphastigheten er 180 km/t.
+Ford Mustang Mach-E Standard Range AWD har en maksimal effekt på 258 KW (351hk). Totalt dreiemoment er 580 nm. Den utfører sprinten 0-100 km/t på 5,8 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Ford Mustang Mach-E Standard Range AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 147 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 147 mm.
 
 ### Bremser
 

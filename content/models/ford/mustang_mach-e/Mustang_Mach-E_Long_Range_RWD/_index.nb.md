@@ -29,7 +29,7 @@ Vi har delt vår Ford Mustang Mach-E Long Range RWD-artikkel i seksjoner. Hvis d
 
 ## Ytelse
 
-Ford Mustang Mach-E Long Range RWD har en maksimal effekt på 216 KW (294hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 7 sekunder. Topphastigheten er 180 km/t.
+Ford Mustang Mach-E Long Range RWD har en maksimal effekt på 216 KW (294hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 7 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Ford Mustang Mach-E Long Range RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 147 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 147 mm.
 
 ### Bremser
 

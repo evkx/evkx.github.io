@@ -29,7 +29,7 @@ Vi har delt vår HiPhi X 4 Seater-artikkel i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-HiPhi X 4 Seater har en maksimal effekt på 433 KW (589hk). Totalt dreiemoment er 820 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder.
+HiPhi X 4 Seater har en maksimal effekt på 433 KW (589hk). Totalt dreiemoment er 820 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder.
 
 ## Batteri, rekkevidde og lading
 

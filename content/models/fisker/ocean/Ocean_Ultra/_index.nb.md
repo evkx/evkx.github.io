@@ -29,7 +29,7 @@ Vi har delt vår Fisker Ocean Ultra-artikkel i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Med overboost har Fisker Ocean Ultra en maksimal effekt på 400 KW (544hk). Uten overboost er den 344KW (468hk). Dreiemomentet er 737 nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Topphastigheten er 205 km/t.
+Med overboost har Fisker Ocean Ultra en maksimal effekt på 400 KW (544hk). Uten overboost er den 344KW (468hk). Dreiemomentet er 737 nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t på 4,2 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Fisker Ocean Ultra har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
-Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 165 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 165 mm.
 
 ### Bremser
 

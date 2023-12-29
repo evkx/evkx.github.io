@@ -29,7 +29,7 @@ Vi har delt vår Chevrolet Blazer EV SS-artikkel i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Chevrolet Blazer EV SS har en maksimal effekt på 410 KW (557hk). Totalt dreiemoment er 880 nm. Den utfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder.
+Chevrolet Blazer EV SS har en maksimal effekt på 410 KW (557hk). Totalt dreiemoment er 880 nm. Den utfører sprinten 0-100 km/t på 4 sekunder.
 
 ## Batteri, rekkevidde og lading
 
