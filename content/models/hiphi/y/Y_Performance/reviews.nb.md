@@ -6,7 +6,7 @@ weight: 80
 hidden: true
 navicon: bi-person-video2
 ---
-We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+Vi har samlet tester fra våre [favoritt elbiltestere](../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Move Over Germans! - The HiPhi Y Crams The Tech and Madness of the X and Z Into A Smaller Package</h3>

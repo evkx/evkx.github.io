@@ -6,7 +6,7 @@ weight: 80
 hidden: true
 navicon: bi-person-video2
 ---
-We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
+We collect reviews from our [favorite online reviewers](../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Full Tour Of The Volvo EX30! Incredible Price, Technology, & Performance In This Small Electric SUV</h3>
