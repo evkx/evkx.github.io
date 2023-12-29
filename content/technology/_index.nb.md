@@ -18,6 +18,7 @@ Klikk på direktelenken nedenfor eller bla ned for en introduksjon til hver seks
 - [Bremser](brakes/)
 - [Lading](charging/)
 - [Klimasystem](hvac/)
+- [Laste- og slepemuligheter](cargoandtowing/)
 - [Dører](doors/)
 - [Elbil batterier](battery/)
 - [Elbil plattformer](platforms/)

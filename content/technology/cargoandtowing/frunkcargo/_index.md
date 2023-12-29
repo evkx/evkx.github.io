@@ -54,7 +54,7 @@ Many EVs on the market or in development have frunks, but some stand out for the
 <thead>
     <tr>
         <th>Model</th>
-        <th>Trunk size</th>
+        <th>Frunk size</th>
    </tr>
 </thead>
 <tbody>
