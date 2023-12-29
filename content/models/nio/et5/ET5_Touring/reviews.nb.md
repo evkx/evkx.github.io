@@ -8,43 +8,73 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Nio ET5 Touring 100 kWh range test 28.11.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET5 Touring 100 kWh range test</h3>
+<p>Bjørn Nyland: 28.11.2023</p>
 
 {{< youtube MCFTs487Y6g >}}
 
-### Bjørn Nyland: Nio ET5 Touring trip to Alvdal in -25°C 26.11.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET5 Touring trip to Alvdal in -25°C</h3>
+<p>Bjørn Nyland: 26.11.2023</p>
 
 {{< youtube mxMuGW35XAo >}}
 
-### Bjørn Nyland: Nio ET5 Touring banana box test 25.11.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET5 Touring banana box test</h3>
+<p>Bjørn Nyland: 25.11.2023</p>
 
 {{< youtube 0lowOn39t6o >}}
 
-### Norsk elbilforening: Test av Nio ET5 Touring - Power på billigsalg 27.10.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Test av Nio ET5 Touring - Power på billigsalg</h3>
+<p>Norsk elbilforening: 27.10.2023</p>
 
 {{< youtube cjPQANVhdps >}}
 
-### It's Only Electric: Say no to the SUV! - Nio ET5 Touring | Full Review 28.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Say no to the SUV! - Nio ET5 Touring | Full Review</h3>
+<p>It's Only Electric: 28.09.2023</p>
 
 {{< youtube HncdCcBlTlU >}}
 
-### Bjørn Nyland: Nio ET5 Touring test drive 20.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET5 Touring test drive</h3>
+<p>Bjørn Nyland: 20.09.2023</p>
 
 {{< youtube -gajenBF4ac >}}
 
-### Bjørn Nyland: Nio ET5 Touring first impressions 20.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET5 Touring first impressions</h3>
+<p>Bjørn Nyland: 20.09.2023</p>
 
 {{< youtube 5ShKy-rZRaA >}}
 
-### Out of Spec Reviews: A Fast EV Wagon For Half The Price Of A Taycan! I Drive The NIO ET5 Touring For The First Time 08.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>A Fast EV Wagon For Half The Price Of A Taycan! I Drive The NIO ET5 Touring For The First Time</h3>
+<p>Out of Spec Reviews: 08.09.2023</p>
 
 {{< youtube rcf17eD8aUE >}}
 
-### Fully Charged Show: This Futuristic Estate Car Is The Cure To Boring SUVs! 29.06.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>This Futuristic Estate Car Is The Cure To Boring SUVs!</h3>
+<p>Fully Charged Show: 29.06.2023</p>
 
 {{< youtube TdcawbBTM5c >}}
 
-### Norsk elbilforening: Nio ET5 Touring Verdenspremiære 2023 16.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET5 Touring Verdenspremiære 2023</h3>
+<p>Norsk elbilforening: 16.04.2023</p>
 
 {{< youtube 1aRdIoI2Sss >}}
 
+</div>

@@ -8,23 +8,38 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Fully Charged Show: AUDI Q4 E-TRON First Drive: The electric Audi we wanted all along! 22.07.2021
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>AUDI Q4 E-TRON First Drive: The electric Audi we wanted all along!</h3>
+<p>Fully Charged Show: 22.07.2021</p>
 
 {{< youtube PTPnz_Eh0zo >}}
 
-### Bjørn Nyland: Audi Q4 e-tron trailer range test 20.06.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q4 e-tron trailer range test</h3>
+<p>Bjørn Nyland: 20.06.2021</p>
 
 {{< youtube SW-DfNEXnk >}}
 
-### Bjørn Nyland: Audi Q4 e-tron interior review 19.06.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q4 e-tron interior review</h3>
+<p>Bjørn Nyland: 19.06.2021</p>
 
 {{< youtube 19jP4Ot2I68 >}}
 
-### Bjørn Nyland: Audi Q4 e-tron range test 18.06.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q4 e-tron range test</h3>
+<p>Bjørn Nyland: 18.06.2021</p>
 
 {{< youtube c8Fp1antVfA >}}
 
-### Autogefühl: Audi Q4 e-tron SUV vs Sportback driving REVIEW - now the best EV SUV ? 31.05.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q4 e-tron SUV vs Sportback driving REVIEW - now the best EV SUV ?</h3>
+<p>Autogefühl: 31.05.2021</p>
 
 {{< youtube YrVd_9jnFTU >}}
 
+</div>

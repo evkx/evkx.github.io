@@ -8,39 +8,66 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Kris Rifa: Cupra Born 58 | Don't Buy A Volkswagen ID.3! 23.10.2022
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Born 58 | Don't Buy A Volkswagen ID.3!</h3>
+<p>Kris Rifa: 23.10.2022</p>
 
 {{< youtube KchA6wiSbZs >}}
 
-### Kris Rifa: Cupra Born 58 | 610km Range Test (Norwegian High Speed Run V2.0) 21.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Born 58 | 610km Range Test (Norwegian High Speed Run V2.0)</h3>
+<p>Kris Rifa: 21.10.2022</p>
 
 {{< youtube cxSzSogxSb0 >}}
 
-### Kris Rifa: Cupra Born 58 | Motorway Range Test 11.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Born 58 | Motorway Range Test</h3>
+<p>Kris Rifa: 11.10.2022</p>
 
 {{< youtube PP7xvSKmkyg >}}
 
-### carwow: Cupra Born 2022 review 03.06.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Born 2022 review</h3>
+<p>carwow: 03.06.2022</p>
 
 {{< youtube C2DPD6kMgOM >}}
 
-### Bjørn Nyland: Cupra Born 58 1000 km challenge 23.03.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Born 58 1000 km challenge</h3>
+<p>Bjørn Nyland: 23.03.2022</p>
 
 {{< youtube xTxRol93i2U >}}
 
-### Bjørn Nyland: Cupra Born 58 driving impressions 21.03.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Born 58 driving impressions</h3>
+<p>Bjørn Nyland: 21.03.2022</p>
 
 {{< youtube sfYfccU7QrY >}}
 
-### Bjørn Nyland: Cupra Born interior review 19.03.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Born interior review</h3>
+<p>Bjørn Nyland: 19.03.2022</p>
 
 {{< youtube dXjO59foQ68 >}}
 
-### Bjørn Nyland: Cupra Born 58 range test 15.03.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cupra Born 58 range test</h3>
+<p>Bjørn Nyland: 15.03.2022</p>
 
 {{< youtube D92uLSIjjmo >}}
 
-### Fully Charged Show: Is this Electric hot hatch, hot enough? | CUPRA BORN Review 14.10.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Is this Electric hot hatch, hot enough? | CUPRA BORN Review</h3>
+<p>Fully Charged Show: 14.10.2021</p>
 
 {{< youtube aiYomKn2d68 >}}
 
+</div>

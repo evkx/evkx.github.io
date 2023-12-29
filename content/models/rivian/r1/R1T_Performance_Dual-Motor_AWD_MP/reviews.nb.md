@@ -8,11 +8,17 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Out of Spec Reviews: Rivian R1T Max vs Large Pack Highway Range / Capacity Test! $10k Gives You How Much More Range?! 27.12.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Rivian R1T Max vs Large Pack Highway Range / Capacity Test! $10k Gives You How Much More Range?!</h3>
+<p>Out of Spec Reviews: 27.12.2023</p>
 
 {{< youtube kRfSzDdcxnE >}}
 
-### Out of Spec Reviews: Rivian R1T Max vs Large Pack 10% EV Road Trip Challenge 24.12.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Rivian R1T Max vs Large Pack 10% EV Road Trip Challenge</h3>
+<p>Out of Spec Reviews: 24.12.2023</p>
 
 {{< youtube z9N_rkADLjE >}}
 
+</div>

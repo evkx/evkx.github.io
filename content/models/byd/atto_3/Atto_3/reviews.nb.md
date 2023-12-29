@@ -8,31 +8,52 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: BYD Atto 3 60 kWh range, acceleration and noise test 09.08.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Atto 3 60 kWh range, acceleration and noise test</h3>
+<p>Bjørn Nyland: 09.08.2023</p>
 
 {{< youtube H_PdSOK1QfU >}}
 
-### Bjørn Nyland: BYD Atto 3 banana box test 05.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Atto 3 banana box test</h3>
+<p>Bjørn Nyland: 05.08.2023</p>
 
 {{< youtube BNR9-YHZINo >}}
 
-### carwow: The best car you’ve never heard of? 14.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The best car you’ve never heard of?</h3>
+<p>carwow: 14.04.2023</p>
 
 {{< youtube FemVjBnGP3g >}}
 
-### Bjørn Nyland: BYD Atto 3 steep hill climb performance stress test at Doi Ang Khang 23.12.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Atto 3 steep hill climb performance stress test at Doi Ang Khang</h3>
+<p>Bjørn Nyland: 23.12.2022</p>
 
 {{< youtube DSr3Hl-GcJM >}}
 
-### Bjørn Nyland: BYD Atto 3 60 kWh range test 20.12.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Atto 3 60 kWh range test</h3>
+<p>Bjørn Nyland: 20.12.2022</p>
 
 {{< youtube myQ4hrQnczY >}}
 
-### Bjørn Nyland: BYD Atto 3 interior review 19.12.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Atto 3 interior review</h3>
+<p>Bjørn Nyland: 19.12.2022</p>
 
 {{< youtube 1WxDXc4LXrY >}}
 
-### Nybiltester: BYD ATTO3 helgetest 28.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD ATTO3 helgetest</h3>
+<p>Nybiltester: 28.10.2022</p>
 
 {{< youtube tOyzXVGLdIo >}}
 
+</div>

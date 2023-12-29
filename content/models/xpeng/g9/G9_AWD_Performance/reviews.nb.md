@@ -8,43 +8,73 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Xpeng G9 charging test 10.11.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 charging test</h3>
+<p>Bjørn Nyland: 10.11.2023</p>
 
 {{< youtube H3IBJ0DF8T4 >}}
 
-### Bjørn Nyland: Xpeng G9 Performance acceleration and noise test 10.11.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 Performance acceleration and noise test</h3>
+<p>Bjørn Nyland: 10.11.2023</p>
 
 {{< youtube g6zGKv8cIJk >}}
 
-### Bjørn Nyland: Xpeng G9 Performance 1000 km challenge 06.11.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 Performance 1000 km challenge</h3>
+<p>Bjørn Nyland: 06.11.2023</p>
 
 {{< youtube 5EyQytIyED4 >}}
 
-### Bjørn Nyland: Xpeng G9 Performance range test 05.11.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 Performance range test</h3>
+<p>Bjørn Nyland: 05.11.2023</p>
 
 {{< youtube oBZ8KJVVxn8 >}}
 
-### Bjørn Nyland: Xpeng G9 Geilo test part 2 04.11.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 Geilo test part 2</h3>
+<p>Bjørn Nyland: 04.11.2023</p>
 
 {{< youtube 9XqP-4wg9QA >}}
 
-### Bjørn Nyland: Xpeng G9 Geilo test part 1 03.11.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 Geilo test part 1</h3>
+<p>Bjørn Nyland: 03.11.2023</p>
 
 {{< youtube F-nmh9pFNVc >}}
 
-### Bjørn Nyland: Xpeng G9 banana box test 02.11.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 banana box test</h3>
+<p>Bjørn Nyland: 02.11.2023</p>
 
 {{< youtube 8gKJOlSjYFg >}}
 
-### Bjørn Nyland: Xpeng G9 headlights test 30.10.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 headlights test</h3>
+<p>Bjørn Nyland: 30.10.2023</p>
 
 {{< youtube 2X5zx8-uUbo >}}
 
-### Autogefühl: Why VW invests $700 million in this! XPeng G9 electric SUV REVIEW 28.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Why VW invests $700 million in this! XPeng G9 electric SUV REVIEW</h3>
+<p>Autogefühl: 28.08.2023</p>
 
 {{< youtube niKz4XePRfQ >}}
 
-### Bjørn Nyland: Xpeng G9 pre-production first drive 26.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 pre-production first drive</h3>
+<p>Bjørn Nyland: 26.04.2023</p>
 
 {{< youtube B9pqoa2f5Hw >}}
 
+</div>

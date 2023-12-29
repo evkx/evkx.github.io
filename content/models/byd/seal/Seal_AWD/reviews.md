@@ -8,19 +8,31 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Fully Charged Show: This Car Proves Just How Far Chinese Cars Have Come 23.11.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>This Car Proves Just How Far Chinese Cars Have Come</h3>
+<p>Fully Charged Show: 23.11.2023</p>
 
 {{< youtube eNYndWedZsE >}}
 
-### Autogeühl: Is the BYD Seal the true competitor of the Tesla Model 3? 13.10.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Is the BYD Seal the true competitor of the Tesla Model 3?</h3>
+<p>Autogeühl: 13.10.2023</p>
 
 {{< youtube Y8yTY_7w3KA >}}
 
-### Electryfing: FIRST DRIVE: 2024 BYD Seal. Has BYD built a better Tesla Model 3? 02.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: 2024 BYD Seal. Has BYD built a better Tesla Model 3?</h3>
+<p>Electryfing: 02.09.2023</p>
 
 {{< youtube uk2ksTLfRms >}}
 
-### Wheelsboy: The BYD Seal Is The New Benchmark 02.12.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The BYD Seal Is The New Benchmark</h3>
+<p>Wheelsboy: 02.12.2022</p>
 
 {{< youtube U_JQVRWymLI >}}
 
+</div>

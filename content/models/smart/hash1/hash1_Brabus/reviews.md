@@ -8,11 +8,17 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Out of Spec Reviews: Smart #1 Full Tour! The Funky Sibling To Volvo EX30 w/ Over 400hp, AWD, Mercedes Tech, & More 11.09.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Smart #1 Full Tour! The Funky Sibling To Volvo EX30 w/ Over 400hp, AWD, Mercedes Tech, & More</h3>
+<p>Out of Spec Reviews: 11.09.2023</p>
 
 {{< youtube XiyvmdJnybk >}}
 
-### Electrifying: DRIVEN: smart #1. Has smart built the small electric car we’ve ALL been waiting for? 28.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>DRIVEN: smart #1. Has smart built the small electric car we’ve ALL been waiting for?</h3>
+<p>Electrifying: 28.10.2022</p>
 
 {{< youtube HXE6citjQEk >}}
 
+</div>

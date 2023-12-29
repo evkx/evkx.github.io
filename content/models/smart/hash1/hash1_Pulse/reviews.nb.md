@@ -8,15 +8,24 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Kris Rifa: Smart #1 REVIEW | Better than Volvo EX30? 19.09.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Smart #1 REVIEW | Better than Volvo EX30?</h3>
+<p>Kris Rifa: 19.09.2023</p>
 
 {{< youtube DW-68hxjjeA >}}
 
-### Bjørn Nyland: Smart #1 driving test 16.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Smart #1 driving test</h3>
+<p>Bjørn Nyland: 16.09.2023</p>
 
 {{< youtube _B2e687fak4 >}}
 
-### Bjørn Nyland: Smart #1 first impressions 16.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Smart #1 first impressions</h3>
+<p>Bjørn Nyland: 16.09.2023</p>
 
 {{< youtube RsaBILoDB-U >}}
 
+</div>

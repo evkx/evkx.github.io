@@ -8,7 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### AutoTrader: NEW Taycan SPORT Turismo Review: STRANDED On A Mountain 09.02.2022
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Taycan SPORT Turismo Review: STRANDED On A Mountain</h3>
+<p>AutoTrader: 09.02.2022</p>
 
 {{< youtube 9lNlwdhx7vA >}}
 
+</div>

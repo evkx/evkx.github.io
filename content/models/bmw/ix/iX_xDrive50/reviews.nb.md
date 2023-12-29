@@ -8,31 +8,52 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: BMW iX xDrive50 driving impressions and summary 19.02.2022
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW iX xDrive50 driving impressions and summary</h3>
+<p>Bjørn Nyland: 19.02.2022</p>
 
 {{< youtube 3KRZYN1BRmA >}}
 
-### Bjørn Nyland: BMW iX xDrive50 interior review 18.02.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW iX xDrive50 interior review</h3>
+<p>Bjørn Nyland: 18.02.2022</p>
 
 {{< youtube 58QRVX8lGPg >}}
 
-### Bjørn Nyland: BMW iX xDrive50 1000 km challenge 14.02.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW iX xDrive50 1000 km challenge</h3>
+<p>Bjørn Nyland: 14.02.2022</p>
 
 {{< youtube neKrJN5C4Ck >}}
 
-### Bjørn Nyland: ABMW iX xDrive50 banana box test 13.02.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>ABMW iX xDrive50 banana box test</h3>
+<p>Bjørn Nyland: 13.02.2022</p>
 
 {{< youtube ffXFLj3Sxw8 >}}
 
-### Bjørn Nyland: BMW iX, i4, iX3 and Mercedes EQS charging comparison 13.02.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW iX, i4, iX3 and Mercedes EQS charging comparison</h3>
+<p>Bjørn Nyland: 13.02.2022</p>
 
 {{< youtube KVg9sbFMoEw >}}
 
-### Bjørn Nyland: BMW iX xDrive50 range test 12.02.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW iX xDrive50 range test</h3>
+<p>Bjørn Nyland: 12.02.2022</p>
 
 {{< youtube VsY_wmpDuOc >}}
 
-### Autogefühl: BMW iX FULL REVIEW xDrive 50 AWD - world’s best big EV SUV? 29.09.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW iX FULL REVIEW xDrive 50 AWD - world’s best big EV SUV?</h3>
+<p>Autogefühl: 29.09.2021</p>
 
 {{< youtube qBU5-2LTKj8 >}}
 
+</div>

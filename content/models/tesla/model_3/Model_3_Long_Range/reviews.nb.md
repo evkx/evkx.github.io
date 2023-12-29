@@ -8,35 +8,59 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### It's Only Electric: Tesla Model 3 Highland - Biggest update yet, should you switch? 21.11.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 Highland - Biggest update yet, should you switch?</h3>
+<p>It's Only Electric: 21.11.2023</p>
 
 {{< youtube K-WF9xw5buY >}}
 
-### Autogefühl: 2024 Tesla Model 3 Highland driving REVIEW 27.10.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2024 Tesla Model 3 Highland driving REVIEW</h3>
+<p>Autogefühl: 27.10.2023</p>
 
 {{< youtube AKJwinM__nU >}}
 
-### Norsk elbilforening: Test av Tesla Model 3 Facelift - Se forskjellene 23.10.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Test av Tesla Model 3 Facelift - Se forskjellene</h3>
+<p>Norsk elbilforening: 23.10.2023</p>
 
 {{< youtube hGoDnOnY_C8 >}}
 
-### AutoTrader: NEW 2024 Tesla Model 3 HIGHLAND Review: The Best Just Got Better? 17.10.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW 2024 Tesla Model 3 HIGHLAND Review: The Best Just Got Better?</h3>
+<p>AutoTrader: 17.10.2023</p>
 
 {{< youtube z_3F98XIIKA >}}
 
-### Out of Spec Reviews: Full Tour Of The New Tesla Model 3 Refresh! All Of The Changes Make The Best Car Even Better 05.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Full Tour Of The New Tesla Model 3 Refresh! All Of The Changes Make The Best Car Even Better</h3>
+<p>Out of Spec Reviews: 05.09.2023</p>
 
 {{< youtube wn5SV0oYXeQ >}}
 
-### Fully Charged Show: NEW Tesla Model 3: The Best Just Got Better! 01.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Tesla Model 3: The Best Just Got Better!</h3>
+<p>Fully Charged Show: 01.09.2023</p>
 
 {{< youtube mhdHP1GzoI4 >}}
 
-### AutoTopNL: 2024 ALL NEW Tesla Model 3 // FULL REVIEW 01.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2024 ALL NEW Tesla Model 3 // FULL REVIEW</h3>
+<p>AutoTopNL: 01.09.2023</p>
 
 {{< youtube nKn57dcMTBk >}}
 
-### carwow: New Tesla Model 3 - what's changed? 01.09.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New Tesla Model 3 - what's changed?</h3>
+<p>carwow: 01.09.2023</p>
 
 {{< youtube gQ6zIHHMlSs >}}
 
+</div>

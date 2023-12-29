@@ -8,19 +8,31 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Out of Spec Reviews: Porsche Taycan Standard Battery (79.2 kWh) RWD 70-MPH Highway Range Test! 17.05.2022
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Taycan Standard Battery (79.2 kWh) RWD 70-MPH Highway Range Test!</h3>
+<p>Out of Spec Reviews: 17.05.2022</p>
 
 {{< youtube aBWCVGgsYUU >}}
 
-### Autogefühl: Porsche Taycan RWD FULL REVIEW - less or more fun with the new base model? 17.05.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Taycan RWD FULL REVIEW - less or more fun with the new base model?</h3>
+<p>Autogefühl: 17.05.2022</p>
 
 {{< youtube MsMyICm3cNk >}}
 
-### AutoTrader: NEW Porsche Taycan RWD Review: More Fun Than Petrol? 10.02.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Porsche Taycan RWD Review: More Fun Than Petrol?</h3>
+<p>AutoTrader: 10.02.2021</p>
 
 {{< youtube qfXsEfLVPTE >}}
 
-### carwow: Porsche Taycan RWD review: 0-60mph, 1/4 mile & drift test! 03.02.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Taycan RWD review: 0-60mph, 1/4 mile & drift test!</h3>
+<p>carwow: 03.02.2021</p>
 
 {{< youtube qinXZ7qwAMI >}}
 
+</div>

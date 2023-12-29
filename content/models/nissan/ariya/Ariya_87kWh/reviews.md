@@ -8,31 +8,52 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Nissan Ariya 63/87 kWh FWD driving impressions & summary 08.10.2022
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nissan Ariya 63/87 kWh FWD driving impressions & summary</h3>
+<p>Bjørn Nyland: 08.10.2022</p>
 
 {{< youtube rpzxbMFsY6c >}}
 
-### Bjørn Nyland: I drove Nissan Ariya 87 kWh until the battery died 07.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I drove Nissan Ariya 87 kWh until the battery died</h3>
+<p>Bjørn Nyland: 07.10.2022</p>
 
 {{< youtube OR5JRd0g_Q8 >}}
 
-### Bjørn Nyland: Nissan Ariya 87 kWh FWD 1000 km challenge 06.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nissan Ariya 87 kWh FWD 1000 km challenge</h3>
+<p>Bjørn Nyland: 06.10.2022</p>
 
 {{< youtube 0vQdPwn11CQ >}}
 
-### Bjørn Nyland: Nissan Ariya 87 kWh range test 05.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nissan Ariya 87 kWh range test</h3>
+<p>Bjørn Nyland: 05.10.2022</p>
 
 {{< youtube l-JDSCfqvXI >}}
 
-### Bjørn Nyland: Nissan Ariya Evolve LED Matrix headlights test 02.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nissan Ariya Evolve LED Matrix headlights test</h3>
+<p>Bjørn Nyland: 02.10.2022</p>
 
 {{< youtube djSg8Py3fAs >}}
 
-### Bjørn Nyland: Nissan Ariya 63 & 87 kWh charging battle vs Volvo C40 and VW ID5 01.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nissan Ariya 63 & 87 kWh charging battle vs Volvo C40 and VW ID5</h3>
+<p>Bjørn Nyland: 01.10.2022</p>
 
 {{< youtube rpzxbMFsY6c >}}
 
-### Bjørn Nyland: Nissan Ariya headlights test 25.09.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nissan Ariya headlights test</h3>
+<p>Bjørn Nyland: 25.09.2022</p>
 
 {{< youtube Ximtggrs1ZY >}}
 
+</div>

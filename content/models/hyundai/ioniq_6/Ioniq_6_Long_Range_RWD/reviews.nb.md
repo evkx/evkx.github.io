@@ -8,39 +8,66 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Hyundai Ioniq 6 RWD driving impressions and summary 08.05.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 RWD driving impressions and summary</h3>
+<p>Bjørn Nyland: 08.05.2023</p>
 
 {{< youtube ZI_uutpJy24 >}}
 
-### Bjørn Nyland: I drove Hyundai Ioniq 6 RWD until the battery died 07.05.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I drove Hyundai Ioniq 6 RWD until the battery died</h3>
+<p>Bjørn Nyland: 07.05.2023</p>
 
 {{< youtube YPCMlf2n9lk >}}
 
-### Bjørn Nyland: Hyundai Ioniq 6 RWD 1000 km challenge 05.05.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 RWD 1000 km challenge</h3>
+<p>Bjørn Nyland: 05.05.2023</p>
 
 {{< youtube MjRjfLGkAxQ >}}
 
-### Bjørn Nyland: Hyundai Ioniq 6 interior review 02.05.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 interior review</h3>
+<p>Bjørn Nyland: 02.05.2023</p>
 
 {{< youtube Q2HCkKZq8Zc >}}
 
-### Bjørn Nyland: Hyundai Ioniq 6 headlights test 01.05.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 headlights test</h3>
+<p>Bjørn Nyland: 01.05.2023</p>
 
 {{< youtube EFjZJ4nUfFc >}}
 
-### Bjørn Nyland: Hyundai Ioniq 6 RWD range test 30.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 RWD range test</h3>
+<p>Bjørn Nyland: 30.04.2023</p>
 
 {{< youtube Ol3vun-RSWg >}}
 
-### Bjørn Nyland: Hyundai Ioniq 6 banana box test 29.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 banana box test</h3>
+<p>Bjørn Nyland: 29.04.2023</p>
 
 {{< youtube U2BX0Ew2qeI >}}
 
-### Bjørn Nyland: Hyundai Ioniq 6 RWD Geilo test part 1 26.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 RWD Geilo test part 1</h3>
+<p>Bjørn Nyland: 26.04.2023</p>
 
 {{< youtube MEoxM-aeaao >}}
 
-### Bjørn Nyland: Hyundai Ioniq 6 RWD Geilo test part 2 26.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 RWD Geilo test part 2</h3>
+<p>Bjørn Nyland: 26.04.2023</p>
 
 {{< youtube L6inoWVLXm8 >}}
 
+</div>

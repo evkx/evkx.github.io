@@ -8,23 +8,38 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Lucid Air Dream Edition Performance range test 16.05.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lucid Air Dream Edition Performance range test</h3>
+<p>Bjørn Nyland: 16.05.2023</p>
 
 {{< youtube U-UlyvexBvw >}}
 
-### Out of Spec Reviews: Lucid Air Full In-Depth Driving Review - City, Highway, & Canyon Performance Evaluated 16.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lucid Air Full In-Depth Driving Review - City, Highway, & Canyon Performance Evaluated</h3>
+<p>Out of Spec Reviews: 16.10.2022</p>
 
 {{< youtube Ze2LqnQCwxg >}}
 
-### Out of Spec Reviews: Cargo & Interior Space - Lucid Air vs Tesla Model S 06.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cargo & Interior Space - Lucid Air vs Tesla Model S</h3>
+<p>Out of Spec Reviews: 06.10.2022</p>
 
 {{< youtube 1CgDvrM8lm8 >}}
 
-### Out of Spec Reviews: Lucid Air Grand Touring 70-MPH Highway Range Test (19 inch Aero Wheels) 05.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lucid Air Grand Touring 70-MPH Highway Range Test (19 inch Aero Wheels)</h3>
+<p>Out of Spec Reviews: 05.10.2022</p>
 
 {{< youtube 601jLoWGMng >}}
 
-### InsideEVs: 2022 Lucid Air Dream Edition: InsideEVs 70 MPH Range Test 05.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2022 Lucid Air Dream Edition: InsideEVs 70 MPH Range Test</h3>
+<p>InsideEVs: 05.10.2022</p>
 
 {{< youtube HpcMcgxjiL8 >}}
 
+</div>

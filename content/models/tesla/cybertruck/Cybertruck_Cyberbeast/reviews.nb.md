@@ -8,15 +8,24 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Marques Brownlee: Driving Tesla Cybertruck: Everything You Need to Know 01.12.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Driving Tesla Cybertruck: Everything You Need to Know</h3>
+<p>Marques Brownlee: 01.12.2023</p>
 
 {{< youtube XxOh12Uhg08 >}}
 
-### Hagerty: Exclusive 2024 Tesla Cybertruck Full Review & Drag Race w R1T & Hummer — Jason Cammisa on the ICONS 01.12.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Exclusive 2024 Tesla Cybertruck Full Review & Drag Race w R1T & Hummer — Jason Cammisa on the ICONS</h3>
+<p>Hagerty: 01.12.2023</p>
 
 {{< youtube L6WDq0V5oBg >}}
 
-### Top Gear: Tesla Cybertruck DRIVEN! 01.12.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Cybertruck DRIVEN!</h3>
+<p>Top Gear: 01.12.2023</p>
 
 {{< youtube uefydJUbRhc >}}
 
+</div>

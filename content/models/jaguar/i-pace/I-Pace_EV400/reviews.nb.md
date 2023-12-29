@@ -8,27 +8,45 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### RybrookTV: 2024 Jaguar I-Pace | Walk around & Drive 27.05.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2024 Jaguar I-Pace | Walk around & Drive</h3>
+<p>RybrookTV: 27.05.2023</p>
 
 {{< youtube xFxHL3LMXZc >}}
 
-### InsideEvs: 2022 Jaguar I-Pace: InsideEVs 70 MPH Range Test 20.03.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2022 Jaguar I-Pace: InsideEVs 70 MPH Range Test</h3>
+<p>InsideEvs: 20.03.2022</p>
 
 {{< youtube GbmafjUitU8 >}}
 
-### Fully Charged Show: Updated JAGUAR I-PACE 11.05.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Updated JAGUAR I-PACE</h3>
+<p>Fully Charged Show: 11.05.2021</p>
 
 {{< youtube 3-3WoyZiOTY >}}
 
-### Bjørn Nyland: Jaguar I-Pace with improved charging curve 24.12.2020
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Jaguar I-Pace with improved charging curve</h3>
+<p>Bjørn Nyland: 24.12.2020</p>
 
 {{< youtube -UiZmBAyNAU >}}
 
-### Electryfying: Jaguar I-Pace 2021 SUV: In-depth review road test with Ginny Buckley 16.06.2020
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Jaguar I-Pace 2021 SUV: In-depth review road test with Ginny Buckley</h3>
+<p>Electryfying: 16.06.2020</p>
 
 {{< youtube iYBRAxtbWFU >}}
 
-### Bjørn Nyland: Jaguar I-Pace with 18 wheels range test 18.09.2019
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Jaguar I-Pace with 18 wheels range test</h3>
+<p>Bjørn Nyland: 18.09.2019</p>
 
 {{< youtube La8QrtntHkw >}}
 
+</div>

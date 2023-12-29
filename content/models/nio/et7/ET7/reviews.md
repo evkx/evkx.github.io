@@ -8,47 +8,80 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Kris Rifa: Nio ET7 | AWFUL AND GREAT.... 21.05.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 | AWFUL AND GREAT....</h3>
+<p>Kris Rifa: 21.05.2023</p>
 
 {{< youtube hRvXTgDt5SY >}}
 
-### Kris Rifa: Nio ET7 120KPH / 75MPH Range Test ! 13.05.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 120KPH / 75MPH Range Test !</h3>
+<p>Kris Rifa: 13.05.2023</p>
 
 {{< youtube arjQZIY5gbc >}}
 
-### Bjørn Nyland: Nio ET7 driving impressions and summary 20.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 driving impressions and summary</h3>
+<p>Bjørn Nyland: 20.03.2023</p>
 
 {{< youtube 4qZzUaDn3sU >}}
 
-### Bjørn Nyland: Nio ET7 interior review 19.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 interior review</h3>
+<p>Bjørn Nyland: 19.03.2023</p>
 
 {{< youtube CkSYZGp2mFE >}}
 
-### Bjørn Nyland: Nio ET7 acceleration, braking and noise test 19.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 acceleration, braking and noise test</h3>
+<p>Bjørn Nyland: 19.03.2023</p>
 
 {{< youtube 0NbPBjcEcUM >}}
 
-### Bjørn Nyland: Nio ET7 100 kWh range test 14.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 100 kWh range test</h3>
+<p>Bjørn Nyland: 14.03.2023</p>
 
 {{< youtube ITPhS9d62do >}}
 
-### Bjørn Nyland: Nio ET7 headlights test 13.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 headlights test</h3>
+<p>Bjørn Nyland: 13.03.2023</p>
 
 {{< youtube XOP3yA7LXt4 >}}
 
-### Bjørn Nyland: Nio ET7 failed 1000 km challenge 12.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 failed 1000 km challenge</h3>
+<p>Bjørn Nyland: 12.03.2023</p>
 
 {{< youtube CDw5FHZyfK8 >}}
 
-### Bjørn Nyland: Nio ET7 banana box test 12.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 banana box test</h3>
+<p>Bjørn Nyland: 12.03.2023</p>
 
 {{< youtube cUw_tLnyo0E >}}
 
-### Out of Spec Reviews: I Drive A NIO For The First Time! This ET7 Has Great Features But Is Seemingly Glitchy 19.11.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drive A NIO For The First Time! This ET7 Has Great Features But Is Seemingly Glitchy</h3>
+<p>Out of Spec Reviews: 19.11.2022</p>
 
 {{< youtube g43a6FNjqmQ >}}
 
-### Autogefühl: Nio ET7 driving REVIEW - will the Chinese Tesla crush the EV market? 10.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Nio ET7 driving REVIEW - will the Chinese Tesla crush the EV market?</h3>
+<p>Autogefühl: 10.10.2022</p>
 
 {{< youtube 9BuWQ0hd-N0 >}}
 
+</div>

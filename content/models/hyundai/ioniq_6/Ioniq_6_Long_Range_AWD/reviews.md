@@ -8,43 +8,73 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Out of Spec Reviews: Hyundai IONIQ 6 Crushes The 10% Challenge! Huge Result For A Great Car 08.10.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai IONIQ 6 Crushes The 10% Challenge! Huge Result For A Great Car</h3>
+<p>Out of Spec Reviews: 08.10.2023</p>
 
 {{< youtube rPBiPnP0A5Q >}}
 
-### Kris Rifa: Hyundai Ioniq 6 | Almost Perfect ! 01.05.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6 | Almost Perfect !</h3>
+<p>Kris Rifa: 01.05.2023</p>
 
 {{< youtube gThzhV1KiHM >}}
 
-### Kris Rifa: 610km Long Trip Test In Hyundai Ioniq 6 LR AWD 27.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>610km Long Trip Test In Hyundai Ioniq 6 LR AWD</h3>
+<p>Kris Rifa: 27.04.2023</p>
 
 {{< youtube oJRBAD0nLVE >}}
 
-### Out of Specs Review : I Drive The Hyundai IONIQ 6 For The First Time! 03.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drive The Hyundai IONIQ 6 For The First Time!</h3>
+<p>Out of Specs Review : 03.04.2023</p>
 
 {{< youtube YEXoJ3-6O7k >}}
 
-### Out of Specs Review : Hyundai IONIQ 6 Full Tour, Specs, Pricing, Range, & My First Impressions 29.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai IONIQ 6 Full Tour, Specs, Pricing, Range, & My First Impressions</h3>
+<p>Out of Specs Review : 29.03.2023</p>
 
 {{< youtube AkqAuTUDz4w >}}
 
-### Autogefühl : The EV sedans strike back! Hyundai Ioniq 6 driving REVIEW 12.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The EV sedans strike back! Hyundai Ioniq 6 driving REVIEW</h3>
+<p>Autogefühl : 12.03.2023</p>
 
 {{< youtube 5KFjCnDvIYw >}}
 
-### carwow: I 'crashed' the new Hyundai Ioniq 6  18.01.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I 'crashed' the new Hyundai Ioniq 6 </h3>
+<p>carwow: 18.01.2023</p>
 
 {{< youtube XEe-L2LcJiQ >}}
 
-### Electrifying: New Hyundai IONIQ 6 DRIVEN! Should you cancel the Tesla Model 3? 18.01.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New Hyundai IONIQ 6 DRIVEN! Should you cancel the Tesla Model 3?</h3>
+<p>Electrifying: 18.01.2023</p>
 
 {{< youtube Wgfwy-sg_po >}}
 
-### Fully Charged Show: Hyundai Ioniq 6: Best Electric Car In The World? 03.11.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 6: Best Electric Car In The World?</h3>
+<p>Fully Charged Show: 03.11.2022</p>
 
 {{< youtube _COM7zsoh3w >}}
 
-### Auto Express: NEW Hyundai Ioniq 6 review: rivals beware! 07.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Hyundai Ioniq 6 review: rivals beware!</h3>
+<p>Auto Express: 07.10.2022</p>
 
 {{< youtube TWEx8CIInSE >}}
 
+</div>

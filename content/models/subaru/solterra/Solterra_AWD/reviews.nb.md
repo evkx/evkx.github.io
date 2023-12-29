@@ -8,11 +8,17 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Electrifying: One to AVOID? 2023 Subaru Solterra review 28.03.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>One to AVOID? 2023 Subaru Solterra review</h3>
+<p>Electrifying: 28.03.2023</p>
 
 {{< youtube EQPSBn9Z2MY >}}
 
-### Fully Charged Show: Subaru Solterra: The Cure To 'Pretend' SUVs? 26.01.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Subaru Solterra: The Cure To 'Pretend' SUVs?</h3>
+<p>Fully Charged Show: 26.01.2023</p>
 
 {{< youtube Fz8w4cn2c8M >}}
 
+</div>

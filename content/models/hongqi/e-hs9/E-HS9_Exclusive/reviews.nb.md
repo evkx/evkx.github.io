@@ -8,59 +8,101 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Kris Rifa: Hongqi E-HS9 | The Chinese Rolls-Royce 19.02.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 | The Chinese Rolls-Royce</h3>
+<p>Kris Rifa: 19.02.2023</p>
 
 {{< youtube Cw-vimwPe4o >}}
 
-### Kris Rifa: Hongqi E-HS9 | 610km Range Test (Norwegian High Speed Run) 12.02.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 | 610km Range Test (Norwegian High Speed Run)</h3>
+<p>Kris Rifa: 12.02.2023</p>
 
 {{< youtube F8bxg55VLd0 >}}
 
-### Kris Rifa: Hongqi E-HS9 Motorway Range Test 10.02.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 Motorway Range Test</h3>
+<p>Kris Rifa: 10.02.2023</p>
 
 {{< youtube jXZDI6y46eg >}}
 
-### Bjørn Nyland: Hongqi E-HS9 1000 km challenge 10.09.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 1000 km challenge</h3>
+<p>Bjørn Nyland: 10.09.2022</p>
 
 {{< youtube OHkYox9TJJM >}}
 
-### Bjørn Nyland: Hongqi E-HS9, BYD Tang, Nio ES8 & Audi e-tron charging battle 09.09.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9, BYD Tang, Nio ES8 & Audi e-tron charging battle</h3>
+<p>Bjørn Nyland: 09.09.2022</p>
 
 {{< youtube 6EI0aLbQe_g >}}
 
-### Bjørn Nyland: Hongqi E-HS9 acceleration, braking and noise test 09.09.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 acceleration, braking and noise test</h3>
+<p>Bjørn Nyland: 09.09.2022</p>
 
 {{< youtube hqHdP41YY2A >}}
 
-### Bjørn Nyland: Hongqi E-HS9 range test 08.09.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 range test</h3>
+<p>Bjørn Nyland: 08.09.2022</p>
 
 {{< youtube czqnvPf1vic >}}
 
-### Bjørn Nyland: Hongqi E-HS9 headlights test 07.09.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 headlights test</h3>
+<p>Bjørn Nyland: 07.09.2022</p>
 
 {{< youtube h3QucSxCJjE >}}
 
-### Bjørn Nyland: Hongqi E-HS9 banana box test 06.09.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 banana box test</h3>
+<p>Bjørn Nyland: 06.09.2022</p>
 
 {{< youtube BGOjQGlPd8M >}}
 
-### Nybiltester: Hongqi E-HS9 på helgetest 15.07.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 på helgetest</h3>
+<p>Nybiltester: 15.07.2022</p>
 
 {{< youtube CiZQJrld1uk >}}
 
-### Nybiltester: Hongqi E-HS9 (English) weekend test 09.07.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 (English) weekend test</h3>
+<p>Nybiltester: 09.07.2022</p>
 
 {{< youtube aHdbE9lXgME >}}
 
-### Norsk elbilforening: Presidentbil for folket. 02.11.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Presidentbil for folket.</h3>
+<p>Norsk elbilforening: 02.11.2021</p>
 
 {{< youtube EeRzKpHlGaM >}}
 
-### Finansavisen: Testet i Norge: Elbilen Hongqi E-HS9 – gigantisk 7-seters luksus fra kina 18.10.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Testet i Norge: Elbilen Hongqi E-HS9 – gigantisk 7-seters luksus fra kina</h3>
+<p>Finansavisen: 18.10.2021</p>
 
 {{< youtube rd7TU8LEp-U >}}
 
-### Kris Rifa: Hongqi E-HS9 Test Drive | Large 7-Seat Electric SUV | The Asians Are Coming! 16.10.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E-HS9 Test Drive | Large 7-Seat Electric SUV | The Asians Are Coming!</h3>
+<p>Kris Rifa: 16.10.2021</p>
 
 {{< youtube pKqv9KY4pSU >}}
 
+</div>

@@ -8,11 +8,17 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Electrifying: BYD Dolphin - 9 things we LOVE and… 5 we HATE 05.10.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Dolphin - 9 things we LOVE and… 5 we HATE</h3>
+<p>Electrifying: 05.10.2023</p>
 
 {{< youtube Rik6rDkx5Hg >}}
 
-### Electrifying: New BYD Dolphin DRIVEN. Is this the cheap electric car we’ve been waiting for? 25.06.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New BYD Dolphin DRIVEN. Is this the cheap electric car we’ve been waiting for?</h3>
+<p>Electrifying: 25.06.2023</p>
 
 {{< youtube 0PygVreKT_k >}}
 
+</div>

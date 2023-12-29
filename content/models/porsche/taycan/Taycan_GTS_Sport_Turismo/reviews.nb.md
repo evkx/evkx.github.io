@@ -8,23 +8,38 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### AutoTrader: Can The Porsche Taycan REALLY Beat The 911? | Drag Race & Track Battle | 4K 30.12.2022
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Can The Porsche Taycan REALLY Beat The 911? | Drag Race & Track Battle | 4K</h3>
+<p>AutoTrader: 30.12.2022</p>
 
 {{< youtube J6Vb0gvIT_w >}}
 
-### Autogefühl: Porsche Taycan GTS with Taycan Sport Turismo (wagon estate) 🏁 racetrack REVIEW 15.12.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Taycan GTS with Taycan Sport Turismo (wagon estate) 🏁 racetrack REVIEW</h3>
+<p>Autogefühl: 15.12.2022</p>
 
 {{< youtube BHaoiV5Cjo >}}
 
-### carwow: Porsche Taycan GTS 2022 review 08.04.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Taycan GTS 2022 review</h3>
+<p>carwow: 08.04.2022</p>
 
 {{< youtube YvjsGHLORuo >}}
 
-### Auto Express: NEW Porsche Taycan GTS Sport Turismo review: the ULTIMATE electric driver's car? 15.12.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Porsche Taycan GTS Sport Turismo review: the ULTIMATE electric driver's car?</h3>
+<p>Auto Express: 15.12.2021</p>
 
 {{< youtube PAVJaS6t6to >}}
 
-### Out of Spec Reviews: My Dream Taycan! 2022 Porsche Taycan GTS Sport Turismo Quick Tour 17.11.2021
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>My Dream Taycan! 2022 Porsche Taycan GTS Sport Turismo Quick Tour</h3>
+<p>Out of Spec Reviews: 17.11.2021</p>
 
 {{< youtube vLJnwLQ8yig >}}
 
+</div>

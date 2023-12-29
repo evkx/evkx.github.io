@@ -8,35 +8,59 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Kris Rifa: Mercedes EQE SUV 350 4-Matic | RANGE TEST 10.08.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV 350 4-Matic | RANGE TEST</h3>
+<p>Kris Rifa: 10.08.2023</p>
 
 {{< youtube P1ZzLTMS5VU >}}
 
-### Kris Rifa: Mercedes EQE SUV 350 4-Matic | FIRST LOOK AND TEST DRIVE 09.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV 350 4-Matic | FIRST LOOK AND TEST DRIVE</h3>
+<p>Kris Rifa: 09.08.2023</p>
 
 {{< youtube wxW6QZU7ISc >}}
 
-### Bjørn Nyland: Mercedes EQE SUV 350 4Matic 1000 km trailer challenge part 2 05.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV 350 4Matic 1000 km trailer challenge part 2</h3>
+<p>Bjørn Nyland: 05.08.2023</p>
 
 {{< youtube xtfcq-kTHXQ >}}
 
-### Bjørn Nyland: Mercedes EQE SUV 350 4Matic 1000 km trailer challenge part 1 04.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV 350 4Matic 1000 km trailer challenge part 1</h3>
+<p>Bjørn Nyland: 04.08.2023</p>
 
 {{< youtube IP-TMZpFI9U >}}
 
-### Bjørn Nyland: Mercedes EQE SUV banana box test 03.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV banana box test</h3>
+<p>Bjørn Nyland: 03.08.2023</p>
 
 {{< youtube vm3xC_LEGUQ >}}
 
-### Bjørn Nyland: Mercedes EQE SUV interior review 03.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV interior review</h3>
+<p>Bjørn Nyland: 03.08.2023</p>
 
 {{< youtube 1EKpUS9QZvk >}}
 
-### Bjørn Nyland: Mercedes EQE SUV 350 4Matic 1000 km challenge 02.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV 350 4Matic 1000 km challenge</h3>
+<p>Bjørn Nyland: 02.08.2023</p>
 
 {{< youtube 3wGLlJ45g6k >}}
 
-### Bjørn Nyland: Mercedes EQE SUV 350 4Matic range test 01.08.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV 350 4Matic range test</h3>
+<p>Bjørn Nyland: 01.08.2023</p>
 
 {{< youtube aw2nrdZtrls >}}
 
+</div>

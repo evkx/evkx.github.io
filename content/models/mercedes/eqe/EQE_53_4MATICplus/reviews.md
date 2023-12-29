@@ -8,15 +8,24 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Kris Rifa: EQE 53 AMG..... I WAS NOT EXPECTING THIS... 20.04.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>EQE 53 AMG..... I WAS NOT EXPECTING THIS...</h3>
+<p>Kris Rifa: 20.04.2023</p>
 
 {{< youtube WEmPl-ACpHI >}}
 
-### Kris Rifa: Long Trip Test in Mercedes EQE 53AMG 12.04.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Long Trip Test in Mercedes EQE 53AMG</h3>
+<p>Kris Rifa: 12.04.2023</p>
 
 {{< youtube ZTcaI2nQw3M >}}
 
-### Autogefühl: Mercedes EQE 53 AMG driving REVIEW - how good is the AMG EV? 06.07.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE 53 AMG driving REVIEW - how good is the AMG EV?</h3>
+<p>Autogefühl: 06.07.2022</p>
 
 {{< youtube Sjy-_OR1djk >}}
 
+</div>

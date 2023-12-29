@@ -8,19 +8,31 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Out of Spec Reviews: I Drive The Electric Lexus RZ 450e For The First Time! Is This A Joke? 06.10.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drive The Electric Lexus RZ 450e For The First Time! Is This A Joke?</h3>
+<p>Out of Spec Reviews: 06.10.2023</p>
 
 {{< youtube yOeDJ7s_LCc >}}
 
-### Out of Spec Reviews: Yiiiiiikes! Brutal Results For The Lexus RZ450e Highway Electric Range Test 05.10.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Yiiiiiikes! Brutal Results For The Lexus RZ450e Highway Electric Range Test</h3>
+<p>Out of Spec Reviews: 05.10.2023</p>
 
 {{< youtube yMc9RwQxLU0 >}}
 
-### Autogefühl: Lexus RZ 450e driving REVIEW 13.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lexus RZ 450e driving REVIEW</h3>
+<p>Autogefühl: 13.03.2023</p>
 
 {{< youtube y-ocjeOFPCk >}}
 
-### InsideEVs: 2023 Lexus RZ: InsideEVs First Drive Review 13.03.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2023 Lexus RZ: InsideEVs First Drive Review</h3>
+<p>InsideEVs: 13.03.2023</p>
 
 {{< youtube qOWBIzfvr7g >}}
 
+</div>

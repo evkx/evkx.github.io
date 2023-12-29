@@ -8,7 +8,10 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: Xpeng P7 refresh pre-production first drive 28.04.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng P7 refresh pre-production first drive</h3>
+<p>Bjørn Nyland: 28.04.2023</p>
 
 {{< youtube _zGqgJUdBQk >}}
 
+</div>

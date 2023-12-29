@@ -8,27 +8,45 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](/guides/evreviewers/)
 
-### Bjørn Nyland: MG4 64 kWh 1000 km challenge 21.06.2023
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>MG4 64 kWh 1000 km challenge</h3>
+<p>Bjørn Nyland: 21.06.2023</p>
 
 {{< youtube m-SjlE2mnkE >}}
 
-### Bjørn Nyland: MG4 64 kWh vs Tesla Model 3 and VW ID3 charging battle 20.06.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>MG4 64 kWh vs Tesla Model 3 and VW ID3 charging battle</h3>
+<p>Bjørn Nyland: 20.06.2023</p>
 
 {{< youtube oL8dOYJ4EPc >}}
 
-### Bjørn Nyland: MG4 64 kWh range test 20.06.2023
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>MG4 64 kWh range test</h3>
+<p>Bjørn Nyland: 20.06.2023</p>
 
 {{< youtube D7UWq0mNYCo >}}
 
-### Autotrader: Can A Cheap EV Be GOOD? | MG4 Review  03.12.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Can A Cheap EV Be GOOD? | MG4 Review </h3>
+<p>Autotrader: 03.12.2022</p>
 
 {{< youtube m-SjlE2mnkE >}}
 
-### carwow: The MG 4 is the BEST car I've driven all year! 11.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The MG 4 is the BEST car I've driven all year!</h3>
+<p>carwow: 11.10.2022</p>
 
 {{< youtube HSA3XL8XDC8 >}}
 
-### Autogefühl: MG4 EV REVIEW - the best budget electric vehicle? 11.10.2022
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>MG4 EV REVIEW - the best budget electric vehicle?</h3>
+<p>Autogefühl: 11.10.2022</p>
 
 {{< youtube S3qoijtAD-w >}}
 
+</div>
