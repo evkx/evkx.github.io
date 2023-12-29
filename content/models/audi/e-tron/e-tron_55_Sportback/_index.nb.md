@@ -73,7 +73,7 @@ Dynamisk styring er standard-funksjonen på Audi e-tron 55 Sportback. Dynamisk s
 
 ### Kjøremoduser
 
-Audi e-tron 55 Sportback lar brukeren velge forskjellige kjøremoduser som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
+Audi e-tron 55 Sportback lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
 
 - Dynamic: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
 - Efficiency: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.

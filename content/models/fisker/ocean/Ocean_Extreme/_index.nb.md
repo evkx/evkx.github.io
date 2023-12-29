@@ -63,7 +63,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Kjøremoduser
 
-Fisker Ocean Extreme lar brukeren velge forskjellige kjøremoduser som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
+Fisker Ocean Extreme lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
 drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientStrong
 drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetBalancedMedium

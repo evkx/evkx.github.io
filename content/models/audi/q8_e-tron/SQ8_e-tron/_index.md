@@ -67,7 +67,7 @@ Dynamic steering is a standard feature on the Audi SQ8 e-tron. Dynamic steering 
 
 ### Drive modes
 
-The Audi SQ8 e-tron lets the user select different drive modes that affect the car's handling. The driver can choose between 7 modes:
+The Audi SQ8 e-tron lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
 - Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension.
 - Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.

@@ -67,7 +67,7 @@ Dynamisk styring er standard-funksjonen på Audi SQ8 Sportback e-tron. Dynamisk 
 
 ### Kjøremoduser
 
-Audi SQ8 Sportback e-tron lar brukeren velge forskjellige kjøremoduser som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
+Audi SQ8 Sportback e-tron lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
 
 - Dynamic: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
 - Efficiency: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
