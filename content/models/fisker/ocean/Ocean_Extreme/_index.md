@@ -65,10 +65,10 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The Fisker Ocean Extreme lets the user select different drive modes that affect the car's handling. The driver can choose between 4 modes:
 
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
+- Earth: Balanced steering, with efficient throttle, and strong lift-up regen.
+- Fun: Balanced steering and throttle, and medium lift-up regen.
+- Hyper: Balanced steering, dynamic throttle, and medium lift-up regen.
+- Snow/Ice: Balanced steering, with efficient throttle, and low lift-up regen.
 
 
 ### Brakes

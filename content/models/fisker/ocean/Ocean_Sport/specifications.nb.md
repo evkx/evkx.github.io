@@ -792,7 +792,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				360-kamera
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>

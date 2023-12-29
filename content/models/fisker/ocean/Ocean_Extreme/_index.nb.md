@@ -65,10 +65,10 @@ Hjulopphenget foran er [MacPherson Strut](../../../../technology/suspension/#mac
 
 Fisker Ocean Extreme lar brukeren velge forskjellige kjøremoduser som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
+drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientStrong
+drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetBalancedMedium
+drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetDynamicMedium
+drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientLow
 
 
 ### Bremser
