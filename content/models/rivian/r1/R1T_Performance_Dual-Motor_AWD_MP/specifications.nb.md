@@ -129,6 +129,30 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				143 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				108s72p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				392
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC811
+			</td>
+		</tr>
 	</tbody>
 </table>
 

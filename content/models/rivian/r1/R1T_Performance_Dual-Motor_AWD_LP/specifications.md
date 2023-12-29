@@ -129,6 +129,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				132 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+			</td>
+			<td>
+				108s72p
+			</td>
+		</tr>
 	</tbody>
 </table>
 

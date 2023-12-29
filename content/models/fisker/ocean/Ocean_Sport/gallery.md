@@ -27,57 +27,12 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_1.jpg"
-data-pswp-width="3000"
-data-pswp-height="1635" 
-target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_1_xst.jpg" alt="Fisker Ocean Sport" class="img-fluid img-thumbnail" />
-		</a>
-	</div>
-	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_2.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_2.jpg"
-data-pswp-width="3000"
-data-pswp-height="1834" 
-target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_2_xst.jpg" alt="Fisker Ocean Sport" class="img-fluid img-thumbnail" />
-		</a>
-	</div>
-	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_3.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_3.jpg"
-data-pswp-width="3000"
-data-pswp-height="1875" 
-target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_3_xst.jpg" alt="Fisker Ocean Sport" class="img-fluid img-thumbnail" />
-		</a>
-	</div>
-	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_4.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_4.jpg"
-data-pswp-width="3000"
-data-pswp-height="1902" 
-target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_4_xst.jpg" alt="Fisker Ocean Sport" class="img-fluid img-thumbnail" />
-		</a>
-	</div>
-	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_5.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_5.jpg"
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_5_xst.jpg" alt="Fisker Ocean Sport" class="img-fluid img-thumbnail" />
-		</a>
-	</div>
-	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_6.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_6.jpg"
-data-pswp-width="3000"
-data-pswp-height="2250" 
-target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/exterior_6_xst.jpg" alt="Fisker Ocean Sport" class="img-fluid img-thumbnail" />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -138,7 +93,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/main_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2000" 
+data-pswp-height="2250" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/main_1_xst.jpg" alt="Fisker Ocean Sport" class="img-fluid img-thumbnail" />
 		</a>

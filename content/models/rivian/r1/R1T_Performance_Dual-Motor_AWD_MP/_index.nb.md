@@ -33,7 +33,7 @@ Rivian R1T Performance Dual-Motor AWD MP har en maksimal effekt på 495 KW (673h
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 149kWh og en nettokapasitet på 143kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (4,0%).
+Batteriet har en bruttokapasitet på 149kWh og en nettokapasitet på 143kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (4,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 410 miles (660 km). Forbruket er 2.9mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

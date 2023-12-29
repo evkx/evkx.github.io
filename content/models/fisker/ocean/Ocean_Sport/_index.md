@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/main_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/main_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 We have separated our Fisker Ocean Sport article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
@@ -37,7 +37,7 @@ The battery has a gross capacity of 73kWh and a net capacity of 70kWh, meaning y
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 464 km (288 mi). The consumption is 15.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 47 minutes, while a more common scenario of 10-80% would take 22 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64%, resulting in an actual charge speed, including time loss, of 116kW. Each charge session would take 22 minutes and 24 seconds.
+The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 60 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 30 minutes and 40 seconds.
 
 ### Onboard charger
 
@@ -66,14 +66,14 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 You can choose between 7 different paint colors when ordering this model.
-Additionally, you can choose between 2 wheels with sizes from 20 to 22 inches.
+Additionally, you can choose between 6 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
-There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="1635"  >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_5_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -91,6 +91,7 @@ Only one front seat type is available in the Fisker Ocean Sport.
 The following functionalities are available on the **standard** seat.
 
 - electric adjustment
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - integrated headrest
@@ -118,7 +119,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+There is one climate system available. The  climate system supports different temperatures in two zones for the driver and passenger. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort
 

@@ -145,6 +145,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				125 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				108s72p
+			</td>
+		</tr>
 	</tbody>
 </table>
 

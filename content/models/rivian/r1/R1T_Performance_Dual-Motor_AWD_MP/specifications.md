@@ -129,6 +129,30 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				143 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+			</td>
+			<td>
+				108s72p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				392
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC811
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -33,7 +33,7 @@ With overboost, the Fisker Ocean Extreme has a maximum power of 415 KW (564 hp /
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 113kWh and a net capacity of 106,5kWh, meaning you have a 6,5kWh buffer for protection. (5,8%).
+The battery has a gross capacity of 113kWh and a net capacity of 106,5kWh, meaning you have a 6,5kWh buffer for protection. (5,8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 707 to 701 km (439-436 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.1kWh/100km for the basic version and 15.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -61,6 +61,16 @@ Fisker Ocean Extreme has an all-wheel drive system supported by two motors, one 
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm.
 
+### Drive modes
+
+The Fisker Ocean Extreme lets the user select different drive modes that affect the car's handling. The driver can choose between 4 modes:
+
+drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
+drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
+drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
+drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientNotSet
+
+
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
@@ -70,7 +80,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 You can choose between 7 different paint colors when ordering this model.
-Additionally, you can choose between 2 wheels with sizes from 20 to 22 inches.
+Additionally, you can choose between 6 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

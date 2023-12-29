@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/main_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/main_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 Vi har delt vår Fisker Ocean Sport-artikkel i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige områdene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
@@ -37,7 +37,7 @@ Batteriet har en bruttokapasitet på 73kWh og en nettokapasitet på 70kWh, noe s
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 464 km. Forbruket er 15.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 47 minutter, mens et mer vanlig scenario på 10-80 % vil ta 22 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 116kW. Hver ladeøkt vil ta 22 minutter og 24 sekunder.
+Maksimal DC-ladehastighet er 125 kW. En full lading fra 0 - 100 % vil ta 60 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 86kW. Hver ladeøkt vil ta 30 minutter og 40 sekunder.
 
 ### Ombordlader
 
@@ -66,14 +66,14 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 22 tommer.
+I tillegg kan du velge mellom 6 hjul med størrelser fra 20 til 22 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
 
-Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="1635"  >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_5_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -91,6 +91,7 @@ Bare én type forsete er tilgjengelig i Fisker Ocean Sport.
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - integrert hodestøtte
@@ -118,7 +119,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
 ## Komfort
 

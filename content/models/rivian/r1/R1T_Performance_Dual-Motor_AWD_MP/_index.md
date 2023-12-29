@@ -33,7 +33,7 @@ The Rivian R1T Performance Dual-Motor AWD MP has a maximum power of 495 KW (673 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 149kWh and a net capacity of 143kWh, meaning you have a 6kWh buffer for protection. (4,0%).
+The battery has a gross capacity of 149kWh and a net capacity of 143kWh, meaning you have a 6kWh buffer for protection. (4,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 410 miles (660 km). The consumption is 2.9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

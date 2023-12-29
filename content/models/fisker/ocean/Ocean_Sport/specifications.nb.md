@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/main_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/main_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Fisker Ocean Sport. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Fisker Ocean Sport, gå til [chargeinfo](../chargecurve/) for Fisker Ocean Sport med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
@@ -174,7 +174,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				170 kW
+				125 kW
 			</td>
 		</tr>
 		<tr>
