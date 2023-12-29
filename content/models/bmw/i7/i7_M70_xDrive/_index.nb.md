@@ -47,7 +47,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må sikkerhetskopiere til laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -124,7 +124,7 @@ Alternativet standard er en tre-seters benk med en -del hvor du kan folde hver s
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - integrert hodestøtte
 
-second-alternativet er et [ledersete kombinert med en to-seters benk](../../../../technology/seats/types/#executive -sete--to-seters-benk). I tillegg er følgende funksjoner tilgjengelige.
+second-alternativet er et [executive sete kombinert med en to-seters benk](../../../../technology/seats/types/#executive-sete--to-seters-benk). I tillegg er følgende funksjoner tilgjengelige.
 
 - elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
