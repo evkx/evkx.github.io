@@ -74,7 +74,7 @@ Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene first bruker en
 Du kan velge mellom 2 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 22 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.FullFixed.ElectrochromicMultipleLevels
 

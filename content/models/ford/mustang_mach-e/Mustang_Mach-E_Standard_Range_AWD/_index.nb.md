@@ -74,7 +74,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 19 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 

@@ -6,7 +6,7 @@ weight: 80
 hidden: true
 navicon: bi-person-video2
 ---
-Vi har samlet tester fra våre [favoritt elbiltestere](../../../../guides/evreviewers/)
+Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>My First Look At The Lucid Gravity! The Electric SUV w/ Impressive Range, Space, & Luxury</h3>

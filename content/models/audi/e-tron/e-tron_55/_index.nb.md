@@ -101,7 +101,7 @@ exterior.styling.blackoptics
 
 I tillegg kan du velge mellom 10 hjul med størrelser fra 19 til 22 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate). Myk lukking er tilvalg-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). Myk lukking er tilvalg-funksjon for sidedørene.
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 

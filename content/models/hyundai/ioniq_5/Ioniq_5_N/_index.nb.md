@@ -69,7 +69,7 @@ Hyundai Ioniq 5 N har et firehjulsdriftssystem som støttes av to motorer, en p�
 
 Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Standardtaket har et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 

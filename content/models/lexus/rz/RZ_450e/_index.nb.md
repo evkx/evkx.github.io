@@ -74,7 +74,7 @@ Lexus RZ 450e har et firehjulsdriftssystem som støttes av to motorer, en på hv
 Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 20 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ElectricCurtain
 

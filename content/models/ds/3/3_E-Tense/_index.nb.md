@@ -72,7 +72,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 5 hjul med størrelser fra 17 til 18 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det er bare ett tak for denne modellen.
 

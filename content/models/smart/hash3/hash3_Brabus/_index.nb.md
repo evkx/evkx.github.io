@@ -73,7 +73,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.PartialFixed.TonedGlass
 

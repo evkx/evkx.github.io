@@ -74,7 +74,7 @@ Kia Niro EV har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 Du kan velge mellom 11 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback-stil portport](../../../../technology/doors/#hatcback-style-liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Standardtaket har soltak. Glasset strekker seg kun over første rad, og passasjerer kan åpne det. Dette glasset gjør at bilens interiør føles mer romslig og lysere, som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
