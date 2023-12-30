@@ -1,6 +1,6 @@
 ---
-title:  Laste- og slepemuligheter
-linktitle: Laste- og slepemuligheter
+title:  Laste- og tilhenger muligheter
+linktitle: Laste- og tilhenger muligheter
 description: Biler er ikke bare ment for transport av mennesker, men også for transport av ulike typer last, som dagligvarer, bagasje, kjæledyr eller sportsutstyr.
 weight: 2
 shownavtabs: true
@@ -18,7 +18,7 @@ Vi har delt artikkelen inn i seks kapitler for å dekke de ulike aspektene ved l
 
 Avhengig av biltype er det plass til å lagre betydelig last inne i bilen.
 
-[Du kan lese alt om det i vår innvendige lastseksjon.](interiørlast/)
+[Du kan lese alt om det i vår innvendige lastseksjon.](interiorcargo/)
 
 ### Frunk last
 
@@ -30,7 +30,7 @@ Elektriske kjøretøyer (EV-er) blir mer populære og praktiske for ulike formå
 
 En mulig løsning er å bruke taklast, for eksempel stativer eller bokser, for å øke lagringskapasiteten til elbiler. Taklast kan hjelpe til med å transportere klumpete, tunge eller uregelmessig formede gjenstander som ski, sykler, kajakker eller telt. Taklast har imidlertid noen ulemper og begrensninger som EV-eiere bør vite før de installerer den på kjøretøyene sine.
 
-[Du kan lese alt om det i vår taklastseksjon.](taklast/)
+[Du kan lese alt om det i vår taklastseksjon.](roofcargo/)
 
 ### Hitch Cargo
 

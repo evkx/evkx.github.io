@@ -135,6 +135,7 @@ I den här artikeln kommer vi att utforska de olika typerna av EV-batterier, hur
 <a href="platforms">
     <img src="https://media.evkx.net/multimedia/technology/platforms/e-golf_1_st.jpg" alt="Platforms" title="Platforms" class="img-fluid mb-2">
 </a>
+
 ## Elbilsplattformar
 
 Att bygga en elbil är mer komplicerat än att ersätta en förbränningsmotor med en elmotor och ett batteripaket. Elbilar kräver ett annat förhållningssätt till design, konstruktion och tillverkning, och det är här som elbilsplattformar kommer in.

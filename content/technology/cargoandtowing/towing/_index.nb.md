@@ -93,6 +93,8 @@ Mange elbiler på markedet eller under utvikling kan trekke tilhenger, men noen 
         </tr>
     </tbody>
 </table>
+
+
 ## Kjøretøyforskrifter
 
 Det finnes ulike skrifter over hele verden for maksimal tilhengervekt for ulike kategorier av biler. For noen EV-modeller kan du registrere deg i flere kategorier og, basert på registrering, være begrenset til forskjellige regler.

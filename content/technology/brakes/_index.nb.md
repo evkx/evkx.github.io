@@ -1,7 +1,7 @@
 ---
 title: Bremser
 linktitle: Bremser
-description: TBremsesystemet er avgjørende for sikkerheten til passasjerene og andre trafikanter, samt kjøretøyets levetid. Denne artikkelen vil utforske de forskjellige typene EV-bremser, inkludert stålskivebremser, karbidbremser, keramiske bremser og trommelbremser. Den inneholder også detaljer om blandede bremser.
+description: Bremsesystemet er avgjørende for sikkerheten til passasjerene og andre trafikanter, samt kjøretøyets levetid. Denne artikkelen vil utforske de forskjellige typene EV-bremser, inkludert stålskivebremser, karbidbremser, keramiske bremser og trommelbremser. Den inneholder også detaljer om blandede bremser.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
