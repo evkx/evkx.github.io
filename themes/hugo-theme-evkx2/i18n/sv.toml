@@ -1,0 +1,38 @@
+[create-header-md]
+other = "Skapa en _header.md för att anpassa detta"
+
+[Search-placeholder]
+other = "Sök..."
+
+[Clear-History]
+other = "Ta bort historik"
+
+[Page]
+other = "Sida"
+
+[Next-Pages]
+other = "Nästa"
+
+[Previous-Pages]
+other =  "Föregående"
+
+[pagination-on]
+other = "av"
+
+[Attachments-label]
+other = "Bilaga"
+
+[title-404]
+other = "Feil"
+
+[message-404]
+other = "Hoppsan... Den här sidan verkar inte existera."
+
+[Go-to-homepage]
+other = "Gå till huvudsidan"
+
+[Edit-this-page]
+other = "Ändra denna sida i github"
+
+[Navigation]
+other = "Visa innehåll"

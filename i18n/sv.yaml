@@ -1,0 +1,108 @@
+- id: menu-technology
+  translation: Teknik
+
+- id: menu-guides
+  translation: Guider
+
+- id: menu-search
+  translation: Elbilssökning
+
+- id: menu-brands
+  translation: Märken och modeller
+
+- id: language
+  translation: Språk
+
+- id: common-section-search-title
+  translation: Elbilssökning
+
+- id: common-section-search-description
+  translation: EVKX.net har den mest kompletta elbilsdatabasen. Sök och filtrera på många funktioner och specifikationer.
+
+- id: common-section-search-link
+  translation: Gå till elbilssökning
+
+- id: common-section-mostsold-world-title
+  translation: Mest sålda elbilar globalt
+
+- id: common-section-mostsold-world-description
+  translation: Nedan hittar du de 10 mest sålda EV-modellerna i världen. Klicka på namnet för fullständig information.
+
+- id: common-section-technology-title
+  translation: Lär dig elbilsteknik
+
+- id: common-section-technology-description
+  translation: EVKX erbjuder den mest omfattande samlingen av djupgående artiklar om elbilsteknik.
+
+- id: common-section-technology-section-battery
+  translation: Batteri
+
+- id: common-section-technology-section-adas
+  translation: Advanced Driver Assistance Systems
+
+- id: common-section-technology-section-motors
+  translation: Elmotorer
+
+- id: common-section-technology-section-suspension
+  translation: Stötdämpning
+
+- id: common-section-technology-section-brakes
+  translation: Bromsar
+
+- id: common-section-technology-section-lights
+  translation: Ljus
+
+- id: common-section-technology-section-regen
+  translation: Regenerativ bromsning
+
+- id: common-section-technology-section-seats
+  translation: Säten
+
+- id: common-section-technology-section-sensors
+  translation: Sensorer och kameror
+
+- id: common-section-technology-section-ui
+  translation: Användargränssnitt
+
+- id: common-section-guides-title
+  translation: Guider
+
+- id: common-section-guides-description
+  translation: Nedan hittar du olika guider för att äga en elbil och hur du använder den här sidan.
+
+- id: common-section-guides-section-search
+  translation: Hur man använder elbilssökningen
+
+- id: common-section-guides-section-preservebattery
+  translation: Bevarande av batteri
+
+- id: common-section-guides-section-understandingrange
+  translation: Förstå räckvidd
+
+- id: common-section-guides-section-vehicletypes
+  translation: Fordonstyper
+
+- id: common-section-models-title
+  translation: Varumärken och modeller
+
+- id: common-section-models-description
+  translation: Läs om de olika märkena, deras EV-strategier och den mest kompletta informationen om alla modellerna nedan.
+
+- id: common-section-latest-reviews
+  translation: Senaste tester och recensioner
+
+- id: frontpage-description-6dae8dd0
+  translation: Fisker Ocean Sport är en helelektrisk SUV med en räckvidd på WLTP på upp till 464 km. EVKX.net har alla detaljer.
+
+- id: frontpage-description-be62bb42
+  translation: Fisker Ocean Ultra är en helelektrisk SUV med en räckvidd på WLTP på upp till 690 km. EVKX.net har alla detaljer.
+
+- id: frontpage-description-7bdf13bd
+  translation: Nio ET9 är en helelektrisk premium sedan med en räckvidd på WLTP på upp till 720 km. EVKX.net har alla detaljer.
+
+- id: frontpage-description-50bcf160
+  translation: Genesis Electrified GV70 är en helelektrisk premium-SUV med en räckvidd på WLTP på upp till 470 km. EVKX.net har alla detaljer.
+
+- id: frontpage-description-65c52c8e
+  translation: Genesis GV60 2WD är en helelektrisk SUV med en räckvidd på WLTP på upp till 517 km. EVKX.net har alla detaljer.
+

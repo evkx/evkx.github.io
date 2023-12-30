@@ -1,0 +1,214 @@
+---
+title: Ford F150 Lightning Extended Range
+linktitle: "F150 Lightning Extended Range"
+description: "Ford F150 Lightning Extended Range är en helelektrisk pickup med en EPA räckvidd på upp till 515 km. EVKX.net har alla detaljer."
+weight: 10
+hidden: true
+shownavtabs: true
+navicon: bi-car-front
+---
+<!-- markdownlint-disable MD033 -->
+
+
+
+{{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571"  >}}
+
+Vi har delat in vår beskrivning av Ford F150 Lightning Extended Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+
+- [Ytelse](#ytelse)
+- [Batteri, räckvidd och laddning](#battery-range-and-charging)
+- [Drivetrain (fjädring, bromsar, styrning)](#drivetrain)
+- [Exteriör (lackfärger, hjul ++)](#exteriör)
+- [Interiör (säten++)](#interior)
+- [Användargränssnitt och kontroll](#userinterface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
+- [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
+
+
+## Prestanda
+
+Ford F150 Lightning Extended Range har en maximal effekt på 433 KW (589hk). Totalt vridmoment är 1050 Nm. Den gör sprinten 0-100 km/h på 4,2 sekunder. Topphastigheten är 180 km/h.
+
+## Batteri, räckvidd och laddning
+
+Batteriet har en bruttokapacitet på 150kWh och en nettokapacitet på 131kWh, vilket innebär att du har en 19kWh buffert för skydd. (12,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 320 till 300 miles (515-483 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2.4mi/kWh för basversionen och 2.3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+
+Maximal DC-laddningshastighet är 155 kW. En full laddning från 0 - 100 % tar 130 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 106kW. Varje laddningssession tar 46 minuter och 54 sekunder.
+
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 33kWh/100km, tar 1000km 10 timmar och 13 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 0% till 76%. Total tid som går förlorad för att ladda batteriet kommer att vara 113 minuter.
+
+### Inbyggd laddare
+
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 19,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 6 timmar och 49 minuter.
+
+
+{{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}
+
+
+### Laddningsport
+
+Platsen för laddningsporten är på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna placering gör det enkelt att använda laddstationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Drivlina
+
+Ford F150 Lightning Extended Range har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
+
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 226 mm.
+
+### Bromsar
+
+
+
+[Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving). Du kan välja mellan två stopplägen för enpedalkörning. Hold-läget stoppar fordonet helt med friktionsbromsar, och rullningsläget gör att fordonet rullar tills det stannar på sin egen.
+
+## Exteriör
+
+Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Dessutom kan du välja mellan 3 hjul i storlek från 18 till 22 tum.
+
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
+
+Det finns bara ett tak för denna modell. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+
+
+{{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1595"  >}}
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Interiör
+
+Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+
+### Framsäten
+
+Endast en typ av framsäte är tillgänglig i Ford F150 Lightning Extended Range.
+
+Följande funktioner är tillgängliga på **** sätet.
+
+- elektrisk justering (valfritt)
+- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+- Grey [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Grey [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+
+
+
+
+{{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
+
+
+### Säten på andra raden
+
+
+
+Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+
+
+Det finns bara en typ av ratt tillgänglig.
+
+## Klimatsystem
+
+Det finns ett tillgängligt klimatsystem.
+
+## Tröst
+
+Ford F150 Lightning Extended Range har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Användargränssnitt och kontroll
+
+Två olika skärmlayouter är tillgängliga på Ford F150 Lightning Extended Range.
+
+Standardlayouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum . Skärmen  i mitten av instrumentbrädan är 12.0 tum .
+
+Den valfria -layouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum . Skärmen  i mitten av instrumentbrädan är 15.5 tum .
+Modellen är inte tillgänglig med head-up display.
+
+
+{{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
+
+
+## Infotainment
+
+Du kan välja mellan tre ljudsystem på Ford F150 Lightning Extended Range. Med Ford får du fyra högtalare med en maximal systemeffekt på 80 watt. Med B&O Sound System får du åtta högtalare med en maximal systemeffekt på 640 watt. Med B&O Unleashed Sound System får du 18 högtalare med en maximal systemeffekt på 1080 watt.
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Ford F150 Lightning Extended Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+
+## Ljus
+
+
+
+
+{{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
+
+## Avancerade förarassistanssystem
+
+Ford F150 Lightning Extended Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+### Säkerhetssystem
+
+
+
+Ford F150 Lightning Extended Range har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+
+Ford F150 Lightning Extended Range har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+
+Ford F150 Lightning Extended Range har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+
+[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
+
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+
+### Körautomation
+
+Ford F150 Lightning Extended Range erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+
+Med Ford Co-Pilot360™ 2.0  nivå 1-systemet får du följande körautomationsfunktioner.
+- Farthållare.
+
+
+Med Ford Co-Pilot360™ Assist 2.0  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
+- [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+
+
+Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
+- [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/) 
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Lastkapacitet och dragkapacitet
+
+Lastkapaciteten för lastbilen är 1495 liter. Bredden på lastflaket är 1285 mm och längden är 1704 mm. Den maximala lastvikten i lastflaket är 907 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 399 liter. Bilens maximala vikt är 3878 kg, och med basvikten på 2988 kg kan du lasta maximalt 890 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+
+
+{{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
+
+### Tillgänglighet och pris
+
+Denna modell hade världspremiär 19.05.2021 och leveranserna startade i December 2021.

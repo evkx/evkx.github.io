@@ -1,0 +1,73 @@
+---
+title: Kia EV9 Long Range AWD recensioner
+linktitle: "Tester"
+description: "EVKX.net hjälper dig hitta de bästa testerna och recensionerna av denna modell."
+weight: 80
+hidden: true
+navicon: bi-person-video2
+---
+Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
+
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Game Over! I Drive The Fantastic Kia EV9 Electric SUV For The First Time</h3>
+<p>Out of Spec Reviews: 29.12.2023</p>
+
+{{< youtube sV3XOiCB1tE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Test av Kia EV9 - er du klar for en Kia til en million kroner?</h3>
+<p>Norsk elbilforeningen: 24.11.2023</p>
+
+{{< youtube lyV50T8oUzg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 test drive and range test</h3>
+<p>Bjørn Nyland: 24.11.2023</p>
+
+{{< youtube Ia0ALVYkn8M >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 6-seater interior review</h3>
+<p>Bjørn Nyland: 24.11.2023</p>
+
+{{< youtube SUWuVeSV9gE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 Review | MIGHT JUST BE THE BEST FAMILY SUV</h3>
+<p>Kris Rifa: 24.11.2023</p>
+
+{{< youtube dp6gNy4PH_A >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9: A Spaceship With Seven Seats!</h3>
+<p>Fully Charged Show: 08.11.2023</p>
+
+{{< youtube 9ZTqQGM8Ss8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 GT-Line driving REVIEW electric 7-seater vs 6-seater</h3>
+<p>Autogefühl: 08.11.2023</p>
+
+{{< youtube JHYgKv2zYcE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: All-new KIA EV9: Has Kia’s seven-seater won the space race?</h3>
+<p>Electrifying: 08.11.2023</p>
+
+{{< youtube NswD8V88bbQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Is the Kia EV9 the best full-size EV SUV?</h3>
+<p>Autogefühl: 30.05.2023</p>
+
+{{< youtube 6vXePQi_MAk >}}
+
+</div>
