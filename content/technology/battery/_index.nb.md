@@ -17,7 +17,7 @@ Vi har delt artikkelen inn i separate seksjoner.
 
 - [Battery Basics](basic/) - Grunnkonseptet for et batteri
 - [Cell Chemistry & Parts](cellchemistry/) - Detaljer om de forskjellige kjemiene og celledelene
-- [Cell Housing](celle/) - Detaljer om cellehus som pose, prismatisk, blad og sylindrisk.
+- [Cell Housing](cell/) - Detaljer om cellehus som pose, prismatisk, blad og sylindrisk.
 - [Batteripakke og konfigurasjon](batterypack/) - 400 volt vs. 800. Celle til modul vs. celle til pakke, og mer.
 - [Batteristyringssystem](batterymanagment/) - Hjernen i batterisystemet
 - [Termisk styring](thermalmanagement/) - Hvorfor er termisk styring avgjørende for ytelse, og hvordan fungerer det
