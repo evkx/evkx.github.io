@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				18,9 kWh/100km
+				19,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				19,4 kWh/100km
+				20,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -124,6 +124,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				17,2 kwh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-rekkevidde
+			</td>
+			<td>
+				260 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-forbruk
+			</td>
+			<td>
+				2,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +174,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				94 kWh
+				98 kWh
 			</td>
 		</tr>
 		<tr>

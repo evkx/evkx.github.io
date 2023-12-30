@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drove So Far Below 0% In This Kia EV9 70-MPH Highway Range Test! GT-Line AWD 99.8kWh</h3>
+<p>Out of Spec Reviews: 30.12.2023</p>
+
+{{< youtube Kw1fGPZoSQo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Game Over! I Drive The Fantastic Kia EV9 Electric SUV For The First Time</h3>
 <p>Out of Spec Reviews: 29.12.2023</p>
 

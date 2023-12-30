@@ -21,8 +21,10 @@ Nedan är de officiellt klassade intervallen. Tester utförs med värme/AC avst�
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 497 km / 309mi </td><td>18,91kWh/100km / 3,3 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 484 km / 301mi </td><td> 19,42 kWh/100km / 3,2 mi/kWh </td></tr>  
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 497 km / 309mi </td><td>19,72kWh/100km / 3,2 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 484 km / 301mi </td><td> 20,25 kWh/100km / 3,1 mi/kWh </td></tr>  
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>418km / 260 mi</td><td> 23,4 kWh/100km / 2,7 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>418km /260mi</td><td> 23,4 kWh/100km / 2,7 mi/kWh  </td></tr> 
 </tbody></table>
 
 ### Officiella testcykelresultat med extra uppvärmning
@@ -33,8 +35,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 <thead>
 <tr><th></th><th>  Range </th><th>Change </th></tr>
 <tbody>
-<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 405km /252 mi </td><td> -18,5%</td></tr>
-<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 396km /246 mi </td><td>-18,2%</td></tr>
+<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 408km /254 mi </td><td> -17,9%</td></tr>
+<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 399km /248 mi </td><td>-17,6%</td></tr>
+<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 220km /137 mi </td><td> -15,4%</td></tr>
+<tr><td>  EPA-combined top trim with 2KW AC </td><td> 220km /137 mi </td><td> -15,4%</td></tr>
 </tbody></table>
 
 ### Räckviddsuppskattningar i den verkliga världen
@@ -45,8 +49,8 @@ Tabellen nedan visar några uppskattade exempel från den verkliga världen i pe
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td> 90kmh/56mph perfect condition </td><td> 495km /308mi</td><td> 19 kWh/100km / 3,3 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 455km /275mi</td><td> 21,2 kWh/100km / 2,9 mi/kWh </td></tr
-<tr><td> 120kmh/75mph perfect condition </td><td> 427km /265mi</td><td> 22 kWh/100km / 2,8 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 397km /247mi</td><td> 23,7 kWh/100km / 2,6 mi/kWh </td></tr
+<tr><td> 90kmh/56mph perfect condition </td><td> 467km /290mi</td><td> 21 kWh/100km / 3,0 mi/kWh </td></tr>
+<tr><td> 90kmh/56mph with 2KW heating </td><td> 433km /262mi</td><td> 23,2 kWh/100km / 2,7 mi/kWh </td></tr
+<tr><td> 120kmh/75mph perfect condition </td><td> 392km /244mi</td><td> 25 kWh/100km / 2,5 mi/kWh </td></tr>
+<tr><td> 120kmh/75mph with 2KW heating </td><td> 368km /229mi</td><td> 26,7 kWh/100km / 2,3 mi/kWh </td></tr
 </tbody></table>

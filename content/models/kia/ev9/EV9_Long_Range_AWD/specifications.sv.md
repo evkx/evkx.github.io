@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				18,9 kWh/100km
+				19,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				19,4 kWh/100km
+				20,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -124,6 +124,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				17,2 kwh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA Range
+			</td>
+			<td>
+				260 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA Consumption
+			</td>
+			<td>
+				2,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +174,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nettobatterikapacitet
 			</td>
 			<td>
-				94 kWh
+				98 kWh
 			</td>
 		</tr>
 		<tr>

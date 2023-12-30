@@ -33,17 +33,17 @@ Kia EV9 Long Range AWD har en maximal effekt på 283 KW (385hk). Totalt vridmome
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 99,8kWh och en nettokapacitet på 94kWh, vilket innebär att du har en 5,8kWh buffert för skydd. (5,8%).
+Batteriet har en bruttokapacitet på 99,8kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 1,8kWh buffert för skydd. (1,8%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 497 till 484 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.9kWh/100 km för basversionen och 19.4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 497 till 484 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19.7kWh/100 km för basversionen och 20.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
-Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 48 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 75%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 159kW. Varje laddningssession tar 26 minuter och 12 sekunder.
+Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 161kW. Varje laddningssession tar 26 minuter och 38 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 8 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 69%. Total tid som går förlorad för att ladda batteriet kommer att vara 48 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 9 timmar och 17 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 79%. Total tid som går förlorad för att ladda batteriet kommer att vara 57 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 32 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 54 minuter.
 
 ### Laddningsport
 

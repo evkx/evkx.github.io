@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				18,9 kWh/100km
+				19,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				19,4 kWh/100km
+				20,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -124,6 +124,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				17,2 kwh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">EPA range</a>
+			</td>
+			<td>
+				260 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">EPA consumption</a>
+			</td>
+			<td>
+				2,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +174,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				94 kWh
+				98 kWh
 			</td>
 		</tr>
 		<tr>
