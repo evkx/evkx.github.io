@@ -113,7 +113,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive- seter). I tillegg er følgende funksjoner tilgjengelige.
+For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive-seter). I tillegg er følgende funksjoner tilgjengelige.
 
 - elektrisk justering
 - høydejusterbar hodestøtte
