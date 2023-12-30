@@ -53,13 +53,14 @@ Baserat på drivlinans effektivitet på 80 % sparar detta 0,061 kWh tillbaka til
 Kör du 10 mil i stadstrafik och behöver göra 100 stopp så här sparar du 6,05 kWh energi.
 
 Denna regenerering minskar energiförbrukningen med 6,05 kWh/100 km jämfört med en bil med endast [friktionsbromsar](../../broms/).
+
 ### Scenario 4: Kör ner från Saltfjellet
 
 {{< sitefiguresized thumb="technology/regen/calculations/saltfjellet_st.jpg" width="768" height="558" title="Saltfjellet på vintern" >}}
 
 Detta berg ligger i norra Norge och huvudvägen från söder till norr går över det (E6).
 
-Om vi ​​tar [denna del](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7980852,15.1624003,10z/data=43 så börjar det!) nedåt ser vi att starten är på 650 meter (2132 fot) och den slutar på 125 meter (410 fot) över havet.
+Om vi ​​tar [denna del](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7980852,15.1624003,10z/data=43) så börjar det! nedåt ser vi att starten är på 650 meter (2132 fot) och den slutar på 125 meter (410 fot) över havet.
 På ett avstånd av 16,4 km (10,2 miles) motsvarar detta en minskning med 3,1 %
 
 Det innebär potentiell energi på 4 147 kWh.
@@ -78,7 +79,7 @@ Ett föremål i rörelse har kinetisk energi. Denna energi beror på föremålet
 
 Formeln är
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?KE&space;=&space;\frac{ 1}{2}osv.{2})
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?KE&space;=&space;\frac{ 1}{2}mv{2})
 
 Var
 
@@ -176,6 +177,7 @@ kräver 39,89 kW (24,94 kWh/100 km) för att övervinna luftmotstånd.
 Temperaturen påverkar densiteten. Vid -25 är densiteten 1,4224 och förbrukningen vid 80 km/h ökar till 7,23kWh/100km.
 
 För alla beräkningar på denna artikel antar vi 15 °C
+
 ### Rullmotstånd
 
 Förutom dragkraft finns det rullmotstånd från hjul och andra drivlinans komponenter som motverkar rörelse.
@@ -216,6 +218,7 @@ Teoretiskt kan detta spara
 - Scenario 3: 3,02 kWh/100 km
 
 Men det är i bästa fall här du kan räkna ut exakt var du ska lyfta foten från wattpedalen. I den verkliga världen skulle denna fördel vara mindre eftersom du skulle behöva lägga till lite kraft eller bromsa i slutet när du inte kan beräkna detta korrekt.
+
 ## Kan du se i bilen hur mycket som regenererades?
 
 En vanlig missuppfattning är att man kan titta på räckvidden som rapporterats i bilen för att se hur mycket som regenererats. För de flesta bilar är detta inte möjligt
@@ -232,7 +235,8 @@ Du kan till och med se denna typ av ökning i scenarier där det inte finns någ
 
 Det enda sättet att veta hur mycket du har regenererat är att se hur mycket batteriets laddningstillstånd ändras från toppen till botten av berget.
 
-{{< sitefiguresized thumb="technology/regen/calculations/soc_st.jpg" width="1212" height="682" title="State of Charge, det enda sättet att se hur mycket du har regenererat på många bilar" > }}
+{{< sitefiguresized thumb="technology/regen/calculations/soc_st.jpg" width="1212" height="682" title="State of Charge, det enda sättet att se hur mycket du har regenererat på många bilar" >}}
+
 
 ## En pedaldrift kontra manuell/automatisk regenerering
 

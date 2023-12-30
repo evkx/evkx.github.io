@@ -4,6 +4,7 @@ linktitle: Elbilsplattformar
 description: Att bygga en elbil är mer komplicerat än att ersätta en förbränningsmotor med en elmotor och ett batteripaket. Elbilar kräver ett annat förhållningssätt till design, konstruktion och tillverkning, och det är här som elbilsplattformar kommer in.
 weight: 2
 ---
+
 <!-- markdownlint-disable MD033 -->
 En EV-plattform är det grundläggande ramverket eller arkitekturen för en EV utan kaross, interiör eller drivlina. Det är fundamentet som stödjer resten av fordonets komponenter och system, såsom batteripaketet, elmotorn, fjädringen, styrningen, bromsarna och elektroniken. En EV-plattform bestämmer också storlek, form, prestanda, räckvidd och egenskaper hos en EV.
 
@@ -69,7 +70,7 @@ Några exempel på EV-plattformar som följer detta tillvägagångssätt är:
 
 Dessa EV-plattformar är exempel på hur biltillverkare kan balansera innovation och pragmatism när de utvecklar elfordon. De erbjuder vissa fördelar jämfört med eftermonterade eller hybridplattformar, såsom mer designflexibilitet, bättre effektivitet och högre prestanda. Men de kanske inte är lika optimala som dedikerade EV-plattformar designade från grunden för e-mobilitet.
 
-{{< sitefiguresized thumb="technology/platforms/audiq8_1_st.jpg" width="3000" height="1999" title="Audi Q8 e-tron drivlina med dedikerad EV-skateboard och återanvändning av MLB-EVO-delar" >} }
+{{< sitefiguresized thumb="technology/platforms/audiq8_1_st.jpg" width="3000" height="1999" title="Audi Q8 e-tron drivlina med dedikerad EV-skateboard och återanvändning av MLB-EVO-delar" >}}
 
 {{< sitefiguresized thumb="technology/platforms/bmwix_1_st.jpg" width="3000" height="1688" title="BMW iX-drivlina med dedikerad EV-skateboard och viss återanvändning av BMW CLAR-delar" >}}
 

@@ -32,7 +32,7 @@ Idag levereras elbilar med 16-23" beroende på modell.
 De flesta elbilar har hjul med samma diameter och bredd på alla hjul. Ett fåtal modeller har en förskjuten uppställning med bredare hjul bak än fram.
 Lucid Air Sapphire är för närvarande den enda modellen med bredare bakhjul och en större diameter på 21" bak och 20" fram.
 
-{{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_6_st.jpg" width="3000" height="2001" title="Lucid Air Sapphire med 21\" på bakaxeln och 20\" framaxel" >} }
+{{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_6_st.jpg" width="3000" height="2001" title="Lucid Air Sapphire med 21\" på bakaxeln och 20\" framaxel" >}}
 ## Däck
 
 Det finns många typer av däck på marknaden, alla med sina egna fördelar och nackdelar. Några av de vanligaste typerna är:
@@ -48,6 +48,7 @@ Dessa är designade för att ge optimal prestanda och hantering i varma och torr
 ### Vinterdäck
 
 Dessa är designade för att ge överlägsen prestanda och säkerhet i kalla och snöiga förhållanden. De har vanligtvis ett riktat slitbanemönster och djupt slitbanedjup för att öka greppet och förhindra vattenplaning på snö och is. De har också speciella gummiblandningar som förblir flexibla och känsliga vid låga temperaturer. De är viktiga för bilar och förare som bor i områden med hårda vintrar eller ofta kör på snöiga eller isiga vägar. De är dock inte lämpliga för varma eller torra förhållanden eftersom de kan slitas snabbare och äventyra hantering och bränsleeffektivitet.
+
 ### Däckstorlekar
 
 Storleken på ett däck indikeras av en serie siffror och bokstäver på sidoväggen. Till exempel betyder P215/60R16 94T:
@@ -61,6 +62,7 @@ Storleken på ett däck indikeras av en serie siffror och bokstäver på sidovä
 - T: Däckets hastighet, vilket är den maximala hastighet det kan hålla
 
 Att välja rätt däckstorlek för din bil är viktigt eftersom det påverkar prestanda, säkerhet, komfort och effektivitet. Du bör konsultera instruktionsboken eller skylten på förarsidans dörrkarm för att hitta den rekommenderade däckstorleken för din bil. Du kan också använda onlineverktyg som hjulstorlek eller däckstorlekstabell för att jämföra olika däckstorlekar och deras effekter på din bil.
+
 ### Specialdäck för elbilar
 
 Elfordon (EV) har några unika egenskaper som kräver speciella däck. Några av dessa egenskaper är:

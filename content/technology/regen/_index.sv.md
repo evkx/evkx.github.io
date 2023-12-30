@@ -42,6 +42,7 @@ Andra, som Tesla, har inställningar tillgängliga i infotainmentsystemet.
 På bilden ovan kan du även se hur Tesla låter föraren bestämma hur bilen ska bete sig i låg hastighet. De kan till exempel lägga till fysiska bromsar vid låga fordonshastigheter för att få fordonet att stanna helt.
 
 {{<evkxdisplayaddarticle />}}
+
 ### Manuell regenerering med bromspedalen
 
 Genom att trycka på bromspedalen kan du återskapa energi på elbilar med blandade bromsar.

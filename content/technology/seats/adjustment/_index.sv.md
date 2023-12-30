@@ -25,7 +25,7 @@ Justeringen fram och bak finns på de flesta framsäten och vissa andra radens b
 
 {{< sitefiguresized thumb="technology/seats/adjustment/hyundaiioniqaftforward_1_st.jpg" width="3000" height="1978" title="Hyundai Ionic 5 andra radens bänk med justering fram och bak" >}}
 
-{{< sitefiguresized thumb="technology/seats/adjustment/mercedeseqssuvaftforward_1_st.jpg" width="3000" height="2118" title="Mercedes EQS SUV kan flytta framåt i andra raden för att ge tillgång till den tredje raden" >} }
+{{< sitefiguresized thumb="technology/seats/adjustment/mercedeseqssuvaftforward_1_st.jpg" width="3000" height="2118" title="Mercedes EQS SUV kan flytta framåt i andra raden för att ge tillgång till den tredje raden" >}}
 
 ### Höjd justering
 
