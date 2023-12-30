@@ -52,7 +52,7 @@ Coupe SUV-er kommer i forskjellige størrelser. Imidlertid kan de være dyrere e
 
 Pickuper er designet for tungt arbeid og terrengkjøring. De har et åpent lasterom bak, noe som gjør dem ideelle for frakt av varer og utstyr. Pickuper kommer i ulike størrelser, fra kompakt til full størrelse, og er tilgjengelig i to- og firehjulsdrift. De tilbyr også kraftige motorer og slepemuligheter, noe som gjør dem populære blant entreprenører, bønder og friluftsentusiaster. [Se alle pickup-biler i EVKX EV-databasen](https://evkx.net/evsearch/?sortOrder=Name&evType=PickupTruck)
 
-{{< sitefiguresized thumb="models/rivan/r1/r1t_quad-motor_awd/main_1_st.jpg" width="2100" height="1400" title="Rivian R1T Quad-Motor AWD pickup" >}}
+{{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" width="2100" height="1400" title="Rivian R1T Quad-Motor AWD pickup" >}}
 
 ## Stasjonsvogn
 
