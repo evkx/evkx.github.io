@@ -1,108 +1,110 @@
 ---
-title: Elbilsplattformar
-linktitle: Elbilsplattformar
-description: Att bygga en elbil är mer komplicerat än att ersätta en förbränningsmotor med en elmotor och ett batteripaket. Elbilar kräver ett annat förhållningssätt till design, konstruktion och tillverkning, och det är här som elbilsplattformar kommer in.
+title: Elbil-plattformer
+linktitle: Elbil-plattformer
+description: Å bygge en elbil er mer komplisert enn å erstatte en forbrenningsmotor med en elektrisk motor og en batteripakke. Elbiler krever en annen tilnærming til design, konstruksjon og produksjon, og det er her elbilplattformer kommer inn.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-En EV-plattform är det grundläggande ramverket eller arkitekturen för en EV utan kaross, interiör eller drivlina. Det är fundamentet som stödjer resten av fordonets komponenter och system, såsom batteripaketet, elmotorn, fjädringen, styrningen, bromsarna och elektroniken. En EV-plattform bestämmer också storlek, form, prestanda, räckvidd och egenskaper hos en EV.
 
-Det finns fyra huvudtyper av EV-plattformar: eftermontering, hybrid, dedikerad med återanvändning av delar och dedikerad.
+En EV-plattform er den grunnleggende rammen eller arkitekturen til en EV uten karosseriet, interiøret eller drivverket. Det er fundamentet som støtter resten av kjøretøyets komponenter og systemer, som batteripakken, den elektriske motoren, fjæringen, styringen, bremsene og elektronikken. En EV-plattform bestemmer også størrelsen, formen, ytelsen, rekkevidden og funksjonene til en EV.
 
-## Eftermontering
+Det er fire hovedtyper EV-plattformer: ettermontering, hybrid, dedikert med gjenbruk av deler og dedikert.
 
-Eftermontering är att modifiera en befintlig plattform för förbränningsmotorer (ICE) för att rymma en elektrisk drivlina. Detta tillvägagångssätt är det enklaste och snabbaste sättet att bygga en elbil, eftersom det inte kräver utveckling av en ny plattform från grunden. Men det har också några nackdelar, såsom:
+## Ettermontering
 
-- Begränsad designflexibilitet: Eftermontering tvingar EV att passa inom begränsningarna för en ICE-plattform, vilket kanske inte är optimalt för aerodynamik, viktfördelning, passagerarutrymme eller lastkapacitet.
-- Minskad effektivitet: Eftermontering kan äventyra prestanda och räckvidd, eftersom ICE-plattformen kanske inte har plats för ett tillräckligt stort batteripaket eller en tillräckligt kraftfull elmotor.
-- Högre kostnader: Eftermontering kan medföra ytterligare kostnader för att modifiera ICE-plattformen, integrera de elektriska komponenterna och säkerställa säkerhet och tillförlitlighet.
+Ettermontering er å modifisere en eksisterende plattform for forbrenningsmotorer (ICE) for å få plass til en elektrisk drivlinje. Denne tilnærmingen er den enkleste og raskeste måten å bygge en elbil på, siden den ikke krever utvikling av en ny plattform fra bunnen av. Det har imidlertid også noen ulemper, for eksempel:
 
-Några exempel på elbilar som använder eftermontering är:
+- Begrenset designfleksibilitet: Ettermontering tvinger EV-en til å passe inn i begrensningene til en ICE-plattform, som kanskje ikke er optimal for aerodynamikk, vektfordeling, passasjerplass eller lastekapasitet.
+- Redusert effektivitet: Ettermontering kan kompromittere ytelse og rekkevidde, ettersom ICE-plattformen kanskje ikke har plass til en stor nok batteripakke eller en kraftig nok elektrisk motor.
+- Høyere kostnader: Ettermontering kan medføre ekstra kostnader for å modifisere ICE-plattformen, integrere de elektriske komponentene og sikre sikkerhet og pålitelighet.
+
+Noen eksempler på elbiler som bruker ettermontering er:
 
 - Volkswagen E-Golf:
 - Ford Focus Electric:
-- Tesla Roadster: Den första Tesla-modellen baserades på ett modifierat Lotus Elise-chassi.
-- Nissan Leaf: Den första massmarknadsbilen byggdes på en modifierad version av Nissans B-plattform.
+- Tesla Roadster: Den første Tesla-modellen var basert på et modifisert Lotus Elise-chassis.
+- Nissan Leaf: Den første massemarkedet EV ble bygget på en modifisert versjon av Nissans B-plattform.
 
-De två exemplen nedan visar hur tillverkaren placerade batteriet och andra elbilskomponenter på eftermonterade plattformar.
+De to eksemplene nedenfor viser hvordan produsenten lokaliserte batteriet og andre EV-komponenter på ettermonterte plattformer.
 
-{{< sitefiguresized thumb="technology/platforms/e-golf_1_st.jpg" width="3000" height="2120" title="Volkswagen e-golf på en eftermonterad plattform" >}}
+{{< sitefiguresized thumb="technology/platforms/e-golf_1_st.jpg" width="3000" height="2120" title="Volkswagen e-golf på en ettermontert plattform" >}}
 
-{{< sitefiguresized thumb="technology/platforms/fordfocus_1_st.jpg" width="1600" height="900" title="Ford Focus Electric med eftermonterad plattform" >}}
+{{< sitefiguresized thumb="technology/platforms/fordfocus_1_st.jpg" width="1600" height="900" title="Ford Focus Electric med ettermontert plattform" >}}
 
 ## Hybrid
 
-Äldre biltillverkare med en stor kundbas designar ofta hybridplattformar för att rymma olika typer av drivlinor, som ICE, plug-in hybrid eller ren elektrisk. Detta tillvägagångssätt ger biltillverkarna mer flexibilitet att anpassa sig till marknadens efterfrågan och kundernas preferenser. Men det har också några nackdelar, såsom:
+Eldre bilprodusenter med en stor kundebase designer ofte hybridplattformer for å imøtekomme forskjellige typer drivlinjer, for eksempel ICE, plug-in hybrid eller ren elektrisk. Denne tilnærmingen gir bilprodusentene mer fleksibilitet til å tilpasse seg markedets etterspørsel og kundenes preferanser. Det har imidlertid også noen ulemper, for eksempel:
 
-- Ökad komplexitet: Hybridplattformar måste ta hänsyn till olika scenarier och konfigurationer, vilket kan öka ingenjörs- och tillverkningsutmaningarna.
-- Minskad optimering: Hybridplattformar måste balansera avvägningarna mellan olika drivlinor, vilket kan hindra dem från att uppnå bästa möjliga prestanda eller räckvidd för varje typ. Detta kan vara behovet av att ha en större front för att passa en ICE-motor eller kortare hjulbas på grund av ICE-motorn.
-- Högre vikt: Hybridplattformar måste ha ytterligare komponenter och system för olika drivlinor, vilket kan öka fordonets vikt och minska effektiviteten.
+- Økt kompleksitet: Hybridplattformer må ta hensyn til ulike scenarier og konfigurasjoner, noe som kan øke ingeniør- og produksjonsutfordringene.
+- Redusert optimalisering: Hybridplattformer må balansere avveiningene mellom ulike drivlinjer, noe som kan hindre dem i å oppnå best mulig ytelse eller rekkevidde for hver type. Dette kan være behov for å ha en større front for å passe en ICE-motor eller kortere akselavstand på grunn av ICE-motor.
+- Høyere vekt: Hybridplattformer må ha ekstra komponenter og systemer for forskjellige drivlinjer, noe som kan øke kjøretøyets vekt og redusere effektiviteten.
 
-Några exempel på elbilar som använder hybridplattformar är:
+Noen eksempler på elbiler som bruker hybridplattformer er:
 
-- [Ford Mustang Mach-E](../../models/ford/mustang_mach-e/): Den första Ford EV är byggd på en modifierad version av Fords C2-plattform, som ligger till grund för Ford Escape och Bronco Sport.
-- [Volvo XC40 Recharge](../../models/volvo/xc40/): Den första Volvo EV är byggd på Volvos CMA-plattform, som stöder ICE och laddhybriddrivlinor.
-- [BMW i7](../../models/bmw/i7): Nya BMW i7 är byggd på en hybridplattform som stöder bensin-, PHEV- och EV-versioner.
+- [Ford Mustang Mach-E](../../models/ford/mustang_mach-e/): Den første Ford EV er bygget på en modifisert versjon av Fords C2-plattform, som underbygger Ford Escape og Bronco Sport.
+- [Volvo XC40 Recharge](../../models/volvo/xc40/): Den første Volvo EV er bygget på Volvos CMA-plattform, som støtter ICE og plug-in hybrid drivlinjer.
+- [BMW i7](../../models/bmw/i7): Den nye BMW i7 er bygget på en hybridplattform som støtter bensin-, PHEV- og EV-versjoner.
 
-Nedan kan du se hur CLAR-plattformen ligger till grund för de olika varianterna av BMW 7-serie.
+Nedenfor ser du hvordan CLAR-plattformen underbygger de ulike variantene av BMW 7-serien.
 
-{{< sitefiguresized thumb="technology/platforms/bmw7_4_st.jpg" width="3000" height="1671" title="BMW i7 med hybridplattform. Detta i bensinkonfiguration" >}}
+{{< sitefiguresized thumb="technology/platforms/bmw7_4_st.jpg" width="3000" height="1671" title="BMW i7 med hybridplattform. Dette i bensinkonfigurasjon" >}}
 
-{{< sitefiguresized thumb="technology/platforms/bmw7_1_st.jpg" width="3000" height="1671" title="BMW i7 med hybridplattform. Detta i PHEV-konfiguration" >}}
+{{< sitefiguresized thumb="technology/platforms/bmw7_1_st.jpg" width="3000" height="1671" title="BMW i7 med hybridplattform. Dette i PHEV-konfigurasjon" >}}
 
-{{< sitefiguresized thumb="technology/platforms/bmw7_2_st.jpg" width="3000" height="1671" title="BMW i7 med hybridplattform. Detta i EV-konfiguration" >}}
-## Dedikerad med delade komponenter
+{{< sitefiguresized thumb="technology/platforms/bmw7_2_st.jpg" width="3000" height="1671" title="BMW i7 med hybridplattform. Dette i EV-konfigurasjon" >}}
+## Dedikert med delte komponenter
 
-Vissa elbilar byggs på plattformar som biltillverkarna bygger som dedikerade elbilar, men återanvänder vissa delar från befintliga plattformar.
+Noen elbiler er bygget på plattformer som bilprodusentene bygger som dedikerte elbiler, men gjenbruker noen deler fra eksisterende plattformer.
 
-Dessa plattformar är designade specifikt för elfordon från grunden, men innehåller även vissa komponenter eller system från konventionella plattformar för förbränningsmotorer (ICE).
+Disse plattformene er designet spesifikt for elektriske kjøretøy fra grunnen av, men inneholder også noen komponenter eller systemer fra konvensjonelle forbrenningsmotorplattformer (ICE).
 
-Tillverkare kan använda detta tillvägagångssätt för att spara kostnader, minska utvecklingstiden eller utnyttja befintlig expertis.
+Produsenter kan bruke denne tilnærmingen for å spare kostnader, redusere utviklingstiden eller utnytte eksisterende ekspertise.
 
-De delar som återanvänds påverkar vanligtvis inte utformningen av elbilens funktioner negativt.
+Delene som gjenbrukes påvirker vanligvis ikke utformingen av funksjonene til elbilen negativt.
 
-Några exempel på EV-plattformar som följer detta tillvägagångssätt är:
+Noen eksempler på EV-plattformer som følger denne tilnærmingen er:
 
-- [Audi e-tron](../../models/audi/e-tron/): Den första Audi EV är byggd på en modifierad version av MLB Evo-plattformen, som Audi också använder för ICE och hybridmodeller som t.ex. som .ex. som Audi Q7 och Q8. E-tron-plattformen anpassar MLB Evo:s fjädring, styrning och bromssystem, men lägger också till ett nytt batteripaket, elmotorer och värmeledningssystem.
-- [BMW iX](../../models/bmw/ix/): BMWs första elektriska SUV är byggd på en ny plattform som heter CLAR WE (CLuseter ARchitecture With Electric), som är en variant av CLAR-the plattform som används för ICE och hybridmodeller som BMW 3-serie och 5-serie. iX-plattformen använder några av CLAR:s strukturella element, men inkluderar även ett nytt batteripaket, elmotorer och ett värmeledningssystem.
+- [Audi e-tron](../../models/audi/e-tron/): Den første Audi EV er bygget på en modifisert versjon av MLB Evo-plattformen, som Audi også bruker for ICE og hybridmodeller som f.eks. som Audi Q7 og Q8. E-tron-plattformen tilpasser MLB Evos fjærings-, styrings- og bremsesystemer, men legger også til en ny batteripakke, elektriske motorer og termisk styringssystem.
+- [BMW iX](../../models/bmw/ix/): Den første BMW elektriske SUV-en er bygget på en ny plattform kalt CLAR WE (CLuseter ARchitecture With Electric), som er en variant av CLAR-plattformen som brukes til ICE- og hybridmodeller som BMW 3-serie og 5-serie. iX-plattformen bruker noen av CLARs strukturelle elementer, men inkluderer også en ny batteripakke, elektriske motorer og et termisk styringssystem.
 
-Dessa EV-plattformar är exempel på hur biltillverkare kan balansera innovation och pragmatism när de utvecklar elfordon. De erbjuder vissa fördelar jämfört med eftermonterade eller hybridplattformar, såsom mer designflexibilitet, bättre effektivitet och högre prestanda. Men de kanske inte är lika optimala som dedikerade EV-plattformar designade från grunden för e-mobilitet.
+Disse EV-plattformene er eksempler på hvordan bilprodusenter kan balansere mellom innovasjon og pragmatisme når de utvikler elektriske kjøretøy. De tilbyr noen fordeler i forhold til ettermontering eller hybridplattformer, for eksempel mer designfleksibilitet, bedre effektivitet og høyere ytelse. Imidlertid er de kanskje ikke like optimale som dedikerte EV-plattformer som er designet fra bunnen av for e-mobilitet.
 
-{{< sitefiguresized thumb="technology/platforms/audiq8_1_st.jpg" width="3000" height="1999" title="Audi Q8 e-tron drivlina med dedikerad EV-skateboard och återanvändning av MLB-EVO-delar" >} }
+{{< sitefiguresized thumb="technology/platforms/audiq8_1_st.jpg" width="3000" height="1999" title="Audi Q8 e-tron drivverk med dedikert EV-skateboard og gjenbruk av MLB-EVO-deler" >}}
 
-{{< sitefiguresized thumb="technology/platforms/bmwix_1_st.jpg" width="3000" height="1688" title="BMW iX-drivlina med dedikerad EV-skateboard och viss återanvändning av BMW CLAR-delar" >}}
+{{< sitefiguresized thumb="technology/platforms/bmwix_1_st.jpg" width="3000" height="1688" title="BMW iX drivverk med dedikert EV-skateboard og noe gjenbruk av BMW CLAR-deler" >}}
 
-## Tillägnad
+## Dedikert
 
-Dedikerade plattformar är plattformar designade specifikt för rena elfordon. De kallas ofta skräddarsydda plattformar.
+Dedikerte plattformer er plattformer som er designet spesielt for rene elektriske kjøretøy. De kalles ofte skreddersydde plattformer.
 
-De erbjuder maximal designflexibilitet och optimering för e-mobilitet.
-De är också mer skalbara och anpassningsbara för framtida utveckling. Men de har också några utmaningar, till exempel:
+De tilbyr maksimal designfleksibilitet og optimalisering for e-mobilitet.
+De er også mer skalerbare og tilpasningsdyktige for fremtidig utvikling. Men de har også noen utfordringer, for eksempel:
 
-- Höga investeringar: Dedikerade plattformar kräver enorma initiala kostnader för forskning och utveckling, testning och validering och produktionsanläggningar.
-- Lång ledtid: Dedikerade plattformar tar längre tid att utveckla och lansera än eftermontering eller hybridplattformar.
-- Marknadsosäkerhet: Dedikerade plattformar kan möta risker från förändrade kundbehov eller regulatoriska riktlinjer.
+- Høy investering: Dedikerte plattformer krever enorme forhåndskostnader for forskning og utvikling, testing og validering og produksjonsanlegg.
+- Lang ledetid: Dedikerte plattformer tar lengre tid å utvikle og lansere enn ettermontering eller hybridplattformer.
+- Markedets usikkerhet: Dedikerte plattformer kan møte risiko fra endret kundebehov eller regulatoriske retningslinjer.
 
-Några exempel på elbilar som använder dedikerade plattformar är:
+Noen eksempler på elbiler som bruker dedikerte plattformer er:
 
-- Tesla Model S, Model 3, Model X, Model Y: Alla Tesla-modeller är byggda på Teslas egna dedikerade EV-plattformar, som kontinuerligt uppdateras och förbättras.
-- Lucid Air: Den första Lucid-modellen är byggd på Lucids LEAP-plattform, som påstår sig erbjuda branschledande prestanda, räckvidd, effektivitet och lyx.
-- Hyundai Ioniq 5: Den första Hyundai-modellen från undermärket Ioniq är byggd på Hyundais E-GMP-plattform, som utlovar snabb laddning, lång räckvidd, dubbelriktad strömförsörjning och hög prestanda.
-- Volkswagen ID.3 och ID.4: De första Volkswagen elbilarna är byggda på Volkswagens MEB-plattform.
+- Tesla Model S, Model 3, Model X, Model Y: Alle Tesla-modeller er bygget på Teslas egne dedikerte EV-plattformer, som kontinuerlig oppdateres og forbedres.
+- Lucid Air: Den første Lucid-modellen er bygget på Lucids LEAP-plattform, som hevder å tilby bransjeledende ytelse, rekkevidde, effektivitet og luksus.
+- Hyundai Ioniq 5: Den første Hyundai-modellen fra Ioniq-undermerket er bygget på Hyundais E-GMP-plattform, som lover rask lading, lang rekkevidde, toveis strømforsyning og høy ytelse.
+- Volkswagen ID.3 og ID.4: De første Volkswagen EV-ene er bygget på Volkswagens MEB-plattform.
 
-På grund av den höga kostnaden för att skapa en ny EV-plattform finns det flera exempel på delning mellan varumärken. Se exempel i plattformsöversikten i den sista delen av denna artikel.
-Nedan ser du exempel på användningen av den skalbara MEB-plattformen skapad av Volkswagen Group. När en EV-plattform är skalbar betyder det att den enkelt kan anpassas och modifieras för att passa olika typer av elfordon, som sedaner, stadsjeepar eller lastbilar. En skalbar EV-plattform tillåter biltillverkare att använda samma grundläggande struktur och komponenter för olika modeller och storlekar av elfordon, utan att behöva designa om chassit eller batteripaketet. Detta kan spara kostnader, minska utvecklingstiden och öka effektiviteten. En skalbar EV-plattform kan också justeras för att möta olika kunders preferenser och marknadskrav, såsom prestanda, räckvidd eller funktioner.
+På grunn av de høye kostnadene ved å lage en ny EV-plattform, er det flere eksempler på deling mellom merker. Se eksempler i plattformoversikten i siste del av denne artikkelen.
 
-{{< sitefiguresized thumb="technology/platforms/idbuzz_1_st.jpg" width="3000" height="1687" title="Volkswagen ID.Buzz med MEB dedikerad EV-plattform" >}}
+Nedenfor ser du eksempler på bruk av den skalerbare MEB-plattformen laget av Volkswagen-konsernet. Når en EV-plattform er skalerbar, betyr det at den enkelt kan tilpasses og modifiseres for å passe til forskjellige typer elektriske kjøretøy, for eksempel sedaner, SUV-er eller lastebiler. En skalerbar EV-plattform lar bilprodusenter bruke den samme grunnleggende strukturen og komponentene for ulike modeller og størrelser av elbiler, uten å måtte redesigne chassiset eller batteripakken. Dette kan spare kostnader, redusere utviklingstiden og øke effektiviteten. En skalerbar EV-plattform kan også justeres for å møte ulike kundepreferanser og markedskrav, som ytelse, rekkevidde eller funksjoner.
 
-{{< sitefiguresized thumb="technology/platforms/q4_1_st.jpg" width="3000" height="1903" title="Audi Q4 e-tron med MEB dedikerad EV-plattform" >}}
+{{< sitefiguresized thumb="technology/platforms/idbuzz_1_st.jpg" width="3000" height="1687" title="Volkswagen ID.Buzz med MEB dedikert EV-plattform" >}}
 
-Volkswagen arbetar på en ny plattform som heter SSP (Scalable Systems Platform). Denna plattform kommer att stödja allt
-Volkswagen-koncernens modeller i framtiden. [Läs mer på electrichasgoneaudi.net](https://electrichasgoneaudi.net/technology/bev-platforms/ssp/)
+{{< sitefiguresized thumb="technology/platforms/q4_1_st.jpg" width="3000" height="1903" title="Audi Q4 e-tron med MEB dedikert EV-plattform" >}}
 
-## Plattformsöversikt
+Volkswagen jobber med en ny plattform kalt SSP (Scalable Systems Platform). Denne plattformen vil understøtte alt
+Volkswagen-gruppens modeller i fremtiden. [Les mer på electrichasgoneaudi.net](https://electrichasgoneaudi.net/technology/bev-platforms/ssp/)
 
-Tabellen nedan visar de vanligaste EV-plattformarna som använts på modeller under de senaste åren.
+## Plattformoversikt
+
+Tabellen nedenfor viser de vanligste EV-plattformene brukt på modeller de siste årene.
 
 <table class="table table-striped">
     <thead>
