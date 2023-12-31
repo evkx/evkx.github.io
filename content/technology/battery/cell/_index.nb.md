@@ -94,4 +94,7 @@ Bladbatterier produseres primært av den kinesiske batteriprodusenten BYD.
 
 En av de viktigste sikkerhetsfunksjonene til bladbatterier er bruken av en keramisk separator mellom anode- og katodelagene i cellen. Denne keramiske separatoren er mer motstandsdyktig mot termisk løping og gir bedre beskyttelse mot interne kortslutninger, noe som reduserer risikoen for batteribranner og eksplosjoner.
 
-Fortsett til [Thermal Management](../thermalmanagement/) eller gå tilbake til [artikkeloversikten](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt <i class="bi-card-list"></i></a>
+    <a href="../thermalmanagement/" class="btn btn-primary float-end">Thermal Management <i class="bi-arrow-right-circle"></i></a>
+</div>

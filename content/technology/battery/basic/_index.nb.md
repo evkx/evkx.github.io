@@ -43,6 +43,7 @@ Hvis du vil gå til neste nivå, forstå hvordan et litiumionbatteri fungerer. S
 
 {{< youtube 4-1psMHSpKs >}}
 
-<br />
-
-Fortsett til [Cell chemistry and parts](../cellchemistry/) eller gå tilbake til [artikkeloversikten](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt<i class="bi-card-list"></i></a>
+    <a href="../cellchemistry/" class="btn btn-primary float-end">Cellekjemi og deler<i class="bi-arrow-right-circle"></i></a>
+</div>

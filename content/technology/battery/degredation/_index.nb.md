@@ -54,4 +54,7 @@ Tesla har i [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesl
 
 Les hvordan du bevarer batteriet i vår [guide](../../../guides/protectingbattery/).
 
-Fortsett til [buffer](../buffer/) eller gå tilbake til [artikkeloversikten](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt <i class="bi-card-list"></i></a>
+    <a href="../buffer/" class="btn btn-primary float-end">Buffer <i class="bi-arrow-right-circle"></i></a>
+</div>

@@ -82,4 +82,7 @@ EVKX.net anser att detta är dålig praxis från tillverkarnas sida.
 
 Se Bjørns testresultat för <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">mer data</a> eller alla hans <a> = "_blank">mer data</a> ="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Zero Miles-tester</a>
 
-Fortsätt till [tillverkare](../manufactors/) eller gå tillbaka till [artikelöversikt](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
+    <a href="../manufactors/" class="btn btn-primary float-end">Tillverkare <i class="bi-arrow-right-circle"></i></a>
+</div>

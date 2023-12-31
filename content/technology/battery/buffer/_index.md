@@ -83,4 +83,7 @@ EVKX.net believes this is a bad practice from the manufacturers.
 
 See Bjørns test results for <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">more data</a> or all his <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Zero Miles Tests</a>
 
-Continue to [manufacturers](../manufactors/) or go back to the [article overview](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
+    <a href="../manufactors/" class="btn btn-primary float-end">Manufacturers <i class="bi-arrow-right-circle"></i></a>
+</div>

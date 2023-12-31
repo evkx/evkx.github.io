@@ -43,5 +43,7 @@ In addition many just buy cells from cell producers and create the battery itsel
 
 [For a full list of cell producers see Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
 
-
-Continue to [warranty](../warranty/) or go back to the [article overview](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
+    <a href="../warranty/" class="btn btn-primary float-end">Warranty <i class="bi-arrow-right-circle"></i></a>
+</div>

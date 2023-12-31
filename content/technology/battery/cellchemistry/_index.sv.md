@@ -161,4 +161,7 @@ I till exempel en litiumjonbattericell är strömavtagaren vanligtvis gjord av k
 
 Designen och materialen som används för strömavtagaren kan ha en betydande inverkan på battericellens prestanda och hållbarhet. Till exempel kan en strömavtagare med hög ledningsförmåga och lågt motstånd bidra till att förbättra battericellens effektivitet, medan en strömavtagare som är utsatt för korrosion kan minska cellens livslängd.
 
-Fortsätt till [cellhus](../cell/) eller återgå till [artikelöversikt](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
+    <a href="../cell/" class="btn btn-primary float-end">Cellehus <i class="bi-arrow-right-circle"></i></a>
+</div>

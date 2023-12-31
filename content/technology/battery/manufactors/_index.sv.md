@@ -42,5 +42,7 @@ Dessutom köper många helt enkelt celler från celltillverkare och tillverkar b
 
 [För en komplett lista över celltillverkare se Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
 
-
-Fortsätt till [warranty](../warranty/) eller gå tillbaka till [artikelöversikt](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
+    <a href="../warranty/" class="btn btn-primary float-end">Garranti <i class="bi-arrow-right-circle"></i></a>
+</div>

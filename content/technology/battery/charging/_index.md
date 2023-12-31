@@ -85,4 +85,7 @@ On longer trips, the charging curve may affect the optimum charging stop. For ex
 
 For all models, EVKX calculates this for you on the model info page.
 
-Continue to [degredation](../degredation/) or go back to the [article overview](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
+    <a href="../degredation/" class="btn btn-primary float-end">Degredation <i class="bi-arrow-right-circle"></i></a>
+</div>

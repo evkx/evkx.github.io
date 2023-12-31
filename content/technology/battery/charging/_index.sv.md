@@ -83,4 +83,7 @@ Vid längre resor kan laddningskurvan påverka det optimala laddningsstoppet. En
 
 För alla modeller beräknar EVKX detta åt dig på modellinfosidan.
 
-Fortsätt till [degredation](../degredation/) eller återgå till [artikelöversikt](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
+    <a href="../degredation/" class="btn btn-primary float-end">Degredation <i class="bi-arrow-right-circle"></i></a>
+</div>

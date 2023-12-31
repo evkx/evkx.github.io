@@ -175,5 +175,7 @@ In the below video the Battery Scientist & Engineer [Jill Pestana](https://www.l
 
 {{< youtube yyp-GydAHfM >}}
 
-
-Continue to [cell housing](../cell/) or go back to the [article overview](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
+    <a href="../cell/" class="btn btn-primary float-end">Cell housing <i class="bi-arrow-right-circle"></i></a>
+</div>

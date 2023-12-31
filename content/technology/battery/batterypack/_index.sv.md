@@ -278,5 +278,7 @@ Tabellen nedenfor viser hvordan pakketettheten har variert over tid mellom noen 
 
 För detaljer om flera paket rekommenderar vi <a href="https://www.batterydesign.net/maximising-pack-energy-density/">BatteryDesign.net</a>
 
-
-Fortsätt läsa om [Battery Management System](../batterymanagment/) eller gå tillbaka till [artikelöversikt](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
+    <a href="../batterymanagment/" class="btn btn-primary float-end">Battery Mangement System <i class="bi-arrow-right-circle"></i></a>
+</div>

@@ -95,4 +95,7 @@ Blade batteries are primarily produced by the Chinese battery manufacturer BYD.
 
 One of the key safety features of blade batteries is the use of a ceramic separator between the anode and cathode layers of the cell. This ceramic separator is more resistant to thermal runaway and provides better protection against internal short circuits, reducing the risk of battery fires and explosions.
 
-Continue to [Thermal Management](../thermalmanagement/) or go back to the [article overview](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
+    <a href="../thermalmanagement/" class="btn btn-primary float-end">Thermal Management <i class="bi-arrow-right-circle"></i></a>
+</div>

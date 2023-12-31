@@ -16,4 +16,8 @@ Imidlertid er høyspenningsbatteriets ladenivå bare 96 %. Balansering gjør at 
 
 For å gjøre dette sammenligner batterireguleringskontrollenheten spenningene til cellegruppene. Hvis cellegrupper har høy cellespenning, mottar den ansvarlige batterimodulens kontrollenhet balanseringsinformasjonen. Balansering utføres når spenningsforskjeller på større enn ca. 1 % oppstår når høyspentbatteriet lades. Etter at tenningen er slått av, kontrollerer batterireguleringsenheten om balansering er nødvendig og utløser den om nødvendig. Typisk balansering utføres ved ladenivåer over 30 %.
 
-Fortsett til [charging](../charging/) eller gå tilbake til [artikkeloversikten](../).
+<div class="mt-3 mb-3">
+    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt <i class="bi-card-list"></i></a>
+    <a href="../charging/" class="btn btn-primary float-end">Lading <i class="bi-arrow-right-circle"></i></a>
+</div>
+
