@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-a41cafab
+  translation: BYD Seal RWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 520 km. EVKX.net har alle detaljene. 
+
 - id: frontpage-description-6dae8dd0
   translation: Fisker Ocean Sport er en helelektrisk SUV med en WLTP rekkevidde på opptil 464 km. EVKX.net har alle detaljene. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-50bcf160
   translation: Genesis Electrified GV70 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene. 
-
-- id: frontpage-description-65c52c8e
-  translation: Genesis GV60 2WD er en helelektrisk SUV med en WLTP rekkevidde på opptil 517 km. EVKX.net har alle detaljene. 
 

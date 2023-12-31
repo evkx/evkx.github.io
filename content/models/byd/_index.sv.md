@@ -58,7 +58,7 @@ BYD Han är en sedan som finns i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-BYD Seal är en sedan som finns i 1 varianter.
+BYD Seal är en sedan som finns i 2 varianter.
 </p>
 	<a href="seal/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

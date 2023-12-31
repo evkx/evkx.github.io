@@ -167,7 +167,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
-	BYD har 5 modell(er) med totalt 5 varianter. 
+	BYD har 5 modell(er) med totalt 6 varianter. 
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Gå til BYD modelloversikt</a>
 </div>

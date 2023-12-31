@@ -58,7 +58,7 @@ BYD Han is a sedan available in 1 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-BYD Seal is a sedan available in 1 variants.
+BYD Seal is a sedan available in 2 variants.
 </p>
 	<a href="seal/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

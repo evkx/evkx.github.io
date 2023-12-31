@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-a41cafab
+  translation: BYD Seal RWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details. 
+
 - id: frontpage-description-6dae8dd0
   translation: Fisker Ocean Sport is an all-electric SUV with a WLTP range of up to 464 km (288 miles). EVKX.net has all the details. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-50bcf160
   translation: Genesis Electrified GV70 is an all-electric premium SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. 
-
-- id: frontpage-description-65c52c8e
-  translation: Genesis GV60 2WD is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net has all the details. 
 
