@@ -86,7 +86,7 @@ EV-tillverkare som BWM och Lexus har introducerat infraröd uppvärmning för at
 
 På Lexus RZ450 använder panelerna installerade under rattstången och den vänstra sidan av instrumentpanelen infraröd uppvärmning för att värma föraren och framsätespassagerarens ben direkt. Att endast tillhandahålla värme där det behövs minskar belastningen på luftkonditioneringssystemet och hjälper till att bevara fordonets räckvidd. Jämfört med ett vanligt klimatsystem minskar energiförbrukningen med cirka åtta procent.
 
-{{< sitefiguresized thumb="technology/hvac/lexusradianheating_1_st.jpg" width="2560" height="1804" title="Lexus RZ450 strålningsuppvärmning" >}}
+{{< sitefiguresized thumb="technology/hvac/lexusradiantheating_1_st.jpg" width="2560" height="1804" title="Lexus RZ450 strålningsuppvärmning" >}}
 
 ## Ytvärme
 

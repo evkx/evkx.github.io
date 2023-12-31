@@ -185,7 +185,7 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 360 liter. Med baksätet nere är det 1231 liter. Bilens maximala vikt är 2025 kg, och med basvikten på 1520 kg kan du lasta maximalt 505 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 360 liter. Med baksätet nedfällt är det 1231 liter. Bilens maximala vikt är 2025 kg, och med basvikten på 1520 kg kan du lasta maximalt 505 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 

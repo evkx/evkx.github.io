@@ -209,7 +209,7 @@ Med Ford BlueCruise  nivå 2-systemet får du följande körautomatiseringsfunkt
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 402 liter. Med baksätet nere är det 1420 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 100 liter. Bilens maximala vikt är 2640 kg, och med basvikten på 2063 kg kan du lasta maximalt 577 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 402 liter. Med baksätet nedfällt är det 1420 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 100 liter. Bilens maximala vikt är 2640 kg, och med basvikten på 2063 kg kan du lasta maximalt 577 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
 

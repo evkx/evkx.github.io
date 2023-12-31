@@ -218,7 +218,7 @@ Med ADAS  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 700 liter. Med baksätet nere är det 3170 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 226 liter. Bilens maximala vikt är 3280 kg, och med basvikten på 2500 kg kan du lasta maximalt 780 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 700 liter. Med baksätet nedfällt är det 3170 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 226 liter. Bilens maximala vikt är 3280 kg, och med basvikten på 2500 kg kan du lasta maximalt 780 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2700, och på en obromsad är den 750 kg.
 

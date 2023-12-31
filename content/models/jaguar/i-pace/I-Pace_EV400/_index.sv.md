@@ -220,7 +220,7 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 505 liter. Med baksätet nere är det 1163 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 27 liter.
+Lastkapaciteten i bagageutrymmet är 505 liter. Med baksätet nedfällt är det 1163 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 27 liter.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
 

@@ -190,7 +190,7 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 863 liter. Med baksätet nere är det 1676 liter.
+Lastkapaciteten i bagageutrymmet är 863 liter. Med baksätet nedfällt är det 1676 liter.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1588, och på en obromsad är den 750 kg.
 

@@ -214,7 +214,7 @@ Med ProPILOT  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 440 liter. Med baksätet nere är det 1332 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2158 kg, och med basvikten på 1636 kg kan du lasta maximalt 522 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 440 liter. Med baksätet nedfällt är det 1332 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2158 kg, och med basvikten på 1636 kg kan du lasta maximalt 522 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 900, och på en obromsad är den 750 kg.
 

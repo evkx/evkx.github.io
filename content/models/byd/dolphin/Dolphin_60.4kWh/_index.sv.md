@@ -215,7 +215,7 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 345 liter. Med baksätet nere är det 1310 liter. På taket kan du lasta upp till 50 kg. Bilens maximala vikt är 2068 kg, och med basvikten på 1683 kg kan du lasta maximalt 385 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 345 liter. Med baksätet nedfällt är det 1310 liter. På taket kan du lasta upp till 50 kg. Bilens maximala vikt är 2068 kg, och med basvikten på 1683 kg kan du lasta maximalt 385 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 0, och på en obromsad är den 0 kg.
 

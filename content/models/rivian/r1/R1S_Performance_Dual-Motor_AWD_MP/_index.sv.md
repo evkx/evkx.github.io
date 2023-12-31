@@ -205,7 +205,7 @@ Med Driver+  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 498 liter. Med baksätet nere är det 2965 liter. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter.
+Lastkapaciteten i bagageutrymmet är 498 liter. Med baksätet nedfällt är det 2965 liter. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3500, och på en obromsad är den 750 kg.
 

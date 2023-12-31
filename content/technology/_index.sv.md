@@ -1,16 +1,16 @@
 ---
 title: Elbilsteknik
 linktitle: Elbilsteknik
-description: Elbilar byggs med hjälp av olika tekniker för att fungera, inklusive elmotorer, batterier, avancerade förarassistanssystem (ADAS), fjädringssystem och säkerhetsfunktioner.
+description: Elbilar byggs med hjälp av olika teknologier för att förbättra, inklusive elmotorer, batterier, avancerade förarassistanssystem (ADAS), fjädringssystem och säkerhetsfunktioner.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-Detta teknikavsnitt kommer att fördjupa sig i de olika teknikerna som driver elbilar och förklara hur de fungerar och deras fördelar och begränsningar.
+Detta teknikavsnitt kommer att utforska de olika teknologierna som driver elbilar och förklara hur de fungerar och deras fördelar och begränsningar.
 
-Att gå igenom varje underavsnitt kommer att ge dig en omfattande förståelse för den teknik som driver framtidens transporter.
+Att gå igenom varje delavsnitt kommer att ge dig en omfattande förståelse för den teknik som driver framtidens transporter.
 
-Teknikartiklarna vänder sig till alla som vill lära sig mer om elbilsteknik, från den potentiella elbilsägaren som vill förstå hur saker fungerar, till säljare som vill veta hur elbilar fungerar.
+Teknikartiklarna vänder sig till alla som vill lära sig mer om elbilsteknik, från den potentiella elbilsägaren som vill förstå hur saker fungerar, till återförsäljare som vill veta hur elbilar fungerar.
 
 Klicka på direktlänken nedan eller scrolla ner för en introduktion till varje avsnitt.
 
@@ -18,7 +18,7 @@ Klicka på direktlänken nedan eller scrolla ner för en introduktion till varje
 - [Bromsar](brakes/)
 - [Laddning](charging/)
 - [Luftkonditioneringssystem](hvac/)
-- [Lastnings- och bogseringsalternativ](cargoandtowing/)
+- [Lastnings- och trailermöjligheterr](cargoandtowing/)
 - [Dörrar](doors/)
 - [Elbil batterier](battery/)
 - [Elbilsplattformar](platforms/)

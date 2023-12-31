@@ -241,6 +241,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du fler körautomatiseringsfu
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 310 liter. Med baksätet nere är det 1901 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3099 kg, och med basvikten på 2440 kg kan du lasta maximalt 659 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 310 liter. Med baksätet nedfällt är det 1901 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3099 kg, och med basvikten på 2440 kg kan du lasta maximalt 659 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.
