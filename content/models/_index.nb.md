@@ -463,7 +463,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
-	Volkswagen har 5 modell(er) med totalt 14 varianter. 
+	Volkswagen har 5 modell(er) med totalt 15 varianter. 
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Gå til Volkswagen modelloversikt</a>
 </div>
