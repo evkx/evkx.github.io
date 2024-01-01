@@ -9,6 +9,20 @@ weight: 30
 
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<h3> XPENG G3</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="g3"><img src="https://media.evkx.net/multimedia/models/xpeng/g3/g3i/main_1_st.jpeg" class="img-fluid" alt="XPENG G3" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+XPENG G3 er en crossover tilgjengelig i 1 varianter.
+</p>
+	<a href="g3/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> XPENG G9</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

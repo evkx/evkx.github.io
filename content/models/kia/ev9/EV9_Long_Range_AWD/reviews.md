@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Kia EV9 Will Be A Great Road Tripper! 10% Challenge w/ This Electric SUV (GT-Line 99.8kWh)</h3>
+<p>Out of Spec Reviews: 31.12.2023</p>
+
+{{< youtube 2GHbMgIJ4o0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Drove So Far Below 0% In This Kia EV9 70-MPH Highway Range Test! GT-Line AWD 99.8kWh</h3>
 <p>Out of Spec Reviews: 30.12.2023</p>
 

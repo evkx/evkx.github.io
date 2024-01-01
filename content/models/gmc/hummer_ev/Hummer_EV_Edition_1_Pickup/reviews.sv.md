@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>GMC Hummer EV Review: 1000 BHP Cybertruck Rival Tested</h3>
+<p>Top Gear: 31.12.2023</p>
+
+{{< youtube 44Pjl9-JPgs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The Hummer EV Is Even More Insane Than You Think</h3>
 <p>Fully Charged Show: 03.01.2023</p>
 
