@@ -133,7 +133,7 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 En typ av ljudsystem är tillgänglig för XPENG G3i. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
 
-
+Modellen har 4 USB-A-anslutningar som standard.
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -164,6 +164,6 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 380 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2080 kg, och med basvikten på 1630 kg kan du lasta maximalt 450 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmets kapacitet är 380 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2110 kg, och med basvikten på 1660 kg kan du lasta maximalt 450 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.

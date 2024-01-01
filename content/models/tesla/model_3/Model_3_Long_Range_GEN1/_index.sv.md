@@ -59,7 +59,7 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 
 ## Drivlina
 
-Tesla Model 3 Long Range (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bakaxeln.
+Tesla Model 3 Long Range (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
 Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 133 mm.
 

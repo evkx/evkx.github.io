@@ -133,7 +133,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 Én type lydsystem er tilgjengelig for XPENG G3i. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
-
+Modellen har 4 USB-A-tilkoblinger som standard.
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
@@ -164,6 +164,6 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 380 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2080 kg, og med basisvekten på 1630 kg kan du maksimalt laste 450 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 380 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2110 kg, og med basisvekten på 1660 kg kan du maksimalt laste 450 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.

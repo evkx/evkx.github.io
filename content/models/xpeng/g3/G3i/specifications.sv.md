@@ -226,7 +226,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CurbWeight
 			</td>
 			<td>
-				1630 kg
+				1660 kg
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2080 kg
+				2110 kg
 			</td>
 		</tr>
 		<tr>

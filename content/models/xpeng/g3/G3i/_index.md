@@ -133,7 +133,7 @@ This model is equipped with voice control as standard. The voice control lets yo
 
 One type of sound system is available for the XPENG G3i. With the , you get NULL speakers with a max system output of  watts.
 
-
+The model has 4 USB-A connections as standard.
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -164,6 +164,6 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 380 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2080 kg (4586 lbs), and with the base weight of 1630 kg (3594 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 380 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1660 kg (3660 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
