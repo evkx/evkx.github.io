@@ -35,7 +35,7 @@ The XPENG X9 AWD Performance has a maximum power of 370 KW (503 hp/496 bhp). The
 
 The battery has a gross capacity of 101,5kWh and a net capacity of 98kWh, meaning you have a 3,5kWh buffer for protection. (3,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [CLTC range](../../../../guides/understandingrange/cltc/) is 640 km ( miles). The consumption is 15.3kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 52 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 60%, resulting in an actual charge speed, including time loss, of 171kW. Each charge session would take 18 minutes and 12 seconds.
 
@@ -47,7 +47,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW c
 
 ### Charge port
 
-The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 

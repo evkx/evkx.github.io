@@ -22,3 +22,10 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 {{< youtube bJNtI19qoNI >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3></h3>
+<p>MAD EV: 23.12.2023</p>
+
+{{< youtube Y_t7Ar8vKgs >}}
+
+</div>
