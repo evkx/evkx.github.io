@@ -33,15 +33,15 @@ XPENG X9 AWD Performance har en maximal effekt på 370 KW (503hk). Totalt vridmo
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 101,5kWh och en nettokapacitet på kWh, vilket innebär att du har en 0kWh buffert för skydd. (0,0%).
+Batteriet har en bruttokapacitet på 101,5kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 3,5kWh buffert för skydd. (3,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar  minuter, medan ett vanligare scenario på 10-80 % tar  minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 100%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 0kW. Varje laddningssession tar 0 minuter och 0 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 52 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 171kW. Varje laddningssession tar 18 minuter och 12 sekunder.
 
 ### Inbyggd laddare
 
-
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 54 minuter.
 
 ### Laddningsport
 
@@ -89,6 +89,16 @@ Endast en typ av framsäte är tillgänglig i XPENG X9 AWD Performance.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- elektrisk justering
+- höjdjusterbart nackstöd
+- längdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#heating)
+- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
+- [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
 <br />
@@ -148,7 +158,7 @@ En typ av ljudsystem är tillgänglig för XPENG X9 AWD Performance. Med  får d
 
 ## Ljus
 
-
+Standardlamporna använder LED-teknik. LED
 ## Avancerade förarassistanssystem
 
 XPENG X9 AWD Performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
@@ -156,11 +166,33 @@ XPENG X9 AWD Performance har flera standard- och valfria [avancerade förarassis
 
 
 
+XPENG X9 AWD Performance har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+
+XPENG X9 AWD Performance har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+
+XPENG X9 AWD Performance har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är standard förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+
+XPENG X9 AWD Performance har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+
+[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är standard förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
+
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+
+[**Utfartsvarning**](../../../../technology/driverassistance/exitwarning/) är standard förarassistanssystem utformat för att varna passagerare från att öppna dörrar om det finns risk att träffa något.
+
 ### Körautomation
 
 
 
-Med standardsystemet erbjuder modellen ingen körautomatisering.
+Med XPILOT  nivå 2-systemet får du följande körautomatiseringsfunktioner.
+- [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
 {{<evkxdisplayaddarticle />}}

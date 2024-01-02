@@ -105,6 +105,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				101,5 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nettobatterikapacitet
+			</td>
+			<td>
+				98 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC811
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -162,6 +178,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				0,223
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -335,7 +359,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -343,7 +367,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minnesförarsäte
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -351,7 +375,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Memory Passenger Seat
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -359,7 +383,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -367,7 +391,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -375,7 +399,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbart lårstöd
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +423,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +447,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +455,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sätesventilation
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +463,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Massagefunktion
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 	</tbody>
@@ -577,6 +601,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Körfältshållning
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -584,6 +609,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Lane departure warning
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -591,6 +617,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sömnighetsvarning
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -598,6 +625,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				ReversingCamera
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -605,6 +633,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				360-kamera
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -619,6 +648,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Parkeringssensorer bak
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -626,6 +656,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Parkeringssensorer fram
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -633,6 +664,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sidoparkeringssensorer
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -647,6 +679,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Hill starthjälp
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +687,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -661,6 +695,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Automatisk nödbromsning
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -668,6 +703,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bromsassistent
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -675,6 +711,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Traction Control
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -689,6 +726,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -696,6 +734,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -703,6 +742,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Temperature Warning
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -710,6 +750,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Cross traffic assist
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -717,6 +758,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Hastighetsbegränsare
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -731,6 +773,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Automatisk nödstyrning
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -738,6 +781,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Traffic Sign Recognition
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -745,6 +789,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nattseende
 			</td>
 			<td>
+				Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

@@ -105,6 +105,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				101,5 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/buffer/">Battery net</a>
+			</td>
+			<td>
+				98 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC811
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -162,6 +178,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				0,223
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				10,8 meter (425,2")
 			</td>
 		</tr>
 	</tbody>
@@ -335,7 +359,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -343,7 +367,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -351,7 +375,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -359,7 +383,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -367,7 +391,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -375,7 +399,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +423,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +447,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +455,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +463,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 	</tbody>
@@ -577,6 +601,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/lanekeepingassist/">Lane keeping</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -584,6 +609,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/lanedeparturewarning/">Lane departure warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -591,6 +617,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -598,6 +625,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/cameras/">Reversing camera</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -605,6 +633,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -619,6 +648,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -626,6 +656,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -633,6 +664,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -647,6 +679,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Hill start assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +687,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -661,6 +695,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -668,6 +703,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Brake assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -675,6 +711,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Traction control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -689,6 +726,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -696,6 +734,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="Electronic stability control">Electronic stability control</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -703,6 +742,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="Temperature warning">Temperature warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -710,6 +750,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -717,6 +758,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Speed limiter
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -731,6 +773,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -738,6 +781,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -745,6 +789,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 	</tbody>

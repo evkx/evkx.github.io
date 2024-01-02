@@ -33,15 +33,15 @@ The XPENG X9 AWD Performance has a maximum power of 370 KW (503 hp/496 bhp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 101,5kWh and a net capacity of kWh, meaning you have a 0kWh buffer for protection. (0,0%).
+The battery has a gross capacity of 101,5kWh and a net capacity of 98kWh, meaning you have a 3,5kWh buffer for protection. (3,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take  minutes, while a more common scenario of 10-80% would take  minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 100%, resulting in an actual charge speed, including time loss, of 0kW. Each charge session would take 0 minutes and 0 seconds.
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 52 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 60%, resulting in an actual charge speed, including time loss, of 171kW. Each charge session would take 18 minutes and 12 seconds.
 
 ### Onboard charger
 
-
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 54 minutes.
 
 ### Charge port
 
@@ -89,6 +89,16 @@ Only one front seat type is available in the XPENG X9 AWD Performance.
 
 The following functionalities are available on the **** seat.
 
+- electric adjustment
+- height adjustable headrest
+- length adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 1 different materials/colors for this seat type.<br />
 <br />
@@ -148,7 +158,7 @@ One type of sound system is available for the XPENG X9 AWD Performance. With the
 
 ## Lights
 
-
+The standard headlights use LED technology. LED
 ## Advanced driver assistance systems
 
 The XPENG X9 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -156,11 +166,33 @@ The XPENG X9 AWD Performance has several standard and optional [advanced driver 
 
 
 
+The XPENG X9 AWD Performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The XPENG X9 AWD Performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+
+The XPENG X9 AWD Performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
+
+The XPENG X9 AWD Performance has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
+
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 
 
-With the standard system the model offers no driving automation.
+With the XPILOT  level 2 system, you get the following driving automation features.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 
 
 {{<evkxdisplayaddarticle />}}
