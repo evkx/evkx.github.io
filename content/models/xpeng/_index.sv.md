@@ -50,3 +50,17 @@ XPENG P7 är en sedan som finns i 1 varianter.
 		</div>
 	</div>
 </div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<h3> XPENG X9</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="x9"><img src="https://media.evkx.net/multimedia/models/xpeng/x9/x9_awd_performance/main_1_st.jpg" class="img-fluid" alt="XPENG X9" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+modelintro.MPV.Mid
+</p>
+	<a href="x9/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
+		</div>
+	</div>
+</div>
