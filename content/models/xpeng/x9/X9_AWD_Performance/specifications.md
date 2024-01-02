@@ -407,7 +407,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +415,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +431,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>

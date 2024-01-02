@@ -1,7 +1,7 @@
 ---
 title: XPENG X9 AWD Performance
 linktitle: "X9 AWD Performance"
-description: "XPENG X9 AWD Performance is an all-electric MPV with a WLTP range of up to N/A km (0 miles). EVKX.net has all the details. "
+description: "XPENG X9 AWD Performance is an all-electric MPV with a CLTC range of up to 640 km (398 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -67,9 +67,11 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 You can choose between 1 different paint colors when ordering this model.
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
+
 
 There is only one roof for this model.
+
+The windows from B-pillar and back are tinted.
 
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
@@ -99,6 +101,7 @@ The following functionalities are available on the **** seat.
 - [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
+- [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 You can choose from 1 different materials/colors for this seat type.<br />
 <br />
@@ -191,6 +194,7 @@ The XPENG X9 AWD Performance has [**automatic emergency braking**](../../../../t
 With the XPILOT  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- Advance cruise control that follows navigation and turns off and on major roads to reach the target. 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
 

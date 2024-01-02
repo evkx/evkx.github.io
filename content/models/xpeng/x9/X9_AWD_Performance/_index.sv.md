@@ -1,7 +1,7 @@
 ---
 title: XPENG X9 AWD Performance
 linktitle: "X9 AWD Performance"
-description: "XPENG X9 AWD Performance är en helelektrisk MPV med en räckvidd på WLTP på upp till N/A km. EVKX.net har alla detaljer."
+description: "XPENG X9 AWD Performance är en helelektrisk MPV med en räckvidd på CLTC på upp till 640 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -67,9 +67,11 @@ Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan
 
 Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
-Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
+
 
 Det finns bara ett tak för denna modell.
+
+B-stolpen och vyerna bak är tonade.
 
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
@@ -99,6 +101,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
+- [fotstöd för passagerare](../../../../technology/seats/adjustment/#footrest)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
 <br />
@@ -191,6 +194,7 @@ XPENG X9 AWD Performance har [**automatisk nödbroms**](../../../../technology/d
 Med XPILOT  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- Avancerad farthållare som följer navigeringen och slår på och av huvudvägarna för att nå destinationen. 
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/) 
 

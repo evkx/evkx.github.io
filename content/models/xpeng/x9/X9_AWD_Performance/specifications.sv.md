@@ -407,7 +407,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Ryggstödsjustering
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +415,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +431,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Fotstödspassagerare
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

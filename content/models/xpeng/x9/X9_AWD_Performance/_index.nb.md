@@ -1,7 +1,7 @@
 ---
 title: XPENG X9 AWD Performance
 linktitle: "X9 AWD Performance"
-description: "XPENG X9 AWD Performance er en helelektrisk MPV med en WLTP rekkevidde på opptil N/A km. EVKX.net har alle detaljene. "
+description: "XPENG X9 AWD Performance er en helelektrisk MPV med en CLTC rekkevidde på opptil 640 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -67,9 +67,11 @@ Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping
 
 Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
+
 
 Det er bare ett tak for denne modellen.
+
+Vutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
@@ -99,6 +101,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
+- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
 <br />
@@ -191,6 +194,7 @@ XPENG X9 AWD Performance har [**automatisk nødbremsing**](../../../../technolog
 Med XPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet. 
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
 
