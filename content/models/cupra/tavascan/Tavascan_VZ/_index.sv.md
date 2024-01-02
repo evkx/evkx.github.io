@@ -1,7 +1,7 @@
 ---
 title: CUPRA Tavascan VZ
 linktitle: "Tavascan VZ"
-description: "CUPRA Tavascan VZ är en helelektrisk SUV med en räckvidd på WLTP på upp till 517 km. EVKX.net har alla detaljer."
+description: "CUPRA Tavascan VZ är en helelektrisk SUV med en WLTP räckvidd på upp till 517 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

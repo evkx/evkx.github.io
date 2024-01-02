@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQB 350 4MATIC
 linktitle: "EQB 350 4MATIC"
-description: "Mercedes-EQ EQB 350 4MATIC är en helelektrisk premium-SUV med en räckvidd på WLTP på upp till 423 km. EVKX.net har alla detaljer."
+description: "Mercedes-EQ EQB 350 4MATIC är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 423 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

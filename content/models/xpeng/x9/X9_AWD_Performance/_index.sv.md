@@ -1,7 +1,7 @@
 ---
 title: XPENG X9 AWD Performance
 linktitle: "X9 AWD Performance"
-description: "XPENG X9 AWD Performance är en helelektrisk MPV med en räckvidd på CLTC på upp till 640 km. EVKX.net har alla detaljer."
+description: "XPENG X9 AWD Performance är en helelektrisk MPV med en CLTC räckvidd på upp till 640 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Ultra
 linktitle: "Ocean Ultra"
-description: "Fisker Ocean Ultra är en helelektrisk SUV med en räckvidd på WLTP på upp till 690 km. EVKX.net har alla detaljer."
+description: "Fisker Ocean Ultra är en helelektrisk SUV med en WLTP räckvidd på upp till 690 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

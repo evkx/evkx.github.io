@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ
 linktitle: "ESCALADE IQ"
-description: "Cadillac ESCALADE IQ är en helelektrisk SUV med en räckvidd på EPA på upp till 724 km. EVKX.net har alla detaljer."
+description: "Cadillac ESCALADE IQ är en helelektrisk SUV med en EPA räckvidd på upp till 724 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

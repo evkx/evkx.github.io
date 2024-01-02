@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Blazer EV SS
 linktitle: "Blazer EV SS"
-description: "Chevrolet Blazer EV SS är en helelektrisk SUV med en räckvidd på EPA på upp till 467 km. EVKX.net har alla detaljer."
+description: "Chevrolet Blazer EV SS är en helelektrisk SUV med en EPA räckvidd på upp till 467 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

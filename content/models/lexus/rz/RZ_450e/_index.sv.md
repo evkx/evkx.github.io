@@ -1,7 +1,7 @@
 ---
 title: Lexus RZ 450e
 linktitle: "RZ 450e"
-description: "Lexus RZ 450e är en helelektrisk SUV med en räckvidd på WLTP på upp till 440 km. EVKX.net har alla detaljer."
+description: "Lexus RZ 450e är en helelektrisk SUV med en WLTP räckvidd på upp till 440 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

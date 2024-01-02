@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Dream Edition
 linktitle: "Gravity Dream Edition"
-description: "Lucid Gravity Dream Edition är en helelektrisk SUV med en räckvidd på EPA på upp till 708 km. EVKX.net har alla detaljer."
+description: "Lucid Gravity Dream Edition är en helelektrisk SUV med en EPA räckvidd på upp till 708 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

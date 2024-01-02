@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 45 e-tron quattro (GEN1)
 linktitle: "Q4 45 e-tron quattro GEN1"
-description: "Audi Q4 45 e-tron quattro (GEN1) är en helelektrisk premium-SUV med en räckvidd på WLTP på upp till 512 km. EVKX.net har alla detaljer."
+description: "Audi Q4 45 e-tron quattro (GEN1) är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 512 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

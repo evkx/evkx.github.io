@@ -1,7 +1,7 @@
 ---
 title: Cadillac LYRIQ AWD
 linktitle: "LYRIQ AWD"
-description: "Cadillac LYRIQ AWD är en helelektrisk SUV med en räckvidd på EPA på upp till 494 km. EVKX.net har alla detaljer."
+description: "Cadillac LYRIQ AWD är en helelektrisk SUV med en EPA räckvidd på upp till 494 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

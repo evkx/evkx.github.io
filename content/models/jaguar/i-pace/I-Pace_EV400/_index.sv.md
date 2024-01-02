@@ -1,7 +1,7 @@
 ---
 title: Jaguar I-Pace EV400
 linktitle: "I-Pace EV400"
-description: "Jaguar I-Pace EV400 är en helelektrisk premium-SUV med en räckvidd på WLTP på upp till 470 km. EVKX.net har alla detaljer."
+description: "Jaguar I-Pace EV400 är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 470 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

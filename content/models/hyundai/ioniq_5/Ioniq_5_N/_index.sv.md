@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 N
 linktitle: "Ioniq 5 N"
-description: "Hyundai Ioniq 5 N är en helelektrisk SUV med en räckvidd på WLTP på upp till 450 km. EVKX.net har alla detaljer."
+description: "Hyundai Ioniq 5 N är en helelektrisk SUV med en WLTP räckvidd på upp till 450 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

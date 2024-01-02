@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 xDrive30
 linktitle: "iX1 xDrive30"
-description: "BMW iX1 xDrive30 är en helelektrisk premium-SUV med en räckvidd på WLTP på upp till 440 km. EVKX.net har alla detaljer."
+description: "BMW iX1 xDrive30 är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 440 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

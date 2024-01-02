@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ RS iV
 linktitle: "ENYAQ RS iV"
-description: "SKODA ENYAQ RS iV är en helelektrisk SUV med en räckvidd på WLTP på upp till 514 km. EVKX.net har alla detaljer."
+description: "SKODA ENYAQ RS iV är en helelektrisk SUV med en WLTP räckvidd på upp till 514 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

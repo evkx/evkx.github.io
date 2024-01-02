@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD
 linktitle: "bZ4X AWD"
-description: "Toyota bZ4X AWD är en helelektrisk SUV med en räckvidd på WLTP på upp till 470 km. EVKX.net har alla detaljer."
+description: "Toyota bZ4X AWD är en helelektrisk SUV med en WLTP räckvidd på upp till 470 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

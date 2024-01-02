@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 AWD Performance
 linktitle: "G9 AWD Performance"
-description: "XPENG G9 AWD Performance är en helelektrisk SUV med en räckvidd på WLTP på upp till 520 km. EVKX.net har alla detaljer."
+description: "XPENG G9 AWD Performance är en helelektrisk SUV med en WLTP räckvidd på upp till 520 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
