@@ -331,6 +331,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Interiör
 
+Interior.Seatlayout.OnlySix
 
 ### Framsäten
 

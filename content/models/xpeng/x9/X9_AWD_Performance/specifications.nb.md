@@ -331,6 +331,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Interiør
 
+Interior.Seatlayout.OnlySix
 
 ### Forseter
 

@@ -331,6 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+Interior.Seatlayout.OnlySix
 
 ### Front seats
 
