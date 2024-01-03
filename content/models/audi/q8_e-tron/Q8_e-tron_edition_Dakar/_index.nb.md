@@ -97,6 +97,7 @@ exterior.styling.audisline
 
 exterior.styling.blackoptics
 
+I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 19 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' er tilvalg-funksjon for sidedørene.
 

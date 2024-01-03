@@ -97,6 +97,7 @@ exterior.styling.audisline
 
 exterior.styling.blackoptics
 
+Dessutom kan du välja mellan 2 hjul i storlek från 18 till 19 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna.
 

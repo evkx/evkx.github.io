@@ -97,6 +97,7 @@ In addition, you can equip this model with an s-line exterior package. This pack
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
+Additionally, you can choose between 2 wheels with sizes from 18 to 19 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is an optional function for the side doors.
 
