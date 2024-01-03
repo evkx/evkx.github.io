@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lotus Eletre S Review</h3>
+<p>Kris Rifa: 03.01.2024</p>
+
+{{< youtube X9QXK7z511c >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Lotus Eletre S | Detailed Exterior & Interior Tour</h3>
 <p>Kris Rifa: 01.01.2024</p>
 

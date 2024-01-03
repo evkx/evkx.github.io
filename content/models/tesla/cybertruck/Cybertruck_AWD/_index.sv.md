@@ -75,6 +75,16 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Dynamisk styrning är standard-funktionen för Tesla Cybertruck AWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
+### Körlägen
+
+Tesla Cybertruck AWD låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
+
+- Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
+- Sport: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Custom: Anpassad styrning, fjädring och gasrespons.
+- Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+
+
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
@@ -85,7 +95,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Du kan välja mellan 3 olika färgfärger när du beställer den här modellen.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner. Bakluckan är elektriskt manövrerad.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner. 'Soft Close' är standard-funktionen för sidodörrarna. Bakluckan är elektriskt manövrerad.
 
 Det finns bara ett tak för denna modell. exterior.roof.standard.panoramic.FullFixed.TonedGlass
 

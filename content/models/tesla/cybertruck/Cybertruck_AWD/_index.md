@@ -75,6 +75,16 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 Dynamic steering is a standard feature on the Tesla Cybertruck AWD. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
+### Drive modes
+
+The Tesla Cybertruck AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Custom: Custom-defined steering, suspension, and throttle response.
+- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
+
+
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
@@ -85,7 +95,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 3 different paint colors when ordering this model.
 
-The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electrically powered.
+The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. Soft close is a standard function for the side doors. The tailgate is electrically powered.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
