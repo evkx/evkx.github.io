@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 114kWh og en nettokapasitet på 106kWh, noe
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 122kW. Hver ladeøkt vil ta 37 minutter og 58 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 9 timer og 36 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 74%. Totalt tapt tid for å lade opp batteriet vil være 76 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 27kWh/100km, vil 1000km ta 9 timer og 41 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 0% til 78%. Totalt tapt tid for å lade opp batteriet vil være 82 minutter.
 
 ### Ombordlader
 

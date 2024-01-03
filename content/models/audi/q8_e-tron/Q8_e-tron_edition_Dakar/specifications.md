@@ -126,22 +126,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				20,6 kWh/100km
 			</td>
 		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/epa/">EPA range</a>
-			</td>
-			<td>
-				285 mi
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/epa/">EPA consumption</a>
-			</td>
-			<td>
-				2,7 mi/kWh
-			</td>
-		</tr>
 	</tbody>
 </table>
 
