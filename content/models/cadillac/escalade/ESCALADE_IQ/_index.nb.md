@@ -83,7 +83,7 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 ## Interiør
 
-Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
+interior.seats.layout.7seatsthreeseatbenchthirdrow
 
 ### Forseter
 
@@ -129,6 +129,8 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 ### Seter på tredje rad
 
 
+
+interior.seats.thirdrowstandardthreeseatbench
 
 Det er bare én type ratt tilgjengelig.
 

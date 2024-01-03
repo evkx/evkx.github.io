@@ -83,7 +83,7 @@ There is only one roof for this model. As an option, you can order this model wi
 
 ## Interior
 
-The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+interior.seats.layout.7seatsthreeseatbenchthirdrow
 
 ### First row seats
 
@@ -129,6 +129,8 @@ For the second row, this model has twin [executive seats](../../../../technology
 ### Third-row seats
 
 
+
+interior.seats.thirdrowstandardthreeseatbench
 
 There is only one type of steering wheel available.
 

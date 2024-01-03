@@ -85,7 +85,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+interior.seats.layout.7seatsthreeseatbenchthirdrow
 
 ### First row seats
 
@@ -132,6 +132,8 @@ For the second row, this model has two captain chairs. In addition, the followin
 ### Third-row seats
 
 
+
+interior.seats.thirdrowstandardthreeseatbench
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 

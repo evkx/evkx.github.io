@@ -79,6 +79,24 @@ weight: 30
 	</div>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q8 e-tron edition Dakar</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="q8_e-tron_edition_dakar/"><img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q8 e-tron edition Dakar" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="q8_e-tron_edition_dakar/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q8_e-tron_edition_dakar/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q8_e-tron_edition_dakar/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q8_e-tron_edition_dakar/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q8_e-tron_edition_dakar/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="q8_e-tron_edition_dakar/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Audi SQ8 e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

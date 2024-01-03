@@ -83,7 +83,7 @@ Det finns bara ett tak för denna modell. Som ekstrautstyr kan du bestille denne
 
 ## Interiör
 
-Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+interior.seats.layout.7seatsthreeseatbenchthirdrow
 
 ### Framsäten
 
@@ -129,6 +129,8 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 ### Seter på tredje rad
 
 
+
+interior.seats.thirdrowstandardthreeseatbench
 
 Det finns bara en typ av ratt tillgänglig.
 

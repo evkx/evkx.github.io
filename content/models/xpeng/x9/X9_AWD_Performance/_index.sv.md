@@ -85,7 +85,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+interior.seats.layout.7seatsthreeseatbenchthirdrow
 
 ### Framsäten
 
@@ -132,6 +132,8 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 ### Seter på tredje rad
 
 
+
+interior.seats.thirdrowstandardthreeseatbench
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
