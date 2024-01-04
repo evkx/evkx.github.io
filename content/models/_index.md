@@ -91,6 +91,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="nissan"><img src="https://media.evkx.net/multimedia/models/nissan/logo_xst.png" alt="Nissan" title="Nissan" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="opel"><img src="https://media.evkx.net/multimedia/models/opel/logo_xst.png" alt="Opel" title="Opel" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="peugot"><img src="https://media.evkx.net/multimedia/models/peugot/logo_xst.png" alt="Peugot" title="Peugot" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -440,6 +443,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	Nissan has 1 models with total 3 variants. 
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Go to Nissan EV-model overview</a>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+	<h2>Opel</h2>
+	<p>
+		Opel is a German automobile manufacturer that has been a subsidiary of Stellantis since 2021. It was previously owned by General Motors and PSA Group. Opel produces passenger cars, light commercial vehicles, and vehicle parts, and sells them under the Opel and Vauxhall brands in Europe and other regions.
+	</p>
+	<p>
+	Opel has 1 models with total 1 variants. 
+	</p>
+	<a href="opel/" class="btn btn-outline-primary" role="button">Go to Opel EV-model overview</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>

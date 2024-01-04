@@ -91,6 +91,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 			<a href="nissan"><img src="https://media.evkx.net/multimedia/models/nissan/logo_xst.png" alt="Nissan" title="Nissan" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="opel"><img src="https://media.evkx.net/multimedia/models/opel/logo_xst.png" alt="Opel" title="Opel" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="peugot"><img src="https://media.evkx.net/multimedia/models/peugot/logo_xst.png" alt="Peugot" title="Peugot" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -359,6 +362,13 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	Nissan har 1 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Gå till Nissan modellöversikt</a>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+	<h2>Opel</h2>
+	<p>
+	Opel har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="opel/" class="btn btn-outline-primary" role="button">Gå till Opel modellöversikt</a>
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>
