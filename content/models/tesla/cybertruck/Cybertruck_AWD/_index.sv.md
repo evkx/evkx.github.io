@@ -33,17 +33,17 @@ Tesla Cybertruck AWD har en maximal effekt på 448 KW (609hk). Totalt vridmoment
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 122,4kWh och en nettokapacitet på 120kWh, vilket innebär att du har en 2,4kWh buffert för skydd. (2,0%).
+Batteriet har en bruttokapacitet på 123kWh och en nettokapacitet på 122,5kWh, vilket innebär att du har en 0,5kWh buffert för skydd. (0,4%).
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 340 miles (547 km). Förbrukningen är 2.8mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
-Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 76 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 38%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 153kW. Varje laddningssession tar 17 minuter och 60 sekunder.
+Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 38%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 153kW. Varje laddningssession tar 17 minuter och 15 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 27kWh/100km, tar 1000km 9 timmar och 19 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 43%. Total tid som går förlorad för att ladda batteriet kommer att vara 60 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 32kWh/100km, tar 1000km 9 timmar och 38 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 1% till 42%. Total tid som går förlorad för att ladda batteriet kommer att vara 79 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 10 timmar och 54 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 11 timmar och 8 minuter.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/charging_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}

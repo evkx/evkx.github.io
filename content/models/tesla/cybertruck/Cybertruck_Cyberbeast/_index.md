@@ -33,17 +33,17 @@ The Tesla Cybertruck Cyberbeast has a maximum power of 630 KW (857 hp/845 bhp). 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 122,4kWh and a net capacity of 120kWh, meaning you have a 2,4kWh buffer for protection. (2,0%).
+The battery has a gross capacity of 123kWh and a net capacity of 122,5kWh, meaning you have a 0,5kWh buffer for protection. (0,4%).
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 320 miles (515 km). The consumption is 2.7mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) is 320 miles (515 km). The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 76 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 38%, resulting in an actual charge speed, including time loss, of 153kW. Each charge session would take 17 minutes and 60 seconds.
+The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 77 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 38%, resulting in an actual charge speed, including time loss, of 153kW. Each charge session would take 17 minutes and 15 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 26 minutes. This trip will require four charge session(s) charging from 2% to 37%. The total time lost for charging up the battery will be 66 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32,5kWh/100km, 1000km will take 9 hours and 41 minutes. This trip will require four charge session(s) charging from 1% to 43%. The total time lost for charging up the battery will be 81 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 54 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 8 minutes.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
