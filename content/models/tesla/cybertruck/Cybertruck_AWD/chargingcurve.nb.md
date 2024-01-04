@@ -15,10 +15,10 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>99,2 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>97,1 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>94,1 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>92,0 kW</td>
 </tr>
 <tr>
 <td>Gjennomsnittlig ladehastighet 10-90 %</td><td>113,8 kW</td>
@@ -30,7 +30,7 @@ navicon: bi-battery-charging
 <td>Maksimum C-Rate</td><td>2,09</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rate</td><td>1,17</td>
+<td>Gjennomsnitt C-Rate</td><td>1,16</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>2% - 38%</td>
@@ -331,34 +331,34 @@ Tesla Cybertruck AWD har batterioppvarming, noe som gjør lading ved en optimal 
 <td>90%</td><td>63 kW</td><td> 54 m 21 s </td><td>108,0 kWh </td>
 </tr>
 <tr>
-<td>91%</td><td>61 kW</td><td> 55 m 34 s </td><td>109,2 kWh </td>
+<td>91%</td><td>58 kW</td><td> 55 m 36 s </td><td>109,2 kWh </td>
 </tr>
 <tr>
-<td>92%</td><td>59 kW</td><td> 56 m 49 s </td><td>110,4 kWh </td>
+<td>92%</td><td>52 kW</td><td> 56 m 59 s </td><td>110,4 kWh </td>
 </tr>
 <tr>
-<td>93%</td><td>57 kW</td><td> 58 m 7 s </td><td>111,6 kWh </td>
+<td>93%</td><td>49 kW</td><td> 58 m 29 s </td><td>111,6 kWh </td>
 </tr>
 <tr>
-<td>94%</td><td>56 kW</td><td> 59 m 28 s </td><td>112,8 kWh </td>
+<td>94%</td><td>44 kW</td><td>1 h 0 m 7 s </td><td>112,8 kWh </td>
 </tr>
 <tr>
-<td>95%</td><td>54 kW</td><td>1 h 0 m 51 s </td><td>114,0 kWh </td>
+<td>95%</td><td>39 kW</td><td>1 h 1 m 56 s </td><td>114,0 kWh </td>
 </tr>
 <tr>
-<td>96%</td><td>52 kW</td><td>1 h 2 m 17 s </td><td>115,2 kWh </td>
+<td>96%</td><td>35 kW</td><td>1 h 3 m 59 s </td><td>115,2 kWh </td>
 </tr>
 <tr>
-<td>97%</td><td>50 kW</td><td>1 h 3 m 46 s </td><td>116,4 kWh </td>
+<td>97%</td><td>33 kW</td><td>1 h 6 m 13 s </td><td>116,4 kWh </td>
 </tr>
 <tr>
-<td>98%</td><td>37 kW</td><td>1 h 5 m 31 s </td><td>117,6 kWh </td>
+<td>98%</td><td>32 kW</td><td>1 h 8 m 33 s </td><td>117,6 kWh </td>
 </tr>
 <tr>
-<td>99%</td><td>23 kW</td><td>1 h 8 m 3 s </td><td>118,8 kWh </td>
+<td>99%</td><td>29 kW</td><td>1 h 11 m 2 s </td><td>118,8 kWh </td>
 </tr>
 <tr>
-<td>100%</td><td>10 kW</td><td>1 h 12 m 36 s </td><td>120,0 kWh </td>
+<td>100%</td><td>20 kW</td><td>1 h 14 m 8 s </td><td>120,0 kWh </td>
 </tr>
 </tbody>
 </table>
