@@ -15,10 +15,10 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>96,0 kW</td>
+<td>Average charging speed 0 - 100% </td><td>95,0 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100%</td><td>90,9 kW</td>
+<td>Average charging speed 10-100%</td><td>89,9 kW</td>
 </tr>
 <tr>
 <td>Average charging speed 10-90%</td><td>113,8 kW</td>
@@ -358,7 +358,7 @@ Tesla Cybertruck Cyberbeast have battery heating, making charging at an optimum 
 <td>99%</td><td>29 kW</td><td>1 h 11 m 2 s </td><td>118,8 kWh </td>
 </tr>
 <tr>
-<td>100%</td><td>9 kW</td><td>1 h 15 m 1 s </td><td>120,0 kWh </td>
+<td>100%</td><td>3 kW</td><td>1 h 15 m 46 s </td><td>120,0 kWh </td>
 </tr>
 </tbody>
 </table>
