@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-129d77f2
+  translation: Lotus Emeya is an all-electric luxury sedan with a WLTP range of up to 535 km (333 miles). EVKX.net has all the details. 
+
 - id: frontpage-description-cb116463
   translation: Opel Mokka Electric is an all-electric crossover with a WLTP range of up to 406 km (252 miles). EVKX.net has all the details. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-60ff15b1
   translation: Volkswagen ID.7 Pro S is an all-electric sedan with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details. 
-
-- id: frontpage-description-a41cafab
-  translation: BYD Seal RWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details. 
 

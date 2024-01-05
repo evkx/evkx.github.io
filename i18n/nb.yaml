@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-129d77f2
+  translation: Lotus Emeya er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 535 km. EVKX.net har alle detaljene. 
+
 - id: frontpage-description-cb116463
   translation: Opel Mokka Electric er en helelektrisk delefilter med en WLTP rekkevidde på opptil 406 km. EVKX.net har alle detaljene. 
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-60ff15b1
   translation: Volkswagen ID.7 Pro S er en helelektrisk sedan med en WLTP rekkevidde på opptil 700 km. EVKX.net har alle detaljene. 
-
-- id: frontpage-description-a41cafab
-  translation: BYD Seal RWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 520 km. EVKX.net har alle detaljene. 
 

@@ -22,3 +22,17 @@ Lotus Eletre is a luxury SUV available in 3 variants.
 		</div>
 	</div>
 </div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<h3> Lotus Emeya</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="emeya"><img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/main_1_st.jpg" class="img-fluid" alt="Lotus Emeya" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Lotus Emeya is a luxury sedan available in 1 variants.
+</p>
+	<a href="emeya/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
