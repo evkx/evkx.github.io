@@ -1,17 +1,17 @@
 ---
 title: CLTC Range testing
 linktitle: CLTC
-description: The CLTC is a driving cycle that simulates the typical driving conditions and patterns of Chinese drivers.
+description: The CLTC is a driving cycle that simulates Chinese drivers' typical driving conditions and patterns.
 weight: 3
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-It was developed by the China Automotive Technology & Research Center (CATARC) in 2020, and it is expected to replace the previous test cycle, called the China Automotive Test Cycle (CATC), which was based on the outdated New European Driving Cycle (NEDC). The CLTC aims to provide more realistic and accurate range estimates for EVs in China.
+ China Automotive Technology & Research Center ( [CATARC](https://www.catarc.ac.cn/) ) developed the cycle in 2020. It replaced the previous test cycle, the China AutomotiveTest Cycle (CATC), based on the outdated New European Driving Cycle (NEDC).
 
-The CLTC-P contains a total of 11 short trips (including 7 short trips in the low-speed phase, 3 short trips in the 
-medium-speed phase, and 1 short trip in the high-speed phase) and 12 idle segments, with a total duration of 1800 
-seconds.
+The CLTC cycle was created by following more than 5000 cars in China over three years. CATARC used the driving data to create cycles to replicate how people drive cars in China.
+
+The CLTC-P contains 11 short trips (including seven short trips in the low-speed phase, three short trips in the medium-speed phase, and one short trip in the high-speed phase) and 12 idle segments, totaling 1800 seconds.
 
 <table class="table table-striped border">
         <thead>
@@ -147,11 +147,17 @@ The CLTC is performed on a dynamometer, which is a device that simulates driving
 
 The testing procedure starts with fully charging the vehicle's battery and leaving it parked overnight. The next day, the vehicle is driven on the dynamometer following the speed profile of the CLTC until the battery is completely depleted or the vehicle cannot maintain a minimum speed of 40 km/h (25 mph). The total distance traveled by the vehicle during the test is recorded as the preliminary range estimate.
 
-However, this estimate is then adjusted by a correction factor to account for variations in driving conditions, such as temperature, terrain, and driver behavior. The correction factor is based on data collected from real-world driving by EV owners in different regions of China. The final range estimate is the product of the preliminary range estimate and the correction factor.
+However, this estimate is then adjusted by a correction factor to account for variations in driving conditions, such as temperature, terrain, and driver behavior. The correction factor is based on data collected from real-world driving by EV owners in different regions of China. The final range estimate is the product of the preliminary and correction factors.
 
 ## How does the CLTC compare to other test cycles?
 
-According to Chinese sources, CLTC estimates are mostly higher than both WLTP and NEDC range figures. For example, an electric vehicle that has a 398 km WLTP and a 484 km NEDC range estimate scored more range (509 km) when CLTC testing procedures were followed. This suggests that the CLTC is more generous than other test cycles in estimating EV range.
+CLTC estimates are mostly higher than both WLTP and EPA range figures.
+
+However, some experts argue that the CLTC is not necessarily unrealistic or inaccurate but reflects the specific characteristics of Chinese roads and drivers.
+
+Therefore, they suggest that the CLTC is more suitable for evaluating EV range in China than other test cycles that are based on foreign driving patterns and environments. They also recommend that consumers should compare EV range estimates based on the same test cycle rather than different ones to avoid confusion and misunderstanding.
+
+See table below for examples.
 
 <table class="table table-striped border">
         <thead>
@@ -177,10 +183,36 @@ According to Chinese sources, CLTC estimates are mostly higher than both WLTP an
             <td>713km/443 miles
             </td>
         </tr>
+        <tr>
+            <td>Nio EL7 100kWh
+            </td>
+            <td>
+            </td>
+            <td>513km/319 miles
+            </td>
+            <td>620km/385 miles
+            </td>
+        </tr>
+        <tr>
+            <td>Volvo EX30 Performance
+            </td>
+            <td>/265 miles
+            </td>
+            <td>460km/285 miles
+            </td>
+            <td>540km/335 miles
+            </td>
+        </tr>
+           <tr>
+            <td>Lotus Eletre S
+            </td>
+            <td>? km/? miles
+            </td>
+            <td>535km/332 miles
+            </td>
+            <td>650km/404 miles
+            </td>
+        </tr>
  </tbody>
 </table>
 
-
-However, some experts argue that the CLTC is not necessarily unrealistic or inaccurate, but rather reflects the specific characteristics of Chinese roads and drivers. They claim that Chinese drivers tend to drive faster and more aggressively than European drivers, especially on highways and extra-highways. They also point out that China has a large land area with diverse terrain and climate conditions, which can affect EV performance and range.
-
-Therefore, they suggest that the CLTC is more suitable for evaluating EV range in China than other test cycles that are based on foreign driving patterns and environments. They also recommend that consumers should compare EV range estimates based on the same test cycle rather than different ones to avoid confusion and misunderstanding
