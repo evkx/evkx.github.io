@@ -13,17 +13,132 @@ The CLTC-P contains a total of 11 short trips (including 7 short trips in the lo
 medium-speed phase, and 1 short trip in the high-speed phase) and 12 idle segments, with a total duration of 1800 
 seconds.
 
-|  | Phase 1 | Phase 2 | Phase 3 |  Total |
-|----|----|----|-----|------|-----|
-|Duration, Seconds | 674 | 693 | 433 | 1800|
-|Stop, seconds |  |  |   |  398 | 
-| Distance in meter | 2450 | 5910 | 6120 | 14480 |
-| Percent stop |  |  | |  22.11% |
-| Max speed | 48.1| 71.2 | 114 |114 |
-| Average speed w/o stop |  | | | 53.5|
-| Avg speed w stop | 13 | 30.7| 50.8 | 46.5|
-| Maximum deceleration  m/s^2 | -1.4 | -1.5 | -1.5 |- 1.44 | |
-| Max acceleration  m/s^2 | 1.47 | 1.44 | 1.06 |  |
+<table class="table table-striped border">
+        <thead>
+        <tr>
+         <th>#
+         </th>
+         <th>Phase 1
+         </th>
+         <th>Phase 2
+         </th>
+         <th>Phase 3
+         </th>
+         <th>Total
+         </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Duration, Seconds
+            </td>
+            <td>674
+            </td>
+            <td>693
+            </td>
+            <td>433
+            </td>
+            <td>1800
+            </td>
+        </tr>
+        <tr>
+            <td>Stop, seconds
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>398
+            </td>
+        </tr>
+        <tr>
+            <td>Distance in meter
+            </td>
+            <td>2450
+            </td>
+            <td>5910
+            </td>
+            <td>6120
+            </td>
+            <td>14480
+            </td>
+        </tr>
+        <tr>
+            <td>Percent stop
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>22.11%
+            </td>
+        </tr>
+        <tr>
+            <td>Max speed
+            </td>
+            <td>48.1
+            </td>
+            <td>71.2
+            </td>
+            <td>114
+            </td>
+            <td>114
+            </td>
+        </tr>
+        <tr>
+            <td>Average speed w/o stop
+            </td>
+            <td>20.19
+            </td>
+            <td>38.24
+            </td>
+            <td>53.89
+            </td>
+            <td>37.18
+            </td>
+        </tr>
+        <tr>
+            <td>Average speed w stop
+            </td>
+            <td>13.08
+            </td>
+            <td>30.67
+            </td>
+            <td>50.9
+            </td>
+            <td>28.96
+            </td>
+        </tr>
+         <tr>
+            <td>Maximum deceleration m/s^2
+            </td>
+            <td>-1.42
+            </td>
+            <td>-1.47
+            </td>
+            <td>-1.46
+            </td>
+            <td>-1.47
+            </td>
+        </tr>
+          <tr>
+            <td>Max acceleration m/s^2
+            </td>
+            <td>1.47
+            </td>
+            <td>1.44
+            </td>
+            <td>1.06
+            </td>
+            <td>1.47
+            </td>
+        </tr>
+ </tbody>
+</table>
 
 
 ## How is the CLTC performed?
@@ -37,6 +152,34 @@ However, this estimate is then adjusted by a correction factor to account for va
 ## How does the CLTC compare to other test cycles?
 
 According to Chinese sources, CLTC estimates are mostly higher than both WLTP and NEDC range figures. For example, an electric vehicle that has a 398 km WLTP and a 484 km NEDC range estimate scored more range (509 km) when CLTC testing procedures were followed. This suggests that the CLTC is more generous than other test cycles in estimating EV range.
+
+<table class="table table-striped border">
+        <thead>
+        <tr>
+         <th>#
+         </th>
+         <th>EPA
+         </th>
+         <th>WLTP
+         </th>
+         <th>CLTC
+         </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tesla Model 3 Long Range
+            </td>
+            <td>
+            </td>
+            <td>678km/421 miles
+            </td>
+            <td>713km/443 miles
+            </td>
+        </tr>
+ </tbody>
+</table>
+
 
 However, some experts argue that the CLTC is not necessarily unrealistic or inaccurate, but rather reflects the specific characteristics of Chinese roads and drivers. They claim that Chinese drivers tend to drive faster and more aggressively than European drivers, especially on highways and extra-highways. They also point out that China has a large land area with diverse terrain and climate conditions, which can affect EV performance and range.
 

@@ -13,17 +13,134 @@ CLTC-P inneholder totalt 11 korte turer (inkludert 7 korte turer i lavhastighets
 middels hastighet, og 1 kort tur i høyhastighetsfasen) og 12 tomgangssegmenter, med en total varighet på 1800
 sekunder.
 
-| | Fase 1 | Fase 2 | Fase 3 | Totalt |
-|----|----|----|-----|------|-----|
-|Varighet, sekunder | 674 | 693 | 433 | 1800|
-|Stopp, sekunder | | | | 398 |
-| Avstand i meter | 2450 | 5910 | 6120 | 14480 |
-| Prosent stopp | | | | 22,11 % |
-| Maks hastighet | 48.1| 71,2 | 114 |114 |
-| Gjennomsnittlig hastighet uten stopp | | | | 53,5|
-| Gjennomsnittlig hastighet m stopp | 13 | 30,7| 50,8 | 46,5|
-| Maksimal retardasjon m/s^2 | -1,4 | -1,5 | -1,5 |- 1,44 | |
-| Maks akselerasjon m/s^2 | 1,47 | 1,44 | 1,06 | |
+<table class="table table-striped border">
+        <thead>
+        <tr>
+         <th>#
+         </th>
+         <th>Fase 1
+         </th>
+         <th>Fase 2
+         </th>
+         <th>Fase 3
+         </th>
+         <th>Totalt
+         </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Varighet, sekunder
+            </td>
+            <td>674
+            </td>
+            <td>693
+            </td>
+            <td>433
+            </td>
+            <td>1800
+            </td>
+        </tr>
+        <tr>
+            <td>Stopp, sekunder
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>398
+            </td>
+        </tr>
+        <tr>
+            <td>Avstand i meter
+            </td>
+            <td>2450
+            </td>
+            <td>5910
+            </td>
+            <td>6120
+            </td>
+            <td>14480
+            </td>
+        </tr>
+        <tr>
+            <td>Prosent stopp
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>22.11%
+            </td>
+        </tr>
+        <tr>
+            <td>Maks hastighet
+            </td>
+            <td>48.1
+            </td>
+            <td>71.2
+            </td>
+            <td>114
+            </td>
+            <td>114
+            </td>
+        </tr>
+        <tr>
+            <td>Gjennomsnittlig hastighet uten stopp
+            </td>
+            <td>20.19
+            </td>
+            <td>38.24
+            </td>
+            <td>53.89
+            </td>
+            <td>37.18
+            </td>
+        </tr>
+        <tr>
+            <td>Gjennomsnittlig hastighet m stopp
+            </td>
+            <td>13.08
+            </td>
+            <td>30.67
+            </td>
+            <td>50.9
+            </td>
+            <td>28.96
+            </td>
+        </tr>
+         <tr>
+            <td>Maksimal retardasjon m/s^2
+            </td>
+            <td>-1.42
+            </td>
+            <td>-1.47
+            </td>
+            <td>-1.46
+            </td>
+            <td>-1.47
+            </td>
+        </tr>
+          <tr>
+            <td>Maks akselerasjon m/s^2
+            </td>
+            <td>1.47
+            </td>
+            <td>1.44
+            </td>
+            <td>1.06
+            </td>
+            <td>1.47
+            </td>
+        </tr>
+ </tbody>
+</table>
+
+
 
 
 ## Hvordan utføres CLTC?
