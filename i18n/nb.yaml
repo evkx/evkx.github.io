@@ -91,9 +91,6 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
-- id: frontpage-description-78d4fd3d
-  translation: MG Marvel R Electric er en helelektrisk delefilter med en WLTP rekkevidde på opptil 402 km. EVKX.net har alle detaljene. 
-
 - id: frontpage-description-129d77f2
   translation: Lotus Emeya er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 535 km. EVKX.net har alle detaljene. 
 
@@ -105,4 +102,7 @@
 
 - id: frontpage-description-fb8c6f67
   translation: XPENG X9 AWD Performance er en helelektrisk MPV med en CLTC rekkevidde på opptil 640 km. EVKX.net har alle detaljene. 
+
+- id: frontpage-description-60ff15b1
+  translation: Volkswagen ID.7 Pro S er en helelektrisk sedan med en WLTP rekkevidde på opptil 700 km. EVKX.net har alle detaljene. 
 
