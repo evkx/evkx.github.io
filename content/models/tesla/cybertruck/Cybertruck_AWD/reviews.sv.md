@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drive The Tesla Cybertruck For The First Time! City, Highway, & Performance Evaluation</h3>
+<p>Out of Spec Reviews: 06.01.2024</p>
+
+{{< youtube sdpfIzrutV8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Cybertruck Full Tour! Exposing All Details - Service Mode, Wiper, Powertrain, & Much More</h3>
 <p>Out of Spec Reviews: 03.01.2024</p>
 
