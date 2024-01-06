@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Opel has a clear vision to become a purely electric brand in Europe by 2028. This means that by then, all Opel models will have a battery-electric version, and no internal combustion engines will be offered. Opel already has a wide range of electrified models, such as the Corsa-e, Mokka-e, Grandland PHEV, and Astra PHEV. The Astra-e, a fully electric version of the new-generation Astra, will be launched in 2022. The Grandland will also be replaced by an electric model in 2024, based on the new STLA Medium platform from Stellantis. Opel also plans to revive the iconic Manta as an electric car by mid-decade.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Opel Mokka</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

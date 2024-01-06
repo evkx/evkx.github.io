@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 XPeng started production of its first model, the XPeng G3 SUV, in November 2018 and launched it in December 2018 at the 2018 Consumer Electronics Show in Las Vegas. Its second model, the P7, a four-door electric sedan, premiered in April 2019 at the 2019 Auto Shanghai show and started deliveries to customers in June 2020. XPeng also has a subsidiary in the United States, XMotors.ai, that holds a permit for testing self-driving cars from the California Department of Motor Vehicles since March 2020.<br /><br />XPeng's main investors include Alibaba, Foxconn, Xiaomi, IDG Capital and Hillhouse Capital. The company's mission is to create smart mobility solutions for the future and to challenge the traditional car industry with innovation and technology. XPeng also has a vision of developing electric flying cars and has shared footage of its X2 prototype in July 2021.<br /><br />XPeng is one of the leading EV brands in China and has expanded into Europe since 2020. The company has delivered its G3 SUV to customers in Norway and plans to launch its P7 sedan there as well. XPeng aims to become a global player in the EV market and to compete with other brands like Tesla, NIO and Li Auto.<br /><br />
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> XPENG G3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ XPENG G3 is a crossover available in 1 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> XPENG G9</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ XPENG G9 is a SUV available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> XPENG P7</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ XPENG P7 is a sedan available in 1 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> XPENG X9</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

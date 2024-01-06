@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Hyundai has currently 3 model with total 7 variants in the market. 
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Hyundai Ioniq 5</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ Hyundai Ioniq 5 is a SUV available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Hyundai Ioniq 6</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ Hyundai Ioniq 6 is a sedan available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Hyundai Kona</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

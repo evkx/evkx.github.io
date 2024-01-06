@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3>BMW i7 eDrive50</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -24,7 +24,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3>BMW i7 M70 xDrive</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -42,7 +42,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3>BMW i7 xDrive60</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

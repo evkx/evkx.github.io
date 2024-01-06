@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Lucid is majority-owned by the Public Investment Fund of Saudi Arabia and has its headquarters in Newark, California and its factory in Casa Grande, Arizona. Lucid's CEO and CTO, Peter Rawlinson, is a former chief engineer of the Tesla Model S. Lucid's vision is to provide positive and innovative experiences for its customers through its design, performance, and service, and to inspire the adoption of sustainable energy by creating the most advanced electric vehicles.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Lucid Air</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ Lucid Air is a sedan available in 5 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Lucid Gravity</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

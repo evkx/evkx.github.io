@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQA</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ Mercedes EQA är en premium crossover tillgänglig i 3 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQB</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ Mercedes EQB är en premium-SUV tillgänglig i 3 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQC</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ Mercedes EQC är en lyx-SUV tillgänglig i 1 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQE</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -64,7 +64,7 @@ Mercedes EQE är en lyxsedan tillgänglig i 6 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQE SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -78,7 +78,7 @@ Mercedes EQE SUV är en lyx-SUV tillgänglig i 4 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQS</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -92,7 +92,7 @@ Mercedes EQS är en lyxsedan tillgänglig i 5 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQS SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

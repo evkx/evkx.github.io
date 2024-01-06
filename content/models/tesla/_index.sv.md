@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Tesla Cybertruck</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ Tesla Cybertruck är en pickup tillgänglig i 2 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Tesla Model 3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ Tesla Model 3 är en sedan som finns i 5 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Tesla Model S</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ Tesla Model S är en sedan som finns i 3 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Tesla Model X</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -64,7 +64,7 @@ Tesla Model X är en SUV tillgänglig i 3 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Tesla Model Y</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

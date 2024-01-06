@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Volkswagen is aiming to increase the proportion of unit sales accounted for by purely electric vehicles to at least 70 percent in Europe and to more than 50 percent in North America and China by 2030. In 2030, nine out of 14 Volkswagen models will be purely electric vehicles. Volkswagen has currently 5 all electric models with total 15 variants in the market. Below you find links for each model page.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID. Buzz</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ modelintro.MPV.Mid
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID.3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ Volkswagen ID.3 is a hatcback available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID.4</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ Volkswagen ID.4 is a SUV available in 5 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID.5</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -64,7 +64,7 @@ Volkswagen ID.5 is a Coupe SUV available in 4 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID.7</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

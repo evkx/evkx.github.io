@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW i4</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ BMW i4 er en premium sedan tilgjengelig i 3 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW i5</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ BMW i5 er en premium sedan tilgjengelig i 2 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW i7</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ BMW i7 er en luksus sedan tilgjengelig i 3 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW iX</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -64,7 +64,7 @@ BMW iX er en luksus-SUV tilgjengelig i 3 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW iX1</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -78,7 +78,7 @@ BMW iX1 er en premium SUV tilgjengelig i 2 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW iX2</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -92,7 +92,7 @@ BMW iX2 er en premium Coupe SUV tilgjengelig i 1 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW iX3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

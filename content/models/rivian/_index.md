@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Rivian also has a contract with Amazon to deliver 100,000 electric delivery vans by 2030. Rivian's EV strategy is supported by its access to capital, its partnerships with Ford and Amazon, its in-house battery and motor technology, and its network of charging stations and service centers. Rivian is seen by some analysts as a potential challenger to Tesla, the EV market leader, as it offers a different value proposition and targets a different customer segment.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Rivian R1</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

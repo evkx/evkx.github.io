@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 From 2025 onwards, all newly launched vehicle architectures will be electric-only and customers will be able to choose an all-electric alternative for every model the company makes. Mercedes-Benz intends to manage this accelerated transformation while sticking to its profitability targets. Mercedes-Benz has currently 7 all electric models with total 26 variants in the market. Below you find links for each model page.  
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQA</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ Mercedes EQA is a premium crossover available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQB</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ Mercedes EQB is a premium SUV available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQC</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ Mercedes EQC is a luxury SUV available in 1 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQE</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -64,7 +64,7 @@ Mercedes EQE is a luxury sedan available in 6 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQE SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -78,7 +78,7 @@ Mercedes EQE SUV is a luxury SUV available in 4 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQS</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -92,7 +92,7 @@ Mercedes EQS is a luxury sedan available in 5 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQS SUV</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

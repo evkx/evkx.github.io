@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Ford is investing $22 billion in electrification through 2025 as part of its plan to lead electrification in areas of strength. The company is electrifying its most iconic products - the Mustang, F-150 and Transit – with many more to come in the years ahead.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Ford F150 Lightning</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ Ford F150 Lightning is a pickup truck available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Ford Mustang Mach-E</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

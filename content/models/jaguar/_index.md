@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Jaguar has recently announced its EV strategy, called Reimagine, which aims to transform the company to an electric-first business and achieve net zero carbon emissions by 2039. As part of this strategy, Jaguar will become an all-electric brand by 2025, and will launch electric models of its entire Jaguar and Land Rover line-up by 2030. Jaguar will also invest in new technologies, such as hydrogen fuel cells and artificial intelligence, and partner with innovators such as NVIDIA and Wolfspeed. Jaguar's new electric vehicles will be based on a new in-house platform and will feature a distinct design language. However, Jaguar has also scrapped its planned electric XJ, which was supposed to be the flagship model of its electric range.
 
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Jaguar I-Pace</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
