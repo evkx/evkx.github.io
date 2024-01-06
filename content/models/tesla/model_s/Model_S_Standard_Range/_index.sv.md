@@ -217,3 +217,6 @@ Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släp
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/trunk_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
+### Tillgänglighet och pris
+
+Denna modell hade världspremiär 20.08.2023 och leveranser startade i September 2023. Denna modell har nu utgått.

@@ -42,6 +42,8 @@ weight: 30
 		</div>
 	</div>
 </div>
+<h2>Discontinued variants</h2>
+
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Model S Standard Range</h3>
 	<div class="row">

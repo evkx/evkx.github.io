@@ -128,18 +128,34 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/epa/">EPA range</a>
+				<a href="/guides/understandingrange/epa/">Basic trim EPA range</a>
 			</td>
 			<td>
-				330 mi
+				310 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/epa/">EPA consumption</a>
+				<a href="/guides/understandingrange/epa/">Basic trim EPA consumption</a>
 			</td>
 			<td>
-				4,2 mi/kWh
+				3,9 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">Top trim EPA range</a>
+			</td>
+			<td>
+				292 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">Top trim EPA consumption</a>
+			</td>
+			<td>
+				3,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>

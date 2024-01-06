@@ -126,6 +126,38 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				21,4 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA rekkevidde for minimum utstyrsnivå
+			</td>
+			<td>
+				335 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim EPA-forbruk
+			</td>
+			<td>
+				3,5 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt EPA-rekkevidde
+			</td>
+			<td>
+				322 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt EPA-forbruk
+			</td>
+			<td>
+				3,4 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 

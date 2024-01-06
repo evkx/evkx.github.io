@@ -67,11 +67,13 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
+Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
+Vutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/exterior_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2000"  >}}

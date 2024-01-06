@@ -23,8 +23,8 @@ Nedan är de officiellt klassade intervallen. Tester utförs med värme/AC avst�
 <tbody>
 <tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 430 km / 267mi </td><td>13,37kWh/100km / 4,6 mi/kWh </td></tr> 
 <tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 430 km / 267mi </td><td> 13,37 kWh/100km / 4,6 mi/kWh </td></tr>  
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>393km / 244 mi</td><td> 14,6 kWh/100km / 4,3 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>393km /244mi</td><td> 14,6 kWh/100km / 4,3 mi/kWh  </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>418km / 260 mi</td><td> 14,6 kWh/100km / 4,3 mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>389km /242mi</td><td> 14,6 kWh/100km / 4,3 mi/kWh  </td></tr> 
 </tbody></table>
 
 ### Officiella testcykelresultat med extra uppvärmning
@@ -37,8 +37,8 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 <tbody>
 <tr><td> WLTP-combined basic trim with 2KW AC </td><td> 325km /202 mi </td><td> -24,4%</td></tr>
 <tr><td>  WLTP-combined top trim with 2KW AC </td><td> 325km /202 mi </td><td>-24,4%</td></tr>
-<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 188km /117 mi </td><td> -23,0%</td></tr>
-<tr><td>  EPA-combined top trim with 2KW AC </td><td> 188km /117 mi </td><td> -23,0%</td></tr>
+<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 201km /125 mi </td><td> -22,7%</td></tr>
+<tr><td>  EPA-combined top trim with 2KW AC </td><td> 187km /116 mi </td><td> -22,7%</td></tr>
 </tbody></table>
 
 ### Räckviddsuppskattningar i den verkliga världen

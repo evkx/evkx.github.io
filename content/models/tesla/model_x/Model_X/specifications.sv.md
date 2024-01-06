@@ -126,6 +126,38 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				21,4 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA-intervall för lägsta utrustningsnivå
+			</td>
+			<td>
+				335 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim EPA-förbrukning
+			</td>
+			<td>
+				3,5 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-intervall för topptrim
+			</td>
+			<td>
+				322 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top Trim EPA Consumption
+			</td>
+			<td>
+				3,4 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 

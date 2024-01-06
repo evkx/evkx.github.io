@@ -128,18 +128,34 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				EPA Range
+				EPA-intervall för lägsta utrustningsnivå
 			</td>
 			<td>
-				330 mi
+				310 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				EPA Consumption
+				Basic trim EPA-förbrukning
 			</td>
 			<td>
-				4,2 mi/kWh
+				3,9 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-intervall för topptrim
+			</td>
+			<td>
+				292 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top Trim EPA Consumption
+			</td>
+			<td>
+				3,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
