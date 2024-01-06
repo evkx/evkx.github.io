@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Lotus Eletre S | Range Test @120KPH (75MPH)</h3>
+<p>Kris Rifa: 06.01.2024</p>
+
+{{< youtube KLXwAPz_H9Y >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Lotus Eletre S Review</h3>
 <p>Kris Rifa: 03.01.2024</p>
 

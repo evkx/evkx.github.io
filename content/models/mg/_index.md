@@ -9,6 +9,20 @@ weight: 30
 
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<h3> MG Marvel R</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="marvel_r"><img src="https://media.evkx.net/multimedia/models/mg/marvel_r/marvel_r_electric/main_1_st.jpg" class="img-fluid" alt="MG Marvel R" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+MG Marvel R is a crossover available in 1 variants.
+</p>
+	<a href="marvel_r/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <h3> MG MG4</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
