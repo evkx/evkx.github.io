@@ -366,6 +366,7 @@ Vissa däcktillverkare har börjat tillverka specifika däck för elbilar med l�
 Se nedan för ett detaljerat test som beskriver skillnaden mellan EV-optimerade och vanliga däck.
 
 {{< youtube gg5MdeC6qzI>}}
+
 ### Vikt
 
 En tyngre bil kräver mer energi för att röra sig.
@@ -401,6 +402,7 @@ Diagrammet visar att en Audi e-tron 55 förbrukar 19,61 kWh/100 km i grundtrim, 
 ## Vad som påverkar verklig konsumtion
 
 I den verkliga världen är det nästan omöjligt att få samma räckvidd som ges av WLTP eller EPA. Detta sortiment är baserat av tillverkaren på idealiska körförhållanden med specifikt beteende.
+
 ### Vägskick
 
 Väglaget är en av de faktorer som påverkar konsumtionen. Är det torr asfalt är rullmotståndet mycket lägre än om vägen är blöt eller full av snö.
@@ -415,7 +417,130 @@ Hög hastighet ökar förbrukningen på grund av högre luftmotstånd.
 
 Temperaturen påverkar räckvidden på olika sätt. Om det är kallt är luften tätare och har högre aerodynamiskt motstånd.
 
-Dessutom kan varmt och kallt väder öka bilens förbrukning av luftkonditionering. En kall dag kan du använda 20-30% av batteriet för att värma upp kabinen.
+Dessutom kommer varmt och kallt väder att öka bilens förbrukning av luftkonditionering. En iskall dag kan du använda en betydande del av batteriet för att värma upp kabinen.
+
+Tabellen nedan visar hur olika genomsnittliga AC-förbrukningsnivåer för värme/kyla kommer att påverka förbrukningen vid körning. Att köra långsamt med värmeexplosion påverkar räckvidden mest.
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th>
+                Medelhastighet
+            </th>
+            <th>
+                Consumption 1kW
+            </th>
+            <th>
+                Consumption 2kW
+            </th>
+            <th>
+                Consumption 5kW
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                46.5 kph / 28.9 mph (wltp avg)
+            </td>
+            <td>
+                2.15kWh/100km
+            </td>
+            <td>
+                4.3kWh/100km
+            </td>
+            <td>
+                10.75kWh/100km
+            </td>
+        </tr>
+         <tr>
+            <td>
+                80 kph /49.7 mph
+            </td>
+            <td>
+                1.25kWh/100km
+            </td>
+            <td>
+                2.5kWh/100km
+            </td>
+            <td>
+                6.25kWh/100km
+            </td>
+        </tr>
+          <tr>
+            <td>
+                120 kph / 75 mph
+            </td>
+            <td>
+                0.8kWh/100km
+            </td>
+            <td>
+                1.7kWh/100km
+            </td>
+            <td>
+                4.2kWh/100km
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+Tabellen nedan visar hur olika modeller påverkas av 2KW AC vid olika hastigheter.
+
+En modell med låg förbrukning under perfekta förhållanden påverkas mer procentuellt.
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th>
+                Model
+            </th>
+            <th>
+                Räckviddsminskning 2kW on 46.5 kph / 28.9 mph
+            </th>
+            <th>
+                Räckviddsminskning 2kW on 80 kph / 28.9 mph
+            </th>
+            <th>
+                Räckviddsminskning 2kW on 120 kph / 75 mph
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                Tesla Model Y Long Range
+            </td>
+            <td>-22.8%
+            </td>
+            <td>-12.9%
+            </td>
+            <td>-7.9%
+             </td>
+        </tr>
+         <tr>
+            <td>
+                Toyota bZ4X FWD
+            </td>
+            <td>-27.7&
+            </td>
+            <td>-11.6%
+            </td>
+            <td>-7%%
+            </td>
+        </tr>
+          <tr>
+            <td>
+                Audi Q8 e-tron 55
+            </td>
+            <td>-19.5%
+            </td>
+            <td>-10%
+            </td>
+            <td>-6.3%
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Körstilen
 

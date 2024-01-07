@@ -419,7 +419,131 @@ High speed increases consumption because of higher drag.
 
 The temperature affects the range in different ways. If it is cold, the air is denser and has a higher aerodynamical drag.
 
-In addition, warm and cold weather could increase the car's consumption of air condition systems.  On a freezing day, you could spend 20-30% of the battery to heat the cabin.
+In addition, warm and cold weather will increase the car’s consumption of air condition systems. On a freezing day, you could spend a significant amount of the battery to heat the cabin.
+
+The table below shows how different average AC consumption levels for heating/cooling will affect the consumption when driving. Driving slow with heater blasting will affect the range the most.
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th>
+                Average Speed
+            </th>
+            <th>
+                Consumption 1kW
+            </th>
+            <th>
+                Consumption 2kW
+            </th>
+            <th>
+                Consumption 5kW
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                46.5 kph / 28.9 mph (wltp avg)
+            </td>
+            <td>
+                2.15kWh/100km
+            </td>
+            <td>
+                4.3kWh/100km
+            </td>
+            <td>
+                10.75kWh/100km
+            </td>
+        </tr>
+         <tr>
+            <td>
+                80 kph /49.7 mph
+            </td>
+            <td>
+                1.25kWh/100km
+            </td>
+            <td>
+                2.5kWh/100km
+            </td>
+            <td>
+                6.25kWh/100km
+            </td>
+        </tr>
+          <tr>
+            <td>
+                120 kph / 75 mph
+            </td>
+            <td>
+                0.8kWh/100km
+            </td>
+            <td>
+                1.7kWh/100km
+            </td>
+            <td>
+                4.2kWh/100km
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+The table below shows how different models are affected by 2KW AC at different speeds.
+
+A model with low consumption in perfect conditions is affected more in percent.
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th>
+                Model
+            </th>
+            <th>
+                Range reduction 2kW on 46.5 kph / 28.9 mph
+            </th>
+            <th>
+                Range reduction 2kW on 80 kph / 28.9 mph
+            </th>
+            <th>
+                Range reduction 2kW on 120 kph / 75 mph
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                Tesla Model Y Long Range
+            </td>
+            <td>-22.8%
+            </td>
+            <td>-12.9%
+            </td>
+            <td>-7.9%
+             </td>
+        </tr>
+         <tr>
+            <td>
+                Toyota bZ4X FWD
+            </td>
+            <td>-27.7&
+            </td>
+            <td>-11.6%
+            </td>
+            <td>-7%%
+            </td>
+        </tr>
+          <tr>
+            <td>
+                Audi Q8 e-tron 55
+            </td>
+            <td>-19.5%
+            </td>
+            <td>-10%
+            </td>
+            <td>-6.3%
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ### The driving style
 

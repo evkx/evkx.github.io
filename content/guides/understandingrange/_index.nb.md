@@ -417,7 +417,131 @@ Høy hastighet øker forbruket på grunn av høyere luftmotstand.
 
 Temperaturen påvirker rekkevidden på forskjellige måter. Hvis det er kaldt, er luften tettere og har høyere aerodynamisk luftmotstand.
 
-I tillegg kan varmt og kaldt vær øke bilens forbruk av klimaanlegg. På en iskald dag kan du bruke 20-30 % av batteriet på å varme opp hytta.
+I tillegg vil varmt og kaldt vær øke bilens forbruk av klimaanlegg. På en iskald dag kan du bruke en betydelig del av batteriet på å varme opp hytta.
+
+Tabellen under viser hvordan ulike gjennomsnittlige AC-forbruksnivåer for oppvarming/kjøling vil påvirke forbruket ved kjøring. Å kjøre sakte med varmesprengning vil påvirke rekkevidden mest.
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th>
+                Average Speed
+            </th>
+            <th>
+                Consumption 1kW
+            </th>
+            <th>
+                Consumption 2kW
+            </th>
+            <th>
+                Consumption 5kW
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                46.5 kph / 28.9 mph (wltp avg)
+            </td>
+            <td>
+                2.15kWh/100km
+            </td>
+            <td>
+                4.3kWh/100km
+            </td>
+            <td>
+                10.75kWh/100km
+            </td>
+        </tr>
+         <tr>
+            <td>
+                80 kph /49.7 mph
+            </td>
+            <td>
+                1.25kWh/100km
+            </td>
+            <td>
+                2.5kWh/100km
+            </td>
+            <td>
+                6.25kWh/100km
+            </td>
+        </tr>
+          <tr>
+            <td>
+                120 kph / 75 mph
+            </td>
+            <td>
+                0.8kWh/100km
+            </td>
+            <td>
+                1.7kWh/100km
+            </td>
+            <td>
+                4.2kWh/100km
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+Tabellen nedenfor viser hvordan ulike modeller påvirkes av 2KW AC ved ulike hastigheter.
+
+En modell med lavt forbruk under perfekte forhold påvirkes mer i prosent.
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th>
+                Model
+            </th>
+            <th>
+                Range reduction 2kW on 46.5 kph / 28.9 mph
+            </th>
+            <th>
+                Range reduction 2kW on 80 kph / 28.9 mph
+            </th>
+            <th>
+                Range reduction 2kW on 120 kph / 75 mph
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                Tesla Model Y Long Range
+            </td>
+            <td>-22.8%
+            </td>
+            <td>-12.9%
+            </td>
+            <td>-7.9%
+             </td>
+        </tr>
+         <tr>
+            <td>
+                Toyota bZ4X FWD
+            </td>
+            <td>-27.7&
+            </td>
+            <td>-11.6%
+            </td>
+            <td>-7%%
+            </td>
+        </tr>
+          <tr>
+            <td>
+                Audi Q8 e-tron 55
+            </td>
+            <td>-19.5%
+            </td>
+            <td>-10%
+            </td>
+            <td>-6.3%
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ### Kjørestilen
 
