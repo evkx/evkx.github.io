@@ -418,7 +418,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		MG is a British car brand that was founded in 1924 and is now owned by SAIC Motor, a Chinese automobile group. MG has a long history of producing sports cars and roadsters, but in recent years it has shifted to electric and hybrid vehicles. 
 	</p>
 	<p>
-	MG has 3 models with total 6 variants. 
+	MG has 3 models with total 7 variants. 
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Go to MG EV-model overview</a>
 </div>

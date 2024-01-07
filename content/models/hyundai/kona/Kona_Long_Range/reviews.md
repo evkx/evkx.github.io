@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>SHOOTOUT: 2024 Kia Niro EV vs Hyundai Kona Electric</h3>
+<p>Electrifying: 07.01.2024</p>
+
+{{< youtube HZBTF9eb6gs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Hyundai Kona MY2024 charging test</h3>
 <p>Bjørn Nyland: 23.11.2023</p>
 
