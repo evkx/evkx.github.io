@@ -417,11 +417,18 @@ High speed increases consumption because of higher drag.
 
 ### The temperature
 
-The temperature affects the range in different ways. If it is cold, the air is denser and has a higher aerodynamical drag.
+Several factors affect the range when temperature changes.
 
-In addition, warm and cold weather will increase the car’s consumption of air condition systems. On a freezing day, you could spend a significant amount of the battery to heat the cabin.
+#### AC consumption
 
-The table below shows how different average AC consumption levels for heating/cooling will affect the consumption when driving. Driving slow with heater blasting will affect the range the most.
+Warm and cold weather will increase the car’s consumption of air condition systems.
+On a freezing day, you could spend a significant amount of the battery to heat the cabin.
+
+The same is true on hot days when AC tries to cool down the cabin.
+
+Depending on the model typical the MAX power that the AC can draw from the battery is 5-10kW at max. 
+
+The table below shows how different average AC consumption levels for heating/cooling will affect driving consumption. Driving slow with heater blasting will affect the range the most.
 
 <table class="table table-striped border">
     <thead>
@@ -544,6 +551,27 @@ A model with low consumption in perfect conditions is affected more in percent.
     </tbody>
 </table>
 
+#### Internal resistance in the battery
+
+When the temperature gets low enough, the electrolyte fluid becomes more viscous, which slows down the chemical reactions and reduces the electron flow.
+
+The higher internal resistance causes more heat loss and reduces the usable energy you can draw from the battery. This effect can reduce the usable battery by several kWh.
+
+This effect affects not only the range an EV can get on a charge but also how quickly it can recharge.
+
+Since the chemical reactions are slower, the manufacturer programs the battery to accept less power when.
+
+To prevent this, modern EVs have battery heating and cooling systems that try to maintain an optimal temperature range for the battery pack, usually between 40 and 115 degrees Fahrenheit.
+
+Many models support the precondition of the battery before charging.
+
+However, these systems also consume some battery power, especially when heating the battery in cold weather.
+
+For example, suppose you have a battery with 77kWh net capacity, and the internal resistance only makes it possible to draw 72kWh out of the battery. In that case, the range is reduced by 6.5% before factoring in increased consumption.
+
+#### Air density
+
+If it is cold, the air is denser and has a higher aerodynamical drag.
 
 ### The driving style
 
