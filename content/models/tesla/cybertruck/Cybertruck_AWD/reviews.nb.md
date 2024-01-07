@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Ran The Tesla Cybertruck To Dead In Our 70-MPH Highway Range Test!n</h3>
+<p>Out of Spec Reviews: 07.01.2024</p>
+
+{{< youtube k5eGuyc3_S4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Drive The Tesla Cybertruck For The First Time! City, Highway, & Performance Evaluation</h3>
 <p>Out of Spec Reviews: 06.01.2024</p>
 
