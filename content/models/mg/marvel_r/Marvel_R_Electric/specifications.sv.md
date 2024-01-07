@@ -271,6 +271,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Storlek frunk
+			</td>
+			<td>
+				150 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max bromsad släpvikt
 			</td>
 			<td>

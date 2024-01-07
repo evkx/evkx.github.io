@@ -1,7 +1,7 @@
 ---
 title: MG Marvel R Electric
 linktitle: "Marvel R Electric"
-description: "MG Marvel R Electric is an all-electric crossover with a WLTP range of up to 402 km (250 miles). EVKX.net has all the details. "
+description: "MG Marvel R Electric is an all-electric SUV with a WLTP range of up to 402 km (250 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -85,7 +85,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling.
+You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### First row seats
 
@@ -95,9 +95,10 @@ The following functionalities are available on the **standard** seat.
 
 - electric adjustment
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 3 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- interior.seat.alcantaraleatherette
 
 
 
@@ -151,7 +152,7 @@ One type of sound system is available for the MG Marvel R Electric. With the , y
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG Marvel R Electric supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
+The model has 4 USB-A connections as standard.
 ## Lights
 
 
@@ -183,10 +184,13 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 359 liters. With the rear seat down, it is 1396 liters. The maxium weight of the car is 2288 kg (5044 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 478 kg (1054 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 359 liters. With the rear seat down, it is 1396 liters. Under the hood, there is frunk with more storage room. This frunk is 150 liters (5,3 CU FT). The maxium weight of the car is 2288 kg (5044 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 478 kg (1054 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 478kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/trunk_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1915"  >}}
 
+### Availability & Pricing
+
+This model had a world premiere on 07.10.2021, and deliveries started in January 2022.

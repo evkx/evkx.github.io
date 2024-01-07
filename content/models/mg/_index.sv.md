@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-MG Marvel R är en crossover tillgänglig i 1 varianter.
+MG Marvel R är en SUV tillgänglig i 1 varianter.
 </p>
 	<a href="marvel_r/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: MG Marvel R Electric
 linktitle: "Marvel R Electric"
-description: "MG Marvel R Electric är en helelektrisk crossover med en WLTP räckvidd på upp till 402 km. EVKX.net har alla detaljer."
+description: "MG Marvel R Electric är en helelektrisk SUV med en WLTP räckvidd på upp till 402 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -85,7 +85,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Du kan välja mellan olika typer av sitsmaterial och inredningsstilar.
+Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
 ### Framsäten
 
@@ -95,9 +95,10 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- interior.seat.alcantaraleatherette
 
 
 
@@ -151,7 +152,7 @@ En typ av ljudsystem är tillgänglig för MG Marvel R Electric. Med  får du NU
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder MG Marvel R Electric Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
-Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+Modellen har 4 USB-A-anslutningar som standard.
 ## Ljus
 
 
@@ -183,10 +184,13 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 359 liter. Med baksätet nedfällt är det 1396 liter. Bilens maximala vikt är 2288 kg, och med basvikten på 1810 kg kan du lasta maximalt 478 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 359 liter. Med baksätet nedfällt är det 1396 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 150 liter. Bilens maximala vikt är 2288 kg, och med basvikten på 1810 kg kan du lasta maximalt 478 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 478 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/trunk_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1915"  >}}
 
+### Tillgänglighet och pris
+
+Denna modell hade världspremiär 07.10.2021 och leveranserna startade i January 2022.
