@@ -415,73 +415,80 @@ Høy hastighet øker forbruket på grunn av høyere luftmotstand.
 
 ### Temperaturen
 
-Temperaturen påvirker rekkevidden på forskjellige måter. Hvis det er kaldt, er luften tettere og har høyere aerodynamisk luftmotstand.
+Flere faktorer påvirker rekkevidden når temperaturen endres.
 
-I tillegg vil varmt og kaldt vær øke bilens forbruk av klimaanlegg. På en iskald dag kan du bruke en betydelig del av batteriet på å varme opp hytta.
+#### AC-forbruk
 
-Tabellen under viser hvordan ulike gjennomsnittlige AC-forbruksnivåer for oppvarming/kjøling vil påvirke forbruket ved kjøring. Å kjøre sakte med varmesprengning vil påvirke rekkevidden mest.
+Varmt og kaldt vær vil øke bilens forbruk av klimaanlegg.
+På en iskald dag kan du bruke en betydelig del av batteriet på å varme opp hytta.
+
+Det samme gjelder på varme dager når AC prøver å kjøle ned hytta.
+
+Avhengig av den typiske modellen er MAX-effekten som AC-en kan trekke fra batteriet 5-10kW ved maks.
+
+Tabellen under viser hvordan ulike gjennomsnittlige AC-forbruksnivåer for oppvarming/kjøling vil påvirke kjøreforbruket. Å kjøre sakte med varmesprengning vil påvirke rekkevidden mest.
 
 <table class="table table-striped border">
-    <thead>
-        <tr>
-            <th>
-                Average Speed
-            </th>
-            <th>
-                Consumption 1kW
-            </th>
-            <th>
-                Consumption 2kW
-            </th>
-            <th>
-                Consumption 5kW
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                46.5 kph / 28.9 mph (wltp avg)
-            </td>
-            <td>
-                2.15kWh/100km
-            </td>
-            <td>
-                4.3kWh/100km
-            </td>
-            <td>
-                10.75kWh/100km
-            </td>
-        </tr>
+     <thead>
          <tr>
-            <td>
-                80 kph /49.7 mph
-            </td>
-            <td>
-                1.25kWh/100km
-            </td>
-            <td>
-                2.5kWh/100km
-            </td>
-            <td>
-                6.25kWh/100km
-            </td>
-        </tr>
+             <th>
+                 Gjennomsnittshastighet
+             </th>
+             <th>
+                 Forbruk 1kW
+             </th>
+             <th>
+                 Forbruk 2kW
+             </th>
+             <th>
+                 Forbruk 5kW
+             </th>
+         </tr>
+     </thead>
+     <tbody>
+         <tr>
+             <td>
+                 46,5 km/t / 28,9 mph (gjennomsnittlig vekt)
+             </td>
+             <td>
+                 2,15 kWh/100 km
+             </td>
+             <td>
+                 4,3 kWh/100 km
+             </td>
+             <td>
+                 10,75 kWh/100 km
+             </td>
+         </tr>
           <tr>
-            <td>
-                120 kph / 75 mph
-            </td>
-            <td>
-                0.8kWh/100km
-            </td>
-            <td>
-                1.7kWh/100km
-            </td>
-            <td>
-                4.2kWh/100km
-            </td>
-        </tr>
-    </tbody>
+             <td>
+                 80 km/t/49,7 mph
+             </td>
+             <td>
+                 1,25 kWh/100 km
+             </td>
+             <td>
+                 2,5 kWh/100 km
+             </td>
+             <td>
+                 6,25 kWh/100 km
+             </td>
+         </tr>
+           <tr>
+             <td>
+                 120 km/t / 75 mph
+             </td>
+             <td>
+                 0,8 kWh/100 km
+             </td>
+             <td>
+                 1,7 kWh/100 km
+             </td>
+             <td>
+                 4,2 kWh/100 km
+             </td>
+         </tr>
+     </tbody>
 </table>
 
 Tabellen nedenfor viser hvordan ulike modeller påvirkes av 2KW AC ved ulike hastigheter.
@@ -489,58 +496,80 @@ Tabellen nedenfor viser hvordan ulike modeller påvirkes av 2KW AC ved ulike has
 En modell med lavt forbruk under perfekte forhold påvirkes mer i prosent.
 
 <table class="table table-striped border">
-    <thead>
-        <tr>
-            <th>
-                Model
-            </th>
-            <th>
-                Range reduction 2kW on 46.5 kph / 28.9 mph
-            </th>
-            <th>
-                Range reduction 2kW on 80 kph / 28.9 mph
-            </th>
-            <th>
-                Range reduction 2kW on 120 kph / 75 mph
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                Tesla Model Y Long Range
-            </td>
-            <td>-22.8%
-            </td>
-            <td>-12.9%
-            </td>
-            <td>-7.9%
-             </td>
-        </tr>
+     <thead>
          <tr>
-            <td>
-                Toyota bZ4X FWD
-            </td>
-            <td>-27.7&
-            </td>
-            <td>-11.6%
-            </td>
-            <td>-7%%
-            </td>
-        </tr>
+             <th>
+                 Modell
+             </th>
+             <th>
+                 Rekkevidderedusering 2kW på 46,5 km/t / 28,9 mph
+             </th>
+             <th>
+                 Rekkevidderedusering 2kW på 80 km/t / 28,9 mph
+             </th>
+             <th>
+                 Rekkeviddereduksjon 2kW på 120 km/t / 75 mph
+             </th>
+         </tr>
+     </thead>
+     <tbody>
+         <tr>
+             <td>
+                 Tesla Model Y lang rekkevidde
+             </td>
+             <td>-22,8 %
+             </td>
+             <td>-12,9 %
+             </td>
+             <td>-7,9 %
+              </td>
+         </tr>
           <tr>
-            <td>
-                Audi Q8 e-tron 55
-            </td>
-            <td>-19.5%
-            </td>
-            <td>-10%
-            </td>
-            <td>-6.3%
-            </td>
-        </tr>
-    </tbody>
+             <td>
+                 Toyota bZ4X FWD
+             </td>
+             <td>-27,7&
+             </td>
+             <td>-11,6 %
+             </td>
+             <td>-7 %%
+             </td>
+         </tr>
+           <tr>
+             <td>
+                 Audi Q8 e-tron 55
+             </td>
+             <td>-19,5 %
+             </td>
+             <td>-10 %
+             </td>
+             <td>-6,3 %
+             </td>
+         </tr>
+     </tbody>
 </table>
+
+#### Intern motstand i batteriet
+
+Når temperaturen blir lav nok, blir elektrolyttvæsken mer viskøs, noe som bremser de kjemiske reaksjonene og reduserer elektronstrømmen.
+
+Jo høyere indre motstand forårsaker mer varmetap og reduserer den brukbare energien du kan trekke fra batteriet. Denne effekten kan redusere det brukbare batteriet med flere kWh.
+
+Denne effekten påvirker ikke bare rekkevidden en elbil kan få på en lading, men også hvor raskt den kan lades opp.
+
+Siden de kjemiske reaksjonene er langsommere, programmerer produsenten batteriet til å akseptere mindre strøm når.
+
+For å forhindre dette har moderne elbiler batterivarme- og kjølesystemer som prøver å opprettholde et optimalt temperaturområde for batteripakken, vanligvis mellom 40 og 115 grader Fahrenheit.
+
+Mange modeller støtter forutsetningen til batteriet før lading.
+
+Disse systemene bruker imidlertid også en del batteristrøm, spesielt ved oppvarming av batteriet i kaldt vær.
+
+Anta for eksempel at du har et batteri med 77kWh nettokapasitet, og den interne motstanden gjør det kun mulig å trekke 72kWh ut av batteriet. I så fall reduseres rekkevidden med 6,5 % før det tas inn økt forbruk.
+
+#### Lufttetthet
+
+Hvis det er kaldt, er luften tettere og har høyere aerodynamisk luftmotstand.
 
 
 ### Kjørestilen
