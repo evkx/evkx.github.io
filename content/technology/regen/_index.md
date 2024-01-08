@@ -3,6 +3,7 @@ title: Regenerative braking
 linktitle: Regenerative braking
 description: Regenerative braking is a critical feature of modern EVs, allowing the vehicle to recover energy during braking and deceleration.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 By converting the vehicle’s kinetic energy into electrical energy and storing it in the battery, regenerative braking can extend the vehicle’s range and improve overall efficiency. This article will explore the different types of regenerative braking strategies used in EVs, their benefits, and their limitations.

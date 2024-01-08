@@ -3,6 +3,7 @@ title: Regenerativ bremsing
 linktitle: Regenerativ bremsing
 description: Regenerativ bremsing er en kritisk egenskap ved moderne elbiler, som lar kjøretøyet gjenvinne energi under bremsing og retardasjon.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 Ved å konvertere kjøretøyets kinetiske energi til elektrisk energi og lagre den i batteriet, kan regenerativ bremsing utvide kjøretøyets rekkevidde og forbedre den generelle effektiviteten. Denne artikkelen vil utforske de forskjellige typene regenerative bremsestrategier som brukes i elbiler, deres fordeler og deres begrensninger.

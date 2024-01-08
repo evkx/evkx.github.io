@@ -3,6 +3,7 @@ title: Hvor mye kan regenereres?
 linktitle: Regen kalkuleringer
 description: De følgende scenariene bruker matematikk og fysikk for å forklare hvor betydelige fordelene med regenerativ bremsing er.
 weight: 3
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -3,6 +3,7 @@ title: Regenerativ bromsning
 linktitle: Regenerativ bromsning
 description: Regenerativ bromsning är en kritisk egenskap hos moderna elbilar, vilket gör att fordonet kan återvinna energi under inbromsning och retardation.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 Genom att omvandla fordonets kinetiska energi till elektrisk energi och lagra den i batteriet, kan regenerativ bromsning utöka fordonets räckvidd och förbättra den totala effektiviteten. Den här artikeln kommer att utforska de olika typerna av regenerativa bromsstrategier som används i elfordon, deras fördelar och deras begränsningar.

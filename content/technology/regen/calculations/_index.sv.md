@@ -3,6 +3,7 @@ title: Hur mycket kan regenereras?
 linktitle: Regen beräkningar
 description: Följande scenarier använder matematik och fysik för att förklara hur betydande fördelarna med regenerativ bromsning är.
 weight: 3
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 Vi förklarar detaljerna bakom beräkningen i fysikkapitlet. Ändå bör du veta att ett föremål i rörelse har kinetisk energi som elbilen kan återvinna med regenerativ bromsning. En bil i högt läge har potentiell energi som regenerativ bromsning kan återvinna.
