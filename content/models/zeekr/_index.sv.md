@@ -23,6 +23,20 @@ Zeekr 001 är en kombi som finns i 4 varianter.
 	</div>
 </div>
 <div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Zeekr 007</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="007"><img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/main_1_st.jpg" class="img-fluid" alt="Zeekr 007" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Zeekr 007 är en sedan som finns i 1 varianter.
+</p>
+	<a href="007/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Zeekr X</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

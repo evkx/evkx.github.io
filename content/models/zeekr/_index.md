@@ -23,6 +23,20 @@ Zeekr 001 is a station wagon available in 4 variants.
 	</div>
 </div>
 <div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Zeekr 007</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="007"><img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/main_1_st.jpg" class="img-fluid" alt="Zeekr 007" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Zeekr 007 is a sedan available in 1 variants.
+</p>
+	<a href="007/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Zeekr X</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
