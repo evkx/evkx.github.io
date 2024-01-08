@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Test av NIO eT5 Touring</h3>
+<p>Nybiltester: 07.01.2024</p>
+
+{{< youtube 0eFniFN--ck >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Nio ET5 Touring 100 kWh range test</h3>
 <p>Bjørn Nyland: 28.11.2023</p>
 

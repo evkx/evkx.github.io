@@ -3,7 +3,6 @@ title: How much can be regenerated?
 linktitle: Regen calculations
 description: The following scenarios use math and physics to explain how significant the benefits of regenerative braking are.
 weight: 3
-shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

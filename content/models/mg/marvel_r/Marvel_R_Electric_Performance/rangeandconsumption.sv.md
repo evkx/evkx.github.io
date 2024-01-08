@@ -45,8 +45,8 @@ Tabellen nedan visar några uppskattade exempel från den verkliga världen i pe
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td> 90kmh/56mph perfect condition </td><td> 467km /290mi</td><td> 15 kWh/100km / 4,1 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 420km /253mi</td><td> 17,2 kWh/100km / 3,6 mi/kWh </td></tr
-<tr><td> 120kmh/75mph perfect condition </td><td> 333km /207mi</td><td> 21 kWh/100km / 3,0 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 309km /192mi</td><td> 22,7 kWh/100km / 2,7 mi/kWh </td></tr
+<tr><td> 90kmh/56mph perfect condition </td><td> 385km /239mi</td><td> 18,2 kWh/100km / 3,4 mi/kWh </td></tr>
+<tr><td> 90kmh/56mph with 2KW heating </td><td> 353km /213mi</td><td> 20,4 kWh/100km / 3,0 mi/kWh </td></tr
+<tr><td> 120kmh/75mph perfect condition </td><td> 286km /178mi</td><td> 24,5 kWh/100km / 2,5 mi/kWh </td></tr>
+<tr><td> 120kmh/75mph with 2KW heating </td><td> 268km /167mi</td><td> 26,2 kWh/100km / 2,4 mi/kWh </td></tr
 </tbody></table>
