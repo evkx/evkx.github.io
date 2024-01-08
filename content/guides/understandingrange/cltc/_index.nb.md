@@ -1,7 +1,7 @@
 ---
-title: CLTC Range testing
+title: CLTC Rekkevidde testing
 linktitle: CLTC
-description: The CLTC is a driving cycle that simulates the typical driving conditions and patterns of Chinese drivers.
+description: CLTC er en kjøresyklus som simulerer de typiske kjøreforholdene og mønstrene til kinesiske sjåfører.
 weight: 3
 shownavtabs: true
 ---
