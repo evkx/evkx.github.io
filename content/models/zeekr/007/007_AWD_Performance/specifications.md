@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2200 kg (4850 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				3080 kg (6790 lbs)
+				2800 kg (6173 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				730 kg (1609 lbs)
+				600 kg (1323 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				539 liter (19 cu-ft)
+				462 liter (16 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1411 liter (50 cu-ft)
+				1300 liter (46 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -275,30 +275,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				32 liter (1 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
-			</td>
-			<td>
-				2000 kg (4409 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
-			</td>
-			<td>
-				750 kg (1653 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
-			</td>
-			<td>
-				100 kg (220 lbs)
 			</td>
 		</tr>
 	</tbody>

@@ -226,7 +226,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2350 kg
+				2200 kg
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				3080 kg
+				2800 kg
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				730 kg
+				600 kg
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				539 liter
+				462 liter
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1411 liter
+				1300 liter
 			</td>
 		</tr>
 		<tr>
@@ -275,30 +275,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				32 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksimum vekt tilhenger med bremse
-			</td>
-			<td>
-				2000 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksimum vekt tilhenger med bremse
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt på tilhengerkobling
-			</td>
-			<td>
-				100 kg
 			</td>
 		</tr>
 	</tbody>

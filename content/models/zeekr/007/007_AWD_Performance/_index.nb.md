@@ -155,7 +155,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Zeekr 007 AWD Performance. Med Yamaha Sound System får du 12 høyttalere med en maksimal systemeffekt på 300 watt.
+Én type lydsystem er tilgjengelig for Zeekr 007 AWD Performance. Med Yamaha Sound System får du 21 høyttalere med en maksimal systemeffekt på 300 watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Zeekr 007 AWD Performance Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
@@ -197,9 +197,9 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 539 liter. Med baksetet nede er det 1411 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3080 kg, og med basisvekten på 2350 kg kan du maksimalt laste 730 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 462 liter. Med baksetet nede er det 1300 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 2800 kg, og med basisvekten på 2200 kg kan du maksimalt laste 600 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
+Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 27.12.2023, og leveringene forventes å starte om March 2024.
+Denne modellen hadde verdenspremiere 27.12.2023, og leveringene startet i January 2024.

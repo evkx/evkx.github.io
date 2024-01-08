@@ -155,7 +155,7 @@ This model is equipped with voice control as standard. The voice control lets yo
 
 ## Infotainment
 
-One type of sound system is available for the Zeekr 007 AWD Performance. With the Yamaha Sound System, you get 12 speakers with a max system output of 300 watts.
+One type of sound system is available for the Zeekr 007 AWD Performance. With the Yamaha Sound System, you get 21 speakers with a max system output of 300 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Zeekr 007 AWD Performance supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
@@ -197,9 +197,9 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 539 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1,1 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2350 kg (5181 lbs), you can max load 730 kg (1609 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 462 liters. With the rear seat down, it is 1300 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1,1 CU FT). The maxium weight of the car is 2800 kg (6173 lbs), and with the base weight of 2200 kg (4850 lbs), you can max load 600 kg (1323 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 27.12.2023, and deliveries is expected to start in March 2024.
+This model had a world premiere on 27.12.2023, and deliveries started in January 2024.

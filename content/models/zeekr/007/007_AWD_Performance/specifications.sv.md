@@ -226,7 +226,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CurbWeight
 			</td>
 			<td>
-				2350 kg
+				2200 kg
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				3080 kg
+				2800 kg
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				730 kg
+				600 kg
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bålstorlek
 			</td>
 			<td>
-				539 liter
+				462 liter
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek med alla baksäten nedfällda
 			</td>
 			<td>
-				1411 liter
+				1300 liter
 			</td>
 		</tr>
 		<tr>
@@ -275,30 +275,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				32 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max bromsad släpvikt
-			</td>
-			<td>
-				2000 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximal bromsad släpvagnsvikt
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Släpvagnskopplingens maximala vikt
-			</td>
-			<td>
-				100 kg
 			</td>
 		</tr>
 	</tbody>
