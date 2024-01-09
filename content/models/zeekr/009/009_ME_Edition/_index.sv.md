@@ -202,7 +202,7 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 376 liter. Med den tredje sätesraden nere är den 2979 liter. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 3080 kg, och med basvikten på 2350 kg kan du lasta maximalt 730 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 376 liter. Med den tredje sätesraden nere är den 2979 liter. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 3400 kg, och med basvikten på 2830 kg kan du lasta maximalt 570 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris

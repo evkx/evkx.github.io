@@ -234,7 +234,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CurbWeight
 			</td>
 			<td>
-				2350 kg
+				2830 kg
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				3080 kg
+				3400 kg
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				730 kg
+				570 kg
 			</td>
 		</tr>
 		<tr>
