@@ -69,7 +69,7 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 You can choose between 1 different paint colors when ordering this model.
 
-
+Powered doors are a standard function for the side doors.
 
 There is only one roof for this model.
 

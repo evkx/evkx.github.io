@@ -69,7 +69,7 @@ Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan
 
 Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
-
+Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell.
 

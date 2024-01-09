@@ -69,7 +69,7 @@ Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping
 
 Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
-
+Elektriske dører er standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen.
 

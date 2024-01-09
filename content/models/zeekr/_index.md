@@ -37,6 +37,20 @@ Zeekr 007 is a sedan available in 1 variants.
 	</div>
 </div>
 <div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Zeekr 009</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="009"><img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/main_1_st.jpg" class="img-fluid" alt="Zeekr 009" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+modelintro.MPV.Mid
+</p>
+	<a href="009/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Zeekr X</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
