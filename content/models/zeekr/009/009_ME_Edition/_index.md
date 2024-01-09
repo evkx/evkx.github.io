@@ -123,7 +123,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+The third row has a two-seat bench with a 40:60 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 There is only one type of steering wheel available.
 
@@ -204,7 +204,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 The cargo capacity in the trunk is 376 liters. With the third-row seat down, it is 2979 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1,1 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2350 kg (5181 lbs), you can max load 730 kg (1609 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
 This model had a world premiere on 14.04.2021, and deliveries started in October 2021.

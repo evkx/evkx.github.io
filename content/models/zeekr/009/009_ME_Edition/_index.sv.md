@@ -123,7 +123,7 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+Den tredje raden har en tvåsitsig bänk med en 40:60-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -204,7 +204,7 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 Lastkapaciteten i bagageutrymmet är 376 liter. Med den tredje sätesraden nere är den 2979 liter. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 3080 kg, och med basvikten på 2350 kg kan du lasta maximalt 730 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
+Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 14.04.2021 och leveranserna startade i October 2021.

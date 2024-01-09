@@ -285,30 +285,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				32 liter
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Maksimum vekt tilhenger med bremse
-			</td>
-			<td>
-				2000 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksimum vekt tilhenger med bremse
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt på tilhengerkobling
-			</td>
-			<td>
-				100 kg
-			</td>
-		</tr>
 	</tbody>
 </table>
 

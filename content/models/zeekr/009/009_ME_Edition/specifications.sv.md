@@ -285,30 +285,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				32 liter
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Max bromsad släpvikt
-			</td>
-			<td>
-				2000 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maximal bromsad släpvagnsvikt
-			</td>
-			<td>
-				750 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Släpvagnskopplingens maximala vikt
-			</td>
-			<td>
-				100 kg
-			</td>
-		</tr>
 	</tbody>
 </table>
 

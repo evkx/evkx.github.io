@@ -123,7 +123,7 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+Den tredje raden har en to-seters benk med en 40:60 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig.
 
@@ -204,7 +204,7 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 Lastkapasiteten i bagasjerommet er 376 liter. Med setet på tredje rad nede er det 2979 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3080 kg, og med basisvekten på 2350 kg kan du maksimalt laste 730 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
+Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021.

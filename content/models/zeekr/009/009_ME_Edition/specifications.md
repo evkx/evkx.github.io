@@ -285,30 +285,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				32 liter (1 cu-ft)
 			</td>
 		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
-			</td>
-			<td>
-				2000 kg (4409 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
-			</td>
-			<td>
-				750 kg (1653 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
-			</td>
-			<td>
-				100 kg (220 lbs)
-			</td>
-		</tr>
 	</tbody>
 </table>
 
