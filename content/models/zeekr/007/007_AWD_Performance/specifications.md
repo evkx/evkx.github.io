@@ -940,7 +940,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 8,8
+				Yes, 13
 			</td>
 		</tr>
 		<tr>
@@ -948,7 +948,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 15,4"
+				Yes, 15"
 			</td>
 		</tr>
 		<tr>

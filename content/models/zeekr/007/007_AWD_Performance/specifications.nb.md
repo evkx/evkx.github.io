@@ -940,7 +940,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 8,8
+				Ja, 13
 			</td>
 		</tr>
 		<tr>
@@ -948,7 +948,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 15,4
+				Ja, 15
 			</td>
 		</tr>
 		<tr>

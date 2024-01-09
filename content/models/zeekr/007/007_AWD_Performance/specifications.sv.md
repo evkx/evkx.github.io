@@ -940,7 +940,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 8,8
+				Ja, 13
 			</td>
 		</tr>
 		<tr>
@@ -948,7 +948,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15,4
+				Ja, 15
 			</td>
 		</tr>
 		<tr>
