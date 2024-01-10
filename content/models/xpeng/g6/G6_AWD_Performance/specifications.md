@@ -210,7 +210,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2160 kg (4762 lbs)
+				2095 kg (4619 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				440 kg (970 lbs)
+				505 kg (1113 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				150 mm (5,9")
+				160 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				150 mm (5,9")
+				160 mm (6,3")
 			</td>
 		</tr>
 		<tr>

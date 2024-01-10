@@ -210,7 +210,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CurbWeight
 			</td>
 			<td>
-				2160 kg
+				2095 kg
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				440 kg
+				505 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max Ground Clearance
 			</td>
 			<td>
-				150 mm
+				160 mm
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				150 mm
+				160 mm
 			</td>
 		</tr>
 		<tr>

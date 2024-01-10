@@ -57,7 +57,7 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 XPENG G6 AWD Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 160 mm.
 
 ### Bromsar
 
@@ -154,7 +154,7 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för XPENG G6 AWD Performance. Med  får du 24 högtalare med en maximal systemeffekt på 1940 watt.
+En typ av ljudsystem är tillgänglig för XPENG G6 AWD Performance. Med  får du 18 högtalare med en maximal systemeffekt på 1200 watt.
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
@@ -201,4 +201,4 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 660 liter. Med baksätet nedfällt är det 1576 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 71 liter. Bilens maximala vikt är 2600 kg, och med basvikten på 2160 kg kan du lasta maximalt 440 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 440 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Lastkapaciteten i bagageutrymmet är 660 liter. Med baksätet nedfällt är det 1576 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 71 liter. Bilens maximala vikt är 2600 kg, och med basvikten på 2095 kg kan du lasta maximalt 505 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.

@@ -57,7 +57,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 XPENG G6 AWD Performance has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
 
 ### Brakes
 
@@ -154,7 +154,7 @@ This model is equipped with voice control as standard. The voice control lets yo
 
 ## Infotainment
 
-One type of sound system is available for the XPENG G6 AWD Performance. With the , you get 24 speakers with a max system output of 1940 watts.
+One type of sound system is available for the XPENG G6 AWD Performance. With the , you get 18 speakers with a max system output of 1200 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 
@@ -201,4 +201,4 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2,5 CU FT). The maxium weight of the car is 2600 kg (5732 lbs), and with the base weight of 2160 kg (4762 lbs), you can max load 440 kg (970 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 440kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2,5 CU FT). The maxium weight of the car is 2600 kg (5732 lbs), and with the base weight of 2095 kg (4619 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
