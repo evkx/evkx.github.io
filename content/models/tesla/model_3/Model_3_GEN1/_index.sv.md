@@ -26,6 +26,12 @@ Vi har delat in vår beskrivning av Tesla Model 3 (GEN1) i avsnitt. Om du vill v
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<div class="alert alert-secondary" role="alert">
+
+Denna modell har ersatts av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range/).
+
+</div>
+
 
 ## Prestanda
 
@@ -222,4 +228,4 @@ Lastutrymmets kapacitet är 561 liter. På taket kan du lasta upp till 70 kg. Bi
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1000, och på obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-
+Denna modell hade världspremiär 01.04.2016 och leveranser startade i July 2017. Denna modell har nu utgått. Denna modell har ersatts av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).

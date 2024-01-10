@@ -102,6 +102,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				14,8 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA-rekkevidde
+			</td>
+			<td>
+				333 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-forbruk
+			</td>
+			<td>
+				4,4 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 

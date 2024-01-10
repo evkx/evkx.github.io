@@ -26,6 +26,12 @@ Vi har delt vår beskrivelse av Tesla Model 3 Long Range (GEN1) i seksjoner. Hvi
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne modellen er erstattet av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range/).
+
+</div>
+
 
 ## Ytelse
 
@@ -222,4 +228,4 @@ Lastkapasiteten i bagasjerommet er 561 liter. På taket kan du laste opptil 70 k
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-
+Denne modellen hadde verdenspremiere 01.04.2016, og leveringene startet i July 2017. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).
