@@ -37,9 +37,9 @@ The battery has a gross capacity of 87,5kWh and a net capacity of 82kWh, meaning
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 11.7kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 43 minutes, while a more common scenario of 10-80% would take 17 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 71%, resulting in an actual charge speed, including time loss, of 163kW. Each charge session would take 19 minutes and 20 seconds.
+The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 60%, resulting in an actual charge speed, including time loss, of 147kW. Each charge session would take 18 minutes and 43 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 9 hours and 26 minutes. This trip will require four charge session(s) charging from 7% to 62%. The total time lost for charging up the battery will be 67 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 9 hours and 33 minutes. This trip will require four charge session(s) charging from 7% to 62%. The total time lost for charging up the battery will be 74 minutes.
 
 ### Onboard charger
 
