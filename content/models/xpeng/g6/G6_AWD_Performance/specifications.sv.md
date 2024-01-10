@@ -242,7 +242,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bålstorlek
 			</td>
 			<td>
-				660 liter
+				571 liter
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek med alla baksäten nedfällda
 			</td>
 			<td>
-				1576 liter
+				1374 liter
 			</td>
 		</tr>
 		<tr>
