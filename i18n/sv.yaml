@@ -91,6 +91,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-f2ab9bce
+  translation: XPENG G6 AWD Performance är en helelektrisk SUV med en CLTC räckvidd på upp till 700 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-4564fd05
   translation: Zeekr 009 ME Edition är en helelektrisk MPV med en CLTC räckvidd på upp till 822 km. EVKX.net har alla detaljer.
 
@@ -102,7 +105,4 @@
 
 - id: frontpage-description-cb116463
   translation: Opel Mokka Electric är en helelektrisk crossover med en WLTP räckvidd på upp till 406 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-61792853
-  translation: Audi Q8 e-tron edition Dakar är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 487 km. EVKX.net har alla detaljer.
 

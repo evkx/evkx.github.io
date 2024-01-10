@@ -23,6 +23,20 @@ XPENG G3 is a crossover available in 1 variants.
 	</div>
 </div>
 <div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<h3> XPENG G6</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="g6"><img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/main_1_st.jpg" class="img-fluid" alt="XPENG G6" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+XPENG G6 is a SUV available in 1 variants.
+</p>
+	<a href="g6/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
 <h3> XPENG G9</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
