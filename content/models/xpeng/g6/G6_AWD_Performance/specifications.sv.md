@@ -561,7 +561,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +569,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +625,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +931,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 9
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>

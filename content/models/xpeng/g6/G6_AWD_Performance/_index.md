@@ -63,7 +63,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. At low speeds, the one-pedal drive mode will keep the car creeping forward.
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
 
 ## Exterior
 
@@ -115,9 +115,9 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-- [heating](../../../../technology/seats/adjustment/#heating)
+- height adjustable headrest
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 
@@ -143,7 +143,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The XPENG G6 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 9.0 inches large . The touch screen on the dashboard's center  is 15.0 inches large .
+The XPENG G6 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large . The touch screen on the dashboard's center  is 15.0 inches large .
 The model does not have a head-up display.
 
 
@@ -158,7 +158,7 @@ One type of sound system is available for the XPENG G6 AWD Performance. With the
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 
-
+The model has 4 USB-C connections as standard.
 ## Lights
 
 

@@ -22,3 +22,10 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 {{< youtube JzAva_RREVI >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The XPeng G6 Is Good Enough To Take On The Model Y</h3>
+<p>Wheelsboy: 23.06.2023</p>
+
+{{< youtube wy2RnggRRg4 >}}
+
+</div>

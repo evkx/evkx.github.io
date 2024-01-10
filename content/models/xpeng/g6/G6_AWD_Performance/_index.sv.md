@@ -63,7 +63,7 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
-[Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual - regen-user-brakepedal) för att regenerera. Vid låga hastigheter kommer körläget med en pedal att hålla bilen krypande framåt.
+[Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual - regen-user-brakepedal) för att regenerera. Systemet stoppar bilen helt med friktionsbromsar.
 
 ## Exteriör
 
@@ -115,9 +115,9 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
+- höjdjusterbart nackstöd
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-XPENG G6 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 9.0 tum . Skärmen touch i mitten av instrumentbrädan är 15.0 tum .
+XPENG G6 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10.2 tum . Skärmen touch i mitten av instrumentbrädan är 15.0 tum .
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -158,7 +158,7 @@ En typ av ljudsystem är tillgänglig för XPENG G6 AWD Performance. Med  får d
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-
+Modellen har 4 USB-C-anslutningar som standard.
 ## Ljus
 
 
