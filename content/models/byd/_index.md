@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
  Since the company was established in 1995, BYD has quickly developed solid expertise in rechargeable batteries and has become a company that is at the forefront of sustainable development. The company exports its renewable energy solutions globally, including in over 70 countries. BYD focuses on offering energy solutions with zero emissions. Since BYD's first all-electric concept car was presented in 2004, BYD has become one of the first manufacturers globally to produce one million electric passenger cars.
 
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BYD Atto 3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ BYD Atto 3 is a crossover available in 1 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BYD Dolphin</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ BYD Dolphin is a crossover available in 1 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BYD Han</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ BYD Han is a sedan available in 1 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BYD Seal</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -64,7 +64,7 @@ BYD Seal is a sedan available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BYD Tang</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

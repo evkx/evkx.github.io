@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID. Buzz</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ modelintro.MPV.Mid
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID.3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ Volkswagen ID.3 er en hatcback tilgjengelig i 2 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID.4</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ Volkswagen ID.4 er en SUV tilgjengelig i 5 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID.5</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -64,7 +64,7 @@ Volkswagen ID.5 er en Coupe SUV tilgjengelig i 4 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID.7</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

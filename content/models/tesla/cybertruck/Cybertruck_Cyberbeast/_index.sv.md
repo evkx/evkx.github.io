@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 123kWh och en nettokapacitet på 122,5kWh, 
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 320 miles (515 km). Förbrukningen är 2.6mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
-Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 38%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 156kW. Varje laddningssession tar 18 minuter och 53 sekunder.
+Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 37%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 157kW. Varje laddningssession tar 17 minuter och 22 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 32,5kWh/100km, tar 1000km 9 timmar och 39 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 0% till 42%. Total tid som går förlorad för att ladda batteriet kommer att vara 80 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 32,5kWh/100km, tar 1000km 9 timmar och 39 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 0% till 42%. Total tid som går förlorad för att ladda batteriet kommer att vara 79 minuter.
 
 ### Inbyggd laddare
 

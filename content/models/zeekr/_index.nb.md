@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Zeekr 001</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ Zeekr 001 er en stasjonsvogn tilgjengelig i 4 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Zeekr 007</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ Zeekr 007 er en sedan tilgjengelig i 1 varianter.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Zeekr 009</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ modelintro.MPV.Mid
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Zeekr X</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

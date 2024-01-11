@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> MG Marvel R</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ MG Marvel R is a SUV available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> MG MG4</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ MG MG4 is a crossover available in 4 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> MG MG5</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

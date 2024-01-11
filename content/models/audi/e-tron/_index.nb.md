@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 <h2>Discontinued variants</h2>
 
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Audi e-tron 50</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -26,7 +26,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Audi e-tron 50 Sportback</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -44,7 +44,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Audi e-tron 55</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -62,7 +62,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Audi e-tron 55 Sportback</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -80,7 +80,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Audi e-tron S</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -98,7 +98,7 @@ weight: 30
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Audi e-tron S Sportback</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

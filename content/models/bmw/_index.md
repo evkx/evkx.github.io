@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 From 2025 onwards, the BMW Group plans to increase its delivery share of all-electric vehicles to 50% with the Neue Klasse, while also further reducing its carbon footprint over the entire life cycle. BMW has currently 7 all electric models with total 15 variants in the market. Below you find links for each model page.
 
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW i4</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ BMW i4 is a premium sedan available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW i5</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -36,7 +36,7 @@ BMW i5 is a premium sedan available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW i7</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -50,7 +50,7 @@ BMW i7 is a luxury sedan available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW iX</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -64,7 +64,7 @@ BMW iX is a luxury SUV available in 3 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW iX1</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -78,7 +78,7 @@ BMW iX1 is a premium SUV available in 2 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW iX2</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -92,7 +92,7 @@ BMW iX2 is a premium Coupe SUV available in 1 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW iX3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

@@ -8,7 +8,7 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 Citroën's EV strategy is to offer electrified versions of all its models by 2025, and to become a leader in low-emission mobility. Citroën aims to provide electric vehicles that are affordable, practical, and comfortable, while retaining the brand's unique style and personality.
 
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Citroën ë-C3</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -22,7 +22,7 @@ Citroën ë-C3 is a crossover available in 1 variants.
 		</div>
 	</div>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Citroën ë-C4</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

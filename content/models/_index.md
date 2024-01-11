@@ -7,7 +7,7 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 Click on the logos below to go directly to the brand page, or scroll down to read the introduction for each brand.
-<div class="container text-center shadow-sm p-2 pe-4 mb-4 bg-body-tertiary rounded border">
+<div class="container text-center p-2 pe-4 mb-4 bg-body-tertiary rounded border">
 	<div class="row align-items-start">
 		<div class="col col-6 col-md-3" >
 			<a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
@@ -147,7 +147,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</div>
 </div>
 
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
 	<h2>Audi</h2>
 	<p>
@@ -158,7 +158,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Go to Audi EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="bmw/"><img src="https://media.evkx.net/multimedia/models/bmw/brandevs_st.jpg" class="img-fluid mb-2" alt="BMW" ></a>
 	<h2>BMW</h2>
 	<p>
@@ -169,7 +169,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="bmw/" class="btn btn-outline-primary" role="button">Go to BMW EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
@@ -180,7 +180,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Go to BYD EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
 	<h2>Cadillac</h2>
 	<p>
@@ -191,7 +191,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Go to Cadillac EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="chevrolet/"><img src="https://media.evkx.net/multimedia/models/chevrolet/brandevs_st.jpg" class="img-fluid mb-2" alt="Chevrolet" ></a>
 	<h2>Chevrolet</h2>
 	<p>
@@ -202,7 +202,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Go to Chevrolet EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
 	<h2>Citroën</h2>
 	<p>
@@ -213,7 +213,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Go to Citroën EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="cupra/"><img src="https://media.evkx.net/multimedia/models/cupra/brandevs_st.jpg" class="img-fluid mb-2" alt="CUPRA" ></a>
 	<h2>CUPRA</h2>
 	<p>
@@ -224,7 +224,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="cupra/" class="btn btn-outline-primary" role="button">Go to CUPRA EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ds/"><img src="https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg" class="img-fluid mb-2" alt="DS" ></a>
 	<h2>DS</h2>
 	<p>
@@ -235,7 +235,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="ds/" class="btn btn-outline-primary" role="button">Go to DS EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="fiat/"><img src="https://media.evkx.net/multimedia/models/fiat/brandevs_st.jpg" class="img-fluid mb-2" alt="Fiat" ></a>
 	<h2>Fiat</h2>
 	<p>
@@ -246,7 +246,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="fiat/" class="btn btn-outline-primary" role="button">Go to Fiat EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="fisker/"><img src="https://media.evkx.net/multimedia/models/fisker/brandevs_st.jpg" class="img-fluid mb-2" alt="Fisker" ></a>
 	<h2>Fisker</h2>
 	<p>
@@ -257,7 +257,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Go to Fisker EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
@@ -268,7 +268,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="ford/" class="btn btn-outline-primary" role="button">Go to Ford EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="genesis/"><img src="https://media.evkx.net/multimedia/models/genesis/brandevs_st.jpg" class="img-fluid mb-2" alt="Genesis" ></a>
 	<h2>Genesis</h2>
 	<p>
@@ -279,7 +279,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="genesis/" class="btn btn-outline-primary" role="button">Go to Genesis EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="gmc/"><img src="https://media.evkx.net/multimedia/models/gmc/brandevs_st.jpg" class="img-fluid mb-2" alt="GMC" ></a>
 	<h2>GMC</h2>
 	<p>
@@ -290,7 +290,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="gmc/" class="btn btn-outline-primary" role="button">Go to GMC EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hiphi/"><img src="https://media.evkx.net/multimedia/models/hiphi/brandevs_st.jpg" class="img-fluid mb-2" alt="HiPhi" ></a>
 	<h2>HiPhi</h2>
 	<p>
@@ -301,7 +301,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="hiphi/" class="btn btn-outline-primary" role="button">Go to HiPhi EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="honda/"><img src="https://media.evkx.net/multimedia/models/honda/brandevs_st.jpg" class="img-fluid mb-2" alt="Honda" ></a>
 	<h2>Honda</h2>
 	<p>
@@ -312,7 +312,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="honda/" class="btn btn-outline-primary" role="button">Go to Honda EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hongqi/"><img src="https://media.evkx.net/multimedia/models/hongqi/brandevs_st.jpg" class="img-fluid mb-2" alt="Hongqi" ></a>
 	<h2>Hongqi</h2>
 	<p>
@@ -323,7 +323,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="hongqi/" class="btn btn-outline-primary" role="button">Go to Hongqi EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
@@ -334,7 +334,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Go to Hyundai EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="jaguar/"><img src="https://media.evkx.net/multimedia/models/jaguar/brandevs_st.jpg" class="img-fluid mb-2" alt="Jaguar" ></a>
 	<h2>Jaguar</h2>
 	<p>
@@ -345,7 +345,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="jaguar/" class="btn btn-outline-primary" role="button">Go to Jaguar EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="jeep/"><img src="https://media.evkx.net/multimedia/models/jeep/brandevs_st.jpg" class="img-fluid mb-2" alt="Jeep" ></a>
 	<h2>Jeep</h2>
 	<p>
@@ -356,7 +356,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Go to Jeep EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
 	<h2>Kia</h2>
 	<p>
@@ -367,7 +367,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Go to Kia EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>
 	<h2>Lexus</h2>
 	<p>
@@ -378,7 +378,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="lexus/" class="btn btn-outline-primary" role="button">Go to Lexus EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lotus/"><img src="https://media.evkx.net/multimedia/models/lotus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lotus" ></a>
 	<h2>Lotus</h2>
 	<p>
@@ -389,7 +389,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="lotus/" class="btn btn-outline-primary" role="button">Go to Lotus EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
 	<h2>Lucid</h2>
 	<p>
@@ -400,7 +400,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Go to Lucid EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="mercedes/"><img src="https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg" class="img-fluid mb-2" alt="Mercedes" ></a>
 	<h2>Mercedes</h2>
 	<p>
@@ -411,7 +411,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="mercedes/" class="btn btn-outline-primary" role="button">Go to Mercedes EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="mg/"><img src="https://media.evkx.net/multimedia/models/mg/brandevs_st.jpg" class="img-fluid mb-2" alt="MG" ></a>
 	<h2>MG</h2>
 	<p>
@@ -422,7 +422,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Go to MG EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>
 	<h2>Nio</h2>
 	<p>
@@ -433,7 +433,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="nio/" class="btn btn-outline-primary" role="button">Go to Nio EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="nissan/"><img src="https://media.evkx.net/multimedia/models/nissan/brandevs_st.jpg" class="img-fluid mb-2" alt="Nissan" ></a>
 	<h2>Nissan</h2>
 	<p>
@@ -444,7 +444,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Go to Nissan EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Opel</h2>
 	<p>
 		Opel is a German automobile manufacturer that has been a subsidiary of Stellantis since 2021. It was previously owned by General Motors and PSA Group. Opel produces passenger cars, light commercial vehicles, and vehicle parts, and sells them under the Opel and Vauxhall brands in Europe and other regions.
@@ -454,7 +454,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="opel/" class="btn btn-outline-primary" role="button">Go to Opel EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>
 	<h2>Peugot</h2>
 	<p>
@@ -465,7 +465,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="peugot/" class="btn btn-outline-primary" role="button">Go to Peugot EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="polestar/"><img src="https://media.evkx.net/multimedia/models/polestar/brandevs_st.jpg" class="img-fluid mb-2" alt="Polestar" ></a>
 	<h2>Polestar</h2>
 	<p>
@@ -476,7 +476,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="polestar/" class="btn btn-outline-primary" role="button">Go to Polestar EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
@@ -487,7 +487,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Go to Porsche EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="renault/"><img src="https://media.evkx.net/multimedia/models/renault/brandevs_st.jpg" class="img-fluid mb-2" alt="Renault" ></a>
 	<h2>Renault</h2>
 	<p>
@@ -498,7 +498,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Go to Renault EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" class="img-fluid mb-2" alt="Rivian" ></a>
 	<h2>Rivian</h2>
 	<p>
@@ -509,7 +509,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="rivian/" class="btn btn-outline-primary" role="button">Go to Rivian EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rolls-royce/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/brandevs_st.jpg" class="img-fluid mb-2" alt="Rolls-Royce" ></a>
 	<h2>Rolls-Royce</h2>
 	<p>
@@ -520,7 +520,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="rolls-royce/" class="btn btn-outline-primary" role="button">Go to Rolls-Royce EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="seres/"><img src="https://media.evkx.net/multimedia/models/seres/brandevs_st.jpg" class="img-fluid mb-2" alt="Seres" ></a>
 	<h2>Seres</h2>
 	<p>
@@ -531,7 +531,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="seres/" class="btn btn-outline-primary" role="button">Go to Seres EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
 	<p>
@@ -542,7 +542,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Go to Skoda EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="smart/"><img src="https://media.evkx.net/multimedia/models/smart/brandevs_st.jpg" class="img-fluid mb-2" alt="Smart" ></a>
 	<h2>Smart</h2>
 	<p>
@@ -553,7 +553,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="smart/" class="btn btn-outline-primary" role="button">Go to Smart EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="subaru/"><img src="https://media.evkx.net/multimedia/models/subaru/brandevs_st.jpeg" class="img-fluid mb-2" alt="Subaru" ></a>
 	<h2>Subaru</h2>
 	<p>
@@ -564,7 +564,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="subaru/" class="btn btn-outline-primary" role="button">Go to Subaru EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="tesla/"><img src="https://media.evkx.net/multimedia/models/tesla/brandevs_st.jpg" class="img-fluid mb-2" alt="Tesla" ></a>
 	<h2>Tesla</h2>
 	<p>
@@ -575,7 +575,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="tesla/" class="btn btn-outline-primary" role="button">Go to Tesla EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="toyota/"><img src="https://media.evkx.net/multimedia/models/toyota/brandevs_st.jpg" class="img-fluid mb-2" alt="Toyota" ></a>
 	<h2>Toyota</h2>
 	<p>
@@ -586,7 +586,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="toyota/" class="btn btn-outline-primary" role="button">Go to Toyota EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
@@ -597,7 +597,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Go to Volkswagen EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="volvo/"><img src="https://media.evkx.net/multimedia/models/volvo/brandevs_st.jpg" class="img-fluid mb-2" alt="Volvo" ></a>
 	<h2>Volvo</h2>
 	<p>
@@ -608,7 +608,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="volvo/" class="btn btn-outline-primary" role="button">Go to Volvo EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="voyah/"><img src="https://media.evkx.net/multimedia/models/voyah/brandevs_st.jpg" class="img-fluid mb-2" alt="VOYAH" ></a>
 	<h2>VOYAH</h2>
 	<p>
@@ -619,7 +619,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Go to VOYAH EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" class="img-fluid mb-2" alt="XPENG" ></a>
 	<h2>XPENG</h2>
 	<p>
@@ -630,7 +630,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Go to XPENG EV-model overview</a>
 </div>
-<div class="container shadow-sm p-3 mb-4 bg-body-tertiary rounded border">
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>
 	<h2>Zeekr</h2>
 	<p>
