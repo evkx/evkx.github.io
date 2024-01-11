@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Cybertruck DC Fast Charge Testing & Analysis - Comparing To Rivian, Lightning, & Hummer EV</h3>
+<p>Out of Spec Reviews: 11.01.2024</p>
+
+{{< youtube RnE34hEC65A >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Ran The Tesla Cybertruck To Dead In Our 70-MPH Highway Range Test!n</h3>
 <p>Out of Spec Reviews: 07.01.2024</p>
 
