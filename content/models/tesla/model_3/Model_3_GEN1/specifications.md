@@ -126,6 +126,38 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				14,4 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">Basic trim EPA range</a>
+			</td>
+			<td>
+				272 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">Basic trim EPA consumption</a>
+			</td>
+			<td>
+				4,6 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">Top trim EPA range</a>
+			</td>
+			<td>
+				267 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">Top trim EPA consumption</a>
+			</td>
+			<td>
+				4,5 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
