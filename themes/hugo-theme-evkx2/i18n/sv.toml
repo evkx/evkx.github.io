@@ -36,3 +36,6 @@ other = "Ändra denna sida i github"
 
 [Navigation]
 other = "Visa innehåll"
+
+[Last-Modified]
+other = "Sist endret: "

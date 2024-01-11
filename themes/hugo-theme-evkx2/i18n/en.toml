@@ -36,3 +36,6 @@ other = "Suggest change"
 
 [Navigation]
 other = "Navigation"
+
+[Last-Modified]
+other = "Last modified: "
