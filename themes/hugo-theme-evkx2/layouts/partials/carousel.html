@@ -1,0 +1,66 @@
+<div class="container mb-5">
+	<div id="latestNewsCarousel" class="carousel slide" data-bs-ride="carousel">
+		<div class="carousel-indicators">
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="1" class="" aria-current="true" aria-label="Slide 2"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="2" class="" aria-current="true" aria-label="Slide 3"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="3" class="" aria-current="true" aria-label="Slide 4"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="4" class="" aria-current="true" aria-label="Slide 5"></button>
+		</div>
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<a href="{{ with .Site.GetPage `/models/xpeng/g6/g6_awd_performance/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/main_1_mt.jpg" class="d-block w-100" alt="...">
+				</a>
+				<div class="carousel-caption d-none d-md-block">
+					<h4>XPENG G6 AWD Performance</h4>
+					<p>{{T "frontpage-description-f2ab9bce"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item ">
+				<a href="{{ with .Site.GetPage `/models/zeekr/009/009_me_edition/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/main_1_mt.jpg" class="d-block w-100" alt="...">
+				</a>
+				<div class="carousel-caption d-none d-md-block">
+					<h4>Zeekr 009 ME Edition</h4>
+					<p>{{T "frontpage-description-4564fd05"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item ">
+				<a href="{{ with .Site.GetPage `/models/zeekr/007/007_awd_performance/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/main_1_mt.jpg" class="d-block w-100" alt="...">
+				</a>
+				<div class="carousel-caption d-none d-md-block">
+					<h4>Zeekr 007 AWD Performance</h4>
+					<p>{{T "frontpage-description-1e8adcbc"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item ">
+				<a href="{{ with .Site.GetPage `/models/lotus/emeya/emeya/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/main_1_mt.jpg" class="d-block w-100" alt="...">
+				</a>
+				<div class="carousel-caption d-none d-md-block">
+					<h4>Lotus Emeya</h4>
+					<p>{{T "frontpage-description-129d77f2"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item ">
+				<a href="{{ with .Site.GetPage `/models/opel/mokka/mokka_electric/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/main_1_mt.jpeg" class="d-block w-100" alt="...">
+				</a>
+				<div class="carousel-caption d-none d-md-block">
+					<h4>Opel Mokka Electric</h4>
+					<p>{{T "frontpage-description-cb116463"}}</p>
+				</div>
+			</div>
+		</div>
+		<button class="carousel-control-prev" type="button" data-bs-target="#latestNewsCarousel" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</button>
+		<button class="carousel-control-next" type="button" data-bs-target="#latestNewsCarousel" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</button>
+	</div>
+</div>
