@@ -21,7 +21,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/cltc/">CLTC basic trim</a></td><td> 822 km / 511mi </td><td>kWh/100km /  mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/cltc/">CLTC basic trim</a></td><td> 822 km / 511mi </td><td>13,38kWh/100km /  mi/kWh </td></tr> 
 </tbody></table>
 
 ### Official test cycle results with added heating

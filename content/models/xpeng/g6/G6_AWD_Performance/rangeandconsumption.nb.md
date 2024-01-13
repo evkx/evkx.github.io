@@ -21,7 +21,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
-<tr><td><a href="../../../../../guides/understandingrange/cltc/">CLTC basic trim</a></td><td> 700 km / 435mi </td><td>kWh/100km /  mi/kWh </td></tr> 
+<tr><td><a href="../../../../../guides/understandingrange/cltc/">CLTC basic trim</a></td><td> 700 km / 435mi </td><td>11,71kWh/100km /  mi/kWh </td></tr> 
 </tbody></table>
 
 ### Offisielle testsyklusresultater med ekstra oppvarming
