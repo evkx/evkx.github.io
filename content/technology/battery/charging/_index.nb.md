@@ -45,9 +45,20 @@ Volvo og Polestar hevder at deres kommende EVS med 400 VOlt-pakker vil få 250KW
 
 Batteritemperaturen kan påvirke ladehastigheten betydelig. For eksempel kan BMS redusere ladehastigheten med mer enn 50 % i kaldt vær.
 
-Denne hastighetsreduksjonen er grunnen til at noen elbiler tilbyr automatisk oppvarming av batteriet når du navigerer til en lader eller muligheten for manuelt å utløse oppvarmingen av batteripakken.
+Denne hastighetsreduksjonen er grunnen til at noen elbiler tilbyr automatisk oppvarming av batteriet når de navigerer til en lader eller muligheten for manuelt å utløse oppvarmingen av batteripakken.
 
 Høye temperaturer kan også redusere ytelsen. For eksempel kan BMS redusere ladehastigheten i varmt vær eller etter høyhastighetslading. BMS reduserer ladehastigheten for å la batteriet kjøle seg ned for å beskytte det.
+
+Den optimale temperaturen i et batteri for lading er vanligvis rundt 25-35 grader Celsius (77-95 Fahrenheit). I sommertemperaturer vil batteriet typisk være i dette området når du kommer til ladestasjonen, og du vil få full ladehastighet.
+
+{{< sitefiguresized thumb="technology/battery/charging/charging_2_st.jpg" width="1920" height="1080" title="Audi e-tron GT lader om vinteren" >}}
+
+På noen modeller med hurtiglading kan en varm sommerdag med høyhastighetslading føre til at batteriet når temperaturer som vil føre til at BMS reduserer ladehastigheten for å beskytte batteriet. Denne hastighetsreduksjonen skjer vanligvis hvis batteritemperaturen når 50-60 grader Celsius under lading. Derfor er det essensielt med god varmestyring som kan kvitte seg med varmen under lading.
+
+Ladekurven for modeller på EVKX-nettstedet er for <b>optimale forhold</b>:
+
+- Temperaturen i batteriet er høy nok, så ladehastigheten reduseres ikke på grunn av lav temperatur.
+- Temperaturen i batteriet blir ikke så høy at BMS reduserer hastigheten for beskyttelse under ladeøkten fra 0-100 %
 
 {{<evkxdisplayaddarticle />}}
 

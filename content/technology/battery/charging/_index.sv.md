@@ -43,9 +43,20 @@ Volvo och Polestar hävdar att deras kommande EVS med 400 VOlt-paket kommer att 
 
 Batteritemperaturen kan påverka laddningshastigheten avsevärt. Till exempel kan BMS minska laddningshastigheten med mer än 50 % i kallt väder.
 
-Denna hastighetsminskning är anledningen till att vissa elbilar erbjuder automatisk uppvärmning av batteriet när du navigerar till en laddare eller möjligheten att manuellt utlösa uppvärmningen av batteripaketet.
+Denna hastighetsminskning är anledningen till att vissa elbilar erbjuder automatisk uppvärmning av batteriet när de navigerar till en laddare eller möjligheten att manuellt utlösa uppvärmningen av batteripaketet.
 
-Höga temperaturer kan också minska prestandan. Till exempel kan BMS minska laddningshastigheten i varmt väder eller efter höghastighetsladdning. BMS minskar laddningshastigheten för att låta batteriet svalna för att skydda det.
+Höga temperaturer kan också minska prestandan. Till exempel kan BMS minska laddningshastigheten vid varmt väder eller efter höghastighetsladdning. BMS minskar laddningshastigheten för att låta batteriet svalna för att skydda det.
+
+Den optimala temperaturen i ett batteri för laddning är vanligtvis runt 25-35 grader Celsius (77-95 Fahrenheit). I sommartemperaturer skulle batteriet vanligtvis vara i detta område när du anländer till laddstationen, och du kommer att få full laddningshastighet.
+
+{{< sitefiguresized thumb="technology/battery/charging/charging_2_st.jpg" width="1920" height="1080" title="Audi e-tron GT laddar på vintern" >}}
+
+På vissa modeller med snabbladdning kan en varm sommardag med höghastighetsladdning göra att batteriet når temperaturer som gör att BMS minskar laddningshastigheten för att skydda batteriet. Denna hastighetsminskning sker vanligtvis om batteritemperaturen når 50-60 grader Celsius under laddning. Det är därför det är viktigt att ha en bra värmehantering som kan få bort värmen under laddning.
+
+Laddningskurvan för modeller på EVKX-webbplatsen är för <b>optimala förhållanden</b>:
+
+- Temperaturen i batteriet är tillräckligt hög, så laddningshastigheten minskas inte på grund av låg temperatur.
+- Temperaturen i batteriet blir inte så hög att BMS minskar hastigheten för skydd under laddningspasset från 0-100 %
 
 {{<evkxdisplayaddarticle />}}
 

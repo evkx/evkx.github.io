@@ -6,7 +6,7 @@ weight: 8
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-Charging an EV battery involves the movement of electric charge carriers, such as electrons and ions, between the battery's electrodes. The battery consists of two electrodes, a cathode, and an anode, separated by an electrolyte.
+Charging an EV battery involves the movement of electric charge carriers, such as electrons and ions, between the battery's electrodes. The battery has two electrodes, a cathode and an anode, separated by an electrolyte.
 
 During the charging process, electrons flow from the charging source (e.g., charging station) to the cathode, where they are stored in the cathode material. At the same time, positive ions in the electrolyte flow from the cathode to the anode through the separator.
 
@@ -39,15 +39,27 @@ The pack configuration can affect the charging speed. A configuration that gives
 
 It is the same with CCS HPC Chargers since they are limited to 500 Ampere. 400 volts on 500 Amper is a max of 200KW. The charging speed on a 300 Volt battery pack would be limited to 150KW.
 
-Volvo and Polestar claim their upcoming EVS with 400  VOlt packs would get 250KW charging. However, it is unclear how they would manage that with the current CCS standard limits.
+Volvo and Polestar claim their upcoming EVS with 400  VOlt packs would get 250KW charging. However, how they would manage that with the current CCS standard limits is unclear.
 
 #### Temperature
 
 The battery temperature can affect the charging speed significantly. For example, the BMS can reduce the charging speed by more than 50% in cold weather.
 
-This speed reduction is why some evs offer automatic heating of the battery when navigating to a charger or the possibility of manually triggering the heating of the battery pack.
+This speed reduction is why some EVs offer automatic heating of the battery when navigating to a charger or the possibility of manually triggering the heating of the battery pack.
 
 High temperatures can also reduce performance. For example, the BMS can reduce the charging speed in hot weather or after high-speed charging. BMS reduces the charging speed to let the battery cool down to protect it.
+
+The optimal temperature in a battery for charging is typically around 25 -35 degrees Celsius (77-95 Fahrenheit). In summer temperatures, the battery would typically be in this area when arriving at the charging station, and you will get full charging speed. 
+
+{{< sitefiguresized thumb="technology/battery/charging/charging_2_st.jpg" width="1920" height="1080" title="Audi e-tron GT charging in winter" >}}
+
+On some models with fast charging, a warm summer day with high-speed charging may cause the battery to reach temperatures that will cause the BMS to reduce charge speed to protect the battery. This speed reduction typically happens if the battery temperature reaches 50-60 degrees Celsius during charging. That's why it is essential to have good thermal management that can get rid of the heat during charging.
+
+The charge curve for models on the EVKX site is for <b>optimal conditions</b>:
+
+- The temperature in the battery is high enough, so charge speed is not derated because of low temperature.
+- The temperature in the battery does not get so high that BMS reduces speed for protection during the charging session from 0-100%
+
 
 {{<evkxdisplayaddarticle />}}
 

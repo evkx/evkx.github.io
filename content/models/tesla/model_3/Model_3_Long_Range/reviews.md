@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 Highland headlights test</h3>
+<p>Bjørn Nyland: 13.01.2024</p>
+
+{{< youtube yay66zbp-yA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Model 3 Highland - Biggest update yet, should you switch?</h3>
 <p>It's Only Electric: 21.11.2023</p>
 
