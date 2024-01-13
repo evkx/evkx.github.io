@@ -73,7 +73,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
 
-exterior.doors.standardandstandardgullwinghatcbackliftback Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har två [vanliga dörrar](../../../../technology/doors/) i fronten, en unik kombination av vanliga dörrar med måsvingetak i den andra raden, och en [hatchback-stil baklucka](../../../../technology/doors/#hatcback-style-liftgate) baktill. Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.
 

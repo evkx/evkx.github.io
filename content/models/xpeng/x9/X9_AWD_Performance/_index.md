@@ -69,7 +69,7 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 You can choose between 1 different paint colors when ordering this model.
 
-Powered doors are a standard function for the side doors.
+The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
 
 There is only one roof for this model.
 
@@ -215,4 +215,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
-
+availability.regions.onlychina

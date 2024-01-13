@@ -78,7 +78,7 @@ Dynamisk styrning är valfritt-funktionen för Volkswagen ID. Buzz Pro LWB. Dyna
 Du kan välja mellan 12 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 5 hjul i storlek från 19 till 21 tum.
 
-Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/ dörrar/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
 

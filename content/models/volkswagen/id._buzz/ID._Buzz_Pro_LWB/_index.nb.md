@@ -78,7 +78,7 @@ Dynamisk styring er tilvalg-funksjonen på Volkswagen ID. Buzz Pro LWB. Dynamisk
 Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 5 hjul med størrelser fra 19 til 21 tommer.
 
-Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 

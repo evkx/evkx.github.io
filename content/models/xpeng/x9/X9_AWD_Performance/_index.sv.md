@@ -69,7 +69,7 @@ Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan
 
 Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
-Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/ dörrar/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell.
 
@@ -215,4 +215,4 @@ Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn m
 
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
-
+Denna modell är endast tillgänglig i Kina.

@@ -78,7 +78,7 @@ Dynamic steering is an optional feature on the Volkswagen ID. Buzz Pro. Dynamic 
 You can choose between 12 different paint colors when ordering this model.
 Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches.
 
-Powered doors are a standard function for the side doors.
+The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
 
 There is only one roof for this model. The standard is just a regular roof.
 

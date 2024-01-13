@@ -73,7 +73,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
-exterior.doors.standardandstandardgullwinghatcbackliftback Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av vanlige dører med måketak på andre rad, og en [hatchback-stil liftgate](../../../../technology/doors/#hatcback-style-liftgate) bak. Elektriske dører er standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.
 

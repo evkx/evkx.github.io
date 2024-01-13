@@ -69,7 +69,7 @@ Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping
 
 Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
-Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen.
 
@@ -215,4 +215,4 @@ Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger
 
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
-
+Denne modellen er kun tilgjengelig i Kina.
