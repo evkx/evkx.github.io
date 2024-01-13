@@ -82,11 +82,23 @@
 - id: common-section-guides-section-preservebattery
   translation: Bevaring av batteri
 
+- id: common-section-guides-section-preservebattery-description
+  translation: I denne guiden forklarer vi hva du kan gjøre for å få batteriet til å vare lengst mulig.
+
 - id: common-section-guides-section-understandingrange
   translation: Forstå rekkevidde
 
+- id: common-section-guides-section-understandingrange-description
+  translation: For mange er rekkevidden til elbilen det viktigste aspektet. Lær hvilke aspekter ved elbilen som påvirker den nominelle rekkevidden og forstå hva som påvirker den i den virkelige verden.
+
 - id: common-section-guides-section-vehicletypes
   translation: Kjøretøystyper
+
+- id: common-section-guides-section-reviewers
+  translation: Elbil-testere og influencere
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: Hvordan sjekke batterihelsen
 
 - id: common-section-models-title
   translation: Merker & Modeller
@@ -126,4 +138,22 @@
 
 - id: frontpage-description-6dae8dd0
   translation: Fisker Ocean Sport er en helelektrisk SUV med en WLTP rekkevidde på opptil 464 km. EVKX.net har alle detaljene. 
+
+- id: frontpage-description-be62bb42
+  translation: Fisker Ocean Ultra er en helelektrisk SUV med en WLTP rekkevidde på opptil 690 km. EVKX.net har alle detaljene. 
+
+- id: frontpage-description-7bdf13bd
+  translation: Nio ET9 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 720 km. EVKX.net har alle detaljene. 
+
+- id: frontpage-description-50bcf160
+  translation: Genesis Electrified GV70 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene. 
+
+- id: frontpage-description-50bcf160
+  translation: Genesis Electrified GV70 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene. 
+
+- id: frontpage-description-65c52c8e
+  translation: Genesis GV60 2WD er en helelektrisk SUV med en WLTP rekkevidde på opptil 517 km. EVKX.net har alle detaljene. 
+
+- id: frontpage-description-c3b21caf
+  translation: Genesis GV60 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene. 
 

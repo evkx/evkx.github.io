@@ -82,11 +82,23 @@
 - id: common-section-guides-section-preservebattery
   translation: Preserving battery
 
+- id: common-section-guides-section-preservebattery-description
+  translation: In this guide we explain what you can do to make the battery last the longest possible.
+
 - id: common-section-guides-section-understandingrange
   translation: Understanding range
 
+- id: common-section-guides-section-understandingrange-description
+  translation: For many, the range of the EV is the most essential aspect. Learn what aspects of the EV affect the rated range and understand what affects it in the real world.
+
 - id: common-section-guides-section-vehicletypes
   translation: Vehicletypes
+
+- id: common-section-guides-section-reviewers
+  translation: EV Reviewers
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: How to verify battery health
 
 - id: common-section-models-title
   translation: Brands & Models
@@ -126,4 +138,22 @@
 
 - id: frontpage-description-6dae8dd0
   translation: Fisker Ocean Sport is an all-electric SUV with a WLTP range of up to 464 km (288 miles). EVKX.net has all the details. 
+
+- id: frontpage-description-be62bb42
+  translation: Fisker Ocean Ultra is an all-electric SUV with a WLTP range of up to 690 km (429 miles). EVKX.net has all the details. 
+
+- id: frontpage-description-7bdf13bd
+  translation: Nio ET9 is an all-electric premium sedan with a WLTP range of up to 720 km (448 miles). EVKX.net has all the details. 
+
+- id: frontpage-description-50bcf160
+  translation: Genesis Electrified GV70 is an all-electric premium SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. 
+
+- id: frontpage-description-50bcf160
+  translation: Genesis Electrified GV70 is an all-electric premium SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. 
+
+- id: frontpage-description-65c52c8e
+  translation: Genesis GV60 2WD is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net has all the details. 
+
+- id: frontpage-description-c3b21caf
+  translation: Genesis GV60 AWD Performance is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. 
 
