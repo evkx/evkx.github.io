@@ -76,6 +76,9 @@
 - id: common-section-guides-description
   translation: Nedenfor finner du forskjellige guider for å eie en elbil og for bruk av denne siden.
 
+- id: common-section-guides-gotosection
+  translation: Se alle våre guider.
+
 - id: common-section-guides-section-search
   translation: Hvordan bruke elbilsøket
 

@@ -75,6 +75,9 @@
 - id: common-section-guides-description
   translation: Below, you find different guides for owning an EV and for using this site.
 
+- id: common-section-guides-gotosection
+  translation: Se all our guides.
+
 - id: common-section-guides-section-search
   translation: How to use EV Search
 

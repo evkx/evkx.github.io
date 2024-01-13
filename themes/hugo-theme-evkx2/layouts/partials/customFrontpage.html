@@ -12,19 +12,8 @@
     {{ partial "secondrowarticles.html" . }}
     {{ partial "latestreviews.html" . }}
     {{ partial "technologyfrontpage.html" . }}
-    <div class="container">
-      <div class="row">
-        <div class="col-12 col-lg-4 mb-2">
-          {{ partial "models-new.html" . }}
-        </div>
-        <div class="col-12 col-lg-4 mb-2">
-          {{ partial "technology.html" . }}
-        </div>
-        <div class="col-12 col-lg-4 mb-2">
-          {{ partial "guides.html" . }}
-        </div>
-      </div>
-    </div>
+    {{ partial "guidesfrontpage.html" . }}
+    {{ partial "modelmostsoldfrontpage.html" . }}
   </main>
   <footer class="container bg-dark">
     {{ partial "footercontent.html" . }}

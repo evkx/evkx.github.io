@@ -76,6 +76,9 @@
 - id: common-section-guides-description
   translation: Nedan hittar du olika guider för att äga en elbil och hur du använder den här sidan.
 
+- id: common-section-guides-gotosection
+  translation: Se alla våra guider.
+
 - id: common-section-guides-section-search
   translation: Hur man använder elbilssökningen
 
