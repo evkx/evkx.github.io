@@ -36,6 +36,9 @@
 - id: common-section-technology-description
   translation: EVKX.net offers the most extensive collection of in-depth articles about EV technology. 
 
+- id: common-section-technology-gotosection
+  translation: See all articles in our technology section.
+
 - id: common-section-technology-section-battery
   translation: Battery
 

@@ -37,6 +37,9 @@
 - id: common-section-technology-description
   translation: EVKX erbjuder den mest omfattande samlingen av djupgående artiklar om elbilsteknik.
 
+- id: common-section-technology-gotosection
+  translation: Se alla artiklar i vår tekniksektion.
+
 - id: common-section-technology-section-battery
   translation: Batteri
 
