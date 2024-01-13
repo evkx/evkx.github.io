@@ -84,11 +84,23 @@
 - id: common-section-guides-section-preservebattery
   translation: Preserving battery
 
+- id: common-section-guides-section-preservebattery-description
+  translation: In this guide we explain what you can do to make the battery last the longest possible. 
+
 - id: common-section-guides-section-understandingrange
   translation: Understanding range
 
+- id: common-section-guides-section-understandingrange-description
+  translation: For many, the range of the EV is the most essential aspect. Learn what aspects of the EV affect the rated range and understand what affects it in the real world.
+
 - id: common-section-guides-section-vehicletypes
   translation: Vehicletypes
+
+- id: common-section-guides-section-reviewers
+  translation: EV Reviewers
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: How to verify battery health
 
 - id: common-section-models-title
   translation: Brands & Models

@@ -85,11 +85,23 @@
 - id: common-section-guides-section-preservebattery
   translation: Bevaring av batteri
 
+- id: common-section-guides-section-preservebattery-description
+  translation: I denne guiden forklarer vi hva du kan gjøre for å få batteriet til å vare lengst mulig.
+
 - id: common-section-guides-section-understandingrange
   translation: Forstå rekkevidde
 
+- id: common-section-guides-section-understandingrange-description
+  translation: For mange er rekkevidden til elbilen det viktigste aspektet. Lær hvilke aspekter ved elbilen som påvirker den nominelle rekkevidden og forstå hva som påvirker den i den virkelige verden.
+
 - id: common-section-guides-section-vehicletypes
   translation: Kjøretøystyper
+
+- id: common-section-guides-section-reviewers
+  translation: Elbil-testere og influencere
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: Hvordan sjekke batterihelsen
 
 - id: common-section-models-title
   translation: Merker & Modeller

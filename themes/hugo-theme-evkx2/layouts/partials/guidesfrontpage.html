@@ -1,10 +1,30 @@
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h2 class="a-h3">{{ T "common-section-guides-title"}}</h2>
 <p>{{ T "common-section-guides-description"}}</p>
+<div class="row">
+	<div class="col-12 col-lg-6">
+			<div class="mb-2 image-box">
+		<a href="{{ with .Site.GetPage `/guides/understandingrange/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-black">
+				<img src="https://media.evkx.net/multimedia/guides/understandingrange/mercedeseqxx_1_xst.jpg" width="800" height="533" class="img-fluid image-cropped-calc">
+			</div>
+			<h4>{{ T "common-section-guides-section-understandingrange"}}</h4>
+			<p>{{ T "common-section-guides-section-understandingrange-description"}}</p>
+		</a>
+	</div>
+	<div class="col-12 col-lg-6">
+			<div class="mb-2 image-box">
+		<a href="{{ with .Site.GetPage `/guides/protectingbattery`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-black">
+				<img src="https://media.evkx.net/multimedia/guides/protectingbattery/chargingtarget_st.png" width="800" height="600" class="img-fluid image-cropped-calc">
+			</div>
+			<h4>{{ T "common-section-guides-section-preservebattery"}}</h4>
+			<p>{{ T "common-section-guides-section-preservebattery-description"}}</p>
+		</a>
+	</div>
+</div>
 	<div class="row">
 		<div class="col-12 col-md-6 col-lg-3">
 				<div class="image-box">
-					<a href="{{ with .Site.GetPage `/technology/battery/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
+					<a href="{{ with .Site.GetPage `/guides/evsearch/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
 							<img src="https://media.evkx.net/multimedia/guides/evsearch/search_1_xst.jpg" alt="{{ T "common-section-technology-section-battery" }}" class="img-fluid image-cropped-calc border">
 					</a>
 				</div>
@@ -12,19 +32,19 @@
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="image-box">
-			<a href="{{ with .Site.GetPage `/guides/protectingbattery/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
-					<img src="https://media.evkx.net/multimedia/guides/protectingbattery/chargingtarget_st.png" alt="{{ T "common-section-technology-section-adas"}}" class="img-fluid image-cropped-calc border">
+			<a href="{{ with .Site.GetPage `/guides/evreviewers/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
+					<img src="https://media.evkx.net/multimedia/guides/evreviewers/bjornyland_xst.jpg" alt="{{ T "common-section-technology-section-adas"}}" class="img-fluid image-cropped-calc border">
 			</a>
 				</div>
-				<h5>{{ T "common-section-guides-section-preservebattery"}}</h5>
+				<h5>{{ T "common-section-guides-section-reviewers"}}</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="image-box">
-			<a href="{{ with .Site.GetPage `/guides/understandingrange/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
-					<img src="https://media.evkx.net/multimedia/guides/understandingrange/epa/epacycles_xst.png"  alt="{{ T "common-section-technology-section-motors" }}" class="img-fluid image-cropped-calc border">
+			<a href="{{ with .Site.GetPage `/guides/checkingbatteryhealth/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
+					<img src="https://media.evkx.net/multimedia/guides/checkingbatteryhealth/graph1_xst.jpg"  alt="{{ T "common-section-technology-section-motors" }}" class="img-fluid image-cropped-calc border">
 			</a>
 				</div>
-				<h5> {{ T "common-section-guides-section-understandingrange"}}</h5>
+				<h5> {{ T "common-section-guides-section-checkingbatteryhealth"}}</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="image-box">
