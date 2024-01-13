@@ -21,6 +21,7 @@ Nedan är de officiellt klassade intervallen. Tester utförs med värme/AC avst�
 <thead>
 <tr><th></th><th>  Range </th><th>Consumption </th></tr>
 <tbody>
+<tr><td><a href="../../../../../guides/understandingrange/cltc/">CLTC basic trim</a></td><td> 822 km / 511mi </td><td>kWh/100km /  mi/kWh </td></tr> 
 </tbody></table>
 
 ### Officiella testcykelresultat med extra uppvärmning
