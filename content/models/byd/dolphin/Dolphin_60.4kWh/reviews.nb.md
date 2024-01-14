@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Is BYD the new Volkswagen? Dolphin vs ID.3. HEAD-TO-HEAD </h3>
+<p>Electrifying: 10.10.2023</p>
+
+{{< youtube UkuxOh28OiI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BYD Dolphin - 9 things we LOVE and… 5 we HATE</h3>
 <p>Electrifying: 05.10.2023</p>
 
