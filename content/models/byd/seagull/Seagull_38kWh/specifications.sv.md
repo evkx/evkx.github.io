@@ -929,7 +929,39 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Tillgängliga skärmlayouter
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital drivrutinsdisplay
+			</td>
+			<td>
+				Ja, 7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskärm
+			</td>
+			<td>
+				Ja, 10,1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskärm främre passagerare
+			</td>
+			<td>
+				Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre infotainmentskärm
+			</td>
+			<td>
+				Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

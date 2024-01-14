@@ -141,11 +141,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-Two different screen setups are available on the BYD Seagull 38kWh.
-
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large . The touch screen on the dashboard's center  is 10.1 inches large .
-
-The optional Design layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large . The touch screen on the dashboard's center  is 15.6 inches large .
+The BYD Seagull 38kWh has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large . The touch screen on the dashboard's center  is 10.1 inches large .
 The model does not have a head-up display.
 
 
