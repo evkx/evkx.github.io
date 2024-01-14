@@ -176,7 +176,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. 
 	</p>
 	<p>
-	BYD has 5 models with total 6 variants. 
+	BYD has 6 models with total 7 variants. 
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Go to BYD EV-model overview</a>
 </div>

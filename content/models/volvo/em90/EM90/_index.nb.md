@@ -154,7 +154,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EM90 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor . touch-skjermen øverst på midtkonsollen er 15.4 tommer stor .
+Volvo EM90 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor . touch-skjermen øverst på midtkonsollen er 15.4 tommer stor . uicontrols.rearseatinfotainment.secondrowroof
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -172,7 +172,7 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 ## Lys
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}

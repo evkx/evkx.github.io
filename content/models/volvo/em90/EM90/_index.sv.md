@@ -154,7 +154,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volvo EM90 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum . Skärmen touch översta mittkonsolen är 15.4 tum .
+Volvo EM90 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum . Skärmen touch översta mittkonsolen är 15.4 tum . uicontrols.rearseatinfotainment.secondrowroof
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -172,7 +172,7 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 ## Ljus
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}

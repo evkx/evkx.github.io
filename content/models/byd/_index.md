@@ -51,6 +51,20 @@ BYD Han is a sedan available in 1 variants.
 	</div>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> BYD Seagull</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="seagull"><img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/main_1_st.jpg" class="img-fluid" alt="BYD Seagull" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+BYD Seagull is a hatcback available in 1 variants.
+</p>
+	<a href="seagull/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BYD Seal</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

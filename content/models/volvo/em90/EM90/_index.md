@@ -154,7 +154,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Volvo EM90 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large . The touch screen at the top of the center console is 15.4 inches large .
+The Volvo EM90 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large . The touch screen at the top of the center console is 15.4 inches large . uicontrols.rearseatinfotainment.secondrowroof
 The model does not have a head-up display.
 
 
@@ -172,7 +172,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+The standard headlights use LED technology. In addition, the standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
