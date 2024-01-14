@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-file-earmark-bar-graph
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, våt eller tørr vei, og utstyrt utstyr. På denne siden finner du et diagram og tabeller med standard testsyklusresultater som WLTP og EPA og estimert rekkevidde i den virkelige verden i forskjellige miljøer. 
 
@@ -15,44 +16,231 @@ Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, te
 
 ### Offisielle testsyklusresultater
 
-Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC slått av. Klikk på lenkene i tabellen for mer detaljer om testprosedyrer. 
+Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC slått av. Klikk på koblingene i tabellen for mer detaljer om testprosedyrer. 
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Consumption </th></tr>
-<tbody>
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 839 km / 521mi </td><td>13,35kWh/100km / 4,7 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 783 km / 487mi </td><td> 14,30 kWh/100km / 4,3 mi/kWh </td></tr>  
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>758km / 471 mi</td><td> 14,8 kWh/100km / 4,2 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>718km /446mi</td><td> 15,6 kWh/100km / 4,0 mi/kWh  </td></tr> 
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Rekkevidde
+			</th>
+			<th>
+				Forbruk
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP rekkevidde grunnleggende utstyrsnivå
+				</a>
+			</td>
+			<td>
+				839 km / 521 mi
+			</td>
+			<td>
+				13,35kWh/100km / 4,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP rekkevidde maks utstyrsniv
+				</a>
+			</td>
+			<td>
+				783 km / 487 mi
+			</td>
+			<td>
+				14,30 kWh/100km / 4,3 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA rekkevidde minimum utstyrsnivå
+				</a>
+			</td>
+			<td>
+				758 km / 471 mi
+			</td>
+			<td>
+				14,8 kWh/100km / 4,2 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA rekkevidde maks utstyrsnivå
+				</a>
+			</td>
+			<td>
+				718 km / 446 mi
+			</td>
+			<td>
+				15,6 kWh/100km / 4,0 mi/kWh
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 ### Offisielle testsyklusresultater med ekstra oppvarming
 
 Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/varm dag påvirker den offisielle rekkevidden. 
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Change </th></tr>
-<tbody>
-<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 635km /395 mi </td><td> -24,3%</td></tr>
-<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 602km /374 mi </td><td>-23,1%</td></tr>
-<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 365km /227 mi </td><td> -22,5%</td></tr>
-<tr><td>  EPA-combined top trim with 2KW AC </td><td> 350km /217 mi </td><td> -21,5%</td></tr>
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Rekkevidde
+			</th>
+			<th>
+				Rekkeviddereduksjon
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				WLTP rekkevidde grunnleggende utstyrsnivå med 2KW AC
+			</td>
+			<td>
+				 635km / 395 mi 
+			</td>
+			<td>
+				-24,3%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP rekkevidde maks utstyrsniv med 2KW AC 
+			</td>
+			<td>
+				602 km / 374 mi
+			</td>
+			<td>
+				-23,1%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-serien grunnleggende utstyrsnivå med 2KW AC
+			</td>
+			<td>
+				587 km / 365 mi
+			</td>
+			<td>
+				-22,6%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA rekkevidde maks utstyrsnivå med 2KW AC
+			</td>
+			<td>
+				563 km / 350 mi
+			</td>
+			<td>
+				-21,6%
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 ### Rekkeviddeanslag fra den virkelige verden
 
-Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden i perfekt stand og under forhold som krever luftkondisjonering for å varme eller kjøle ned kjøretøy. 
+Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under perfekte forhold og under forhold som krever luftkondisjonering for å varme opp eller kjøle ned kjøretøy. Se vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hvordan rekkevidden påvirkes i den virkelige verden. 
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Consumption </th></tr>
-<tbody>
-<tr><td> 90kmh/56mph perfect condition </td><td> 800km /497mi</td><td> 14 kWh/100km / 4,4 mi/kWh </td></tr>
-<tr><td> 90kmh/56mph with 2KW heating </td><td> 715km /429mi</td><td> 16,2 kWh/100km / 3,8 mi/kWh </td></tr
-<tr><td> 70mph/112kmh perfect condition </td><td> 770km /478mi</td><td> 14,55 kWh/100km / 4,3 mi/kWh</td></tr>
-<tr><td> 70mph/112kmh with 2KW heating </td><td> 1104km /686mi</td><td> 16,3 kWh/100km / 3,8 mi/kWh  </td></tr
-<tr><td> 120kmh/75mph perfect condition </td><td> 589km /366mi</td><td> 19 kWh/100km / 3,3 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 542km /337mi</td><td> 20,7 kWh/100km / 3,0 mi/kWh </td></tr
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Rekkevidde
+			</th>
+			<th>
+				Forbruk
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				90 kmt/56 mph under perfekte forhold
+			</td>
+			<td>
+				800km / 497 mi
+			</td>
+			<td>
+				14 kWh/100km / 4,4 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90 kmt/56 mph med 2KW oppvarming
+			</td>
+			<td>
+				715km /429mi
+			</td>
+			<td>
+				16,2 kWh/100km /3,8 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/t under perfekte forhold
+			</td>
+			<td>
+				770 km / 478 mi
+			</td>
+			<td>
+				14,55 kWh/100km / 4,3 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/t med 2KW oppvarming
+			</td>
+			<td>
+				1104km / 686mi
+			</td>
+			<td>
+				16,3 kWh/100km / 3,8 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 kmt/75 mph under perfekte forhold
+			</td>
+			<td>
+				589 km / 366 mi
+			</td>
+			<td>
+				19 kWh/100km / 3,3 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 kmt /75mph med 2KW oppvarming
+			</td>
+			<td>
+				542 km /337mi
+			</td>
+			<td>
+				20,7 kWh/100km /3,0 mi/kWh
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>

@@ -7,48 +7,196 @@ hidden: true
 navicon: bi-file-earmark-bar-graph
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
-Räckvidden kommer att variera beroende på flera faktorer. Såsom hur snabbt du kör, temperaturen, våt eller torr väg samt utrustad utrustning. På denna sida hittar du ett diagram och tabeller med standardtest cykelresultat som WLTP och EPA och uppskattad verklig räckvidd i olika miljöer.
+Räckvidden kommer att variera beroende på flera faktorer. Såsom hur snabbt du kör, temperaturen, våt eller torr väg och utrustad utrustning. På denna sida hittar du ett diagram och tabeller över standardtest cykelresultat som WLTP och EPA och uppskattad verklig räckvidd i olika miljöer.
 
 <img class="img-fluid" alt="Charge curve" src="../range.svg"/>
 <a href="../range.svg">Full screen</a>
 
 ### Officiella testcykelresultat
 
-Nedan är de officiellt klassade intervallen. Tester utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
+Nedan är de officiellt klassade intervallen. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Consumption </th></tr>
-<tbody>
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 543 km / 337mi </td><td>17,68kWh/100km / 3,5 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 528 km / 328mi </td><td> 18,18 kWh/100km / 3,4 mi/kWh </td></tr>  
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>525km / 326 mi</td><td> 18,3 kWh/100km / 3,4 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>483km /300mi</td><td> 19,9 kWh/100km / 3,1 mi/kWh  </td></tr> 
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Räckvidd
+			</th>
+			<th>
+				Förbrukning
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP-seriens grundläggande utrustningsnivå
+				</a>
+			</td>
+			<td>
+				543 km / 337 mi
+			</td>
+			<td>
+				17,68kWh/100km / 3,5 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP-intervall max utrustningsnivå
+				</a>
+			</td>
+			<td>
+				528 km / 328 mi
+			</td>
+			<td>
+				18,18 kWh/100km / 3,4 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA-intervallets lägsta utrustningsnivå
+				</a>
+			</td>
+			<td>
+				525 km / 326 mi
+			</td>
+			<td>
+				18,3 kWh/100km / 3,4 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA-intervall max trimnivå
+				</a>
+			</td>
+			<td>
+				483 km / 300 mi
+			</td>
+			<td>
+				19,9 kWh/100km / 3,1 mi/kWh
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 ### Officiella testcykelresultat med extra uppvärmning
 
 Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på värmen/kylan en kall/varm dag.
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Change </th></tr>
-<tbody>
-<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 437km /272 mi </td><td> -19,5%</td></tr>
-<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 427km /265 mi </td><td>-19,1%</td></tr>
-<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 264km /164 mi </td><td> -19,0%</td></tr>
-<tr><td>  EPA-combined top trim with 2KW AC </td><td> 247km /153 mi </td><td> -17,7%</td></tr>
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Räckvidd
+			</th>
+			<th>
+				Räckviddsminskning
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				WLTP-seriens grundutrustningsnivå med 2KW AC
+			</td>
+			<td>
+				 437km / 272 mi 
+			</td>
+			<td>
+				-19,5%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-intervall max trimnivå med 2KW AC
+			</td>
+			<td>
+				427 km / 265 mi
+			</td>
+			<td>
+				-19,1%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-seriens grundläggande trimnivå med 2KW AC
+			</td>
+			<td>
+				425 km / 264 mi
+			</td>
+			<td>
+				-19,0%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-intervall max trimnivå med 2KW AC
+			</td>
+			<td>
+				397 km / 247 mi
+			</td>
+			<td>
+				-17,8%
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
-### Räckviddsuppskattningar i den verkliga världen
+### Räckviddsuppskattningar i verkligheten
 
-Tabellen nedan visar några uppskattade exempel från den verkliga världen i perfekt skick och under förhållanden som kräver luftkonditionering för att värma eller kyla fordon.
+Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhållanden och under förhållanden som kräver luftkonditionering för att värma eller kyla fordon. Se vår [räckviddeguide](../../../../../guides/understandingrange/) för att se hur räckvidden påverkas i den verkliga världen.
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Consumption </th></tr>
-<tbody>
-<tr><td> 120kmh/75mph perfect condition </td><td> 400km /249mi</td><td> 24,0 kWh/100km / 2,6 mi/kWh </td></tr>
-<tr><td> 120kmh/75mph with 2KW heating </td><td> 374km /232mi</td><td> 25,7 kWh/100km / 2,4 mi/kWh </td></tr
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Räckvidd
+			</th>
+			<th>
+				Förbrukning
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				120 kmh/75 mph under perfekta förhållanden
+			</td>
+			<td>
+				400 km / 249 mi
+			</td>
+			<td>
+				24,0 kWh/100km / 2,6 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 kmh /75mph med 2KW uppvärmning
+			</td>
+			<td>
+				374 km /232mi
+			</td>
+			<td>
+				25,7 kWh/100km /2,4 mi/kWh
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>

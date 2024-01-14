@@ -7,6 +7,7 @@ hidden: true
 navicon: bi-file-earmark-bar-graph
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 The range will vary depending on several factors. Like how fast you drive, the temperature, wet or dry road, and the equipped equipment. On this page, you will find a diagram and tables with the standard test cycle results like WLTP and EPA and estimated real-world range in different environments. 
 
@@ -17,36 +18,163 @@ The range will vary depending on several factors. Like how fast you drive, the t
 
 Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures. 
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Consumption </th></tr>
-<tbody>
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined basic trim</a></td><td> 707 km / 439mi </td><td>15,06kWh/100km / 4,1 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/wltp/">WLTP-combined top trim</a></td><td> 701 km / 436mi </td><td> 15,19 kWh/100km / 4,1 mi/kWh </td></tr>  
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined minimum trim</a></td><td>579km / 360 mi</td><td> 18,4 kWh/100km / 3,4 mi/kWh </td></tr> 
-<tr><td><a href="../../../../../guides/understandingrange/epa/">EPA-combined top trim </a></td><td>571km /355mi</td><td> 18,7 kWh/100km / 3,3 mi/kWh  </td></tr> 
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Range
+			</th>
+			<th>
+				Consumption
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP range basic trim
+				</a>
+			</td>
+			<td>
+				707 km / 439 mi
+			</td>
+			<td>
+				15,06kWh/100km / 4,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP range top trim
+				</a>
+			</td>
+			<td>
+				701 km / 436 mi
+			</td>
+			<td>
+				15,19 kWh/100km / 4,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA range minimum trim
+				</a>
+			</td>
+			<td>
+				579 km / 360 mi
+			</td>
+			<td>
+				18,4 kWh/100km / 3,4 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA range top trim
+				</a>
+			</td>
+			<td>
+				571 km / 355 mi
+			</td>
+			<td>
+				18,7 kWh/100km / 3,3 mi/kWh
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 ### Official test cycle results with added heating
 
 The table below shows how turning on heating/cooling on a cold/hot day affects the official range. 
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Change </th></tr>
-<tbody>
-<tr><td> WLTP-combined basic trim with 2KW AC </td><td> 550km /342 mi </td><td> -22,2%</td></tr>
-<tr><td>  WLTP-combined top trim with 2KW AC </td><td> 546km /339 mi </td><td>-22,1%</td></tr>
-<tr><td>  EPA-combined basic trim with 2KW AC </td><td> 292km /181 mi </td><td> -18,9%</td></tr>
-<tr><td>  EPA-combined top trim with 2KW AC </td><td> 289km /180 mi </td><td> -18,6%</td></tr>
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Range
+			</th>
+			<th>
+				Range reduction
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				WLTP range basic trim with 2KW AC
+			</td>
+			<td>
+				 550km / 342 mi 
+			</td>
+			<td>
+				-22,2%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP range top trim with 2KW AC 
+			</td>
+			<td>
+				546 km / 339 mi
+			</td>
+			<td>
+				-22,1%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA range basic trim with 2KW AC
+			</td>
+			<td>
+				469 km / 291 mi
+			</td>
+			<td>
+				-19,0%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA range top trim with 2KW AC
+			</td>
+			<td>
+				464 km / 288 mi
+			</td>
+			<td>
+				-18,7%
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 ### Real world range estimates
 
-The table below shows some estimated real-world examples in perfect condition and in conditions needing A/C to heat or cool vehicles. 
+The table below shows some estimated real-world examples in perfect condition and in conditions needing A/C to heat or cool vehicles. See our [range guide](../../../../../guides/understandingrange/) to see how the range is affected in real world. 
 
-<table class="table table-striped">
-<thead>
-<tr><th></th><th>  Range </th><th>Consumption </th></tr>
-<tbody>
-</tbody></table>
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Range
+			</th>
+			<th>
+				Consumption
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+</div>
