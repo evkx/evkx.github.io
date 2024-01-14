@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 38,8kWh och en nettokapacitet på 37kWh, vi
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 405 km ( miles). Förbrukningen är 9.1kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
-Maximal DC-laddningshastighet är 40 kW. En full laddning från 0 - 100 % tar 102 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 12% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 31kW. Varje laddningssession tar 32 minuter och 50 sekunder.
+Maximal DC-laddningshastighet är 40 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 12% till 75%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 33kW. Varje laddningssession tar 42 minuter och 9 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19kWh/100km, tar 1000km 13 timmar och 12 minuter. Den här resan kommer att kräva nio laddningssession(er) laddning från 11% till 57%. Total tid som går förlorad för att ladda batteriet kommer att vara 293 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19kWh/100km, tar 1000km 12 timmar och 58 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 10% till 79%. Total tid som går förlorad för att ladda batteriet kommer att vara 279 minuter.
 
 ### Inbyggd laddare
 
