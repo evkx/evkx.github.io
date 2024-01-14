@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Seagull 38kWh. 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				7 s
+				13 s
 			</td>
 		</tr>
 	</tbody>
@@ -239,18 +239,10 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks taklast
-			</td>
-			<td>
-				50 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Størrelse bagasjerom
 			</td>
 			<td>
-				250 liter
+				300 liter
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				850 liter
+				900 liter
 			</td>
 		</tr>
 	</tbody>
@@ -419,7 +411,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +419,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Minne førersete
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +427,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Minne passasjersete
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +435,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +443,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +451,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +499,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +507,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -551,7 +543,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Setetype
 			</td>
 			<td>
-				ThreeSeatBench
+				TwoSeatBench
 			</td>
 		</tr>
 		<tr>
@@ -607,7 +599,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -615,7 +607,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -688,7 +680,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Bryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -696,7 +688,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				360-kamera
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -704,7 +696,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -816,7 +808,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -840,7 +832,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -848,7 +840,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

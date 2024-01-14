@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for BYD Seagull 38kWh. C
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7 s
+				13 s
 			</td>
 		</tr>
 	</tbody>
@@ -239,18 +239,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
-			</td>
-			<td>
-				50 kg (110 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				250 liter (9 cu-ft)
+				300 liter (11 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				850 liter (30 cu-ft)
+				900 liter (32 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -419,7 +411,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +419,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +427,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +435,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +443,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +451,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +499,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +507,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -551,7 +543,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				ThreeSeatBench
+				TwoSeatBench
 			</td>
 		</tr>
 		<tr>
@@ -607,7 +599,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -615,7 +607,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -688,7 +680,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/sensorsandcameras/cameras/">Reversing camera</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -696,7 +688,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -704,7 +696,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -816,7 +808,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -840,7 +832,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -848,7 +840,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

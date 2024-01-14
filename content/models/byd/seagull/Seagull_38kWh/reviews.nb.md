@@ -22,3 +22,10 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 {{< youtube ZRbLxeq47DU >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Affordable EV We've All Been Waiting For - BYD Seagull</h3>
+<p>Inside China Auto: 19.08.2023</p>
+
+{{< youtube CBdVLNMP8dE >}}
+
+</div>

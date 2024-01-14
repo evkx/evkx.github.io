@@ -29,7 +29,7 @@ We have separated our BYD Seagull 38kWh article into sections. If you want to wa
 
 ## Performance
 
-The BYD Seagull 38kWh has a maximum power of 55 KW (75 hp/74 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7 seconds. The top speed is 130 km/h.
+The BYD Seagull 38kWh has a maximum power of 55 KW (75 hp/74 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 13 seconds. The top speed is 130 km/h.
 
 ## Battery, range, and charging
 
@@ -75,7 +75,7 @@ You can choose between 4 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof for this model. The standard is just a regular roof.
 
 The windows from B-pillar and back are tinted.
 
@@ -97,15 +97,6 @@ Only one front seat type is available in the BYD Seagull 38kWh.
 
 The following functionalities are available on the **standard** seat.
 
-- electric adjustment
-- height adjustable headrest
-- length adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 1 different materials/colors for this seat type.<br />
 <br />
@@ -115,9 +106,12 @@ You can choose from 1 different materials/colors for this seat type.<br />
 
 
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The following functionalities are available on the **standard** seat.
 
-- electric adjustment
+
+You can choose from 1 different materials/colors for this seat type.<br />
+<br />
+
 
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
@@ -127,7 +121,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+There is one climate system available. The 1-zone climate system supports only controlling one shared zone for the whole car. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort
 
@@ -181,15 +175,9 @@ The BYD Seagull 38kWh has an [**Electronic Stability Control**](../../../../tech
 
 The BYD Seagull 38kWh has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
-
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
-
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions.
 
 The BYD Seagull 38kWh has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
 
@@ -207,6 +195,6 @@ With the   level 1 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 250 liters. With the rear seat down, it is 850 liters. The maxium weight of the car is 1550 kg (3417 lbs), and with the base weight of 1240 kg (2734 lbs), you can max load 310 kg (683 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 300 liters. With the rear seat down, it is 900 liters. The maxium weight of the car is 1550 kg (3417 lbs), and with the base weight of 1240 kg (2734 lbs), you can max load 310 kg (683 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.

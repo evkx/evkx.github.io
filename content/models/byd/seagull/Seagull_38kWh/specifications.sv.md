@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för BYD Seagull 38kWh. Kli
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7 s
+				13 s
 			</td>
 		</tr>
 	</tbody>
@@ -239,18 +239,10 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max taklast
-			</td>
-			<td>
-				50 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Bålstorlek
 			</td>
 			<td>
-				250 liter
+				300 liter
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +250,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek med alla baksäten nedfällda
 			</td>
 			<td>
-				850 liter
+				900 liter
 			</td>
 		</tr>
 	</tbody>
@@ -419,7 +411,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +419,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Minnesförarsäte
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +427,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Memory Passenger Seat
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +435,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +443,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +451,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justerbart lårstöd
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +499,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +507,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Sätesventilation
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -551,7 +543,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Sitttyp
 			</td>
 			<td>
-				ThreeSeatBench
+				TwoSeatBench
 			</td>
 		</tr>
 		<tr>
@@ -607,7 +599,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Fotstödspassagerare
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -615,7 +607,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				LegSupportPassenger
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -688,7 +680,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				ReversingCamera
 			</td>
 			<td>
-				Ja, valfri funktion
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -696,7 +688,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				360-kamera
 			</td>
 			<td>
-				Ja, standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -704,7 +696,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Bakre tvärtrafikvarning
 			</td>
 			<td>
-				Ja, standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -816,7 +808,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, valfri funktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -840,7 +832,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Automatisk nödstyrning
 			</td>
 			<td>
-				Ja, valfri funktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -848,7 +840,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Traffic Sign Recognition
 			</td>
 			<td>
-				Ja, valfri funktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

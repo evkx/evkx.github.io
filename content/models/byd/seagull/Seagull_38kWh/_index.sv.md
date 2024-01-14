@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av BYD Seagull 38kWh i avsnitt. Om du vill vän
 
 ## Prestanda
 
-BYD Seagull 38kWh har en maximal effekt på 55 KW (75hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 7 sekunder. Topphastigheten är 130 km/h.
+BYD Seagull 38kWh har en maximal effekt på 55 KW (75hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 13 sekunder. Topphastigheten är 130 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -75,7 +75,7 @@ Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
-Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen.
+Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
 
 B-stolpen och vyerna bak är tonade.
 
@@ -97,15 +97,6 @@ Endast en typ av framsäte är tillgänglig i BYD Seagull 38kWh.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
-- elektrisk justering
-- höjdjusterbart nackstöd
-- längdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
-- [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
 <br />
@@ -115,9 +106,12 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
 
 
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Följande funktioner är tillgängliga på **standard** sätet.
 
-- elektrisk justering
+
+Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
+<br />
+
 
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
@@ -127,7 +121,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
+Det finns ett tillgängligt klimatsystem. Klimatsystemet 1-zone stöder endast kontroll av en delad zon för hela bilen. Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
 ## Tröst
 
@@ -181,15 +175,9 @@ BYD Seagull 38kWh har ett [**elektronisk stabilitetskontroll**](../../../../tech
 
 BYD Seagull 38kWh har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är valfritt förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
-
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) är standard förarassistanssystem som använder sensorer för att detektera närmar sig fordon från sidan när du backar ut från en parkeringsplats eller uppfart.
-
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett valfritt förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 
 BYD Seagull 38kWh har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
-
-[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
 
 [**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
@@ -207,6 +195,6 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 250 liter. Med baksätet nedfällt är det 850 liter. Bilens maximala vikt är 1550 kg, och med basvikten på 1240 kg kan du lasta maximalt 310 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 300 liter. Med baksätet nedfällt är det 900 liter. Bilens maximala vikt är 1550 kg, och med basvikten på 1240 kg kan du lasta maximalt 310 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
