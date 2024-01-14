@@ -1,7 +1,7 @@
 ---
-title: Zeekr 009 ME Edition range & consumption
+title: Volvo EM90 range & consumption
 linktitle: "Range"
-description: "Here you find all details about range and consumption for Zeekr 009 ME Edition."
+description: "Here you find all details about range and consumption for Volvo EM90."
 weight: 9
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -40,10 +40,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				822 km / 511 mi 
+				738 km / 459 mi 
 			</td>
 			<td>
-				16,30kWh/100km /  mi/kWh
+				14,91kWh/100km /  mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -97,7 +97,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				120kmh/75mph perfect condition
 			</td>
 			<td>
-				479 km / 298 mi
+				393 km / 244 mi
 			</td>
 			<td>
 				28 kWh/100km / 2,2 mi/kWh
@@ -108,7 +108,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				120kmh/75mph with 2KW heating
 			</td>
 			<td>
-				452 km /281mi
+				371 km /231mi
 			</td>
 			<td>
 				29,7 kWh/100km /2,1 mi/kWh

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-5a24e938
+  translation: intro.mpv.premium
+
 - id: frontpage-description-f2ab9bce
   translation: XPENG G6 AWD Performance är en helelektrisk SUV med en CLTC räckvidd på upp till 700 km. EVKX.net har alla detaljer.
 
@@ -145,15 +148,12 @@
 - id: frontpage-description-7bdf13bd
   translation: Nio ET9 är en helelektrisk premium sedan med en räckvidd på WLTP på upp till 720 km. EVKX.net har alla detaljer.
 
-- id: frontpage-description-50bcf160
-  translation: Genesis Electrified GV70 är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 470 km. EVKX.net har alla detaljer.
+- id: frontpage-description-7bdf13bd
+  translation: Nio ET9 är en helelektrisk premium sedan med en räckvidd på WLTP på upp till 720 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-50bcf160
   translation: Genesis Electrified GV70 är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 470 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-65c52c8e
   translation: Genesis GV60 2WD är en helelektrisk SUV med en WLTP räckvidd på upp till 517 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-c3b21caf
-  translation: Genesis GV60 AWD Performance är en helelektrisk SUV med en WLTP räckvidd på upp till 470 km. EVKX.net har alla detaljer.
 

@@ -1,15 +1,15 @@
 ---
-title: Zeekr 009 ME Edition specifications
+title: Volvo EM90 specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Zeekr 009 ME Edition."
+description: "EVKX.net gives you the full specifications for Volvo EM90."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/zeekr/009/009_me_edition/main_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440" >}}
-EVKX.net seeks to have the most complete specifications for Zeekr 009 ME Edition. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Zeekr 009 ME Edition, visit the [chargeinfo](../chargecurve/) for Zeekr 009 ME Edition with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/volvo/em90/em90/main_1_st.jpg" title="Volvo EM90" width="2000" height="1503" >}}
+EVKX.net seeks to have the most complete specifications for Volvo EM90. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo EM90, visit the [chargeinfo](../chargecurve/) for Volvo EM90 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 009 ME Edition
 				Peak power
 			</td>
 			<td>
-				400 KW (544 hp /536 bhp)
+				200 KW (272 hp /268 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 009 ME Edition
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				8,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -102,7 +102,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				140 kWh
+				116 kWh
 			</td>
 		</tr>
 		<tr>
@@ -110,7 +110,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				134 kWh
+				110 kWh
 			</td>
 		</tr>
 		<tr>
@@ -177,7 +177,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5209 mm (205,1")
+				5206 mm (205,0")
 			</td>
 		</tr>
 		<tr>
@@ -185,7 +185,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1848 mm (72,8")
+				1859 mm (73,2")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2830 kg (6239 lbs)
+				2763 kg (6091 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				570 kg (1257 lbs)
+				637 kg (1404 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +972,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
-				Not available
+				Yes, 15,4"
 			</td>
 		</tr>
 	</tbody>

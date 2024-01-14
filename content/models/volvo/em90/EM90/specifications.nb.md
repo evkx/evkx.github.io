@@ -1,15 +1,15 @@
 ---
-title: Zeekr 009 ME Edition spesifikasjoner
+title: Volvo EM90 spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Zeekr 009 ME Edition."
+description: "EVKX.net gir deg alle spesifikasjonene for Volvo EM90."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/zeekr/009/009_me_edition/main_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 009 ME Edition. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Zeekr 009 ME Edition, gå til [chargeinfo](../chargecurve/) for Zeekr 009 ME Edition med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/volvo/em90/em90/main_1_st.jpg" title="Volvo EM90" width="2000" height="1503" >}}
+EVKX.net søker å ha de mest komplette spesifikasjonene for Volvo EM90. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volvo EM90, gå til [chargeinfo](../chargecurve/) for Volvo EM90 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Ytelse
@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 009 ME Editio
 				Maks effekt
 			</td>
 			<td>
-				400 KW (544 hk)
+				200 KW (272 hk)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 009 ME Editio
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				8,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -102,7 +102,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				140 kWh
+				116 kWh
 			</td>
 		</tr>
 		<tr>
@@ -110,7 +110,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				134 kWh
+				110 kWh
 			</td>
 		</tr>
 		<tr>
@@ -177,7 +177,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				5209 mm
+				5206 mm
 			</td>
 		</tr>
 		<tr>
@@ -185,7 +185,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1848 mm
+				1859 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2830 kg
+				2763 kg
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				570 kg
+				637 kg
 			</td>
 		</tr>
 		<tr>
@@ -972,7 +972,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Infotainment skjerm bak
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 15,4"
 			</td>
 		</tr>
 	</tbody>

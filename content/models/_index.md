@@ -604,7 +604,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Volvo is a Swedish multinational automotive company that produces a range of cars, trucks, buses, and construction equipment. The company was founded in 1927 and has since become known for its commitment to safety, innovation, and sustainability.
 	</p>
 	<p>
-	Volvo has 4 models with total 11 variants. 
+	Volvo has 5 models with total 12 variants. 
 	</p>
 	<a href="volvo/" class="btn btn-outline-primary" role="button">Go to Volvo EV-model overview</a>
 </div>

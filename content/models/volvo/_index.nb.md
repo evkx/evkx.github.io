@@ -23,6 +23,20 @@ Volvo C40 er en crossover tilgjengelig i 3 varianter.
 	</div>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Volvo EM90</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="em90"><img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/main_1_st.jpg" class="img-fluid" alt="Volvo EM90" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+modelintro.MPV.Premium
+</p>
+	<a href="em90/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volvo EX30</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

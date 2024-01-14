@@ -102,7 +102,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bruttobatteristorlek
 			</td>
 			<td>
-				116 kWh
+				140 kWh
 			</td>
 		</tr>
 		<tr>
@@ -110,7 +110,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nettobatterikapacitet
 			</td>
 			<td>
-				110 kWh
+				134 kWh
 			</td>
 		</tr>
 		<tr>

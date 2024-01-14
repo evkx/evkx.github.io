@@ -1,7 +1,7 @@
 ---
-title: Zeekr 009 ME Edition rekkevidde & forbruk
+title: Volvo EM90 rekkevidde & forbruk
 linktitle: "Rekkevidde"
-description: "Her finner du alle detaljer om rekkevidde og forbruk for Zeekr 009 ME Edition."
+description: "Her finner du alle detaljer om rekkevidde og forbruk for Volvo EM90."
 weight: 9
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -40,10 +40,10 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				</a>
 			</td>
 			<td>
-				822 km / 511 mi 
+				738 km / 459 mi 
 			</td>
 			<td>
-				16,30kWh/100km /  mi/kWh
+				14,91kWh/100km /  mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -97,7 +97,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt/75 mph under perfekte forhold
 			</td>
 			<td>
-				479 km / 298 mi
+				393 km / 244 mi
 			</td>
 			<td>
 				28 kWh/100km / 2,2 mi/kWh
@@ -108,7 +108,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt /75mph med 2KW oppvarming
 			</td>
 			<td>
-				452 km /281mi
+				371 km /231mi
 			</td>
 			<td>
 				29,7 kWh/100km /2,1 mi/kWh
