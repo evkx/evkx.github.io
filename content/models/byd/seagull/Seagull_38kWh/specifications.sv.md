@@ -118,7 +118,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max DC Charging
 			</td>
 			<td>
-				88 kW
+				40 kW
 			</td>
 		</tr>
 		<tr>

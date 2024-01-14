@@ -16,6 +16,13 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>All the EV You Will Ever Need for $12k - BYD Seagull Review</h3>
+<p>Telescope: 15.09.2023</p>
+
+{{< youtube anoliCXXKIA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The BYD Seagull: Finally, A Fun To Drive Tiny EV!</h3>
 <p>Wheelsboy: 01.09.2023</p>
 

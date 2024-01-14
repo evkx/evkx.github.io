@@ -37,13 +37,13 @@ Batteriet har en bruttokapacitet på 38,8kWh och en nettokapacitet på 37kWh, vi
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 405 km ( miles). Förbrukningen är 9.1kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
-Maximal DC-laddningshastighet är 88 kW. En full laddning från 0 - 100 % tar 29 minuter, medan ett vanligare scenario på 10-80 % tar 16 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 17 minuter och 44 sekunder.
+Maximal DC-laddningshastighet är 40 kW. En full laddning från 0 - 100 % tar 102 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 12% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 31kW. Varje laddningssession tar 32 minuter och 50 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19kWh/100km, tar 1000km 10 timmar och 19 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 1% till 84%. Total tid som går förlorad för att ladda batteriet kommer att vara 119 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19kWh/100km, tar 1000km 13 timmar och 12 minuter. Den här resan kommer att kräva nio laddningssession(er) laddning från 11% till 57%. Total tid som går förlorad för att ladda batteriet kommer att vara 293 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 3 timmar och 21 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 6,6KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 5 timmar och 36 minuter.
 
 ### Laddningsport
 
