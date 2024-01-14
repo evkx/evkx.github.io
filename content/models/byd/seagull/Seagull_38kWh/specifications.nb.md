@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Seagull 38kWh. 
 				Dreiemoment
 			</td>
 			<td>
-				310 nm
+				135 nm
 			</td>
 		</tr>
 		<tr>
@@ -102,7 +102,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				38 kWh
+				38,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -194,6 +194,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				2500 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vendesirkel
+			</td>
+			<td>
+				9,9 meter
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +736,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +744,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Hill start assist
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +760,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Automatisk nødbremsing
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +784,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

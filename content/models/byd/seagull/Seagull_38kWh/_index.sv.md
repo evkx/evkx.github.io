@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av BYD Seagull 38kWh i avsnitt. Om du vill vän
 
 ## Prestanda
 
-BYD Seagull 38kWh har en maximal effekt på 55 KW (75hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 13 sekunder. Topphastigheten är 130 km/h.
+BYD Seagull 38kWh har en maximal effekt på 55 KW (75hk). Totalt vridmoment är 135 Nm. Den gör sprinten 0-100 km/h på 13 sekunder. Topphastigheten är 130 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 38kWh och en nettokapacitet på 37kWh, vilket innebär att du har en 1kWh buffert för skydd. (2,6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 38,8kWh och en nettokapacitet på 37kWh, vilket innebär att du har en 1,8kWh buffert för skydd. (4,6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 405 km ( miles). Förbrukningen är 9.1kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
@@ -177,9 +177,7 @@ BYD Seagull 38kWh har en [**filhållningsassistent**](../../../../technology/dri
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett valfritt förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 
-BYD Seagull 38kWh har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
-
-[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+BYD Seagull 38kWh har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som valfritt-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
 ### Körautomation
 

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BYD Seagull 38kWh i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-BYD Seagull 38kWh har en maksimal effekt på 55 KW (75hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 13 sekunder. Topphastigheten er 130 km/t.
+BYD Seagull 38kWh har en maksimal effekt på 55 KW (75hk). Totalt dreiemoment er 135 nm. Den utfører sprinten 0-100 km/t på 13 sekunder. Topphastigheten er 130 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 38kWh og en nettokapasitet på 37kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (2,6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 38,8kWh og en nettokapasitet på 37kWh, noe som betyr at du har et 1,8kWh-buffer for beskyttelse. (4,6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 405 km ( miles). Forbruket er 9.1kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -177,9 +177,7 @@ BYD Seagull 38kWh har et [**kjørefeltassistent**](../../../../technology/driver
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-BYD Seagull 38kWh har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
-
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
+BYD Seagull 38kWh har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som tilvalg-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 ### Kjøreautomatisering
 

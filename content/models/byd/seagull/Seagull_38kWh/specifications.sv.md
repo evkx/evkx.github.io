@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för BYD Seagull 38kWh. Kli
 				Vridmoment
 			</td>
 			<td>
-				310 nm
+				135 nm
 			</td>
 		</tr>
 		<tr>
@@ -102,7 +102,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bruttobatteristorlek
 			</td>
 			<td>
-				38 kWh
+				38,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -194,6 +194,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				2500 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				9,9 meter
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +736,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Hill Descent Assist
 			</td>
 			<td>
-				Ja, standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +744,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Hill starthjälp
 			</td>
 			<td>
-				Ja, standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +760,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Automatisk nödbromsning
 			</td>
 			<td>
-				Ja, standardfunktion
+				Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +784,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Left Turn Crash Avoidance
 			</td>
 			<td>
-				Ja, valfri funktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

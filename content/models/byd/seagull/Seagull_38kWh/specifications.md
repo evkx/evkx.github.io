@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BYD Seagull 38kWh. C
 				Electrical torque output
 			</td>
 			<td>
-				310 nm (229 ft-lb)
+				135 nm (100 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -102,7 +102,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				38 kWh
+				38,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -194,6 +194,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				2500 mm (98,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				9,9 meter (389,8")
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +736,7 @@ This model is available with a seat configuration with four seats.
 				Hill descent assist
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +744,7 @@ This model is available with a seat configuration with four seats.
 				Hill start assist
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +760,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +784,7 @@ This model is available with a seat configuration with four seats.
 				Left turn crash avoidance
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

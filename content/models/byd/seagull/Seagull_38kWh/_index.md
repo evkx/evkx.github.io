@@ -29,11 +29,11 @@ We have separated our BYD Seagull 38kWh article into sections. If you want to wa
 
 ## Performance
 
-The BYD Seagull 38kWh has a maximum power of 55 KW (75 hp/74 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 13 seconds. The top speed is 130 km/h.
+The BYD Seagull 38kWh has a maximum power of 55 KW (75 hp/74 bhp). The total torque is 135 nm (100 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 13 seconds. The top speed is 130 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 38kWh and a net capacity of 37kWh, meaning you have a 1kWh buffer for protection. (2,6%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 38,8kWh and a net capacity of 37kWh, meaning you have a 1,8kWh buffer for protection. (4,6%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 405 km ( miles). The consumption is 9.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -177,9 +177,7 @@ The BYD Seagull 38kWh has a [**lane-keeping assist**](../../../../technology/dri
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions.
 
-The BYD Seagull 38kWh has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
+The BYD Seagull 38kWh has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as an optional system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
