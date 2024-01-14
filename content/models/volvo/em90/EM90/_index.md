@@ -1,7 +1,7 @@
 ---
 title: Volvo EM90
 linktitle: "EM90"
-description: "intro.mpv.premium"
+description: "Volvo EM90 is an all-electric premium MPV with a CLTC range of up to 738 km (459 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

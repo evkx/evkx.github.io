@@ -1,7 +1,7 @@
 ---
 title: Volvo EM90
 linktitle: "EM90"
-description: "intro.mpv.premium"
+description: "Volvo EM90 är en helelektrisk premium MPV med en CLTC räckvidd på upp till 738 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
