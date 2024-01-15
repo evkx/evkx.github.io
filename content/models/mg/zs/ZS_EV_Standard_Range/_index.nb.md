@@ -1,7 +1,7 @@
 ---
 title: MG ZS EV Standard Range
 linktitle: "ZS EV Standard Range"
-description: "MG ZS EV Standard Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 440 km. EVKX.net har alle detaljene. "
+description: "MG ZS EV Standard Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 320 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ MG ZS EV Standard Range har en maksimal effekt på 115 KW (156hk). Totalt dreiem
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 72,6kWh og en nettokapasitet på 68,3kWh, noe som betyr at du har et 4,3kWh-buffer for beskyttelse. (5,9%).
+Batteriet har en bruttokapasitet på 51,1kWh og en nettokapasitet på 49kWh, noe som betyr at du har et 2,1kWh-buffer for beskyttelse. (4,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 440 km. Forbruket er 15.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 320 km. Forbruket er 15.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 94 kW. En full lading fra 0 - 100 % vil ta 112 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 63kW. Hver ladeøkt vil ta 34 minutter og 23 sekunder.
+Maksimal DC-ladehastighet er 94 kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 73%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 60kW. Hver ladeøkt vil ta 32 minutter og 27 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 11 timer og 4 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 7% til 70%. Totalt tapt tid for å lade opp batteriet vil være 165 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 11 timer og 31 minutter. Denne turen vil kreve seks ladeøkt(er) lading fra 7% til 72%. Totalt tapt tid for å lade opp batteriet vil være 192 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 6 timer og 12 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 27 minutter.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/charging_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}

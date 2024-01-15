@@ -1,7 +1,7 @@
 ---
 title: MG ZS EV Standard Range
 linktitle: "ZS EV Standard Range"
-description: "MG ZS EV Standard Range is an all-electric SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details. "
+description: "MG ZS EV Standard Range is an all-electric SUV with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ The MG ZS EV Standard Range has a maximum power of 115 KW (156 hp/154 bhp). The 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 72,6kWh and a net capacity of 68,3kWh, meaning you have a 4,3kWh buffer for protection. (5,9%).
+The battery has a gross capacity of 51,1kWh and a net capacity of 49kWh, meaning you have a 2,1kWh buffer for protection. (4,1%).
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 440 km (274 mi). The consumption is 15.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 320 km (199 mi). The consumption is 15.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 94kW. A full charge from 0 - 100% would take 112 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 61%, resulting in an actual charge speed, including time loss, of 63kW. Each charge session would take 34 minutes and 23 seconds.
+The maximum DC charging speed is 94kW. A full charge from 0 - 100% would take 80 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 73%, resulting in an actual charge speed, including time loss, of 60kW. Each charge session would take 32 minutes and 27 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 11 hours and 4 minutes. This trip will require four charge session(s) charging from 7% to 70%. The total time lost for charging up the battery will be 165 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 11 hours and 31 minutes. This trip will require six charge session(s) charging from 7% to 72%. The total time lost for charging up the battery will be 192 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 12 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 27 minutes.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/charging_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
