@@ -58,7 +58,7 @@ MG MG5 is a station wagon available in 1 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-MG ZS is a SUV available in 1 variants.
+MG ZS is a SUV available in 2 variants.
 </p>
 	<a href="zs/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

@@ -58,7 +58,7 @@ MG MG5 er en stasjonsvogn tilgjengelig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-MG ZS er en SUV tilgjengelig i 1 varianter.
+MG ZS er en SUV tilgjengelig i 2 varianter.
 </p>
 	<a href="zs/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
