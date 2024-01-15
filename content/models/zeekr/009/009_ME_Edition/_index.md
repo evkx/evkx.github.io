@@ -1,7 +1,7 @@
 ---
 title: Zeekr 009 ME Edition
 linktitle: "009 ME Edition"
-description: "Zeekr 009 ME Edition is an all-electric MPV with a CLTC range of up to 822 km (511 miles). EVKX.net has all the details. "
+description: "Zeekr 009 ME Edition is an all-electric premium MPV with a CLTC range of up to 822 km (511 miles). EVKX.net has all the details. "
 weight: 10
 hidden: true
 shownavtabs: true

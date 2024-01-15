@@ -30,7 +30,7 @@ Volvo C40 is a crossover available in 3 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.MPV.Premium
+Volvo EM90 is a premium MPV available in 1 variants.
 </p>
 	<a href="em90/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

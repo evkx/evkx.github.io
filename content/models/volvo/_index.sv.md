@@ -30,7 +30,7 @@ Volvo C40 är en crossover tillgänglig i 3 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.MPV.Premium
+Volvo EM90 är en premim MPV tillgänglig i 1 varianter.
 </p>
 	<a href="em90/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

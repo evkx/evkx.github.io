@@ -44,7 +44,7 @@ Zeekr 007 is a sedan available in 1 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.MPV.Mid
+Zeekr 009 is a premium MPV available in 1 variants.
 </p>
 	<a href="009/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

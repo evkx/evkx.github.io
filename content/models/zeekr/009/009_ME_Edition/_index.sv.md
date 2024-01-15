@@ -1,7 +1,7 @@
 ---
 title: Zeekr 009 ME Edition
 linktitle: "009 ME Edition"
-description: "Zeekr 009 ME Edition är en helelektrisk MPV med en CLTC räckvidd på upp till 822 km. EVKX.net har alla detaljer."
+description: "Zeekr 009 ME Edition är en helelektrisk premium MPV med en CLTC räckvidd på upp till 822 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

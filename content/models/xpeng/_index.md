@@ -72,7 +72,7 @@ XPENG P7 is a sedan available in 1 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.MPV.Mid
+XPENG X9 is a MPV available in 1 variants.
 </p>
 	<a href="x9/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

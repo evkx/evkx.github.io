@@ -72,7 +72,7 @@ XPENG P7 är en sedan som finns i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.MPV.Mid
+XPENG X9 är en MPV tillgänglig i 1 varianter.
 </p>
 	<a href="x9/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

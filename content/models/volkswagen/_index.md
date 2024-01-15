@@ -16,7 +16,7 @@ Volkswagen is aiming to increase the proportion of unit sales accounted for by p
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.MPV.Mid
+Volkswagen ID. Buzz is a MPV available in 2 variants.
 </p>
 	<a href="id._buzz/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
