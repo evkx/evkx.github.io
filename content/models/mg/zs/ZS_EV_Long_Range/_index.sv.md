@@ -51,7 +51,7 @@ För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-ladd
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Platsen för laddningsporten är på [fronten](../../../../technology/charging/connectors/#front). Denna plats gör det lättanvända laddstationer där du måste parkera med fronten in. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -77,7 +77,7 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-B-stolpen och vyerna bak är tonade.
+Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/exterior_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
@@ -98,6 +98,7 @@ Endast en typ av framsäte är tillgänglig i MG ZS EV Long Range.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering (valfritt)
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
@@ -114,7 +115,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 
 

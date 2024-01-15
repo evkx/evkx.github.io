@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW c
 
 ### Charge port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -77,7 +77,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-The windows from B-pillar and back are tinted.
+You can order the car with tinted windows from B-pillar and back.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/exterior_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
@@ -98,6 +98,7 @@ Only one front seat type is available in the MG ZS EV Long Range.
 The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
+- height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 You can choose from 2 different materials/colors for this seat type.
@@ -114,7 +115,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 
 

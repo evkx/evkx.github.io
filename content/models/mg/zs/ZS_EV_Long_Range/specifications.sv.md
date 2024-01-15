@@ -483,7 +483,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Okänd
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -491,7 +491,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -499,7 +499,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +523,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

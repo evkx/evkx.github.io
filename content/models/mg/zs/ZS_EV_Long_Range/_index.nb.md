@@ -51,7 +51,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [fronten](../../../../technology/charging/connectors/#front). Denne plasseringen gjør det brukervennlige ladestasjoner der du må parkere med fronten inn. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -77,7 +77,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/exterior_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
@@ -98,6 +98,7 @@ Bare én type forsete er tilgjengelig i MG ZS EV Long Range.
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering (tilvalg)
+- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
@@ -114,7 +115,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 
-Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 
 
