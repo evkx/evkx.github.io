@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>DRIVEN: Volkswagen ID.7. Has VW finally built a Tesla-beater?</h3>
+<p>What Car?: 15.01.2024</p>
+
+{{< youtube p7-uAxrI2vA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>NEW BYD Seal vs Tesla Model 3 vs VW ID.7 – best EV? | Road trip costs compared! </h3>
 <p>What Car?: 15.12.2023</p>
 
