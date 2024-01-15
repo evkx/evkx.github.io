@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 72,6kWh og en nettokapasitet på 68,3kWh, n
 
 Maksimal DC-ladehastighet er 94 kW. En full lading fra 0 - 100 % vil ta 112 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 63kW. Hver ladeøkt vil ta 34 minutter og 23 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 10 timer og 56 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 9% til 57%. Totalt tapt tid for å lade opp batteriet vil være 157 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 11 timer og 4 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 7% til 70%. Totalt tapt tid for å lade opp batteriet vil være 165 minutter.
 
 ### Ombordlader
 
@@ -89,7 +89,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
@@ -97,12 +97,12 @@ Bare én type forsete er tilgjengelig i MG ZS EV Long Range.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering
+- elektrisk justering (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- interior.seat.alcantaraleatherette
 
 
 
@@ -152,14 +152,14 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for MG ZS EV Long Range. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+Du kan velge mellom to lydsystemer på MG ZS EV Long Range. Med MG standard system får du fire høyttalere med en maksimal systemeffekt på  watt. Med MG luxury sound system får du seks høyttalere med en maksimal systemeffekt på  watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter MG ZS EV Long Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-Modellen har 4 USB-A-tilkoblinger som standard.
+Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 ## Lys
 
-
+Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/headlights_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1673"  >}}
@@ -171,7 +171,13 @@ MG ZS EV Long Range har flere standard og valgfrie [avanserte førerassistentsys
 
 
 
+MG ZS EV Long Range har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
+
 MG ZS EV Long Range har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 

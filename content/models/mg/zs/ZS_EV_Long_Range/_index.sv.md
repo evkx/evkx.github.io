@@ -39,7 +39,7 @@ Batteriet har en bruttokapacitet på 72,6kWh och en nettokapacitet på 68,3kWh, 
 
 Maximal DC-laddningshastighet är 94 kW. En full laddning från 0 - 100 % tar 112 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 61%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 63kW. Varje laddningssession tar 34 minuter och 23 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 23kWh/100km, tar 1000km 10 timmar och 56 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 9% till 57%. Total tid som går förlorad för att ladda batteriet kommer att vara 157 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 11 timmar och 4 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 7% till 70%. Total tid som går förlorad för att ladda batteriet kommer att vara 165 minuter.
 
 ### Inbyggd laddare
 
@@ -89,7 +89,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
+Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 
@@ -97,12 +97,12 @@ Endast en typ av framsäte är tillgänglig i MG ZS EV Long Range.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
-- elektrisk justering
+- elektrisk justering (valfritt)
+- [värme](../../../../technology/seats/adjustment/#heating)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- interior.seat.alcantaraleatherette
 
 
 
@@ -152,14 +152,14 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för MG ZS EV Long Range. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på MG ZS EV Long Range. Med MG standard system får du fyra högtalare med en maximal systemeffekt på  watt. Med MG luxury sound system får du sex högtalare med en maximal systemeffekt på  watt.
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder MG ZS EV Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
-Modellen har 4 USB-A-anslutningar som standard.
+Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 ## Ljus
 
-
+Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/headlights_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1673"  >}}
@@ -171,7 +171,13 @@ MG ZS EV Long Range har flera standard- och valfria [avancerade förarassistanss
 
 
 
+MG ZS EV Long Range har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+
 MG ZS EV Long Range har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
 ### Körautomation
 

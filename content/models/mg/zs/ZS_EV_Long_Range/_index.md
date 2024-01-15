@@ -39,7 +39,7 @@ The [WLTP range](../../../../guides/understandingrange/wltp/) is 440 km (274 mi)
 
 The maximum DC charging speed is 94kW. A full charge from 0 - 100% would take 112 minutes, while a more common scenario of 10-80% would take 42 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 61%, resulting in an actual charge speed, including time loss, of 63kW. Each charge session would take 34 minutes and 23 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 56 minutes. This trip will require five charge session(s) charging from 9% to 57%. The total time lost for charging up the battery will be 157 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 11 hours and 4 minutes. This trip will require four charge session(s) charging from 7% to 70%. The total time lost for charging up the battery will be 165 minutes.
 
 ### Onboard charger
 
@@ -89,7 +89,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
+You can choose between different types of seat materials and interior styling. You can choose between several interior designs. The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 
@@ -97,12 +97,12 @@ Only one front seat type is available in the MG ZS EV Long Range.
 
 The following functionalities are available on the **standard** seat.
 
-- electric adjustment
+- electric adjustment (optional)
+- [heating](../../../../technology/seats/adjustment/#heating)
 
-You can choose from 3 different materials/colors for this seat type.
+You can choose from 2 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-- interior.seat.alcantaraleatherette
 
 
 
@@ -152,14 +152,14 @@ This model is equipped with voice control as standard. The voice control lets yo
 
 ## Infotainment
 
-One type of sound system is available for the MG ZS EV Long Range. With the , you get NULL speakers with a max system output of  watts.
+You can choose between two sound systems on the MG ZS EV Long Range. With the MG standard system, you get four speakers with a max system output of  watts. With the MG luxury sound system, you get six speakers with a max system output of  watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the MG ZS EV Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-The model has 4 USB-A connections as standard.
+The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 ## Lights
 
-
+The standard headlights use LED technology. In addition, the standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/headlights_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1673"  >}}
@@ -171,7 +171,13 @@ The MG ZS EV Long Range has several standard and optional [advanced driver assis
 
 
 
+The MG ZS EV Long Range has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+
 The MG ZS EV Long Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
+
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
