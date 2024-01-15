@@ -16,6 +16,13 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New Tesla Model 3 v BYD Seal: Ultimate review!</h3>
+<p>carwow: 15.01.2024</p>
+
+{{< youtube tezLYZHWkK4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Model 3 LR Highland acceleration, noise and braking test</h3>
 <p>Bjørn Nyland: 14.01.2024</p>
 

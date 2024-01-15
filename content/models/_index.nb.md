@@ -346,7 +346,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="mg/"><img src="https://media.evkx.net/multimedia/models/mg/brandevs_st.jpg" class="img-fluid mb-2" alt="MG" ></a>
 	<h2>MG</h2>
 	<p>
-	MG har 3 modell(er) med totalt 7 varianter. 
+	MG har 4 modell(er) med totalt 8 varianter. 
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Gå til MG modelloversikt</a>
 </div>
