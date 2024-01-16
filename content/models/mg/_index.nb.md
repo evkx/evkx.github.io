@@ -9,6 +9,20 @@ weight: 30
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> MG Cyberster</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="cyberster"><img src="https://media.evkx.net/multimedia/models/mg/cyberster/cyberster_awd_long_range/main_1_st.jpg" class="img-fluid" alt="MG Cyberster" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+modelintro.Convertible.Mid
+</p>
+	<a href="cyberster/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> MG Marvel R</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

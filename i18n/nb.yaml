@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-d456be48
+  translation: intro.convertible.mid
+
 - id: frontpage-description-a8e9d5b4
   translation: BYD Seagull 38kWh er en helelektrisk kombi med en CLTC rekkevidde på opptil 405 km. EVKX.net har alle detaljene. 
 
@@ -145,15 +148,12 @@
 - id: frontpage-description-6dae8dd0
   translation: Fisker Ocean Sport er en helelektrisk SUV med en WLTP rekkevidde på opptil 464 km. EVKX.net har alle detaljene. 
 
-- id: frontpage-description-be62bb42
-  translation: Fisker Ocean Ultra er en helelektrisk SUV med en WLTP rekkevidde på opptil 690 km. EVKX.net har alle detaljene. 
+- id: frontpage-description-6dae8dd0
+  translation: Fisker Ocean Sport er en helelektrisk SUV med en WLTP rekkevidde på opptil 464 km. EVKX.net har alle detaljene. 
 
 - id: frontpage-description-be62bb42
   translation: Fisker Ocean Ultra er en helelektrisk SUV med en WLTP rekkevidde på opptil 690 km. EVKX.net har alle detaljene. 
 
 - id: frontpage-description-7bdf13bd
   translation: Nio ET9 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 720 km. EVKX.net har alle detaljene. 
-
-- id: frontpage-description-50bcf160
-  translation: Genesis Electrified GV70 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene. 
 
