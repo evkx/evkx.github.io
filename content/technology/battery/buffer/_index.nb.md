@@ -30,11 +30,11 @@ BMS regulerer lading og utlading av batteripakken tilsvarende for å holde den i
 
 Noen ganger velger produsenten å endre bufferstørrelsen med programvareoppdateringer. Denne endringen skjer vanligvis når produsenten vet mer om hvordan et nytt batteri presterer angående nedbrytning.
 
-## Skjult brukbar buffer
+## Skjult tilgjengelig buffer
 
-Noen produsenter skjuler noe tilgjengelig batterikapasitet i en skjult brukbar buffer. Hva betyr det?
+Noen produsenter skjuler noe tilgjengelig batterikapasitet i en skjult tilgjengelig buffer. Hva betyr det?
 
-Det betyr vanligvis at SOC-skalaen ikke er lineær. Det betyr at 0-1 % er større enn alle andre prosent. I mange tilfeller kan prosentandelen fra 0-1 % være størrelsen 5-10 ganger den andre prosenten. Den ekstra energien kalles ofte <b>Nullbuffer</b>.
+Det betyr vanligvis at SOC-skalaen ikke er lineær. Det betyr at 0-1 % er større enn alle andre prosent. I mange tilfeller kan prosentandelen fra 0-1 % være størrelsen 5-10 ganger den størrelsen til de andre prosentstegene. Den ekstra energien kalles ofte <b>Nullbuffer</b>.
 
 Diagrammet viser hvordan 0-1 % er mye større for den viste SOC enn de andre prosentene.
 
@@ -42,7 +42,7 @@ Diagrammet viser hvordan 0-1 % er mye større for den viste SOC enn de andre pro
      <img src="hiddenbuffer.drawio.svg" class="img-fluid">
 </a>
 
-Denne strategien gjør det mindre sannsynlig at elbilen går tom for batteri. Problemet med denne tilnærmingen er at du vanligvis lader bilen når det er 5-10 % igjen for å sikre at du ikke går tom, men når det er skjult kapasitet ender sjåføren med å lade allerede når det er 15-20 % batteri venstre. Denne tilnærmingen fører til at eieren opplever lavere elektrisk rekkevidde enn i virkeligheten.
+Denne strategien gjør det mindre sannsynlig at elbilen går tom for batteri. Problemet med denne tilnærmingen er at du vanligvis lader bilen når det er 5-10 % igjen for å sikre at du ikke går tom, men når det er skjult kapasitet ender sjåføren med å lade allerede når det er 15-20 % batteri igjen. Denne tilnærmingen fører til at eieren opplever lavere elektrisk rekkevidde enn i virkeligheten.
 
 EVKX.net mener dette er en dårlig praksis fra produsentene.
 
