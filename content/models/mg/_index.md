@@ -44,7 +44,7 @@ MG MG4 is a crossover available in 4 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-MG MG5 is a station wagon available in 1 variants.
+MG MG5 is a station wagon available in 2 variants.
 </p>
 	<a href="mg5/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

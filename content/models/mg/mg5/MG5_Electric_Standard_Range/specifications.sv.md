@@ -1,34 +1,34 @@
 ---
-title: MG MG5 Electric Long Range spesifikasjoner
-linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for MG MG5 Electric Long Range."
+title: MG MG5 Electric Standard Range Specifikationer
+linktitle: "Specifikationer"
+description: "EVKX.net ger dig alla specifikationer för MG MG5 Electric Standard Range."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1639" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG5 Electric Long Range, gå til [chargeinfo](../chargecurve/) for MG MG5 Electric Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/main_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1639" >}}
+EVKX.net vill ha de mest kompletta specifikationerna för MG MG5 Electric Standard Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av MG MG5 Electric Standard Range, gå till [chargeinfo](../chargecurve/) för MG MG5 Electric Standard Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga intervall.
 
 
-## Ytelse
+## Prestanda
 
 <table class="table table-striped">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt
+				Max Power
 			</td>
 			<td>
 				115 KW (156 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Lon
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment
+				Vridmoment
 			</td>
 			<td>
 				280 nm
@@ -47,12 +47,12 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Lon
 				Topphastighet
 			</td>
 			<td>
-				185 km/t
+				185 km/h
 			</td>
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				8,3 s
@@ -63,32 +63,32 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Lon
 
 
 
-## Rekkevidde og forbruk
+## Räckvidd och förbrukning
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+Nedan finns den officiella sortimentsinformationen. Besök vår [information om utökat sortiment](../rangeandconsumption/) för detaljerade exempel på sortiment. Besök vår [räckvidde guide](../../../../../guides/understandingrange/) för att se vad som påverkar räckvidden och hur de officiella räckviddsvärdena mäts.
 <table class="table table-striped">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-intervall för grundläggande trim
 			</td>
 			<td>
-				400 km
+				320 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				Basic trim WLTP-förbrukning
 			</td>
 			<td>
 				14,4 kWh/100km
@@ -96,31 +96,31 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				17,5 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-rekkevidde
-			</td>
-			<td>
-				380 km
+				18,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				Topptrim WLTP-intervall
 			</td>
 			<td>
-				15,1 kWh/100km
+				310 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk med ladetap
+				Topptrim WLTP-förbrukning
+			</td>
+			<td>
+				14,8 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
 				17,9 kwh/100km
@@ -131,39 +131,39 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
-## Batteri og lading
+## Batteri och laddning
 
 <table class="table table-striped">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Brutto batteristørrelse
+				Bruttobatteristorlek
 			</td>
 			<td>
-				61,1 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Netto batteristørrelse
-			</td>
-			<td>
-				57,4 kWh
+				50,3 kWh
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks DC-lading
+				Nettobatterikapacitet
+			</td>
+			<td>
+				46 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max DC Charging
 			</td>
 			<td>
 				87 kW
@@ -171,7 +171,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Katodematerialer
+				Katodmaterial
 			</td>
 			<td>
 				NMC
@@ -182,23 +182,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
-## Dimensjoner
+## Dimensions
 
 <table class="table table-striped">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Lengde
+				Längd
 			</td>
 			<td>
 				4600 mm
@@ -206,7 +206,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Høyde
+				Höjd
 			</td>
 			<td>
 				1543 mm
@@ -214,7 +214,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Bredde uten speil
+				Bredd exklusive speglar
 			</td>
 			<td>
 				1818 mm
@@ -222,7 +222,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Bredde inkludert speil
+				Bredd inklusive speglar
 			</td>
 			<td>
 				2059 mm
@@ -230,7 +230,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Akselavstand
+				Wheelbase
 			</td>
 			<td>
 				2659 mm
@@ -239,23 +239,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
-## Lastekapasitet og slepeevne
+## Lastkapacitet och dragkapacitet
 
 <table class="table table-striped">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Egenvekt
+				CurbWeight
 			</td>
 			<td>
 				1562 kg
@@ -263,7 +263,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Tillatt totalvekt
+				Tillåten totalvikt
 			</td>
 			<td>
 				2017 kg
@@ -271,7 +271,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks nyttelast inkludert vekt fører
+				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
 				455 kg
@@ -279,7 +279,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks taklast
+				Max taklast
 			</td>
 			<td>
 				75 kg
@@ -287,7 +287,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
+				Bålstorlek
 			</td>
 			<td>
 				479 liter
@@ -295,7 +295,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Størrelse med alle bakseter lagt ned
+				Storlek med alla baksäten nedfällda
 			</td>
 			<td>
 				1367 liter
@@ -303,7 +303,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Max bromsad släpvikt
 			</td>
 			<td>
 				500 kg
@@ -311,7 +311,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maximal bromsad släpvagnsvikt
 			</td>
 			<td>
 				500 kg
@@ -319,7 +319,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksvekt på tilhengerkobling
+				Släpvagnskopplingens maximala vikt
 			</td>
 			<td>
 				50 kg
@@ -328,63 +328,63 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
-## Hjuloppheng
+## Hjulupphängning
 
 <table class="table table-striped">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptive Suspension
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar demping foran
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar demping bak
+				Justerbar dämpning fram
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde foran
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar høyde bak
+				Justerbar dämpning bak
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks bakkeklaring
+				Justerbar höjd fram
+			</td>
+			<td>
+				Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar höjd bak
+			</td>
+			<td>
+				Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max Ground Clearance
 			</td>
 			<td>
 				115 mm
@@ -392,7 +392,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minsta markfrigång
 			</td>
 			<td>
 				115 mm
@@ -400,7 +400,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Typ av främre dämpare
 			</td>
 			<td>
 				Monotube
@@ -408,7 +408,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Bakre spjälltyp
 			</td>
 			<td>
 				Monotube
@@ -416,7 +416,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Typ av främre fjädring
 			</td>
 			<td>
 				Coil
@@ -424,7 +424,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Bakre fjädringstyp
 			</td>
 			<td>
 				Coil
@@ -432,7 +432,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Frontupphängning
 			</td>
 			<td>
 				MacPhersonStrut
@@ -440,7 +440,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Bakre fjädring
 			</td>
 			<td>
 				Multilink
@@ -449,10 +449,10 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
-## Interiør
+## Interiör
 
 
-### Forseter
+### Framsäten
 
 
 #### standard
@@ -461,17 +461,17 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Setetype
+				Sitttyp
 			</td>
 			<td>
 				PassengerAndDriver
@@ -479,120 +479,120 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minne passasjersete
+				Minnesförarsäte
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Høydejusterbar nakkestøtte
-			</td>
-			<td>
-				Ukjent
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Lengdejusterbar hodestøtte
+				Memory Passenger Seat
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Okänd
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
+				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fotstøttepassasjerer
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Okänd
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Justerbart lårstöd
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk korsryggstøtte
-			</td>
-			<td>
-				Ukjent
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seteventilasjon
+				Ryggstödsjustering
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Massasjefunksjon
+				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt justerbart lårstöd
+			</td>
+			<td>
+				Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstödspassagerare
+			</td>
+			<td>
+				Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LegSupportPassenger
+			</td>
+			<td>
+				Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt svankstöd
+			</td>
+			<td>
+				Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sätesventilation
+			</td>
+			<td>
+				Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Seter på andre rad
+### Second Row Seats
 
 
 #### standard
@@ -601,17 +601,17 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Setetype
+				Sitttyp
 			</td>
 			<td>
 				ThreeSeatBench
@@ -619,115 +619,115 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Lengdejusterbar hodestøtte
-			</td>
-			<td>
-				Ukjent
+				Okänd
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar lårstøtte
+				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøtten
-			</td>
-			<td>
-				Ukjent
+				Okänd
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbart lårstöd
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Ukjent
+				Okänd
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Ryggstödsjustering
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Okänd
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seteventilasjon
-			</td>
-			<td>
-				Ukjent
+				Okänd
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Massasjefunksjon
+				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Ukjent
+				Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstödspassagerare
+			</td>
+			<td>
+				Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LegSupportPassenger
+			</td>
+			<td>
+				Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt svankstöd
+			</td>
+			<td>
+				Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sätesventilation
+			</td>
+			<td>
+				Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Okänd
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Sjåførassistanse
+## Förarassistans
 
 <table class="table table-striped">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Lane keeping
+				Körfältshållning
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -735,22 +735,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lane departure warning
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Døsighetsvarsel
+				Sömnighetsvarning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bryggekamera
+				ReversingCamera
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -758,12 +758,12 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				360-kamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Alarm for kryssende trafikk bak
+				Bakre tvärtrafikvarning
 			</td>
 			<td>
 			</td>
@@ -777,28 +777,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer foran
+				Parkeringssensorer fram
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer på siden
+				Sidoparkeringssensorer
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hill nedstigningshjelp
+				Hill Descent Assist
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hill start assist
+				Hill starthjälp
 			</td>
 			<td>
 			</td>
@@ -812,28 +812,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødbremsing
+				Automatisk nödbromsning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bremseassistent
+				Bromsassistent
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Traksjonskontroll
+				Traction Control
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Unngå krasj i venstresving
+				Left Turn Crash Avoidance
 			</td>
 			<td>
 			</td>
@@ -854,7 +854,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Temperaturadvarsel
+				Temperature Warning
 			</td>
 			<td>
 			</td>
@@ -868,53 +868,53 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
+				Hastighetsbegränsare
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Effektivitetsassistent
+				EfficiencyAssist
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødstyring
+				Automatisk nödstyrning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Trafikkskiltgjenkjenning
+				Traffic Sign Recognition
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Nattsyn
+				Nattseende
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Brukerinterface
+## Användargränssnitt
 
 <table class="table table-striped">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
@@ -924,52 +924,52 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Head-up display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Röststyrning
 			</td>
 			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Gesture control
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Android Auto-støtte
+				Gestkontroll
 			</td>
 			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay-støtte
-			</td>
-			<td>
-				Ja, standardutstyr
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				I bilnavigasjon
+				Android Auto Support
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Available screen layouts
+				Apple Carplay Support
+			</td>
+			<td>
+				Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				I bilnavigering
+			</td>
+			<td>
+				Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillgängliga skärmlayouter
 			</td>
 			<td>
 				1
@@ -977,7 +977,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				Digital drivrutinsdisplay
 			</td>
 			<td>
 				Ja, 7
@@ -985,7 +985,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm
+				Infotainmentskärm
 			</td>
 			<td>
 				Ja, 10,25
@@ -993,18 +993,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm fremre passasjer
+				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm bak
+				Bakre infotainmentskärm
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

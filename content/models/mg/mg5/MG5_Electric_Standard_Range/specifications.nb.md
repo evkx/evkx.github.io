@@ -1,15 +1,15 @@
 ---
-title: MG MG5 Electric Long Range spesifikasjoner
+title: MG MG5 Electric Standard Range spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for MG MG5 Electric Long Range."
+description: "EVKX.net gir deg alle spesifikasjonene for MG MG5 Electric Standard Range."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1639" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG5 Electric Long Range, gå til [chargeinfo](../chargecurve/) for MG MG5 Electric Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/main_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1639" >}}
+EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG5 Electric Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av MG MG5 Electric Standard Range, gå til [chargeinfo](../chargecurve/) for MG MG5 Electric Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Ytelse
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				400 km
+				320 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				17,5 kWh/100km
+				18,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				380 km
+				310 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				15,1 kWh/100km
+				14,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				61,1 kWh
+				50,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				57,4 kWh
+				46 kWh
 			</td>
 		</tr>
 		<tr>

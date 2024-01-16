@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				175 kWh/100km
+				17,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				179 kwh/100km
+				17,9 kwh/100km
 			</td>
 		</tr>
 	</tbody>

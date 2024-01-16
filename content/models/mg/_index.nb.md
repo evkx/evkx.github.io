@@ -44,7 +44,7 @@ MG MG4 er en crossover tilgjengelig i 4 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-MG MG5 er en stasjonsvogn tilgjengelig i 1 varianter.
+MG MG5 er en stasjonsvogn tilgjengelig i 2 varianter.
 </p>
 	<a href="mg5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

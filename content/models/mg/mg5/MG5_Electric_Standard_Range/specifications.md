@@ -1,15 +1,15 @@
 ---
-title: MG MG5 Electric Long Range specifications
+title: MG MG5 Electric Standard Range specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for MG MG5 Electric Long Range."
+description: "EVKX.net gives you the full specifications for MG MG5 Electric Standard Range."
 weight: 30
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1639" >}}
-EVKX.net seeks to have the most complete specifications for MG MG5 Electric Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG5 Electric Long Range, visit the [chargeinfo](../chargecurve/) for MG MG5 Electric Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+{{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/main_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1639" >}}
+EVKX.net seeks to have the most complete specifications for MG MG5 Electric Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of MG MG5 Electric Standard Range, visit the [chargeinfo](../chargecurve/) for MG MG5 Electric Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
 
 
 ## Performance
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				400 km
+				320 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				17,5 kWh/100km
+				18,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				380 km
+				310 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				15,1 kWh/100km
+				14,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				61,1 kWh
+				50,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				57,4 kWh
+				46 kWh
 			</td>
 		</tr>
 		<tr>
