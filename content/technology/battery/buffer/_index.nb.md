@@ -82,7 +82,7 @@ EVKX.net mener dette er en dårlig praksis fra produsentene.
 </tbody>
 </table>
 
-Se Bjørns testresultater for <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">mer data</a> eller alle hans <a href="_blank">mer data</a> ="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Zero Miles-tester</a>
+Se Bjørns testresultater for <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">mer data</a> eller alle hans <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Zero Miles-tester</a>
 
 <div class="mt-3 mb-3">
     <a href="../" class="btn btn-outline-secondary">Artikkeloversikt <i class="bi-card-list"></i></a>
