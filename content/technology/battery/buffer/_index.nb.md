@@ -6,17 +6,19 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
-En batteribuffer er en funksjon i noen elbiler som gjør at de har en forskjell mellom brutto- og netto batterikapasitet. Bruttokapasiteten er den totale energien batteripakken kan lagre. Derimot er nettokapasiteten den brukbare energien batteripakken kan gi til kjøretøyet. Forskjellen mellom brutto- og nettokapasiteten kalles buffer.
+En batteribuffer er en funksjon i elbiler som gjør at de har en forskjell mellom brutto- og netto batterikapasitet. Bruttokapasiteten er den totale energien batteripakken kan lagre. Derimot er nettokapasiteten den brukbare energien batteripakken kan gi til kjøretøyet. Forskjellen mellom brutto- og nettokapasiteten kalles buffer.
 
 Batteristyringssystemet (BMS) styrer bufferen.
 
-Bufferen har to hovedfunksjoner: å beskytte batteripakken mot skade og å optimere ytelsen. Bufferen beskytter batteripakken mot skade ved å forhindre at den overlades eller overlades, noe som kan føre til irreversibel nedbrytning eller til og med termisk løping. Bufferen optimerer batteripakkens ytelse ved å la den operere innenfor sitt optimale SOC-område, hvor den kan levere høyere kraft og effektivitet.
+Bufferen har to hovedfunksjoner: å beskytte batteripakken mot skade og å optimere ytelsen. Bufferen beskytter batteripakken mot skade ved å forhindre at den overlades eller tappes helt ned, noe som kan føre til irreversibel nedbrytning.. 
+
+Bufferen optimerer batteripakkens ytelse ved å la den operere innenfor sitt optimale SOC-område, hvor den kan levere høyere kraft og effektivitet.
 
 ## Hvordan fungerer en batteribuffer?
 
-En batteribuffer begrenser de maksimale og laveste SOC-nivåene batteripakken kan nå. Det maksimale SOC-nivået kalles toppbufferen, mens minimum SOC-nivået kalles bunnbufferen. Bunnbufferen kalles også noen ganger en mursteinbuffer fordi den hindrer batteripakken i å nå 0 % SOC, noe som kan skade eller mursteine cellene.
+En batteribuffer begrenser de maksimale og laveste SOC-nivåene batteripakken kan nå. Det maksimale SOC-nivået kalles toppbufferen, mens minimum SOC-nivået kalles bunnbufferen. Bunnbufferen kalles også noen ganger en "brickbuffer" fordi den hindrer batteripakken i å nå 0 % SOC, noe som kan skade eller "bricke" cellene.
 
-Diagrammet nedenfor viser hvordan en murstein og toppbuffer vil forhindre at batteriet utlades under mursteinsbuffergrensen og lades over toppbufferen.
+Diagrammet nedenfor viser hvordan en bunn og toppbuffer vil forhindre at batteriet utlades under bunnbuffergrensen eller lades over toppbufferen.
 
 <a href="chargecurve.drawio.svg">
      <img src="chargecurve.drawio.svg" class="img-fluid">
