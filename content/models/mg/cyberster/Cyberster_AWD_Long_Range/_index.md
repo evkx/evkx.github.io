@@ -69,7 +69,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 You can choose between 7 different paint colors when ordering this model.
 
-
+The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear.
 
 There is only one roof for this model. The standard is just a regular roof.
 
@@ -173,3 +173,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 240 liters. The maxium weight of the car is 2250 kg (4960 lbs), and with the base weight of 1985 kg (4376 lbs), you can max load 265 kg (584 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+### Availability & Pricing
+
+This model had a world premiere on 13.07.2023, and deliveries started in December 2023.

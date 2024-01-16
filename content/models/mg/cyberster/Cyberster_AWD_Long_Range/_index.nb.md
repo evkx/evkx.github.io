@@ -1,7 +1,7 @@
 ---
 title: MG Cyberster AWD Long Range
 linktitle: "Cyberster AWD Long Range"
-description: "intro.convertible.mid"
+description: "MG Cyberster AWD Long Range er en helelektrisk cabriolet med en CLTC rekkevidde på opptil 520 km. EVKX.net har alle detaljene. "
 weight: 10
 hidden: true
 shownavtabs: true
@@ -69,7 +69,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
 
-
+Bilen har to [saksedører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
@@ -173,3 +173,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 240 liter. Maksimumsvekten til bilen er 2250 kg, og med basisvekten på 1985 kg kan du maksimalt laste 265 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 13.07.2023, og leveringene startet i December 2023.

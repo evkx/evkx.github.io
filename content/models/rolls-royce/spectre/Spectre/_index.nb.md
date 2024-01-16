@@ -73,7 +73,7 @@ Dynamisk styring er standard-funksjonen på Rolls-Royce Spectre. Dynamisk styrin
 
 Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har to [selvmordsdører](../../../../technology/doors/) på og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. 'Soft Close' er standard-funksjon for sidedørene. Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [selvmordsdører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. 'Soft Close' er standard-funksjon for sidedørene. Elektriske dører er standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
