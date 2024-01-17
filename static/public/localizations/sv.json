@@ -1,7 +1,10 @@
 {
   "common": {
     "error": "Feil",
-    "restart": "Start på nytt"
+    "restart": "Start på nytt",
+    "reset_choices": "Reset",
+    "apply": "Apply",
+    "search": "Search"
   },
   "evsearch": {
     "title": "EV-sökning",
