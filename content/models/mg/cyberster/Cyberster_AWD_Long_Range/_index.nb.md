@@ -71,7 +71,7 @@ Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har to [saksedører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak.
 
-Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
+Det er bare ett tak for denne modellen. exterior.roof.softtop
 
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}

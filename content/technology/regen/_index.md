@@ -20,18 +20,19 @@ An electric motor can work as a generator in an EV by using the principle of ele
 
 The EV manufacturers provide regenerative braking with different strategies. There are three main types of regen strategy. Some manufacturers only give one possibility, while others let the driver choose between two or all three.
 
-### One-Pedal Driving
+### One-Pedal Driving / lift-of regen
 
 One pedal regen is a feature of some electric vehicles that allows them to control the acceleration and deceleration of the car with only the accelerator pedal.
 
-When the driver presses the pedal, the vehicle accelerates.  When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle's kinetic energy into electrical energy that the EV stores in the battery. This is also called throttle lift-of regen.
-
+When the driver presses the pedal, the vehicle accelerates. When the driver releases the pedal, the car decelerates using regenerative braking, which converts the vehicle’s kinetic energy into electrical energy that the 
+EV stores in the battery. This type of regen is also called throttle lift-of regen.
 Depending on the vehicle settings and driving conditions, one pedal regen can bring the vehicle to a complete stop or maintain a low speed until the driver presses the pedal again.
 
 The benefit of one-pedal driving is that you only need to use one pedal.
 
-The cons of one-pedal regen are that it can require some adaptation from drivers who are used to traditional two-pedal driving. In addition, it can vary in performance depending on factors such as battery state of charge, temperature, road gradient, and traffic flow.
+The cons of one-pedal regen are that it can require some adaptation from drivers who are used to traditional two-pedal driving. Full lift-up regen can be a disadvantage on a slippery road since it will break hard if you quickly remove the foot from the pedal. Many recommend reducing the regenerative force in winter. 
 
+In addition, it can vary in performance depending on factors such as battery state of charge, temperature, road gradient, and traffic flow.
 While some EVs have a fixed level of regen for one-pedal driving, others have paddles on the steering wheel to activate regen on different levels.
 
 {{< sitefiguresized thumb="technology/regen/kiaev6regenpaddles_st.jpg" width="1920" height="1200" title="Kia EV6 Regen paddles" >}}

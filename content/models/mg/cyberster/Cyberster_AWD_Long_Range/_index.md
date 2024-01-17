@@ -71,7 +71,7 @@ You can choose between 7 different paint colors when ordering this model.
 
 The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear.
 
-There is only one roof for this model. The standard is just a regular roof.
+There is only one roof for this model. exterior.roof.softtop
 
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
