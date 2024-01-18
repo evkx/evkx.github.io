@@ -105,6 +105,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				75 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/charging/">Max DC charging</a>
+			</td>
+			<td>
+				120 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -124,6 +140,38 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Length
+			</td>
+			<td>
+				4715 mm (185,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height
+			</td>
+			<td>
+				1415 mm (55,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width excluding mirrors
+			</td>
+			<td>
+				1979 mm (77,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				2770 mm (109,1")
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -105,6 +105,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				75 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				120 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -124,6 +140,38 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Lengde
+			</td>
+			<td>
+				4715 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høyde
+			</td>
+			<td>
+				1415 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bredde uten speil
+			</td>
+			<td>
+				1979 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Akselavstand
+			</td>
+			<td>
+				2770 mm
+			</td>
+		</tr>
 	</tbody>
 </table>
 

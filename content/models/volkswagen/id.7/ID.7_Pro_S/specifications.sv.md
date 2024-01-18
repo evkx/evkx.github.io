@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.7 Pro S.
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +225,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjd
 			</td>
 			<td>
-				1520 mm
+				1532 mm
 			</td>
 		</tr>
 		<tr>
@@ -254,10 +254,34 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Spårbredd fram
+			</td>
+			<td>
+				1588 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd bak
+			</td>
+			<td>
+				1567 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Dragkoefficient
 			</td>
 			<td>
 				0,23
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				10,9 meter
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CurbWeight
 			</td>
 			<td>
-				2152 kg
+				2197 kg
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +322,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				478 kg
+				433 kg
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +338,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bålstorlek
 			</td>
 			<td>
-				542 liter
+				532 liter
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +346,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek med alla baksäten nedfällda
 			</td>
 			<td>
-				1575 liter
+				1586 liter
 			</td>
 		</tr>
 		<tr>
@@ -353,10 +377,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 </table>
 
 ## Hjulupphängning
-
-Modellen erbjuder 2 fjädringsvarianter
-
-### standard
 
 <table class="table table-striped">
 	<thead>
@@ -415,7 +435,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Max Ground Clearance
 			</td>
 			<td>
-				180 mm
+				149 mm
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +443,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				180 mm
+				149 mm
 			</td>
 		</tr>
 		<tr>
@@ -458,109 +478,20 @@ Modellen erbjuder 2 fjädringsvarianter
 				Coil
 			</td>
 		</tr>
-	</tbody>
-</table>
-
-### sport
-
-<table class="table table-striped">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>
-				Adaptive Suspension
+				Frontupphängning
 			</td>
 			<td>
-				Inte tillgängligt
+				DoubleWishbone
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar dämpning fram
+				Bakre fjädring
 			</td>
 			<td>
-				Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning bak
-			</td>
-			<td>
-				Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd fram
-			</td>
-			<td>
-				Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd bak
-			</td>
-			<td>
-				Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max Ground Clearance
-			</td>
-			<td>
-				163 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minsta markfrigång
-			</td>
-			<td>
-				163 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ av främre dämpare
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre spjälltyp
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ av främre fjädring
-			</td>
-			<td>
-				Coil
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre fjädringstyp
-			</td>
-			<td>
-				Coil
+				Multilink
 			</td>
 		</tr>
 	</tbody>

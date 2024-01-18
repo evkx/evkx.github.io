@@ -105,6 +105,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				75 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max DC Charging
+			</td>
+			<td>
+				120 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -124,6 +140,38 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Längd
+			</td>
+			<td>
+				4715 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Höjd
+			</td>
+			<td>
+				1415 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bredd exklusive speglar
+			</td>
+			<td>
+				1979 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				2770 mm
+			</td>
+		</tr>
 	</tbody>
 </table>
 

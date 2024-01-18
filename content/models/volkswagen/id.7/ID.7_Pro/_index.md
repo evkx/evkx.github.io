@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.7 Pro article into sections. If you want to 
 
 ## Performance
 
-The Volkswagen ID.7 Pro has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 550 nm (406 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 10,4 seconds. The top speed is 180 km/h.
+The Volkswagen ID.7 Pro has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 550 nm (406 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,5 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -61,9 +61,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Volkswagen ID.7 Pro has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm.
-
-You can order Volkswagen ID.7 Pro with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 149 mm.
 
 ### Steering
 

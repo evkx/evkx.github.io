@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.7 Pro
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +225,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1520 mm
+				1532 mm
 			</td>
 		</tr>
 		<tr>
@@ -254,10 +254,34 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1588 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1567 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Drag-koeffisient
 			</td>
 			<td>
 				0,23
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vendesirkel
+			</td>
+			<td>
+				10,9 meter
 			</td>
 		</tr>
 	</tbody>
@@ -354,10 +378,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Hjuloppheng
 
-Modellen tilbyr 2 fjæringsvarianter
-
-### standard
-
 <table class="table table-striped">
 	<thead>
 			<tr>
@@ -415,7 +435,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				180 mm
+				149 mm
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +443,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				180 mm
+				149 mm
 			</td>
 		</tr>
 		<tr>
@@ -458,109 +478,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Coil
 			</td>
 		</tr>
-	</tbody>
-</table>
-
-### sport
-
-<table class="table table-striped">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Hjuloppheng foran
 			</td>
 			<td>
-				Ikke tilgjengelig
+				DoubleWishbone
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar demping foran
+				Hjuloppheng bak
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar demping bak
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde foran
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde bak
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks bakkeklaring
-			</td>
-			<td>
-				163 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum bakkeklaring
-			</td>
-			<td>
-				163 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type demper foran
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type demper bak
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring foran
-			</td>
-			<td>
-				Coil
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring bak
-			</td>
-			<td>
-				Coil
+				Multilink
 			</td>
 		</tr>
 	</tbody>

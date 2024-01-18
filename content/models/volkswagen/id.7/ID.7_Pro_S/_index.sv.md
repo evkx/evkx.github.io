@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volkswagen ID.7 Pro S i avsnitt. Om du vill 
 
 ## Prestanda
 
-Volkswagen ID.7 Pro S har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 550 Nm. Den gör sprinten 0-100 km/h på 10,4 sekunder. Topphastigheten är 180 km/h.
+Volkswagen ID.7 Pro S har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 550 Nm. Den gör sprinten 0-100 km/h på 6,5 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -61,9 +61,7 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Volkswagen ID.7 Pro S har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 180 mm.
-
-Du kan beställa Volkswagen ID.7 Pro S med en alternativ sport-upphängning. Fjädringen sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 163 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 149 mm.
 
 ### Styrning
 
@@ -232,7 +230,7 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 542 liter. Med baksätet nedfällt är det 1575 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2630 kg, och med basvikten på 2152 kg kan du lasta maximalt 478 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 532 liter. Med baksätet nedfällt är det 1586 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2630 kg, och med basvikten på 2197 kg kan du lasta maximalt 433 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1000, och på en obromsad är den 750 kg.
 

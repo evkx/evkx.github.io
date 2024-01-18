@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Volkswagen ID.7 Pro S i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Volkswagen ID.7 Pro S har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 550 nm. Den utfører sprinten 0-100 km/t på 10,4 sekunder. Topphastigheten er 180 km/t.
+Volkswagen ID.7 Pro S har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 550 nm. Den utfører sprinten 0-100 km/t på 6,5 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -61,9 +61,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Volkswagen ID.7 Pro S har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 180 mm.
-
-Du kan bestille Volkswagen ID.7 Pro S med en alternativ sport hjuloppheng. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 149 mm.
 
 ### Styring
 
@@ -232,7 +230,7 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 542 liter. Med baksetet nede er det 1575 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2630 kg, og med basisvekten på 2152 kg kan du maksimalt laste 478 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 532 liter. Med baksetet nede er det 1586 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2630 kg, og med basisvekten på 2197 kg kan du maksimalt laste 433 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
 

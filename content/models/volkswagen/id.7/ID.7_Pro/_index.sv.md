@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volkswagen ID.7 Pro i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Volkswagen ID.7 Pro har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 550 Nm. Den gör sprinten 0-100 km/h på 10,4 sekunder. Topphastigheten är 180 km/h.
+Volkswagen ID.7 Pro har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 550 Nm. Den gör sprinten 0-100 km/h på 6,5 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -61,9 +61,7 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Volkswagen ID.7 Pro har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 180 mm.
-
-Du kan beställa Volkswagen ID.7 Pro med en alternativ sport-upphängning. Fjädringen sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 163 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 149 mm.
 
 ### Styrning
 

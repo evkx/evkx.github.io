@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.7 Pro.
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +225,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1520 mm (59,8")
+				1532 mm (60,3")
 			</td>
 		</tr>
 		<tr>
@@ -254,10 +254,34 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1588 mm (62,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1567 mm (61,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Drag coefficient
 			</td>
 			<td>
 				0,23
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				10,9 meter (429,1")
 			</td>
 		</tr>
 	</tbody>
@@ -354,10 +378,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-The model offers 2 suspension variants
-
-### standard
-
 <table class="table table-striped">
 	<thead>
 			<tr>
@@ -415,7 +435,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				180 mm (7,1")
+				149 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +443,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				180 mm (7,1")
+				149 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -458,109 +478,20 @@ The model offers 2 suspension variants
 				Coil
 			</td>
 		</tr>
-	</tbody>
-</table>
-
-### sport
-
-<table class="table table-striped">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td>
-				<a href="/technology/suspension/">Adaptive suspension</a>
+				<a href="/technology/suspension/">Suspension type front</a>
 			</td>
 			<td>
-				Not available
+				DoubleWishbone
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/suspension/">Adjustable damping front</a>
+				<a href="/technology/suspension/">Suspension type rear</a>
 			</td>
 			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping rear</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height front</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height rear</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Max ground clearance</a>
-			</td>
-			<td>
-				163 mm (6,4")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Minimum ground clearance</a>
-			</td>
-			<td>
-				163 mm (6,4")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type front</a>
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type rear</a>
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type front</a>
-			</td>
-			<td>
-				Coil
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type rear</a>
-			</td>
-			<td>
-				Coil
+				Multilink
 			</td>
 		</tr>
 	</tbody>

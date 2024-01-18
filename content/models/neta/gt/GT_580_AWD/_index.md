@@ -37,11 +37,11 @@ The battery has a gross capacity of 78kWh and a net capacity of 75kWh, meaning y
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 580 km ( miles). The consumption is 12.9kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 47%, resulting in an actual charge speed, including time loss, of 75kW. Each charge session would take 26 minutes and 48 seconds.
+The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 76%, resulting in an actual charge speed, including time loss, of 90kW. Each charge session would take 36 minutes and 6 seconds.
 
 ### Onboard charger
 
-
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes.
 
 ### Charge port
 
@@ -53,7 +53,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Neta GT 580 AWD has an all-wheel drive system supported by two motors, one on each axle.
+Neta GT 580 AWD has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
