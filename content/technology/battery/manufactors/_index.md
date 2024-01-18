@@ -41,6 +41,10 @@ In addition serveral EVs companies are now building their own factories. Like Vo
 
 In addition many just buy cells from cell producers and create the battery itself.
 
+In the below video Elliot Richard from the Fully Charged show gives you a tour of a CATL battery factory
+
+{{< youtube j1jWp9WxGLM >}}
+
 [For a full list of cell producers see Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
 
 <div class="mt-3 mb-3">
