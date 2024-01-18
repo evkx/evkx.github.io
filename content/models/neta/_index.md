@@ -16,7 +16,7 @@ Neta is expanding its presence in overseas markets, especially in Southeast Asia
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.Coupe.Mid
+Neta GT is a Coupe available in 1 variants.
 </p>
 	<a href="gt/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

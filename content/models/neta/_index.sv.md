@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.Coupe.Mid
+Neta GT är en Coupe tillgänglig i 1 varianter.
 </p>
 	<a href="gt/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
