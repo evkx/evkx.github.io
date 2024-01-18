@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G9 AWD Performance | Range Test @120KPH (75MPH)</h3>
+<p>Kris Rifa: 18.01.2024</p>
+
+{{< youtube ptL1AJ6ggm8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Xpeng G9 charging test</h3>
 <p>Bjørn Nyland: 10.11.2023</p>
 
