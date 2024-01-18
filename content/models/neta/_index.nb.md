@@ -1,7 +1,7 @@
 ---
 title: Neta elektriske modeller
 linktitle: "Neta"
-description: "Hello, this is Bing. Neta is a Chinese electric vehicle (EV) brand that was founded in 2014 by Hozon Auto, a company based in Zhejiang province. Neta produces affordable and smart EVs that target the lower end of the market, such as the Neta N01, Neta U, Neta V, and Neta S models. Neta also has a sports car model, the Neta GT, that aims to create a higher-end image for the brand.        "
+description: "Neta is a Chinese electric vehicle (EV) brand that was founded in 2014 by Hozon Auto, a company based in Zhejiang province. Neta produces affordable and smart EVs that target the lower end of the market, such as the Neta N01, Neta U, Neta V, and Neta S models. Neta also has a sports car model, the Neta GT, that aims to create a higher-end image for the brand.        "
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
