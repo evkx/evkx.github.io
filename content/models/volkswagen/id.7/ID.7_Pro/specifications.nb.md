@@ -241,7 +241,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde inkludert speil
 			</td>
 			<td>
-				2108 mm
+				2118 mm
 			</td>
 		</tr>
 		<tr>

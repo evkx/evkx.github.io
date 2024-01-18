@@ -126,6 +126,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/roof_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/roof_1.jpg"
+data-pswp-width="1920"
+data-pswp-height="950" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/roof_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/screens_1.jpg"
 data-pswp-width="3000"

@@ -241,7 +241,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bredd inklusive speglar
 			</td>
 			<td>
-				2108 mm
+				2118 mm
 			</td>
 		</tr>
 		<tr>

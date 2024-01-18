@@ -241,7 +241,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2108 mm (83,0")
+				2118 mm (83,4")
 			</td>
 		</tr>
 		<tr>
