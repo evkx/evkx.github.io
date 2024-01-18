@@ -14,7 +14,7 @@ weight: 1
    </ul>
 </div>
 
-Når batteriet degraderes, reduseres den tilgjengelige batterikapasiteten. Denne reduksjonen reduserer kjørerekkevidden til elbilen.
+Når batteriet degraderes, reduseres den tilgjengelige batterikapasiteten. Denne reduksjonen reduserer rekkevidden til elbilen.
 
 Hvis du vet hvor stor nettokapasitet bilen din skal ha når den er ny, kan du beregne dagens helse.
 
@@ -39,9 +39,9 @@ Hvis du hadde 21 % igjen, har du brukt <b>79 %</b> (100 %-21 %)<br>
 Den nåværende kapasiteten er 79 % = 65 kWh.<br>
 Du kan beregne full kapasitet (100%):<br>
 (65/79)*100 = <b>82,27 kWh</b><br>
-82,27 er den faktiske brukbare kapasiteten til batteriet ditt.
+82,27 er den faktiske tilgjengelige kapasiteten til batteriet ditt.
 82,27/86,5 = <b>95,1 %</b>
-Dette betyr en reduksjon på nesten 5 % fra den opprinnelige brukbare kapasiteten.
+Dette betyr en reduksjon på nesten 5 % fra den opprinnelige tilgjengelige kapasiteten.
 
 ## Beregning i kilometer
 
@@ -64,7 +64,7 @@ Full kapasitet (100%) kan da beregnes:<br>
 
 ## Hva påvirker kapasiteten
 
-Bare ett måling med avvik fra kapasiteten betyr ikke nødvendigvis at batteriet ditt har degradert.
+Bare en måling med avvik fra kapasiteten betyr ikke nødvendigvis at batteriet ditt har degradert.
 
 Hvis du har høyt forbruk vil det være noe tap på grunn av indre motstand.
 
@@ -77,3 +77,7 @@ Følgende eksempel viser statistikken fra en e-tron 55 2020v1 med 83,6 kWh kapas
 {{< sitefiguresized thumb="guides/checkingbatteryhealth/graph1_st.jpg" width="2463" height="1366" title="Sporing av faktisk batterikapasitet sammenlignet med totalt forbruk" >}}
 
 {{< sitefiguresized thumb="guides/checkingbatteryhealth/graph2_st.jpg" width="2019" height="1364" title="Sporing av faktisk batterikapasitet sammenlignet med forbruk kWh/100 km" >}}
+
+I videoen under ser du Bjørn Nyland gjennomføre en slik test på en Volkswagen ID4 med å følge fremgangsmåten beskrevet over. Resultat 23% degradering.
+
+{{< youtube OqMOsyyMD2g >}}
