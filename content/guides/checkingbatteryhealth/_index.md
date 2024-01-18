@@ -48,20 +48,20 @@ Meaning a reduction of almost 5% from the original usable capacity.
 
 ### Km example 1
 
-If you drive 240 kilometers with a consumption of 25kWh/100km<br>
-You started with 100% and ended up with 16%.<br>
+If you drive 308 kilometers with a consumption of 25kWh/100km<br>
+You started with 100% and ended up with 5%.<br>
 
 First, you calculate the total energy used<br>
-(280 * 25)/100 = <b>70kWh</b> in total on the trip.<br>
-If you have 16% left you have used <b>84%</b> on the trip (100-16)<br>
+(308 * 25)/100 = <b>77kWh</b> in total on the trip.<br>
+If you have 5% left you have used <b>95%</b> on the trip (100-95)<br>
 
-84% = 70kWh battery.<br>
+95% = 77kWh battery.<br>
 
 The full capacity (100%) can then be calculated:<br>
 
-(70/84)*100 = <b>83.333 kWh</b>
-83.333 is the actual capacity of your battery.<br>
-83.33/86.5 = <b>96.34%</b>. Meaning a reduction of almost <b>4%</b> from the original capacity.
+(77/95)*100 = <b>81.05 kWh</b>
+81.05 is the actual capacity of your battery.<br>
+81.05/86.5 = <b>93.7%</b>. Meaning a reduction of almost <b>6.5%</b> from the original capacity.
 
 ## What affects capacity
 

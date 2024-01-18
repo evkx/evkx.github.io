@@ -8,7 +8,7 @@ weight: 1
 <div class="alert alert-warning" role="alert">
    Denne prosedyren er <b>bare</b> mulig å bruke på elbiler som
    <ul>
-   <li>Viser et fullstendig reiseforbruk og ikke bare forbruket for siste distanse. Eksempel: mange kinesiske elbiler viser kun forbruk siste 50 km</li>
+   <li>Viser et fullstendig forbruk for en kjøretur og ikke bare forbruket for siste distanse. Eksempel: mange kinesiske elbiler viser kun forbruk siste 50 km</li>
    <li>Har ikke skjult tilgjengelig buffer, som Toyota bZ4X der den skjuler mye kapasitet mellom 0-1 %</li>
    <li>Justerer ikke bufferen når den degraderes (de fleste gjør det ikke)</li>
    </ul>
@@ -62,7 +62,7 @@ Full kapasitet (100%) kan da beregnes:<br>
 81.05 er den faktiske kapasiteten til batteriet.<br>
 81,05/86,5 = <b>93,7 %</b>. Dette betyr en reduksjon på nesten <b>6.5 %</b> fra den opprinnelige kapasiteten.
 
-## Hva påvirker kapasiteten
+## Hva påvirker kapasiteten?
 
 Bare en måling med avvik fra kapasiteten betyr ikke nødvendigvis at batteriet ditt har degradert.
 
@@ -74,9 +74,9 @@ For folk som elsker å holde styr på dette, anbefaler vi å spore dette fra beg
 
 Følgende eksempel viser statistikken fra en e-tron 55 2020v1 med 83,6 kWh kapasitet fra den var ny.
 
-{{< sitefiguresized thumb="guides/checkingbatteryhealth/graph1_st.jpg" width="2463" height="1366" title="Sporing av faktisk batterikapasitet sammenlignet med totalt forbruk" >}}
+{{< sitefiguresized thumb="guides/checkingbatteryhealth/graph1_st.jpg" width="2463" height="1366" title="Statistikk av faktisk batterikapasitet sammenlignet med totalt forbruk" >}}
 
-{{< sitefiguresized thumb="guides/checkingbatteryhealth/graph2_st.jpg" width="2019" height="1364" title="Sporing av faktisk batterikapasitet sammenlignet med forbruk kWh/100 km" >}}
+{{< sitefiguresized thumb="guides/checkingbatteryhealth/graph2_st.jpg" width="2019" height="1364" title="Statistikk av faktisk batterikapasitet sammenlignet med forbruk kWh/100 km" >}}
 
 I videoen under ser du Bjørn Nyland gjennomføre en slik test på en Volkswagen ID4 med å følge fremgangsmåten beskrevet over. Resultat 23% degradering.
 

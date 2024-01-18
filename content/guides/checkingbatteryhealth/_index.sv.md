@@ -46,20 +46,20 @@ Detta innebär en minskning med nästan 5 % från den ursprungliga användbara k
 
 ### Km exempel 1
 
-Om du kör 240 kilometer med en förbrukning på 25kWh/100km<br>
-Du började med 100 % och slutade med 16 %<br>
+Om du kör 308 kilometer med en förbrukning på 25kWh/100km<br>
+Du började med 100 % och slutade med 5 %<br>
 
 Beräkna först den totala energianvändningen<br>
-(280 * 25)/100 = <b>70kWh</b> totalt på resan.<br>
-Om du har 16 % kvar har du spenderat <b>84 %</b> på resan (100-16)<br>
+(308 * 25)/100 = <b>77kWh</b> totalt på resan.<br>
+Om du har 5 % kvar har du spenderat <b>95 %</b> på resan (100-95)<br>
 
-84 % = 70 kWh batteri.<br>
+95 % = 77 kWh batteri.<br>
 
 Full kapacitet (100%) kan då beräknas:<br>
 
-(70/84)*100 = <b>83,333 kWh</b>
-83 333 är batteriets faktiska kapacitet.<br>
-83,33/86,5 = <b>96,34 %</b>. Detta innebär en minskning med nästan <b>4 %</b> från den ursprungliga kapaciteten.
+(77/95)*100 = <b>81,05 kWh</b>
+81.05 kWh är batteriets faktiska kapacitet.<br>
+81,05/86,5 = <b>93,7 %</b>. Detta innebär en minskning med nästan <b>6.5 %</b> från den ursprungliga kapaciteten.
 
 ## Vad påverkar kapaciteten
 
