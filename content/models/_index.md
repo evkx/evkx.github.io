@@ -85,6 +85,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="neta"><img src="https://media.evkx.net/multimedia/models/neta/logo_xst.png" alt="Neta" title="Neta" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="nio"><img src="https://media.evkx.net/multimedia/models/nio/logo_xst.png" alt="Nio" title="Nio" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -421,6 +424,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	MG has 5 models with total 11 variants. 
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Go to MG EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Neta</h2>
+	<p>
+		Hello, this is Bing. Neta is a Chinese electric vehicle (EV) brand that was founded in 2014 by Hozon Auto, a company based in Zhejiang province. Neta produces affordable and smart EVs that target the lower end of the market, such as the Neta N01, Neta U, Neta V, and Neta S models. Neta also has a sports car model, the Neta GT, that aims to create a higher-end image for the brand.        
+	</p>
+	<p>
+	Neta has 1 models with total 1 variants. 
+	</p>
+	<a href="neta/" class="btn btn-outline-primary" role="button">Go to Neta EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>

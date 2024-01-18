@@ -85,6 +85,9 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 			<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="neta"><img src="https://media.evkx.net/multimedia/models/neta/logo_xst.png" alt="Neta" title="Neta" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="nio"><img src="https://media.evkx.net/multimedia/models/nio/logo_xst.png" alt="Nio" title="Nio" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -349,6 +352,13 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	MG har 5 modell(er) med totalt 11 varianter. 
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Gå til MG modelloversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Neta</h2>
+	<p>
+	Neta har 1 modell(er) med totalt 1 varianter. 
+	</p>
+	<a href="neta/" class="btn btn-outline-primary" role="button">Gå til Neta modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>
