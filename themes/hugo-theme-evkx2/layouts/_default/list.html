@@ -10,14 +10,14 @@
       	</aside>
       	<main>
 			<div class="row ms-0 me-0 mt-0 mb-0">
-				<div class="col-12 col-xl-8 col-xxl-7 p-4" >
+				<div class="col-12 col-xl-8 col-xxl-8 p-4" >
 					{{ partial "breadcrumb.html" . }}
 					{{ partial "sectiontabs.html" .}}
 					{{T "Last-Modified"}}{{ .Page.Lastmod | time.Format ":date_medium" }}
 					{{ partial "titleandcontent.html" . }}
 					{{ partial "githubedit.html" . }}
 				</div>
-				<div class="col-xl-4 col-xxl-5 p-4 d-none d-lg-block">
+				<div class="col-xl-4 col-xxl-4 p-4 d-none d-lg-block">
 					{{ partial "models-new.html" . }}
 				</div>
 			</div>
