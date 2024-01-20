@@ -1,7 +1,7 @@
 ---
 title: Peugot E-3008 Long Range
 linktitle: "E-3008 Long Range"
-description: "Peugot E-3008 Long Range is an all-electric coupe SUV with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details. "
+description: "Peugot E-3008 Long Range is an all-electric coupe SUV with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -135,7 +135,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 10.3 inches large.
+The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 10.3 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

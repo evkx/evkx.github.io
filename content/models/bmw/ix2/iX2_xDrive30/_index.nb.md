@@ -1,7 +1,7 @@
 ---
 title: BMW iX2 xDrive30
 linktitle: "iX2 xDrive30"
-description: "BMW iX2 xDrive30 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km. EVKX.net har alle detaljene. "
+description: "BMW iX2 xDrive30 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -215,7 +215,7 @@ BMW iX2 xDrive30 har [**automatisk nødbremsing**](../../../../technology/driver
 
 Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 

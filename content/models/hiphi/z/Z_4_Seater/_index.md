@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 4 Seater
 linktitle: "Z 4 Seater"
-description: "HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net has all the details. "
+description: "HiPhi Z 4 Seater is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -161,7 +161,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The HiPhi Z 4 Seater has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15.0 inches large.
+The HiPhi Z 4 Seater has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center is 15.0 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -213,7 +213,7 @@ The HiPhi Z 4 Seater has [**automatic emergency braking**](../../../../technolog
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 

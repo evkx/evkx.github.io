@@ -1,7 +1,7 @@
 ---
 title: BYD Tang EV600
 linktitle: "Tang EV600"
-description: "BYD Tang EV600 is an all-electric SUV with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details. "
+description: "BYD Tang EV600 is an all-electric SUV with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -154,7 +154,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The BYD Tang EV600 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 12.8 inches large.
+The BYD Tang EV600 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 12.8 inches large.
 The model does not have a head-up display.
 
 
@@ -206,7 +206,7 @@ With the   level 1 system, you get the following driving automation features.
 
 
 With the Smart Pilot  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

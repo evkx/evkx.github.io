@@ -1,7 +1,7 @@
 ---
 title: XPENG X9 AWD Performance
 linktitle: "X9 AWD Performance"
-description: "XPENG X9 AWD Performance er en helelektrisk MPV med en CLTC rekkevidde på opptil 640 km. EVKX.net har alle detaljene. "
+description: "XPENG X9 AWD Performance er en helelektrisk MPV med en CLTC rekkevidde på opptil 640 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -151,7 +151,7 @@ XPENG X9 AWD Performance har flere funksjoner for å gjøre livet ditt som sjåf
 
 ## Brukergrensesnitt og kontroll
 
-XPENG X9 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum  er 15.0 tommer stor.
+XPENG X9 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum er 15.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -197,10 +197,10 @@ XPENG X9 AWD Performance har [**automatisk nødbremsing**](../../../../technolog
 
 Med XPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

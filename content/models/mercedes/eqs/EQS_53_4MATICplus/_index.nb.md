@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQS 53 4MATIC+
 linktitle: "EQS 53 4MATIC+"
-description: "Mercedes-AMG EQS 53 4MATIC+ er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene. "
+description: "Mercedes-AMG EQS 53 4MATIC+ er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -230,11 +230,11 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 
 
 Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

@@ -1,7 +1,7 @@
 ---
 title: Zeekr X Privilege AWD
 linktitle: "X Privilege AWD"
-description: "Zeekr X Privilege AWD is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details. "
+description: "Zeekr X Privilege AWD is an all-electric crossover with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen on the steering column  is 8.0 inches large. The touch screen at the top of the center console is 14.6 inches large.
+The  screen on the steering column is 8.0 inches large. The touch screen at the top of the center console is 14.6 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -188,9 +188,9 @@ The Zeekr X Privilege AWD has [**automatic emergency braking**](../../../../tech
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

@@ -1,7 +1,7 @@
 ---
 title: Rivian R1T Quad-Motor AWD
 linktitle: "R1T Quad-Motor AWD"
-description: "Rivian R1T Quad-Motor AWD is an all-electric Pickup Truck with a EPA range of up to 516 km (321 miles). EVKX.net has all the details. "
+description: "Rivian R1T Quad-Motor AWD is an all-electric Pickup Truck with a EPA range of up to 516 km (321 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -194,7 +194,7 @@ The Rivian R1T Quad-Motor AWD has [**automatic emergency braking**](../../../../
 
 With the Driver+  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

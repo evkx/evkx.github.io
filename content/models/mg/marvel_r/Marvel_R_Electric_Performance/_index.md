@@ -1,7 +1,7 @@
 ---
 title: MG Marvel R Electric Performance
 linktitle: "Marvel R Electric Performance"
-description: "MG Marvel R Electric Performance is an all-electric SUV with a WLTP range of up to 370 km (230 miles). EVKX.net has all the details. "
+description: "MG Marvel R Electric Performance is an all-electric SUV with a WLTP range of up to 370 km (230 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -175,7 +175,7 @@ The MG Marvel R Electric Performance has a [**lane-keeping assist**](../../../..
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

@@ -1,7 +1,7 @@
 ---
 title: Opel Mokka Electric
 linktitle: "Mokka Electric"
-description: "Opel Mokka Electric er en helelektrisk delefilter med en WLTP rekkevidde på opptil 406 km. EVKX.net har alle detaljene. "
+description: "Opel Mokka Electric er en helelektrisk delefilter med en WLTP rekkevidde på opptil 406 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -139,7 +139,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum  er 10.3 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum er 10.3 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

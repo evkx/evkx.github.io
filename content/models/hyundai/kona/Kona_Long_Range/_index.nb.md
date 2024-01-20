@@ -1,7 +1,7 @@
 ---
 title: Hyundai Kona Long Range
 linktitle: "Kona Long Range"
-description: "Hyundai Kona Long Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 514 km. EVKX.net har alle detaljene. "
+description: "Hyundai Kona Long Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 514 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -201,9 +201,9 @@ Hyundai Kona Long Range har [**automatisk nødbremsing**](../../../../technology
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

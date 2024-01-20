@@ -1,7 +1,7 @@
 ---
 title: Neta GT 580 AWD
 linktitle: "GT 580 AWD"
-description: "Neta GT 580 AWD er en helelektrisk kupé med en CLTC rekkevidde på opptil 580 km. EVKX.net har alle detaljene. "
+description: "Neta GT 580 AWD er en helelektrisk kupé med en CLTC rekkevidde på opptil 580 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

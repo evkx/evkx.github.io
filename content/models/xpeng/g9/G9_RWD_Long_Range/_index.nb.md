@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 RWD Long Range
 linktitle: "G9 RWD Long Range"
-description: "XPENG G9 RWD Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene. "
+description: "XPENG G9 RWD Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -155,7 +155,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-XPENG G9 RWD Long Range har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet montert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum  er 15.0 tommer stor. touch-skjermen foran passasjeren på dashbordet er 15.0 tommer stor.
+XPENG G9 RWD Long Range har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet montert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum er 15.0 tommer stor. touch-skjermen foran passasjeren på dashbordet er 15.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -203,7 +203,7 @@ XPENG G9 RWD Long Range har [**automatisk nødbremsing**](../../../../technology
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 

@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Twin Motor Performance
 linktitle: "EX30 Twin Motor Performance"
-description: "Volvo EX30 Twin Motor Performance er en helelektrisk delefilter med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene. "
+description: "Volvo EX30 Twin Motor Performance er en helelektrisk delefilter med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -138,7 +138,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EX30 Twin Motor Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum  er 12.3 tommer stor.
+Volvo EX30 Twin Motor Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 12.3 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -188,9 +188,9 @@ Volvo EX30 Twin Motor Performance har [**automatisk nødbremsing**](../../../../
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

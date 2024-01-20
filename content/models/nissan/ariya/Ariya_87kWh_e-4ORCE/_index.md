@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE
 linktitle: "Ariya 87kWh e-4ORCE"
-description: "Nissan Ariya 87kWh e-4ORCE is an all-electric coupe SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details. "
+description: "Nissan Ariya 87kWh e-4ORCE is an all-electric coupe SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -187,7 +187,7 @@ The Nissan Ariya 87kWh e-4ORCE has [**automatic emergency braking**](../../../..
 
 With the ProPILOT  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 

@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 300
 linktitle: "EQE 300"
-description: "Mercedes-EQ EQE 300 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 639 km. EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQE 300 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 639 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -223,7 +223,7 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 
 
 Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

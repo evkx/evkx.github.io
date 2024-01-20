@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 GTX 4MOTION (GEN1)
 linktitle: "ID.4 GTX 4MOTION GEN1"
-description: "Volkswagen ID.4 GTX 4MOTION (GEN1) is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net has all the details. "
+description: "Volkswagen ID.4 GTX 4MOTION (GEN1) is an all-electric SUV with a WLTP range of up to 496 km (308 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -168,9 +168,9 @@ You have wireless charging for your phone.
 
 Two different screen setups are available on the Volkswagen ID.4 GTX 4MOTION (GEN1).
 
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.0 inches large. The touch screen on the dashboard's center  is 10.0 inches large.
+The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 10.0 inches large.
 
-The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.0 inches large. The touch screen on the dashboard's center  is 12.0 inches large and has a 1920 x 869 pixels resolution.
+The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 12.0 inches large and has a 1920 x 869 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -225,7 +225,7 @@ With the   level 1 system, you get the following driving automation features.
 
 
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 

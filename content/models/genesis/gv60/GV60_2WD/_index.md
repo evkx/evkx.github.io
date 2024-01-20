@@ -1,7 +1,7 @@
 ---
 title: Genesis GV60 2WD
 linktitle: "GV60 2WD"
-description: "Genesis GV60 2WD is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net has all the details. "
+description: "Genesis GV60 2WD is an all-electric SUV with a WLTP range of up to 517 km (321 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -143,7 +143,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 14.9 inches large. The touch screen at the bottom of the center console is 7.6 inches large and has a 1280 x 660 pixels resolution.
+The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 14.9 inches large. The touch screen at the bottom of the center console is 7.6 inches large and has a 1280 x 660 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -193,8 +193,8 @@ The Genesis GV60 2WD has [**automatic emergency braking**](../../../../technolog
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

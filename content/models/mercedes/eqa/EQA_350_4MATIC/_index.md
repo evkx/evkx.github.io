@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQA 350 4MATIC
 linktitle: "EQA 350 4MATIC"
-description: "Mercedes-EQ EQA 350 4MATIC is an all-electric premium crossover with a WLTP range of up to 438 km (272 miles). EVKX.net has all the details. "
+description: "Mercedes-EQ EQA 350 4MATIC is an all-electric premium crossover with a WLTP range of up to 438 km (272 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

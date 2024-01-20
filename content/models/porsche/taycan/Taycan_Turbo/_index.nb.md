@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo
 linktitle: "Taycan Turbo"
-description: "Porsche Taycan Turbo er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 507 km. EVKX.net har alle detaljene. "
+description: "Porsche Taycan Turbo er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 507 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -230,7 +230,7 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

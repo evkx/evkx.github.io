@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S Standard Range
 linktitle: "Model S Standard Range"
-description: "Tesla Model S Standard Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 512 km. EVKX.net har alle detaljene. "
+description: "Tesla Model S Standard Range er en helelektrisk sedan med en WLTP rekkevidde på opptil 512 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -144,7 +144,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Model S Standard Range har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum  er 17.0 tommer stor og har en oppløsning på 2200 x 1300 piksler. touch-skjermen i den bakre midtkonsollen er 8.0 tommer stor.
+Tesla Model S Standard Range har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum er 17.0 tommer stor og har en oppløsning på 2200 x 1300 piksler. touch-skjermen i den bakre midtkonsollen er 8.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -190,18 +190,18 @@ Tesla Model S Standard Range tilbyr [kjøreautomatisering på nivå 2 eller 3](.
 
 Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 Med Enhanced Autopilot  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet. 
+- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- Trafikklyskontroll - følg trafikklysene. 
-- Stoppskiltkontroll - følg stoppskilt. 
+- Trafikklyskontroll - følg trafikklysene.
+- Stoppskiltkontroll - følg stoppskilt.
 
 
 {{<evkxdisplayaddarticle />}}

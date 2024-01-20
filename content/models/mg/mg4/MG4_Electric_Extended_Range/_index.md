@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric Extended Range
 linktitle: "MG4 Electric Extended Range"
-description: "MG MG4 Electric Extended Range is an all-electric crossover with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details. "
+description: "MG MG4 Electric Extended Range is an all-electric crossover with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -176,7 +176,7 @@ The MG MG4 Electric Extended Range has a [**lane-keeping assist**](../../../../t
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

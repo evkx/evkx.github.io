@@ -1,7 +1,7 @@
 ---
 title: Volvo EM90
 linktitle: "EM90"
-description: "Volvo EM90 er en helelektrisk premium MPV med en CLTC rekkevidde på opptil 738 km. EVKX.net har alle detaljene. "
+description: "Volvo EM90 er en helelektrisk premium MPV med en CLTC rekkevidde på opptil 738 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -202,7 +202,7 @@ Volvo EM90 har [**automatisk nødbremsing**](../../../../technology/driverassist
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

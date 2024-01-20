@@ -1,7 +1,7 @@
 ---
 title: Kia Niro EV
 linktitle: "Niro EV"
-description: "Kia Niro EV er en helelektrisk delefilter med en WLTP rekkevidde på opptil 463 km. EVKX.net har alle detaljene. "
+description: "Kia Niro EV er en helelektrisk delefilter med en WLTP rekkevidde på opptil 463 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -185,7 +185,7 @@ Kia Niro EV har [**automatisk nødbremsing**](../../../../technology/driverassis
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

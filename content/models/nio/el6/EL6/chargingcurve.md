@@ -1,7 +1,7 @@
 ---
 title: Nio EL6 charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Nio EL6. "
+description: "Here you find the charging curve for Nio EL6."
 weight: 10
 hidden: true
 navicon: bi-battery-charging
@@ -19,7 +19,7 @@ This model is available with multiple batteries. Below you find the performance 
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>71,7 kW</td>
+<td>Average charging speed 0 - 100%</td><td>71,7 kW</td>
 </tr>
 <tr>
 <td>Average charging speed 10-100%</td><td>69,3 kW</td>
@@ -49,7 +49,7 @@ This model is available with multiple batteries. Below you find the performance 
 </table>
 
 
-The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
+The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -374,7 +374,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>65,3 kW</td>
+<td>Average charging speed 0 - 100%</td><td>65,3 kW</td>
 </tr>
 <tr>
 <td>Average charging speed 10-100%</td><td>66,5 kW</td>
@@ -404,7 +404,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 </table>
 
 
-The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
+The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
 
 
 {{<evkxdisplayaddarticle />}}

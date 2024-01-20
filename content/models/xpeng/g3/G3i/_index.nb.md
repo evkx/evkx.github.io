@@ -1,7 +1,7 @@
 ---
 title: XPENG G3i
 linktitle: "G3i"
-description: "XPENG G3i er en helelektrisk delefilter med en WLTP rekkevidde på opptil 420 km. EVKX.net har alle detaljene. "
+description: "XPENG G3i er en helelektrisk delefilter med en WLTP rekkevidde på opptil 420 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

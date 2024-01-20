@@ -1,7 +1,7 @@
 ---
 title: Volvo C40 Recharge Twin Motor
 linktitle: "C40 Recharge Twin Motor"
-description: "Volvo C40 Recharge Twin Motor is an all-electric crossover with a WLTP range of up to 548 km (341 miles). EVKX.net has all the details. "
+description: "Volvo C40 Recharge Twin Motor is an all-electric crossover with a WLTP range of up to 548 km (341 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -182,7 +182,7 @@ The Volvo C40 Recharge Twin Motor has [**automatic emergency braking**](../../..
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

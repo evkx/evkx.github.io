@@ -1,7 +1,7 @@
 ---
 title: Subaru Solterra AWD
 linktitle: "Solterra AWD"
-description: "Subaru Solterra AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 466 km. EVKX.net har alle detaljene. "
+description: "Subaru Solterra AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 466 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

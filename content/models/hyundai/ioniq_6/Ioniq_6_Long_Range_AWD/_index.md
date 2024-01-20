@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 6 Long Range AWD
 linktitle: "Ioniq 6 Long Range AWD"
-description: "Hyundai Ioniq 6 Long Range AWD is an all-electric sedan with a WLTP range of up to 583 km (362 miles). EVKX.net has all the details. "
+description: "Hyundai Ioniq 6 Long Range AWD is an all-electric sedan with a WLTP range of up to 583 km (362 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -189,8 +189,8 @@ The Hyundai Ioniq 6 Long Range AWD has [**automatic emergency braking**](../../.
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

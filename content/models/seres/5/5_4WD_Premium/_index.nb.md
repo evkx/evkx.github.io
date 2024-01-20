@@ -1,7 +1,7 @@
 ---
 title: Seres 5 4WD Premium
 linktitle: "5 4WD Premium"
-description: "Seres 5 4WD Premium er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 483 km. EVKX.net har alle detaljene. "
+description: "Seres 5 4WD Premium er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 483 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -146,7 +146,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. -skjermen i dashbordets sentrum  er 15.6 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. -skjermen i dashbordets sentrum er 15.6 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -188,8 +188,8 @@ Seres 5 4WD Premium har [**automatisk nødbremsing**](../../../../technology/dri
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

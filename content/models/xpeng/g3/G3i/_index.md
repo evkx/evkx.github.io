@@ -1,7 +1,7 @@
 ---
 title: XPENG G3i
 linktitle: "G3i"
-description: "XPENG G3i is an all-electric crossover with a WLTP range of up to 420 km (261 miles). EVKX.net has all the details. "
+description: "XPENG G3i is an all-electric crossover with a WLTP range of up to 420 km (261 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

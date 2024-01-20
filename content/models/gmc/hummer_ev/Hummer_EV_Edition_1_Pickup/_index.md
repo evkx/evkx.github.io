@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV Edition 1 Pickup
 linktitle: "Hummer EV Edition 1 Pickup"
-description: "GMC Hummer EV Edition 1 Pickup is an all-electric Pickup Truck with a EPA range of up to 529 km (329 miles). EVKX.net has all the details. "
+description: "GMC Hummer EV Edition 1 Pickup is an all-electric Pickup Truck with a EPA range of up to 529 km (329 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -136,7 +136,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center  is 13.4 inches large and has a 1888x1728 pixels resolution.
+The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center is 13.4 inches large and has a 1888x1728 pixels resolution.
 The model does not have a head-up display.
 
 
@@ -172,8 +172,8 @@ The GMC Hummer EV Edition 1 Pickup has a [**lane-keeping assist**](../../../../t
 
 With the Super Cruise  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

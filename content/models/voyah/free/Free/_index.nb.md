@@ -1,7 +1,7 @@
 ---
 title: VOYAH FREE
 linktitle: "FREE"
-description: "VOYAH FREE er en helelektrisk SUV med en WLTP rekkevidde på opptil 500 km. EVKX.net har alle detaljene. "
+description: "VOYAH FREE er en helelektrisk SUV med en WLTP rekkevidde på opptil 500 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -167,7 +167,7 @@ VOYAH FREE har et [**kjørefeltassistent**](../../../../technology/driverassista
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

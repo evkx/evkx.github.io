@@ -160,7 +160,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Audi is a German car manufacturer that is part of the Volkswagen Group. It is known for its premium and sporty vehicles, as well as its slogan 'Vorsprung durch Technik', which means 'Progress through Technology'. Audi has a history of innovation and excellence, dating back to its founding in 1909 by August Horch.
 	</p>
 	<p>
-	Audi has 4 models with total 29 variants. 
+	Audi has 4 models with total 29 variants.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Go to Audi EV-model overview</a>
 </div>
@@ -171,7 +171,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Electric drivetrains are a prerequisite for climate-neutral mobility of the future. This is why the BMW Group is consistently expanding its range of electric vehicles. As early as 2023, the Group will offer at least one fully electric model in virtually all key segments. 
 	</p>
 	<p>
-	BMW has 7 models with total 15 variants. 
+	BMW has 7 models with total 15 variants.
 	</p>
 	<a href="bmw/" class="btn btn-outline-primary" role="button">Go to BMW EV-model overview</a>
 </div>
@@ -182,7 +182,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. 
 	</p>
 	<p>
-	BYD has 6 models with total 7 variants. 
+	BYD has 6 models with total 7 variants.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Go to BYD EV-model overview</a>
 </div>
@@ -193,7 +193,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Cadillac is a luxury brand of General Motors (GM) that produces and sells premium vehicles in North America, China, and other markets. Cadillac is known for its history of innovation, design, and performance, as well as its iconic models such as the Escalade, CTS, and Eldorado. 
 	</p>
 	<p>
-	Cadillac has 2 models with total 3 variants. 
+	Cadillac has 2 models with total 3 variants.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Go to Cadillac EV-model overview</a>
 </div>
@@ -204,7 +204,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Chevrolet is one of the leading automakers in the electric vehicle (EV) market, with a vision to create a world with zero crashes, zero emissions, and zero congestion. The company is committed to providing EVs for everyone, from compact cars to full-size trucks, with a range of models that suit different needs and preferences.
 	</p>
 	<p>
-	Chevrolet has 2 models with total 3 variants. 
+	Chevrolet has 2 models with total 3 variants.
 	</p>
 	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Go to Chevrolet EV-model overview</a>
 </div>
@@ -215,7 +215,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Citroën is a French automotive brand that was founded in 1919 by André Citroën. It is known for its innovative and distinctive designs, such as the Traction Avant, the 2CV, the DS, and the CX. Citroën is also a pioneer in mass production, front-wheel drive, hydropneumatic suspension, and aerodynamics. Citroën is part of the Stellantis group, which was formed in 2021 by the merger of PSA and FCA
 	</p>
 	<p>
-	Citroën has 2 models with total 2 variants. 
+	Citroën has 2 models with total 2 variants.
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Go to Citroën EV-model overview</a>
 </div>
@@ -226,7 +226,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Cupra is a Spanish automobile brand that forms part of SEAT. It was created in 2018 as a spin-off of SEAT's performance division. Cupra stands for Cup Racing and reflects the brand's passion for racing and powerful car.
 	</p>
 	<p>
-	CUPRA has 2 models with total 5 variants. 
+	CUPRA has 2 models with total 5 variants.
 	</p>
 	<a href="cupra/" class="btn btn-outline-primary" role="button">Go to CUPRA EV-model overview</a>
 </div>
@@ -237,7 +237,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		DS is a premium automobile marque that was founded and developed from French manufacturer Citroën. DS was first announced in 2009 as a sub-brand of Citroën, applied to certain models that had distinctive design and features.
 	</p>
 	<p>
-	DS has 1 models with total 1 variants. 
+	DS has 1 models with total 1 variants.
 	</p>
 	<a href="ds/" class="btn btn-outline-primary" role="button">Go to DS EV-model overview</a>
 </div>
@@ -248,7 +248,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Fiat is an Italian car company that is part of the Stellantis group, which also includes brands like Peugeot, Citroën, Jeep, Chrysler and Dodge. Fiat is known for its small and compact cars, such as the Fiat 500, Panda and Tipo.
 	</p>
 	<p>
-	Fiat has 1 models with total 1 variants. 
+	Fiat has 1 models with total 1 variants.
 	</p>
 	<a href="fiat/" class="btn btn-outline-primary" role="button">Go to Fiat EV-model overview</a>
 </div>
@@ -259,7 +259,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Fisker Inc. is an American electric vehicle (EV) manufacturer that was founded in 2016 by Henrik Fisker, a well-known automotive designer. The company is based in Manhattan Beach, California, and is focused on creating sustainable, electric mobility solutions.
 	</p>
 	<p>
-	Fisker has 1 models with total 3 variants. 
+	Fisker has 1 models with total 3 variants.
 	</p>
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Go to Fisker EV-model overview</a>
 </div>
@@ -270,7 +270,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience.
 	</p>
 	<p>
-	Ford has 2 models with total 7 variants. 
+	Ford has 2 models with total 7 variants.
 	</p>
 	<a href="ford/" class="btn btn-outline-primary" role="button">Go to Ford EV-model overview</a>
 </div>
@@ -281,7 +281,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Genesis is a luxury car brand that was launched by Hyundai Motor Group in 2015. It aims to provide positive and innovative experiences for its customers through its design, performance, and service.
 	</p>
 	<p>
-	Genesis has 2 models with total 4 variants. 
+	Genesis has 2 models with total 4 variants.
 	</p>
 	<a href="genesis/" class="btn btn-outline-primary" role="button">Go to Genesis EV-model overview</a>
 </div>
@@ -292,7 +292,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		GMC is a division of General Motors that specializes in trucks, SUVs and crossovers. GMC stands for General Motors Truck Company and was founded in 1911. GMC is known for its professional grade vehicles that combine capability, luxury and technology.
 	</p>
 	<p>
-	GMC has 1 models with total 1 variants. 
+	GMC has 1 models with total 1 variants.
 	</p>
 	<a href="gmc/" class="btn btn-outline-primary" role="button">Go to GMC EV-model overview</a>
 </div>
@@ -303,7 +303,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		HiPhi is a premium electric vehicle brand of Human Horizons, a Chinese technology and mobility company.
 	</p>
 	<p>
-	HiPhi has 3 models with total 5 variants. 
+	HiPhi has 3 models with total 5 variants.
 	</p>
 	<a href="hiphi/" class="btn btn-outline-primary" role="button">Go to HiPhi EV-model overview</a>
 </div>
@@ -314,7 +314,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Honda is a Japanese multinational conglomerate that manufactures automobiles, motorcycles, and power equipment. It is the world's largest motorcycle manufacturer and one of the largest automobile manufacturers. Honda also has a luxury brand called Acura, which it launched in 1986 as the first Japanese luxury brand.
 	</p>
 	<p>
-	Honda has 1 models with total 1 variants. 
+	Honda has 1 models with total 1 variants.
 	</p>
 	<a href="honda/" class="btn btn-outline-primary" role="button">Go to Honda EV-model overview</a>
 </div>
@@ -325,7 +325,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Hongqi is a Chinese car brand that belongs to the state-owned FAW Group. The name means Red Flag and it is a symbol of the Communist Party of China. Hongqi was founded in 1958 and is known for making luxury cars for the Chinese government and elites. 
 	</p>
 	<p>
-	Hongqi has 1 models with total 4 variants. 
+	Hongqi has 1 models with total 4 variants.
 	</p>
 	<a href="hongqi/" class="btn btn-outline-primary" role="button">Go to Hongqi EV-model overview</a>
 </div>
@@ -336,7 +336,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Hyundai Motor Co. (HMC), established in 1967, is the auto sales leader in the Korean domestic market and exports vehicles to 190 countries worldwide. Hyundai Motor Co. operates the world's largest integrated automobile manufacturing facility in Ulsan, located on Korea's southeast coast. Their electric IONIQ series of EV has been popular.  
 	</p>
 	<p>
-	Hyundai has 3 models with total 7 variants. 
+	Hyundai has 3 models with total 7 variants.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Go to Hyundai EV-model overview</a>
 </div>
@@ -347,7 +347,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Jaguar is a luxury vehicle brand of Jaguar Land Rover, a British multinational car manufacturer with its headquarters in Coventry, England. Jaguar Cars was founded in 1922 as the Swallow Sidecar Company, originally making motorcycle sidecars before developing bodies for passenger cars. The company's name was changed from SS Cars to Jaguar Cars in 1945.
 	</p>
 	<p>
-	Jaguar has 1 models with total 1 variants. 
+	Jaguar has 1 models with total 1 variants.
 	</p>
 	<a href="jaguar/" class="btn btn-outline-primary" role="button">Go to Jaguar EV-model overview</a>
 </div>
@@ -358,7 +358,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Jeep is a brand of American automobiles that is known for its off-road and SUV vehicles. Jeep is planning to electrify its entire lineup by 2025 and is expecting 50% of its US sales to be fully electric by 2030.
 	</p>
 	<p>
-	Jeep has 1 models with total 1 variants. 
+	Jeep has 1 models with total 1 variants.
 	</p>
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Go to Jeep EV-model overview</a>
 </div>
@@ -369,7 +369,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Kia Corporation was founded in May 1944 and is Korea’s oldest manufacturer of motor vehicles. From humble origins making bicycles and motorcycles, Kia has grown – as part of the dynamic, global Hyundai-Kia Automotive Group – to become the world’s fifth largest vehicle manufacturer.  
 	</p>
 	<p>
-	Kia has 3 models with total 7 variants. 
+	Kia has 3 models with total 7 variants.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Go to Kia EV-model overview</a>
 </div>
@@ -380,7 +380,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		The Lexus journey begins in 1983, when a Japanese team of engineers, designers and technicians were assigned a secret project that required them to reimagine luxury automotive. They were to set new standards of production in order to build an ambitious new vehicle that would outshine the world's best.  
 	</p>
 	<p>
-	Lexus has 1 models with total 1 variants. 
+	Lexus has 1 models with total 1 variants.
 	</p>
 	<a href="lexus/" class="btn btn-outline-primary" role="button">Go to Lexus EV-model overview</a>
 </div>
@@ -391,7 +391,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Lotus, the British sports car maker famous for its lightweight and agile models, is undergoing a radical transformation. The company, which is now owned by Chinese giant Geely, has announced that it will stop producing combustion-engined cars after the launch of the Emira, its last petrol-powered model. 
 	</p>
 	<p>
-	Lotus has 2 models with total 4 variants. 
+	Lotus has 2 models with total 4 variants.
 	</p>
 	<a href="lotus/" class="btn btn-outline-primary" role="button">Go to Lotus EV-model overview</a>
 </div>
@@ -402,7 +402,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Lucid is an American manufacturer of electric luxury vehicles that was founded in 2007 as a battery company. It rebranded as Lucid Motors in 2016 and announced its first model, the Lucid Air, a high-performance sedan with a range of up to 516 miles. Lucid also plans to launch an electric SUV, the Lucid Gravity, in 2024.
 	</p>
 	<p>
-	Lucid has 2 models with total 6 variants. 
+	Lucid has 2 models with total 6 variants.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Go to Lucid EV-model overview</a>
 </div>
@@ -413,7 +413,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a German luxury and commercial vehicle automotive brand established in 1926. By 2022, Mercedes-Benz will have battery electric vehicles (BEV) in all segments the company serves. 
 	</p>
 	<p>
-	Mercedes has 7 models with total 26 variants. 
+	Mercedes has 7 models with total 26 variants.
 	</p>
 	<a href="mercedes/" class="btn btn-outline-primary" role="button">Go to Mercedes EV-model overview</a>
 </div>
@@ -424,7 +424,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		MG is a British car brand that was founded in 1924 and is now owned by SAIC Motor, a Chinese automobile group. MG has a long history of producing sports cars and roadsters, but in recent years it has shifted to electric and hybrid vehicles. 
 	</p>
 	<p>
-	MG has 5 models with total 11 variants. 
+	MG has 5 models with total 11 variants.
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Go to MG EV-model overview</a>
 </div>
@@ -434,7 +434,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Neta is a Chinese electric vehicle (EV) brand that was founded in 2014 by Hozon Auto, a company based in Zhejiang province. Neta produces affordable and smart EVs that target the lower end of the market, such as the Neta N01, Neta U, Neta V, and Neta S models. Neta also has a sports car model, the Neta GT, that aims to create a higher-end image for the brand.        
 	</p>
 	<p>
-	Neta has 1 models with total 1 variants. 
+	Neta has 1 models with total 1 variants.
 	</p>
 	<a href="neta/" class="btn btn-outline-primary" role="button">Go to Neta EV-model overview</a>
 </div>
@@ -445,7 +445,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
 	</p>
 	<p>
-	Nio has 6 models with total 7 variants. 
+	Nio has 6 models with total 7 variants.
 	</p>
 	<a href="nio/" class="btn btn-outline-primary" role="button">Go to Nio EV-model overview</a>
 </div>
@@ -456,7 +456,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Nissan is a multinational automobile manufacturer headquartered in Yokohama, Japan. It was founded in 1933 as the 'Nissan Motor Company Ltd.' and has since become one of the largest automakers in the world. Nissan offers a wide range of vehicles, from small city cars to luxury sedans and SUVs. 
 	</p>
 	<p>
-	Nissan has 1 models with total 3 variants. 
+	Nissan has 1 models with total 3 variants.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Go to Nissan EV-model overview</a>
 </div>
@@ -466,7 +466,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Opel is a German automobile manufacturer that has been a subsidiary of Stellantis since 2021. It was previously owned by General Motors and PSA Group. Opel produces passenger cars, light commercial vehicles, and vehicle parts, and sells them under the Opel and Vauxhall brands in Europe and other regions.
 	</p>
 	<p>
-	Opel has 1 models with total 1 variants. 
+	Opel has 1 models with total 1 variants.
 	</p>
 	<a href="opel/" class="btn btn-outline-primary" role="button">Go to Opel EV-model overview</a>
 </div>
@@ -477,7 +477,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Peugeot is a French brand of automobiles that was founded in 1810 as a steel foundry that later produced hand tools, kitchen equipment, bicycles and cars. Peugeot is known for its lion logo, which was registered in 1858 by Émile Peugeot. Peugeot is part of the Stellantis group, which was formed in 2021 by the merger of PSA Peugeot Citroën and Fiat Chrysler Automobiles.
 	</p>
 	<p>
-	Peugot has 3 models with total 3 variants. 
+	Peugot has 3 models with total 3 variants.
 	</p>
 	<a href="peugot/" class="btn btn-outline-primary" role="button">Go to Peugot EV-model overview</a>
 </div>
@@ -488,7 +488,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Polestar is a Swedish electric vehicle (EV) brand that was launched in 2017 as a standalone brand under the Volvo Car Group and its parent company, Geely Holding. Polestar's focus is on developing premium electric cars that combine cutting-edge technology, sustainable materials, and minimalist design.
 	</p>
 	<p>
-	Polestar has 2 models with total 4 variants. 
+	Polestar has 2 models with total 4 variants.
 	</p>
 	<a href="polestar/" class="btn btn-outline-primary" role="button">Go to Polestar EV-model overview</a>
 </div>
@@ -499,7 +499,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success.
 	</p>
 	<p>
-	Porsche has 1 models with total 14 variants. 
+	Porsche has 1 models with total 14 variants.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Go to Porsche EV-model overview</a>
 </div>
@@ -510,7 +510,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012.
 	</p>
 	<p>
-	Renault has 2 models with total 2 variants. 
+	Renault has 2 models with total 2 variants.
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Go to Renault EV-model overview</a>
 </div>
@@ -520,7 +520,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Rimac Automobili is a Croatian company that produces electric hypercars and provides technology solutions to global automotive manufacturers. The company was founded in 2009 by Mate Rimac, who converted his BMW 3 Series into an electric car and gained attention from investors and the media. Rimac Automobili's first model, the Concept One, was the world's fastest production electric car. 
 	</p>
 	<p>
-	Rimac has 1 models with total 1 variants. 
+	Rimac has 1 models with total 1 variants.
 	</p>
 	<a href="rimac/" class="btn btn-outline-primary" role="button">Go to Rimac EV-model overview</a>
 </div>
@@ -531,7 +531,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Rivian is an electric vehicle maker that was founded in 2009 by RJ Scaringe. Rivian's EV strategy is to focus on producing premium electric trucks and SUVs that can handle off-road adventures and everyday driving. Rivian's first products are the R1T pickup truck and the R1S SUV, which have a range of up to 400 miles and can accelerate from 0 to 60 mph in about 3 seconds. 
 	</p>
 	<p>
-	Rivian has 1 models with total 6 variants. 
+	Rivian has 1 models with total 6 variants.
 	</p>
 	<a href="rivian/" class="btn btn-outline-primary" role="button">Go to Rivian EV-model overview</a>
 </div>
@@ -542,7 +542,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Rolls Royce is a British luxury car maker that is known for its high-end vehicles and bespoke craftsmanship. The company has recently announced that it will go all-electric by 2030, following the trend of other automakers that are committed to the decarbonisation of the transport sector. 
 	</p>
 	<p>
-	Rolls-Royce has 1 models with total 1 variants. 
+	Rolls-Royce has 1 models with total 1 variants.
 	</p>
 	<a href="rolls-royce/" class="btn btn-outline-primary" role="button">Go to Rolls-Royce EV-model overview</a>
 </div>
@@ -553,7 +553,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Seres is a global electric vehicle manufacturer that was established by the Sokon Group in Silicon Valley, USA. Seres produces electric vehicles with advanced technology, impressive performance, and intelligent features. 
 	</p>
 	<p>
-	Seres has 1 models with total 1 variants. 
+	Seres has 1 models with total 1 variants.
 	</p>
 	<a href="seres/" class="btn btn-outline-primary" role="button">Go to Seres EV-model overview</a>
 </div>
@@ -564,7 +564,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. 
 	</p>
 	<p>
-	Skoda has 1 models with total 6 variants. 
+	Skoda has 1 models with total 6 variants.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Go to Skoda EV-model overview</a>
 </div>
@@ -575,7 +575,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		The Smart car manufacturer is a German automotive marque that produces small electric vehicles. It is a joint venture between Mercedes-Benz AG and Zhejiang Geely Holding Group, established in 2019. The venture is headquartered in Ningbo, China, and aims to produce Smart-badged cars in China to be marketed globally.
 	</p>
 	<p>
-	Smart has 2 models with total 4 variants. 
+	Smart has 2 models with total 4 variants.
 	</p>
 	<a href="smart/" class="btn btn-outline-primary" role="button">Go to Smart EV-model overview</a>
 </div>
@@ -586,7 +586,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Subaru is a Japanese automaker that produces vehicles with advanced technology, impressive performance, and intelligent features. Subaru is known for its permanent all-wheel drive system, boxer engine, and EyeSight driver assistance system. Subaru also has a strong reputation for safety, reliability, and durability.
 	</p>
 	<p>
-	Subaru has 1 models with total 1 variants. 
+	Subaru has 1 models with total 1 variants.
 	</p>
 	<a href="subaru/" class="btn btn-outline-primary" role="button">Go to Subaru EV-model overview</a>
 </div>
@@ -597,7 +597,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Tesla, Inc., founded by Elon Musk in 2003, is a leading American electric vehicle (EV) and clean energy company headquartered in Palo Alto, California. Tesla's mission is to accelerate the world's transition to sustainable energy through the production of electric vehicles, renewable energy solutions, and energy storage systems. 
 	</p>
 	<p>
-	Tesla has 5 models with total 16 variants. 
+	Tesla has 5 models with total 16 variants.
 	</p>
 	<a href="tesla/" class="btn btn-outline-primary" role="button">Go to Tesla EV-model overview</a>
 </div>
@@ -608,7 +608,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year. Historycally Toyota has been negative to EV, but launched it first all-electric model in 2022. 
 	</p>
 	<p>
-	Toyota has 1 models with total 2 variants. 
+	Toyota has 1 models with total 2 variants.
 	</p>
 	<a href="toyota/" class="btn btn-outline-primary" role="button">Go to Toyota EV-model overview</a>
 </div>
@@ -619,7 +619,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Volkswagen’s product portfolio is focused on electric mobility. The last purely combustion-driven platform will be developed in 2026. After that, only electric vehicles will be developed. Even with today’s current power mix in the EU, battery-powered drive systems offer the best balance for the climate out of all drive concepts and this will continue to improve over the years to come. 
 	</p>
 	<p>
-	Volkswagen has 5 models with total 15 variants. 
+	Volkswagen has 5 models with total 15 variants.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Go to Volkswagen EV-model overview</a>
 </div>
@@ -630,7 +630,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Volvo is a Swedish multinational automotive company that produces a range of cars, trucks, buses, and construction equipment. The company was founded in 1927 and has since become known for its commitment to safety, innovation, and sustainability.
 	</p>
 	<p>
-	Volvo has 5 models with total 12 variants. 
+	Volvo has 5 models with total 12 variants.
 	</p>
 	<a href="volvo/" class="btn btn-outline-primary" role="button">Go to Volvo EV-model overview</a>
 </div>
@@ -641,7 +641,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Voyah is a car brand that specializes in designing and developing electric vehicles. Voyah is the premium division of Chinese state-owned automaker Dongfeng Motor Corporation. 
 	</p>
 	<p>
-	VOYAH has 1 models with total 1 variants. 
+	VOYAH has 1 models with total 1 variants.
 	</p>
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Go to VOYAH EV-model overview</a>
 </div>
@@ -652,7 +652,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		XPeng is a Chinese electric vehicle manufacturer that was founded in 2014 by He Xiaopeng, a former Alibaba executive and internet entrepreneur. The company is headquartered in Guangzhou, Guangdong, with offices in Mountain View, California, United States and is publicly traded on the New York Stock Exchange. 
 	</p>
 	<p>
-	XPENG has 5 models with total 7 variants. 
+	XPENG has 5 models with total 7 variants.
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Go to XPENG EV-model overview</a>
 </div>
@@ -663,7 +663,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Zeekr is a new luxury electric vehicle (EV) brand launched by Geely Automobile in 2021. The brand aims to compete with Tesla and other high-end EV makers in China and beyond. Zeekr's EV strategy is based on four pillars design, technology, performance and customer experience.
 	</p>
 	<p>
-	Zeekr has 4 models with total 8 variants. 
+	Zeekr has 4 models with total 8 variants.
 	</p>
 	<a href="zeekr/" class="btn btn-outline-primary" role="button">Go to Zeekr EV-model overview</a>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: BMW i7 xDrive60
 linktitle: "i7 xDrive60"
-description: "BMW i7 xDrive60 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene. "
+description: "BMW i7 xDrive60 er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -227,7 +227,7 @@ Med Driving Assistant  nivå 1-systemet får du følgende kjøreautomatiseringsf
 
 Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

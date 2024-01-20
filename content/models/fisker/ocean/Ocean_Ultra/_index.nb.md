@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Ultra
 linktitle: "Ocean Ultra"
-description: "Fisker Ocean Ultra er en helelektrisk SUV med en WLTP rekkevidde på opptil 690 km. EVKX.net har alle detaljene. "
+description: "Fisker Ocean Ultra er en helelektrisk SUV med en WLTP rekkevidde på opptil 690 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -186,7 +186,7 @@ Fisker Ocean Ultra har [**automatisk nødbremsing**](../../../../technology/driv
 
 Med Fisker Intelligent Pilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

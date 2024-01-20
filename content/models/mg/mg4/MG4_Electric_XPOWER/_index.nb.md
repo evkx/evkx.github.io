@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric XPOWER
 linktitle: "MG4 Electric XPOWER"
-description: "MG MG4 Electric XPOWER er en helelektrisk delefilter med en WLTP rekkevidde på opptil 435 km. EVKX.net har alle detaljene. "
+description: "MG MG4 Electric XPOWER er en helelektrisk delefilter med en WLTP rekkevidde på opptil 435 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -172,7 +172,7 @@ MG MG4 Electric XPOWER har et [**kjørefeltassistent**](../../../../technology/d
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

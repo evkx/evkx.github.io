@@ -1,7 +1,7 @@
 ---
 title: BMW iX3
 linktitle: "iX3"
-description: "BMW iX3 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 461 km. EVKX.net har alle detaljene. "
+description: "BMW iX3 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 461 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -150,7 +150,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.3 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. touch-skjermen i dashbordets sentrum er 12.3 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -194,7 +194,7 @@ BMW iX3 har [**automatisk nødbremsing**](../../../../technology/driverassistanc
 
 Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 

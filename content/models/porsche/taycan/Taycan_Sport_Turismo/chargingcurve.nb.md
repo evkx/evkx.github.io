@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Sport Turismo ladekurve og ladeytelse
 linktitle: "Ladekurve"
-description: "Her finner du ladekurven for Porsche Taycan Sport Turismo. "
+description: "Her finner du ladekurven for Porsche Taycan Sport Turismo."
 weight: 10
 hidden: true
 navicon: bi-battery-charging
@@ -49,10 +49,10 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 </table>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/) 
+Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan Sport Turismo har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere. 
+Porsche Taycan Sport Turismo har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -407,10 +407,10 @@ Porsche Taycan Sport Turismo har batterioppvarming, noe som gjør lading ved en 
 </table>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/) 
+Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan Sport Turismo har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere. 
+Porsche Taycan Sport Turismo har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere.
 
 
 {{<evkxdisplayaddarticle />}}

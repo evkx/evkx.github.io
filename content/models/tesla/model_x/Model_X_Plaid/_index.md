@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X Plaid
 linktitle: "Model X Plaid"
-description: "Tesla Model X Plaid is an all-electric SUV with a WLTP range of up to 543 km (338 miles). EVKX.net has all the details. "
+description: "Tesla Model X Plaid is an all-electric SUV with a WLTP range of up to 543 km (338 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -150,7 +150,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Tesla Model X Plaid has twin screens with information for the driver and passengers and a third screen in rear for multimedia. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17.0 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8.0 inches large.
+The Tesla Model X Plaid has twin screens with information for the driver and passengers and a third screen in rear for multimedia. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center is 17.0 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console is 8.0 inches large.
 The model does not have a head-up display.
 
 
@@ -196,18 +196,18 @@ The Tesla Model X Plaid offers [driving automation on level 2 or 3](../../../../
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
-- Advance cruise control that follows navigation and turns off and on major roads to reach the target. 
+- Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
-- Traffic light control - follow traffic lights. 
-- Stop sign control - follow stop signs. 
+- Traffic light control - follow traffic lights.
+- Stop sign control - follow stop signs.
 
 
 {{<evkxdisplayaddarticle />}}

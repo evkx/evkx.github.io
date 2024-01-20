@@ -1,7 +1,7 @@
 ---
 title: Audi SQ8 Sportback e-tron
 linktitle: "SQ8 Sportback e-tron"
-description: "Audi SQ8 Sportback e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 513 km (319 miles). EVKX.net has all the details. "
+description: "Audi SQ8 Sportback e-tron is an all-electric luxury coupe SUV with a WLTP range of up to 513 km (319 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -257,7 +257,7 @@ With the   level 1 system, you get the following driving automation features.
 
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

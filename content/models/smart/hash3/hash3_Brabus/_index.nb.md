@@ -1,7 +1,7 @@
 ---
 title: Smart #3 Brabus
 linktitle: "#3 Brabus"
-description: "Smart #3 Brabus er en helelektrisk delefilter med en WLTP rekkevidde på opptil 415 km. EVKX.net har alle detaljene. "
+description: "Smart #3 Brabus er en helelektrisk delefilter med en WLTP rekkevidde på opptil 415 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -188,9 +188,9 @@ Smart #3 Brabus har [**automatisk nødbremsing**](../../../../technology/drivera
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

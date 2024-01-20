@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 AWD Performance
 linktitle: "G9 AWD Performance"
-description: "XPENG G9 AWD Performance is an all-electric SUV with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details. "
+description: "XPENG G9 AWD Performance is an all-electric SUV with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -155,7 +155,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The XPENG G9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 15.0 inches large. The touch screen in front of the passenger on the dashboard is 15.0 inches large.
+The XPENG G9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 15.0 inches large. The touch screen in front of the passenger on the dashboard is 15.0 inches large.
 The model does not have a head-up display.
 
 
@@ -203,7 +203,7 @@ The XPENG G9 AWD Performance has [**automatic emergency braking**](../../../../t
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 

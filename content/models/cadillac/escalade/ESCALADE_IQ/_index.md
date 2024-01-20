@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ
 linktitle: "ESCALADE IQ"
-description: "Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net has all the details. "
+description: "Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -196,9 +196,9 @@ The Cadillac ESCALADE IQ has a [**lane-keeping assist**](../../../../technology/
 
 With the Super Cruise  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

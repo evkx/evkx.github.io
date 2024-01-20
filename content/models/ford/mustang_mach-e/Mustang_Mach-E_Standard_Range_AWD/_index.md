@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Standard Range AWD
 linktitle: "Mustang Mach-E Standard Range AWD"
-description: "Ford Mustang Mach-E Standard Range AWD is an all-electric coupe SUV with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details. "
+description: "Ford Mustang Mach-E Standard Range AWD is an all-electric coupe SUV with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -199,8 +199,8 @@ The Ford Mustang Mach-E Standard Range AWD has [**automatic emergency braking**]
 
 With the Ford BlueCruise  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT
 linktitle: "e-tron GT"
-description: "Audi e-tron GT er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 488 km. EVKX.net har alle detaljene. "
+description: "Audi e-tron GT er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 488 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -226,7 +226,7 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

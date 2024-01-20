@@ -1,7 +1,7 @@
 ---
 title: MG ZS EV Long Range
 linktitle: "ZS EV Long Range"
-description: "MG ZS EV Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 440 km. EVKX.net har alle detaljene. "
+description: "MG ZS EV Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 440 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -186,7 +186,7 @@ MG ZS EV Long Range har et [**kjørefeltassistent**](../../../../technology/driv
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

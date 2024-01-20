@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQA 250
 linktitle: "EQA 250"
-description: "Mercedes-EQ EQA 250 er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 438 km. EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQA 250 er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 438 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

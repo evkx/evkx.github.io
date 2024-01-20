@@ -198,9 +198,9 @@ XPENG X9 AWD Performance har [**automatisk nödbroms**](../../../../technology/d
 Med XPILOT  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
-- Avancerad farthållare som följer navigeringen och slår på och av huvudvägarna för att nå destinationen. 
+- Avancerad farthållare som följer navigeringen och slår på och av huvudvägarna för att nå destinationen.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

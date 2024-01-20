@@ -1,7 +1,7 @@
 ---
 title: BMW i7 M70 xDrive
 linktitle: "i7 M70 xDrive"
-description: "BMW i7 M70 xDrive is an all-electric luxury sedan with a WLTP range of up to 560 km (348 miles). EVKX.net has all the details. "
+description: "BMW i7 M70 xDrive is an all-electric luxury sedan with a WLTP range of up to 560 km (348 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -212,7 +212,7 @@ With the Driving Assistant  level 1 system, you get the following driving automa
 
 With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

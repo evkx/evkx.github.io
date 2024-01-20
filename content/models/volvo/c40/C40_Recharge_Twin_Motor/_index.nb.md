@@ -1,7 +1,7 @@
 ---
 title: Volvo C40 Recharge Twin Motor
 linktitle: "C40 Recharge Twin Motor"
-description: "Volvo C40 Recharge Twin Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 548 km. EVKX.net har alle detaljene. "
+description: "Volvo C40 Recharge Twin Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 548 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -182,7 +182,7 @@ Volvo C40 Recharge Twin Motor har [**automatisk nødbremsing**](../../../../tech
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

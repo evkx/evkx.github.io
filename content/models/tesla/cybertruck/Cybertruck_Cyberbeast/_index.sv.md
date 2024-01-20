@@ -205,14 +205,14 @@ Med Basic Autopilot  nivå 2-systemet får du följande körautomatiseringsfunkt
 
 
 Med Enhanced Autopilot  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
-- Avancerad farthållare som följer navigeringen och slår på och av huvudvägarna för att nå destinationen. 
+- Avancerad farthållare som följer navigeringen och slår på och av huvudvägarna för att nå destinationen.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 Med Full Self-Driving Capability  nivå 3-systemet får du fler körautomationsfunktioner än de som anges ovan.
-- Trafikljuskontroll - följ trafikljusen. 
-- Stoppskyltkontroll - följ stoppskyltar. 
+- Trafikljuskontroll - följ trafikljusen.
+- Stoppskyltkontroll - följ stoppskyltar.
 
 
 {{<evkxdisplayaddarticle />}}

@@ -195,7 +195,7 @@ Med Ford Co-Pilot360™ Assist 2.0  nivå 2-systemet får du fler körautomatise
 
 Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
-- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

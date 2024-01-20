@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV Edition 1 Pickup
 linktitle: "Hummer EV Edition 1 Pickup"
-description: "GMC Hummer EV Edition 1 Pickup er en helelektrisk pickup med en EPA rekkevidde på opptil 529 km. EVKX.net har alle detaljene. "
+description: "GMC Hummer EV Edition 1 Pickup er en helelektrisk pickup med en EPA rekkevidde på opptil 529 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -136,7 +136,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-GMC Hummer EV Edition 1 Pickup har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i dashbordets sentrum  er 13.4 tommer stor og har en oppløsning på 1888x1728 piksler.
+GMC Hummer EV Edition 1 Pickup har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i dashbordets sentrum er 13.4 tommer stor og har en oppløsning på 1888x1728 piksler.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -172,8 +172,8 @@ GMC Hummer EV Edition 1 Pickup har et [**kjørefeltassistent**](../../../../tech
 
 Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

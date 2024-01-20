@@ -1,7 +1,7 @@
 ---
 title: BYD Tang EV600
 linktitle: "Tang EV600"
-description: "BYD Tang EV600 er en helelektrisk SUV med en WLTP rekkevidde på opptil 400 km. EVKX.net har alle detaljene. "
+description: "BYD Tang EV600 er en helelektrisk SUV med en WLTP rekkevidde på opptil 400 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -154,7 +154,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-BYD Tang EV600 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum  er 12.8 tommer stor.
+BYD Tang EV600 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum er 12.8 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -206,7 +206,7 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 Med Smart Pilot  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

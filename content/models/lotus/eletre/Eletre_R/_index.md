@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre R
 linktitle: "Eletre R"
-description: "Lotus Eletre R is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. "
+description: "Lotus Eletre R is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -154,7 +154,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 15.1 inches large.
+The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 15.1 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -210,9 +210,9 @@ The Lotus Eletre R has [**automatic emergency braking**](../../../../technology/
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

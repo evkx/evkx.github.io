@@ -1,7 +1,7 @@
 ---
 title: BYD Seal AWD
 linktitle: "Seal AWD"
-description: "BYD Seal AWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details. "
+description: "BYD Seal AWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -149,7 +149,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The BYD Seal AWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 15.6 inches large.
+The BYD Seal AWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 15.6 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

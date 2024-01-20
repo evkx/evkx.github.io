@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Dream Edition
 linktitle: "Gravity Dream Edition"
-description: "Lucid Gravity Dream Edition is an all-electric SUV with a EPA range of up to 708 km (440 miles). EVKX.net has all the details. "
+description: "Lucid Gravity Dream Edition is an all-electric SUV with a EPA range of up to 708 km (440 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -163,7 +163,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The touch screen behind the steering wheel accross the the center of the dash  is 34.0 inches large. The touch screen in the middle of the center console is 12.0 inches large.
+The touch screen behind the steering wheel accross the the center of the dash is 34.0 inches large. The touch screen in the middle of the center console is 12.0 inches large.
 The model does not have a head-up display.
 
 
@@ -209,7 +209,7 @@ The Lucid Gravity Dream Edition has a [**lane-keeping assist**](../../../../tech
 
 With the ADAS  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

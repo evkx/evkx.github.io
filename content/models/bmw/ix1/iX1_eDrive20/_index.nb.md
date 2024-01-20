@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 eDrive20
 linktitle: "iX1 eDrive20"
-description: "BMW iX1 eDrive20 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 475 km. EVKX.net har alle detaljene. "
+description: "BMW iX1 eDrive20 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 475 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -207,7 +207,7 @@ BMW iX1 eDrive20 har [**automatisk nødbremsing**](../../../../technology/driver
 
 Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 

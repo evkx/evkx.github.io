@@ -1,7 +1,7 @@
 ---
 title: BMW iX2 xDrive30
 linktitle: "iX2 xDrive30"
-description: "BMW iX2 xDrive30 is an all-electric premium coupe SUV with a WLTP range of up to 449 km (279 miles). EVKX.net has all the details. "
+description: "BMW iX2 xDrive30 is an all-electric premium coupe SUV with a WLTP range of up to 449 km (279 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -215,7 +215,7 @@ The BMW iX2 xDrive30 has [**automatic emergency braking**](../../../../technolog
 
 With the Driving Assistant Professional  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 

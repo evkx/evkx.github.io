@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 35 e-tron
 linktitle: "Q4 35 e-tron"
-description: "Audi Q4 35 e-tron is an all-electric premium SUV with a WLTP range of up to 357 km (222 miles). EVKX.net has all the details. "
+description: "Audi Q4 35 e-tron is an all-electric premium SUV with a WLTP range of up to 357 km (222 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -235,7 +235,7 @@ With the   level 1 system, you get the following driving automation features.
 
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

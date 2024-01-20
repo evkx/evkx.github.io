@@ -1,7 +1,7 @@
 ---
 title: BYD Han
 linktitle: "Han"
-description: "BYD Han is an all-electric sedan with a WLTP range of up to 521 km (324 miles). EVKX.net has all the details. "
+description: "BYD Han is an all-electric sedan with a WLTP range of up to 521 km (324 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -156,7 +156,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The BYD Han has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 15.6 inches large.
+The BYD Han has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 15.6 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -212,7 +212,7 @@ With the   level 1 system, you get the following driving automation features.
 
 
 With the Smart Pilot  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

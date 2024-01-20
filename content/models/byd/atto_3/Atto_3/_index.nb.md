@@ -1,7 +1,7 @@
 ---
 title: BYD Atto 3
 linktitle: "Atto 3"
-description: "BYD Atto 3 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 420 km. EVKX.net har alle detaljene. "
+description: "BYD Atto 3 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 420 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -153,9 +153,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på BYD Atto 3.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.8 tommer stor.
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 12.8 tommer stor.
 
-Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 15.6 tommer stor.
+Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 15.6 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

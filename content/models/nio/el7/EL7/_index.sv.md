@@ -224,7 +224,7 @@ Med NIO Pilot Selected Pack  nivå 1-systemet får du följande körautomationsf
 
 Med NIO Pilot Complete Pack  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
-- Avancerad farthållare som följer navigeringen och slår på och av huvudvägarna för att nå destinationen. 
+- Avancerad farthållare som följer navigeringen och slår på och av huvudvägarna för att nå destinationen.
 
 
 {{<evkxdisplayaddarticle />}}

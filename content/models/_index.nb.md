@@ -160,7 +160,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 		Audi er en tysk bilprodusent som er en del av Volkswagen Group. Den er kjent for sine førsteklasses og sporty kjøretøyer, samt slagordet 'Vorsprung durch Technik', som betyr 'Progress through Technology'. Audi har en historie med innovasjon og fortreffelighet, som går tilbake til grunnleggelsen i 1909 av August Horch.
 	</p>
 	<p>
-	Audi har 4 modell(er) med totalt 29 varianter. 
+	Audi har 4 modell(er) med totalt 29 varianter.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gå til Audi modelloversikt</a>
 </div>
@@ -168,7 +168,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="bmw/"><img src="https://media.evkx.net/multimedia/models/bmw/brandevs_st.jpg" class="img-fluid mb-2" alt="BMW" ></a>
 	<h2>BMW</h2>
 	<p>
-	BMW har 7 modell(er) med totalt 15 varianter. 
+	BMW har 7 modell(er) med totalt 15 varianter.
 	</p>
 	<a href="bmw/" class="btn btn-outline-primary" role="button">Gå til BMW modelloversikt</a>
 </div>
@@ -176,7 +176,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
-	BYD har 6 modell(er) med totalt 7 varianter. 
+	BYD har 6 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Gå til BYD modelloversikt</a>
 </div>
@@ -184,7 +184,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
 	<h2>Cadillac</h2>
 	<p>
-	Cadillac har 2 modell(er) med totalt 3 varianter. 
+	Cadillac har 2 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Gå til Cadillac modelloversikt</a>
 </div>
@@ -192,7 +192,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="chevrolet/"><img src="https://media.evkx.net/multimedia/models/chevrolet/brandevs_st.jpg" class="img-fluid mb-2" alt="Chevrolet" ></a>
 	<h2>Chevrolet</h2>
 	<p>
-	Chevrolet har 2 modell(er) med totalt 3 varianter. 
+	Chevrolet har 2 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Gå til Chevrolet modelloversikt</a>
 </div>
@@ -200,7 +200,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
 	<h2>Citroën</h2>
 	<p>
-	Citroën har 2 modell(er) med totalt 2 varianter. 
+	Citroën har 2 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Gå til Citroën modelloversikt</a>
 </div>
@@ -208,7 +208,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="cupra/"><img src="https://media.evkx.net/multimedia/models/cupra/brandevs_st.jpg" class="img-fluid mb-2" alt="CUPRA" ></a>
 	<h2>CUPRA</h2>
 	<p>
-	CUPRA har 2 modell(er) med totalt 5 varianter. 
+	CUPRA har 2 modell(er) med totalt 5 varianter.
 	</p>
 	<a href="cupra/" class="btn btn-outline-primary" role="button">Gå til CUPRA modelloversikt</a>
 </div>
@@ -216,7 +216,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="ds/"><img src="https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg" class="img-fluid mb-2" alt="DS" ></a>
 	<h2>DS</h2>
 	<p>
-	DS har 1 modell(er) med totalt 1 varianter. 
+	DS har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="ds/" class="btn btn-outline-primary" role="button">Gå til DS modelloversikt</a>
 </div>
@@ -224,7 +224,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="fiat/"><img src="https://media.evkx.net/multimedia/models/fiat/brandevs_st.jpg" class="img-fluid mb-2" alt="Fiat" ></a>
 	<h2>Fiat</h2>
 	<p>
-	Fiat har 1 modell(er) med totalt 1 varianter. 
+	Fiat har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="fiat/" class="btn btn-outline-primary" role="button">Gå til Fiat modelloversikt</a>
 </div>
@@ -232,7 +232,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="fisker/"><img src="https://media.evkx.net/multimedia/models/fisker/brandevs_st.jpg" class="img-fluid mb-2" alt="Fisker" ></a>
 	<h2>Fisker</h2>
 	<p>
-	Fisker har 1 modell(er) med totalt 3 varianter. 
+	Fisker har 1 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="fisker/" class="btn btn-outline-primary" role="button">Gå til Fisker modelloversikt</a>
 </div>
@@ -240,7 +240,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
-	Ford har 2 modell(er) med totalt 7 varianter. 
+	Ford har 2 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="ford/" class="btn btn-outline-primary" role="button">Gå til Ford modelloversikt</a>
 </div>
@@ -248,7 +248,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="genesis/"><img src="https://media.evkx.net/multimedia/models/genesis/brandevs_st.jpg" class="img-fluid mb-2" alt="Genesis" ></a>
 	<h2>Genesis</h2>
 	<p>
-	Genesis har 2 modell(er) med totalt 4 varianter. 
+	Genesis har 2 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="genesis/" class="btn btn-outline-primary" role="button">Gå til Genesis modelloversikt</a>
 </div>
@@ -256,7 +256,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="gmc/"><img src="https://media.evkx.net/multimedia/models/gmc/brandevs_st.jpg" class="img-fluid mb-2" alt="GMC" ></a>
 	<h2>GMC</h2>
 	<p>
-	GMC har 1 modell(er) med totalt 1 varianter. 
+	GMC har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="gmc/" class="btn btn-outline-primary" role="button">Gå til GMC modelloversikt</a>
 </div>
@@ -264,7 +264,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="hiphi/"><img src="https://media.evkx.net/multimedia/models/hiphi/brandevs_st.jpg" class="img-fluid mb-2" alt="HiPhi" ></a>
 	<h2>HiPhi</h2>
 	<p>
-	HiPhi har 3 modell(er) med totalt 5 varianter. 
+	HiPhi har 3 modell(er) med totalt 5 varianter.
 	</p>
 	<a href="hiphi/" class="btn btn-outline-primary" role="button">Gå til HiPhi modelloversikt</a>
 </div>
@@ -272,7 +272,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="honda/"><img src="https://media.evkx.net/multimedia/models/honda/brandevs_st.jpg" class="img-fluid mb-2" alt="Honda" ></a>
 	<h2>Honda</h2>
 	<p>
-	Honda har 1 modell(er) med totalt 1 varianter. 
+	Honda har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="honda/" class="btn btn-outline-primary" role="button">Gå til Honda modelloversikt</a>
 </div>
@@ -280,7 +280,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="hongqi/"><img src="https://media.evkx.net/multimedia/models/hongqi/brandevs_st.jpg" class="img-fluid mb-2" alt="Hongqi" ></a>
 	<h2>Hongqi</h2>
 	<p>
-	Hongqi har 1 modell(er) med totalt 4 varianter. 
+	Hongqi har 1 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="hongqi/" class="btn btn-outline-primary" role="button">Gå til Hongqi modelloversikt</a>
 </div>
@@ -288,7 +288,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
-	Hyundai har 3 modell(er) med totalt 7 varianter. 
+	Hyundai har 3 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Gå til Hyundai modelloversikt</a>
 </div>
@@ -296,7 +296,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="jaguar/"><img src="https://media.evkx.net/multimedia/models/jaguar/brandevs_st.jpg" class="img-fluid mb-2" alt="Jaguar" ></a>
 	<h2>Jaguar</h2>
 	<p>
-	Jaguar har 1 modell(er) med totalt 1 varianter. 
+	Jaguar har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="jaguar/" class="btn btn-outline-primary" role="button">Gå til Jaguar modelloversikt</a>
 </div>
@@ -304,7 +304,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="jeep/"><img src="https://media.evkx.net/multimedia/models/jeep/brandevs_st.jpg" class="img-fluid mb-2" alt="Jeep" ></a>
 	<h2>Jeep</h2>
 	<p>
-	Jeep har 1 modell(er) med totalt 1 varianter. 
+	Jeep har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Gå til Jeep modelloversikt</a>
 </div>
@@ -312,7 +312,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
 	<h2>Kia</h2>
 	<p>
-	Kia har 3 modell(er) med totalt 7 varianter. 
+	Kia har 3 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Gå til Kia modelloversikt</a>
 </div>
@@ -320,7 +320,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>
 	<h2>Lexus</h2>
 	<p>
-	Lexus har 1 modell(er) med totalt 1 varianter. 
+	Lexus har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="lexus/" class="btn btn-outline-primary" role="button">Gå til Lexus modelloversikt</a>
 </div>
@@ -328,7 +328,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="lotus/"><img src="https://media.evkx.net/multimedia/models/lotus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lotus" ></a>
 	<h2>Lotus</h2>
 	<p>
-	Lotus har 2 modell(er) med totalt 4 varianter. 
+	Lotus har 2 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="lotus/" class="btn btn-outline-primary" role="button">Gå til Lotus modelloversikt</a>
 </div>
@@ -336,7 +336,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="lucid/"><img src="https://media.evkx.net/multimedia/models/lucid/brandevs_st.jpg" class="img-fluid mb-2" alt="Lucid" ></a>
 	<h2>Lucid</h2>
 	<p>
-	Lucid har 2 modell(er) med totalt 6 varianter. 
+	Lucid har 2 modell(er) med totalt 6 varianter.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Gå til Lucid modelloversikt</a>
 </div>
@@ -344,7 +344,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="mercedes/"><img src="https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg" class="img-fluid mb-2" alt="Mercedes" ></a>
 	<h2>Mercedes</h2>
 	<p>
-	Mercedes har 7 modell(er) med totalt 26 varianter. 
+	Mercedes har 7 modell(er) med totalt 26 varianter.
 	</p>
 	<a href="mercedes/" class="btn btn-outline-primary" role="button">Gå til Mercedes modelloversikt</a>
 </div>
@@ -352,14 +352,14 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="mg/"><img src="https://media.evkx.net/multimedia/models/mg/brandevs_st.jpg" class="img-fluid mb-2" alt="MG" ></a>
 	<h2>MG</h2>
 	<p>
-	MG har 5 modell(er) med totalt 11 varianter. 
+	MG har 5 modell(er) med totalt 11 varianter.
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Gå til MG modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Neta</h2>
 	<p>
-	Neta har 1 modell(er) med totalt 1 varianter. 
+	Neta har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="neta/" class="btn btn-outline-primary" role="button">Gå til Neta modelloversikt</a>
 </div>
@@ -367,7 +367,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>
 	<h2>Nio</h2>
 	<p>
-	Nio har 6 modell(er) med totalt 7 varianter. 
+	Nio har 6 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="nio/" class="btn btn-outline-primary" role="button">Gå til Nio modelloversikt</a>
 </div>
@@ -375,14 +375,14 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="nissan/"><img src="https://media.evkx.net/multimedia/models/nissan/brandevs_st.jpg" class="img-fluid mb-2" alt="Nissan" ></a>
 	<h2>Nissan</h2>
 	<p>
-	Nissan har 1 modell(er) med totalt 3 varianter. 
+	Nissan har 1 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Gå til Nissan modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Opel</h2>
 	<p>
-	Opel har 1 modell(er) med totalt 1 varianter. 
+	Opel har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="opel/" class="btn btn-outline-primary" role="button">Gå til Opel modelloversikt</a>
 </div>
@@ -390,7 +390,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>
 	<h2>Peugot</h2>
 	<p>
-	Peugot har 3 modell(er) med totalt 3 varianter. 
+	Peugot har 3 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="peugot/" class="btn btn-outline-primary" role="button">Gå til Peugot modelloversikt</a>
 </div>
@@ -398,7 +398,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="polestar/"><img src="https://media.evkx.net/multimedia/models/polestar/brandevs_st.jpg" class="img-fluid mb-2" alt="Polestar" ></a>
 	<h2>Polestar</h2>
 	<p>
-	Polestar har 2 modell(er) med totalt 4 varianter. 
+	Polestar har 2 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="polestar/" class="btn btn-outline-primary" role="button">Gå til Polestar modelloversikt</a>
 </div>
@@ -406,7 +406,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
-	Porsche har 1 modell(er) med totalt 14 varianter. 
+	Porsche har 1 modell(er) med totalt 14 varianter.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå til Porsche modelloversikt</a>
 </div>
@@ -414,14 +414,14 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="renault/"><img src="https://media.evkx.net/multimedia/models/renault/brandevs_st.jpg" class="img-fluid mb-2" alt="Renault" ></a>
 	<h2>Renault</h2>
 	<p>
-	Renault har 2 modell(er) med totalt 2 varianter. 
+	Renault har 2 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Gå til Renault modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Rimac</h2>
 	<p>
-	Rimac har 1 modell(er) med totalt 1 varianter. 
+	Rimac har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="rimac/" class="btn btn-outline-primary" role="button">Gå til Rimac modelloversikt</a>
 </div>
@@ -429,7 +429,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" class="img-fluid mb-2" alt="Rivian" ></a>
 	<h2>Rivian</h2>
 	<p>
-	Rivian har 1 modell(er) med totalt 6 varianter. 
+	Rivian har 1 modell(er) med totalt 6 varianter.
 	</p>
 	<a href="rivian/" class="btn btn-outline-primary" role="button">Gå til Rivian modelloversikt</a>
 </div>
@@ -437,7 +437,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="rolls-royce/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/brandevs_st.jpg" class="img-fluid mb-2" alt="Rolls-Royce" ></a>
 	<h2>Rolls-Royce</h2>
 	<p>
-	Rolls-Royce har 1 modell(er) med totalt 1 varianter. 
+	Rolls-Royce har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="rolls-royce/" class="btn btn-outline-primary" role="button">Gå til Rolls-Royce modelloversikt</a>
 </div>
@@ -445,7 +445,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="seres/"><img src="https://media.evkx.net/multimedia/models/seres/brandevs_st.jpg" class="img-fluid mb-2" alt="Seres" ></a>
 	<h2>Seres</h2>
 	<p>
-	Seres har 1 modell(er) med totalt 1 varianter. 
+	Seres har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="seres/" class="btn btn-outline-primary" role="button">Gå til Seres modelloversikt</a>
 </div>
@@ -453,7 +453,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
 	<p>
-	Skoda har 1 modell(er) med totalt 6 varianter. 
+	Skoda har 1 modell(er) med totalt 6 varianter.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Gå til Skoda modelloversikt</a>
 </div>
@@ -461,7 +461,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="smart/"><img src="https://media.evkx.net/multimedia/models/smart/brandevs_st.jpg" class="img-fluid mb-2" alt="Smart" ></a>
 	<h2>Smart</h2>
 	<p>
-	Smart har 2 modell(er) med totalt 4 varianter. 
+	Smart har 2 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="smart/" class="btn btn-outline-primary" role="button">Gå til Smart modelloversikt</a>
 </div>
@@ -469,7 +469,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="subaru/"><img src="https://media.evkx.net/multimedia/models/subaru/brandevs_st.jpeg" class="img-fluid mb-2" alt="Subaru" ></a>
 	<h2>Subaru</h2>
 	<p>
-	Subaru har 1 modell(er) med totalt 1 varianter. 
+	Subaru har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="subaru/" class="btn btn-outline-primary" role="button">Gå til Subaru modelloversikt</a>
 </div>
@@ -477,7 +477,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="tesla/"><img src="https://media.evkx.net/multimedia/models/tesla/brandevs_st.jpg" class="img-fluid mb-2" alt="Tesla" ></a>
 	<h2>Tesla</h2>
 	<p>
-	Tesla har 5 modell(er) med totalt 16 varianter. 
+	Tesla har 5 modell(er) med totalt 16 varianter.
 	</p>
 	<a href="tesla/" class="btn btn-outline-primary" role="button">Gå til Tesla modelloversikt</a>
 </div>
@@ -485,7 +485,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="toyota/"><img src="https://media.evkx.net/multimedia/models/toyota/brandevs_st.jpg" class="img-fluid mb-2" alt="Toyota" ></a>
 	<h2>Toyota</h2>
 	<p>
-	Toyota har 1 modell(er) med totalt 2 varianter. 
+	Toyota har 1 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="toyota/" class="btn btn-outline-primary" role="button">Gå til Toyota modelloversikt</a>
 </div>
@@ -493,7 +493,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
-	Volkswagen har 5 modell(er) med totalt 15 varianter. 
+	Volkswagen har 5 modell(er) med totalt 15 varianter.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Gå til Volkswagen modelloversikt</a>
 </div>
@@ -501,7 +501,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="volvo/"><img src="https://media.evkx.net/multimedia/models/volvo/brandevs_st.jpg" class="img-fluid mb-2" alt="Volvo" ></a>
 	<h2>Volvo</h2>
 	<p>
-	Volvo har 5 modell(er) med totalt 12 varianter. 
+	Volvo har 5 modell(er) med totalt 12 varianter.
 	</p>
 	<a href="volvo/" class="btn btn-outline-primary" role="button">Gå til Volvo modelloversikt</a>
 </div>
@@ -509,7 +509,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="voyah/"><img src="https://media.evkx.net/multimedia/models/voyah/brandevs_st.jpg" class="img-fluid mb-2" alt="VOYAH" ></a>
 	<h2>VOYAH</h2>
 	<p>
-	VOYAH har 1 modell(er) med totalt 1 varianter. 
+	VOYAH har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Gå til VOYAH modelloversikt</a>
 </div>
@@ -517,7 +517,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" class="img-fluid mb-2" alt="XPENG" ></a>
 	<h2>XPENG</h2>
 	<p>
-	XPENG har 5 modell(er) med totalt 7 varianter. 
+	XPENG har 5 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Gå til XPENG modelloversikt</a>
 </div>
@@ -525,7 +525,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>
 	<h2>Zeekr</h2>
 	<p>
-	Zeekr har 4 modell(er) med totalt 8 varianter. 
+	Zeekr har 4 modell(er) med totalt 8 varianter.
 	</p>
 	<a href="zeekr/" class="btn btn-outline-primary" role="button">Gå til Zeekr modelloversikt</a>
 </div>

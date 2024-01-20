@@ -1,7 +1,7 @@
 ---
 title: Jaguar I-Pace EV400
 linktitle: "I-Pace EV400"
-description: "Jaguar I-Pace EV400 is an all-electric premium SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. "
+description: "Jaguar I-Pace EV400 is an all-electric premium SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

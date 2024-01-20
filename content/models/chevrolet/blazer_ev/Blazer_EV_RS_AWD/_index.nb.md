@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Blazer EV RS AWD
 linktitle: "Blazer EV RS AWD"
-description: "Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km. EVKX.net har alle detaljene. "
+description: "Chevrolet Blazer EV RS AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 449 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -181,7 +181,7 @@ Chevrolet Blazer EV RS AWD har [**automatisk nødbremsing**](../../../../technol
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

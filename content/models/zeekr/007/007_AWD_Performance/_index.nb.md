@@ -1,7 +1,7 @@
 ---
 title: Zeekr 007 AWD Performance
 linktitle: "007 AWD Performance"
-description: "Zeekr 007 AWD Performance er en helelektrisk sedan med en CLTC rekkevidde på opptil 660 km. EVKX.net har alle detaljene. "
+description: "Zeekr 007 AWD Performance er en helelektrisk sedan med en CLTC rekkevidde på opptil 660 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -188,7 +188,7 @@ Zeekr 007 AWD Performance har [**automatisk nødbremsing**](../../../../technolo
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

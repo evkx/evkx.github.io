@@ -1,7 +1,7 @@
 ---
 title: Renault Megane E-Tech Techno
 linktitle: "Megane E-Tech Techno"
-description: "Renault Megane E-Tech Techno is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details. "
+description: "Renault Megane E-Tech Techno is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -154,7 +154,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Renault Megane E-Tech Techno has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 12.0 inches large.
+The Renault Megane E-Tech Techno has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 12.0 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -204,7 +204,7 @@ The Renault Megane E-Tech Techno has [**automatic emergency braking**](../../../
 
 With the ProPILOT  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 

@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 eDrive20
 linktitle: "iX1 eDrive20"
-description: "BMW iX1 eDrive20 is an all-electric premium SUV with a WLTP range of up to 475 km (295 miles). EVKX.net has all the details. "
+description: "BMW iX1 eDrive20 is an all-electric premium SUV with a WLTP range of up to 475 km (295 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -207,7 +207,7 @@ The BMW iX1 eDrive20 has [**automatic emergency braking**](../../../../technolog
 
 With the Driving Assistant Professional  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 

@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range 2WD
 linktitle: "Ioniq 5 Long Range 2WD"
-description: "Hyundai Ioniq 5 Long Range 2WD is an all-electric SUV with a WLTP range of up to 507 km (315 miles). EVKX.net has all the details. "
+description: "Hyundai Ioniq 5 Long Range 2WD is an all-electric SUV with a WLTP range of up to 507 km (315 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -193,8 +193,8 @@ The Hyundai Ioniq 5 Long Range 2WD has [**automatic emergency braking**](../../.
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

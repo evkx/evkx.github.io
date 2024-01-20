@@ -1,7 +1,7 @@
 ---
 title: Volvo EM90
 linktitle: "EM90"
-description: "Volvo EM90 is an all-electric premium MPV with a CLTC range of up to 738 km (459 miles). EVKX.net has all the details. "
+description: "Volvo EM90 is an all-electric premium MPV with a CLTC range of up to 738 km (459 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -202,7 +202,7 @@ The Volvo EM90 has [**automatic emergency braking**](../../../../technology/driv
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

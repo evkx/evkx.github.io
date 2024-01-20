@@ -1,7 +1,7 @@
 ---
 title: Tesla Cybertruck Cyberbeast
 linktitle: "Cybertruck Cyberbeast"
-description: "Tesla Cybertruck Cyberbeast er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km. EVKX.net har alle detaljene. "
+description: "Tesla Cybertruck Cyberbeast er en helelektrisk pickup med en EPA rekkevidde på opptil 515 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -151,7 +151,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Cybertruck Cyberbeast har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum  er 18.5 tommer stor.
+Tesla Cybertruck Cyberbeast har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 18.5 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -201,18 +201,18 @@ Tesla Cybertruck Cyberbeast tilbyr [kjøreautomatisering på nivå 2 eller 3](..
 
 Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 Med Enhanced Autopilot  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet. 
+- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- Trafikklyskontroll - følg trafikklysene. 
-- Stoppskiltkontroll - følg stoppskilt. 
+- Trafikklyskontroll - følg trafikklysene.
+- Stoppskiltkontroll - følg stoppskilt.
 
 
 {{<evkxdisplayaddarticle />}}

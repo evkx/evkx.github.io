@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQB 250
 linktitle: "EQB 250"
-description: "Mercedes-EQ EQB 250 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 474 km. EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQB 250 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 474 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

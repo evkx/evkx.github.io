@@ -1,7 +1,7 @@
 ---
 title: MG Cyberster AWD Long Range
 linktitle: "Cyberster AWD Long Range"
-description: "MG Cyberster AWD Long Range er en helelektrisk cabriolet med en CLTC rekkevidde på opptil 520 km. EVKX.net har alle detaljene. "
+description: "MG Cyberster AWD Long Range er en helelektrisk cabriolet med en CLTC rekkevidde på opptil 520 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -123,7 +123,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen  er 8.0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 10.0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 8.0 tommer stor. touch-skjermen i midten av midtkonsollen er 7.0 tommer stor.
+På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen er 8.0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 10.0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 8.0 tommer stor. touch-skjermen i midten av midtkonsollen er 7.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -161,7 +161,7 @@ MG Cyberster AWD Long Range har et [**kjørefeltassistent**](../../../../technol
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

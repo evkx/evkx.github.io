@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive
 linktitle: "i5 M60 xDrive"
-description: "BMW i5 M60 xDrive is an all-electric premium sedan with a WLTP range of up to 515 km (320 miles). EVKX.net has all the details. "
+description: "BMW i5 M60 xDrive is an all-electric premium sedan with a WLTP range of up to 515 km (320 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -228,7 +228,7 @@ With the Driving Assistant  level 1 system, you get the following driving automa
 
 With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

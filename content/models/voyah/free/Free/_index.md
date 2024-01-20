@@ -1,7 +1,7 @@
 ---
 title: VOYAH FREE
 linktitle: "FREE"
-description: "VOYAH FREE is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details. "
+description: "VOYAH FREE is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -131,7 +131,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The  screen in the dashboard's center  is 12.3 inches large. The  screen in front of the passenger in the dashboard is 12.3 inches large.
+The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The  screen in the dashboard's center is 12.3 inches large. The  screen in front of the passenger in the dashboard is 12.3 inches large.
 The model does not have a head-up display.
 
 
@@ -167,7 +167,7 @@ The VOYAH FREE has a [**lane-keeping assist**](../../../../technology/driverassi
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

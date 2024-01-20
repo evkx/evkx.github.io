@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Performance
 linktitle: "Model Y Performance"
-description: "Tesla Model Y Performance er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km. EVKX.net har alle detaljene. "
+description: "Tesla Model Y Performance er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 514 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -159,7 +159,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Model Y Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum  er 15.0 tommer stor og har en oppløsning på 2200 x 1300 piksler.
+Tesla Model Y Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 15.0 tommer stor og har en oppløsning på 2200 x 1300 piksler.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -205,18 +205,18 @@ Tesla Model Y Performance tilbyr [kjøreautomatisering på nivå 2 eller 3](../.
 
 Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 Med Enhanced Autopilot  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet. 
+- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- Trafikklyskontroll - følg trafikklysene. 
-- Stoppskiltkontroll - følg stoppskilt. 
+- Trafikklyskontroll - følg trafikklysene.
+- Stoppskiltkontroll - følg stoppskilt.
 
 
 {{<evkxdisplayaddarticle />}}

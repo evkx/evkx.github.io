@@ -1,7 +1,7 @@
 ---
 title: MG MG5 Electric Standard Range
 linktitle: "MG5 Electric Standard Range"
-description: "MG MG5 Electric Standard Range is an all-electric station wagon with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details. "
+description: "MG MG5 Electric Standard Range is an all-electric station wagon with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -173,7 +173,7 @@ The MG MG5 Electric Standard Range has a [**lane-keeping assist**](../../../../t
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

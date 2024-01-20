@@ -1,7 +1,7 @@
 ---
 title: Genesis GV60 AWD Performance
 linktitle: "GV60 AWD Performance"
-description: "Genesis GV60 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene. "
+description: "Genesis GV60 AWD Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -185,8 +185,8 @@ Genesis GV60 AWD Performance har [**automatisk nødbremsing**](../../../../techn
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

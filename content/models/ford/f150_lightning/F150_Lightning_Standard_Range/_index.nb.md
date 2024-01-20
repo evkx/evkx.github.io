@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Standard Range
 linktitle: "F150 Lightning Standard Range"
-description: "Ford F150 Lightning Standard Range er en helelektrisk pickup med en WLTP rekkevidde på opptil 427 km. EVKX.net har alle detaljene. "
+description: "Ford F150 Lightning Standard Range er en helelektrisk pickup med en WLTP rekkevidde på opptil 427 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -138,9 +138,9 @@ Ford F150 Lightning Standard Range har flere funksjoner for å gjøre livet ditt
 
 To forskjellige skjermoppsett er tilgjengelige på Ford F150 Lightning Standard Range.
 
-Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. -skjermen i dashbordets sentrum  er 12.0 tommer stor.
+Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. -skjermen i dashbordets sentrum er 12.0 tommer stor.
 
-Det valgfrie -oppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. -skjermen i dashbordets sentrum  er 15.5 tommer stor.
+Det valgfrie -oppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. -skjermen i dashbordets sentrum er 15.5 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -194,8 +194,8 @@ Med Ford Co-Pilot360™ Assist 2.0  nivå 2-systemet får du flere kjøreautomat
 
 
 Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

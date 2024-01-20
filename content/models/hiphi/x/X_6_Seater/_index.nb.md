@@ -1,7 +1,7 @@
 ---
 title: HiPhi X 6 Seater
 linktitle: "X 6 Seater"
-description: "HiPhi X 6 Seater er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene. "
+description: "HiPhi X 6 Seater er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -211,7 +211,7 @@ HiPhi X 6 Seater har [**automatisk nødbremsing**](../../../../technology/driver
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 

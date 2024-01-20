@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 N
 linktitle: "Ioniq 5 N"
-description: "Hyundai Ioniq 5 N is an all-electric SUV with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details. "
+description: "Hyundai Ioniq 5 N is an all-electric SUV with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -180,8 +180,8 @@ The Hyundai Ioniq 5 N has [**automatic emergency braking**](../../../../technolo
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

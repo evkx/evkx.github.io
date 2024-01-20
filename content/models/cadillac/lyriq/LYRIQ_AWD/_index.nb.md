@@ -1,7 +1,7 @@
 ---
 title: Cadillac LYRIQ AWD
 linktitle: "LYRIQ AWD"
-description: "Cadillac LYRIQ AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 494 km. EVKX.net har alle detaljene. "
+description: "Cadillac LYRIQ AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 494 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -184,7 +184,7 @@ Cadillac LYRIQ AWD har [**automatisk nødbremsing**](../../../../technology/driv
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

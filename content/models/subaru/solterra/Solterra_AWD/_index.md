@@ -1,7 +1,7 @@
 ---
 title: Subaru Solterra AWD
 linktitle: "Solterra AWD"
-description: "Subaru Solterra AWD is an all-electric SUV with a WLTP range of up to 466 km (290 miles). EVKX.net has all the details. "
+description: "Subaru Solterra AWD is an all-electric SUV with a WLTP range of up to 466 km (290 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

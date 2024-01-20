@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Sport
 linktitle: "Ocean Sport"
-description: "Fisker Ocean Sport is an all-electric SUV with a WLTP range of up to 464 km (288 miles). EVKX.net has all the details. "
+description: "Fisker Ocean Sport is an all-electric SUV with a WLTP range of up to 464 km (288 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -187,7 +187,7 @@ The Fisker Ocean Sport has [**automatic emergency braking**](../../../../technol
 
 With the Fisker Intelligent Pilot  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

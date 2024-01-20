@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 GT
 linktitle: "EV6 GT"
-description: "Kia EV6 GT is an all-electric coupe SUV with a WLTP range of up to 424 km (264 miles). EVKX.net has all the details. "
+description: "Kia EV6 GT is an all-electric coupe SUV with a WLTP range of up to 424 km (264 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -192,7 +192,7 @@ The Kia EV6 GT has [**automatic emergency braking**](../../../../technology/driv
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

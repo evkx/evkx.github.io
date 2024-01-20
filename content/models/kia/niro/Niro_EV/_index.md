@@ -1,7 +1,7 @@
 ---
 title: Kia Niro EV
 linktitle: "Niro EV"
-description: "Kia Niro EV is an all-electric crossover with a WLTP range of up to 463 km (288 miles). EVKX.net has all the details. "
+description: "Kia Niro EV is an all-electric crossover with a WLTP range of up to 463 km (288 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -185,7 +185,7 @@ The Kia Niro EV has [**automatic emergency braking**](../../../../technology/dri
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

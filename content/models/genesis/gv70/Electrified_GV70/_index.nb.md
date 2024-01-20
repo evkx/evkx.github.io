@@ -1,7 +1,7 @@
 ---
 title: Genesis Electrified GV70
 linktitle: "Electrified GV70"
-description: "Genesis Electrified GV70 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene. "
+description: "Genesis Electrified GV70 er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 470 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -139,7 +139,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 8.0 tommer stor. touch-skjermen i dashbordets sentrum  er 14.9 tommer stor. touch-skjermen nederst på midtkonsollen er 5.0 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 8.0 tommer stor. touch-skjermen i dashbordets sentrum er 14.9 tommer stor. touch-skjermen nederst på midtkonsollen er 5.0 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -185,8 +185,8 @@ Genesis Electrified GV70 har [**automatisk nødbremsing**](../../../../technolog
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

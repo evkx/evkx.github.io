@@ -226,7 +226,7 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 Med Assistantpackage Tour  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
-- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

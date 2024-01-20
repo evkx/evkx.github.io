@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Long Range RWD
 linktitle: "001 Long Range RWD"
-description: "Zeekr 001 Long Range RWD is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net has all the details. "
+description: "Zeekr 001 Long Range RWD is an all-electric station wagon with a WLTP range of up to 590 km (367 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -186,7 +186,7 @@ The Zeekr 001 Long Range RWD has [**automatic emergency braking**](../../../../t
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

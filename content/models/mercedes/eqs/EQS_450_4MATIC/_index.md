@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 450 4MATIC
 linktitle: "EQS 450 4MATIC"
-description: "Mercedes-EQ EQS 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 696 km (433 miles). EVKX.net has all the details. "
+description: "Mercedes-EQ EQS 450 4MATIC is an all-electric luxury sedan with a WLTP range of up to 696 km (433 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -237,11 +237,11 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 
 With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above.
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

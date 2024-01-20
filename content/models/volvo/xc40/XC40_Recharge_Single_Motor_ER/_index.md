@@ -1,7 +1,7 @@
 ---
 title: Volvo XC40 Recharge Single Motor ER
 linktitle: "XC40 Recharge Single Motor ER"
-description: "Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net has all the details. "
+description: "Volvo XC40 Recharge Single Motor ER is an all-electric crossover with a WLTP range of up to 572 km (356 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -174,7 +174,7 @@ The Volvo XC40 Recharge Single Motor ER has [**automatic emergency braking**](..
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

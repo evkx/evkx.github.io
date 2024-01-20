@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD
 linktitle: "bZ4X AWD"
-description: "Toyota bZ4X AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details. "
+description: "Toyota bZ4X AWD is an all-electric SUV with a WLTP range of up to 470 km (292 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

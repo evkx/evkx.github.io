@@ -1,7 +1,7 @@
 ---
 title: MG Marvel R Electric Performance
 linktitle: "Marvel R Electric Performance"
-description: "MG Marvel R Electric Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 370 km. EVKX.net har alle detaljene. "
+description: "MG Marvel R Electric Performance er en helelektrisk SUV med en WLTP rekkevidde på opptil 370 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -175,7 +175,7 @@ MG Marvel R Electric Performance har et [**kjørefeltassistent**](../../../../te
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

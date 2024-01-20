@@ -1,7 +1,7 @@
 ---
 title: Neta GT 580 AWD
 linktitle: "GT 580 AWD"
-description: "Neta GT 580 AWD is an all-electric coupe with a CLTC range of up to 580 km (361 miles). EVKX.net has all the details. "
+description: "Neta GT 580 AWD is an all-electric coupe with a CLTC range of up to 580 km (361 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

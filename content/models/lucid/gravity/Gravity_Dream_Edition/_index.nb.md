@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Dream Edition
 linktitle: "Gravity Dream Edition"
-description: "Lucid Gravity Dream Edition er en helelektrisk SUV med en EPA rekkevidde på opptil 708 km. EVKX.net har alle detaljene. "
+description: "Lucid Gravity Dream Edition er en helelektrisk SUV med en EPA rekkevidde på opptil 708 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -209,7 +209,7 @@ Lucid Gravity Dream Edition har et [**kjørefeltassistent**](../../../../technol
 
 Med ADAS  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

@@ -1,7 +1,7 @@
 ---
 title: Fiat 600e
 linktitle: "600e"
-description: "Fiat 600e is an all-electric crossover with a WLTP range of up to 409 km (254 miles). EVKX.net has all the details. "
+description: "Fiat 600e is an all-electric crossover with a WLTP range of up to 409 km (254 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -137,7 +137,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 10.3 inches large.
+The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 10.3 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

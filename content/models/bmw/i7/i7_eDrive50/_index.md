@@ -1,7 +1,7 @@
 ---
 title: BMW i7 eDrive50
 linktitle: "i7 eDrive50"
-description: "BMW i7 eDrive50 is an all-electric luxury sedan with a WLTP range of up to 611 km (380 miles). EVKX.net has all the details. "
+description: "BMW i7 eDrive50 is an all-electric luxury sedan with a WLTP range of up to 611 km (380 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -227,7 +227,7 @@ With the Driving Assistant  level 1 system, you get the following driving automa
 
 With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

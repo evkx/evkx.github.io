@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Extreme
 linktitle: "Ocean Extreme"
-description: "Fisker Ocean Extreme is an all-electric SUV with a WLTP range of up to 707 km (439 miles). EVKX.net has all the details. "
+description: "Fisker Ocean Extreme is an all-electric SUV with a WLTP range of up to 707 km (439 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -202,7 +202,7 @@ The Fisker Ocean Extreme has [**automatic emergency braking**](../../../../techn
 
 With the Fisker Intelligent Pilot  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 

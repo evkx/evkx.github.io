@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Performance Dual-Motor AWD MP
 linktitle: "R1S Performance Dual-Motor AWD MP"
-description: "Rivian R1S Performance Dual-Motor AWD MP is an all-electric SUV with a EPA range of up to 660 km (410 miles). EVKX.net has all the details. "
+description: "Rivian R1S Performance Dual-Motor AWD MP is an all-electric SUV with a EPA range of up to 660 km (410 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -196,7 +196,7 @@ The Rivian R1S Performance Dual-Motor AWD MP has [**automatic emergency braking*
 
 With the Driver+  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

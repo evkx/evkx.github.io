@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Sapphire
 linktitle: "Air Sapphire"
-description: "Lucid Air Sapphire is an all-electric sedan with a EPA range of up to 687 km (427 miles). EVKX.net has all the details. "
+description: "Lucid Air Sapphire is an all-electric sedan with a EPA range of up to 687 km (427 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -150,7 +150,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The touch screen in the left side of the shared frame  is 8.0 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14.0 inches large. The touch screen at the right part of the shared frame is 12.0 inches large. The touch screen in the middle of the center console is 12.0 inches large.
+On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The touch screen in the left side of the shared frame is 8.0 inches large. The  screen behind the steering wheel in the middle of the shared frame is 14.0 inches large. The touch screen at the right part of the shared frame is 12.0 inches large. The touch screen in the middle of the center console is 12.0 inches large.
 The model does not have a head-up display.
 
 
@@ -196,7 +196,7 @@ The Lucid Air Sapphire has a [**lane-keeping assist**](../../../../technology/dr
 
 With the ADAS  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

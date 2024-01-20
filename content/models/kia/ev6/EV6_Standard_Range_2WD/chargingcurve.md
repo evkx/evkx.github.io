@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Standard Range 2WD charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Kia EV6 Standard Range 2WD. "
+description: "Here you find the charging curve for Kia EV6 Standard Range 2WD."
 weight: 10
 hidden: true
 navicon: bi-battery-charging
@@ -15,7 +15,7 @@ navicon: bi-battery-charging
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>76,8 kW</td>
+<td>Average charging speed 0 - 100%</td><td>76,8 kW</td>
 </tr>
 <tr>
 <td>Average charging speed 10-100%</td><td>75,6 kW</td>
@@ -45,10 +45,10 @@ navicon: bi-battery-charging
 </table>
 
 
-The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
+The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
 
 
-Kia EV6 Standard Range 2WD have battery heating, making charging at an optimum battery temperature easier. 
+Kia EV6 Standard Range 2WD have battery heating, making charging at an optimum battery temperature easier.
 
 
 {{<evkxdisplayaddarticle />}}

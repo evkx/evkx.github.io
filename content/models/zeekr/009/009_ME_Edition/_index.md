@@ -1,7 +1,7 @@
 ---
 title: Zeekr 009 ME Edition
 linktitle: "009 ME Edition"
-description: "Zeekr 009 ME Edition is an all-electric premium MPV with a CLTC range of up to 822 km (511 miles). EVKX.net has all the details. "
+description: "Zeekr 009 ME Edition is an all-electric premium MPV with a CLTC range of up to 822 km (511 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -193,7 +193,7 @@ The Zeekr 009 ME Edition has [**automatic emergency braking**](../../../../techn
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

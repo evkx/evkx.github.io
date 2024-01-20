@@ -194,7 +194,7 @@ Genesis GV60 2WD har [**automatisk nödbroms**](../../../../technology/driverass
 Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
-- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

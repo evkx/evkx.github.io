@@ -1,7 +1,7 @@
 ---
 title: Renault Scenic E-Tech electric High Range
 linktitle: "Scenic E-Tech electric High Range"
-description: "Renault Scenic E-Tech electric High Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene. "
+description: "Renault Scenic E-Tech electric High Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -199,7 +199,7 @@ Renault Scenic E-Tech electric High Range har [**automatisk nødbremsing**](../.
 
 Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 

@@ -1,7 +1,7 @@
 ---
 title: XPENG X9 AWD Performance
 linktitle: "X9 AWD Performance"
-description: "XPENG X9 AWD Performance is an all-electric MPV with a CLTC range of up to 640 km (398 miles). EVKX.net has all the details. "
+description: "XPENG X9 AWD Performance is an all-electric MPV with a CLTC range of up to 640 km (398 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -151,7 +151,7 @@ XPENG X9 AWD Performance has several features to make your life as a driver or p
 
 ## User interface and control
 
-The XPENG X9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 15.0 inches large.
+The XPENG X9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 15.0 inches large.
 The model does not have a head-up display.
 
 
@@ -197,10 +197,10 @@ The XPENG X9 AWD Performance has [**automatic emergency braking**](../../../../t
 
 With the XPILOT  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- Advance cruise control that follows navigation and turns off and on major roads to reach the target. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

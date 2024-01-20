@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ RS iV
 linktitle: "ENYAQ RS iV"
-description: "SKODA ENYAQ RS iV er en helelektrisk SUV med en WLTP rekkevidde på opptil 514 km. EVKX.net har alle detaljene. "
+description: "SKODA ENYAQ RS iV er en helelektrisk SUV med en WLTP rekkevidde på opptil 514 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -139,7 +139,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-SKODA ENYAQ RS iV har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.3 tommer stor. touch-skjermen i dashbordets sentrum  er 13.0 tommer stor.
+SKODA ENYAQ RS iV har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.3 tommer stor. touch-skjermen i dashbordets sentrum er 13.0 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
@@ -183,7 +183,7 @@ SKODA ENYAQ RS iV har [**automatisk nødbremsing**](../../../../technology/drive
 
 Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 

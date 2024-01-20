@@ -1,7 +1,7 @@
 ---
 title: Nio ES8 charging curve & performance
 linktitle: "Charging curve"
-description: "Here you find the charging curve for Nio ES8. "
+description: "Here you find the charging curve for Nio ES8."
 weight: 10
 hidden: true
 navicon: bi-battery-charging
@@ -19,7 +19,7 @@ This model is available with multiple batteries. Below you find the performance 
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>65,3 kW</td>
+<td>Average charging speed 0 - 100%</td><td>65,3 kW</td>
 </tr>
 <tr>
 <td>Average charging speed 10-100%</td><td>66,5 kW</td>
@@ -49,10 +49,10 @@ This model is available with multiple batteries. Below you find the performance 
 </table>
 
 
-The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
+The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
 
 
-Nio ES8 have battery heating, making charging at an optimum battery temperature easier. 
+Nio ES8 have battery heating, making charging at an optimum battery temperature easier.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -377,7 +377,7 @@ Nio ES8 have battery heating, making charging at an optimum battery temperature 
 <table class="table table-striped">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100% </td><td>65,3 kW</td>
+<td>Average charging speed 0 - 100%</td><td>65,3 kW</td>
 </tr>
 <tr>
 <td>Average charging speed 10-100%</td><td>66,5 kW</td>
@@ -407,10 +407,10 @@ Nio ES8 have battery heating, making charging at an optimum battery temperature 
 </table>
 
 
-The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/) 
+The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
 
 
-Nio ES8 have battery heating, making charging at an optimum battery temperature easier. 
+Nio ES8 have battery heating, making charging at an optimum battery temperature easier.
 
 
 {{<evkxdisplayaddarticle />}}

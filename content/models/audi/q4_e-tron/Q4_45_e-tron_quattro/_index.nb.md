@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 45 e-tron quattro
 linktitle: "Q4 45 e-tron quattro"
-description: "Audi Q4 45 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 512 km. EVKX.net har alle detaljene. "
+description: "Audi Q4 45 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 512 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -229,8 +229,8 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

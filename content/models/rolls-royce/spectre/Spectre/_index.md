@@ -1,7 +1,7 @@
 ---
 title: Rolls-Royce Spectre
 linktitle: "Spectre"
-description: "Rolls-Royce Spectre is an all-electric luxury sedan with a WLTP range of up to 530 km (329 miles). EVKX.net has all the details. "
+description: "Rolls-Royce Spectre is an all-electric luxury sedan with a WLTP range of up to 530 km (329 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -211,7 +211,7 @@ The Rolls-Royce Spectre has [**automatic emergency braking**](../../../../techno
 
 With the Driving Assistant Professional  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 

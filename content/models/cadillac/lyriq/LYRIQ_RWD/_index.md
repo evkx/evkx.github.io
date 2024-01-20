@@ -1,7 +1,7 @@
 ---
 title: Cadillac LYRIQ RWD
 linktitle: "LYRIQ RWD"
-description: "Cadillac LYRIQ RWD is an all-electric SUV with a EPA range of up to 502 km (312 miles). EVKX.net has all the details. "
+description: "Cadillac LYRIQ RWD is an all-electric SUV with a EPA range of up to 502 km (312 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -138,7 +138,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The Cadillac LYRIQ RWD has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen behind the steering wheel accross the the center of the dash  is 33.0 inches large.
+The Cadillac LYRIQ RWD has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen behind the steering wheel accross the the center of the dash is 33.0 inches large.
 The model does not have a head-up display.
 
 
@@ -184,7 +184,7 @@ The Cadillac LYRIQ RWD has [**automatic emergency braking**](../../../../technol
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

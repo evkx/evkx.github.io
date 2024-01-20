@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 55
 linktitle: "e-tron 55"
-description: "Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). EVKX.net has all the details. "
+description: "Audi e-tron 55 is an all-electric luxury SUV with a WLTP range of up to 441 km (274 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -294,7 +294,7 @@ With the   level 1 system, you get the following driving automation features.
 
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

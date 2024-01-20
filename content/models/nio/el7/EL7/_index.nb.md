@@ -1,7 +1,7 @@
 ---
 title: Nio EL7
 linktitle: "EL7"
-description: "Nio EL7 er en helelektrisk SUV med en WLTP rekkevidde på opptil 513 km. EVKX.net har alle detaljene. "
+description: "Nio EL7 er en helelektrisk SUV med en WLTP rekkevidde på opptil 513 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -223,8 +223,8 @@ Med NIO Pilot Selected Pack  nivå 1-systemet får du følgende kjøreautomatise
 
 
 Med NIO Pilot Complete Pack  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet.
 
 
 {{<evkxdisplayaddarticle />}}

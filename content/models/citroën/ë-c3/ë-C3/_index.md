@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3
 linktitle: "ë-C3"
-description: "Citroën ë-C3 is an all-electric crossover with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details. "
+description: "Citroën ë-C3 is an all-electric crossover with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

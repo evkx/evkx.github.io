@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Single Motor
 linktitle: "2 Long Range Single Motor"
-description: "Polestar 2 Long Range Single Motor is an all-electric sedan with a WLTP range of up to 635 km (395 miles). EVKX.net has all the details. "
+description: "Polestar 2 Long Range Single Motor is an all-electric sedan with a WLTP range of up to 635 km (395 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -182,7 +182,7 @@ The Polestar 2 Long Range Single Motor has [**automatic emergency braking**](../
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

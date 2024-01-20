@@ -1,7 +1,7 @@
 ---
 title: Zeekr 001 Privilege AWD
 linktitle: "001 Privilege AWD"
-description: "Zeekr 001 Privilege AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km. EVKX.net har alle detaljene. "
+description: "Zeekr 001 Privilege AWD er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 580 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -188,7 +188,7 @@ Zeekr 001 Privilege AWD har [**automatisk nødbremsing**](../../../../technology
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 {{<evkxdisplayaddarticle />}}

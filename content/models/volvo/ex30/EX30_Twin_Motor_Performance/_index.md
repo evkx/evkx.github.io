@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Twin Motor Performance
 linktitle: "EX30 Twin Motor Performance"
-description: "Volvo EX30 Twin Motor Performance is an all-electric crossover with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. "
+description: "Volvo EX30 Twin Motor Performance is an all-electric crossover with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Volvo EX30 Twin Motor Performance has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 12.3 inches large.
+The Volvo EX30 Twin Motor Performance has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center is 12.3 inches large.
 The model does not have a head-up display.
 
 
@@ -188,9 +188,9 @@ The Volvo EX30 Twin Motor Performance has [**automatic emergency braking**](../.
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

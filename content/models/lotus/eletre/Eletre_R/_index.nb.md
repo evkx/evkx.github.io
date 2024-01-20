@@ -1,7 +1,7 @@
 ---
 title: Lotus Eletre R
 linktitle: "Eletre R"
-description: "Lotus Eletre R er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene. "
+description: "Lotus Eletre R er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 460 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -154,7 +154,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum  er 15.1 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum er 15.1 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -210,9 +210,9 @@ Lotus Eletre R har [**automatisk nødbremsing**](../../../../technology/driveras
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

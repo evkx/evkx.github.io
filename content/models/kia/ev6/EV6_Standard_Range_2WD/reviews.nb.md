@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Standard Range 2WD tester
 linktitle: "Tester"
-description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen. "
+description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen."
 weight: 80
 hidden: true
 navicon: bi-person-video2

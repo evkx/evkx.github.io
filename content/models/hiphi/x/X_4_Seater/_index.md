@@ -1,7 +1,7 @@
 ---
 title: HiPhi X 4 Seater
 linktitle: "X 4 Seater"
-description: "HiPhi X 4 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details. "
+description: "HiPhi X 4 Seater is an all-electric luxury SUV with a WLTP range of up to 460 km (286 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -208,7 +208,7 @@ The HiPhi X 4 Seater has [**automatic emergency braking**](../../../../technolog
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 

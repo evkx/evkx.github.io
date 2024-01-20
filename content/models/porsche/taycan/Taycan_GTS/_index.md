@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan GTS
 linktitle: "Taycan GTS"
-description: "Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 504 km (313 miles). EVKX.net has all the details. "
+description: "Porsche Taycan GTS is an all-electric luxury sedan with a WLTP range of up to 504 km (313 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -243,7 +243,7 @@ With the   level 1 system, you get the following driving automation features.
 
 
 With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

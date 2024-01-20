@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Standard Range
 linktitle: "Model Y Standard Range"
-description: "Tesla Model Y Standard Range is an all-electric coupe SUV with a WLTP range of up to 430 km (267 miles). EVKX.net has all the details. "
+description: "Tesla Model Y Standard Range is an all-electric coupe SUV with a WLTP range of up to 430 km (267 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -180,7 +180,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Tesla Model Y Standard Range has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 15.0 inches large and has a 2200 x 1300 pixels resolution.
+The Tesla Model Y Standard Range has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center is 15.0 inches large and has a 2200 x 1300 pixels resolution.
 The model does not have a head-up display.
 
 
@@ -226,18 +226,18 @@ The Tesla Model Y Standard Range offers [driving automation on level 2 or 3](../
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
-- Advance cruise control that follows navigation and turns off and on major roads to reach the target. 
+- Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
-- Traffic light control - follow traffic lights. 
-- Stop sign control - follow stop signs. 
+- Traffic light control - follow traffic lights.
+- Stop sign control - follow stop signs.
 
 
 {{<evkxdisplayaddarticle />}}

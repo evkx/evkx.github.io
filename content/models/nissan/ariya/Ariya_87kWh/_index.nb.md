@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh
 linktitle: "Ariya 87kWh"
-description: "Nissan Ariya 87kWh er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 533 km. EVKX.net har alle detaljene. "
+description: "Nissan Ariya 87kWh er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 533 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -187,7 +187,7 @@ Nissan Ariya 87kWh har [**automatisk nødbremsing**](../../../../technology/driv
 
 Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 

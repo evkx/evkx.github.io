@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV 4WT
 linktitle: "Silverado EV 4WT"
-description: "Chevrolet Silverado EV 4WT er en helelektrisk pickup med en EPA rekkevidde på opptil 724 km. EVKX.net har alle detaljene. "
+description: "Chevrolet Silverado EV 4WT er en helelektrisk pickup med en EPA rekkevidde på opptil 724 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -146,7 +146,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Chevrolet Silverado EV 4WT har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i dashbordets sentrum  er 11.0 tommer stor og har en oppløsning på 1888x1728 piksler.
+Chevrolet Silverado EV 4WT har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i dashbordets sentrum er 11.0 tommer stor og har en oppløsning på 1888x1728 piksler.
 Modellen er ikke tilgjengelig med head-up display.
 
 

@@ -1,7 +1,7 @@
 ---
 title: BMW iX3
 linktitle: "iX3"
-description: "BMW iX3 is an all-electric premium SUV with a WLTP range of up to 461 km (287 miles). EVKX.net has all the details. "
+description: "BMW iX3 is an all-electric premium SUV with a WLTP range of up to 461 km (287 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -150,7 +150,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The touch screen on the dashboard's center  is 12.3 inches large.
+The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The touch screen on the dashboard's center is 12.3 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -194,7 +194,7 @@ The BMW iX3 has [**automatic emergency braking**](../../../../technology/drivera
 
 With the Driving Assistant Professional  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 

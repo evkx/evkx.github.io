@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 6 Long Range AWD
 linktitle: "Ioniq 6 Long Range AWD"
-description: "Hyundai Ioniq 6 Long Range AWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 583 km. EVKX.net har alle detaljene. "
+description: "Hyundai Ioniq 6 Long Range AWD er en helelektrisk sedan med en WLTP rekkevidde på opptil 583 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -189,8 +189,8 @@ Hyundai Ioniq 6 Long Range AWD har [**automatisk nødbremsing**](../../../../tec
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

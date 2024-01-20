@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 580 4MATIC SUV
 linktitle: "EQS 580 4MATIC SUV"
-description: "Mercedes-EQ EQS 580 4MATIC SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene. "
+description: "Mercedes-EQ EQS 580 4MATIC SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -237,11 +237,11 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 
 
 Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 
 Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
-- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

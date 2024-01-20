@@ -1,7 +1,7 @@
 ---
 title: Nio ET5 Touring
 linktitle: "ET5 Touring"
-description: "Nio ET5 Touring is an all-electric station wagon with a WLTP range of up to 560 km (348 miles). EVKX.net has all the details. "
+description: "Nio ET5 Touring is an all-electric station wagon with a WLTP range of up to 560 km (348 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -215,8 +215,8 @@ With the NIO Pilot Selected Pack  level 1 system, you get the following driving 
 
 
 With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- Advance cruise control that follows navigation and turns off and on major roads to reach the target. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 
 
 {{<evkxdisplayaddarticle />}}

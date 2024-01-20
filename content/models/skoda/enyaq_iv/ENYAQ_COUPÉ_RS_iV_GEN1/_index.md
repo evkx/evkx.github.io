@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ RS iV (GEN1)
 linktitle: "ENYAQ COUPÉ RS iV GEN1"
-description: "SKODA ENYAQ COUPÉ RS iV (GEN1) is an all-electric coupe SUV with a WLTP range of up to 514 km (320 miles). EVKX.net has all the details. "
+description: "SKODA ENYAQ COUPÉ RS iV (GEN1) is an all-electric coupe SUV with a WLTP range of up to 514 km (320 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -157,7 +157,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The SKODA ENYAQ COUPÉ RS iV (GEN1) has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.3 inches large. The touch screen on the dashboard's center  is 13.0 inches large.
+The SKODA ENYAQ COUPÉ RS iV (GEN1) has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.3 inches large. The touch screen on the dashboard's center is 13.0 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -205,7 +205,7 @@ The SKODA ENYAQ COUPÉ RS iV (GEN1) has [**automatic emergency braking**](../../
 
 With the MAX  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 

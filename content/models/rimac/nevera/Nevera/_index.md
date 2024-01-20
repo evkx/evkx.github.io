@@ -1,7 +1,7 @@
 ---
 title: Rimac Nevera
 linktitle: "Nevera"
-description: "Rimac Nevera is an all-electric luxury hypercar with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details. "
+description: "Rimac Nevera is an all-electric luxury hypercar with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -176,7 +176,7 @@ The Rimac Nevera has a [**lane-keeping assist**](../../../../technology/driveras
 
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

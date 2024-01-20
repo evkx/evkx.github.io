@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90 Twin Motor Performance
 linktitle: "EX90 Twin Motor Performance"
-description: "Volvo EX90 Twin Motor Performance is an all-electric SUV with a WLTP range of up to 580 km (361 miles). EVKX.net has all the details. "
+description: "Volvo EX90 Twin Motor Performance is an all-electric SUV with a WLTP range of up to 580 km (361 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -199,7 +199,7 @@ The Volvo EX90 Twin Motor Performance has [**automatic emergency braking**](../.
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

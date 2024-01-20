@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Standard Range
 linktitle: "F150 Lightning Standard Range"
-description: "Ford F150 Lightning Standard Range is an all-electric Pickup Truck with a WLTP range of up to 427 km (265 miles). EVKX.net has all the details. "
+description: "Ford F150 Lightning Standard Range is an all-electric Pickup Truck with a WLTP range of up to 427 km (265 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -138,9 +138,9 @@ Ford F150 Lightning Standard Range has several features to make your life as a d
 
 Two different screen setups are available on the Ford F150 Lightning Standard Range.
 
-The standard layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The  screen on the dashboard's center  is 12.0 inches large.
+The standard layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The  screen on the dashboard's center is 12.0 inches large.
 
-The optional  layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The  screen on the dashboard's center  is 15.5 inches large.
+The optional  layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The  screen on the dashboard's center is 15.5 inches large.
 The model does not have a head-up display.
 
 
@@ -194,8 +194,8 @@ With the Ford Co-Pilot360™ Assist 2.0  level 2 system, you get additional driv
 
 
 With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/) 
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}
