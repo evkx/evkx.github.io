@@ -130,7 +130,7 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+Den tredje raden har en tresitsig bänk med en 60:40-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
 Det finns bara en typ av ratt tillgänglig.
 

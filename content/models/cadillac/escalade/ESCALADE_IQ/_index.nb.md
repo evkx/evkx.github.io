@@ -130,7 +130,7 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+Den tredje raden har en tre-seters benk med en 60:40 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig.
 

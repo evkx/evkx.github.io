@@ -76,7 +76,7 @@ Dessutom kan du välja mellan 2 hjul i storlek från 18 till 20 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ElectricCurtain
+Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna fronten del. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för passageraren. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 

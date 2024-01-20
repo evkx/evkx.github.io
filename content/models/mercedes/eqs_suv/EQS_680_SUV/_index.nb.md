@@ -78,7 +78,7 @@ I tillegg kan du velge mellom 4 hjul med størrelser fra 21 til 22 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFrontOpen.ElectricCurtain
+Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}

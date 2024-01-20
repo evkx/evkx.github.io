@@ -75,7 +75,7 @@ Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [delt bakluke](../../../../technology/doors/#split-bakluke) der den nederste delen faller og den øvre delen løftes.
 
-Det er bare ett tak for denne modellen. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.TonedGlass
+Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne fronten del. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til passasjeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 Vutene fra B-stolpen og baksiden er tonet.
 

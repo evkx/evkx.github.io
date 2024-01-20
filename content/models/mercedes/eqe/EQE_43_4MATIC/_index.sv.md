@@ -82,7 +82,7 @@ Dessutom kan du välja mellan 4 hjul i storlek från 20 till 21 tum.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 
-Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFrontOpen.ElectricCurtain
+Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2027"  >}}

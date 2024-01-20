@@ -133,7 +133,7 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+Den tredje raden har en tresitsig bänk med en 40:60-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 

@@ -133,7 +133,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+The third row has a three-seat bench with a 40:60 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 

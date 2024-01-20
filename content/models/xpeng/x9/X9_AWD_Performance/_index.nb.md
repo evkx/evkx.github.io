@@ -133,7 +133,7 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+Den tredje raden har en tre-seters benk med en 40:60 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet.
 

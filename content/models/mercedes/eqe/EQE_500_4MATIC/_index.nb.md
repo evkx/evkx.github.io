@@ -82,7 +82,7 @@ I tillegg kan du velge mellom 13 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 
-Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFrontOpen.ElectricCurtain
+Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="1849"  >}}

@@ -130,7 +130,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 
 
-interior.seats.thirdrowstandardthreeseatbench
+The third row has a three-seat bench with a 60:40 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 There is only one type of steering wheel available.
 

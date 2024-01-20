@@ -82,7 +82,7 @@ Dessutom kan du välja mellan 4 hjul i storlek från 21 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
-Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFrontOpen.ElectricCurtain
+Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1998"  >}}
