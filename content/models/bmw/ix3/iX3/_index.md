@@ -111,8 +111,8 @@ The following functionalities are available on the **Sport** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type.<br />
-<br />
+You can choose from 3 different materials/colors for this seat type.
+
 
 
 ### Second-row seat
@@ -150,7 +150,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large . The touch screen on the dashboard's center  is 12.3 inches large .
+The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The touch screen on the dashboard's center  is 12.3 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

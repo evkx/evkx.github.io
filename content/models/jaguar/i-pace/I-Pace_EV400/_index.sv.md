@@ -173,7 +173,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Jaguar I-Pace EV400 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum . Skärmen touch översta mittkonsolen är 10.0 tum . Skärmen touch botten av mittkonsolen är 5.5 tum .
+Jaguar I-Pace EV400 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum. Skärmen touch översta mittkonsolen är 10.0 tum. Skärmen touch botten av mittkonsolen är 5.5 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

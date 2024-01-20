@@ -96,8 +96,8 @@ The following functionalities are available on the **standard** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 5 different materials/colors for this seat type.<br />
-<br />
+You can choose from 5 different materials/colors for this seat type.
+
 
 
 
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Polestar 2 Long Range Dual Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large . The touch screen at the top of the center console is 11.2 inches large .
+The Polestar 2 Long Range Dual Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 11.2 inches large.
 The model does not have a head-up display.
 
 

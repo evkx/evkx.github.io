@@ -138,7 +138,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volvo EX30 Single Motor har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 12.3 tum .
+Volvo EX30 Single Motor har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 12.3 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

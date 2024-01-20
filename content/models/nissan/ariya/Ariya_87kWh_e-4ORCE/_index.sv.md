@@ -105,8 +105,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
-Du kan välja mellan 5 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 5 olika material/färger för denna sitstyp.
+
 
 
 ### Säten på andra raden
@@ -141,7 +141,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Nissan Ariya 87kWh e-4ORCE har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum . Skärmen touch på höger sida av den delade ramen är 12.3 tum .
+Nissan Ariya 87kWh e-4ORCE har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum. Skärmen touch på höger sida av den delade ramen är 12.3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

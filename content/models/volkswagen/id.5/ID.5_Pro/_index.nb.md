@@ -112,8 +112,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
@@ -126,8 +126,8 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 - integrert hodestøtte
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -167,7 +167,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Volkswagen ID.5 Pro har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor . touch-skjermen i dashbordets sentrum  er 12.9 tommer stor .
+Volkswagen ID.5 Pro har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

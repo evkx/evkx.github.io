@@ -111,8 +111,8 @@ The following functionalities are available on the **standard** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type.<br />
-<br />
+You can choose from 3 different materials/colors for this seat type.
+
 
 
 
@@ -156,8 +156,8 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The BYD Han has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large . The touch screen on the dashboard's center  is 15.6 inches large .
-The model does not have a head-up display.
+The BYD Han has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 15.6 inches large.
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
@@ -167,7 +167,7 @@ The model does not have a head-up display.
 
 You can choose between two sound systems on the BYD Han. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BYD Han supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 The model has 1 USB-C connections as standard. The model has 5 USB-A connections as standard.
 ## Lights

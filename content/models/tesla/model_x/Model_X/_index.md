@@ -105,8 +105,8 @@ The following functionalities are available on the **standard** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type.<br />
-<br />
+You can choose from 3 different materials/colors for this seat type.
+
 
 
 ### Second-row seat
@@ -150,7 +150,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Tesla Model X has twin screens with information for the driver and passengers and a third screen in rear for multimedia. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17.0 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8.0 inches large .
+The Tesla Model X has twin screens with information for the driver and passengers and a third screen in rear for multimedia. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center  is 17.0 inches large and has a 2200 x 1300 pixels resolution. The touch screen in the rear center console  is 8.0 inches large.
 The model does not have a head-up display.
 
 

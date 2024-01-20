@@ -101,8 +101,8 @@ The following functionalities are available on the **standard** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
-You can choose from 5 different materials/colors for this seat type.<br />
-<br />
+You can choose from 5 different materials/colors for this seat type.
+
 
 
 ### Second-row seat
@@ -138,7 +138,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Zeekr 001 Performance AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8.8 inches large . The touch screen at the top of the center console is 15.4 inches large .
+The Zeekr 001 Performance AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 8.8 inches large. The touch screen at the top of the center console is 15.4 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

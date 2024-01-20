@@ -121,8 +121,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **sport** sätet.
@@ -134,8 +134,8 @@ Följande funktioner är tillgängliga på **sport** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrerat nackstöd
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 
 
 

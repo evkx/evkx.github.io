@@ -95,8 +95,8 @@ Följande funktioner är tillgängliga på **** sätet.
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 
@@ -110,8 +110,8 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
 Följande funktioner är tillgängliga på **** sätet.
 
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 Det finns bara en typ av ratt tillgänglig.
@@ -136,7 +136,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Neta GT 580 AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.3 tum . Skärmen touch översta mittkonsolen är 17.6 tum .
+Neta GT 580 AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.3 tum. Skärmen touch översta mittkonsolen är 17.6 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

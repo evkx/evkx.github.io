@@ -111,8 +111,8 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
-You can choose from 1 different materials/colors for this seat type.<br />
-<br />
+You can choose from 1 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **ergoActive Top-Sport** seat.
@@ -125,8 +125,8 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 - integrated headrest
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 1 different materials/colors for this seat type.<br />
-<br />
+You can choose from 1 different materials/colors for this seat type.
+
 
 
 
@@ -168,9 +168,9 @@ You have wireless charging for your phone.
 
 Two different screen setups are available on the Volkswagen ID.4 GTX 4MOTION (GEN1).
 
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.0 inches large . The touch screen on the dashboard's center  is 10.0 inches large .
+The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.0 inches large. The touch screen on the dashboard's center  is 10.0 inches large.
 
-The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.0 inches large . The touch screen on the dashboard's center  is 12.0 inches large and has a 1920 x 869 pixels resolution.
+The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column  is 5.0 inches large. The touch screen on the dashboard's center  is 12.0 inches large and has a 1920 x 869 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

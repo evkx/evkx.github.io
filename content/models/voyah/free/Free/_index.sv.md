@@ -131,7 +131,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-VOYAH FREE har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum . Skärmen  i mitten av bindestrecket är 12.3 tum . Skärmen  framför passageraren i instrumentbrädan är 12.3 tum .
+VOYAH FREE har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum. Skärmen  i mitten av bindestrecket är 12.3 tum. Skärmen  framför passageraren i instrumentbrädan är 12.3 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

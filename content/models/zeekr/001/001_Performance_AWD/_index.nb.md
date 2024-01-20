@@ -101,8 +101,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+
 
 
 ### Seter på andre rad
@@ -138,7 +138,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Zeekr 001 Performance AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 8.8 tommer stor . touch-skjermen øverst på midtkonsollen er 15.4 tommer stor .
+Zeekr 001 Performance AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 8.8 tommer stor. touch-skjermen øverst på midtkonsollen er 15.4 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

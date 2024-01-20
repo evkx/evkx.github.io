@@ -121,8 +121,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#footrest)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 
 
 
@@ -173,7 +173,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 9.8 tum . Skärmen touch i mitten av mittkonsolen är 11.3 tum .
+Skärmen  bakom ratten monterad i instrumentbrädan är 9.8 tum. Skärmen touch i mitten av mittkonsolen är 11.3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

@@ -945,7 +945,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +969,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Android Auto-støtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +977,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

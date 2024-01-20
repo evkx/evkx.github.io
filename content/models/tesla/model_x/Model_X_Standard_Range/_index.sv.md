@@ -105,8 +105,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 
 
 ### Säten på andra raden
@@ -150,7 +150,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Tesla Model X Standard Range har dubbla skärmar med förar- och passagerarinformation och en tredje bakre skärm för multimedia. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum och har en upplösning på 1280 x 480 pixlar. Skärmen touch i mitten av instrumentbrädan är 17.0 tum och har en upplösning på 2200 x 1300 pixlar. Skärmen touch i den bakre mittkonsolen är 8.0 tum .
+Tesla Model X Standard Range har dubbla skärmar med förar- och passagerarinformation och en tredje bakre skärm för multimedia. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum och har en upplösning på 1280 x 480 pixlar. Skärmen touch i mitten av instrumentbrädan är 17.0 tum och har en upplösning på 2200 x 1300 pixlar. Skärmen touch i den bakre mittkonsolen är 8.0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -106,8 +106,8 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 
 
 ### Säten på andra raden
@@ -139,7 +139,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-SKODA ENYAQ RS iV har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.3 tum . Skärmen touch i mitten av instrumentbrädan är 13.0 tum .
+SKODA ENYAQ RS iV har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.3 tum. Skärmen touch i mitten av instrumentbrädan är 13.0 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 ## Infotainment

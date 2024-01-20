@@ -112,8 +112,8 @@ The following functionalities are available on the **standard** seat.
 - integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 21 different materials/colors for this seat type.<br />
-<br />
+You can choose from 21 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **M Sport** seat.
@@ -127,8 +127,8 @@ The following functionalities are available on the **M Sport** seat.
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - integrated headrest
 
-You can choose from 21 different materials/colors for this seat type.<br />
-<br />
+You can choose from 21 different materials/colors for this seat type.
+
 
 
 

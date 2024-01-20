@@ -163,7 +163,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The touch screen behind the steering wheel accross the the center of the dash  is 34.0 inches large . The touch screen in the middle of the center console is 12.0 inches large .
+The touch screen behind the steering wheel accross the the center of the dash  is 34.0 inches large. The touch screen in the middle of the center console is 12.0 inches large.
 The model does not have a head-up display.
 
 

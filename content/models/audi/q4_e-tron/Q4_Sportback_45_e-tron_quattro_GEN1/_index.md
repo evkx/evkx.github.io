@@ -117,8 +117,8 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
-You can choose from 4 different materials/colors for this seat type.<br />
-<br />
+You can choose from 4 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **sport** seat.
@@ -130,8 +130,8 @@ The following functionalities are available on the **sport** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
 
-You can choose from 4 different materials/colors for this seat type.<br />
-<br />
+You can choose from 4 different materials/colors for this seat type.
+
 
 
 

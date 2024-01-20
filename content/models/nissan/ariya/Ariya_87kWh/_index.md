@@ -105,8 +105,8 @@ The following functionalities are available on the **standard** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 5 different materials/colors for this seat type.<br />
-<br />
+You can choose from 5 different materials/colors for this seat type.
+
 
 
 ### Second-row seat
@@ -141,7 +141,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Nissan Ariya 87kWh has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large . The touch screen at the right part of the shared frame is 12.3 inches large .
+The Nissan Ariya 87kWh has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large. The touch screen at the right part of the shared frame is 12.3 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

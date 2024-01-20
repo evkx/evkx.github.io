@@ -112,8 +112,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **M Sport** setet.
@@ -127,8 +127,8 @@ Følgende funksjoner er tilgjengelige på **M Sport** setet.
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - integrert hodestøtte
 
-Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.
+
 
 
 

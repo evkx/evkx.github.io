@@ -123,7 +123,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen  er 8.0 tommer stor . -skjermen bak rattet i midten av den delte rammen er 10.0 tommer stor . touch-skjermen ved høyre del av den delte rammen er 8.0 tommer stor . touch-skjermen i midten av midtkonsollen er 7.0 tommer stor .
+På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen  er 8.0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 10.0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 8.0 tommer stor. touch-skjermen i midten av midtkonsollen er 7.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

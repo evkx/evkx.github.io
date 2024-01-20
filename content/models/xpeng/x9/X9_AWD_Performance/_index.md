@@ -105,8 +105,8 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 1 different materials/colors for this seat type.<br />
-<br />
+You can choose from 1 different materials/colors for this seat type.
+
 
 
 
@@ -151,7 +151,7 @@ XPENG X9 AWD Performance has several features to make your life as a driver or p
 
 ## User interface and control
 
-The XPENG X9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large . The touch screen on the dashboard's center  is 15.0 inches large .
+The XPENG X9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 15.0 inches large.
 The model does not have a head-up display.
 
 

@@ -99,8 +99,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+
 
 
 ### Seter på andre rad
@@ -149,7 +149,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Zeekr 009 ME Edition har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor . touch-skjermen øverst på midtkonsollen er 15.4 tommer stor .
+Zeekr 009 ME Edition har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor. touch-skjermen øverst på midtkonsollen er 15.4 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

@@ -104,8 +104,8 @@ The following functionalities are available on the **standard** seat.
 - integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type.<br />
-<br />
+You can choose from 3 different materials/colors for this seat type.
+
 
 
 
@@ -149,7 +149,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The BYD Seal AWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large . The touch screen on the dashboard's center  is 15.6 inches large .
+The BYD Seal AWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center  is 15.6 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

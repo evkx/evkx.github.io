@@ -99,8 +99,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 
@@ -139,9 +139,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på Subaru Solterra AWD.
 
-Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum . Skärmen touch översta mittkonsolen är 8.9 tum .
+Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 8.9 tum.
 
-Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum . Skärmen touch översta mittkonsolen är 12.3 tum .
+Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 12.3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

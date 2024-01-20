@@ -163,7 +163,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-touch-skjermen bak rattet på tvers av midten av dashbordet er 34.0 tommer stor . touch-skjermen i midten av midtkonsollen er 12.0 tommer stor .
+touch-skjermen bak rattet på tvers av midten av dashbordet er 34.0 tommer stor. touch-skjermen i midten av midtkonsollen er 12.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

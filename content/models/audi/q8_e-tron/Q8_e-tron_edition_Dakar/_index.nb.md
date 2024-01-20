@@ -129,8 +129,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **sport** setet.
@@ -143,8 +143,8 @@ Følgende funksjoner er tilgjengelige på **sport** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **s-line sport** setet.
@@ -157,8 +157,8 @@ Følgende funksjoner er tilgjengelige på **s-line sport** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **s sport** setet.
@@ -170,8 +170,8 @@ Følgende funksjoner er tilgjengelige på **s sport** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrert hodestøtte
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **multicontour** setet.
@@ -189,8 +189,8 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
 
 
 

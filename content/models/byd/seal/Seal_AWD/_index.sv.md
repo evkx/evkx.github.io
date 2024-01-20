@@ -104,8 +104,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 
 
 
@@ -149,7 +149,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-BYD Seal AWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10.3 tum . Skärmen touch i mitten av instrumentbrädan är 15.6 tum .
+BYD Seal AWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10.3 tum. Skärmen touch i mitten av instrumentbrädan är 15.6 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

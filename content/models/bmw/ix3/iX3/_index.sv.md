@@ -111,8 +111,8 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 
 
 ### Säten på andra raden
@@ -150,7 +150,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum . Skärmen touch i mitten av instrumentbrädan är 12.3 tum .
+Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum. Skärmen touch i mitten av instrumentbrädan är 12.3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

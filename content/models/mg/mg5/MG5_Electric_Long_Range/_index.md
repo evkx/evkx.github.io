@@ -139,7 +139,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large . The touch screen at the top of the center console is 10.3 inches large .
+The MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large. The touch screen at the top of the center console is 10.3 inches large.
 The model does not have a head-up display.
 
 

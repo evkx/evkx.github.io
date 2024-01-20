@@ -107,8 +107,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 
 
 ### Seter på andre rad
@@ -154,7 +154,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-BYD Tang EV600 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor . touch-skjermen i dashbordets sentrum  er 12.8 tommer stor .
+BYD Tang EV600 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum  er 12.8 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

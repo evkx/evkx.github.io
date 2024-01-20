@@ -126,8 +126,8 @@ The following functionalities are available on the **Comfort** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - integrated headrest
 
-You can choose from 1 different materials/colors for this seat type.<br />
-<br />
+You can choose from 1 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **Comfortseats with memory** seat.
@@ -138,8 +138,8 @@ The following functionalities are available on the **Comfortseats with memory** 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 2 different materials/colors for this seat type.<br />
-<br />
+You can choose from 2 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **Sportsseats Plus** seat.
@@ -156,8 +156,8 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type.<br />
-<br />
+You can choose from 4 different materials/colors for this seat type.
+
 
 
 
@@ -202,7 +202,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The Porsche Taycan Sport Turismo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 16.8 inches large . The touch screen at the top of the center console is 10.9 inches large . The touch screen at the bottom of the center console is 8.4 inches large . The touch screen in front of the passenger in the dashboard is 10.9 inches large .
+The Porsche Taycan Sport Turismo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 16.8 inches large. The touch screen at the top of the center console is 10.9 inches large. The touch screen at the bottom of the center console is 8.4 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

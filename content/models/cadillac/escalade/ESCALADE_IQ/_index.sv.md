@@ -156,7 +156,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 35.0 tum . Skärmen touch botten av mittkonsolen är 11.0 tum . Skärmen touch framför passageraren på instrumentbrädan är 20.0 tum .
+Skärmen  bakom ratten monterad i instrumentbrädan är 35.0 tum. Skärmen touch botten av mittkonsolen är 11.0 tum. Skärmen touch framför passageraren på instrumentbrädan är 20.0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

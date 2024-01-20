@@ -110,8 +110,8 @@ Følgende funksjoner er tilgjengelige på **sport** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - integrert hodestøtte
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **sport plus** setet.
@@ -122,8 +122,8 @@ Følgende funksjoner er tilgjengelige på **sport plus** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **sport pro** setet.
@@ -140,8 +140,8 @@ Følgende funksjoner er tilgjengelige på **sport pro** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
 
 
 

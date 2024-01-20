@@ -96,8 +96,8 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 ### Seter på andre rad
@@ -124,7 +124,7 @@ XPENG G3i har flere funksjoner for å gjøre livet ditt som sjåfør eller passa
 
 ## Brukergrensesnitt og kontroll
 
-XPENG G3i har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor . touch-skjermen i midten av midtkonsollen er 15.6 tommer stor .
+XPENG G3i har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i midten av midtkonsollen er 15.6 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.

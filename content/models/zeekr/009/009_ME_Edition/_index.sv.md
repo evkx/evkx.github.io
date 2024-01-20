@@ -99,8 +99,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 5 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 5 olika material/färger för denna sitstyp.
+
 
 
 ### Säten på andra raden
@@ -149,7 +149,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Zeekr 009 ME Edition har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum . Skärmen touch översta mittkonsolen är 15.4 tum .
+Zeekr 009 ME Edition har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum. Skärmen touch översta mittkonsolen är 15.4 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

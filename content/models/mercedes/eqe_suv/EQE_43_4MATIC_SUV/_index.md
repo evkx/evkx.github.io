@@ -110,8 +110,8 @@ The following functionalities are available on the **standard** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type.<br />
-<br />
+You can choose from 6 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **multicontour** seat.
@@ -128,8 +128,8 @@ The following functionalities are available on the **multicontour** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 5 different materials/colors for this seat type.<br />
-<br />
+You can choose from 5 different materials/colors for this seat type.
+
 
 
 ### Second-row seat

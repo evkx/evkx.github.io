@@ -98,8 +98,8 @@ Endast en typ av framsäte är tillgänglig i BYD Seagull 38kWh.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 ### Säten på andra raden
@@ -109,8 +109,8 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
 Följande funktioner är tillgängliga på **standard** sätet.
 
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 
@@ -141,7 +141,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-BYD Seagull 38kWh har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 7.0 tum . Skärmen touch i mitten av instrumentbrädan är 10.1 tum .
+BYD Seagull 38kWh har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 7.0 tum. Skärmen touch i mitten av instrumentbrädan är 10.1 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

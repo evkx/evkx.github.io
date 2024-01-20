@@ -104,8 +104,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 
 
 

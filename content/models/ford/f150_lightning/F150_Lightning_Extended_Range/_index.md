@@ -138,9 +138,9 @@ Ford F150 Lightning Extended Range has several features to make your life as a d
 
 Two different screen setups are available on the Ford F150 Lightning Extended Range.
 
-The standard layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large . The  screen on the dashboard's center  is 12.0 inches large .
+The standard layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The  screen on the dashboard's center  is 12.0 inches large.
 
-The optional  layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large . The  screen on the dashboard's center  is 15.5 inches large .
+The optional  layout has the following configuration. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The  screen on the dashboard's center  is 15.5 inches large.
 The model does not have a head-up display.
 
 

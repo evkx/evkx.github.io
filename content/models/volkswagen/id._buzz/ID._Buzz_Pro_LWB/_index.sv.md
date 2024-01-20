@@ -105,8 +105,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 
-Du kan välja mellan 6 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **comfort** sätet.
@@ -119,8 +119,8 @@ Följande funktioner är tillgängliga på **comfort** sätet.
 - integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 5 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 5 olika material/färger för denna sitstyp.
+
 
 
 
@@ -176,7 +176,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volkswagen ID. Buzz Pro LWB har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.3 tum . Skärmen touch i mitten av instrumentbrädan är 12.9 tum .
+Volkswagen ID. Buzz Pro LWB har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.3 tum. Skärmen touch i mitten av instrumentbrädan är 12.9 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

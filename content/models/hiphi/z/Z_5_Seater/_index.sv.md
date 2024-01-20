@@ -155,7 +155,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-HiPhi Z 5 Seater har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 15.0 tum .
+HiPhi Z 5 Seater har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 15.0 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

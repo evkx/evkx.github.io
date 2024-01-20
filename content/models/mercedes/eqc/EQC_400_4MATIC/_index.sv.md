@@ -95,8 +95,8 @@ Endast en typ av framsäte är tillgänglig i Mercedes-EQ EQC 400 4MATIC.
 Följande funktioner är tillgängliga på **** sätet.
 
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 

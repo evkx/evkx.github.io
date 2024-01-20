@@ -107,8 +107,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 
@@ -153,9 +153,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på BYD Atto 3.
 
-Standardlayouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5.0 tum . Skärmen touch i mitten av instrumentbrädan är 12.8 tum .
+Standardlayouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 12.8 tum.
 
-Den valfria Design-layouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5.0 tum . Skärmen touch i mitten av instrumentbrädan är 15.6 tum .
+Den valfria Design-layouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 15.6 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

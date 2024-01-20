@@ -138,9 +138,9 @@ Ford F150 Lightning Extended Range har flera funktioner för att göra ditt liv 
 
 Två olika skärmlayouter är tillgängliga på Ford F150 Lightning Extended Range.
 
-Standardlayouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum . Skärmen  i mitten av instrumentbrädan är 12.0 tum .
+Standardlayouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum. Skärmen  i mitten av instrumentbrädan är 12.0 tum.
 
-Den valfria -layouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum . Skärmen  i mitten av instrumentbrädan är 15.5 tum .
+Den valfria -layouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum. Skärmen  i mitten av instrumentbrädan är 15.5 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

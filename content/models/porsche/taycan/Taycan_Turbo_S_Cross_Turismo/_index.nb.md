@@ -114,8 +114,8 @@ Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
@@ -132,8 +132,8 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -178,7 +178,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-Porsche Taycan Turbo S Cross Turismo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16.8 tommer stor . touch-skjermen øverst på midtkonsollen er 10.9 tommer stor . touch-skjermen nederst på midtkonsollen er 8.4 tommer stor . touch-skjermen foran passasjeren i dashbordet er 10.9 tommer stor .
+Porsche Taycan Turbo S Cross Turismo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16.8 tommer stor. touch-skjermen øverst på midtkonsollen er 10.9 tommer stor. touch-skjermen nederst på midtkonsollen er 8.4 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10.9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

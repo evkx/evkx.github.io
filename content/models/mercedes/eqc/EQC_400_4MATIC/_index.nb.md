@@ -95,8 +95,8 @@ Bare én type forsete er tilgjengelig i Mercedes-EQ EQC 400 4MATIC.
 Følgende funksjoner er tilgjengelige på **** setet.
 
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 

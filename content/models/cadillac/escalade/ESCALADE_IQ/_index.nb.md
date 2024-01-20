@@ -156,7 +156,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 35.0 tommer stor . touch-skjermen nederst på midtkonsollen er 11.0 tommer stor . touch-skjermen foran passasjeren på dashbordet er 20.0 tommer stor .
+-skjermen bak rattet montert i dashbordet er 35.0 tommer stor. touch-skjermen nederst på midtkonsollen er 11.0 tommer stor. touch-skjermen foran passasjeren på dashbordet er 20.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

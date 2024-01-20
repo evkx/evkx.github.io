@@ -114,8 +114,8 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 
 
 

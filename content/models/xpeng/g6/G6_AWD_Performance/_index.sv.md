@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-XPENG G6 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10.2 tum . Skärmen touch i mitten av instrumentbrädan är 15.0 tum .
+XPENG G6 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10.2 tum. Skärmen touch i mitten av instrumentbrädan är 15.0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

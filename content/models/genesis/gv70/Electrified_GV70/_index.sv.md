@@ -139,7 +139,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 8.0 tum . Skärmen touch i mitten av instrumentbrädan är 14.9 tum . Skärmen touch botten av mittkonsolen är 5.0 tum .
+Skärmen  bakom ratten integrerad i instrumentbrädan är 8.0 tum. Skärmen touch i mitten av instrumentbrädan är 14.9 tum. Skärmen touch botten av mittkonsolen är 5.0 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

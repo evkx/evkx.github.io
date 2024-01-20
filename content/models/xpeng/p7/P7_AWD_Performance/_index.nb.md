@@ -141,7 +141,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-XPENG P7 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10.3 tommer stor . touch-skjermen i dashbordets sentrum  er 15.0 tommer stor .
+XPENG P7 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum  er 15.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

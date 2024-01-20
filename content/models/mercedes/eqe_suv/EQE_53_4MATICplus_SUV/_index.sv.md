@@ -112,8 +112,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
-Du kan välja mellan 6 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **multicontour** sätet.
@@ -130,8 +130,8 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 5 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 5 olika material/färger för denna sitstyp.
+
 
 
 ### Säten på andra raden

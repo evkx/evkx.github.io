@@ -151,7 +151,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-HiPhi Y Performance har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor . touch-skjermen øverst på midtkonsollen er 17.0 tommer stor . touch-skjermen foran passasjeren i dashbordet er 15.0 tommer stor .
+HiPhi Y Performance har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen øverst på midtkonsollen er 17.0 tommer stor. touch-skjermen foran passasjeren i dashbordet er 15.0 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

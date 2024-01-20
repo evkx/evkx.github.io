@@ -155,7 +155,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-HiPhi Z 5 Seater har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum  er 15.0 tommer stor .
+HiPhi Z 5 Seater har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum  er 15.0 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

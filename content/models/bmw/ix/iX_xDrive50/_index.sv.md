@@ -106,8 +106,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
-Du kan välja mellan 7 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 7 olika material/färger för denna sitstyp.
+
 
 
 

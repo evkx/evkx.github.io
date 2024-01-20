@@ -112,8 +112,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
@@ -126,8 +126,8 @@ Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
 - integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 
@@ -169,9 +169,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på Volkswagen ID.4 Pro.
 
-Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.0 tum . Skärmen touch i mitten av instrumentbrädan är 10.0 tum .
+Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 10.0 tum.
 
-Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.0 tum . Skärmen touch i mitten av instrumentbrädan är 12.0 tum och har en upplösning på 1920 x 869 pixlar.
+Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 12.0 tum och har en upplösning på 1920 x 869 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

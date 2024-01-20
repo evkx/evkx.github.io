@@ -108,8 +108,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 
@@ -151,7 +151,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Tesla Cybertruck Cyberbeast har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 18.5 tum .
+Tesla Cybertruck Cyberbeast har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 18.5 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

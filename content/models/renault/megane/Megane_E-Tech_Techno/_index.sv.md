@@ -110,8 +110,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 
@@ -154,7 +154,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Renault Megane E-Tech Techno har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 12.3 tum . Skärmen touch i mitten av instrumentbrädan är 12.0 tum .
+Renault Megane E-Tech Techno har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 12.3 tum. Skärmen touch i mitten av instrumentbrädan är 12.0 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

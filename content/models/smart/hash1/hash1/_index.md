@@ -142,7 +142,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 10.0 inches large . The touch screen at the top of the center console is 12.8 inches large .
+The  screen behind the steering wheel mounted into the dashboard is 10.0 inches large. The touch screen at the top of the center console is 12.8 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

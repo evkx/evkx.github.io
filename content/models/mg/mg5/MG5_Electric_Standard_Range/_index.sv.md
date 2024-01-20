@@ -139,7 +139,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-MG MG5 Electric Standard Range har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 7.0 tum . Skärmen touch översta mittkonsolen är 10.3 tum .
+MG MG5 Electric Standard Range har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 10.3 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

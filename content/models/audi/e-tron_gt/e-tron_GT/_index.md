@@ -110,8 +110,8 @@ The following functionalities are available on the **sport** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - integrated headrest
 
-You can choose from 1 different materials/colors for this seat type.<br />
-<br />
+You can choose from 1 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **sport plus** seat.
@@ -122,8 +122,8 @@ The following functionalities are available on the **sport plus** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 2 different materials/colors for this seat type.<br />
-<br />
+You can choose from 2 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **sport pro** seat.
@@ -140,8 +140,8 @@ The following functionalities are available on the **sport pro** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type.<br />
-<br />
+You can choose from 4 different materials/colors for this seat type.
+
 
 
 

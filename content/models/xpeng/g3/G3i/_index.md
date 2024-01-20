@@ -96,8 +96,8 @@ The following functionalities are available on the **** seat.
 - integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 1 different materials/colors for this seat type.<br />
-<br />
+You can choose from 1 different materials/colors for this seat type.
+
 
 
 ### Second-row seat
@@ -124,7 +124,7 @@ XPENG G3i has several features to make your life as a driver or passenger more c
 
 ## User interface and control
 
-The XPENG G3i has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large . The touch screen in the middle of the center console is 15.6 inches large .
+The XPENG G3i has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen in the middle of the center console is 15.6 inches large.
 The model does not have a head-up display.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.

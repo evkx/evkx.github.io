@@ -123,8 +123,8 @@ The following functionalities are available on the **s-line sport** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type.<br />
-<br />
+You can choose from 4 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **s sport** seat.
@@ -136,8 +136,8 @@ The following functionalities are available on the **s sport** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
 
-You can choose from 4 different materials/colors for this seat type.<br />
-<br />
+You can choose from 4 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **multicontour** seat.
@@ -155,8 +155,8 @@ The following functionalities are available on the **multicontour** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type.<br />
-<br />
+You can choose from 4 different materials/colors for this seat type.
+
 
 
 

@@ -97,8 +97,8 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 5 different materials/colors for this seat type.<br />
-<br />
+You can choose from 5 different materials/colors for this seat type.
+
 
 
 
@@ -141,7 +141,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large . The touch screen at the top of the center console is 14.5 inches large .
+The Polestar 3 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large. The touch screen at the top of the center console is 14.5 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

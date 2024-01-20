@@ -138,9 +138,9 @@ Ford F150 Lightning Extended Range har flere funksjoner for å gjøre livet ditt
 
 To forskjellige skjermoppsett er tilgjengelige på Ford F150 Lightning Extended Range.
 
-Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor . -skjermen i dashbordets sentrum  er 12.0 tommer stor .
+Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. -skjermen i dashbordets sentrum  er 12.0 tommer stor.
 
-Det valgfrie -oppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor . -skjermen i dashbordets sentrum  er 15.5 tommer stor .
+Det valgfrie -oppsettet har følgende konfigurasjon. -skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. -skjermen i dashbordets sentrum  er 15.5 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

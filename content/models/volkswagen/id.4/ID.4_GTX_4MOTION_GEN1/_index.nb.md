@@ -111,8 +111,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
@@ -125,8 +125,8 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 - integrert hodestøtte
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -168,9 +168,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på Volkswagen ID.4 GTX 4MOTION (GEN1).
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor . touch-skjermen i dashbordets sentrum  er 10.0 tommer stor .
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 10.0 tommer stor.
 
-Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor . touch-skjermen i dashbordets sentrum  er 12.0 tommer stor og har en oppløsning på 1920 x 869 piksler.
+Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.0 tommer stor og har en oppløsning på 1920 x 869 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

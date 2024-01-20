@@ -105,8 +105,8 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -151,7 +151,7 @@ XPENG X9 AWD Performance har flere funksjoner for å gjøre livet ditt som sjåf
 
 ## Brukergrensesnitt og kontroll
 
-XPENG X9 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10.3 tommer stor . touch-skjermen i dashbordets sentrum  er 15.0 tommer stor .
+XPENG X9 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum  er 15.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

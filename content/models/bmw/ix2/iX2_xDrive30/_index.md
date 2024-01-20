@@ -108,8 +108,8 @@ The following functionalities are available on the **Standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type.<br />
-<br />
+You can choose from 3 different materials/colors for this seat type.
+
 
 
 The following functionalities are available on the **Sport** seat.
@@ -124,8 +124,8 @@ The following functionalities are available on the **Sport** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type.<br />
-<br />
+You can choose from 3 different materials/colors for this seat type.
+
 
 
 

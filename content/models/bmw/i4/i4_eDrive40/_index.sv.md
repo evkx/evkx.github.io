@@ -112,8 +112,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
-Du kan välja mellan 21 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 21 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **M Sport** sätet.
@@ -127,8 +127,8 @@ Följande funktioner är tillgängliga på **M Sport** sätet.
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - integrerat nackstöd
 
-Du kan välja mellan 21 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 21 olika material/färger för denna sitstyp.
+
 
 
 

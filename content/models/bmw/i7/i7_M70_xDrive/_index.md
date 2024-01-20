@@ -107,8 +107,8 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 7 different materials/colors for this seat type.<br />
-<br />
+You can choose from 7 different materials/colors for this seat type.
+
 
 
 

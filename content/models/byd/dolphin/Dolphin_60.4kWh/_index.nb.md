@@ -107,8 +107,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -153,9 +153,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på BYD Dolphin 60.4kWh.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor . touch-skjermen i dashbordets sentrum  er 12.8 tommer stor .
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.8 tommer stor.
 
-Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor . touch-skjermen i dashbordets sentrum  er 15.6 tommer stor .
+Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum  er 15.6 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

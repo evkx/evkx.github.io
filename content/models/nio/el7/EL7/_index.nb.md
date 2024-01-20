@@ -122,8 +122,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -165,7 +165,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 9.8 tommer stor . touch-skjermen i midten av midtkonsollen er 12.8 tommer stor .
+-skjermen bak rattet montert i dashbordet er 9.8 tommer stor. touch-skjermen i midten av midtkonsollen er 12.8 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

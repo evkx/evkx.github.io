@@ -121,8 +121,8 @@ The following functionalities are available on the **standard** seat.
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 3 different materials/colors for this seat type.<br />
-<br />
+You can choose from 3 different materials/colors for this seat type.
+
 
 
 ### Second-row seat
@@ -160,7 +160,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large . The touch screen in the middle of the center console is 12.3 inches large .
+The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large. The touch screen in the middle of the center console is 12.3 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

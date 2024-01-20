@@ -123,7 +123,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8.0 tum . Skärmen  bakom ratten i mitten av den delade ramen är 10.0 tum . Skärmen touch på höger sida av den delade ramen är 8.0 tum . Skärmen touch i mitten av mittkonsolen är 7.0 tum .
+Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8.0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 10.0 tum. Skärmen touch på höger sida av den delade ramen är 8.0 tum. Skärmen touch i mitten av mittkonsolen är 7.0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

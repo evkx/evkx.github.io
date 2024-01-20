@@ -105,8 +105,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+
 
 
 ### Seter på andre rad
@@ -141,7 +141,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Nissan Ariya 87kWh har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor . touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor .
+Nissan Ariya 87kWh har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

@@ -99,8 +99,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 5 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 5 olika material/färger för denna sitstyp.
+
 
 
 
@@ -144,7 +144,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Zeekr 007 AWD Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 13.0 tum . Skärmen touch översta mittkonsolen är 15.0 tum .
+Zeekr 007 AWD Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 13.0 tum. Skärmen touch översta mittkonsolen är 15.0 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

@@ -138,7 +138,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Fisker Ocean Ultra har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor . touch-skjermen i midten av midtkonsollen er 17.1 tommer stor .
+Fisker Ocean Ultra har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor. touch-skjermen i midten av midtkonsollen er 17.1 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

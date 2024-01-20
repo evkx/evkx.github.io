@@ -105,8 +105,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 
 
 

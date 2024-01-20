@@ -123,8 +123,8 @@ Följande funktioner är tillgängliga på **s-line sport** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **s sport** sätet.
@@ -136,8 +136,8 @@ Följande funktioner är tillgängliga på **s sport** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrerat nackstöd
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **multicontour** sätet.
@@ -155,8 +155,8 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 
 
 

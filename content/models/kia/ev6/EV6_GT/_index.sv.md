@@ -104,8 +104,8 @@ Följande funktioner är tillgängliga på **** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 

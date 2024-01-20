@@ -105,8 +105,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 
 
 ### Seter på andre rad
@@ -144,7 +144,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Model S Plaid har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum  er 17.0 tommer stor og har en oppløsning på 2200 x 1300 piksler. touch-skjermen i den bakre midtkonsollen er 8.0 tommer stor .
+Tesla Model S Plaid har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum  er 17.0 tommer stor og har en oppløsning på 2200 x 1300 piksler. touch-skjermen i den bakre midtkonsollen er 8.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

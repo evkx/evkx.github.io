@@ -108,8 +108,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -151,7 +151,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Cybertruck Cyberbeast har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum  er 18.5 tommer stor .
+Tesla Cybertruck Cyberbeast har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum  er 18.5 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

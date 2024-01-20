@@ -112,8 +112,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
+
 
 
 Følgende funksjoner er tilgjengelige på **multicontour** setet.
@@ -130,8 +130,8 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+
 
 
 ### Seter på andre rad

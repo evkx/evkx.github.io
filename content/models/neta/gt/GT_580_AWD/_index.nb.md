@@ -95,8 +95,8 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -110,8 +110,8 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
 Følgende funksjoner er tilgjengelige på **** setet.
 
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 Det er bare én type ratt tilgjengelig.
@@ -136,7 +136,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Neta GT 580 AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.3 tommer stor . touch-skjermen øverst på midtkonsollen er 17.6 tommer stor .
+Neta GT 580 AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.3 tommer stor. touch-skjermen øverst på midtkonsollen er 17.6 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

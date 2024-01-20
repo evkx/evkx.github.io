@@ -108,8 +108,8 @@ The following functionalities are available on the **standard** seat.
 - integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type.<br />
-<br />
+You can choose from 1 different materials/colors for this seat type.
+
 
 
 
@@ -151,7 +151,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Tesla Cybertruck Cyberbeast has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 18.5 inches large .
+The Tesla Cybertruck Cyberbeast has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center  is 18.5 inches large.
 The model does not have a head-up display.
 
 

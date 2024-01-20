@@ -163,7 +163,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen touch bakom ratten över mitten av instrumentbrädan är 34.0 tum . Skärmen touch i mitten av mittkonsolen är 12.0 tum .
+Skärmen touch bakom ratten över mitten av instrumentbrädan är 34.0 tum. Skärmen touch i mitten av mittkonsolen är 12.0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

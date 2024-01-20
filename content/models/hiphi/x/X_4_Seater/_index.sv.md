@@ -156,7 +156,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-HiPhi X 4 Seater har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 14.0 tum . Skärmen touch översta mittkonsolen är 16.9 tum . Skärmen touch framför passageraren i instrumentbrädan är 19.9 tum .
+HiPhi X 4 Seater har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 14.0 tum. Skärmen touch översta mittkonsolen är 16.9 tum. Skärmen touch framför passageraren i instrumentbrädan är 19.9 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

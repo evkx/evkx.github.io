@@ -105,8 +105,8 @@ The following functionalities are available on the **standard** seat.
 - [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
 
-You can choose from 1 different materials/colors for this seat type.<br />
-<br />
+You can choose from 1 different materials/colors for this seat type.
+
 
 
 ### Second-row seat
@@ -145,7 +145,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The touch screen in the left side of the shared frame  is 8.0 inches large . The  screen behind the steering wheel in the middle of the shared frame  is 14.0 inches large . The touch screen at the right part of the shared frame is 12.0 inches large . The touch screen in the middle of the center console is 12.0 inches large .
+On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The touch screen in the left side of the shared frame  is 8.0 inches large. The  screen behind the steering wheel in the middle of the shared frame  is 14.0 inches large. The touch screen at the right part of the shared frame is 12.0 inches large. The touch screen in the middle of the center console is 12.0 inches large.
 The model does not have a head-up display.
 
 

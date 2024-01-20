@@ -111,8 +111,8 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 
 
 ### Seter på andre rad
@@ -150,7 +150,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 12.0 tommer stor . touch-skjermen i dashbordets sentrum  er 12.3 tommer stor .
+-skjermen bak rattet integrert i dashbordet er 12.0 tommer stor. touch-skjermen i dashbordets sentrum  er 12.3 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

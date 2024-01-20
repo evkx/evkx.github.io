@@ -101,8 +101,8 @@ The following functionalities are available on the **** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type.<br />
-<br />
+You can choose from 6 different materials/colors for this seat type.
+
 
 
 

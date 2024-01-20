@@ -134,7 +134,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large . The touch screen on the dashboard's center  is 10.3 inches large .
+The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large. The touch screen on the dashboard's center  is 10.3 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

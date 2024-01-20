@@ -945,7 +945,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Head-up display
 			</td>
 			<td>
-				Inte tillgängligt
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +969,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Android Auto Support
 			</td>
 			<td>
-				Inte tillgängligt
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +977,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Apple Carplay Support
 			</td>
 			<td>
-				Inte tillgängligt
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

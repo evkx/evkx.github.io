@@ -135,7 +135,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Chevrolet Blazer EV SS har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 11.0 tum . Skärmen touch på höger sida av den delade ramen är 17.7 tum .
+Chevrolet Blazer EV SS har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 11.0 tum. Skärmen touch på höger sida av den delade ramen är 17.7 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

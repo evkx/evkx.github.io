@@ -114,8 +114,8 @@ Följande funktioner är tillgängliga på **sport** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
 - integrerat nackstöd
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **sport plus** sätet.
@@ -126,8 +126,8 @@ Följande funktioner är tillgängliga på **sport plus** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 
 
 Följande funktioner är tillgängliga på **sport pro** sätet.
@@ -144,8 +144,8 @@ Följande funktioner är tillgängliga på **sport pro** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 
 
 

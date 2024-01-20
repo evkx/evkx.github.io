@@ -105,8 +105,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 
 
 ### Säten på andra raden
@@ -150,7 +150,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Hongqi E-HS9 Exclusive har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm. Skärmen  bakom ratten integrerad i instrumentbrädan är 16.2 tum . Skärmen touch i mitten av bindestrecket är 16.2 tum . Skärmen touch framför passageraren i instrumentbrädan är 16.2 tum . Skärmen touch i mitten av mittkonsolen är 10.2 tum .
+Hongqi E-HS9 Exclusive har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm. Skärmen  bakom ratten integrerad i instrumentbrädan är 16.2 tum. Skärmen touch i mitten av bindestrecket är 16.2 tum. Skärmen touch framför passageraren i instrumentbrädan är 16.2 tum. Skärmen touch i mitten av mittkonsolen är 10.2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

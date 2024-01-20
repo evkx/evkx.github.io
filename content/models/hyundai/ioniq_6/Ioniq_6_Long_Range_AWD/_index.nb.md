@@ -101,8 +101,8 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 
 
 

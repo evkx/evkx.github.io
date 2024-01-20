@@ -111,8 +111,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -156,8 +156,8 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-BYD Han har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor . touch-skjermen i dashbordets sentrum  er 15.6 tommer stor .
-Modellen er ikke tilgjengelig med head-up display.
+BYD Han har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum  er 15.6 tommer stor.
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
@@ -167,7 +167,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 Du kan velge mellom to lydsystemer på BYD Han. Med Surroundsystem får du syv høyttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BYD Han Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 5 USB-A-tilkoblinger som standard.
 ## Lys

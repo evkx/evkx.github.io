@@ -154,7 +154,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large . The touch screen on the dashboard's center  is 15.1 inches large .
+The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center  is 15.1 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

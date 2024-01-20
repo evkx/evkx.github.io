@@ -115,7 +115,7 @@ Honda e:Ny1 has several features to make your life as a driver or passenger more
 
 ## User interface and control
 
-The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large . The touch screen at the top of the center console is 15.2 inches large .
+The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large. The touch screen at the top of the center console is 15.2 inches large.
 The model does not have a head-up display.
 
 

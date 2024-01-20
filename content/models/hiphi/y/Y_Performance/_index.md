@@ -151,7 +151,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The HiPhi Y Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large . The touch screen at the top of the center console is 17.0 inches large . The touch screen in front of the passenger in the dashboard is 15.0 inches large .
+The HiPhi Y Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 17.0 inches large. The touch screen in front of the passenger in the dashboard is 15.0 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

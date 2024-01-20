@@ -108,8 +108,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
-Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
+
 
 
 

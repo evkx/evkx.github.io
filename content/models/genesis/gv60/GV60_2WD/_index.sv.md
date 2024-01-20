@@ -101,8 +101,8 @@ Följande funktioner är tillgängliga på **** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
-Du kan välja mellan 6 olika material/färger för denna sitstyp.<br />
-<br />
+Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 
 
 
@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum . Skärmen touch i mitten av instrumentbrädan är 14.9 tum . Skärmen touch botten av mittkonsolen är 7.6 tum och har en upplösning på 1280 x 660 pixlar.
+Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum. Skärmen touch i mitten av instrumentbrädan är 14.9 tum. Skärmen touch botten av mittkonsolen är 7.6 tum och har en upplösning på 1280 x 660 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

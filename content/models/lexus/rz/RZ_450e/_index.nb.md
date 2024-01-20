@@ -104,8 +104,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 
 
 
@@ -144,9 +144,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på Lexus RZ 450e.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7.0 tommer stor . touch-skjermen øverst på midtkonsollen er 14.0 tommer stor .
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7.0 tommer stor. touch-skjermen øverst på midtkonsollen er 14.0 tommer stor.
 
-Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7.0 tommer stor . touch-skjermen øverst på midtkonsollen er 12.3 tommer stor .
+Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7.0 tommer stor. touch-skjermen øverst på midtkonsollen er 12.3 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

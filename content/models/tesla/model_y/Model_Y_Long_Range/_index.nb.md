@@ -104,8 +104,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.<br />
-<br />
+Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 
 
 
