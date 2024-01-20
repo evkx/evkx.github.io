@@ -82,7 +82,7 @@ The rear and front brakes are [ceramic discs](../../../../technology/brakes/#cer
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model.
+You can choose between 5 different paint colors when ordering this model.
 
 
 
@@ -110,6 +110,7 @@ The following functionalities are available on the **** seat.
 - integrated headrest
 
 You can choose from 1 different materials/colors for this seat type.
+- Black [Alcantara upholstering](../../../../technology/seats/materials/#alcantara)
 
 
 
@@ -173,7 +174,9 @@ The Rimac Nevera has a [**lane-keeping assist**](../../../../technology/driveras
 
 
 
-With the standard system the model offers no driving automation.
+With the   level 2 system, you get the following driving automation features.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel. 
 
 
 {{<evkxdisplayaddarticle />}}

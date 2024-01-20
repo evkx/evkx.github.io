@@ -82,7 +82,7 @@ Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceram
 
 ## Eksteriør
 
-Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
 
 
@@ -110,6 +110,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - integrert hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+- Black [polstring av Alcantara](../../../../technology/seats/materials/#alcantara)
 
 
 
@@ -173,7 +174,9 @@ Rimac Nevera har et [**kjørefeltassistent**](../../../../technology/driverassis
 
 
 
-Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
+Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet. 
 
 
 {{<evkxdisplayaddarticle />}}

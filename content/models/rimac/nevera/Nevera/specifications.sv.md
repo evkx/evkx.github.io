@@ -648,6 +648,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bromsassistent
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -655,6 +656,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Traction Control
 			</td>
 			<td>
+				Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

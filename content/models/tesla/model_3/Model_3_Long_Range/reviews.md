@@ -9,6 +9,20 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 LR Highland 1000 km challenge part 1</h3>
+<p>Bjørn Nyland: 20.01.2024</p>
+
+{{< youtube lb_98bdhUd0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 LR Highland 1000 km challenge part 2</h3>
+<p>Bjørn Nyland: 20.01.2024</p>
+
+{{< youtube EbX5A-w9uck >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Model 3 LR Highland range test</h3>
 <p>Bjørn Nyland: 15.01.2024</p>
 
