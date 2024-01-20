@@ -5,6 +5,7 @@ description: Elbilar byggs med hjälp av olika teknologier för att förbättra,
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 Detta teknikavsnitt kommer att utforska de olika teknologierna som driver elbilar och förklara hur de fungerar och deras fördelar och begränsningar.
 
@@ -12,29 +13,181 @@ Att gå igenom varje delavsnitt kommer att ge dig en omfattande förståelse fö
 
 Teknikartiklarna vänder sig till alla som vill lära sig mer om elbilsteknik, från den potentiella elbilsägaren som vill förstå hur saker fungerar, till återförsäljare som vill veta hur elbilar fungerar.
 
-Klicka på direktlänken nedan eller scrolla ner för en introduktion till varje avsnitt.
+<strong>Klicka på direktlänken nedan eller scrolla ner för en introduktion till varje avsnitt.</strong>
 
-- [Advanced Driver Assistance Systems (ADAS)](driverassistance/)
-- [Bromsar](brakes/)
-- [Laddning](charging/)
-- [Luftkonditioneringssystem](hvac/)
-- [Lastnings- och trailermöjligheterr](cargoandtowing/)
-- [Dörrar](doors/)
-- [Elbil batterier](battery/)
-- [Elbilsplattformar](platforms/)
-- [Glasstak](glassroof/)
-- [Infotainment system](infotainment/)
-- [Interiör](interior/)
-- [Lys](lights/)
-- [Motorer och drivenheter](motors/)
-- [Regenerativa bromsar](regen/)
-- [Säkerhet](safety/)
-- [Säten](seats/)
-- [Sensorer och kamera](sensorsandcameras/)
-- [Hjulupphängning](suspension/)
-- [Fälgar och däck](wheels/)
-- [Användargränssnitt](userinterface/)
-- [Fönster](windows/)
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<div class="row">
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="driverassistance/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/driverassistance/adaptivecruisecontrol/illustration_xst.jpg" alt="Assistentsystemer (ADAS)" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Avancerade assistanssystem (ADAS)</h5>
+		</div>
+        <div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+			<a href="brakes/" class="a-illustrationLink">
+					<img src="https://media.evkx.net/multimedia/technology/brakes/ceramicetrongt_xst.jpg"  alt="Bromsar " class="img-fluid image-cropped-calc border">
+			</a>
+				</div>
+				<h5>Bromsar</h5>
+		</div>
+        <div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="cargoandtowing/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg"  alt="Cargo & Towing" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Last och trailer</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="charging/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg"  alt="Laddning" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Laddning</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="hvac/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg"  alt="Klimatsystem" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Klimatsystem</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="doors/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/doors/xpengp7wingdoors_1_xst.jpg"  alt="Dörrar" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Dörrar</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="battery/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/battery/bmwixbattery_1_xst.jpg" alt="Elbilsbatterier" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>Elbilsbatterier</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="platforms/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/platforms/e-golf_1_xst.jpg" alt="Elbilsplattformar" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>Elbilsplattformar</h5>
+		</div>
+	    <div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="glassroof/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open_xst.jpg" alt="Glastak" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>Glastak</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="infotainment/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/infotainment/teslamodelxinfotainment_xst.jpg" alt="Infotainmentsystem" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>Infotainmentsystem</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="interior/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/interior/cockpitdesign/hiphixcockpit_1_xst.jpg" alt="Interiör" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>Interiör</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="lights/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/lights/audisq8lights_xst.jpg"  alt="Ljus" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Ljus</h5>
+			</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="motors/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/motors/asyncronmotor_xst.jpg"  alt="Motorer och drivenheter" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Motorer och drivenheter</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="regen/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/regen/kiaev6regenpaddles_xst.jpg"  alt="Regenerativ bromsning" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Regenerativ bromsning</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="safety/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/safety/illustration_xst.jpg"  alt="Säkerhet" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Säkerhet</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="seats/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg"  alt="Säten" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Säten</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="sensorsandcameras/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg"  alt="Sensorer och kameror" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Sensorer och kameror</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="suspension/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_xst.jpg"  alt="Hjulupphängning" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Hjulupphängning</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="wheels/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1_xst.jpg"  alt="Däck och fälgar" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Däck och fälgar</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="userinterface/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/userinterface/eqsui_xst.jpg"  alt="Användargränssnitt" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Användargränssnitt</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="windows/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/windows/windshield_1_xst.jpeg"  alt="Fönster" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Fönster</h5>
+		</div>
+	</div>
+</div>
+
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 
@@ -42,7 +195,7 @@ Klicka på direktlänken nedan eller scrolla ner för en introduktion till varje
     <img src="https://media.evkx.net/multimedia/technology/driverassistance/automatedlanechange/illustration_st.jpg" alt="Driver Assistance" title="Driver Assistance" class="img-fluid mb-2">
 </a>
 
-## Avancerade förarassistanssystem (ADAS)
+## Avancerade assistanssystem (ADAS)
 
 Avancerade förarassistanssystem (ADAS) blir allt viktigare för att göra fordon säkrare och effektivare.
 
@@ -64,6 +217,22 @@ Den här artikeln kommer att utforska de olika typerna av ADAS som finns tillgä
 Eftersom elfordon (EV) fortsätter att växa i popularitet har efterfrågan på högpresterande bromssystem ökat. Bromsar är en avgörande säkerhetsfunktion i alla fordon, men specialiserade bromssystem är nödvändiga med de unika egenskaperna hos elfordon, såsom regenerativ bromsning. Den här artikeln kommer att utforska de olika typerna av bromsar som används på elbilar, inklusive keramiska bromsar, stålbromsar, trumbromsar och mer. Vi kommer att fördjupa oss i fördelarna och nackdelarna med varje typ, såväl som deras specifika tillämpningar i elfordon.
 
 <a href="brakes/" class="btn btn-outline-primary" role="button">Läs vår artikel om bromsteknik.</a>
+
+</div>
+
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+
+<a href="cargoandtowing/">
+    <img src="https://media.evkx.net/multimedia/technology/cargoandtowing/hitchcargo/hitchcargo_1_st.jpg" alt="Cargo & Towing" title="Chargo & Towing" class="img-fluid mb-2">
+</a>
+
+## Last och trailer
+
+Bilar är inte bara avsedda för transport av människor, utan även för transport av olika typer av gods, såsom matvaror, bagage, husdjur eller sportutrustning.
+
+Lär dig allt om möjligheter och begränsningar i vår artikel.
+
+<a href="cargoandtowing/" class="btn btn-outline-primary" role="button">Läs artikeln om last och trailer.</a>
 
 </div>
 

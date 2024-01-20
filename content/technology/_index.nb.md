@@ -187,10 +187,6 @@ Teknologiartiklene retter seg mot alle som ønsker å lære mer om EV-teknologi,
 		</div>
 	</div>
 </div>
-
-
-
-
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 
 <a href="driverassistance/">
