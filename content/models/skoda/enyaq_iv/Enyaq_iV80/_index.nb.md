@@ -78,8 +78,6 @@ Dynamisk styring er tilvalg-funksjonen på SKODA Enyaq iV80. Dynamisk styring va
 ## Eksteriør
 
 Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
-exterior.styling.sportline
-
 I tillegg kan du velge mellom 5 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

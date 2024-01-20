@@ -82,10 +82,6 @@ Dynamisk styrning är valfritt-funktionen för Audi Q4 Sportback 45 e-tron quatt
 Du kan välja mellan 8 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
-exterior.styling.audisline
-
-exterior.styling.blackoptics
-
 Dessutom kan du välja mellan 11 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

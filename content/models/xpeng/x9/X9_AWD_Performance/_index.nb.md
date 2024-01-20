@@ -85,7 +85,7 @@ Vutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-interior.seats.layout.7seatsthreeseatbenchthirdrow
+Seteoppsettet er syv seter med to foran, to seter på andre rad og tre seter på tredje rad.
 
 ### Forseter
 

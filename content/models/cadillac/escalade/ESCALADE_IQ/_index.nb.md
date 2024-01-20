@@ -83,7 +83,7 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 ## Interiør
 
-interior.seats.layout.7seatsthreeseatbenchthirdrow
+Seteoppsettet er syv seter med to foran, to seter på andre rad og tre seter på tredje rad.
 
 ### Forseter
 

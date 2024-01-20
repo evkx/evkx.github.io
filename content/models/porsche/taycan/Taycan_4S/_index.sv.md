@@ -90,12 +90,6 @@ Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gj
 Du kan välja mellan 17 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
-exterior.styling.sportdesignpackage
-
-exterior.styling.sportdesignpackagecarbon
-
-exterior.styling.sportdesignpackagehighglossblack
-
 Dessutom kan du välja mellan 8 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

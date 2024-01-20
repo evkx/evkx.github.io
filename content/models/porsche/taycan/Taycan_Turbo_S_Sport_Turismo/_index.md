@@ -76,11 +76,14 @@ The rear and front brakes are [ceramic discs](../../../../technology/brakes/#cer
 You can choose between 17 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
-The optional SportDesign package contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in exterior color specially designed rear diffusor in Black with side fins painted in exterior color, front licence plate carrier painted in exterior color.
+The optional SportDesign package contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in exterior color specially designed rear diffusor in Black with side fins painted in exterior color, front licence plate carrier painted in exterior color. 
 
-The optional SportDesign package Carbon contains a specially designed upper part front apron, lower part front apron with inlays in carbon, specially designed side skirts in Black with inlays in carbon, specially designed rear diffusor in Black with side fins in carbon, front licence plate carrier painted in exterior color.
 
-The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color.
+ The optional SportDesign package Carbon contains a specially designed upper part front apron, lower part front apron with inlays in carbon, specially designed side skirts in Black with inlays in carbon, specially designed rear diffusor in Black with side fins in carbon, front licence plate carrier painted in exterior color. 
+
+
+The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
+
 
 Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches.
 

@@ -76,8 +76,6 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen.
-exterior.styling.amgline
-
 I tillegg kan du velge mellom 6 hjul med størrelser fra 18 til 19 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

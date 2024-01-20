@@ -85,7 +85,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-interior.seats.layout.7seatsthreeseatbenchthirdrow
+Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
 
 ### Framsäten
 

@@ -78,8 +78,6 @@ Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker
 ## Eksteriør
 
 Du kan velge mellom 11 forskjellige lakkfarger når du bestiller denne modellen.
-exterior.styling.amgnight
-
 I tillegg kan du velge mellom 4 hjul med størrelser fra 21 til 22 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

@@ -80,10 +80,6 @@ Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gj
 Du kan välja mellan 11 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
-exterior.styling.amgline
-
-exterior.styling.amgnight
-
 Dessutom kan du välja mellan 4 hjul i storlek från 20 till 21 tum.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.

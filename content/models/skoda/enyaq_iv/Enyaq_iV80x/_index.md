@@ -78,8 +78,6 @@ Dynamic steering is an optional feature on the SKODA Enyaq iV80x. Dynamic steeri
 ## Exterior
 
 You can choose between 9 different paint colors when ordering this model.
-exterior.styling.sportline
-
 Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

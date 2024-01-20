@@ -83,7 +83,7 @@ There is only one roof for this model. As an option, you can order this model wi
 
 ## Interior
 
-interior.seats.layout.7seatsthreeseatbenchthirdrow
+The seat layout is seven seats with two in front, two seats in the second row and three seats on third row.
 
 ### First row seats
 

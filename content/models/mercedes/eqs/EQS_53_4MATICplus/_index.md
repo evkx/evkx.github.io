@@ -78,7 +78,8 @@ You can choose between different brake systems. The standard option brakes use r
 ## Exterior
 
 You can choose between 11 different paint colors when ordering this model.
-The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions.
+The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
+
 
 Additionally, you can choose between 4 wheels with sizes from 21 to 22 inches.
 

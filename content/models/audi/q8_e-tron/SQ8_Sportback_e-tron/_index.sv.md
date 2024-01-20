@@ -87,8 +87,6 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Du kan välja mellan 61 olika färgfärger när du beställer den här modellen.
-exterior.styling.blackoptics
-
 Dessutom kan du välja mellan 4 hjul i storlek från 20 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna.

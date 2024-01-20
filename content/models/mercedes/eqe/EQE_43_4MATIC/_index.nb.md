@@ -78,10 +78,6 @@ Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker
 Du kan velge mellom 11 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-exterior.styling.amgline
-
-exterior.styling.amgnight
-
 I tillegg kan du velge mellom 4 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.

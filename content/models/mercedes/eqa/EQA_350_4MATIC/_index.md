@@ -76,7 +76,8 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 You can choose between 10 different paint colors when ordering this model.
-In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill.
+ In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
+
 
 Additionally, you can choose between 6 wheels with sizes from 18 to 19 inches.
 

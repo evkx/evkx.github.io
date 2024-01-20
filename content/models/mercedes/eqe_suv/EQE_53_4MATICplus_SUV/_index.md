@@ -76,9 +76,11 @@ You can choose between different brake systems. The standard option brakes use r
 You can choose between 7 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
-In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill.
+ In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions.
+
+The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
+
 
 Additionally, you can choose between 5 wheels with sizes from 20 to 22 inches.
 

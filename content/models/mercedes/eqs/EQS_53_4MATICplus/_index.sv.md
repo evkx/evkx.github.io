@@ -78,8 +78,6 @@ Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gj
 ## Exteriör
 
 Du kan välja mellan 11 olika färgfärger när du beställer den här modellen.
-exterior.styling.amgnight
-
 Dessutom kan du välja mellan 4 hjul i storlek från 21 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

@@ -83,7 +83,7 @@ Det finns bara ett tak för denna modell. Som ekstrautstyr kan du bestille denne
 
 ## Interiör
 
-interior.seats.layout.7seatsthreeseatbenchthirdrow
+Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
 
 ### Framsäten
 

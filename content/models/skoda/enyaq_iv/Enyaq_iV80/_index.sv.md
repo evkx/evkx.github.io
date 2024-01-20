@@ -78,8 +78,6 @@ Dynamisk styrning är valfritt-funktionen för SKODA Enyaq iV80. Dynamisk styrni
 ## Exteriör
 
 Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
-exterior.styling.sportline
-
 Dessutom kan du välja mellan 5 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

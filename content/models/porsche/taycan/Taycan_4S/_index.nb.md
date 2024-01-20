@@ -90,12 +90,6 @@ Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker
 Du kan velge mellom 17 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-exterior.styling.sportdesignpackage
-
-exterior.styling.sportdesignpackagecarbon
-
-exterior.styling.sportdesignpackagehighglossblack
-
 I tillegg kan du velge mellom 8 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

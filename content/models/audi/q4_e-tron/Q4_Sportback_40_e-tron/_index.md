@@ -76,9 +76,11 @@ Dynamic steering is an optional feature on the Audi Q4 Sportback 40 e-tron. Dyna
 You can choose between 8 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
-In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake.
+ In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
+
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
+
 
 Additionally, you can choose between 11 wheels with sizes from 19 to 21 inches.
 

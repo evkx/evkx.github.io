@@ -85,7 +85,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-interior.seats.layout.7seatsthreeseatbenchthirdrow
+The seat layout is seven seats with two in front, two seats in the second row and three seats on third row.
 
 ### First row seats
 
