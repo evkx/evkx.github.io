@@ -154,7 +154,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volvo EM90 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum. Skärmen touch översta mittkonsolen är 15.4 tum. uicontrols.rearseatinfotainment.secondrowroof
+Volvo EM90 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum. Skärmen touch översta mittkonsolen är 15.4 tum. För baksätespassagerarna finns det en infotainmentskärm i taket bakom sätena på första raden.
 Modellen är inte tillgänglig med head-up display.
 
 
