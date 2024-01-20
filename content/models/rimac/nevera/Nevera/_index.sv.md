@@ -39,6 +39,8 @@ Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 106,8kWh, 
 
 Maximal DC-laddningshastighet är 500 kW. En full laddning från 0 - 100 % tar 34 minuter, medan ett vanligare scenario på 10-80 % tar 17 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 232kW. Varje laddningssession tar 16 minuter och 46 sekunder.
 
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 8 timmar och 55 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 64%. Total tid som går förlorad för att ladda batteriet kommer att vara 35 minuter.
+
 ### Inbyggd laddare
 
 För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 22KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 4 timmar och 51 minuter.
@@ -61,11 +63,22 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Dynamisk styrning är standard-funktionen för Rimac Nevera. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
 
+### Körlägen
+
+Rimac Nevera låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
+
+- Range: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
+- Cruise: Balanserad styrning, lågest fjädringshöjd med balanserad gas och dämpning.
+- Sport: Balanserad styrning, lågest fjädringshöjd med balanserad gas och dämpning.
+- Track: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+- Drift: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
+
+
 ### Bromsar
 
 Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 390mm och de bakre skivorna är 390mm.
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving) kombinerat med [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Adaptiv regen](../../../../technology/regen/#adaptiv-regen) är inte tillgänglig i den här modellen. Systemet stoppar bilen helt med friktionsbromsar.
+[Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual - regen-user-brakepedal) för att regenerera. Systemet stoppar bilen helt med friktionsbromsar. Du kan justera hur stark regen är när du lyfter foten. Det finns två nivåer.
 
 ## Exteriör
 

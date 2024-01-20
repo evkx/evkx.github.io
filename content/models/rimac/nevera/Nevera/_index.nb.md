@@ -39,6 +39,8 @@ Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 106,8kWh, n
 
 Maksimal DC-ladehastighet er 500 kW. En full lading fra 0 - 100 % vil ta 34 minutter, mens et mer vanlig scenario på 10-80 % vil ta 17 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 232kW. Hver ladeøkt vil ta 16 minutter og 46 sekunder.
 
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 8 timer og 55 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 64%. Totalt tapt tid for å lade opp batteriet vil være 35 minutter.
+
 ### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 51 minutter.
@@ -61,11 +63,22 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 Dynamisk styring er standard-funksjonen på Rimac Nevera. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
+### Kjøremoduser
+
+Rimac Nevera lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
+
+- Range: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Cruise: Balansert styring, lavest fjæringshøyde med balansert gass og demping.
+- Sport: Balansert styring, lavest fjæringshøyde med balansert gass og demping.
+- Track: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Drift: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+
+
 ### Bremser
 
 Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 390mm, og de bakre skivene er 390mm.
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
 
 ## Eksteriør
 
