@@ -1,7 +1,7 @@
 ---
-title: Elbil batterier
-linktitle: Elbil batterier
-description: Elbil-batterier er ansvarlige for å lagre energien som driver kjøretøyets elektriske motor, og de spiller en avgjørende rolle i å bestemme en EVs ytelse, rekkevidde og totale kostnader.
+title: Elbils batterier
+linktitle: Elbils batterier
+description: Elfordonsbatterier är ansvariga för att lagra energin som driver fordonets elmotor, och de spelar en avgörande roll för att bestämma en EVs prestanda, räckvidd och totala kostnad.****
 weight: 2
 shownavtabs: true
 ---
@@ -12,6 +12,8 @@ I den här artikeln kommer vi att utforska de olika typerna av EV-batterier, hur
 {{< sitefiguresized thumb="technology/battery/bmwixbattery_1_st.jpg" title="BMW iX batteripaket" width="3000" height="1688">}}
 
 I slutet av denna artikel kommer du att bättre förstå det nuvarande tillståndet och utsikterna för elbilsbatterier och deras roll i övergången till ett mer hållbart transportsystem.
+
+{{<evkxdisplayaddarticle />}}
 
 Vi har delat in artikeln i separata avsnitt.
 
@@ -28,4 +30,7 @@ Vi har delat in artikeln i separata avsnitt.
 - [Tillverkare](manufactors/) - Vilka är de största batteritillverkarna?
 - [Garanti](warranty/) - Vilken typ av batterigaranti är typiskt?
 
-{{<evkxdisplayaddarticle />}}
+<div class="mt-3 mb-3">
+    <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Dörrar</strong></a>
+    <a href="basic/" class="text-decoration-none text-black float-end"><strong>Grundläggande batteri <i class="bi-arrow-right"></i></strong></a>
+</div>

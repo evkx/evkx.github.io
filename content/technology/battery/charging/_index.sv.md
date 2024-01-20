@@ -1,6 +1,6 @@
 ---
-title: Laddar
-linktitle: Laddar
+title: Laddning
+linktitle: Laddning
 description: Att ladda batteriet är processen att tillföra ny energi till batteriet.
 weight: 8
 navicon: bi-battery-charging
@@ -95,6 +95,6 @@ Vid längre resor kan laddningskurvan påverka det optimala laddningsstoppet. En
 För alla modeller beräknar EVKX detta åt dig på modellinfosidan.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
-    <a href="../degredation/" class="btn btn-primary float-end">Degredation <i class="bi-arrow-right-circle"></i></a>
+    <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Cellbalansering</strong></a>
+    <a href="../degredation/" class="text-decoration-none text-black float-end"><strong>Batteriförsämring <i class="bi-arrow-right"></i></strong></a>
 </div>

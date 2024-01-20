@@ -94,6 +94,6 @@ Bladbatterier tillverkas i första hand av den kinesiska batteritillverkaren BYD
 En av de viktigaste säkerhetsfunktionerna hos lövbatterier är användningen av en keramisk separator mellan anod- och katodskikten i cellen. Denna keramiska separator är mer motståndskraftig mot termisk rusning och ger bättre skydd mot interna kortslutningar, vilket minskar risken för batteribränder och explosioner.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
-    <a href="../thermalmanagement/" class="btn btn-primary float-end">Thermal Management <i class="bi-arrow-right-circle"></i></a>
+    <a href="../cellchemistry/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Cellkemi och delar</strong></a>
+    <a href="../batterypack/" class="text-decoration-none text-black float-end"><strong>Batteripaket och konfiguration <i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -29,4 +29,8 @@ I dette klippet ser du detaljer om det termiske styringssystemet på [Audi e-tro
 
 <br />
 
-Fortsett til [cellebalansering](../cellebalansering/) eller gå tilbake til [artikkeloversikt](../).
+
+<div class="mt-3 mb-3">
+    <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batterihåndteringssystem</strong></a>
+    <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Cellebalansering <i class="bi-arrow-right"></i></strong></a>
+</div>

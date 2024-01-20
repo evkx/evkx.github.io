@@ -29,4 +29,7 @@ I det här klippet ser du detaljer om värmehanteringssystemet på [Audi e-tron 
 
 <br />
 
-Fortsätt till [cellbalansering](../cellbalansering/) eller återgå till [artikelöversikt](../).
+<div class="mt-3 mb-3">
+    <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batterihantering</strong></a>
+    <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Cellbalansering <i class="bi-arrow-right"></i></strong></a>
+</div>

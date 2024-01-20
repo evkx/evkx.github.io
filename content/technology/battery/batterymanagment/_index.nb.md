@@ -1,7 +1,7 @@
 ---
-title: Batterihåndtering
-linktitle: Batterihåndtering
-description: Et batteristyringssystem (BMS) er en kritisk komponent i et elektrisk kjøretøy (EV) som er ansvarlig for å administrere ytelsen, helsen og sikkerheten til batteriet.
+title: Batterihåndteringssystem
+linktitle: Batterihåndteringssystem
+description: Et Batterihåndteringssystem (BMS) er en kritisk komponent i et elektrisk kjøretøy (EV) som er ansvarlig for å administrere ytelsen, helsen og sikkerheten til batteriet.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->

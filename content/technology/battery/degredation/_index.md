@@ -55,7 +55,6 @@ Tesla has in the [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022
 Read how to preserver your battery in our [guide](../../../guides/protectingbattery/).
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
-    <a href="../buffer/" class="btn btn-primary float-end">Buffer <i class="bi-arrow-right-circle"></i></a>
+    <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Charging</strong></a>
+    <a href="../buffer/" class="text-decoration-none text-black float-end"><strong>Buffer <i class="bi-arrow-right"></i></strong></a>
 </div>
-

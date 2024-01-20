@@ -16,6 +16,7 @@ Anodens prestanda är en kritisk faktor för den övergripande prestandan och s�
 Vissa företag som StoreDot arbetar med anoder baserade på [Silicon](https://www.store-dot.com/blog/silicon-dominant-anodes-pave-the-way-for-future-li-ion-ev- batterier). Detta skulle teoretiskt sett kunna se energitätheten på cellnivå nästan fördubblas, vilket ger uppenbara fördelar för elbilar. Utöver detta kan Si-anoder också förbättra attraktionskraften hos lågenergiceller, såsom LFP, minska gapet till NMC-baserade celler och minimera kärnnackdelen med LFP - begränsad energitäthet - särskilt i EV-applikationer. Uppskattningar visar att inkorporering av 20 procent Si i en anod kan förbättra en LFP-cells energitäthet med 17 procent – ​​även om den extra kostnaden för Si-anoden kan vara oöverkomlig.
 
 {{<evkxdisplayaddarticle />}}
+
 ## Katod
 
 Katoden är elektroden där reduktion sker under batteriets urladdningscykel, och tar emot elektroner från den externa kretsen för att driva enheten eller fordonet. Under laddningscykeln är katoden där oxidation sker, släpper ut elektroner till den externa kretsen och lagrar energi i batteriet.
@@ -37,6 +38,7 @@ Förutom metallförhållandena kan partikelstorleken och morfologin hos katodmat
 Sammantaget beror valet av NMC-katodsammansättning och morfologi på de specifika kraven för EV-batteriet, inklusive energitäthet, effekttäthet, termisk stabilitet, hållbarhet och kostnad. Batteritillverkare forskar och utvecklar ständigt nya NMC-katodmaterial för att förbättra prestanda och effektivitet hos EV-batterier.
 
 {{<evkxdisplayaddarticle />}}
+
 ### Litium-nickel-kobolt-aluminiumoxid (NCA)
 
 NCA-katoder har hög energitäthet och används i EV-batterier, speciellt i Teslas fordon. NCA-katoder erbjuder hög energitäthet och bra prestanda, vilket gör dem till ett populärt val för många elbilstillverkare.
@@ -56,6 +58,7 @@ Litiumjärn (ferro) fosfat (LFP) är ett katodmaterial som vanligtvis används i
 Sammansättningen av LFP-katoder består av litiumjärnfosfat (LiFePO4), vilket är ett relativt stabilt och giftfritt material jämfört med andra litiumjonbatterier. Detta gör LFP-katoder till ett populärt val för elbilsbatterier i Kina, där säkerhetsbestämmelserna är strikta.
 
 Märken som Tesla har börjat använda LFP i sina lägre modeller.
+
 #### Fördelar med LFP
 
 En av de främsta fördelarna med LFP-katoder är deras höga termiska stabilitet, vilket gör dem mindre benägna för termisk rinnande och överhettning jämfört med andra katodtyper. Detta beror på att den kemiska bindningen mellan järn, syre och fosfor i katodstrukturen är starkare än andra katodmaterial. Som ett resultat kan LFP-batterier drivas vid höga temperaturer utan behov av aktiva kylsystem, vilket minskar komplexiteten och kostnaden för batteripaketet.
@@ -139,6 +142,7 @@ Det finns flera typer av separatormaterial som används i elbilsbatterier, inklu
 Sammanfattningsvis är separatorn en kritisk komponent i ett EV-batteri som hjälper till att förhindra kortslutning och upprätthåller enhetligheten i batteriets interna struktur samtidigt som det tillåter flödet av litiumjoner som är nödvändigt för att batteriet ska fungera.
 
 {{<evkxdisplayaddarticle />}}
+
 ## Elektrolyt
 
 Flytande elektrolyter i litiumjonbatterier består av litiumsalter i ett organiskt lösningsmedel, såsom etylenkarbonat, dimetylkarbonat och dietylkarbonat.
@@ -162,6 +166,6 @@ I till exempel en litiumjonbattericell är strömavtagaren vanligtvis gjord av k
 Designen och materialen som används för strömavtagaren kan ha en betydande inverkan på battericellens prestanda och hållbarhet. Till exempel kan en strömavtagare med hög ledningsförmåga och lågt motstånd bidra till att förbättra battericellens effektivitet, medan en strömavtagare som är utsatt för korrosion kan minska cellens livslängd.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
-    <a href="../cell/" class="btn btn-primary float-end">Cellehus <i class="bi-arrow-right-circle"></i></a>
+    <a href="../basic/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Grundläggande batteri</strong></a>
+    <a href="../cell/" class="text-decoration-none text-black float-end"><strong>Cellehus <i class="bi-arrow-right"></i></strong></a>
 </div>

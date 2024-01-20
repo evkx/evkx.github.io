@@ -282,6 +282,6 @@ Tabellen nedenfor viser hvordan pakketettheten har variert over tid mellom noen 
 Hvis du vil ha detaljer om flere pakker, anbefaler vi <a href="https://www.batterydesign.net/maximising-pack-energy-density/">BatteryDesign.net</a>
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt <i class="bi-card-list"></i></a>
-    <a href="../batterymanagment/" class="btn btn-primary float-end">Battery Mangement System <i class="bi-arrow-right-circle"></i></a>
+    <a href="../cell/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>Cellehus</strong></a>
+    <a href="../batterymanagment/" class="text-decoration-none text-black float-end"><strong>Batterihåndteringssystem <i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -84,6 +84,6 @@ EVKX.net believes this is a bad practice from the manufacturers.
 See Bjørns test results for <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">more data</a> or all his <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Zero Miles Tests</a>
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
-    <a href="../manufactors/" class="btn btn-primary float-end">Manufacturers <i class="bi-arrow-right-circle"></i></a>
+    <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Battery Degradation</strong></a>
+    <a href="../manufactors/" class="text-decoration-none text-black float-end"><strong>Manufacturers <i class="bi-arrow-right"></i></strong></a>
 </div>

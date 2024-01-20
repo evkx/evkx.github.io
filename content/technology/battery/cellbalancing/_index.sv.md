@@ -17,6 +17,6 @@ Högspänningsbatteriets laddningsnivå är dock endast 96 %. Balansering gör a
 För att göra detta jämför batteriregleringsstyrenheten cellgruppernas spänningar. Om cellgrupper har hög cellspänning tar den ansvariga batterimodulstyrenheten emot balanseringsinformationen. Balansering utförs när spänningsskillnader större än ca. 1 % inträffar när högspänningsbatteriet laddas. Efter att tändningen stängts av kontrollerar batterihanteringsenheten om balansering krävs och utlöser den vid behov. Typisk balansering utförs vid laddningsnivåer över 30 %.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
-    <a href="../charging/" class="btn btn-primary float-end">Laddning <i class="bi-arrow-right-circle"></i></a>
+    <a href="../thermalmanagement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Termisk hantering</strong></a>
+    <a href="../charging/" class="text-decoration-none text-black float-end"><strong>Laddning <i class="bi-arrow-right"></i></strong></a>
 </div>

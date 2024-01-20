@@ -29,4 +29,7 @@ In this clip, you see details about the thermal management system on [Audi e-tro
 
 <br />
 
-Continue to [cell balancing](../cellbalancing/) or go back to the [article overview](../).
+<div class="mt-3 mb-3">
+    <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Battery management</strong></a>
+    <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Cell balancing <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -2,7 +2,7 @@
 title: Garanti
 linktitle: Garanti
 description: Den garanti som erbjuds av EV-tillverkare för deras batterier kan variera beroende på tillverkaren och den specifika fordonsmodellen.
-weight: 10
+weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -12,7 +12,7 @@ När det gäller kapacitet kan vissa elbilstillverkare erbjuda en garanti som ga
 
 Garantin kan även ta hänsyn till batteriets ålder. Till exempel kan en tillverkare erbjuda en garanti som täcker eventuella material- eller tillverkningsfel under de första 3 åren, och sedan täcka batteriet mot en minskning av kapaciteten under en viss nivå i ytterligare 5 år.
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr>
     <th>Manufacturer</th>
@@ -83,6 +83,8 @@ Garantin kan även ta hänsyn till batteriets ålder. Till exempel kan en tillve
 
 Det är viktigt att notera att de specifika villkoren för garantin kan variera kraftigt mellan tillverkare, så det är alltid en bra idé att noggrant granska garantiinformationen innan du köper en elbil.
 
+
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikelöversikt <i class="bi-card-list"></i></a>
+    <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Tillverkare</strong></a>
+    <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>Elbilsplattformar <i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -98,6 +98,6 @@ On longer trips, the charging curve may affect the optimum charging stop. For ex
 For all models, EVKX calculates this for you on the model info page.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
-    <a href="../degredation/" class="btn btn-primary float-end">Degredation <i class="bi-arrow-right-circle"></i></a>
+    <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Cell balancing</strong></a>
+    <a href="../degredation/" class="text-decoration-none text-black float-end"><strong>Degredation <i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -44,6 +44,6 @@ I tillegg kjøper mange bare celler fra celleprodusenter og lager batteriet selv
 [For en fullstendig liste over celleprodusenter se Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt <i class="bi-card-list"></i></a>
-    <a href="../warranty/" class="btn btn-primary float-end">Garranti <i class="bi-arrow-right-circle"></i></a>
+    <a href="../buffer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Buffer</strong></a>
+    <a href="../warranty/" class="text-decoration-none text-black float-end"><strong>Garranti <i class="bi-arrow-right"></i></strong></a>
 </div>

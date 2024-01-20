@@ -13,6 +13,8 @@ In this article, we will explore the different types of EV batteries, how they w
 
 By the end of this article, you will better understand the current state and prospects of EV batteries and their role in the transition to a more sustainable transportation system.
 
+{{<evkxdisplayaddarticle />}}
+
 We have split the article into separate sections.
 
 - [Battery Basics](basic/) - The basic concept of a battery
@@ -28,4 +30,7 @@ We have split the article into separate sections.
 - [Manufacturers](manufactors/) - What are the largest battery producers?
 - [Warranty](warranty/) - What kind of battery warranty is typical?
 
-{{<evkxdisplayaddarticle />}}
+<div class="mt-3 mb-3">
+    <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Doors</strong></a>
+    <a href="basic/" class="text-decoration-none text-black float-end"><strong>Battery Basics <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -97,6 +97,6 @@ På lengre turer kan ladekurven påvirke det optimale ladestoppet. For eksempel 
 For alle modeller beregner EVKX dette for deg på modellinfosiden.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt <i class="bi-card-list"></i></a>
-    <a href="../degredation/" class="btn btn-primary float-end">Degredation <i class="bi-arrow-right-circle"></i></a>
+    <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Cellebalansering</strong></a>
+    <a href="../degredation/" class="text-decoration-none text-black float-end"><strong>Batteridegradering <i class="bi-arrow-right"></i></strong></a>
 </div>

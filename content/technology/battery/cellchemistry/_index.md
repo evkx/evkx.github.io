@@ -176,6 +176,6 @@ In the below video the Battery Scientist & Engineer [Jill Pestana](https://www.l
 {{< youtube yyp-GydAHfM >}}
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
-    <a href="../cell/" class="btn btn-primary float-end">Cell housing <i class="bi-arrow-right-circle"></i></a>
+    <a href="../basic/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Battery basics</strong></a>
+    <a href="../cell/" class="text-decoration-none text-black float-end"><strong>Cell housing  <i class="bi-arrow-right"></i></strong></a>
 </div>

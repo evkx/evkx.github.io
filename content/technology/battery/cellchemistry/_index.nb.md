@@ -169,6 +169,6 @@ I en litium-ion battericelle, for eksempel, er strømkollektoren vanligvis laget
 Designet og materialene som brukes til strømkollektoren kan ha en betydelig innvirkning på ytelsen og holdbarheten til battericellen. For eksempel kan en strømavtager med høy ledningsevne og lav motstand bidra til å forbedre effektiviteten til battericellen, mens en strømavtager som er utsatt for korrosjon kan redusere levetiden til cellen.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt <i class="bi-card-list"></i></a>
-    <a href="../cell/" class="btn btn-primary float-end">Cellehus <i class="bi-arrow-right-circle"></i></a>
+    <a href="../basic/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Grunnleggende om batteri</strong></a>
+    <a href="../cell/" class="text-decoration-none text-black float-end"><strong>Cellehus  <i class="bi-arrow-right"></i></strong></a>
 </div>

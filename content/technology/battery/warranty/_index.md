@@ -2,7 +2,7 @@
 title: Warranty
 linktitle: Warranty
 description: The warranty offered by EV manufacturers for their batteries can vary depending on the manufacturer and the specific model of the vehicle. 
-weight: 10
+weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -12,7 +12,7 @@ In terms of capacity, some EV manufacturers may offer a warranty that guarantees
 
 The warranty may also take into account the age of the battery. For example, a manufacturer might offer a warranty that covers any defects in materials or workmanship for the first 3 years, and then cover the battery against a drop in capacity below a certain level for an additional 5 years.
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr>
     <th>Manufacturer</th>
@@ -84,5 +84,6 @@ The warranty may also take into account the age of the battery. For example, a m
 It's important to note that the specific terms of the warranty can vary widely between manufacturers, so it's always a good idea to carefully review the warranty information before purchasing an EV.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
+    <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Manufactors</strong></a>
+    <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>EV Platforms <i class="bi-arrow-right"></i></strong></a>
 </div>

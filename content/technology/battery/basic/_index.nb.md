@@ -44,6 +44,6 @@ Hvis du vil gå til neste nivå, forstå hvordan et litiumionbatteri fungerer. S
 {{< youtube 4-1psMHSpKs >}}
 
 <div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Artikkeloversikt </strong></a>
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Elbilbattgeri intro </strong></a>
     <a href="../cellchemistry/" class="text-decoration-none text-black float-end"><strong>Cellekjemi og deler <i class="bi-arrow-right"></i></strong></a>
 </div>

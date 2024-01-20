@@ -17,6 +17,6 @@ However, the high-voltage battery charge level is only 96 %. Balancing means tha
 To do this, the battery regulation control unit compares the voltages of the cell groups. If cell groups have a high cell voltage, the battery modules control unit responsible receives the balancing information. Balancing is performed when voltage differences of greater than approx. 1% occurs when the high-voltage battery is being charged. After the ignition has been switched off, the battery regulation control unit checks whether balancing is necessary and triggers it if necessary. Typical balancing is performed at charge levels greater than 30%.
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
-    <a href="../charging/" class="btn btn-primary float-end">Charging <i class="bi-arrow-right-circle"></i></a>
+    <a href="../thermalmanagement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Thermal management</strong></a>
+    <a href="../charging/" class="text-decoration-none text-black float-end"><strong>Charging <i class="bi-arrow-right"></i></strong></a>
 </div>
