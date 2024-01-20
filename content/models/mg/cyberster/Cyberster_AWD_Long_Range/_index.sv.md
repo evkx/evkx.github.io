@@ -95,7 +95,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- interior.seat.alcantaraleatherette
+- Red [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
 
 
 

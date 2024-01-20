@@ -98,7 +98,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- interior.seat.alcantaraleatherette
+- Beige [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
 
 
 

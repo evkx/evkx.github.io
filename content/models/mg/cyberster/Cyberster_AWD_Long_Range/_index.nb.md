@@ -95,7 +95,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- interior.seat.alcantaraleatherette
+- Red [polstring av Alcantara/kunstskinn](../../../../technology/seats/materials/#alcantara)
 
 
 
