@@ -44,6 +44,6 @@ If you want to go to the next level, understand how a Lithium Ion battery works.
 {{< youtube 4-1psMHSpKs >}}
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Article overview <i class="bi-card-list"></i></a>
-    <a href="../cellchemistry/" class="btn btn-primary float-end">Cell chemistry and parts <i class="bi-arrow-right-circle"></i></a>
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Article overview </strong></a>
+    <a href="../cellchemistry/" class="text-decoration-none text-black float-end"><strong>Cell chemistry and parts <i class="bi-arrow-right"></i></strong></a>
 </div>

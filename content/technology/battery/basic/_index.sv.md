@@ -43,6 +43,6 @@ Om du vill gå till nästa nivå, förstå hur ett litiumjonbatteri fungerar. Se
 {{< youtube 4-1psMHSpKs >}}
 
 <div class="mt-3 mb-3">
-    <a href="../" class="btn btn-outline-secondary">Artikkeloversikt<i class="bi-card-list"></i></a>
-    <a href="../cellchemistry/" class="btn btn-primary float-end">Cellkemi och delar<i class="bi-arrow-right-circle"></i></a>
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Artikkeloversikt</strong></a>
+    <a href="../cellchemistry/" class="text-decoration-none text-black float-end"><strong>Cellkemi och delar <i class="bi-arrow-right"></i></strong></a>
 </div>

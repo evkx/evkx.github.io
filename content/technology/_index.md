@@ -5,6 +5,7 @@ description: EVs are built using various technologies to function, including ele
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 This technology section will delve into the different technologies that power EVs, explaining how they work and their benefits and limitations.
 
@@ -12,30 +13,181 @@ If you go through every subsection, you will have a comprehensive understanding 
 
 The technology articles target anyone wanting to learn more about EV technology, from the potential EV owner wanting to understand how stuff works to sales personnel wishing to know how EVs work.
 
-Click on the direct link below or scroll down for an introduction to each section.
+<strong>Click on the direct link below or scroll down for an introduction to each section.</strong>
 
-- [Advanced Driver Assistance Systems (ADAS)](driverassistance/)
-- [Brakes](brakes/)
-- [Cargo & Towing](cargoandtowing/)
-- [Charging](charging/)
-- [Climate system](hvac/)
-- [Doors](doors/)
-- [Drive Modes](drivemodes/)
-- [EV Batteries](battery/)
-- [EV Platforms](platforms/)
-- [Glass Panel roof](glassroof/)
-- [Infotainment system](infotainment/)
-- [Interior](interior/)
-- [Lights](lights/)
-- [Motors & Drive Units](motors/)
-- [Regenerative braking](regen/)
-- [Safety](safety/)
-- [Seats](seats/)
-- [Sensors & cameras](sensorsandcameras/)
-- [Suspension](suspension/)
-- [Tires & Wheels](wheels/)
-- [User Interface](userinterface/)
-- [Windows](windows/)
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<div class="row">
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="driverassistance/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/driverassistance/adaptivecruisecontrol/illustration_xst.jpg" alt="Advanced Driver Assistance Systems (ADAS)" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Advanced Driver Assistance Systems (ADAS)</h5>
+		</div>
+        <div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+			<a href="brakes/" class="a-illustrationLink">
+					<img src="https://media.evkx.net/multimedia/technology/brakes/ceramicetrongt_xst.jpg"  alt="Brakes " class="img-fluid image-cropped-calc border">
+			</a>
+				</div>
+				<h5>Brakes </h5>
+		</div>
+        <div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="cargoandtowing/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg"  alt="Cargo & Towing" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Cargo & Towing</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="charging/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg"  alt="Charging" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Charging</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="hvac/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg"  alt="Climate system" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Climate system</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="doors/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/doors/xpengp7wingdoors_1_xst.jpg"  alt="Doors" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Doors</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="battery/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/battery/bmwixbattery_1_xst.jpg" alt="EV Batteries" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>EV Batteries</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="platforms/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/platforms/e-golf_1_xst.jpg" alt="EV Platforms" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>EV Platforms</h5>
+		</div>
+	    <div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="glassroof/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open_xst.jpg" alt="Glass Panel roof" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>Glass Panel roof</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="infotainment/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/infotainment/teslamodelxinfotainment_xst.jpg" alt="Infotainment system" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>Infotainment system</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+				<div class="mb-2 image-box">
+					<a href="interior/" class="a-illustrationLink">
+							<img src="https://media.evkx.net/multimedia/technology/interior/cockpitdesign/hiphixcockpit_1_xst.jpg" alt="Interior" class="img-fluid image-cropped-calc border">
+					</a>
+				</div>
+				<h5>Interior</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="lights/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/lights/audisq8lights_xst.jpg"  alt="Lights" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Lights</h5>
+			</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="motors/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/motors/asyncronmotor_xst.jpg"  alt="Motors & Drive Units" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Motors & Drive Units</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="regen/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/regen/kiaev6regenpaddles_xst.jpg"  alt="Regenerative braking" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Regenerative braking</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="safety/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/safety/illustration_xst.jpg"  alt="Safety" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Safety</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="seats/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg"  alt="Seats" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Seats</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="sensorsandcameras/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg"  alt="Sensors & cameras" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Sensors & cameras</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="suspension/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_xst.jpg"  alt="Suspension" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Suspension</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="wheels/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1_xst.jpg"  alt="Tires & Wheels" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Tires & Wheels</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="userinterface/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/userinterface/eqsui_xst.jpg"  alt="User Interface" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>User Interface</h5>
+		</div>
+		<div class="col-12 col-md-6 col-lg-3">
+			<div class="mb-2 image-box">
+				<a href="windows/" class="a-illustrationLink">
+						<img src="https://media.evkx.net/multimedia/technology/windows/windshield_1_xst.jpeg"  alt="Windows" class="img-fluid image-cropped-calc border">
+				</a>
+			</div>
+			<h5>Windows</h5>
+		</div>
+	</div>
+</div>
+
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 <a href="driverassistance/">
@@ -64,19 +216,7 @@ As electric vehicles (EVs) continue to grow in popularity, the demand for high-p
 <a href="brakes/" class="btn btn-outline-primary" role="button">Read our brake technology article.</a>
 
 </div>
-<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
-<a href="charging/">
-    <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg" alt="Charging" title="Charging" class="img-fluid mb-2">
-</a>
 
-## Charging
-
-Electric vehicles (EVs) are becoming more popular and affordable but require a different refueling method than conventional cars. Instead of filling up a gas tank, EVs must plug into a charging station and recharge their batteries.
-
-However, not all EVs and charging stations are compatible. Different charging ports and connectors vary by region, speed, and standards.
-
-<a href="charging/" class="btn btn-outline-primary" role="button">Read our charging technology article.</a>
-</div>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 
@@ -92,6 +232,19 @@ Learn everything about possibilites and limitations in our article.
 
 <a href="cargoandtowing/" class="btn btn-outline-primary" role="button">Read our cargo & towing article.</a>
 
+</div>
+<div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
+<a href="charging/">
+    <img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg" alt="Charging" title="Charging" class="img-fluid mb-2">
+</a>
+
+## Charging
+
+Electric vehicles (EVs) are becoming more popular and affordable but require a different refueling method than conventional cars. Instead of filling up a gas tank, EVs must plug into a charging station and recharge their batteries.
+
+However, not all EVs and charging stations are compatible. Different charging ports and connectors vary by region, speed, and standards.
+
+<a href="charging/" class="btn btn-outline-primary" role="button">Read our charging technology article.</a>
 </div>
 
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
@@ -139,7 +292,7 @@ In this article, we will explore the different types of EV batteries, how they w
 </div>
 <div class="container shadow p-3 mb-5 bg-body-tertiary rounded border">
 
-<a href="platforms">
+<a href="platforms/">
     <img src="https://media.evkx.net/multimedia/technology/platforms/e-golf_1_st.jpg" alt="Platforms" title="Platforms" class="img-fluid mb-2">
 </a>
 

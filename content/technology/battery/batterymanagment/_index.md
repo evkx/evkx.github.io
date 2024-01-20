@@ -26,4 +26,7 @@ In an EV, the BMS plays a crucial role in ensuring the optimal performance and l
 
 {{< sitefiguresized thumb="technology/battery/batterymanagement/batterymanagement1_st.jpg" width="2000" height="1186" title="Battery management electronics for Audi e-tron battery pack" >}}
 
-Continue to [Thermal Management](../thermalmanagement/) or go back to the [article overview](../).
+<div class="mt-3 mb-3">
+    <a href="../batterypack/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Battery pack & configuration</strong></a>
+    <a href="../thermalmanagement/" class="text-decoration-none text-black float-end"><strong>Thermal Management <i class="bi-arrow-right"></i></strong></a>
+</div>

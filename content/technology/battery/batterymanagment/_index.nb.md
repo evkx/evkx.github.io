@@ -26,4 +26,7 @@ I en EV spiller BMS en avgjørende rolle for å sikre optimal ytelse og levetid 
 
 {{< sitefiguresized thumb="technology/battery/batterymanagement/batterymanagement1_st.jpg" width="2000" height="1186" title="Battery management electronics for Audi e-tron battery pack" >}}
 
-Fortsett til [Thermal Management](../thermalmanagement/) eller gå tilbake til [artikkeloversikten](../).
+<div class="mt-3 mb-3">
+    <a href="../batterypack/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batteripakke og konfigurasjon</strong></a>
+    <a href="../thermalmanagement/" class="text-decoration-none text-black float-end"><strong>Termisk styring <i class="bi-arrow-right"></i></strong></a>
+</div>
