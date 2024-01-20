@@ -109,6 +109,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="renault"><img src="https://media.evkx.net/multimedia/models/renault/logo_xst.png" alt="Renault" title="Renault" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="rimac"><img src="https://media.evkx.net/multimedia/models/rimac/logo_xst.png" alt="Rimac" title="Rimac" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="rivian"><img src="https://media.evkx.net/multimedia/models/rivian/logo_xst.png" alt="Rivian" title="Rivian" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -510,6 +513,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	Renault has 2 models with total 2 variants. 
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Go to Renault EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Rimac</h2>
+	<p>
+		Rimac Automobili is a Croatian company that produces electric hypercars and provides technology solutions to global automotive manufacturers. The company was founded in 2009 by Mate Rimac, who converted his BMW 3 Series into an electric car and gained attention from investors and the media. Rimac Automobili's first model, the Concept One, was the world's fastest production electric car. 
+	</p>
+	<p>
+	Rimac has 1 models with total 1 variants. 
+	</p>
+	<a href="rimac/" class="btn btn-outline-primary" role="button">Go to Rimac EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" class="img-fluid mb-2" alt="Rivian" ></a>

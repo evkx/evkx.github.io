@@ -109,6 +109,9 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 			<a href="renault"><img src="https://media.evkx.net/multimedia/models/renault/logo_xst.png" alt="Renault" title="Renault" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="rimac"><img src="https://media.evkx.net/multimedia/models/rimac/logo_xst.png" alt="Rimac" title="Rimac" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="rivian"><img src="https://media.evkx.net/multimedia/models/rivian/logo_xst.png" alt="Rivian" title="Rivian" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -414,6 +417,13 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	Renault har 2 modell(er) med totalt 2 varianter. 
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Gå til Renault modelloversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Rimac</h2>
+	<p>
+	Rimac har 1 modell(er) med totalt 1 varianter. 
+	</p>
+	<a href="rimac/" class="btn btn-outline-primary" role="button">Gå til Rimac modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" class="img-fluid mb-2" alt="Rivian" ></a>
