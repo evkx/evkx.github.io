@@ -76,7 +76,7 @@ Dessutom kan du välja mellan 8 hjul i storlek från 18 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
-Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. exterior.roof.standard.panoramic.FullFixed.TonedGlass
+Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten hos den åkande. Glaset är tonat för att skydda mot värme från solen.
 
 Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 

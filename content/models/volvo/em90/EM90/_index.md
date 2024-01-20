@@ -216,4 +216,4 @@ The cargo capacity in the trunk is 376 liters. With the third-row seat down, it 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 12.11.2023, and deliveries is expected to start in March 2025. availability.regions.onlychina
+This model had a world premiere on 12.11.2023, and deliveries is expected to start in March 2025. This model is only available in China.

@@ -76,7 +76,7 @@ Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model. exterior.roof.standard.panoramic.FullFixed.ElectrochromicPattern
+There is only one roof for this model. The standard roof has a large panoramic extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple patterns to protect against the sun.
 
 The windows from B-pillar and back are tinted.
 

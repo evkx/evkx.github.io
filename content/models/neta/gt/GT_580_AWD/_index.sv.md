@@ -69,7 +69,7 @@ Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 
 
 
-Det finns bara ett tak för denna modell. exterior.roof.standard.panoramic.FullFixed.TonedGlass
+Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten hos den åkande. Glaset är tonat för att skydda mot värme från solen.
 
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}

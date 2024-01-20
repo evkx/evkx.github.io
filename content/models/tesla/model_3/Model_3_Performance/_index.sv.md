@@ -80,7 +80,7 @@ Dessutom kan du välja mellan 2 hjul i storlek från 18 till 19 tum.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 
-Det finns bara ett tak för denna modell. exterior.roof.standard.panoramic.FullFixed.TonedGlass
+Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten hos den åkande. Glaset är tonat för att skydda mot värme från solen.
 
 B-stolpen och vyerna bak är tonade.
 

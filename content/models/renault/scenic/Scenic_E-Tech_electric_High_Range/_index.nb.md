@@ -76,7 +76,7 @@ I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Det er bare ett tak for denne modellen. exterior.roof.standard.panoramic.FullFixed.ElectrochromicPattern
+Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedres stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset i flere mønster for å beskytte mot solen.
 
 Vutene fra B-stolpen og baksiden er tonet.
 

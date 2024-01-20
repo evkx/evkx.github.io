@@ -71,7 +71,7 @@ Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
 
 Bilen har två [saxdörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#bootlid) bakom.
 
-Det finns bara ett tak för denna modell. exterior.roof.softtop
+Det finns bara ett tak för denna modell. Standardtaket är ett stofftak topp som kan slås ned.
 
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
