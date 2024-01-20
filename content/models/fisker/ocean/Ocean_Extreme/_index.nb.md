@@ -65,10 +65,10 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 Fisker Ocean Extreme lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
 
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientStrong
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetBalancedMedium
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetDynamicMedium
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientLow
+- Earth: Balansert styring, med effektiv gass og sterk oppløfting.
+- Fun: Balansert styring og gass, og middels løft opp regen.
+- Hyper: Balansert styring, dynamisk gass og middels oppløfting.
+- Snow/Ice: Balansert styring, med effektiv gass og lav oppløfting.
 
 
 ### Bremser

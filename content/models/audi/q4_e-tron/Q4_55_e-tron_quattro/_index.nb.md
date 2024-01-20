@@ -186,7 +186,7 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 ## Lys
 
-Du kan velge mellom to typer frontlykter for Audi Q4 55 e-tron quattro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg kan du velge mellom to typer baklys. taillight.standard taillight.etronledbar
+Du kan velge mellom to typer frontlykter for Audi Q4 55 e-tron quattro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg kan du velge mellom to typer baklys.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2003"  >}}

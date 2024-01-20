@@ -77,7 +77,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 
-exterior.doors.standardandsucidebootlid Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har två [vanliga dörrar](../../../../technology/doors/) framför, [självmordsdörrar](../../../../technology/doors/) på andra raden, och ett [bootlock](../../../../technology/doors/#bootlid) på baksidan. Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra atmosfären och komforten för den åkande. Glaset är tonat för att skydda mot värme från solen.
 

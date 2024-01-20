@@ -65,10 +65,10 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 Fisker Ocean Extreme låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
 
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientStrong
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetBalancedMedium
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetDynamicMedium
-drivetrain.drivetrain.drivemodes.BalancedNotSetNotSetEfficientLow
+- Earth: Balanserad styrning, med effektiv gaspådrag och stark upplyftningsregen.
+- Fun: Balanserad styrning och gas, och medelhög upplyftare regen.
+- Hyper: Balanserad styrning, dynamiskt gasreglage och medelhög upphöjning.
+- Snow/Ice: Balanserad styrning, med effektiv gaspådrag och låg upplyftsregen.
 
 
 ### Bromsar

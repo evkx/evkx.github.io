@@ -186,7 +186,7 @@ Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöve
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 ## Ljus
 
-Du kan välja mellan två typer av strålkastare för Audi Q4 50 e-tron quattro. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom kan du välja mellan två typer av bakljus. taillight.standard taillight.etronledbar
+Du kan välja mellan två typer av strålkastare för Audi Q4 50 e-tron quattro. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom kan du välja mellan två typer av bakljus.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2003"  >}}

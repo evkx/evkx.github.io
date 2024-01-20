@@ -165,7 +165,7 @@ En typ av ljudsystem är tillgänglig för XPENG X9 AWD Performance. Med  får d
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. LED
+Standardlamporna använder LED-teknik.
 ## Avancerade förarassistanssystem
 
 XPENG X9 AWD Performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
