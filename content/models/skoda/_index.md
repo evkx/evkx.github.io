@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.CoupeSUVSUV.Mid
+SKODA Enyaq iV is a SUV/Coupe SUV available in 6 variants.
 </p>
 	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

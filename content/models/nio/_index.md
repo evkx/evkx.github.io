@@ -58,7 +58,7 @@ Nio ES8 is a SUV available in 1 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.SedanStationWagon.Mid
+Nio ET5 is a sedan /station wagon available in 2 variants.
 </p>
 	<a href="et5/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

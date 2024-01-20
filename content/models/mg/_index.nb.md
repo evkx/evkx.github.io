@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.Convertible.Mid
+MG Cyberster er en cabriolet tilgjengelig i 1 varianter.
 </p>
 	<a href="cyberster/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

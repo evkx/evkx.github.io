@@ -16,7 +16,7 @@ Rivian also has a contract with Amazon to deliver 100,000 electric delivery vans
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.SUVPickupTruck.Mid
+Rivian R1 is a pickup truck / SUV available in 6 variants.
 </p>
 	<a href="r1/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

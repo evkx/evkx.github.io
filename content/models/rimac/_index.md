@@ -16,7 +16,7 @@ The company's second model, the Nevera, was unveiled in 2021 and has a top speed
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.HyperCar.Luxury
+Rimac Nevera is a luxury hypercar available in 1 variants.
 </p>
 	<a href="nevera/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

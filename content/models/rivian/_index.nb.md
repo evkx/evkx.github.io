@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.SUVPickupTruck.Mid
+Rivian R1 er en pick-up/SUV som er tilgjengelig i 6 varianter.
 </p>
 	<a href="r1/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

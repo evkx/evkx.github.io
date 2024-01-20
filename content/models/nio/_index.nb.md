@@ -58,7 +58,7 @@ Nio ES8 er en SUV tilgjengelig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.SedanStationWagon.Mid
+Nio ET5 er en sedan /stasjonsvogn tilgjengelig i 2 varianter.
 </p>
 	<a href="et5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

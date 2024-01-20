@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.HyperCar.Luxury
+Rimac Nevera är en lyx-hyperbil tillgänglig i 1 varianter.
 </p>
 	<a href="nevera/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
