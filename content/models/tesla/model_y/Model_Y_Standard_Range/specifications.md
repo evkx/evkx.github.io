@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/main_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2250" >}}
-EVKX.net seeks to have the most complete specifications for Tesla Model Y Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Standard Range, visit the [chargeinfo](../chargecurve/) for Tesla Model Y Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Tesla Model Y Standard Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Tesla Model Y Standard Range, visit the [chargeinfo](../chargecurve/) for Tesla Model Y Standard Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model Y Standa
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -141,7 +141,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -205,7 +205,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -269,7 +269,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -336,7 +336,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -417,7 +417,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Cargo Capacity and Towing Ability
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -506,7 +506,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -634,7 +634,7 @@ This model is available with a seat configuration with six or seven seats.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -683,7 +683,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -731,7 +731,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -739,7 +739,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -774,7 +774,7 @@ This model is available with a seat configuration with six or seven seats.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -799,7 +799,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -807,7 +807,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -815,7 +815,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -823,7 +823,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -831,7 +831,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -839,7 +839,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -847,7 +847,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -855,7 +855,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -863,7 +863,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -871,7 +871,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -879,7 +879,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -887,7 +887,7 @@ This model is available with a seat configuration with six or seven seats.
 
 ## Driver Assistance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1104,7 +1104,7 @@ This model is available with a seat configuration with six or seven seats.
 
 ## UI and controls
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

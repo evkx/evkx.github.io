@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport Turismo. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Porsche Taycan Sport Turismo, gå till [chargeinfo](../chargecurve/) för Porsche Taycan Sport Turismo med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga intervall.
+EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport Turismo. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Porsche Taycan Sport Turismo, gå till [chargeinfo](../chargecurve/) för Porsche Taycan Sport Turismo med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -28,7 +28,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 	<tbody>
 		<tr>
 			<td>
-				Max Power
+				Max effekt
 			</td>
 			<td>
 				240 KW (326 hk)
@@ -70,7 +70,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -84,7 +84,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 	<tbody>
 		<tr>
 			<td>
-				Max Power
+				Max effekt
 			</td>
 			<td>
 				280 KW (381 hk)
@@ -130,7 +130,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 ## Räckvidd och förbrukning
 
 Nedan finns den officiella sortimentsinformationen. Besök vår [information om utökat sortiment](../rangeandconsumption/) för detaljerade exempel på sortiment. Besök vår [räckvidde guide](../../../../../guides/understandingrange/) för att se vad som påverkar räckvidden och hur de officiella räckviddsvärdena mäts.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -144,7 +144,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-intervall för grundläggande trim
+				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
 				431 km
@@ -168,7 +168,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Topptrim WLTP-intervall
+				Topptrim WLTP-räckvidd
 			</td>
 			<td>
 				354 km
@@ -194,7 +194,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -208,7 +208,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-intervall för grundläggande trim
+				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
 				484 km
@@ -232,7 +232,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Topptrim WLTP-intervall
+				Topptrim WLTP-räckvidd
 			</td>
 			<td>
 				407 km
@@ -261,7 +261,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Batteri och laddning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -275,7 +275,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				Bruttobatteristorlek
+				Total batterikapacitet (brutto)
 			</td>
 			<td>
 				79,2 kWh
@@ -283,7 +283,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Nettobatterikapacitet
+				Användbar batterikapacitet (netto)
 			</td>
 			<td>
 				71 kWh
@@ -291,7 +291,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max DC Charging
+				Max laddningskapacitet
 			</td>
 			<td>
 				225 kW
@@ -333,7 +333,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -347,7 +347,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				Bruttobatteristorlek
+				Total batterikapacitet (brutto)
 			</td>
 			<td>
 				93,4 kWh
@@ -355,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Nettobatterikapacitet
+				Användbar batterikapacitet (netto)
 			</td>
 			<td>
 				83,7 kWh
@@ -363,7 +363,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max DC Charging
+				Max laddningskapacitet
 			</td>
 			<td>
 				270 kW
@@ -408,7 +408,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -454,7 +454,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Wheelbase
+				Axelavstånd
 			</td>
 			<td>
 				2900 mm
@@ -521,7 +521,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Lastkapacitet och dragkapacitet
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -559,7 +559,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max taklast
+				Tillåten taklast
 			</td>
 			<td>
 				75 kg
@@ -567,7 +567,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bålstorlek
+				Bagagerumsvolym
 			</td>
 			<td>
 				446 liter
@@ -575,7 +575,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Storlek med alla baksäten nedfällda
+				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
 				1212 liter
@@ -598,7 +598,7 @@ Modellen erbjuder 2 fjädringsvarianter
 
 ### Standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -652,7 +652,7 @@ Modellen erbjuder 2 fjädringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Max Ground Clearance
+				Max markfrigång
 			</td>
 			<td>
 				127 mm
@@ -687,7 +687,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Typ av främre fjädring
 			</td>
 			<td>
-				Coil
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
@@ -695,23 +695,23 @@ Modellen erbjuder 2 fjädringsvarianter
 				Bakre fjädringstyp
 			</td>
 			<td>
-				Coil
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Frontupphängning
+				Hjulupphängning foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dubbel länkarmsfjädring
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädring
+				Hjulupphängning bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -719,7 +719,7 @@ Modellen erbjuder 2 fjädringsvarianter
 
 ### Adaptive Air Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -773,7 +773,7 @@ Modellen erbjuder 2 fjädringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Max Ground Clearance
+				Max markfrigång
 			</td>
 			<td>
 				127 mm
@@ -821,18 +821,18 @@ Modellen erbjuder 2 fjädringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Frontupphängning
+				Hjulupphängning foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dubbel länkarmsfjädring
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädring
+				Hjulupphängning bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -847,7 +847,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### Comfort
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -984,7 +984,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### Comfortseats with memory
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1121,7 +1121,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### Sportsseats Plus
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1261,7 +1261,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### Standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1374,7 +1374,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### 2+1
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1487,7 +1487,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ## Förarassistans
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1704,7 +1704,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ## Användargränssnitt
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1815,7 +1815,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Porsche Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1856,7 +1856,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ###  BOSE® Surround Sound System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1897,7 +1897,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ###  Burmester® 3D High-End Surround Sound System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

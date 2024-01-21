@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Honda e:Ny1. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Honda e:Ny1, gå till [chargeinfo](../chargecurve/) för Honda e:Ny1 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga intervall.
+EVKX.net vill ha de mest kompletta specifikationerna för Honda e:Ny1. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Honda e:Ny1, gå till [chargeinfo](../chargecurve/) för Honda e:Ny1 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -28,7 +28,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Honda e:Ny1. Klicka p�
 	<tbody>
 		<tr>
 			<td>
-				Max Power
+				Max effekt
 			</td>
 			<td>
 				150 KW (204 hk)
@@ -66,7 +66,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Honda e:Ny1. Klicka p�
 ## Räckvidd och förbrukning
 
 Nedan finns den officiella sortimentsinformationen. Besök vår [information om utökat sortiment](../rangeandconsumption/) för detaljerade exempel på sortiment. Besök vår [räckvidde guide](../../../../../guides/understandingrange/) för att se vad som påverkar räckvidden och hur de officiella räckviddsvärdena mäts.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -80,7 +80,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-intervall
+				WLTP-räckvidd
 			</td>
 			<td>
 				412 km
@@ -101,7 +101,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Batteri och laddning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				Bruttobatteristorlek
+				Total batterikapacitet (brutto)
 			</td>
 			<td>
 				68,8 kWh
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Nettobatterikapacitet
+				Användbar batterikapacitet (netto)
 			</td>
 			<td>
 				61,9 kWh
@@ -136,7 +136,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -169,7 +169,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Lastkapacitet och dragkapacitet
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -207,7 +207,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bålstorlek
+				Bagagerumsvolym
 			</td>
 			<td>
 				346 liter
@@ -218,7 +218,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Hjulupphängning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -272,7 +272,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max Ground Clearance
+				Max markfrigång
 			</td>
 			<td>
 				140 mm
@@ -307,7 +307,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ av främre fjädring
 			</td>
 			<td>
-				Coil
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
@@ -315,12 +315,12 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre fjädringstyp
 			</td>
 			<td>
-				Coil
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Frontupphängning
+				Hjulupphängning foran
 			</td>
 			<td>
 				MacPhersonStrut
@@ -328,10 +328,10 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädring
+				Hjulupphängning bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -342,7 +342,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ### Framsäten
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -479,7 +479,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ### Second Row Seats
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -592,7 +592,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Förarassistans
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -784,7 +784,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Användargränssnitt
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

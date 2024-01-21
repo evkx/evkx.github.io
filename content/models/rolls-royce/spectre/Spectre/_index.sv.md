@@ -35,7 +35,7 @@ Rolls-Royce Spectre har en maximal effekt på 430 KW (585hk). Totalt vridmoment 
 
 Batteriet har en bruttokapacitet på 105,7kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 3,7kWh buffert för skydd. (3,5%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 530 km. Förbrukningen är 19.2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 530 km. Förbrukningen är 19.2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 205 kW. En full laddning från 0 - 100 % tar 72 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 132kW. Varje laddningssession tar 21 minuter och 54 sekunder.
 

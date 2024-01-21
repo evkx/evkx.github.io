@@ -35,7 +35,7 @@ MG MG4 Electric XPOWER har en maximal effekt på 320 KW (435hk). Totalt vridmome
 
 Batteriet har en bruttokapacitet på 64kWh och en nettokapacitet på 61,7kWh, vilket innebär att du har en 2,3kWh buffert för skydd. (3,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 435 km. Förbrukningen är 14.2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 435 km. Förbrukningen är 14.2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 96kW. Varje laddningssession tar 21 minuter och 12 sekunder.
 

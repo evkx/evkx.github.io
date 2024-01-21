@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Volvo C40 Recharge Twin Motor. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volvo C40 Recharge Twin Motor, gå till [chargeinfo](../chargecurve/) för Volvo C40 Recharge Twin Motor med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga intervall.
+EVKX.net vill ha de mest kompletta specifikationerna för Volvo C40 Recharge Twin Motor. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volvo C40 Recharge Twin Motor, gå till [chargeinfo](../chargecurve/) för Volvo C40 Recharge Twin Motor med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -28,7 +28,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volvo C40 Recharge Twi
 	<tbody>
 		<tr>
 			<td>
-				Max Power
+				Max effekt
 			</td>
 			<td>
 				300 KW (408 hk)
@@ -66,7 +66,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volvo C40 Recharge Twi
 ## Räckvidd och förbrukning
 
 Nedan finns den officiella sortimentsinformationen. Besök vår [information om utökat sortiment](../rangeandconsumption/) för detaljerade exempel på sortiment. Besök vår [räckvidde guide](../../../../../guides/understandingrange/) för att se vad som påverkar räckvidden och hur de officiella räckviddsvärdena mäts.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -80,7 +80,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-intervall för grundläggande trim
+				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
 				548 km
@@ -104,7 +104,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Topptrim WLTP-intervall
+				Topptrim WLTP-räckvidd
 			</td>
 			<td>
 				536 km
@@ -133,7 +133,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Batteri och laddning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -147,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				Bruttobatteristorlek
+				Total batterikapacitet (brutto)
 			</td>
 			<td>
 				82 kWh
@@ -155,7 +155,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Nettobatterikapacitet
+				Användbar batterikapacitet (netto)
 			</td>
 			<td>
 				79 kWh
@@ -163,7 +163,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max DC Charging
+				Max laddningskapacitet
 			</td>
 			<td>
 				205 kW
@@ -192,7 +192,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -238,7 +238,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Wheelbase
+				Axelavstånd
 			</td>
 			<td>
 				2702 mm
@@ -289,7 +289,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Lastkapacitet och dragkapacitet
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -327,7 +327,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max taklast
+				Tillåten taklast
 			</td>
 			<td>
 				75 kg
@@ -335,7 +335,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bålstorlek
+				Bagagerumsvolym
 			</td>
 			<td>
 				419 liter
@@ -343,7 +343,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Storlek med alla baksäten nedfällda
+				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
 				1205 liter
@@ -359,7 +359,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max bromsad släpvikt
+				Tillåten bromsad släpvagnsvikt
 			</td>
 			<td>
 				1500 kg
@@ -367,7 +367,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Maximal bromsad släpvagnsvikt
+				Tillåten obromsad släpvagnsvikt
 			</td>
 			<td>
 				750 kg
@@ -386,7 +386,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Hjulupphängning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -440,7 +440,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max Ground Clearance
+				Max markfrigång
 			</td>
 			<td>
 				175 mm
@@ -475,7 +475,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ av främre fjädring
 			</td>
 			<td>
-				Coil
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre fjädringstyp
 			</td>
 			<td>
-				Coil
+				Skruvfjäder
 			</td>
 		</tr>
 	</tbody>
@@ -495,7 +495,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Framsäten
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -632,7 +632,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Second Row Seats
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -745,7 +745,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ## Förarassistans
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -953,7 +953,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ## Användargränssnitt
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1062,7 +1062,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### High Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1103,7 +1103,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Harman Kardon Premium Sound
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/main_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi X 6 Seater, visit the [chargeinfo](../chargecurve/) for HiPhi X 6 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of HiPhi X 6 Seater, visit the [chargeinfo](../chargecurve/) for HiPhi X 6 Seater with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -58,7 +58,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Cl
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -93,7 +93,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -136,7 +136,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -193,7 +193,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Cargo Capacity and Towing Ability
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -362,7 +362,7 @@ This model is available with a seat configuration with six seats.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -499,7 +499,7 @@ This model is available with a seat configuration with six seats.
 
 ### Second row seats
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -612,7 +612,7 @@ This model is available with a seat configuration with six seats.
 
 ## Driver Assistance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -822,7 +822,7 @@ This model is available with a seat configuration with six seats.
 
 ## UI and controls
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -932,7 +932,7 @@ This model is available with a seat configuration with six seats.
 
 ### SONIC LINE SYSTEM
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -965,7 +965,7 @@ This model is available with a seat configuration with six seats.
 
 ### SONIC PRO SYSTEM
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

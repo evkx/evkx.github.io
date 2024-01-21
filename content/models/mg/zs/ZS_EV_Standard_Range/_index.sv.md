@@ -35,7 +35,7 @@ MG ZS EV Standard Range har en maximal effekt på 115 KW (156hk). Totalt vridmom
 
 Batteriet har en bruttokapacitet på 51,1kWh och en nettokapacitet på 49kWh, vilket innebär att du har en 2,1kWh buffert för skydd. (4,1%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 320 km. Förbrukningen är 15.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 320 km. Förbrukningen är 15.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 94 kW. En full laddning från 0 - 100 % tar 80 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 73%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 60kW. Varje laddningssession tar 32 minuter och 27 sekunder.
 

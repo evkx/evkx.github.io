@@ -35,7 +35,7 @@ Smart #1 Brabus har en maximal effekt på 315 KW (428hk). Totalt vridmoment är 
 
 Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 62kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 15.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 15.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 80 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 89kW. Varje laddningssession tar 20 minuter och 29 sekunder.
 

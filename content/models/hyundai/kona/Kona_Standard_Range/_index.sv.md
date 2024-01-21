@@ -35,7 +35,7 @@ Hyundai Kona Standard Range har en maximal effekt på 160 KW (218hk). Totalt vri
 
 Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 48,4kWh, vilket innebär att du har en 2,6kWh buffert för skydd. (5,1%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 377 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 377 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 53 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 66%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 65kW. Varje laddningssession tar 28 minuter och 49 sekunder.
 

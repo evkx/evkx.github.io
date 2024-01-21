@@ -35,7 +35,7 @@ XPENG G9 AWD Performance har en maximal effekt på 405 KW (551hk). Totalt vridmo
 
 Batteriet har en bruttokapacitet på 98kWh och en nettokapacitet på 93,6kWh, vilket innebär att du har en 4,4kWh buffert för skydd. (4,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 520 km. Förbrukningen är 18.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 520 km. Förbrukningen är 18.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 169kW. Varje laddningssession tar 18 minuter och 36 sekunder.
 

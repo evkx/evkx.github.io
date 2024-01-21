@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/main_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="1991" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Audi e-tron 55 Sportback. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi e-tron 55 Sportback, gå till [chargeinfo](../chargecurve/) för Audi e-tron 55 Sportback med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga intervall.
+EVKX.net vill ha de mest kompletta specifikationerna för Audi e-tron 55 Sportback. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi e-tron 55 Sportback, gå till [chargeinfo](../chargecurve/) för Audi e-tron 55 Sportback med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -28,7 +28,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi e-tron 55 Sportba
 	<tbody>
 		<tr>
 			<td>
-				Max Power
+				Max effekt
 			</td>
 			<td>
 				265 KW (360 hk)
@@ -90,7 +90,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi e-tron 55 Sportba
 ## Räckvidd och förbrukning
 
 Nedan finns den officiella sortimentsinformationen. Besök vår [information om utökat sortiment](../rangeandconsumption/) för detaljerade exempel på sortiment. Besök vår [räckvidde guide](../../../../../guides/understandingrange/) för att se vad som påverkar räckvidden och hur de officiella räckviddsvärdena mäts.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -104,7 +104,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-intervall för grundläggande trim
+				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
 				452 km
@@ -128,7 +128,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Topptrim WLTP-intervall
+				Topptrim WLTP-räckvidd
 			</td>
 			<td>
 				373 km
@@ -157,7 +157,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Batteri och laddning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -171,7 +171,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				Bruttobatteristorlek
+				Total batterikapacitet (brutto)
 			</td>
 			<td>
 				95 kWh
@@ -179,7 +179,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Nettobatterikapacitet
+				Användbar batterikapacitet (netto)
 			</td>
 			<td>
 				86 kWh
@@ -187,7 +187,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max DC Charging
+				Max laddningskapacitet
 			</td>
 			<td>
 				150 kW
@@ -232,7 +232,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -278,7 +278,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Wheelbase
+				Axelavstånd
 			</td>
 			<td>
 				2927 mm
@@ -337,7 +337,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Lastkapacitet och dragkapacitet
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -375,7 +375,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max taklast
+				Tillåten taklast
 			</td>
 			<td>
 				75 kg
@@ -383,7 +383,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bålstorlek
+				Bagagerumsvolym
 			</td>
 			<td>
 				660 liter
@@ -391,7 +391,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Storlek med alla baksäten nedfällda
+				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
 				1725 liter
@@ -399,7 +399,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max bromsad släpvikt
+				Tillåten bromsad släpvagnsvikt
 			</td>
 			<td>
 				1800 kg
@@ -407,7 +407,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Maximal bromsad släpvagnsvikt
+				Tillåten obromsad släpvagnsvikt
 			</td>
 			<td>
 				750 kg
@@ -430,7 +430,7 @@ Modellen erbjuder 2 fjädringsvarianter
 
 ### Adaptive Air Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -484,7 +484,7 @@ Modellen erbjuder 2 fjädringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Max Ground Clearance
+				Max markfrigång
 			</td>
 			<td>
 				248 mm
@@ -532,18 +532,18 @@ Modellen erbjuder 2 fjädringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Frontupphängning
+				Hjulupphängning foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dubbel länkarmsfjädring
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädring
+				Hjulupphängning bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -551,7 +551,7 @@ Modellen erbjuder 2 fjädringsvarianter
 
 ### Adaptive Air Suspension Sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -605,7 +605,7 @@ Modellen erbjuder 2 fjädringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Max Ground Clearance
+				Max markfrigång
 			</td>
 			<td>
 				248 mm
@@ -653,18 +653,18 @@ Modellen erbjuder 2 fjädringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Frontupphängning
+				Hjulupphängning foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dubbel länkarmsfjädring
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädring
+				Hjulupphängning bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -679,7 +679,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -816,7 +816,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -953,7 +953,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### s-line sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1090,7 +1090,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### s sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1227,7 +1227,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### multicontour
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1367,7 +1367,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1480,7 +1480,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ## Förarassistans
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1697,7 +1697,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ## Användargränssnitt
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1808,7 +1808,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Audi Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1849,7 +1849,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Bang & Olufsen Sound System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

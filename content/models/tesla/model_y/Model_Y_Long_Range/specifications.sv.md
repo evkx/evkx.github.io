@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/main_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2250" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model Y Long Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Tesla Model Y Long Range, gå till [chargeinfo](../chargecurve/) för Tesla Model Y Long Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga intervall.
+EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model Y Long Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Tesla Model Y Long Range, gå till [chargeinfo](../chargecurve/) för Tesla Model Y Long Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -28,7 +28,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model Y Long Ran
 	<tbody>
 		<tr>
 			<td>
-				Max Power
+				Max effekt
 			</td>
 			<td>
 				324 KW (441 hk)
@@ -66,7 +66,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model Y Long Ran
 ## Räckvidd och förbrukning
 
 Nedan finns den officiella sortimentsinformationen. Besök vår [information om utökat sortiment](../rangeandconsumption/) för detaljerade exempel på sortiment. Besök vår [räckvidde guide](../../../../../guides/understandingrange/) för att se vad som påverkar räckvidden och hur de officiella räckviddsvärdena mäts.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -80,7 +80,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-intervall för grundläggande trim
+				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
 				542 km
@@ -104,7 +104,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Topptrim WLTP-intervall
+				Topptrim WLTP-räckvidd
 			</td>
 			<td>
 				533 km
@@ -128,7 +128,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				EPA-intervall för lägsta utrustningsnivå
+				EPA-räckvidd för lägsta utrustningsnivå
 			</td>
 			<td>
 				310 mi
@@ -144,7 +144,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				EPA-intervall för topptrim
+				EPA-räckvidd för topptrim
 			</td>
 			<td>
 				292 mi
@@ -165,7 +165,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Batteri och laddning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -179,7 +179,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				Bruttobatteristorlek
+				Total batterikapacitet (brutto)
 			</td>
 			<td>
 				82 kWh
@@ -187,7 +187,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Nettobatterikapacitet
+				Användbar batterikapacitet (netto)
 			</td>
 			<td>
 				79 kWh
@@ -195,7 +195,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max DC Charging
+				Max laddningskapacitet
 			</td>
 			<td>
 				250 kW
@@ -224,7 +224,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -270,7 +270,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Wheelbase
+				Axelavstånd
 			</td>
 			<td>
 				2890 mm
@@ -305,7 +305,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Lastkapacitet och dragkapacitet
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -343,7 +343,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max taklast
+				Tillåten taklast
 			</td>
 			<td>
 				75 kg
@@ -351,7 +351,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bålstorlek
+				Bagagerumsvolym
 			</td>
 			<td>
 				854 liter
@@ -359,7 +359,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Storlek med alla baksäten nedfällda
+				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
 				2158 liter
@@ -367,7 +367,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max bromsad släpvikt
+				Tillåten bromsad släpvagnsvikt
 			</td>
 			<td>
 				1600 kg
@@ -375,7 +375,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Maximal bromsad släpvagnsvikt
+				Tillåten obromsad släpvagnsvikt
 			</td>
 			<td>
 				750 kg
@@ -394,7 +394,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Hjulupphängning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -448,7 +448,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max Ground Clearance
+				Max markfrigång
 			</td>
 			<td>
 				167 mm
@@ -483,7 +483,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ av främre fjädring
 			</td>
 			<td>
-				Coil
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
@@ -491,23 +491,23 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre fjädringstyp
 			</td>
 			<td>
-				Coil
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Frontupphängning
+				Hjulupphängning foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dubbel länkarmsfjädring
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädring
+				Hjulupphängning bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -522,7 +522,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -571,7 +571,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Standardfunktion
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Fotstödspassagerare
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -627,7 +627,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				LegSupportPassenger
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -662,7 +662,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -687,7 +687,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +695,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Justerbart lårstöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -711,7 +711,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Ryggstödsjustering
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +719,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +727,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -735,7 +735,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Fotstödspassagerare
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -743,7 +743,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				LegSupportPassenger
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -751,7 +751,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -759,7 +759,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Sätesventilation
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -767,7 +767,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Massagefunktion
 			</td>
 			<td>
-				Okänd
+				Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -775,7 +775,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 
 ## Förarassistans
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -992,7 +992,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 
 ## Användargränssnitt
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

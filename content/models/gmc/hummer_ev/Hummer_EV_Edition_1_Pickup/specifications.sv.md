@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV Edition 1 Pickup. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av GMC Hummer EV Edition 1 Pickup, gå till [chargeinfo](../chargecurve/) för GMC Hummer EV Edition 1 Pickup med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga intervall.
+EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV Edition 1 Pickup. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av GMC Hummer EV Edition 1 Pickup, gå till [chargeinfo](../chargecurve/) för GMC Hummer EV Edition 1 Pickup med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -28,7 +28,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV Edition 
 	<tbody>
 		<tr>
 			<td>
-				Max Power
+				Max effekt
 			</td>
 			<td>
 				746 KW (1014 hk)
@@ -66,7 +66,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV Edition 
 ## Räckvidd och förbrukning
 
 Nedan finns den officiella sortimentsinformationen. Besök vår [information om utökat sortiment](../rangeandconsumption/) för detaljerade exempel på sortiment. Besök vår [räckvidde guide](../../../../../guides/understandingrange/) för att se vad som påverkar räckvidden och hur de officiella räckviddsvärdena mäts.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -101,7 +101,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Batteri och laddning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				Bruttobatteristorlek
+				Total batterikapacitet (brutto)
 			</td>
 			<td>
 				220 kWh
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Nettobatterikapacitet
+				Användbar batterikapacitet (netto)
 			</td>
 			<td>
 				213 kWh
@@ -131,7 +131,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max DC Charging
+				Max laddningskapacitet
 			</td>
 			<td>
 				350 kW
@@ -168,7 +168,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -214,7 +214,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Wheelbase
+				Axelavstånd
 			</td>
 			<td>
 				3445 mm
@@ -233,7 +233,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Lastkapacitet och dragkapacitet
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -311,7 +311,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max bromsad släpvikt
+				Tillåten bromsad släpvagnsvikt
 			</td>
 			<td>
 				3402 kg
@@ -319,7 +319,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Maximal bromsad släpvagnsvikt
+				Tillåten obromsad släpvagnsvikt
 			</td>
 			<td>
 				750 kg
@@ -338,7 +338,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Hjulupphängning
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -392,7 +392,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Max Ground Clearance
+				Max markfrigång
 			</td>
 			<td>
 				406 mm
@@ -440,18 +440,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Frontupphängning
+				Hjulupphängning foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dubbel länkarmsfjädring
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädring
+				Hjulupphängning bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -463,7 +463,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Framsäten
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -600,7 +600,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Second Row Seats
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -713,7 +713,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ## Förarassistans
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -914,7 +914,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ## Användargränssnitt
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

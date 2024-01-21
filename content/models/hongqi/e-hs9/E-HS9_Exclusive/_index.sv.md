@@ -35,7 +35,7 @@ Hongqi E-HS9 Exclusive har en maximal effekt på 405 KW (551hk). Totalt vridmome
 
 Batteriet har en bruttokapacitet på 99kWh och en nettokapacitet på 95,3kWh, vilket innebär att du har en 3,7kWh buffert för skydd. (3,7%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 465 km. Förbrukningen är 20.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 465 km. Förbrukningen är 20.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 78 minuter, medan ett vanligare scenario på 10-80 % tar 37 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 68%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 96kW. Varje laddningssession tar 36 minuter och 50 sekunder.
 

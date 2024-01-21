@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/main_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2002" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQE 350 4MATIC SUV. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Mercedes-EQ EQE 350 4MATIC SUV, gå til [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 350 4MATIC SUV med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQE 350 4MATIC SUV. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Mercedes-EQ EQE 350 4MATIC SUV, gå til [chargeinfo](../chargecurve/) for Mercedes-EQ EQE 350 4MATIC SUV med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-EQ EQE 350
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -133,7 +133,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -200,7 +200,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -289,7 +289,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Lastekapasitet og slepeevne
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -378,7 +378,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Hjuloppheng
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -490,7 +490,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -627,7 +627,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### multicontour
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -767,7 +767,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -880,7 +880,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1097,7 +1097,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Brukerinterface
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1178,7 +1178,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Advanced Soundsystem
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1219,7 +1219,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Burmester Surround Soundsystem
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

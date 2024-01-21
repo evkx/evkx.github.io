@@ -120,7 +120,6 @@ Only one front seat type is available in the Tesla Model Y Standard Range.
 The following functionalities are available on the **standard** seat.
 
 - electric adjustment
-- height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
@@ -139,6 +138,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
+- integrated headrest
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}

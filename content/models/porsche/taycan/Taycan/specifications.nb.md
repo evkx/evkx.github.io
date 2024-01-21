@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/main_1_st.jpg" title="Porsche Taycan" width="3000" height="1687" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Porsche Taycan, gå til [chargeinfo](../chargecurve/) for Porsche Taycan med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Porsche Taycan, gå til [chargeinfo](../chargecurve/) for Porsche Taycan med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -70,7 +70,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -130,7 +130,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -194,7 +194,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -261,7 +261,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -333,7 +333,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -408,7 +408,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -521,7 +521,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Lastekapasitet og slepeevne
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -590,7 +590,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### Standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -711,7 +711,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### Adaptive Air Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -839,7 +839,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### Comfort
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -976,7 +976,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### Comfortseats with memory
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1113,7 +1113,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### Sportsseats Plus
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1253,7 +1253,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### Standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1366,7 +1366,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### 2+1
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1479,7 +1479,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1696,7 +1696,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Brukerinterface
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1807,7 +1807,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Porsche Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1848,7 +1848,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ###  BOSE® Surround Sound System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1889,7 +1889,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ###  Burmester® 3D High-End Surround Sound System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

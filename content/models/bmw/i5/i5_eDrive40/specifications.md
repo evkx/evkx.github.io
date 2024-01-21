@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/main_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2250" >}}
-EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 eDrive40, visit the [chargeinfo](../chargecurve/) for BMW i5 eDrive40 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 eDrive40, visit the [chargeinfo](../chargecurve/) for BMW i5 eDrive40 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Cli
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -133,7 +133,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -208,7 +208,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -297,7 +297,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Cargo Capacity and Towing Ability
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -390,7 +390,7 @@ The model offers 3 suspension variants
 
 ### Adaptive M Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -511,7 +511,7 @@ The model offers 3 suspension variants
 
 ### M Sport Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -632,7 +632,7 @@ The model offers 3 suspension variants
 
 ### Adaptives suspension professional
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -760,7 +760,7 @@ This model is available with a seat configuration with five seats.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -897,7 +897,7 @@ This model is available with a seat configuration with five seats.
 
 #### M Sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1037,7 +1037,7 @@ This model is available with a seat configuration with five seats.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1150,7 +1150,7 @@ This model is available with a seat configuration with five seats.
 
 ## Driver Assistance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1367,7 +1367,7 @@ This model is available with a seat configuration with five seats.
 
 ## UI and controls
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1478,7 +1478,7 @@ This model is available with a seat configuration with five seats.
 
 ### Hifi Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1519,7 +1519,7 @@ This model is available with a seat configuration with five seats.
 
 ### Harman Kardon Surround Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1560,7 +1560,7 @@ This model is available with a seat configuration with five seats.
 
 ### Bower & Wilkins Surround System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

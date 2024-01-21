@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/main_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Megane E-Tech Techno. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Renault Megane E-Tech Techno, gå til [chargeinfo](../chargecurve/) for Renault Megane E-Tech Techno med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Megane E-Tech Techno. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Renault Megane E-Tech Techno, gå til [chargeinfo](../chargecurve/) for Renault Megane E-Tech Techno med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Renault Megane E-Te
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -133,7 +133,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -192,7 +192,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -257,7 +257,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Lastekapasitet og slepeevne
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -346,7 +346,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Hjuloppheng
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -458,7 +458,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -598,7 +598,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -711,7 +711,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -928,7 +928,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Brukerinterface
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1041,7 +1041,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### DAB Audiosystem
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1074,7 +1074,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### BOSE Premium Sound System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

@@ -120,7 +120,6 @@ Bare én type forsete er tilgjengelig i Tesla Model Y Standard Range.
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
-- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
@@ -139,6 +138,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
+- integrert hodestøtte
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}

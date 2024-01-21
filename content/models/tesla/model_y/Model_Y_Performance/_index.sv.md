@@ -35,7 +35,7 @@ Tesla Model Y Performance har en maximal effekt på 393 KW (534hk). Totalt vridm
 
 Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 7kWh buffert för skydd. (8,5%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 514 km. Förbrukningen är 14.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 514 km. Förbrukningen är 14.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 109kW. Varje laddningssession tar 17 minuter och 55 sekunder.
 
@@ -99,7 +99,6 @@ Endast en typ av framsäte är tillgänglig i Tesla Model Y Performance.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
-- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
@@ -118,6 +117,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- integrerat nackstöd
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}

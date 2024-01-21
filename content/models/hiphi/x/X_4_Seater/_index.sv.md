@@ -35,7 +35,7 @@ HiPhi X 4 Seater har en maximal effekt på 433 KW (589hk). Totalt vridmoment är
 
 Batteriet har en bruttokapacitet på 101kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 4kWh buffert för skydd. (4,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 21.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 21.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 79 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 51%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 100kW. Varje laddningssession tar 27 minuter och 19 sekunder.
 

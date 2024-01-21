@@ -38,7 +38,7 @@ Tesla Model Y Standard Range har tre batterialternativ med olika specifikationer
 
 Batteriet har en bruttokapacitet på 60kWh och en nettokapacitet på 55kWh, vilket innebär att du har en 5kWh buffert för skydd. (8,3%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 430 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 430 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 52 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 47%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 89kW. Varje laddningssession tar 17 minuter och 30 sekunder.
 
@@ -47,7 +47,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 Batteriet har en bruttokapacitet på 60kWh och en nettokapacitet på 55kWh, vilket innebär att du har en 5kWh buffert för skydd. (8,3%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 430 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 430 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 37 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 113kW. Varje laddningssession tar 18 minuter och 28 sekunder.
 
@@ -56,7 +56,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 Batteriet har en bruttokapacitet på 70kWh och en nettokapacitet på 68,5kWh, vilket innebär att du har en 1,5kWh buffert för skydd. (2,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 430 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 430 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 36%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 82kW. Varje laddningssession tar 18 minuter och 60 sekunder.
 
@@ -120,7 +120,6 @@ Endast en typ av framsäte är tillgänglig i Tesla Model Y Standard Range.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
-- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
@@ -139,6 +138,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- integrerat nackstöd
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}

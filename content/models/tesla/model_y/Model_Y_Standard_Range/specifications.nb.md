@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/main_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2250" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Model Y Standard Range, gå til [chargeinfo](../chargecurve/) for Tesla Model Y Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Standard Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Tesla Model Y Standard Range, gå til [chargeinfo](../chargecurve/) for Tesla Model Y Standard Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Tesla Model Y Stand
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -141,7 +141,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -205,7 +205,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -269,7 +269,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -336,7 +336,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -417,7 +417,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Lastekapasitet og slepeevne
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -506,7 +506,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Hjuloppheng
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -634,7 +634,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -683,7 +683,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -731,7 +731,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -739,7 +739,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -774,7 +774,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -799,7 +799,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -807,7 +807,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -815,7 +815,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -823,7 +823,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -831,7 +831,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -839,7 +839,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -847,7 +847,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -855,7 +855,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -863,7 +863,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -871,7 +871,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -879,7 +879,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -887,7 +887,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 
 ## Sjåførassistanse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1104,7 +1104,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 
 ## Brukerinterface
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

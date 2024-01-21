@@ -35,7 +35,7 @@ BYD Han har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 700 Nm. 
 
 Batteriet har en bruttokapacitet på 85,4kWh och en nettokapacitet på 83kWh, vilket innebär att du har en 2,4kWh buffert för skydd. (2,8%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 521 km. Förbrukningen är 15.9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 521 km. Förbrukningen är 15.9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 65 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 93kW. Varje laddningssession tar 30 minuter och 36 sekunder.
 

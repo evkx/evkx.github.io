@@ -35,7 +35,7 @@ CUPRA Tavascan Endurance har en maximal effekt på 210 KW (286hk). Totalt vridmo
 
 Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 547 km. Förbrukningen är 14.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 547 km. Förbrukningen är 14.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 101kW. Varje laddningssession tar 19 minuter och 43 sekunder.
 

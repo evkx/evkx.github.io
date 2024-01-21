@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/main_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="1920" height="1080" >}}
-EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge Twin Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo XC40 Recharge Twin Motor, visit the [chargeinfo](../chargecurve/) for Volvo XC40 Recharge Twin Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge Twin Motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volvo XC40 Recharge Twin Motor, visit the [chargeinfo](../chargecurve/) for Volvo XC40 Recharge Twin Motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net seeks to have the most complete specifications for Volvo XC40 Recharge 
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -133,7 +133,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -192,7 +192,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -289,7 +289,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Cargo Capacity and Towing Ability
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -386,7 +386,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -495,7 +495,7 @@ This model is available with a seat configuration with five seats.
 
 ### Front seats
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -632,7 +632,7 @@ This model is available with a seat configuration with five seats.
 
 ### Second row seats
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -745,7 +745,7 @@ This model is available with a seat configuration with five seats.
 
 ## Driver Assistance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -953,7 +953,7 @@ This model is available with a seat configuration with five seats.
 
 ## UI and controls
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1062,7 +1062,7 @@ This model is available with a seat configuration with five seats.
 
 ### High Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1103,7 +1103,7 @@ This model is available with a seat configuration with five seats.
 
 ### Harman Kardon Premium Sound
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

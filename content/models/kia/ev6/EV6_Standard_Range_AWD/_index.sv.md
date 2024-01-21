@@ -35,7 +35,7 @@ Kia EV6 Standard Range AWD har en maximal effekt på 173 KW (235hk). Totalt vrid
 
 Batteriet har en bruttokapacitet på 58kWh och en nettokapacitet på 54kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,9%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 371 km. Förbrukningen är 14.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 371 km. Förbrukningen är 14.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 42 minuter, medan ett vanligare scenario på 10-80 % tar 17 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 109kW. Varje laddningssession tar 19 minuter och 45 sekunder.
 

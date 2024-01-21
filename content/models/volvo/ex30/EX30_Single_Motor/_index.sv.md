@@ -35,7 +35,7 @@ Volvo EX30 Single Motor har en maximal effekt på 200 KW (272hk). Totalt vridmom
 
 Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 49kWh, vilket innebär att du har en 2kWh buffert för skydd. (3,9%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 344 km. Förbrukningen är 14.2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 344 km. Förbrukningen är 14.2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 153 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 84kW. Varje laddningssession tar 18 minuter och 15 sekunder.
 

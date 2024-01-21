@@ -35,7 +35,7 @@ Zeekr X Long Range RWD har en maximal effekt på 200 KW (272hk). Totalt vridmome
 
 Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 5kWh buffert för skydd. (7,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 440 km. Förbrukningen är 14.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 440 km. Förbrukningen är 14.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 82 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 90kW. Varje laddningssession tar 21 minuter och 58 sekunder.
 

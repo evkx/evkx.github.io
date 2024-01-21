@@ -35,7 +35,7 @@ BYD Tang EV600 har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 6
 
 Batteriet har en bruttokapacitet på 90kWh och en nettokapacitet på 86,4kWh, vilket innebär att du har en 3,6kWh buffert för skydd. (4,0%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 21.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 21.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 93kW. Varje laddningssession tar 31 minuter och 37 sekunder.
 

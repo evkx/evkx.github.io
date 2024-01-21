@@ -16,7 +16,7 @@ Räckvidden kommer att variera beroende på flera faktorer. Såsom hur snabbt du
 
 ### Officiella testcykelresultat
 
-Nedan är de officiellt klassade intervallen. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
+Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -36,7 +36,7 @@ Nedan är de officiellt klassade intervallen. Testerna utförs med värme/AC avs
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/epa/ ">
-					EPA-intervallets lägsta utrustningsnivå
+					EPA-räckvidd lägsta utrustningsnivå
 				</a>
 			</td>
 			<td>

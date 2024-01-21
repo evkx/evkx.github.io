@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/main_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1688" >}}
-EVKX.net seeks to have the most complete specifications for Genesis GV60 2WD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Genesis GV60 2WD, visit the [chargeinfo](../chargecurve/) for Genesis GV60 2WD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Genesis GV60 2WD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Genesis GV60 2WD, visit the [chargeinfo](../chargecurve/) for Genesis GV60 2WD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net seeks to have the most complete specifications for Genesis GV60 2WD. Cl
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -109,7 +109,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -168,7 +168,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -249,7 +249,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Cargo Capacity and Towing Ability
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -454,7 +454,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Front seats
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -591,7 +591,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ### Second row seats
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -704,7 +704,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Driver Assistance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -911,7 +911,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## UI and controls
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/main_1_st.jpg" title="Audi e-tron GT" width="3000" height="2001" >}}
-EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron GT, visit the [chargeinfo](../chargecurve/) for Audi e-tron GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Audi e-tron GT, visit the [chargeinfo](../chargecurve/) for Audi e-tron GT with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -90,7 +90,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Clic
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -157,7 +157,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -232,7 +232,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -345,7 +345,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Cargo Capacity and Towing Ability
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -414,7 +414,7 @@ The model offers 2 suspension variants
 
 ### Standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -535,7 +535,7 @@ The model offers 2 suspension variants
 
 ### Adaptive Air Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -663,7 +663,7 @@ This model is available with a seat configuration with five seats.
 
 #### sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -800,7 +800,7 @@ This model is available with a seat configuration with five seats.
 
 #### sport plus
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -937,7 +937,7 @@ This model is available with a seat configuration with five seats.
 
 #### sport pro
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1074,7 +1074,7 @@ This model is available with a seat configuration with five seats.
 
 ## Driver Assistance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1291,7 +1291,7 @@ This model is available with a seat configuration with five seats.
 
 ## UI and controls
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1402,7 +1402,7 @@ This model is available with a seat configuration with five seats.
 
 ### Audi Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1443,7 +1443,7 @@ This model is available with a seat configuration with five seats.
 
 ### Bang & Olufsen Sound System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

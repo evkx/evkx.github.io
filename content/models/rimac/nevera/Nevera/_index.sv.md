@@ -35,7 +35,7 @@ Rimac Nevera har en maximal effekt på 1400 KW (1904hk). Totalt vridmoment är 2
 
 Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 106,8kWh, vilket innebär att du har en 13,2kWh buffert för skydd. (11,0%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 490 km. Förbrukningen är 21.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 490 km. Förbrukningen är 21.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 500 kW. En full laddning från 0 - 100 % tar 34 minuter, medan ett vanligare scenario på 10-80 % tar 17 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 232kW. Varje laddningssession tar 16 minuter och 46 sekunder.
 

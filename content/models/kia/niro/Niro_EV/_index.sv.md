@@ -35,7 +35,7 @@ Kia Niro EV har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 255 
 
 Batteriet har en bruttokapacitet på 68kWh och en nettokapacitet på 64,8kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (4,7%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 463 km. Förbrukningen är 14.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 463 km. Förbrukningen är 14.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 93 minuter, medan ett vanligare scenario på 10-80 % tar 44 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 60kW. Varje laddningssession tar 33 minuter och 30 sekunder.
 

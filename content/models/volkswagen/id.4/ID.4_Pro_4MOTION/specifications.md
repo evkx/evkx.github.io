@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 Pro 4MOTION, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro 4MOTION with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 Pro 4MOTION, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro 4MOTION with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -133,7 +133,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Battery & Charging
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -200,7 +200,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Dimensions
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -313,7 +313,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Cargo Capacity and Towing Ability
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -406,7 +406,7 @@ The model offers 2 suspension variants
 
 ### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -527,7 +527,7 @@ The model offers 2 suspension variants
 
 ### sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -655,7 +655,7 @@ This model is available with a seat configuration with five seats.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -792,7 +792,7 @@ This model is available with a seat configuration with five seats.
 
 #### ergoActive Top-Sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -932,7 +932,7 @@ This model is available with a seat configuration with five seats.
 
 #### optional
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1045,7 +1045,7 @@ This model is available with a seat configuration with five seats.
 
 ## Driver Assistance
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1262,7 +1262,7 @@ This model is available with a seat configuration with five seats.
 
 ## UI and controls
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1343,7 +1343,7 @@ This model is available with a seat configuration with five seats.
 
 ### Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1384,7 +1384,7 @@ This model is available with a seat configuration with five seats.
 
 ### Volkswagen Soundsystem
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

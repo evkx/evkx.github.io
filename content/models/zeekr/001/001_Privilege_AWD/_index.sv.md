@@ -35,7 +35,7 @@ Zeekr 001 Privilege AWD har en maximal effekt på 400 KW (544hk). Totalt vridmom
 
 Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 580 km. Förbrukningen är 16.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 580 km. Förbrukningen är 16.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 134kW. Varje laddningssession tar 23 minuter och 54 sekunder.
 

@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Audi RS e-tron GT. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi RS e-tron GT, gå til [chargeinfo](../chargecurve/) for Audi RS e-tron GT med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net søker å ha de mest komplette spesifikasjonene for Audi RS e-tron GT. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi RS e-tron GT, gå til [chargeinfo](../chargecurve/) for Audi RS e-tron GT med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -90,7 +90,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi RS e-tron GT. 
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -157,7 +157,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -232,7 +232,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -345,7 +345,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Lastekapasitet og slepeevne
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -414,7 +414,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### Standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -535,7 +535,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ### Adaptive Air Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -663,7 +663,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -800,7 +800,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### sport plus
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -937,7 +937,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### sport pro
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1074,7 +1074,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1291,7 +1291,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Brukerinterface
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1402,7 +1402,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Audi Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1443,7 +1443,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Bang & Olufsen Sound System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

@@ -9,12 +9,12 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/main_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2250" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 eDrive40. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BMW i5 eDrive40, gå til [chargeinfo](../chargecurve/) for BMW i5 eDrive40 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges. 
+EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 eDrive40. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BMW i5 eDrive40, gå til [chargeinfo](../chargecurve/) for BMW i5 eDrive40 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -66,7 +66,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 eDrive40. Kl
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -133,7 +133,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Batteri og lading
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -208,7 +208,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Dimensjoner
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -297,7 +297,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Lastekapasitet og slepeevne
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -390,7 +390,7 @@ Modellen tilbyr 3 fjæringsvarianter
 
 ### Adaptive M Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -511,7 +511,7 @@ Modellen tilbyr 3 fjæringsvarianter
 
 ### M Sport Suspension
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -632,7 +632,7 @@ Modellen tilbyr 3 fjæringsvarianter
 
 ### Adaptives suspension professional
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -760,7 +760,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -897,7 +897,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### M Sport
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1037,7 +1037,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 #### standard
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1150,7 +1150,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Sjåførassistanse
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1367,7 +1367,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Brukerinterface
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1478,7 +1478,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Hifi Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1519,7 +1519,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Harman Kardon Surround Sound system
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
@@ -1560,7 +1560,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Bower & Wilkins Surround System
 
-<table class="table table-striped">
+<table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>

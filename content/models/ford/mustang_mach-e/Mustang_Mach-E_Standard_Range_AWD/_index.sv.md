@@ -35,7 +35,7 @@ Ford Mustang Mach-E Standard Range AWD har en maximal effekt på 258 KW (351hk).
 
 Batteriet har en bruttokapacitet på 75,7kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 5,7kWh buffert för skydd. (7,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 17.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 17.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 117 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 80kW. Varje laddningssession tar 22 minuter och 3 sekunder.
 

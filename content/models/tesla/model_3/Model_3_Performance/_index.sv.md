@@ -35,7 +35,7 @@ Tesla Model 3 Performance har en maximal effekt på 393 KW (534hk). Totalt vridm
 
 Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 7kWh buffert för skydd. (8,5%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 547 km. Förbrukningen är 13.7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 547 km. Förbrukningen är 13.7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 68 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 119kW. Varje laddningssession tar 14 minuter och 23 sekunder.
 

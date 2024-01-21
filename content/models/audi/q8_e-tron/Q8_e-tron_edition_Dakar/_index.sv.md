@@ -35,7 +35,7 @@ Med overboost har Audi Q8 e-tron edition Dakar en maximal effekt på 300 KW (408
 
 Batteriet har en bruttokapacitet på 114kWh och en nettokapacitet på 106kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 487 km. Förbrukningen är 21.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 487 km. Förbrukningen är 21.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 122kW. Varje laddningssession tar 37 minuter och 58 sekunder.
 

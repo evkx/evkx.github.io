@@ -35,7 +35,7 @@ Tesla Model S Plaid har en maximal effekt på 760 KW (1033hk). Totalt vridmoment
 
 Batteriet har en bruttokapacitet på 104,96kWh och en nettokapacitet på 96kWh, vilket innebär att du har en 8,96kWh buffert för skydd. (8,5%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 600 km. Förbrukningen är 16.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 600 km. Förbrukningen är 16.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 80 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 47%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 143kW. Varje laddningssession tar 16 minuter och 9 sekunder.
 

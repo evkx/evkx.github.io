@@ -35,7 +35,7 @@ Renault Scenic E-Tech electric High Range har en maximal effekt på 160 KW (218h
 
 Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 87kWh, vilket innebär att du har en 4kWh buffert för skydd. (4,4%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 610 km. Förbrukningen är 14.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 610 km. Förbrukningen är 14.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 130 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 98kW. Varje laddningssession tar 28 minuter och 18 sekunder.
 

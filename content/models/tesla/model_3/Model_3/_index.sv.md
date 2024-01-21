@@ -35,7 +35,7 @@ Tesla Model 3 har en maximal effekt på 208 KW (283hk). Totalt vridmoment är 42
 
 Batteriet har en bruttokapacitet på 60kWh och en nettokapacitet på 59kWh, vilket innebär att du har en 1kWh buffert för skydd. (1,7%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 513 km. Förbrukningen är 11.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 513 km. Förbrukningen är 11.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 70 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 49%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 83kW. Varje laddningssession tar 20 minuter och 31 sekunder.
 

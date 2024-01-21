@@ -16,7 +16,7 @@ Räckvidden kommer att variera beroende på flera faktorer. Såsom hur snabbt du
 
 ### Officiella testcykelresultat
 
-Nedan är de officiellt klassade intervallen. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
+Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC avstängd. Klicka på länkarna i tabellen för mer information om testprocedurer.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -49,7 +49,7 @@ Nedan är de officiellt klassade intervallen. Testerna utförs med värme/AC avs
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP-intervall max utrustningsnivå
+					WLTP-räckvidd max utrustningsnivå
 				</a>
 			</td>
 			<td>
@@ -95,7 +95,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 		</tr>
 		<tr>
 			<td>
-				WLTP-intervall max trimnivå med 2KW AC
+				WLTP-räckvidd max trimnivå med 2KW AC
 			</td>
 			<td>
 				333 km / 207 mi

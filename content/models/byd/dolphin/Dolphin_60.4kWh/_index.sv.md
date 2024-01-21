@@ -35,7 +35,7 @@ BYD Dolphin 60.4kWh har en maximal effekt på 150 KW (204hk). Totalt vridmoment 
 
 Batteriet har en bruttokapacitet på 60,4kWh och en nettokapacitet på 62kWh, vilket innebär att du har en -1,6kWh buffert för skydd. (-2,6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 427 km. Förbrukningen är 14.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 427 km. Förbrukningen är 14.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 88 kW. En full laddning från 0 - 100 % tar 48 minuter, medan ett vanligare scenario på 10-80 % tar 26 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 88kW. Varje laddningssession tar 24 minuter och 12 sekunder.
 

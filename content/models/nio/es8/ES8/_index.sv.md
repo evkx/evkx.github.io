@@ -38,7 +38,7 @@ Nio ES8 har två batterialternativ med olika specifikationer. Nedan kan du se hu
 
 Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 90kWh, vilket innebär att du har en 10kWh buffert för skydd. (10,0%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 19.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 19.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 83 minuter, medan ett vanligare scenario på 10-80 % tar 43 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 72%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 79kW. Varje laddningssession tar 44 minuter och 24 sekunder.
 
@@ -47,7 +47,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70,5kWh, vilket innebär att du har en 4,5kWh buffert för skydd. (6,0%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 350 km. Förbrukningen är 19.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 350 km. Förbrukningen är 19.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 140 kW. En full laddning från 0 - 100 % tar 65 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 37 minuter och 57 sekunder.
 

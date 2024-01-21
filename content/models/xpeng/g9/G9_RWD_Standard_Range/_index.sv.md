@@ -35,7 +35,7 @@ XPENG G9 RWD Standard Range har en maximal effekt på 230 KW (313hk). Totalt vri
 
 Batteriet har en bruttokapacitet på 78,2kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (4,1%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 16.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 16.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 45 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 144kW. Varje laddningssession tar 17 minuter och 30 sekunder.
 

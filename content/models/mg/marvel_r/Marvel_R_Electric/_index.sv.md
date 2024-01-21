@@ -35,7 +35,7 @@ MG Marvel R Electric har en maximal effekt på 132 KW (180hk). Totalt vridmoment
 
 Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,7%).
 
-[WLTP-intervall](../../../../guides/understandingrange/wltp/) är 402 km. Förbrukningen är 17.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 402 km. Förbrukningen är 17.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
 
 Maximal DC-laddningshastighet är 94 kW. En full laddning från 0 - 100 % tar 114 minuter, medan ett vanligare scenario på 10-80 % tar 43 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 61%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 63kW. Varje laddningssession tar 35 minuter och 7 sekunder.
 
