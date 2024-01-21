@@ -2,7 +2,7 @@
 title: Traffic Sign Recognition
 linktitle: TSR
 description: Traffic Sign Recognition (TSR) är en teknik som används i vissa moderna fordon och som hjälper förare att identifiera och tolka vägmärken.
-weight: 3
+weight: 20
 ---
 <!-- markdownlint-disable MD033 -->
 Den använder en kombination av kameror och programvara för att upptäcka och känna igen olika vägskyltar, såsom skyltar för hastighetsbegränsning, förbipasserande skyltar, stoppskyltar och skyltar för vika.

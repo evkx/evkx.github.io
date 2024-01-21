@@ -2,7 +2,7 @@
 title: Collision Avoidance Systems
 linktitle: CAS
 description: Collision Avoidance Systems (CAS) er en familie av avanserte førerassistentsystemer som er utviklet for å hjelpe sjåfører med å unngå kollisjoner med andre kjøretøy, fotgjengere og gjenstander på veien.
-weight: 3
+weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
 

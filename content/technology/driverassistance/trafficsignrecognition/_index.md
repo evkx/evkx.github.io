@@ -2,7 +2,7 @@
 title: Traffic Sign Recognition
 linktitle: TSR
 description: Traffic Sign Recognition (TSR) is a technology used in some modern vehicles that helps drivers identify and interpret road signs.
-weight: 3
+weight: 20
 ---
 <!-- markdownlint-disable MD033 -->
 

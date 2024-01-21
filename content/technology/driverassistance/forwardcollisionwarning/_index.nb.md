@@ -2,7 +2,7 @@
 title: Forward Collision Warning
 linktitle: FCW
 description: Forward Collision Warning (FCW) er et avansert førerassistentsystem som er utviklet for å hjelpe sjåfører med å unngå eller dempe frontkollisjoner.
-weight: 3
+weight: 15
 ---
 <!-- markdownlint-disable MD033 -->
 

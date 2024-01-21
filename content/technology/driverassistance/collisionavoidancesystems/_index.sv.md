@@ -2,7 +2,7 @@
 title: Collision Avoidance Systems
 linktitle: CAS
 description: Collision Avoidance Systems (CAS) är en familj av avancerade förarassistanssystem utformade för att hjälpa förare att undvika kollisioner med andra fordon, fotgängare och föremål på vägen.
-weight: 3
+weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
 CAS använder vanligtvis en kombination av sensorer, såsom radar, kameror och lidar, för att övervaka miljön runt fordonet och upptäcka potentiella faror.

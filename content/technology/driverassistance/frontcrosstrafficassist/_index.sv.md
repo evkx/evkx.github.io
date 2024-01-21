@@ -2,7 +2,7 @@
 title: Front cross traffic assist
 linktitle: FCTA
 description: Front cross traffic assist är en säkerhetsfunktion som finns i vissa moderna fordon som hjälper förare att upptäcka mötande trafik när de korsar en korsning eller svänger vänster eller höger från ett stoppat läge.
-weight: 3
+weight: 16
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -2,7 +2,7 @@
 title: Driver Monitoring System
 linktitle: DMS
 description: A driver monitoring system is a safety feature in modern cars that uses sensors and cameras to monitor the driver's behavior and attention while driving. 
-weight: 3
+weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
 

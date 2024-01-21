@@ -2,7 +2,7 @@
 title: Driver Drowsiness Detection
 linktitle: DDD
 description: Driver Drowsiness Detection (DDD) är en säkerhetsfunktion i vissa moderna fordon som använder olika sensorer och algoritmer för att övervaka förarens vakenhetsnivå och upptäcka tecken på dåsighet eller trötthet.
-weight: 3
+weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 Systemet är utformat för att varna föraren om den upptäcker tecken på dåsighet, så att de kan ta en paus eller stanna på ett säkert sätt.

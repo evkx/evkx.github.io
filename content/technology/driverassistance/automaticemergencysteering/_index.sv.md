@@ -2,7 +2,7 @@
 title: Automatisk nödstyrning
 linktitle: AES
 description: Automatic Emergency Steering (AES) är ett avancerat förarassistanssystem utformat för att hjälpa förare att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
-weight: 3
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -17,3 +17,8 @@ När AES-systemet upptäcker att en kollision är nära förestående kan det ta
 AES-system använder en mängd olika algoritmer för att bestämma sannolikheten och svårighetsgraden av en kollision, med hänsyn till faktorer som fordonets hastighet, avståndet till objektet eller fotgängaren och stängningshastigheten. Systemet kan också innehålla information om väglayout, trafikflöde och väderförhållanden för att ytterligare förfina styr- och bromsalgoritmerna.
 
 Sammantaget är AES-system utformade för att ge ett extra lager av säkerhet för att hjälpa förare att undvika kollisioner. Det är dock viktigt att notera att AES-system inte är en ersättning för säkra och uppmärksamma körrutiner och förare bör alltid hålla ett säkert efteravstånd och vara beredda att bromsa eller styra bort från ett hinder om det behövs. Dessutom kanske AES-system inte är tillgängliga på alla fordon eller kan kräva att vissa villkor är uppfyllda för att fungera korrekt.
+
+<div class="mt-3 mb-3">
+    <a href="../automaticemergencybraking/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Autonom nödbromsning</strong></a>
+    <a href="../automaticparking/" class="text-decoration-none text-black float-end"><strong>Automatisk parkeringshjälp<i class="bi-arrow-right"></i></strong></a>
+</div>

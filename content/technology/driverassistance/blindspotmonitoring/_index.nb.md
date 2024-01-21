@@ -2,7 +2,7 @@
 title: Blind Spot Monitoring
 linktitle: BSM
 description: Blind Spot Monitoring (BSM) er et avansert førerassistansesystem utviklet for å hjelpe sjåfører med å oppdage og unngå kollisjoner mens de skifter fil eller går inn i trafikken.
-weight: 3
+weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -28,3 +28,8 @@ Ulike produsenter kan bruke forskjellige navn for å referere til Blind Spot Mon
 - Lane Departure Warning System (LDWS) med blindsonedeteksjon
 
 Det er viktig å merke seg at selv om navnene på BSM-systemer kan variere, forblir deres funksjon og formål den samme - for å hjelpe sjåfører med å oppdage og unngå kollisjoner mens de skifter fil eller slår seg sammen i trafikken.
+
+<div class="mt-3 mb-3">
+    <a href="../autosteer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Autosteer</strong></a>
+    <a href="../collisionavoidancesystems/" class="text-decoration-none text-black float-end"><strong>Collision Avoidance Systems (CAS) <i class="bi-arrow-right"></i></strong></a>
+</div>

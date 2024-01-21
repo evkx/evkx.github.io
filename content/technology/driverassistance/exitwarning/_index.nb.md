@@ -2,7 +2,7 @@
 title: Utstigningsvarsel
 linktitle: Utstigningsvarsel
 description: Utstigningsvarsel er en sikkerhetsfunksjon på moderne biler som er designet for å varsle sjåfører og passasjerer om potensielle farer når de gjør seg klare til å gå ut av kjøretøyet.
-weight: 3
+weight: 14
 ---
 <!-- markdownlint-disable MD033 -->
 Denne funksjonen er spesielt relevant når bilen er parkert i et trafikkert område eller på siden av en trafikkert vei.

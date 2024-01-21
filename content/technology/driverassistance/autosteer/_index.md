@@ -2,7 +2,7 @@
 title: Autosteer
 linktitle: Autosteer
 description: Autosteer is a feature of some advanced driver assistance systems that allows a vehicle to automatically steer itself within a lane on a highway or freeway. 
-weight: 3
+weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -39,3 +39,8 @@ Manufacturers may use different names for their Autosteer systems, but some comm
 {{<evkxdisplayaddarticle />}}
 
 It's important to note that the exact features and capabilities of each manufacturer's Autosteer system may vary, and drivers should always consult their vehicle's owner's manual and familiarize themselves with the specific features and limitations of their system.
+
+<div class="mt-3 mb-3">
+    <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatic parking assis</strong></a>
+    <a href="../blindspotmonitoring/" class="text-decoration-none text-black float-end"><strong>Blind Spot Monitoring <i class="bi-arrow-right"></i></strong></a>
+</div>

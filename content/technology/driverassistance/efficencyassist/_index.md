@@ -2,7 +2,7 @@
 title: Efficiency Assist
 linktitle: Efficiency Assist
 description: Efficiency Assist is a feature in electric vehicles (EVs) that helps drivers optimize their driving behavior to maximize the vehicle's range and efficiency.
-weight: 3
+weight: 12
 ---
 <!-- markdownlint-disable MD033 -->
 

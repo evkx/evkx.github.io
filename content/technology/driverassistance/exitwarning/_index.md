@@ -2,7 +2,7 @@
 title: Exit Warning
 linktitle: Exit Warning
 description: Exit warning is a safety feature on modern cars that is designed to alert drivers and passengers of potential hazards when they are getting ready to exit the vehicle. 
-weight: 3
+weight: 14
 ---
 <!-- markdownlint-disable MD033 -->
 

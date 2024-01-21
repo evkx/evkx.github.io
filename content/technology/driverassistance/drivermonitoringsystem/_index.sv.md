@@ -2,7 +2,7 @@
 title: Förarövervakningssystem
 linktitle: DMS
 description: Ett förarövervakningssystem är en säkerhetsfunktion i moderna bilar som använder sensorer och kameror för att övervaka förarens beteende och uppmärksamhet under körning.
-weight: 3
+weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
 Syftet med detta system är att förbättra säkerheten genom att upptäcka när föraren blir trött, distraherad eller nedsatt och ge varningar eller ingripanden för att förhindra olyckor.

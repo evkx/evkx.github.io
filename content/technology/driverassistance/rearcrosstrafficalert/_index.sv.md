@@ -2,7 +2,7 @@
 title: Rear Cross Traffic Alert
 linktitle: RCTA
 description: Rear Cross Traffic Alert (RCTA) är en säkerhetsfunktion i vissa moderna bilar som använder sensorer för att upptäcka fordon som närmar sig från sidan när de backar ut från en parkeringsplats eller uppfart.
-weight: 3
+weight: 19
 ---
 <!-- markdownlint-disable MD033 -->
 

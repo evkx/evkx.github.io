@@ -2,7 +2,7 @@
 title: Effektivitetsassistent
 linktitle: Effektivitetsassistent
 description: Effektivitetsassistent är en funktion i elfordon (EV) som hjälper förare att optimera sitt körbeteende för att maximera fordonets räckvidd och effektivitet.
-weight: 3
+weight: 12
 ---
 <!-- markdownlint-disable MD033 -->
 Funktionen ger feedback i realtid till föraren och ger förslag på effektivare körtekniker.

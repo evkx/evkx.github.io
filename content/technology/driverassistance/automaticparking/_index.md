@@ -2,7 +2,7 @@
 title: Automatic parking assist
 linktitle: APA
 description: Automatic parking assist is a technology that allows a vehicle to park itself without the need for human intervention. 
-weight: 3
+weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -32,3 +32,9 @@ The below video shows a demo of Mercedes Benz Parking assist
 
 
 It's important to note that while automatic parking can be a convenient feature, drivers should always remain vigilant and aware of their surroundings, especially in busy or crowded parking lots.
+
+
+<div class="mt-3 mb-3">
+    <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatic Emergency Steering</strong></a>
+    <a href="../autosteer/" class="text-decoration-none text-black float-end"><strong>Autosteer <i class="bi-arrow-right"></i></strong></a>
+</div>

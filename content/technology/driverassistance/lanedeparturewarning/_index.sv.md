@@ -2,7 +2,7 @@
 title: Lane departure warning 
 linktitle: LDW
 description: Lane Departure Warning (LDW) är ett avancerat förarassistanssystem (ADAS) som hjälper förare att undvika att oavsiktligt lämna sin fil under körning.
-weight: 3
+weight: 17
 ---
 <!-- markdownlint-disable MD033 -->
 

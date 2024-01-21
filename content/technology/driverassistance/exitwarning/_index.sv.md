@@ -2,7 +2,7 @@
 title: Utgångsmeddelande
 linktitle: Utgångsmeddelande
 description: Utfartsvarning är en säkerhetsfunktion på moderna bilar utformad för att varna förare och passagerare om potentiella faror när de förbereder sig för att lämna fordonet.
-weight: 3
+weight: 14
 ---
 <!-- markdownlint-disable MD033 -->
 Denna funktion är särskilt relevant när bilen står parkerad i ett trafikerat område eller vid sidan av en trafikerad väg.

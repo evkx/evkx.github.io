@@ -2,7 +2,7 @@
 title: Førerovervåkingssystem
 linktitle: DMS
 description: Et førerovervåkingssystem er en sikkerhetsfunksjon i moderne biler som bruker sensorer og kameraer for å overvåke førerens oppførsel og oppmerksomhet under kjøring.
-weight: 3
+weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
 

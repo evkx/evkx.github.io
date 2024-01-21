@@ -2,7 +2,7 @@
 title: Elektronisk stabilitetskontroll
 linktitle: ESC
 description: Electronic Stability Control (ESC) är ett förarassistanssystem utformat för att förbättra stabiliteten och hanteringen av ett fordon under skarpa manövrar eller hala vägförhållanden.
-weight: 3
+weight: 13
 ---
 <!-- markdownlint-disable MD033 -->
 ESC är en standardsäkerhetsfunktion på de flesta moderna fordon och kallas ibland även för Electronic Stability Program (ESP) eller Vehicle Stability Control (VSC).
