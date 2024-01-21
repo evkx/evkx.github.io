@@ -429,6 +429,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="mg/" class="btn btn-outline-primary" role="button">Go to MG EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="neta/"><img src="https://media.evkx.net/multimedia/models/neta/brandevs_st.jpg" class="img-fluid mb-2" alt="Neta" ></a>
 	<h2>Neta</h2>
 	<p>
 		Neta is a Chinese electric vehicle (EV) brand that was founded in 2014 by Hozon Auto, a company based in Zhejiang province. Neta produces affordable and smart EVs that target the lower end of the market, such as the Neta N01, Neta U, Neta V, and Neta S models. Neta also has a sports car model, the Neta GT, that aims to create a higher-end image for the brand.        
@@ -461,6 +462,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Go to Nissan EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
 	<h2>Opel</h2>
 	<p>
 		Opel is a German automobile manufacturer that has been a subsidiary of Stellantis since 2021. It was previously owned by General Motors and PSA Group. Opel produces passenger cars, light commercial vehicles, and vehicle parts, and sells them under the Opel and Vauxhall brands in Europe and other regions.
@@ -515,6 +517,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="renault/" class="btn btn-outline-primary" role="button">Go to Renault EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="rimac/"><img src="https://media.evkx.net/multimedia/models/rimac/brandevs_st.jpg" class="img-fluid mb-2" alt="Rimac" ></a>
 	<h2>Rimac</h2>
 	<p>
 		Rimac Automobili is a Croatian company that produces electric hypercars and provides technology solutions to global automotive manufacturers. The company was founded in 2009 by Mate Rimac, who converted his BMW 3 Series into an electric car and gained attention from investors and the media. Rimac Automobili's first model, the Concept One, was the world's fastest production electric car. 

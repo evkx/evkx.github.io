@@ -354,6 +354,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="mg/" class="btn btn-outline-primary" role="button">Gå till MG modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="neta/"><img src="https://media.evkx.net/multimedia/models/neta/brandevs_st.jpg" class="img-fluid mb-2" alt="Neta" ></a>
 	<h2>Neta</h2>
 	<p>
 	Neta har 1 modell(er) med totalt 1 varianter.
@@ -377,6 +378,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Gå till Nissan modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
 	<h2>Opel</h2>
 	<p>
 	Opel har 1 modell(er) med totalt 1 varianter.
@@ -416,6 +418,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="renault/" class="btn btn-outline-primary" role="button">Gå till Renault modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="rimac/"><img src="https://media.evkx.net/multimedia/models/rimac/brandevs_st.jpg" class="img-fluid mb-2" alt="Rimac" ></a>
 	<h2>Rimac</h2>
 	<p>
 	Rimac har 1 modell(er) med totalt 1 varianter.
