@@ -400,7 +400,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				CurbWeight
+				Tomvikt
 			</td>
 			<td>
 				1785 kg

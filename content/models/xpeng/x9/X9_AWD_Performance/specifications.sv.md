@@ -78,6 +78,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				CLTC räckvidd
+			</td>
+			<td>
+				640 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC förbrukning
+			</td>
+			<td>
+				15,3 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 

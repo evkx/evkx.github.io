@@ -158,6 +158,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				3,7 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Basic trim CLTC range
+			</td>
+			<td>
+				688 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim CLTC consumption
+			</td>
+			<td>
+				11,5 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 

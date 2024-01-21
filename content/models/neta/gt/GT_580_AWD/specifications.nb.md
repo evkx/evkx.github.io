@@ -70,6 +70,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				CLTC rekkevidde for minimum utstyrsnivå
+			</td>
+			<td>
+				580 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim CLTC-forbruk
+			</td>
+			<td>
+				12,9 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 

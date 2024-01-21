@@ -120,7 +120,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				EPA Range
+				EPA räckvidd
 			</td>
 			<td>
 				236 mi
@@ -128,7 +128,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				EPA Consumption
+				EPA förbrukning
 			</td>
 			<td>
 				3,2 mi/kWh
@@ -344,7 +344,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				CurbWeight
+				Tomvikt
 			</td>
 			<td>
 				2235 kg

@@ -104,7 +104,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				EPA Range
+				EPA räckvidd
 			</td>
 			<td>
 				285 mi
@@ -112,10 +112,26 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				EPA Consumption
+				EPA förbrukning
 			</td>
 			<td>
 				3,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC räckvidd
+			</td>
+			<td>
+				615 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC förbrukning
+			</td>
+			<td>
+				12,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -344,7 +360,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				CurbWeight
+				Tomvikt
 			</td>
 			<td>
 				2135 kg

@@ -78,6 +78,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				CLTC räckvidd
+			</td>
+			<td>
+				660 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				CLTC förbrukning
+			</td>
+			<td>
+				14,4 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -288,7 +304,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				CurbWeight
+				Tomvikt
 			</td>
 			<td>
 				2200 kg
