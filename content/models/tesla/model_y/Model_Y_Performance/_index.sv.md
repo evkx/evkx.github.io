@@ -172,10 +172,10 @@ En typ av ljudsystem är tillgänglig för Tesla Model Y Performance. Med Tesla 
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-
+Modellen har 4 USB-C-anslutningar som standard.
 ## Ljus
 
-Standardlamporna använder LED-teknik.
+Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
 ## Avancerade förarassistanssystem
 
 Tesla Model Y Performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

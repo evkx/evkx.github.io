@@ -77,7 +77,7 @@ Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik komb
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}

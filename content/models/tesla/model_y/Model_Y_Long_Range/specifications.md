@@ -628,7 +628,7 @@ This model is available with a seat configuration with five or seven seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -636,12 +636,20 @@ This model is available with a seat configuration with five or seven seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
 			<td>
 				Backrest angle adjustment
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Standard feature
@@ -1122,6 +1130,7 @@ This model is available with a seat configuration with five or seven seats.
 				Voice control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1129,6 +1138,7 @@ This model is available with a seat configuration with five or seven seats.
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

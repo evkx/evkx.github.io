@@ -73,7 +73,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" title="XPENG P7 AWD Performance" width="3000" height="2000"  >}}

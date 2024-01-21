@@ -77,7 +77,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [delt baklu
 
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne fronten del. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til passasjeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}

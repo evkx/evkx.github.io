@@ -73,7 +73,7 @@ Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [sky
 
 Det er bare ett tak for denne modellen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}

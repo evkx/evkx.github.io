@@ -149,6 +149,8 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 Ratten är elektriskt justerbar.
 
+Du har lätt insteg för förarstolen som flyttar sätet för att göra det lättare att komma in i bilen.
+
 Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
@@ -164,16 +166,18 @@ Modellen är inte tillgänglig med head-up display.
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/screens_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="1800"  >}}
 
 
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
 ## Infotainment
 
 En typ av ljudsystem är tillgänglig för Tesla Model Y Long Range. Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-
+Modellen har 4 USB-C-anslutningar som standard.
 ## Ljus
 
-Standardlamporna använder LED-teknik.
+Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
 ## Avancerade förarassistanssystem
 
 Tesla Model Y Long Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

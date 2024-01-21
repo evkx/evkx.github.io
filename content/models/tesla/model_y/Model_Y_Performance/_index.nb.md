@@ -78,7 +78,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/exterior_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2455"  >}}
@@ -172,10 +172,10 @@ Modellen er ikke tilgjengelig med head-up display.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-
+Modellen har 4 USB-C-tilkoblinger som standard.
 ## Lys
 
-Standardlyktene bruker LED-teknologi.
+Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
 ## Avanserte førerassistentsystemer
 
 Tesla Model Y Performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

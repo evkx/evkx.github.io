@@ -628,7 +628,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -636,12 +636,20 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
 			<td>
 				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Standardfunksjon
@@ -1122,6 +1130,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Voice control
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1129,6 +1138,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Gesture control
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

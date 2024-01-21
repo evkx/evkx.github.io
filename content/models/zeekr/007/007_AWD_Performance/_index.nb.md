@@ -73,7 +73,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/exterior_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}

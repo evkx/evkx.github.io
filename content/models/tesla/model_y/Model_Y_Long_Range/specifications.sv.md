@@ -628,7 +628,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -636,12 +636,20 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
 				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
@@ -1122,6 +1130,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Röststyrning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1129,6 +1138,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Gestkontroll
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

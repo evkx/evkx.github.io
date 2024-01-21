@@ -77,7 +77,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}

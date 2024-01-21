@@ -193,10 +193,10 @@ One type of sound system is available for the Tesla Model Y Standard Range. With
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 
-
+The model has 4 USB-C connections as standard.
 ## Lights
 
-The standard headlights use LED technology.
+The standard headlights use LED technology. In addition, the standard taillights use LED technology.
 ## Advanced driver assistance systems
 
 The Tesla Model Y Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

@@ -72,7 +72,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}

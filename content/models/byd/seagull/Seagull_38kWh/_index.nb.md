@@ -77,7 +77,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/exterior_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}

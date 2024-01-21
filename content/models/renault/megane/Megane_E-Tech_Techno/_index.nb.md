@@ -82,7 +82,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/exterior_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="1999"  >}}

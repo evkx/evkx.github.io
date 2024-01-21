@@ -78,7 +78,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Forruten er panoramautsikt over den første raden. I tillegg er det takvinduer over den andre raden.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/exterior_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2250"  >}}

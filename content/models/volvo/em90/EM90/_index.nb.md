@@ -74,7 +74,7 @@ Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [sky
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}

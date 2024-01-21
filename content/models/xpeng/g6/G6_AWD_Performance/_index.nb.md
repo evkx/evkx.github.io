@@ -73,7 +73,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/exterior_1_st.jpg" title="XPENG G6 AWD Performance" width="1920" height="1123"  >}}

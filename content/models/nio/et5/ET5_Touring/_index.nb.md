@@ -93,7 +93,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedres stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset i flere nivåer for å beskytte mot solen.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}

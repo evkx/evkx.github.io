@@ -82,7 +82,7 @@ Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [sky
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
-Vutene fra B-stolpen og baksiden er tonet.
+Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/exterior_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}

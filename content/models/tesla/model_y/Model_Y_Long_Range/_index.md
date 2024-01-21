@@ -149,6 +149,8 @@ Keyless go makes it possible to start the car without using the key.
 
 The steering wheel is electrically adjustable.
 
+You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
+
 You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
@@ -164,16 +166,18 @@ The model does not have a head-up display.
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/screens_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="1800"  >}}
 
 
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+
 ## Infotainment
 
 One type of sound system is available for the Tesla Model Y Long Range. With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 
-
+The model has 4 USB-C connections as standard.
 ## Lights
 
-The standard headlights use LED technology.
+The standard headlights use LED technology. In addition, the standard taillights use LED technology.
 ## Advanced driver assistance systems
 
 The Tesla Model Y Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
