@@ -355,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Adaptive Suspension
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning fram
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning bak
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd fram
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd bak
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -464,10 +464,34 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 	<tbody>
 		<tr>
 			<td>
-				Sitttyp
+				Säte typ
 			</td>
 			<td>
-				PassengerAndDriver
+				Förar- och passagerarsäte
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering sätesdjup
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering säteshöjd
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -475,7 +499,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +507,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Minnesförarsäte
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -491,7 +515,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Memory Passenger Seat
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -499,7 +523,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +531,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +539,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +547,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Ryggstödsjustering
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -531,7 +555,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +563,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -547,7 +571,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -555,7 +579,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -563,7 +587,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -571,7 +595,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Sätesventilation
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -579,7 +603,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 	</tbody>
@@ -604,7 +628,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 	<tbody>
 		<tr>
 			<td>
-				Sitttyp
+				Säte typ
 			</td>
 			<td>
 				TwoCaptainChairs
@@ -615,7 +639,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -623,7 +647,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -631,7 +655,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -639,7 +663,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Ryggstödsjustering
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -647,7 +671,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -655,7 +679,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -663,7 +687,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -671,7 +695,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -679,7 +703,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -687,7 +711,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Sätesventilation
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +719,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -720,7 +744,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Körfilsassistans
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -728,7 +752,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Körfilsassistans avåkningsvarnare
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +760,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Trötthetsvarnare
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +768,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				ReversingCamera
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +776,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				360-kamera
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -760,7 +784,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Varning för korstrafik, bak
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -768,7 +792,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Parkeringssensorer bak
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +800,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Parkeringssensorer fram
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -784,7 +808,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Sidoparkeringssensorer
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -792,7 +816,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Hill Descent Assist
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -800,7 +824,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Backstartsassistans
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -808,7 +832,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Antiblockeringssystem (ABS)
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -816,7 +840,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Autonom nödbromsning
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -824,7 +848,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Elektronisk bromsassistans
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -832,7 +856,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Antispinnsystem (TCS)
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -840,7 +864,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Left Turn Crash Avoidance
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -848,7 +872,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Kollisionsvarning, front
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -856,7 +880,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -864,7 +888,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Temperature Warning
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -872,7 +896,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Varning för korstrafik, foran
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -880,7 +904,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Hastighetsbegränsare
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -888,7 +912,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				EfficiencyAssist
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -896,7 +920,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Autonom nödstyrning
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -904,7 +928,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Skyltigenkänning
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -912,7 +936,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Nattseende
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -937,7 +961,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Head-up display
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -945,7 +969,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Röststyrning
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +977,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Gestkontroll
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -961,7 +985,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Android Auto Support
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +993,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Apple Carplay Support
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +1001,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Navigation
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1017,7 +1041,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Bakre infotainmentskärm
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

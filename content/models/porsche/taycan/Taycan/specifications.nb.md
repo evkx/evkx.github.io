@@ -679,7 +679,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Type fjæring foran
 			</td>
 			<td>
-				Coil
+				Spiralfjær
 			</td>
 		</tr>
 		<tr>
@@ -687,7 +687,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Type fjæring bak
 			</td>
 			<td>
-				Coil
+				Spiralfjær
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +695,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Hjuloppheng foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dobbelt bærearmsoppheng
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Hjuloppheng bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -816,7 +816,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Hjuloppheng foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dobbelt bærearmsoppheng
 			</td>
 		</tr>
 		<tr>
@@ -824,7 +824,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Hjuloppheng bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -856,7 +856,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				PassengerAndDriver
+				Sjåfør- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setehøyde
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -993,7 +1017,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				PassengerAndDriver
+				Sjåfør- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setehøyde
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -1130,7 +1178,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				PassengerAndDriver
+				Sjåfør- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setehøyde
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Ukjent
 			</td>
 		</tr>
 		<tr>

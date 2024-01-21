@@ -427,7 +427,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Adaptive Suspension
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning fram
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning bak
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +451,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd fram
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd bak
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -536,10 +536,34 @@ Interior.Seatlayout.OnlySix
 	<tbody>
 		<tr>
 			<td>
-				Sitttyp
+				Säte typ
 			</td>
 			<td>
-				PassengerAndDriver
+				Förar- och passagerarsäte
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering sätesdjup
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering säteshöjd
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -547,7 +571,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -555,7 +579,7 @@ Interior.Seatlayout.OnlySix
 				Minnesförarsäte
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -563,7 +587,7 @@ Interior.Seatlayout.OnlySix
 				Memory Passenger Seat
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -571,7 +595,7 @@ Interior.Seatlayout.OnlySix
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -579,7 +603,7 @@ Interior.Seatlayout.OnlySix
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -587,7 +611,7 @@ Interior.Seatlayout.OnlySix
 				Justerbart lårstöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -595,7 +619,7 @@ Interior.Seatlayout.OnlySix
 				Ryggstödsjustering
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -603,7 +627,7 @@ Interior.Seatlayout.OnlySix
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -611,7 +635,7 @@ Interior.Seatlayout.OnlySix
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +643,7 @@ Interior.Seatlayout.OnlySix
 				Fotstödspassagerare
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -627,7 +651,7 @@ Interior.Seatlayout.OnlySix
 				LegSupportPassenger
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -635,7 +659,7 @@ Interior.Seatlayout.OnlySix
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -643,7 +667,7 @@ Interior.Seatlayout.OnlySix
 				Sätesventilation
 			</td>
 			<td>
-				Standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -651,7 +675,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -676,10 +700,10 @@ Interior.Seatlayout.OnlySix
 	<tbody>
 		<tr>
 			<td>
-				Sitttyp
+				Säte typ
 			</td>
 			<td>
-				ThreeSeatBench
+				Tre-sits bänk
 			</td>
 		</tr>
 		<tr>
@@ -687,7 +711,7 @@ Interior.Seatlayout.OnlySix
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +719,7 @@ Interior.Seatlayout.OnlySix
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +727,7 @@ Interior.Seatlayout.OnlySix
 				Justerbart lårstöd
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -711,7 +735,7 @@ Interior.Seatlayout.OnlySix
 				Ryggstödsjustering
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +743,7 @@ Interior.Seatlayout.OnlySix
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +751,7 @@ Interior.Seatlayout.OnlySix
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -735,7 +759,7 @@ Interior.Seatlayout.OnlySix
 				Fotstödspassagerare
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -743,7 +767,7 @@ Interior.Seatlayout.OnlySix
 				LegSupportPassenger
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -751,7 +775,7 @@ Interior.Seatlayout.OnlySix
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -759,7 +783,7 @@ Interior.Seatlayout.OnlySix
 				Sätesventilation
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -767,7 +791,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				Okänd
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 	</tbody>
@@ -792,7 +816,7 @@ Interior.Seatlayout.OnlySix
 				Körfilsassistans
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -800,7 +824,7 @@ Interior.Seatlayout.OnlySix
 				Körfilsassistans avåkningsvarnare
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -808,7 +832,7 @@ Interior.Seatlayout.OnlySix
 				Trötthetsvarnare
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -816,7 +840,7 @@ Interior.Seatlayout.OnlySix
 				ReversingCamera
 			</td>
 			<td>
-				Ja, valfri funktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -824,7 +848,7 @@ Interior.Seatlayout.OnlySix
 				360-kamera
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -832,7 +856,7 @@ Interior.Seatlayout.OnlySix
 				Varning för korstrafik, bak
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -840,7 +864,7 @@ Interior.Seatlayout.OnlySix
 				Parkeringssensorer bak
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -848,7 +872,7 @@ Interior.Seatlayout.OnlySix
 				Parkeringssensorer fram
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -856,7 +880,7 @@ Interior.Seatlayout.OnlySix
 				Sidoparkeringssensorer
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -864,7 +888,7 @@ Interior.Seatlayout.OnlySix
 				Hill Descent Assist
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -872,7 +896,7 @@ Interior.Seatlayout.OnlySix
 				Backstartsassistans
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -880,7 +904,7 @@ Interior.Seatlayout.OnlySix
 				Antiblockeringssystem (ABS)
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -888,7 +912,7 @@ Interior.Seatlayout.OnlySix
 				Autonom nödbromsning
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -896,7 +920,7 @@ Interior.Seatlayout.OnlySix
 				Elektronisk bromsassistans
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -904,7 +928,7 @@ Interior.Seatlayout.OnlySix
 				Antispinnsystem (TCS)
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -912,7 +936,7 @@ Interior.Seatlayout.OnlySix
 				Left Turn Crash Avoidance
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +944,7 @@ Interior.Seatlayout.OnlySix
 				Kollisionsvarning, front
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -928,7 +952,7 @@ Interior.Seatlayout.OnlySix
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -936,7 +960,7 @@ Interior.Seatlayout.OnlySix
 				Temperature Warning
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -944,7 +968,7 @@ Interior.Seatlayout.OnlySix
 				Varning för korstrafik, foran
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -952,7 +976,7 @@ Interior.Seatlayout.OnlySix
 				Hastighetsbegränsare
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -960,7 +984,7 @@ Interior.Seatlayout.OnlySix
 				EfficiencyAssist
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -968,7 +992,7 @@ Interior.Seatlayout.OnlySix
 				Autonom nödstyrning
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -976,7 +1000,7 @@ Interior.Seatlayout.OnlySix
 				Skyltigenkänning
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -984,7 +1008,7 @@ Interior.Seatlayout.OnlySix
 				Nattseende
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -1009,7 +1033,7 @@ Interior.Seatlayout.OnlySix
 				Head-up display
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1031,7 +1055,7 @@ Interior.Seatlayout.OnlySix
 				Android Auto Support
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1039,7 +1063,7 @@ Interior.Seatlayout.OnlySix
 				Apple Carplay Support
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1047,7 +1071,7 @@ Interior.Seatlayout.OnlySix
 				Navigation
 			</td>
 			<td>
-				Ja, standardfunktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1079,7 +1103,7 @@ Interior.Seatlayout.OnlySix
 				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1087,7 +1111,7 @@ Interior.Seatlayout.OnlySix
 				Bakre infotainmentskärm
 			</td>
 			<td>
-				Inte tillgängligt
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

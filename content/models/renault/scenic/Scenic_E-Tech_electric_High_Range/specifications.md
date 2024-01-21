@@ -419,7 +419,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Spring type front</a>
 			</td>
 			<td>
-				Coil
+				Coil Spring
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Spring type rear</a>
 			</td>
 			<td>
-				Coil
+				Coil Spring
 			</td>
 		</tr>
 	</tbody>
@@ -459,7 +459,31 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				PassengerAndDriver
+				Driver and Passenger Seat
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat depth adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat height adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest angle adjustment
+			</td>
+			<td>
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -599,7 +623,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				ThreeSeatBench
+				Three-seat bench
 			</td>
 		</tr>
 		<tr>
@@ -845,7 +869,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="Electronic stability control">Electronic stability control</a>
+				<a href="/technology/driverassistance/electronicstabilitycontrol/">Electronic stability control</a>
 			</td>
 			<td>
 				Yes, standard equipment
@@ -853,7 +877,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="Temperature warning">Temperature warning</a>
+				Temperature warning
 			</td>
 			<td>
 				Yes, standard equipment

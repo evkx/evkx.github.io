@@ -515,7 +515,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				PassengerAndDriver
+				Sjåfør- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setehøyde
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -655,7 +679,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				ThreeSeatBench
+				Tre-seters benk
 			</td>
 		</tr>
 		<tr>

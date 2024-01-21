@@ -467,7 +467,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Setetype
 			</td>
 			<td>
-				PassengerAndDriver
+				Sjåfør- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setehøyde
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

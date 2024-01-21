@@ -443,7 +443,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Hjuloppheng foran
 			</td>
 			<td>
-				DoubleWishbone
+				Dobbelt bærearmsoppheng
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +451,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Hjuloppheng bak
 			</td>
 			<td>
-				Multilink
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -480,7 +480,39 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				PassengerAndDriver
+				Sjåfør- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setehøyde
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +649,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				ThreeSeatBench
+				Tre-seters benk
 			</td>
 		</tr>
 		<tr>
