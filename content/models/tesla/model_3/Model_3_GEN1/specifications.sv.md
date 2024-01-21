@@ -367,7 +367,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Tillåten bromsad släpvagnsvikt
+				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
 				1000 kg
@@ -375,7 +375,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Tillåten obromsad släpvagnsvikt
+				Max släpvagnsvikt, obromsad
 			</td>
 			<td>
 				750 kg
@@ -464,7 +464,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Typ av främre dämpare
+				Främre stötdämpare
 			</td>
 			<td>
 				Monotube
@@ -472,7 +472,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bakre spjälltyp
+				Bakre stötdämpare
 			</td>
 			<td>
 				Monotube
@@ -480,7 +480,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Typ av främre fjädring
+				Främre fjädring
 			</td>
 			<td>
 				Skruvfjäder
@@ -488,7 +488,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädringstyp
+				Bakre fjädring
 			</td>
 			<td>
 				Skruvfjäder
@@ -641,7 +641,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
-### Second Row Seats
+### Sätesrad 2
 
 
 #### standard
@@ -773,7 +773,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	<tbody>
 		<tr>
 			<td>
-				Körfältshållning
+				Körfilsassistans
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -781,7 +781,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Lane departure warning
+				Körfilsassistans avåkningsvarnare
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -789,7 +789,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Sömnighetsvarning
+				Trötthetsvarnare
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -813,7 +813,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Bakre tvärtrafikvarning
+				Varning för korstrafik, bak
 			</td>
 			<td>
 				Inte tillgängligt
@@ -853,7 +853,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Hill starthjälp
+				Backstartsassistans
 			</td>
 			<td>
 				Inte tillgängligt
@@ -861,7 +861,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
+				Antiblockeringssystem (ABS)
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -869,7 +869,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Automatisk nödbromsning
+				Autonom nödbromsning
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -877,7 +877,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Bromsassistent
+				Elektronisk bromsassistans
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -885,7 +885,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Traction Control
+				Antispinnsystem (TCS)
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -901,7 +901,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Forward Collision Warning
+				Kollisionsvarning, front
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -925,7 +925,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Varning för korstrafik, foran
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -949,7 +949,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Automatisk nödstyrning
+				Autonom nödstyrning
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -957,7 +957,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Traffic Sign Recognition
+				Skyltigenkänning
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -1028,7 +1028,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				I bilnavigering
+				Navigation
 			</td>
 			<td>
 				Ja, standardfunktion

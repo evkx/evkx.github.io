@@ -319,7 +319,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Tillåten bromsad släpvagnsvikt
+				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
 				3628 kg
@@ -327,7 +327,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Tillåten obromsad släpvagnsvikt
+				Max släpvagnsvikt, obromsad
 			</td>
 			<td>
 				750 kg
@@ -416,7 +416,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Typ av främre dämpare
+				Främre stötdämpare
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -424,7 +424,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bakre spjälltyp
+				Bakre stötdämpare
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -432,7 +432,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Typ av främre fjädring
+				Främre fjädring
 			</td>
 			<td>
 				Air
@@ -440,7 +440,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bakre fjädringstyp
+				Bakre fjädring
 			</td>
 			<td>
 				Air
@@ -606,7 +606,7 @@ Interior.Seatlayout.OnlySix
 	</tbody>
 </table>
 
-### Second Row Seats
+### Sätesrad 2
 
 <table class="table table-striped border">
 	<thead>
@@ -735,7 +735,7 @@ Interior.Seatlayout.OnlySix
 	<tbody>
 		<tr>
 			<td>
-				Körfältshållning
+				Körfilsassistans
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -743,7 +743,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Lane departure warning
+				Körfilsassistans avåkningsvarnare
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -751,7 +751,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Sömnighetsvarning
+				Trötthetsvarnare
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -775,7 +775,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Bakre tvärtrafikvarning
+				Varning för korstrafik, bak
 			</td>
 			<td>
 			</td>
@@ -813,14 +813,14 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Hill starthjälp
+				Backstartsassistans
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
+				Antiblockeringssystem (ABS)
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -828,14 +828,14 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Automatisk nödbromsning
+				Autonom nödbromsning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bromsassistent
+				Elektronisk bromsassistans
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -843,7 +843,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Traction Control
+				Antispinnsystem (TCS)
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -858,7 +858,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Forward Collision Warning
+				Kollisionsvarning, front
 			</td>
 			<td>
 				Ja, standardfunktion
@@ -881,7 +881,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Varning för korstrafik, foran
 			</td>
 			<td>
 			</td>
@@ -902,14 +902,14 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Automatisk nödstyrning
+				Autonom nödstyrning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Traffic Sign Recognition
+				Skyltigenkänning
 			</td>
 			<td>
 			</td>
@@ -981,7 +981,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				I bilnavigering
+				Navigation
 			</td>
 			<td>
 				Ja, standardfunktion

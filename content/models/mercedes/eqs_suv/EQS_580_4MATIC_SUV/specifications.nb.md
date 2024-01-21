@@ -483,7 +483,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter.
+Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 
 ### Forseter
 
