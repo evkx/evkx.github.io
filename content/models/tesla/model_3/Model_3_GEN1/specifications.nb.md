@@ -230,6 +230,71 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
+### Ladeport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplassering
+			</td>
+			<td>
+				LeftRearCorner
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Nord-Amerika
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Kina
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Japan
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensjoner
 
 <table class="table table-striped border">

@@ -206,6 +206,71 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 
 
+### Laddningsport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningsportplacering
+			</td>
+			<td>
+				LeftRearCorner
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Nordamerika
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Kina
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Japan
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Oceanien (Australien, Nya Zeeland ++)
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensions
 
 <table class="table table-striped border">

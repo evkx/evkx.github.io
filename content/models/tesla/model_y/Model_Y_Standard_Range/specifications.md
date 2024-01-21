@@ -334,6 +334,71 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 
 
+### Chargeport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Chargeport placement
+			</td>
+			<td>
+				LeftRearCorner
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Europe
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport North America
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport China
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Japan
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				NACS
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Dimensions
 
 <table class="table table-striped border">
