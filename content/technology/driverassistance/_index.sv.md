@@ -56,3 +56,8 @@ Det finns sex nivåer av autonomi definierade av Society of Automotive Engineers
 Det är viktigt att notera att många fordon på marknaden idag hamnar i nivåerna 1-2 av autonomi, medan nivåerna 3-5 fortfarande är i utvecklings- och testfasen. Dessutom kan även fordon med högre nivåer av autonomi fortfarande kräva en viss nivå av mänsklig övervakning och ingripande i vissa situationer.
 
 För närvarande är endast [Mercedes EQS](../../models/mercedes/eqs/) godkänd på nivå 3 på vissa marknader.
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Elbilsteknik</strong></a>
+    <a href="adaptivecruisecontrol/" class="text-decoration-none text-black float-end"><strong>Adaptiv farthållare (ACC) <i class="bi-arrow-right"></i></strong></a>
+</div>

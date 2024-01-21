@@ -57,3 +57,8 @@ There are six levels of autonomy defined by the Society of Automotive Engineers 
 It is important to note that many vehicles on the market today fall into levels 1-2 of autonomy, while levels 3-5 are still in the development and testing phases. Additionally, even vehicles with higher levels of autonomy may still require some level of human oversight and intervention in certain situations.
 
 Currently it is only the [Mercedes EQS](../../models/mercedes/eqs/) that is approved on level 3 in some markeds.
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> EV Technology</strong></a>
+    <a href="adaptivecruisecontrol/" class="text-decoration-none text-black float-end"><strong>Adaptive Cruise Control <i class="bi-arrow-right"></i></strong></a>
+</div>

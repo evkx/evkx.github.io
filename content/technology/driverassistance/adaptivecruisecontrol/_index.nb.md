@@ -2,7 +2,7 @@
 title: Adaptive Cruise Control
 linktitle: ACC
 description: Adaptiv cruisekontroll (ACC) er et førerassistansesystem som bruker sensorer og programvare for å opprettholde en sikker følgeavstand mellom bilen og kjøretøyet foran deg mens du kjører på motorveien.
-weight: 3
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -27,3 +27,8 @@ Det er en avansert versjon av tradisjonell cruisekontroll som justerer bilens ha
 **Følger fartsgrensen:** På enkelte modeller kan du stille inn ACC til å følge fartsgrensen basert på kamera- og navigasjonsinformasjon. Dessverre må navigasjonsinformasjonen ofte oppdateres, så dette er vanligvis slått av.
 
 Adaptiv cruisekontroll er utformet for å hjelpe sjåfører med å holde en sikker følgeavstand og redusere førertrøtthet på lange motorveiskjøringer. Ved å overta ansvaret for å justere bilens hastighet i forhold til trafikkforholdene, kan sjåføren fokusere mer på styring og andre oppgaver, noe som gir en tryggere og mer avslappet kjøreopplevelse.
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Advanced driver-assistance systems (ADAS)</strong></a>
+    <a href="../antilockbrakingsystem/" class="text-decoration-none text-black float-end"><strong>Anti-lock Braking System (ABS)<i class="bi-arrow-right"></i></strong></a>
+</div>

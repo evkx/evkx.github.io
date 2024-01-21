@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW i5 M60 banana box test</h3>
+<p>Bjørn Nyland: 21.01.2024</p>
+
+{{< youtube XyoNBLMvnBI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW i5 M60 X-Drive review. Why this EV will go down as BMW's biggest miss of 2024..</h3>
+<p>Harry's garage: 21.01.2024</p>
+
+{{< youtube dpn3WkiQIPo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2024 BMW 5 Series Review // Not What We Expected</h3>
 <p>Throttle House: 24.10.2023</p>
 
