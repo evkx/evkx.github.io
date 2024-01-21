@@ -23,3 +23,8 @@ Overall, FCW systems are designed to help drivers avoid or reduce the severity o
 Manufactors gives the system different names
 
 - Pre Sense (Audi)
+
+<div class="mt-3 mb-3">
+    <a href="../exitwarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Exit Warning</strong></a>
+    <a href="../frontcrosstrafficassist/" class="text-decoration-none text-black float-end"><strong>Front cross traffic assist <i class="bi-arrow-right"></i></strong></a>
+</div>

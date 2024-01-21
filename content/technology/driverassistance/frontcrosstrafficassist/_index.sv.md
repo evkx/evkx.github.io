@@ -29,3 +29,8 @@ I vissa avancerade system kan Front Cross Traffic Assist fungera med andra föra
 Sammantaget är Front Cross Traffic Assist utformad för att hjälpa förare att göra säkrare svängar och korsningar genom att ge dem ytterligare information om den omgivande miljön och potentiella faror som kan finnas. Genom att uppmärksamma förare på potentiella faror kan denna teknik hjälpa till att förebygga olyckor och förbättra den allmänna trafiksäkerheten.
 
 {{<evkxdisplayaddarticle />}}
+
+<div class="mt-3 mb-3">
+    <a href="../forwardcollisionwarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Forward Collision Warning (FCW)</strong></a>
+    <a href="../lanedeparturewarning/" class="text-decoration-none text-black float-end"><strong>Lane departure warning <i class="bi-arrow-right"></i></strong></a>
+</div>

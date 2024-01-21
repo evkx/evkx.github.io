@@ -13,3 +13,9 @@ LDW uses various sensors and cameras to monitor the vehicle's position on the ro
 When the system detects that the vehicle is about to cross or has crossed the lane markings without using the turn signal, it alerts the driver through a visual, audible, or haptic warning. The alert usually includes a warning sound and a visual cue, such as a flashing light on the dashboard or a vibration in the steering wheel.
 
 LDW can be particularly helpful in preventing accidents caused by driver fatigue or distraction, as well as in situations where the road markings are unclear or difficult to see. However, it is important to note that LDW is not a substitute for attentive and safe driving practices, and drivers should always remain focused and alert while behind the wheel.
+
+
+<div class="mt-3 mb-3">
+    <a href="../frontcrosstrafficassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Front cross traffic assist</strong></a>
+    <a href="../lanekeepingassist/" class="text-decoration-none text-black float-end"><strong>Lane Keeping Assist <i class="bi-arrow-right"></i></strong></a>
+</div>

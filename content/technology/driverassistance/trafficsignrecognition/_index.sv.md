@@ -28,3 +28,8 @@ Vissa system kan också utfärda en varning eller varning om föraren inte följ
 Igenkänning av trafikmärken kan hjälpa förare att hålla sig medvetna om vägförhållanden och bestämmelser, särskilt när de kör i okända områden eller när sikten är dålig. Det är dock viktigt att notera att TSR inte är ofelbar och ibland kan misstolka eller misslyckas med att upptäcka vissa tecken, så det bör inte bara lita på det. Förare bör alltid hålla utkik efter vägskyltar och följa dem därefter.
 
 {{<evkxdisplayaddarticle />}}
+
+<div class="mt-3 mb-3">
+    <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Rear Cross Traffic Alert</strong></a>
+    <a href="../../brakes/" class="text-decoration-none text-black float-end"><strong>Brakes <i class="bi-arrow-right"></i></strong></a>
+</div>

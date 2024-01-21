@@ -16,3 +16,8 @@ LKA arbetar vanligtvis i hastigheter över en viss tröskel, vanligtvis runt 40 
 Liksom LDW är det viktigt att notera att LKA inte är en ersättning för medvetna och säkra körrutiner, och förare bör alltid vara fokuserade och alerta bakom ratten. LKA är designad för att ge ett extra lager av säkerhet och bekvämlighet, särskilt i situationer där föraren kan vara trött eller distraherad.
 
 Europeiska unionen (EU) har specifika regler och krav för körfältsassistent (LKA)-system installerade i fordon. Enligt EU-förordning 2018/858 anses LKA vara ett avancerat förarassistanssystem och måste uppfylla flera krav för att säkerställa säkerhet och effektivitet. Regeln är att det inte ska gå att stänga av LKA permanent.
+
+<div class="mt-3 mb-3">
+    <a href="../lanedeparturewarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lane departure warning</strong></a>
+    <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black float-end"><strong>Rear Cross Traffic Alert <i class="bi-arrow-right"></i></strong></a>
+</div>

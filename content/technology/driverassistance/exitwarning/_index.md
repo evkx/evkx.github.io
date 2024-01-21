@@ -21,3 +21,9 @@ The exit warning ADAS system can work in different ways depending on the specifi
 Exit warning ADAS is a useful safety feature that can help prevent accidents and improve overall safety for drivers and passengers. By providing a warning before the door is opened, it can help to prevent collisions with other vehicles or cyclists, especially in urban areas with heavy traffic and limited visibility.
 
 {{< sitefiguresized thumb="technology/driverassistance/exitwarning/illustration2_st.jpg" width="3000" height="2000" title="Exit warning Mercedes" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Electronic Stability Control (ESC)</strong></a>
+    <a href="../forwardcollisionwarning/" class="text-decoration-none text-black float-end"><strong>Forward Collision Warning <i class="bi-arrow-right"></i></strong></a>
+</div>
+

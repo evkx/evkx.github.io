@@ -40,6 +40,6 @@ Tillverkare kan använda olika namn för sina Autosteer-system, men några vanli
 Det är viktigt att notera att de exakta funktionerna och kapaciteten hos varje tillverkares Autosteer-system kan variera, och förare bör alltid konsultera fordonets instruktionsbok och bekanta sig med de specifika funktionerna och begränsningarna i deras system.
 
 <div class="mt-3 mb-3">
-    <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatic parking assis</strong></a>
+    <a href="../automaticemergencysteering/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatic parking assist</strong></a>
     <a href="../blindspotmonitoring/" class="text-decoration-none text-black float-end"><strong>Blind Spot Monitoring <i class="bi-arrow-right"></i></strong></a>
 </div>

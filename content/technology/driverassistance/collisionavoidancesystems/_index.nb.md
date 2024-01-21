@@ -23,3 +23,8 @@ Noen avanserte førerassistentsystemer (ADAS) kan styre bilen unna fare for å u
 Et eksempel på et slikt system er Lane Keeping Assist (LKA)-systemet, som bruker kameraer og sensorer for å oppdage når kjøretøyet driver ut av kjørefeltet og automatisk kan styre kjøretøyet tilbake i kjørefeltet for å unngå en kollisjon. Et annet eksempel er systemet [Automatic Emergency Steering](../automaticemergencysteering/) (AES), som bruker sensorer til å oppdage potensielle kollisjoner med fotgjengere eller andre objekter og kan automatisk styre kjøretøyet for å unngå en kollisjon.
 
 Det er viktig å merke seg at selv om disse systemene kan bidra til å forhindre eller redusere kollisjoner, er de ikke idiotsikre og bør ikke stole på som en erstatning for trygg og oppmerksom kjørepraksis. Sjåfører bør alltid være på vakt og være forberedt på å iverksette unnvikende tiltak om nødvendig. I tillegg kan det hende at disse systemene ikke er tilgjengelige på alle kjøretøy, eller at visse betingelser må oppfylles for å fungere skikkelig.
+
+<div class="mt-3 mb-3">
+    <a href="../blindspotmonitoring/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Blind Spot Monitoring</strong></a>
+    <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Driver Drowsiness Detection (DDD)) <i class="bi-arrow-right"></i></strong></a>
+</div>

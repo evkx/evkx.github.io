@@ -24,3 +24,8 @@ ESC-systemet kan också minska motoreffekten för att förhindra att fordonet sl
 När fordonet är tillbaka på den avsedda vägen kommer ESC-systemet gradvis att släppa bromsarna och låta föraren återta normal kontroll över fordonet.
 
 De specifika detaljerna för hur ESC fungerar kan variera mellan olika fordon och tillverkare, men det övergripande målet är att bidra till att förbättra stabiliteten och säkerheten hos fordonet i plötsliga eller utmanande körsituationer.
+
+<div class="mt-3 mb-3">
+    <a href="../efficencyassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Efficiency Assist</strong></a>
+    <a href="../exitwarning/" class="text-decoration-none text-black float-end"><strong>Exit Warning <i class="bi-arrow-right"></i></strong></a>
+</div>

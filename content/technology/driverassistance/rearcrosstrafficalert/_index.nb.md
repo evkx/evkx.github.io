@@ -27,3 +27,8 @@ Advarselen kan være i form av et ikon eller et blinkende lys på sidespeilene, 
 Føreren kan da iverksette unnvikende tiltak for å forhindre en kollisjon.
 
 RCTA er en nyttig sikkerhetsfunksjon som kan hjelpe sjåfører med å unngå ulykker, spesielt på travle parkeringsplasser eller trange gater. Det er imidlertid viktig å merke seg at RCTA ikke er en erstatning for sikker kjørepraksis og bør brukes sammen med andre trygge kjøreteknikker, som å sjekke blindsoner og bruke sidespeil.
+
+<div class="mt-3 mb-3">
+    <a href="../lanekeepingassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lane Keeping Assist</strong></a>
+    <a href="../trafficsignrecognition/" class="text-decoration-none text-black float-end"><strong>Traffic Sign Recognition <i class="bi-arrow-right"></i></strong></a>
+</div>

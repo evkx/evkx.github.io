@@ -29,3 +29,8 @@ Some systems may also provide a warning or an alert if the driver fails to compl
 Traffic Sign Recognition can help drivers stay aware of road conditions and regulations, especially when driving in unfamiliar areas or when visibility is poor. However, it is important to note that TSR is not infallible and can sometimes misinterpret or fail to detect certain signs, so it should not be relied on exclusively. Drivers should always keep an eye out for road signs and comply with them accordingly.
 
 {{<evkxdisplayaddarticle />}}
+
+<div class="mt-3 mb-3">
+    <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Rear Cross Traffic Alert</strong></a>
+    <a href="../../brakes/" class="text-decoration-none text-black float-end"><strong>Brakes <i class="bi-arrow-right"></i></strong></a>
+</div>

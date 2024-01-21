@@ -29,3 +29,8 @@ In some advanced systems, the front cross traffic assist may work in conjunction
 Overall, front cross traffic assist is designed to help drivers make safer turns and crossings by providing them with additional information about the surrounding environment and potential hazards that may be present. By alerting drivers to potential dangers, this technology can help prevent accidents and improve overall safety on the road.
 
 {{<evkxdisplayaddarticle />}}
+
+<div class="mt-3 mb-3">
+    <a href="../forwardcollisionwarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Forward Collision Warning (FCW)</strong></a>
+    <a href="../lanedeparturewarning/" class="text-decoration-none text-black float-end"><strong>Lane departure warning <i class="bi-arrow-right"></i></strong></a>
+</div>

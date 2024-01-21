@@ -30,3 +30,8 @@ Några exempel på bilmärken som erbjuder den här funktionen är:
 – Audi erbjuder en funktion som kallas "Efficiency Assist System" Detta system ger realtidsfeedback till föraren och ger förslag för att optimera körbeteendet för att maximera räckvidden och effektiviteten.
 
 {{< sitefiguresized thumb="technology/driverassistance/efficiencyassist/illustration_st.jpg" width="1600" height="9000" title="Effektivitetshjälp i Audis förslag att ta bort foten från gaspedalen" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../drivermonitoringsystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Driver Monitoring System (DMS)</strong></a>
+    <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black float-end"><strong>Electronic Stability Control <i class="bi-arrow-right"></i></strong></a>
+</div>

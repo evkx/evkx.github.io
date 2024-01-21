@@ -27,3 +27,9 @@ The warning can be in the form of an icon or a flashing light on the side mirror
 The driver can then take evasive action to prevent a collision.
 
 RCTA is a useful safety feature that can help drivers avoid accidents, especially in busy parking lots or narrow streets. However, it is important to note that RCTA is not a substitute for safe driving practices and should be used in conjunction with other safe driving techniques, such as checking blind spots and using side mirrors.
+
+
+<div class="mt-3 mb-3">
+    <a href="../lanekeepingassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lane Keeping Assist</strong></a>
+    <a href="../trafficsignrecognition/" class="text-decoration-none text-black float-end"><strong>Traffic Sign Recognition <i class="bi-arrow-right"></i></strong></a>
+</div>

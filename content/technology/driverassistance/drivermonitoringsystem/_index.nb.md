@@ -23,3 +23,8 @@ Førerovervåkingssystemer blir stadig mer vanlig i moderne biler, og de er ofte
 Videoen nedenfor viser hvordan dette fungerer på Polestar
 
 {{< youtube TZnN31wCRGE >}}
+
+<div class="mt-3 mb-3">
+    <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Driver Drowsiness Detection (DDD)</strong></a>
+    <a href="../efficencyassist/" class="text-decoration-none text-black float-end"><strong>Efficiency Assist <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -31,3 +31,8 @@ Some examples of car brands that offer this feature include:
 - Audi offers a feature called "Efficiency Assist System" This system provides real-time feedback to the driver and offers suggestions for optimizing driving behavior to maximize range and efficiency.
 
 {{< sitefiguresized thumb="technology/driverassistance/efficencyassist/illustration_st.jpg" width="1600" height="9000" title="Effiency assist in Audi suggestion to take the foot of the accelerator" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../drivermonitoringsystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Driver Monitoring System (DMS)</strong></a>
+    <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black float-end"><strong>Electronic Stability Control <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -22,3 +22,8 @@ Utfartsvarning ADAS-systemet kan fungera på olika sätt beroende på den specif
 Utfartsvarning ADAS är en användbar säkerhetsfunktion som kan hjälpa till att förebygga olyckor och förbättra den övergripande säkerheten för förare och passagerare. Genom att ge en varning innan dörren öppnas kan den bidra till att förhindra kollisioner med andra fordon eller cyklister, särskilt i tätorter med tät trafik och begränsad sikt.
 
 {{< sitefiguresized thumb="technology/driverassistance/exitwarning/illustration2_st.jpg" width="3000" height="2000" title="Avgångsvarning Mercedes" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Electronic Stability Control (ESC)</strong></a>
+    <a href="../forwardcollisionwarning/" class="text-decoration-none text-black float-end"><strong>Forward Collision Warning <i class="bi-arrow-right"></i></strong></a>
+</div>

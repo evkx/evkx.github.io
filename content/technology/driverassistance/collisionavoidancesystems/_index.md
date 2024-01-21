@@ -23,3 +23,8 @@ Some advanced driver assistance systems (ADAS) can steer the car away from dange
 One example of such a system is the Lane Keeping Assist (LKA) system, which uses cameras and sensors to detect when the vehicle is drifting out of its lane and can automatically steer the vehicle back into its lane to avoid a collision. Another example is the [Automatic Emergency Steering](../automaticemergencysteering/) (AES) system, which uses sensors to detect potential collisions with pedestrians or other objects and can automatically steer the vehicle to avoid a collision.
 
 It's important to note that while these systems can help prevent or mitigate collisions, they are not foolproof and should not be relied upon as a substitute for safe and attentive driving practices. Drivers should always remain alert and be prepared to take evasive action if necessary. Additionally, these systems may not be available on all vehicles or may require certain conditions to be met in order to function properly.
+
+<div class="mt-3 mb-3">
+    <a href="../blindspotmonitoring/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Blind Spot Monitoring</strong></a>
+    <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Driver Drowsiness Detection (DDD)) <i class="bi-arrow-right"></i></strong></a>
+</div>

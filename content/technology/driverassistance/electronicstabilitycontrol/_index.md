@@ -24,3 +24,8 @@ The ESC system may also reduce engine power to help prevent the vehicle from ski
 Once the vehicle is back on its intended path, the ESC system will gradually release the brakes and allow the driver to resume normal control of the vehicle.
 
 The specific details of how ESC works can vary between different vehicles and manufacturers, but the overall goal is to help improve the stability and safety of the vehicle in sudden or challenging driving situations.
+
+<div class="mt-3 mb-3">
+    <a href="../efficencyassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Efficiency Assist</strong></a>
+    <a href="../exitwarning/" class="text-decoration-none text-black float-end"><strong>Exit Warning <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -27,3 +27,8 @@ Varningen kan vara i form av en ikon eller ett blinkande ljus på sidospeglarna,
 Föraren kan då vidta undvikande åtgärder för att förhindra en kollision.
 
 RCTA är en användbar säkerhetsfunktion som kan hjälpa förare att undvika olyckor, särskilt på trafikerade parkeringsplatser eller smala gator. Det är dock viktigt att notera att RCTA inte är en ersättning för säker körning och bör användas tillsammans med andra säkra körtekniker, som att kontrollera döda vinklar och använda sidospeglar.
+
+<div class="mt-3 mb-3">
+    <a href="../lanekeepingassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lane Keeping Assist</strong></a>
+    <a href="../trafficsignrecognition/" class="text-decoration-none text-black float-end"><strong>Traffic Sign Recognition <i class="bi-arrow-right"></i></strong></a>
+</div>

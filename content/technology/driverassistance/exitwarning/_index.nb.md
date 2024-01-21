@@ -22,3 +22,8 @@ Utgangsvarsel ADAS-systemet kan fungere på forskjellige måter avhengig av den 
 Utgangsvarsel ADAS er en nyttig sikkerhetsfunksjon som kan bidra til å forhindre ulykker og forbedre den generelle sikkerheten for sjåfører og passasjerer. Ved å gi et varsel før døren åpnes, kan det bidra til å forhindre kollisjoner med andre kjøretøy eller syklister, spesielt i byområder med stor trafikk og begrenset sikt.
 
 {{< sitefiguresized thumb="technology/driverassistance/exitwarning/illustration2_st.jpg" width="3000" height="2000" title="Avkjøringsvarsel Mercedes" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../electronicstabilitycontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Electronic Stability Control (ESC)</strong></a>
+    <a href="../forwardcollisionwarning/" class="text-decoration-none text-black float-end"><strong>Forward Collision Warning <i class="bi-arrow-right"></i></strong></a>
+</div>

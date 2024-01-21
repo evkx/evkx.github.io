@@ -13,3 +13,9 @@ LDW använder olika sensorer och kameror för att övervaka fordonets position p
 När systemet upptäcker att fordonet är på väg att korsa eller har korsat körfältsmarkeringarna utan att använda blinkers, varnar det föraren genom en visuell, hörbar eller haptisk varning. Meddelandet innehåller vanligtvis en ljudvarning och en visuell signal, som ett blinkande ljus på instrumentbrädan eller en vibration i ratten.
 
 LDW kan vara särskilt användbar för att förebygga olyckor orsakade av förarens trötthet eller distraktion, såväl som i situationer där vägmarkeringar är otydliga eller svåra att se. Det är dock viktigt att notera att LDW inte är en ersättning för medvetna och säkra körpraxis, och förare bör alltid vara fokuserade och uppmärksamma bakom ratten.
+
+
+<div class="mt-3 mb-3">
+    <a href="../frontcrosstrafficassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Front cross traffic assist</strong></a>
+    <a href="../lanekeepingassist/" class="text-decoration-none text-black float-end"><strong>Lane Keeping Assist <i class="bi-arrow-right"></i></strong></a>
+</div>

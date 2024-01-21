@@ -29,3 +29,8 @@ I noen avanserte systemer kan den fremre krysstrafikkassistenten fungere sammen 
 Totalt sett er frontkrysstrafikkassistanse designet for å hjelpe sjåfører med å gjøre sikrere svinger og kryss ved å gi dem tilleggsinformasjon om det omkringliggende miljøet og potensielle farer som kan være tilstede. Ved å varsle sjåførene om potensielle farer, kan denne teknologien bidra til å forhindre ulykker og forbedre den generelle sikkerheten på veien.
 
 {{<evkxdisplayaddarticle />}}
+
+<div class="mt-3 mb-3">
+    <a href="../forwardcollisionwarning/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Forward Collision Warning (FCW)</strong></a>
+    <a href="../lanedeparturewarning/" class="text-decoration-none text-black float-end"><strong>Lane departure warning <i class="bi-arrow-right"></i></strong></a>
+</div>

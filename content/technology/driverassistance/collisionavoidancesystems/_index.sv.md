@@ -22,3 +22,8 @@ Vissa avancerade förarassistanssystem (ADAS) kan styra bilen bort från fara f�
 Ett exempel på ett sådant system är Lane Keeping Assist (LKA)-systemet, som använder kameror och sensorer för att upptäcka när fordonet driver ut ur körfältet och automatiskt kan styra fordonet tillbaka i körfältet för att undvika en kollision. Ett annat exempel är systemet [Automatic Emergency Steering](../automaticemergencysteering/) (AES), som använder sensorer för att upptäcka potentiella kollisioner med fotgängare eller andra föremål och automatiskt kan styra fordonet för att undvika en kollision.
 
 Det är viktigt att notera att även om dessa system kan hjälpa till att förebygga eller minska kollisioner, är de inte idiotsäkra och bör inte lita på som en ersättning för säker och uppmärksam körning. Förare ska alltid vara uppmärksamma och vara beredda att vidta undvikande åtgärder vid behov. Dessutom kanske dessa system inte är tillgängliga på alla fordon eller kan kräva att vissa villkor är uppfyllda för att fungera korrekt.
+
+<div class="mt-3 mb-3">
+    <a href="../blindspotmonitoring/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Blind Spot Monitoring</strong></a>
+    <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Driver Drowsiness Detection (DDD)) <i class="bi-arrow-right"></i></strong></a>
+</div>

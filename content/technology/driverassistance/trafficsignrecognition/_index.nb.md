@@ -28,3 +28,8 @@ Noen systemer kan også gi en advarsel eller et varsel hvis sjåføren ikke over
 Trafikkskiltgjenkjenning kan hjelpe sjåfører med å holde seg oppmerksomme på veiforhold og forskrifter, spesielt når de kjører i ukjente områder eller når sikten er dårlig. Det er imidlertid viktig å merke seg at TSR ikke er ufeilbarlig og noen ganger kan feiltolke eller ikke oppdage visse tegn, så det bør ikke stoles utelukkende på. Sjåfører bør alltid holde øye med veiskilt og følge dem deretter.
 
 {{<evkxdisplayaddarticle />}}
+
+<div class="mt-3 mb-3">
+    <a href="../rearcrosstrafficalert/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Rear Cross Traffic Alert</strong></a>
+    <a href="../../brakes/" class="text-decoration-none text-black float-end"><strong>Brakes <i class="bi-arrow-right"></i></strong></a>
+</div>
