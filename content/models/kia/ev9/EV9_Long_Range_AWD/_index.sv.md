@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/main_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av Kia EV9 Long Range AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Kia EV9 Long Range AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Kia EV9 Long Range AWD har en maximal effekt på 283 KW (385hk). Totalt vridmome
 
 Batteriet har en bruttokapacitet på 99,8kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 1,8kWh buffert för skydd. (1,8%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 497 till 484 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19.7kWh/100 km för basversionen och 20.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 497 till 484 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19.7kWh/100 km för basversionen och 20.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 161kW. Varje laddningssession tar 26 minuter och 38 sekunder.
 

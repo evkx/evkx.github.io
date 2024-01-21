@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998"  >}}
 
-Vi har delat in vår beskrivning av Volkswagen ID.3 Pro S i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Volkswagen ID.3 Pro S i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Volkswagen ID.3 Pro S har en maximal effekt på 150 KW (204hk). Totalt vridmomen
 
 Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 553 till 548 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.9kWh/100 km för basversionen och 14.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 553 till 548 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.9kWh/100 km för basversionen och 14.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 89kW. Varje laddningssession tar 24 minuter och 17 sekunder.
 

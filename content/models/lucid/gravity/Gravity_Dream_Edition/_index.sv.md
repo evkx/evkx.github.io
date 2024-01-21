@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2007"  >}}
 
-Vi har delat in vår beskrivning av Lucid Gravity Dream Edition i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Lucid Gravity Dream Edition i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Lucid Gravity Dream Edition har en maximal effekt på 600 KW (816hk). Totalt vri
 
 Batteriet har en bruttokapacitet på 124kWh och en nettokapacitet på 122kWh, vilket innebär att du har en 2kWh buffert för skydd. (1,6%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 440 miles (708 km). Förbrukningen är 3.6mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 440 miles (708 km). Förbrukningen är 3.6mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 81 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 176kW. Varje laddningssession tar 18 minuter och 16 sekunder.
 

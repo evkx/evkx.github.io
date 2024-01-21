@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/main_1_st.jpg" title="Audi e-tron 50" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av Audi e-tron 50 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Audi e-tron 50 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -41,7 +41,7 @@ Audi e-tron 50 har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 5
 
 Batteriet har en bruttokapacitet på 71kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7kWh buffert för skydd. (9,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 341 till 282 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.8kWh/100 km för basversionen och 22.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 341 till 282 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.8kWh/100 km för basversionen och 22.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 48 minuter, medan ett vanligare scenario på 10-80 % tar 25 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 72%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 92kW. Varje laddningssession tar 28 minuter och 30 sekunder.
 

@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/main_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av Volkswagen ID. Buzz Pro i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Volkswagen ID. Buzz Pro i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Volkswagen ID. Buzz Pro har en maximal effekt på 150 KW (204hk). Totalt vridmom
 
 Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 418 till 410 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.4kWh/100 km för basversionen och 18.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 418 till 410 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.4kWh/100 km för basversionen och 18.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 29 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 110kW. Varje laddningssession tar 19 minuter och 52 sekunder.
 
@@ -78,7 +78,7 @@ Dynamisk styrning är valfritt-funktionen för Volkswagen ID. Buzz Pro. Dynamisk
 Du kan välja mellan 12 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 5 hjul i storlek från 19 till 21 tum.
 
-Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/ dörrar/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/doors/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
 

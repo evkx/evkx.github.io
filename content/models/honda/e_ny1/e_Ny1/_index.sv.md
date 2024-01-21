@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av Honda e:Ny1 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Honda e:Ny1 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Honda e:Ny1 har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 310 
 
 Batteriet har en bruttokapacitet på 68,8kWh och en nettokapacitet på 61,9kWh, vilket innebär att du har en 6,9kWh buffert för skydd. (10,0%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 412 km. Förbrukningen är 15.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 412 km. Förbrukningen är 15.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 38 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 92%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 62kW. Varje laddningssession tar 51 minuter och 28 sekunder.
 

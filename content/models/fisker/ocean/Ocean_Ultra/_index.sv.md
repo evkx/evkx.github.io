@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/main_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av Fisker Ocean Ultra i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Fisker Ocean Ultra i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Med overboost har Fisker Ocean Ultra en maximal effekt på 400 KW (544hk). Utan 
 
 Batteriet har en bruttokapacitet på 113kWh och en nettokapacitet på 106,5kWh, vilket innebär att du har en 6,5kWh buffert för skydd. (5,8%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 690 km. Förbrukningen är 15.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 690 km. Förbrukningen är 15.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 72 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 126kW. Varje laddningssession tar 28 minuter och 49 sekunder.
 

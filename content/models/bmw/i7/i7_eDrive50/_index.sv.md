@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/main_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
-Vi har delat in vår beskrivning av BMW i7 eDrive50 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av BMW i7 eDrive50 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ BMW i7 eDrive50 har en maximal effekt på 335 KW (456hk). Totalt vridmoment är 
 
 Batteriet har en bruttokapacitet på 105,7kWh och en nettokapacitet på 101,7kWh, vilket innebär att du har en 4,0kWh buffert för skydd. (3,8%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 611 till 575 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.6kWh/100 km för basversionen och 17.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 611 till 575 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.6kWh/100 km för basversionen och 17.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 195 kW. En full laddning från 0 - 100 % tar 56 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 135kW. Varje laddningssession tar 23 minuter och 4 sekunder.
 

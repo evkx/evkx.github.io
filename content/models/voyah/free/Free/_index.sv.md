@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/voyah/free/free/main_1_st.jpg" title="VOYAH FREE" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av VOYAH FREE i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av VOYAH FREE i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ VOYAH FREE har en maximal effekt på 360 KW (490hk). Totalt vridmoment är 720 N
 
 Batteriet har en bruttokapacitet på 106kWh och en nettokapacitet på 100kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 500 km. Förbrukningen är 20.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 500 km. Förbrukningen är 20.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 97 minuter, medan ett vanligare scenario på 10-80 % tar 60 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 15% till 83%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 65kW. Varje laddningssession tar 63 minuter och 34 sekunder.
 

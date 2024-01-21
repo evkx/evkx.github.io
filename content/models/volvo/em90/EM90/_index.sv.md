@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/main_1_st.jpg" title="Volvo EM90" width="2000" height="1503"  >}}
 
-Vi har delat in vår beskrivning av Volvo EM90 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Volvo EM90 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Volvo EM90 har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 686 N
 
 Batteriet har en bruttokapacitet på 116kWh och en nettokapacitet på 110kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 738 km ( miles). Förbrukningen är 14.9kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 738 km ( miles). Förbrukningen är 14.9kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 139kW. Varje laddningssession tar 24 minuter och 48 sekunder.
 
@@ -70,7 +70,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 Du kan välja mellan 3 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 2 hjul i storlek från 19 till 20 tum.
 
-Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/ dörrar/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/doors/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humör och komfort för den boende. Glaset är tonat för att skydda mot värme från solen.
 

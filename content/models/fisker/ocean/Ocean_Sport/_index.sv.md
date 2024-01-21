@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/main_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
-Vi har delat in vår beskrivning av Fisker Ocean Sport i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Fisker Ocean Sport i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Med overboost har Fisker Ocean Sport en maximal effekt på 209 KW (284hk). Utan 
 
 Batteriet har en bruttokapacitet på 73kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 3kWh buffert för skydd. (4,1%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 464 km. Förbrukningen är 15.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 464 km. Förbrukningen är 15.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 125 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 86kW. Varje laddningssession tar 30 minuter och 40 sekunder.
 

@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2100" height="1400"  >}}
 
-Vi har delat in vår beskrivning av Rivian R1T Performance Dual-Motor AWD MP i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Rivian R1T Performance Dual-Motor AWD MP i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Rivian R1T Performance Dual-Motor AWD MP har en maximal effekt på 495 KW (673hk
 
 Batteriet har en bruttokapacitet på 149kWh och en nettokapacitet på 143kWh, vilket innebär att du har en 6kWh buffert för skydd. (4,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 410 miles (660 km). Förbrukningen är 2.9mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 410 miles (660 km). Förbrukningen är 2.9mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 129 minuter, medan ett vanligare scenario på 10-80 % tar 46 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 141kW. Varje laddningssession tar 27 minuter och 19 sekunder.
 

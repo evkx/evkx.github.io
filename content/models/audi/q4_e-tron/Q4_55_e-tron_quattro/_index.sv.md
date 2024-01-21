@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/main_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1998"  >}}
 
-Vi har delat in vår beskrivning av Audi Q4 55 e-tron quattro i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Audi Q4 55 e-tron quattro i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Med overboost har Audi Q4 55 e-tron quattro en maximal effekt på 250 KW (340hk)
 
 Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76,6kWh, vilket innebär att du har en 5,4kWh buffert för skydd. (6,6%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 523 till 450 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.6kWh/100 km för basversionen och 17.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 523 till 450 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.6kWh/100 km för basversionen och 17.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 44%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 101kW. Varje laddningssession tar 19 minuter och 6 sekunder.
 

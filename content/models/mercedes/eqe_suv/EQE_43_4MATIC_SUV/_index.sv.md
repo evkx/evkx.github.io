@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/main_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="2001"  >}}
 
-Vi har delat in vår beskrivning av Mercedes-AMG EQE 43 4MATIC SUV i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Mercedes-AMG EQE 43 4MATIC SUV i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Mercedes-AMG EQE 43 4MATIC SUV har en maximal effekt på 350 KW (476hk). Totalt 
 
 Batteriet har en bruttokapacitet på 96,12kWh och en nettokapacitet på 90,6kWh, vilket innebär att du har en 5,52kWh buffert för skydd. (5,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 488 till 431 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.6kWh/100 km för basversionen och 21.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 488 till 431 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.6kWh/100 km för basversionen och 21.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 55 minuter, medan ett vanligare scenario på 10-80 % tar 29 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 64%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 121kW. Varje laddningssession tar 28 minuter och 48 sekunder.
 

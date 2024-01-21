@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/main_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1688"  >}}
 
-Vi har delat in vår beskrivning av MG Cyberster AWD Long Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av MG Cyberster AWD Long Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ MG Cyberster AWD Long Range har en maximal effekt på 400 KW (544hk). Totalt vri
 
 Batteriet har en bruttokapacitet på 77kWh och en nettokapacitet på 74,4kWh, vilket innebär att du har en 2,6kWh buffert för skydd. (3,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 520 km ( miles). Förbrukningen är 14.3kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 520 km ( miles). Förbrukningen är 14.3kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 101 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 100kW. Varje laddningssession tar 25 minuter och 33 sekunder.
 

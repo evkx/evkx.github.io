@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/main_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av CUPRA BORN 58 e-BOOST i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av CUPRA BORN 58 e-BOOST i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Med overboost har CUPRA BORN 58 e-BOOST en maximal effekt på 170 KW (231hk). Ut
 
 Batteriet har en bruttokapacitet på 62kWh och en nettokapacitet på 58kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,5%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 420 till 362 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.8kWh/100 km för basversionen och 16.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 420 till 362 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.8kWh/100 km för basversionen och 16.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 19 minuter och 28 sekunder.
 

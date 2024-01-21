@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/main_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
-Vi har delat in vår beskrivning av XPENG G3i i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av XPENG G3i i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ XPENG G3i har en maximal effekt på 145 KW (197hk). Totalt vridmoment är 300 Nm
 
 Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 55,9kWh, vilket innebär att du har en 10,1kWh buffert för skydd. (15,3%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 420 km. Förbrukningen är 13.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 420 km. Förbrukningen är 13.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 89 minuter, medan ett vanligare scenario på 10-80 % tar 51 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 79%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 42kW. Varje laddningssession tar 57 minuter och 43 sekunder.
 

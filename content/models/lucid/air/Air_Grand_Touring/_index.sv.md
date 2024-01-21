@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/main_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av Lucid Air Grand Touring i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Lucid Air Grand Touring i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Lucid Air Grand Touring har en maximal effekt på 597 KW (812hk). Totalt vridmom
 
 Batteriet har en bruttokapacitet på 112kWh och en nettokapacitet på 112kWh, vilket innebär att du har en 0kWh buffert för skydd. (0,0%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 839 till 783 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.3kWh/100 km för basversionen och 14.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 839 till 783 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.3kWh/100 km för basversionen och 14.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 74 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 172kW. Varje laddningssession tar 18 minuter och 34 sekunder.
 

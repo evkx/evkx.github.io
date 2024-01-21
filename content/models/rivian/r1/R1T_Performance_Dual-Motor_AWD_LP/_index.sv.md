@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2100" height="1400"  >}}
 
-Vi har delat in vår beskrivning av Rivian R1T Performance Dual-Motor AWD LP i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Rivian R1T Performance Dual-Motor AWD LP i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Rivian R1T Performance Dual-Motor AWD LP har en maximal effekt på 495 KW (673hk
 
 Batteriet har en bruttokapacitet på 135kWh och en nettokapacitet på 132kWh, vilket innebär att du har en 3kWh buffert för skydd. (2,2%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 352 miles (566 km). Förbrukningen är 2.7mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 352 miles (566 km). Förbrukningen är 2.7mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 110 minuter, medan ett vanligare scenario på 10-80 % tar 44 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 139kW. Varje laddningssession tar 26 minuter och 36 sekunder.
 

@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orce/main_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" width="3000" height="1889"  >}}
 
-Vi har delat in vår beskrivning av Nissan Ariya 87kWh e-4ORCE i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Nissan Ariya 87kWh e-4ORCE i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Nissan Ariya 87kWh e-4ORCE har en maximal effekt på 225 KW (306hk). Totalt vrid
 
 Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 87kWh, vilket innebär att du har en 4kWh buffert för skydd. (4,4%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 500 till 459 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.4kWh/100 km för basversionen och 19.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 500 till 459 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.4kWh/100 km för basversionen och 19.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 130 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 98kW. Varje laddningssession tar 28 minuter och 18 sekunder.
 

@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
 
-Vi har delat in vår beskrivning av Cadillac LYRIQ RWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Cadillac LYRIQ RWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Cadillac LYRIQ RWD har en maximal effekt på 255 KW (347hk). Totalt vridmoment �
 
 Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,3%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 312 miles (502 km). Förbrukningen är 3.1mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 312 miles (502 km). Förbrukningen är 3.1mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 176 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 120kW. Varje laddningssession tar 29 minuter och 59 sekunder.
 

@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571"  >}}
 
-Vi har delat in vår beskrivning av Ford F150 Lightning Extended Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [onlinerecensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Ford F150 Lightning Extended Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -35,7 +35,7 @@ Ford F150 Lightning Extended Range har en maximal effekt på 433 KW (589hk). Tot
 
 Batteriet har en bruttokapacitet på 150kWh och en nettokapacitet på 131kWh, vilket innebär att du har en 19kWh buffert för skydd. (12,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 320 till 300 miles (515-483 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2.4mi/kWh för basversionen och 2.3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells sida [rangeandconsumption](rangeandconsumption/).
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 320 till 300 miles (515-483 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2.4mi/kWh för basversionen och 2.3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 155 kW. En full laddning från 0 - 100 % tar 130 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 106kW. Varje laddningssession tar 46 minuter och 54 sekunder.
 
