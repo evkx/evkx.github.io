@@ -2,7 +2,7 @@
 title: Autonomous Emergency Braking
 linktitle: AEB
 description: Autonomous Emergency Braking (AEB) is an advanced safety feature found in many modern vehicles that can help prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-weight: 3
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -44,3 +44,9 @@ EURO NCAP performs test and rating of these systems
 Below, you see the Euro NCAP test of Tesla Model Y. From 2:30, you see different AEB tests.
 
 {{< youtube dKaN3f2zmCQ >}}
+
+
+<div class="mt-3 mb-3">
+    <a href="../automatedlanechange/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automated lane change</strong></a>
+    <a href="../automaticemergencysteering/" class="text-decoration-none text-black float-end"><strong>Automatic Emergency Steering<i class="bi-arrow-right"></i></strong></a>
+</div>

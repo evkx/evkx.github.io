@@ -26,3 +26,8 @@ The following video show how this works on Merceds Benz with their ALC system.
 {{< youtube XtQeZk-xCqE >}}
 
 It is important to note that ALC systems are not yet capable of handling all driving scenarios and may require the driver to take control in certain situations, such as when the road conditions are poor or when there are unexpected obstacles in the way. Additionally, the driver must remain attentive and ready to take control of the vehicle at any time, as ALC systems are not intended to replace the driver's role in operating the vehicle safely.
+
+<div class="mt-3 mb-3">
+    <a href="../antilockbrakingsystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automated lane change</strong></a>
+    <a href="../automaticemergencybraking/" class="text-decoration-none text-black float-end"><strong>Autonomous Emergency Braking<i class="bi-arrow-right"></i></strong></a>
+</div>

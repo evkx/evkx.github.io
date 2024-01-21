@@ -2,7 +2,7 @@
 title: Autonom nödbromsning
 linktitle: AEB
 description: Autonomous Emergency Braking (AEB) är en avancerad säkerhetsfunktion som finns i många moderna fordon som kan hjälpa till att förhindra eller mildra kollisioner genom att bromsa automatiskt om föraren inte reagerar på en förestående kollision.
-weight: 3
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 AEB-system använder sensorer som kameror, radar och lidar för att upptäcka potentiella kollisioner med andra fordon, fotgängare eller hinder i fordonets väg. Anta att systemet avgör att en kollision är nära förestående och att föraren inte har vidtagit åtgärder för att undvika den. Om så är fallet kommer systemet automatiskt att bromsa för att antingen bromsa eller stoppa fordonet före kollisionen.
@@ -43,3 +43,8 @@ EURO NCAP utför testning och utvärdering av dessa system
 Nedan ser du Euro NCAP-testet av Tesla Model Y. Från 02:30 ser du olika AEB-tester.
 
 {{< youtube dKaN3f2zmCQ >}}
+
+<div class="mt-3 mb-3">
+    <a href="../automatedlanechange/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Automatiserat filbyte (ALC)</strong></a>
+    <a href="../automaticemergencysteering/" class="text-decoration-none text-black float-end"><strong>Automatisk nödstyrning (AES) <i class="bi-arrow-right"></i></strong></a>
+</div>

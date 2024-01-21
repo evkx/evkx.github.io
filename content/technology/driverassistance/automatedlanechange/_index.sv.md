@@ -26,3 +26,8 @@ Följande video visar hur detta fungerar på Merceds Benz med deras ALC-system.
 {{< youtube XtQeZk-xCqE >}}
 
 Det är viktigt att notera att ALC-system ännu inte kan hantera alla körscenarier och kan kräva att föraren tar kontroll i vissa situationer, till exempel när väglaget är dåligt eller när det finns oväntade hinder i vägen. Dessutom måste föraren vara uppmärksam och redo att ta kontroll över fordonet när som helst, eftersom ALC-system inte är avsedda att ersätta förarens roll i att köra fordonet på ett säkert sätt.
+
+<div class="mt-3 mb-3">
+    <a href="../antilockbrakingsystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Låsningsfria bromsar (ABS)</strong></a>
+    <a href="../automaticemergencybraking/" class="text-decoration-none text-black float-end"><strong>Autonom nödbromsning (AEB) <i class="bi-arrow-right"></i></strong></a>
+</div>
