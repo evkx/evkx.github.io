@@ -185,4 +185,12 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 The cargo capacity in the trunk is 434 liters. With the rear seat down, it is 1467 liters. The maxium weight of the car is 2030 kg (4475 lbs), and with the base weight of 1573 kg (3468 lbs), you can max load 457 kg (1008 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 457kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Peugot 3008 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

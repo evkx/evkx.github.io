@@ -219,4 +219,12 @@ The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 13
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BYD Atto 3 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

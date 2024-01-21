@@ -1,7 +1,7 @@
 ---
 title: BMW i4 eDrive40
 linktitle: "i4 eDrive40"
-description: "BMW i4 eDrive40 är en helelektrisk premium sedan med en räckvidd på WLTP på upp till 590 km. EVKX.net har alla detaljer."
+description: "BMW i4 eDrive40 är en helelektrisk premium sedan med en WLTP räckvidd på upp till 590 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -228,4 +228,12 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/trunk_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BMW i4 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

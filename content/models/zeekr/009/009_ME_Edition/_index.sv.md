@@ -207,4 +207,12 @@ Lastkapaciteten i bagageutrymmet är 376 liter. Med den tredje sätesraden nere 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 14.04.2021 och leveranserna startade i October 2021. Denna modell är endast tillgänglig i Kina.
+Denna modell hade världspremiär 14.04.2021 och leveranserna startade i October 2021. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Zeekr 009 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

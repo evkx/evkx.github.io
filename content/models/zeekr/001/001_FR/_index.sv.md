@@ -198,4 +198,12 @@ Lastkapaciteten i bagageutrymmet är 539 liter. Med baksätet nedfällt är det 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 30.10.2023 och leveranserna startade i January 2024.
+Denna modell hade världspremiär 30.10.2023 och leveranserna startade i January 2024.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Zeekr 001 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

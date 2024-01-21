@@ -199,4 +199,12 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 05.01.2022, and deliveries started in September 2023. This model is only available in North America.
+This model had a world premiere on 05.01.2022, and deliveries started in September 2023. This model is only available in North America.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

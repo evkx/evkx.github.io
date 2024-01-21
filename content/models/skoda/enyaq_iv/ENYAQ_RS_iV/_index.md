@@ -198,4 +198,12 @@ The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 17
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined.
+This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

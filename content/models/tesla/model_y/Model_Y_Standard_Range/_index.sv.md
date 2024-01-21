@@ -251,4 +251,12 @@ Lastkapaciteten i bagageutrymmet är 854 liter. Med baksätet nedfällt är det 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1600, och på obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2020.
+Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2020.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

@@ -2,7 +2,7 @@
 title: Porsche Taycan charging curve & performance
 linktitle: "Charging curve"
 description: "Here you find the charging curve for Porsche Taycan."
-weight: 10
+weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
@@ -16,7 +16,7 @@ This model is available with multiple batteries. Below you find the performance 
 [Full screen](../chargingcurve_1.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Average charging speed 0 - 100%</td><td>94,0 kW</td>
@@ -56,7 +56,7 @@ Porsche Taycan have battery heating, making charging at an optimum battery tempe
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
@@ -374,7 +374,7 @@ Porsche Taycan have battery heating, making charging at an optimum battery tempe
 [Full screen](../chargingcurve_2.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Average charging speed 0 - 100%</td><td>99,6 kW</td>
@@ -414,7 +414,7 @@ Porsche Taycan have battery heating, making charging at an optimum battery tempe
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
@@ -725,3 +725,11 @@ Porsche Taycan have battery heating, making charging at an optimum battery tempe
 </tbody>
 </table>
 
+<div class="mt-3 mb-3">
+<a href="../rangeandconsumption/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Range </strong>
+</a>
+<a href="../specifications/" class="text-decoration-none text-black float-end">
+<strong>Specifications <i class="bi-arrow-right"></i></strong>
+</a>
+</div>

@@ -175,4 +175,12 @@ Lastutrymmets kapacitet är 240 liter. Bilens maximala vikt är 2250 kg, och med
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 13.07.2023 och leveranserna startade i December 2023.
+Denna modell hade världspremiär 13.07.2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> MG Cyberster </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

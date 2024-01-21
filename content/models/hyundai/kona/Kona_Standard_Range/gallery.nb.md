@@ -2,7 +2,7 @@
 title: Hyundai Kona Standard Range galleri
 linktitle: "Galleri"
 description: "Se nedenfor for vårt store Hyundai Kona Standard Range bildegalleri. Klikk på bildene for høyoppløselige versjoner."
-weight: 10
+weight: 5
 hidden: true
 navicon: bi-images
 ---
@@ -171,3 +171,11 @@ target="_blank">
     });
 lightbox.init();
 </script>
+<div class="mt-3 mb-3">
+<a href="../specifications/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Spesifikasjoner </strong>
+</a>
+<a href="../reviews/" class="text-decoration-none text-black float-end">
+<strong>Tester <i class="bi-arrow-right"></i></strong>
+</a>
+</div>

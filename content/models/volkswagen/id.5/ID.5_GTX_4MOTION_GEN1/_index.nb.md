@@ -244,4 +244,12 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Volkswagen ID.5 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

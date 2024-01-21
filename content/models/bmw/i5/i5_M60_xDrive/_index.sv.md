@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive
 linktitle: "i5 M60 xDrive"
-description: "BMW i5 M60 xDrive är en helelektrisk premium sedan med en räckvidd på WLTP på upp till 515 km. EVKX.net har alla detaljer."
+description: "BMW i5 M60 xDrive är en helelektrisk premium sedan med en WLTP räckvidd på upp till 515 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -243,4 +243,12 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/trunk_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BMW i5 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

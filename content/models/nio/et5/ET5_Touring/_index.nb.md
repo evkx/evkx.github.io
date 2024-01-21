@@ -231,4 +231,12 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Nio ET5 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

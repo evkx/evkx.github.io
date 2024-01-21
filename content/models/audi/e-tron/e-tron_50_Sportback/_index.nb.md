@@ -310,4 +310,12 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.11.2019, og leveringene startet i May 2020. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-tron/q8_sportback_50_e-tron).
+Denne modellen hadde verdenspremiere 19.11.2019, og leveringene startet i May 2020. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-tron/q8_sportback_50_e-tron).<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

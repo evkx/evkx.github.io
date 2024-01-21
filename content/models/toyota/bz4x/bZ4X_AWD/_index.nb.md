@@ -191,4 +191,12 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Toyota bZ4X </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

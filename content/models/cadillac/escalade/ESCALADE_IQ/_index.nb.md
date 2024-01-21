@@ -209,4 +209,12 @@ Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 Lastkapasiteten i bagasjerommet er 670 liter. Med baksetet nede er det 3374 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 345 liter. Maksimumsvekten til bilen er 4717 kg, og med basisvekten på 4103 kg kan du maksimalt laste 614 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3628, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3628, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Cadillac ESCALADE </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

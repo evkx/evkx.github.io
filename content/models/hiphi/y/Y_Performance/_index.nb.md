@@ -218,4 +218,12 @@ Lastkapasiteten i bagasjerommet er 692 liter. Med baksetet nede er det 1848 lite
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 18.04.2023, og leveringene forventes å starte om March 2024.
+Denne modellen hadde verdenspremiere 18.04.2023, og leveringene forventes å starte om March 2024.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> HiPhi Y </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

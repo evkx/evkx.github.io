@@ -188,4 +188,12 @@ Lastkapaciteten i bagageutrymmet är 265 liter. Med baksätet nedfällt är det 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 06.07.2023 och leveranser förväntas starta om November 2023.
+Denna modell hade världspremiär 06.07.2023 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Peugot 208 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

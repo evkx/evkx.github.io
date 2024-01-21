@@ -174,4 +174,12 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 The cargo capacity in the trunk is 350 liters. With the rear seat down, it is 1050 liters. The maxium weight of the car is 2008 kg (4427 lbs), and with the base weight of 1550 kg (3417 lbs), you can max load 458 kg (1010 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Citroën ë-C4 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

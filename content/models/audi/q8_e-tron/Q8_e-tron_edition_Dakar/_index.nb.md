@@ -308,4 +308,12 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 03.01.2024, og leveringene startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.
+Denne modellen hadde verdenspremiere 03.01.2024, og leveringene startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

@@ -230,4 +230,12 @@ Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilh
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 30.11.2023, og leveringene startet i November 2023. Denne modellen er kun tilgjengelig i Nord-Amerika.
+Denne modellen hadde verdenspremiere 30.11.2023, og leveringene startet i November 2023. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

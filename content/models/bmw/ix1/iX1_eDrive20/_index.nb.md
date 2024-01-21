@@ -219,4 +219,12 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 
 Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1495 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2580 kg, og med basisvekten på 2010 kg kan du maksimalt laste 570 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BMW iX1 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

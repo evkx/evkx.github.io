@@ -2,7 +2,7 @@
 title: Porsche Taycan 4S Sport Turismo rekkevidde & forbruk
 linktitle: "Rekkevidde"
 description: "Her finner du alle detaljer om rekkevidde og forbruk for Porsche Taycan 4S Sport Turismo."
-weight: 9
+weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
 ---
@@ -251,4 +251,12 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 	<tbody>
 	</tbody>
 </table>
+</div>
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Porsche Taycan 4S Sport Turismo </strong>
+</a>
+<a href="../chargingcurve/" class="text-decoration-none text-black float-end">
+<strong>Ladekurve <i class="bi-arrow-right"></i></strong>
+</a>
 </div>

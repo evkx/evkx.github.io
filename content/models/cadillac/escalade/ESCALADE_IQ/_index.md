@@ -209,4 +209,12 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 The cargo capacity in the trunk is 670 liters. With the rear seat down, it is 3374 liters. Under the hood, there is frunk with more storage room. This frunk is 345 liters (12,2 CU FT). The maxium weight of the car is 4717 kg (10399 lbs), and with the base weight of 4103 kg (9046 lbs), you can max load 614 kg (1354 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 3628, and on unbraked, it is 750 kg (7998/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 3628, and on unbraked, it is 750 kg (7998/1653 lbs).<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Cadillac ESCALADE </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

@@ -227,4 +227,12 @@ The cargo capacity in the trunk is 363 liters. On the roof, you can load up to 1
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 23.12.2023, and deliveries is expected to start in February 2025.
+This model had a world premiere on 23.12.2023, and deliveries is expected to start in February 2025.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Nio ET9 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

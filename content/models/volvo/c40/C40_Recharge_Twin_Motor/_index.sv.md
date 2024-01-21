@@ -197,4 +197,12 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S Standard Range
 linktitle: "Model S Standard Range"
-description: "Tesla Model S Standard Range är en helelektrisk sedan med en räckvidd på WLTP på upp till 512 km. EVKX.net har alla detaljer."
+description: "Tesla Model S Standard Range är en helelektrisk sedan med en WLTP räckvidd på upp till 512 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -219,4 +219,12 @@ Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släp
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 20.08.2023 och leveranser startade i September 2023. Denna modell har nu utgått.
+Denna modell hade världspremiär 20.08.2023 och leveranser startade i September 2023. Denna modell har nu utgått.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

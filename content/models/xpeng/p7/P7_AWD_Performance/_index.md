@@ -201,4 +201,12 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 440 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 0 liters (0,0 CU FT). The maxium weight of the car is 2570 kg (5666 lbs), and with the base weight of 2055 kg (4530 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> XPENG P7 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

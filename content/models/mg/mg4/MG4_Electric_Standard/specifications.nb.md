@@ -2,7 +2,7 @@
 title: MG MG4 Electric Standard spesifikasjoner
 linktitle: "Spesifikasjoner"
 description: "EVKX.net gir deg alle spesifikasjonene for MG MG4 Electric Standard."
-weight: 30
+weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
@@ -1066,3 +1066,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 	</tbody>
 </table>
+<div class="mt-3 mb-3">
+<a href="../chargingcurve/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Ladekurve </strong>
+</a>
+<a href="../gallery/" class="text-decoration-none text-black float-end">
+<strong>Galleri <i class="bi-arrow-right"></i></strong>
+</a>
+</div>

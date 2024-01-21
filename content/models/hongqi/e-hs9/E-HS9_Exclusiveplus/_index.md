@@ -216,4 +216,12 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 225 liters. With the third-row seat down, it is 622 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3180 kg (7011 lbs), and with the base weight of 2630 kg (5798 lbs), you can max load 550 kg (1213 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Hongqi E-HS9 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

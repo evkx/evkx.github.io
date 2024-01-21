@@ -216,4 +216,12 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 Lastkapaciteten i bagageutrymmet är 225 liter. Med den tredje sätesraden nere är den 622 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3180 kg, och med basvikten på 2630 kg kan du lasta maximalt 550 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Hongqi E-HS9 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

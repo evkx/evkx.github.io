@@ -2,7 +2,7 @@
 title: Tesla Model Y Standard Range ladekurve og ladeytelse
 linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Tesla Model Y Standard Range."
-weight: 10
+weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
@@ -16,7 +16,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 [Full screen](../chargingcurve_1.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>63,8 kW</td>
@@ -56,7 +56,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
@@ -374,7 +374,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 [Full screen](../chargingcurve_2.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>89,6 kW</td>
@@ -414,7 +414,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
@@ -732,7 +732,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 [Full screen](../chargingcurve_3.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>48,9 kW</td>
@@ -772,7 +772,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
@@ -1083,3 +1083,11 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 </tbody>
 </table>
 
+<div class="mt-3 mb-3">
+<a href="../rangeandconsumption/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Rekkevidde </strong>
+</a>
+<a href="../specifications/" class="text-decoration-none text-black float-end">
+<strong>Spesifikasjoner <i class="bi-arrow-right"></i></strong>
+</a>
+</div>

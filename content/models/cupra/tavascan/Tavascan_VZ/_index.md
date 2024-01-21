@@ -216,4 +216,12 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0,0 lbs). The maxium weight of the car is 2650 kg (5842 lbs), and with the base weight of 2042 kg (4502 lbs), you can max load 608 kg (1340 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> CUPRA Tavascan </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

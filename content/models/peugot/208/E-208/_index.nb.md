@@ -188,4 +188,12 @@ Lastkapasiteten i bagasjerommet er 265 liter. Med baksetet nede er det 1106 lite
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 06.07.2023, og leveringene forventes å starte om November 2023.
+Denne modellen hadde verdenspremiere 06.07.2023, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Peugot 208 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

@@ -174,4 +174,12 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 
 Lastkapaciteten i bagageutrymmet är 350 liter. Med baksätet nedfällt är det 1050 liter. Bilens maximala vikt är 2008 kg, och med basvikten på 1550 kg kan du lasta maximalt 458 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Citroën ë-C4 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

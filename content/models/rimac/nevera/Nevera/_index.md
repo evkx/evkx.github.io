@@ -190,4 +190,12 @@ The cargo capacity in the trunk is 100 liters. The maxium weight of the car is 2
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 01.06.2021, and deliveries started in January 2023.
+This model had a world premiere on 01.06.2021, and deliveries started in January 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Rimac Nevera </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

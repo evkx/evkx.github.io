@@ -266,4 +266,12 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/trunk_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1449"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

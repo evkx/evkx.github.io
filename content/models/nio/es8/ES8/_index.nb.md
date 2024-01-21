@@ -243,4 +243,12 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du flere kjøreautomatisering
 
 Lastkapasiteten i bagasjerommet er 310 liter. Med baksetet nede er det 1901 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 3099 kg, og med basisvekten på 2440 kg kan du maksimalt laste 659 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Nio ES8 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

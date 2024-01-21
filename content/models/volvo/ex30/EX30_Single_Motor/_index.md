@@ -205,4 +205,12 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/trunk_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2251"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Volvo EX30 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

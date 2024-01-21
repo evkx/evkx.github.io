@@ -1,7 +1,7 @@
 ---
 title: Zeekr 007 AWD Performance
 linktitle: "007 AWD Performance"
-description: "Zeekr 007 AWD Performance är en helelektrisk sedan med en räckvidd på CLTC på upp till 660 km. EVKX.net har alla detaljer."
+description: "Zeekr 007 AWD Performance är en helelektrisk sedan med en CLTC räckvidd på upp till 660 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -202,4 +202,12 @@ Lastkapaciteten i bagageutrymmet är 462 liter. Med baksätet nedfällt är det 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 27.12.2023 och leveranserna startade i January 2024.
+Denna modell hade världspremiär 27.12.2023 och leveranserna startade i January 2024.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Zeekr 007 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

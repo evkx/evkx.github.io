@@ -215,4 +215,12 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/trunk_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1998"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BMW iX </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

@@ -2,7 +2,7 @@
 title: Fisker Ocean Sport range & consumption
 linktitle: "Range"
 description: "Here you find all details about range and consumption for Fisker Ocean Sport."
-weight: 9
+weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
 ---
@@ -177,4 +177,12 @@ The table below shows some estimated real-world examples in perfect condition an
 	<tbody>
 	</tbody>
 </table>
+</div>
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Fisker Ocean Sport </strong>
+</a>
+<a href="../chargingcurve/" class="text-decoration-none text-black float-end">
+<strong>Charging curve <i class="bi-arrow-right"></i></strong>
+</a>
 </div>

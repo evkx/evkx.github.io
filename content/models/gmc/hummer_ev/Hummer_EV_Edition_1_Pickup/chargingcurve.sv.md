@@ -2,7 +2,7 @@
 title: GMC Hummer EV Edition 1 Pickup laddningskurva och laddningsprestanda
 linktitle: "Laddningskurva"
 description: "Här hittar du laddningskurvan för GMC Hummer EV Edition 1 Pickup."
-weight: 10
+weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
@@ -12,7 +12,7 @@ navicon: bi-battery-charging
 [Full screen](../chargingcurve.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Genomsnittlig laddningshastighet 0 - 100 %</td><td>92,3 kW</td>
@@ -52,7 +52,7 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi laddad</th></tr>
 </thead>
@@ -363,3 +363,11 @@ GMC Hummer EV Edition 1 Pickup har batteriuppvärmning, vilket underlättar ladd
 </tbody>
 </table>
 
+<div class="mt-3 mb-3">
+<a href="../rangeandconsumption/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Räckvidd </strong>
+</a>
+<a href="../specifications/" class="text-decoration-none text-black float-end">
+<strong>Specifikationer <i class="bi-arrow-right"></i></strong>
+</a>
+</div>

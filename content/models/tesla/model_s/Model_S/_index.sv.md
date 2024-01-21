@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S
 linktitle: "Model S"
-description: "Tesla Model S är en helelektrisk sedan med en räckvidd på WLTP på upp till 649 km. EVKX.net har alla detaljer."
+description: "Tesla Model S är en helelektrisk sedan med en WLTP räckvidd på upp till 649 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -216,4 +216,12 @@ Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släp
 
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/trunk_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

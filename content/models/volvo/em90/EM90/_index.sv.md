@@ -216,4 +216,12 @@ Lastkapaciteten i bagageutrymmet är 376 liter. Med den tredje sätesraden nere 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 12.11.2023 och leveranser förväntas starta om March 2025. Denna modell är endast tillgänglig i Kina.
+Denna modell hade världspremiär 12.11.2023 och leveranser förväntas starta om March 2025. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Volvo EM90 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

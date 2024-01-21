@@ -197,4 +197,12 @@ Med Fisker Intelligent Pilot  nivå 2-systemet får du følgende kjøreautomatis
 
 Lastkapasiteten i bagasjerommet er 476 liter. Med baksetet nede er det 918 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2974 kg, og med basisvekten på 2433 kg kan du maksimalt laste 541 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1820, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1820, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Fisker Ocean </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

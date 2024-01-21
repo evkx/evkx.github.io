@@ -248,4 +248,12 @@ Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släp
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 30.11.2023 och leveranserna startade i November 2023. Denna modell är endast tillgänglig i Nordamerika.
+Denna modell hade världspremiär 30.11.2023 och leveranserna startade i November 2023. Denna modell är endast tillgänglig i Nordamerika.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

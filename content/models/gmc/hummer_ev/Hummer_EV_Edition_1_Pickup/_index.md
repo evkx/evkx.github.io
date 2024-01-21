@@ -187,4 +187,12 @@ The cargo capacity in the truck bed is 1039 liters. The bed width is 1272 mm, an
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3402, and on unbraked, it is 750 kg (7500/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 20.10.2020, and deliveries started in December 2021. This model is only available in North America.
+This model had a world premiere on 20.10.2020, and deliveries started in December 2021. This model is only available in North America.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> GMC Hummer EV </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

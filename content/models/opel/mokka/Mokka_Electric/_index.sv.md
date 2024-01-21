@@ -185,4 +185,12 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 
 Lastkapaciteten i bagageutrymmet är 310 liter. Med baksätet nedfällt är det 1060 liter. Bilens maximala vikt är 2015 kg, och med basvikten på 1523 kg kan du lasta maximalt 492 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Opel Mokka </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

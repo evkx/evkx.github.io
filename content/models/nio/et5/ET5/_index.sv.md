@@ -1,7 +1,7 @@
 ---
 title: Nio ET5
 linktitle: "ET5"
-description: "Nio ET5 är en helelektrisk sedan med en räckvidd på WLTP på upp till 590 km. EVKX.net har alla detaljer."
+description: "Nio ET5 är en helelektrisk sedan med en WLTP räckvidd på upp till 590 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -229,4 +229,12 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du fler körautomatiseringsfu
 
 Lastutrymmets kapacitet är 363 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 2900 kg, och med basvikten på 2379 kg kan du lasta maximalt 521 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Nio ET5 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

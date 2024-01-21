@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Pure
 linktitle: "Air Pure"
-description: "Lucid Air Pure är en helelektrisk sedan med en räckvidd på EPA på upp till 660 km. EVKX.net har alla detaljer."
+description: "Lucid Air Pure är en helelektrisk sedan med en EPA räckvidd på upp till 660 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -206,4 +206,12 @@ Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn m
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/trunk_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Lucid Air </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

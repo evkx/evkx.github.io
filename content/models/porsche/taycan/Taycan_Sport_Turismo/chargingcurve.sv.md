@@ -2,7 +2,7 @@
 title: Porsche Taycan Sport Turismo laddningskurva och laddningsprestanda
 linktitle: "Laddningskurva"
 description: "Här hittar du laddningskurvan för Porsche Taycan Sport Turismo."
-weight: 10
+weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
@@ -16,7 +16,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 [Full screen](../chargingcurve_1.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Genomsnittlig laddningshastighet 0 - 100 %</td><td>94,0 kW</td>
@@ -56,7 +56,7 @@ Porsche Taycan Sport Turismo har batteriuppvärmning, vilket underlättar laddni
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi laddad</th></tr>
 </thead>
@@ -374,7 +374,7 @@ Porsche Taycan Sport Turismo har batteriuppvärmning, vilket underlättar laddni
 [Full screen](../chargingcurve_2.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Genomsnittlig laddningshastighet 0 - 100 %</td><td>99,6 kW</td>
@@ -414,7 +414,7 @@ Porsche Taycan Sport Turismo har batteriuppvärmning, vilket underlättar laddni
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi laddad</th></tr>
 </thead>
@@ -725,3 +725,11 @@ Porsche Taycan Sport Turismo har batteriuppvärmning, vilket underlättar laddni
 </tbody>
 </table>
 
+<div class="mt-3 mb-3">
+<a href="../rangeandconsumption/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Räckvidd </strong>
+</a>
+<a href="../specifications/" class="text-decoration-none text-black float-end">
+<strong>Specifikationer <i class="bi-arrow-right"></i></strong>
+</a>
+</div>

@@ -230,4 +230,12 @@ Lastkapasiteten i bagasjerommet er 854 liter. Med baksetet nede er det 2158 lite
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.
+Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

@@ -191,4 +191,12 @@ With the   level 1 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 300 liters. With the rear seat down, it is 900 liters. The maxium weight of the car is 1550 kg (3417 lbs), and with the base weight of 1240 kg (2734 lbs), you can max load 310 kg (683 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BYD Seagull </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

@@ -222,4 +222,12 @@ Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn m
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/trunk_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

@@ -2,7 +2,7 @@
 title: Volvo EX30 Twin Motor Performance recensioner
 linktitle: "Tester"
 description: "EVKX.net hjälper dig hitta de bästa testerna och recensionerna av denna modell."
-weight: 80
+weight: 6
 hidden: true
 navicon: bi-person-video2
 ---
@@ -63,4 +63,12 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 
 {{< youtube DhgdSF05cmo >}}
 
+</div>
+<div class="mt-3 mb-3">
+<a href="../gallery/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i>Galleri  </strong>
+</a>
+<a href="../" class="text-decoration-none text-black float-end">
+<strong>Volvo EX30 Twin Motor Performance <i class="bi-arrow-right"></i></strong>
+</a>
 </div>

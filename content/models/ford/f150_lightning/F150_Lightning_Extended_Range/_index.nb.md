@@ -211,4 +211,12 @@ Lastkapasiteten i lastebilen er 1495 liter. Bredden på lasteplanet er 1285 mm, 
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.05.2021, og leveringene startet i December 2021.
+Denne modellen hadde verdenspremiere 19.05.2021, og leveringene startet i December 2021.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

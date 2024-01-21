@@ -210,4 +210,12 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 The cargo capacity in the trunk is 311 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 37 liters (1,3 CU FT). The maxium weight of the car is 3380 kg (7452 lbs), and with the base weight of 2748 kg (6058 lbs), you can max load 632 kg (1393 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, it is 750 kg (4850/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, it is 750 kg (4850/1653 lbs).<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Volvo EX90 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

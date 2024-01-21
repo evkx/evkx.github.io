@@ -2,7 +2,7 @@
 title: VOYAH FREE räckvidd och förbrukning
 linktitle: "Räckvidd"
 description: "Här hittar du all information om räckvidd och förbrukning för VOYAH FREE."
-weight: 9
+weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
 ---
@@ -129,4 +129,12 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 	<tbody>
 	</tbody>
 </table>
+</div>
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> VOYAH FREE </strong>
+</a>
+<a href="../chargingcurve/" class="text-decoration-none text-black float-end">
+<strong>Laddningskurva <i class="bi-arrow-right"></i></strong>
+</a>
 </div>

@@ -2,7 +2,7 @@
 title: Porsche Taycan 4 Cross Turismo charging curve & performance
 linktitle: "Charging curve"
 description: "Here you find the charging curve for Porsche Taycan 4 Cross Turismo."
-weight: 10
+weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
@@ -12,7 +12,7 @@ navicon: bi-battery-charging
 [Full screen](../chargingcurve.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Average charging speed 0 - 100%</td><td>99,6 kW</td>
@@ -52,7 +52,7 @@ Porsche Taycan 4 Cross Turismo have battery heating, making charging at an optim
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Speed</th><th>Time</th><th>Energy charged</th></tr>
 </thead>
@@ -363,3 +363,11 @@ Porsche Taycan 4 Cross Turismo have battery heating, making charging at an optim
 </tbody>
 </table>
 
+<div class="mt-3 mb-3">
+<a href="../rangeandconsumption/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Range </strong>
+</a>
+<a href="../specifications/" class="text-decoration-none text-black float-end">
+<strong>Specifications <i class="bi-arrow-right"></i></strong>
+</a>
+</div>

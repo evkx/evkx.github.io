@@ -201,4 +201,12 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 401 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 80 kg (176,4 lbs). Under the hood, there is frunk with more storage room. This frunk is 12 liters (0,4 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 2020 kg (4453 lbs), you can max load 500 kg (1102 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Hyundai Ioniq 6 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

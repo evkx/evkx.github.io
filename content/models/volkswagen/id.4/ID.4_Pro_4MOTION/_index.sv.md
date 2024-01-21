@@ -238,4 +238,12 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

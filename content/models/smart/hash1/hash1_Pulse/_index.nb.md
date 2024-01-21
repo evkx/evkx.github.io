@@ -196,4 +196,12 @@ Lastkapasiteten i bagasjerommet er 313 liter. Med baksetet nede er det 976 liter
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 07.04.2022, og leveringene forventes å starte om November 2023.
+Denne modellen hadde verdenspremiere 07.04.2022, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Smart #1 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

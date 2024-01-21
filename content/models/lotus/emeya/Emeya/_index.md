@@ -225,4 +225,12 @@ The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 15
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1225, and on unbraked, it is 750 kg (2701/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 12.10.2023, and deliveries is expected to start in March 2024.
+This model had a world premiere on 12.10.2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Lotus Emeya </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

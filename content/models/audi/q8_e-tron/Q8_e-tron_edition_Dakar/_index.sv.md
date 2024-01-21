@@ -308,4 +308,12 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 03.01.2024 och leveranserna startade i May 2024. Denna modell är tillgänglig i Nordamerika, Kina, Europa och Mellanöstern.
+Denna modell hade världspremiär 03.01.2024 och leveranserna startade i May 2024. Denna modell är tillgänglig i Nordamerika, Kina, Europa och Mellanöstern.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

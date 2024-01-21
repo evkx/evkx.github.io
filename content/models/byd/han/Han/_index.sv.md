@@ -1,7 +1,7 @@
 ---
 title: BYD Han
 linktitle: "Han"
-description: "BYD Han är en helelektrisk sedan med en räckvidd på WLTP på upp till 521 km. EVKX.net har alla detaljer."
+description: "BYD Han är en helelektrisk sedan med en WLTP räckvidd på upp till 521 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -227,4 +227,12 @@ Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn m
 
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BYD Han </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

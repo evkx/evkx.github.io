@@ -2,7 +2,7 @@
 title: Renault Scenic E-Tech electric High Range ladekurve og ladeytelse
 linktitle: "Ladekurve"
 description: "Her finner du ladekurven for Renault Scenic E-Tech electric High Range."
-weight: 10
+weight: 3
 hidden: true
 navicon: bi-battery-charging
 ---
@@ -12,7 +12,7 @@ navicon: bi-battery-charging
 [Full screen](../chargingcurve.svg)
 
 
-<table class="table table-striped">
+<table class="table table-striped border">
 <tbody>
 <tr>
 <td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>82,4 kW</td>
@@ -52,7 +52,7 @@ Renault Scenic E-Tech electric High Range har batterioppvarming, noe som gjør l
 
 
 {{<evkxdisplayaddarticle />}}
-<table class="table table-striped">
+<table class="table table-striped border">
 <thead>
 <tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
 </thead>
@@ -363,3 +363,11 @@ Renault Scenic E-Tech electric High Range har batterioppvarming, noe som gjør l
 </tbody>
 </table>
 
+<div class="mt-3 mb-3">
+<a href="../rangeandconsumption/" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Rekkevidde </strong>
+</a>
+<a href="../specifications/" class="text-decoration-none text-black float-end">
+<strong>Spesifikasjoner <i class="bi-arrow-right"></i></strong>
+</a>
+</div>

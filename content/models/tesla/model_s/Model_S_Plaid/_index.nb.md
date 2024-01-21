@@ -216,4 +216,12 @@ Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilh
 
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/trunk_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

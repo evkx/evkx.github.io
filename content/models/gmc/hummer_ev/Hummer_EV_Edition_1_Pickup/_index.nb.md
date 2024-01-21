@@ -187,4 +187,12 @@ Lastkapasiteten i lastebilen er 1039 liter. Bredden på lasteplanet er 1272 mm, 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3402, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 20.10.2020, og leveringene startet i December 2021. Denne modellen er kun tilgjengelig i Nord-Amerika.
+Denne modellen hadde verdenspremiere 20.10.2020, og leveringene startet i December 2021. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> GMC Hummer EV </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

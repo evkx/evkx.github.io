@@ -202,4 +202,12 @@ Lastkapasiteten i bagasjerommet er 462 liter. Med baksetet nede er det 1300 lite
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 27.12.2023, og leveringene startet i January 2024.
+Denne modellen hadde verdenspremiere 27.12.2023, og leveringene startet i January 2024.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Zeekr 007 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

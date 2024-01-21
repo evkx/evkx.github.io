@@ -219,4 +219,12 @@ Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilh
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 20.08.2023, og leveringene startet i September 2023. Denne modellen har nå blitt avviklet.
+Denne modellen hadde verdenspremiere 20.08.2023, og leveringene startet i September 2023. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

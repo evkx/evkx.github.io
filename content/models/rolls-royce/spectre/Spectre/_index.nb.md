@@ -226,4 +226,12 @@ Lastkapasiteten i bagasjerommet er 500 liter. Maksimumsvekten til bilen er 3400 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 18.10.2022, og leveringene startet i December 2023.
+Denne modellen hadde verdenspremiere 18.10.2022, og leveringene startet i December 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Rolls-Royce Spectre </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

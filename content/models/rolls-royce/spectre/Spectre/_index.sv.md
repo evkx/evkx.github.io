@@ -226,4 +226,12 @@ Lastutrymmets kapacitet är 500 liter. Bilens maximala vikt är 3400 kg, och med
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 18.10.2022 och leveranserna startade i December 2023.
+Denna modell hade världspremiär 18.10.2022 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Rolls-Royce Spectre </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

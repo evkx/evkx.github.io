@@ -219,4 +219,12 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 
 The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 1495 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2580 kg (5688 lbs), and with the base weight of 2010 kg (4431 lbs), you can max load 570 kg (1257 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BMW iX1 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

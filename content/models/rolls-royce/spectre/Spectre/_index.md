@@ -226,4 +226,12 @@ The cargo capacity in the trunk is 500 liters. The maxium weight of the car is 3
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 18.10.2022, and deliveries started in December 2023.
+This model had a world premiere on 18.10.2022, and deliveries started in December 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Rolls-Royce Spectre </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

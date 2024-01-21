@@ -212,4 +212,12 @@ With the Smart Pilot  level 2 system, you get the following driving automation f
 
 The cargo capacity in the trunk is 402 liters. Under the hood, there is frunk with more storage room. This frunk is 53 liters (1,9 CU FT). The maxium weight of the car is 2660 kg (5864 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 475 kg (1047 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> BYD Seal </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

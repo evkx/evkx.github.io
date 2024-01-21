@@ -213,4 +213,12 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Lastkapasiteten i bagasjerommet er 225 liter. Med setet på tredje rad nede er det 622 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 3205 kg, og med basisvekten på 2660 kg kan du maksimalt laste 545 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Hongqi E-HS9 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

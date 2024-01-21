@@ -1,7 +1,7 @@
 ---
 title: Nio ET9
 linktitle: "ET9"
-description: "Nio ET9 är en helelektrisk premium sedan med en räckvidd på WLTP på upp till 720 km. EVKX.net har alla detaljer."
+description: "Nio ET9 är en helelektrisk premium sedan med en WLTP räckvidd på upp till 720 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -227,4 +227,12 @@ Lastutrymmets kapacitet är 363 liter. På taket kan du lasta upp till 100 kg. B
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 23.12.2023 och leveranser förväntas starta om February 2025.
+Denna modell hade världspremiär 23.12.2023 och leveranser förväntas starta om February 2025.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Nio ET9 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

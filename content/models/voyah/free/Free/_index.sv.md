@@ -178,4 +178,12 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 Lastkapaciteten i bagageutrymmet är 560 liter. Med baksätet nedfällt är det 1320 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 72 liter. Bilens maximala vikt är 2945 kg, och med basvikten på 2340 kg kan du lasta maximalt 605 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 2000, och på obromsad är den 750 kg.
+Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 2000, och på obromsad är den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> VOYAH FREE </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

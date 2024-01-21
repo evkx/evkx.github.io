@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Dream Edition Performance
 linktitle: "Air Dream Edition Performance"
-description: "Lucid Air Dream Edition Performance är en helelektrisk sedan med en räckvidd på WLTP på upp till 861 km. EVKX.net har alla detaljer."
+description: "Lucid Air Dream Edition Performance är en helelektrisk sedan med en WLTP räckvidd på upp till 861 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -212,4 +212,12 @@ Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn m
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/trunk_1_st.jpg" title="Lucid Air Dream Edition Performance" width="2000" height="1334"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Lucid Air </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
 

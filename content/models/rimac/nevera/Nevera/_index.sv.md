@@ -190,4 +190,12 @@ Lastutrymmets kapacitet är 100 liter. Bilens maximala vikt är 2550 kg, och med
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 01.06.2021 och leveranserna startade i January 2023.
+Denna modell hade världspremiär 01.06.2021 och leveranserna startade i January 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Rimac Nevera </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

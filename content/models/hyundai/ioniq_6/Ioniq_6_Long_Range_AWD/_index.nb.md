@@ -201,4 +201,12 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Lastkapasiteten i bagasjerommet er 401 liter. Med baksetet nede er det 1578 liter. På taket kan du laste opptil 80 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 12 liter. Maksimumsvekten til bilen er 2520 kg, og med basisvekten på 2020 kg kan du maksimalt laste 500 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Hyundai Ioniq 6 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

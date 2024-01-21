@@ -219,4 +219,12 @@ Lastkapasiteten i bagasjerommet er 593 liter. På taket kan du laste opptil 70 k
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 01.10.2023, og leveringene startet i December 2023.
+Denne modellen hadde verdenspremiere 01.10.2023, og leveringene startet i December 2023.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

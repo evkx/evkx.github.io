@@ -198,4 +198,12 @@ Med Fisker Intelligent Pilot  nivå 2-systemet får du följande körautomatiser
 
 Lastkapaciteten i bagageutrymmet är 476 liter. Med baksätet nedfällt är det 918 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2974 kg, och med basvikten på 2225 kg kan du lasta maximalt 749 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1090, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1090, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Fisker Ocean </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+
