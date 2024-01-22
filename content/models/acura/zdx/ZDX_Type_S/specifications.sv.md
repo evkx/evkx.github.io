@@ -986,7 +986,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 11
 			</td>
 		</tr>
 		<tr>
@@ -994,7 +994,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 33
+				Ja, 11,3
 			</td>
 		</tr>
 		<tr>

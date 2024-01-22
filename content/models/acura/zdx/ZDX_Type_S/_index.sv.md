@@ -134,7 +134,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Acura ZDX Type S har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch bakom ratten över mitten av instrumentbrädan är 33.0 tum.
+Acura ZDX Type S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 11.0 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 11.3 tum och har en upplösning på 1540 x 720 pixlar.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -145,7 +145,7 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Acura ZDX Type S. Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Acura ZDX Type S. Med Bang & Olufsen sound system får du 18 högtalare med en maximal systemeffekt på  watt.
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Acura ZDX Type S Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 

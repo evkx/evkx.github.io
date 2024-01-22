@@ -986,7 +986,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Digital driver display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 11
 			</td>
 		</tr>
 		<tr>
@@ -994,7 +994,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 33
+				Ja, 11,3
 			</td>
 		</tr>
 		<tr>

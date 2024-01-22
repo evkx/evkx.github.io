@@ -986,7 +986,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Not available
+				Yes, 11
 			</td>
 		</tr>
 		<tr>
@@ -994,7 +994,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 33"
+				Yes, 11,3"
 			</td>
 		</tr>
 		<tr>
