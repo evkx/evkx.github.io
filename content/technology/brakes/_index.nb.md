@@ -123,10 +123,15 @@ En annen fordel med brems-by-wire-teknologi er dens fleksibilitet og tilpasnings
 
 Videre tillater brems-by-wire-teknologi avanserte bremsefunksjoner, for eksempel regenerativ bremsing i svinger, som kan bidra til å forbedre kjøretøyets håndtering og stabilitet under svingmanøvrer. Ved uavhengig å kontrollere bremsekraften som påføres hvert hjul, kan systemet optimere den regenerative bremsingen i hvert hjul for å gi bedre trekkraft og stabilitet under svinger.
 
+{{<evkxdisplayaddarticle />}}
+
 Det er imidlertid viktig å merke seg at brems-by-wire-teknologi også kommer med noen potensielle utfordringer. En av hovedbekymringene er påliteligheten og sikkerheten til systemet, siden det er sterkt avhengig av elektroniske komponenter og programvare. Passende feilsikre tiltak, redundans og streng testing er avgjørende for å sikre sikker drift av systemet. I tillegg er førerutdanning og opplæring avgjørende for å hjelpe sjåfører å forstå de unike egenskapene til bremse-for-wire-systemer og hvordan de skal betjenes effektivt.
 
 Oppsummert er brems-by-wire-teknologi et avansert system som muliggjør sømløs integrering av regenerativ bremsing og friksjonsbremsing i elbiler. Den tilbyr forbedret energieffektivitet, kjørerekkevidde og avanserte bremsefunksjoner, men krever også nøye vurdering av pålitelighet, sikkerhet og føreropplæring. Ettersom teknologien fortsetter å utvikle seg, forventes bremse-for-wire-systemer å spille en betydelig rolle i fremtiden for EV-bremsesystemer, og bidra til mer effektiv og bærekraftig transport.
 
 I vår EVKX-database søker du etter modeller med forskjellige typer bremser.
 
-{{<evkxdisplayaddarticle />}}
+<div class="mt-3 mb-3">
+    <a href="../driverassistance/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Advanced driver-assistance systems (ADAS)</strong></a>
+    <a href="../cargoandtowing/" class="text-decoration-none text-black float-end"><strong>Laste- og tilhenger muligheter <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-1b088938
+  translation: Acura ZDX Type S is an all-electric SUV with a EPA range of up to 463 km (288 miles). EVKX.net has all the details.
+
 - id: frontpage-description-300df0ff
   translation: Rimac Nevera is an all-electric luxury hypercar with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details.
 
@@ -145,15 +148,12 @@
 - id: frontpage-description-fb8c6f67
   translation: XPENG X9 AWD Performance is an all-electric MPV with a CLTC range of up to 640 km (398 miles). EVKX.net has all the details.
 
-- id: frontpage-description-60ff15b1
-  translation: Volkswagen ID.7 Pro S is an all-electric sedan with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details.
+- id: frontpage-description-fb8c6f67
+  translation: XPENG X9 AWD Performance is an all-electric MPV with a CLTC range of up to 640 km (398 miles). EVKX.net has all the details.
 
 - id: frontpage-description-60ff15b1
   translation: Volkswagen ID.7 Pro S is an all-electric sedan with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details.
 
 - id: frontpage-description-a41cafab
   translation: BYD Seal RWD is an all-electric sedan with a WLTP range of up to 520 km (323 miles). EVKX.net has all the details.
-
-- id: frontpage-description-6dae8dd0
-  translation: Fisker Ocean Sport is an all-electric SUV with a WLTP range of up to 464 km (288 miles). EVKX.net has all the details.
 

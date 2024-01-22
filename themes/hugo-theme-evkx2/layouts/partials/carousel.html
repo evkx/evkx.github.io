@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/acura/zdx/zdx_type_s/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/acura/zdx/zdx_type_s/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Acura ZDX Type S</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-1b088938"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/rimac/nevera/nevera/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Volvo EM90</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-5a24e938"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/xpeng/g6/g6_awd_performance/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>XPENG G6 AWD Performance</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-f2ab9bce"}}</p>
 				</div>
 			</div>
 		</div>

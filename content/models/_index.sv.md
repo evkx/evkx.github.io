@@ -10,6 +10,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 <div class="container text-center p-2 pe-4 mb-4 bg-body-tertiary rounded border">
 	<div class="row align-items-start">
 		<div class="col col-6 col-md-3" >
+			<a href="acura"><img src="https://media.evkx.net/multimedia/models/acura/logo_xst.png" alt="Acura" title="Acura" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -153,6 +156,14 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	</div>
 </div>
 
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="acura/"><img src="https://media.evkx.net/multimedia/models/acura/brandevs_st.jpg" class="img-fluid mb-2" alt="Acura" ></a>
+	<h2>Acura</h2>
+	<p>
+	Acura har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="acura/" class="btn btn-outline-primary" role="button">Gå till Acura modellöversikt</a>
+</div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
 	<h2>Audi</h2>

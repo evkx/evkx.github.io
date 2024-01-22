@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-1b088938
+  translation: Acura ZDX Type S är en helelektrisk SUV med en EPA räckvidd på upp till 463 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-300df0ff
   translation: Rimac Nevera är en helelektrisk hyperbil med en WLTP räckvidd på upp till 490 km. EVKX.net har alla detaljer.
 
@@ -145,15 +148,12 @@
 - id: frontpage-description-fb8c6f67
   translation: XPENG X9 AWD Performance är en helelektrisk MPV med en CLTC räckvidd på upp till 640 km. EVKX.net har alla detaljer.
 
-- id: frontpage-description-60ff15b1
-  translation: Volkswagen ID.7 Pro S är en helelektrisk sedan med en WLTP räckvidd på upp till 700 km. EVKX.net har alla detaljer.
+- id: frontpage-description-fb8c6f67
+  translation: XPENG X9 AWD Performance är en helelektrisk MPV med en CLTC räckvidd på upp till 640 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-60ff15b1
   translation: Volkswagen ID.7 Pro S är en helelektrisk sedan med en WLTP räckvidd på upp till 700 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-a41cafab
   translation: BYD Seal RWD är en helelektrisk sedan med en WLTP räckvidd på upp till 520 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-6dae8dd0
-  translation: Fisker Ocean Sport är en helelektrisk SUV med en WLTP räckvidd på upp till 464 km. EVKX.net har alla detaljer.
 

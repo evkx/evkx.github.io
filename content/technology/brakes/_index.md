@@ -124,10 +124,15 @@ Another advantage of brake-by-wire technology is its flexibility and adaptabilit
 
 Furthermore, brake-by-wire technology allows for advanced braking features, such as regenerative braking in corners, which can help improve vehicle handling and stability during cornering maneuvers. By independently controlling the braking force applied to each wheel, the system can optimize the regenerative braking in each wheel to provide better traction and stability during turns.
 
+{{<evkxdisplayaddarticle />}}
+
 However, it's important to note that brake-by-wire technology also comes with some potential challenges. One of the main concerns is the reliability and safety of the system, as it relies heavily on electronic components and software. Appropriate fail-safe measures, redundancy, and rigorous testing are essential to ensure the safe operation of the system. Additionally, driver education and training are crucial to help drivers understand the unique characteristics of brake-by-wire systems and how to operate them effectively.
 
 In summary, brake-by-wire technology is an advanced system that allows for seamless integration of regenerative and friction braking in EVs. It offers improved energy efficiency, driving range, and advanced braking features, but also requires careful consideration of reliability, safety, and driver education. As technology continues to evolve, brake-by-wire systems are expected to play a significant role in the future of EV braking systems, contributing to more efficient and sustainable transportation.
 
 In our EVKX database you search for models with differen types of brakes.
 
-{{<evkxdisplayaddarticle />}}
+<div class="mt-3 mb-3">
+    <a href="../driverassistance/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Advanced driver-assistance systems (ADAS)</strong></a>
+    <a href="../cargoandtowing/" class="text-decoration-none text-black float-end"><strong>Cargo & towing capabilities <i class="bi-arrow-right"></i></strong></a>
+</div>
