@@ -37,9 +37,9 @@ Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 106,8kWh, n
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 490 km. Forbruket er 21.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 500 kW. En full lading fra 0 - 100 % vil ta 34 minutter, mens et mer vanlig scenario på 10-80 % vil ta 17 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 232kW. Hver ladeøkt vil ta 16 minutter og 46 sekunder.
+Maksimal DC-ladehastighet er 500 kW. En full lading fra 0 - 100 % vil ta 34 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 71%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 226kW. Hver ladeøkt vil ta 20 minutter og 35 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 8 timer og 55 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 64%. Totalt tapt tid for å lade opp batteriet vil være 35 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 8 timer og 56 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 2% til 65%. Totalt tapt tid for å lade opp batteriet vil være 36 minutter.
 
 ### Ombordlader
 
