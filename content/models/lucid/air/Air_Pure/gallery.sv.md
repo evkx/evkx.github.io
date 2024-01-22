@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/drive
 data-pswp-width="3000"
 data-pswp-height="2142" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/drivetrain_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/drivetrain_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exter
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exter
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_2_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_2_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exter
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_3_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_3_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exter
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_4_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_4_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exter
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_5_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_5_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exter
 data-pswp-width="2000"
 data-pswp-height="1309" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_6_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/exterior_6_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/frunk
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/frunk_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/frunk_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/headl
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/headlights_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/headlights_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/inter
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/interior_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/interior_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/inter
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/interior_2_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/interior_2_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/main_
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/main_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/main_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/rearl
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/rearlights_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/rearlights_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/scree
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/screens_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/screens_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/scree
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/screens_2_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/screens_2_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/scree
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/screens_3_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/screens_3_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/scree
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/screens_4_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/screens_4_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/secon
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/secondrowseats_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/secondrowseats_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/trunk
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/trunk_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/trunk_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/wheel
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/wheels_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/wheels_1_xst.jpg" alt="Lucid Air Pure" class="img-fluid " />
 		</a>
 	</div>
 </div>

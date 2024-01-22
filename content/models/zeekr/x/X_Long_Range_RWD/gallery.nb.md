@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_2_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_2_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_3_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_3_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="1504"
 data-pswp-height="1128" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_4_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/exterior_4_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frontseats_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frontseats_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frunk_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/frunk_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/headlights_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/headlights_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="2280"
 data-pswp-height="1282" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="1504"
 data-pswp-height="1128" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_2_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_2_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="2280"
 data-pswp-height="1282" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_3_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_3_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_4_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/screens_4_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/secondrowseats_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/secondrowseats_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/soundsystem_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/soundsystem_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/trunk_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/trunk_1_xst.jpg" alt="Zeekr X Long Range RWD" class="img-fluid " />
 		</a>
 	</div>
 </div>

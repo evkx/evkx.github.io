@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2049" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_2_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_2_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_3_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/exterior_3_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/frontseats_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/frontseats_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/glassroof_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/glassroof_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_2_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_2_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_3_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/headlights_3_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/rearlights_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/rearlights_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_2_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_2_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_3_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/screens_3_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/secondrowseats_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/secondrowseats_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_2_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/trunk_2_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/wheels_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/wheels_1_xst.jpg" alt="Smart #1 Brabus" class="img-fluid " />
 		</a>
 	</div>
 </div>

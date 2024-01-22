@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/dynami
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/dynamic _1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/dynamic _1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exteri
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exteri
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_2_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_2_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exteri
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_3_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_3_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exteri
 data-pswp-width="3000"
 data-pswp-height="1285" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_4_xst.png" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_4_xst.png" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/fronts
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/frontseats_1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/frontseats_1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interi
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interior_1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interior_1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interi
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interior_2_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interior_2_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interi
 data-pswp-width="3000"
 data-pswp-height="2407" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interior_3_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/interior_3_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/main_1
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/main_1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/main_1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/rearli
 data-pswp-width="3000"
 data-pswp-height="1642" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/rearlights_1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/rearlights_1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/rearli
 data-pswp-width="3000"
 data-pswp-height="1287" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/rearlights_2_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/rearlights_2_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/screen
 data-pswp-width="3000"
 data-pswp-height="1285" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/screens_1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/screens_1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/screen
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/screens_2_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/screens_2_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/second
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/secondrowseats_1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/secondrowseats_1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/wheels
 data-pswp-width="3000"
 data-pswp-height="1284" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/wheels_1_xst.jpg" alt="Lotus Emeya" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/wheels_1_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
 		</a>
 	</div>
 </div>

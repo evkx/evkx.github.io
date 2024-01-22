@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performa
 data-pswp-width="1920"
 data-pswp-height="1281" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/dynamic_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/dynamic_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performa
 data-pswp-width="1920"
 data-pswp-height="1123" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/exterior_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/exterior_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performa
 data-pswp-width="2560"
 data-pswp-height="1613" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/exterior_2_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/exterior_2_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performa
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/frontseats_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/frontseats_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performa
 data-pswp-width="1924"
 data-pswp-height="1080" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/headlight_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/headlight_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performa
 data-pswp-width="2560"
 data-pswp-height="1498" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/main_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/main_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performa
 data-pswp-width="3000"
 data-pswp-height="1546" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/screens_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/screens_1_xst.jpg" alt="XPENG G6 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 </div>

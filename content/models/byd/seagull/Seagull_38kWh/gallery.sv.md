@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kw
 data-pswp-width="3000"
 data-pswp-height="2210" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/exterior_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/exterior_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kw
 data-pswp-width="3000"
 data-pswp-height="2210" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/exterior_2_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/exterior_2_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kw
 data-pswp-width="3000"
 data-pswp-height="2210" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/exterior_3_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/exterior_3_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kw
 data-pswp-width="2560"
 data-pswp-height="1371" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/interior_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/interior_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kw
 data-pswp-width="2300"
 data-pswp-height="1294" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/interior_2_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/interior_2_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kw
 data-pswp-width="3000"
 data-pswp-height="2210" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/main_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/main_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kw
 data-pswp-width="2400"
 data-pswp-height="1600" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/screens_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/screens_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kw
 data-pswp-width="2300"
 data-pswp-height="1414" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/secondrowseats_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/secondrowseats_1_xst.jpg" alt="BYD Seagull 38kWh" class="img-fluid " />
 		</a>
 	</div>
 </div>

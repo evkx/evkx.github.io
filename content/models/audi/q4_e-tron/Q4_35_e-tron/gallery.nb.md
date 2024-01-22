@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="1766" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/battery_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/battery_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/exterior_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/exterior_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/exterior_2_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/exterior_2_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="1913" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/exterior_3_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/exterior_3_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/frontseats_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/frontseats_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/frontseats_2_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/frontseats_2_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2003" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/headlights_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/headlights_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/interior_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/interior_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/main_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/main_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/screens_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/screens_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/secondrowseats_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/secondrowseats_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/secondrowseats_2_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/secondrowseats_2_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/technology_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/technology_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/trunk_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/trunk_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/trunk_2_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/trunk_2_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
 	</div>
 </div>

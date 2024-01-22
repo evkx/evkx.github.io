@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2000"
 data-pswp-height="1333" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/exterior_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/exterior_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2000"
 data-pswp-height="1333" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/exterior_2_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/exterior_2_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="3000"
 data-pswp-height="1822" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/exterior_3_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/exterior_3_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2560"
 data-pswp-height="1440" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/exterior_4_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/exterior_4_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2560"
 data-pswp-height="1440" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/interior_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/interior_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2560"
 data-pswp-height="1440" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/interior_2_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/interior_2_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2560"
 data-pswp-height="1440" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/main_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/main_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2560"
 data-pswp-height="1440" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/roof_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/roof_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="1256"
 data-pswp-height="836" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/screens_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/screens_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2560"
 data-pswp-height="1440" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/screens_2_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/screens_2_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2560"
 data-pswp-height="1440" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/screens_3_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/screens_3_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition
 data-pswp-width="2560"
 data-pswp-height="1440" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/secondrowseats_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/secondrowseats_1_xst.jpg" alt="Zeekr 009 ME Edition" class="img-fluid " />
 		</a>
 	</div>
 </div>

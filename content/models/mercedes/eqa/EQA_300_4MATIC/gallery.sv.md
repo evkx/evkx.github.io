@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/exterior_1_xst.jpg" alt="Mercedes-EQ EQA 300 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/exterior_1_xst.jpg" alt="Mercedes-EQ EQA 300 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/frontseats_1_xst.jpg" alt="Mercedes-EQ EQA 300 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/frontseats_1_xst.jpg" alt="Mercedes-EQ EQA 300 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/main_1_xst.jpg" alt="Mercedes-EQ EQA 300 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/main_1_xst.jpg" alt="Mercedes-EQ EQA 300 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/screens_1_xst.jpg" alt="Mercedes-EQ EQA 300 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/screens_1_xst.jpg" alt="Mercedes-EQ EQA 300 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 </div>

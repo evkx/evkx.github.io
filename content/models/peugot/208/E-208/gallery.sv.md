@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/exterio
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/exterior_1_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/exterior_1_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/frontse
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/frontseats_1_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/frontseats_1_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/headlig
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/headlights_1_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/headlights_1_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interio
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interior_1_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interior_1_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interio
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interior_2_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interior_2_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interio
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interior_3_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/interior_3_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1.
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/main_1_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/rearlig
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/rearlights_1_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/rearlights_1_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens_1_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens_1_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens
 data-pswp-width="3000"
 data-pswp-height="2142" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens_2_xst.jpg" alt="Peugot E-208" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/208/e-208/screens_2_xst.jpg" alt="Peugot E-208" class="img-fluid " />
 		</a>
 	</div>
 </div>

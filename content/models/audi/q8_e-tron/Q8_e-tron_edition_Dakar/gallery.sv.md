@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/charging_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/charging_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_2_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_2_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_3_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_3_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_4_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_4_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_5_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_5_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_6_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_6_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_7_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/dynamic_7_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_2_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_2_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_3_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_3_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_4_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_4_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_2_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_2_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/interior_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/interior_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/main_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/main_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/offroad_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/offroad_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/rearlights_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/rearlights_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/roofcargo_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/roofcargo_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/wheels_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/wheels_1_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -230,7 +230,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/wheels_2_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/q8_e-tron/q8_e-tron_edition_dakar/wheels_2_xst.jpg" alt="Audi Q8 e-tron edition Dakar" class="img-fluid " />
 		</a>
 	</div>
 </div>

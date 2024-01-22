@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/charg
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/charging_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/charging_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exter
 data-pswp-width="3000"
 data-pswp-height="2255" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exterior_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exterior_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exter
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exterior_2_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exterior_2_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exter
 data-pswp-width="3000"
 data-pswp-height="2245" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exterior_3_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/exterior_3_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/front
 data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/frontseats_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/frontseats_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/trunk
 data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/trunk_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/trunk_1_xst.jpg" alt="BMW i4 eDrive35" class="img-fluid " />
 		</a>
 	</div>
 </div>

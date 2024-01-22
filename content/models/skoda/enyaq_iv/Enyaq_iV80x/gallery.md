@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/charging_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/charging_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_3_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_3_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_4_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/exterior_4_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_3_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_3_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_4_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/frontseats_4_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_3_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/interior_3_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1749" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_3_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_3_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_4_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/screens_4_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_2_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv8
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_xst.jpg" alt="SKODA Enyaq iV80x" class="img-fluid " />
 		</a>
 	</div>
 </div>

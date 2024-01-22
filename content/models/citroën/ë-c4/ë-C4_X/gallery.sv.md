@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/e
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_1_xst.jpg" alt="Citroën ë-C4 X" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_1_xst.jpg" alt="Citroën ë-C4 X" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/e
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_2_xst.jpg" alt="Citroën ë-C4 X" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/exterior_2_xst.jpg" alt="Citroën ë-C4 X" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/h
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/headlights_1_xst.jpg" alt="Citroën ë-C4 X" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/headlights_1_xst.jpg" alt="Citroën ë-C4 X" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/m
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_xst.jpg" alt="Citroën ë-C4 X" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_xst.jpg" alt="Citroën ë-C4 X" class="img-fluid " />
 		</a>
 	</div>
 </div>

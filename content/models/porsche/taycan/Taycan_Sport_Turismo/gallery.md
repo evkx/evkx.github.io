@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/exterior_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/exterior_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/exterior_2_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/exterior_2_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/exterior_3_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/exterior_3_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/exterior_4_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/exterior_4_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/frontseats_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/frontseats_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/headlights_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/headlights_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/interior_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/interior_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/interior_2_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/interior_2_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/main_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/main_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/screens_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/screens_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="1912" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/secondrowseats_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/secondrowseats_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="1747" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/trunk_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/trunk_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="1747" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/trunk_2_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/trunk_2_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/wheels_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/wheels_1_xst.jpg" alt="Porsche Taycan Sport Turismo" class="img-fluid " />
 		</a>
 	</div>
 </div>

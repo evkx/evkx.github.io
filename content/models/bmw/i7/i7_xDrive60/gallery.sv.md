@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/exter
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/exterior_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/exterior_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/headl
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/headlights_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/headlights_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/headl
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/headlights_2_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/headlights_2_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/inter
 data-pswp-width="3000"
 data-pswp-height="1898" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/interior_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/interior_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/inter
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/interior_2_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/interior_2_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/scree
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/screens_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/screens_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/secon
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/secondrowseats_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/secondrowseats_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/secon
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/secondrowseats_2_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/secondrowseats_2_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/wheel
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/wheels_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/wheels_1_xst.jpg" alt="BMW i7 xDrive60" class="img-fluid " />
 		</a>
 	</div>
 </div>

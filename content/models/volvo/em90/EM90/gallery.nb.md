@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/camera_1
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/camera_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/camera_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior
 data-pswp-width="3000"
 data-pswp-height="2522" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_2_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_2_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_3_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_3_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior
 data-pswp-width="3000"
 data-pswp-height="2289" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_4_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_4_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior
 data-pswp-width="2000"
 data-pswp-height="1503" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_5_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/exterior_5_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/frontsea
 data-pswp-width="3000"
 data-pswp-height="1685" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/frontseats_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/frontseats_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/glassroo
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/glassroof_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/glassroof_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/glassroo
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/glassroof_2_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/glassroof_2_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/headligh
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/headlights_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/headlights_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/headligh
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/headlights_2_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/headlights_2_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior
 data-pswp-width="3000"
 data-pswp-height="1685" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior
 data-pswp-width="3000"
 data-pswp-height="1685" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_2_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_2_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_3_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_3_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_4_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_4_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_5_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/interior_5_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/main_1.j
 data-pswp-width="2000"
 data-pswp-height="1503" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/main_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/main_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/rearligh
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/rearlights_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/rearlights_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_
 data-pswp-width="3000"
 data-pswp-height="1685" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_2_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_2_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_3_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_3_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_4_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/screens_4_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondro
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondrowseats_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondrowseats_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondro
 data-pswp-width="3000"
 data-pswp-height="1685" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondrowseats_2_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondrowseats_2_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -230,7 +230,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondro
 data-pswp-width="3000"
 data-pswp-height="1685" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondrowseats_3_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/secondrowseats_3_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -239,7 +239,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/speakers
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/speakers_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/speakers_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -248,7 +248,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/em90/em90/wheels_1
 data-pswp-width="3000"
 data-pswp-height="1685" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/wheels_1_xst.jpg" alt="Volvo EM90" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/wheels_1_xst.jpg" alt="Volvo EM90" class="img-fluid " />
 		</a>
 	</div>
 </div>

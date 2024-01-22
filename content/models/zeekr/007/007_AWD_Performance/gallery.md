@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1536" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/drivetrain_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/drivetrain_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1296" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_10_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_10_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_2_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_2_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_3_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_3_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_4_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_4_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_5_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_5_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1366" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_7_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_7_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1366" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_8_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_8_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1150" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_9_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/exterior_9_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/frontseats_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/frontseats_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/interior_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/interior_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1326" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/main_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/main_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/rearlights_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/rearlights_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/screens_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/screens_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/secondrowseats_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/secondrowseats_1_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_perfor
 data-pswp-width="2048"
 data-pswp-height="1152" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/secondrowseats_2_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/007/007_awd_performance/secondrowseats_2_xst.jpg" alt="Zeekr 007 AWD Performance" class="img-fluid " />
 		</a>
 	</div>
 </div>

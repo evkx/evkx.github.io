@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exter
 data-pswp-width="1920"
 data-pswp-height="950" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exterior_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exterior_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exter
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exterior_2_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exterior_2_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exter
 data-pswp-width="1920"
 data-pswp-height="950" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exterior_3_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/exterior_3_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/front
 data-pswp-width="1920"
 data-pswp-height="1081" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/frontseats_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/frontseats_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/front
 data-pswp-width="3000"
 data-pswp-height="1930" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/frontseats_2_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/frontseats_2_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/front
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/frontseats_3_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/frontseats_3_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/inter
 data-pswp-width="1920"
 data-pswp-height="950" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/inter
 data-pswp-width="3000"
 data-pswp-height="1881" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_2_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_2_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/inter
 data-pswp-width="3000"
 data-pswp-height="1965" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_3_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_3_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/inter
 data-pswp-width="1920"
 data-pswp-height="1081" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_4_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_4_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/inter
 data-pswp-width="1920"
 data-pswp-height="1081" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_5_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/interior_5_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/main_
 data-pswp-width="3000"
 data-pswp-height="1484" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/main_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/main_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/rearl
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/rearlights_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/rearlights_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/roof_
 data-pswp-width="1920"
 data-pswp-height="950" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/roof_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/roof_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/scree
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/screens_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/screens_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/sound
 data-pswp-width="1920"
 data-pswp-height="1081" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/soundsystem_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/soundsystem_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/wheel
 data-pswp-width="2400"
 data-pswp-height="1360" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/wheels_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/wheels_1_xst.jpg" alt="Neta GT 580 AWD" class="img-fluid " />
 		</a>
 	</div>
 </div>

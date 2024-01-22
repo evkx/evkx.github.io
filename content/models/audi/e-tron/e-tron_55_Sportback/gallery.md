@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/exterior_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/exterior_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/exterior_2_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/exterior_2_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/frontseats_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/frontseats_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/headlights_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/headlights_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="1991" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/main_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/main_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/screens_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/screens_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/screens_2_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/screens_2_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/secondrowseats_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/secondrowseats_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/trunk_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/trunk_1_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/trunk_2_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/trunk_2_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/trunk_3_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/trunk_3_xst.jpg" alt="Audi e-tron 55 Sportback" class="img-fluid " />
 		</a>
 	</div>
 </div>

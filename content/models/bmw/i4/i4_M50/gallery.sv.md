@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1_xst.jpg" alt="BMW i4 M50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/charging_1_xst.jpg" alt="BMW i4 M50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1_xst.jpg" alt="BMW i4 M50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_1_xst.jpg" alt="BMW i4 M50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_2
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_2_xst.jpg" alt="BMW i4 M50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/exterior_2_xst.jpg" alt="BMW i4 M50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/frontseats
 data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/frontseats_1_xst.jpg" alt="BMW i4 M50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/frontseats_1_xst.jpg" alt="BMW i4 M50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/interior_1
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/interior_1_xst.jpg" alt="BMW i4 M50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/interior_1_xst.jpg" alt="BMW i4 M50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1.jpg
 data-pswp-width="3000"
 data-pswp-height="2502" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_xst.jpg" alt="BMW i4 M50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_xst.jpg" alt="BMW i4 M50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/screens_1.
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/screens_1_xst.jpg" alt="BMW i4 M50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/screens_1_xst.jpg" alt="BMW i4 M50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/wheels_1.j
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/wheels_1_xst.jpg" alt="BMW i4 M50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/wheels_1_xst.jpg" alt="BMW i4 M50" class="img-fluid " />
 		</a>
 	</div>
 </div>

@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/ex
 data-pswp-width="1920"
 data-pswp-height="1012" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/ex
 data-pswp-width="1920"
 data-pswp-height="1012" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_2_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_2_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/ex
 data-pswp-width="2048"
 data-pswp-height="1366" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_3_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_3_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/ex
 data-pswp-width="2048"
 data-pswp-height="1366" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_4_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_4_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/ex
 data-pswp-width="2048"
 data-pswp-height="1366" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_5_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/exterior_5_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/fr
 data-pswp-width="2016"
 data-pswp-height="1512" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/frunk_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/frunk_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/in
 data-pswp-width="1580"
 data-pswp-height="778" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/interior_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/interior_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/ma
 data-pswp-width="2560"
 data-pswp-height="1707" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/main_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/sc
 data-pswp-width="2560"
 data-pswp-height="1707" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_1_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/sc
 data-pswp-width="2560"
 data-pswp-height="1707" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_2_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/seres/5/5_4wd_premium/screens_2_xst.jpg" alt="Seres 5 4WD Premium" class="img-fluid " />
 		</a>
 	</div>
 </div>

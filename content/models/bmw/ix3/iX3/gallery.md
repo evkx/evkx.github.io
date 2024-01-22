@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/centerconsol
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/centerconsol_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/centerconsol_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1.j
 data-pswp-width="3000"
 data-pswp-height="2070" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/charging_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_1.j
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_2.j
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_2_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/exterior_2_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/firstrowseat
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/firstrowseats_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/firstrowseats_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1.jp
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_2.jp
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_2_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_2_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_3.jp
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_3_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_3_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_4.jp
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_4_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/screens_4_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/secondrowsea
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/secondrowseats_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/secondrowseats_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_2.jpg"
 data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_2_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/trunk_2_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/wheels_1.jpg
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/wheels_1_xst.jpg" alt="BMW iX3" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/wheels_1_xst.jpg" alt="BMW iX3" class="img-fluid " />
 		</a>
 	</div>
 </div>

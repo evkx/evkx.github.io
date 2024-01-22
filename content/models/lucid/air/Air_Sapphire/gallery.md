@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/d
 data-pswp-width="3000"
 data-pswp-height="1603" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/drivetrain_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/drivetrain_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_10_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_10_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_3_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_3_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_4_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_4_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_5_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_5_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_6_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_6_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_7_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_7_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_8_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_8_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/e
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_9_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/exterior_9_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/f
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frontseats_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frontseats_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/f
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frontseats_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frontseats_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/f
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frontseats_3_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frontseats_3_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/f
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frunk_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/frunk_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/h
 data-pswp-width="3000"
 data-pswp-height="2037" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/headlights_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/headlights_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/i
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/interior_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/interior_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/i
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/interior_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/interior_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/m
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/r
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/rearlights_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/rearlights_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/r
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/rearmotor_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/rearmotor_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/s
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/s
 data-pswp-width="2000"
 data-pswp-height="1499" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/s
 data-pswp-width="2000"
 data-pswp-height="1499" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_3_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_3_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -230,7 +230,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/s
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_4_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/screens_4_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -239,7 +239,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/s
 data-pswp-width="3000"
 data-pswp-height="2077" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/secondrowseats_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/secondrowseats_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -248,7 +248,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/s
 data-pswp-width="3000"
 data-pswp-height="2020" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/secondrowseats_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/secondrowseats_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -257,7 +257,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/t
 data-pswp-width="2000"
 data-pswp-height="1334" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/trunk_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/trunk_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -266,7 +266,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/w
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/wheels_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/wheels_1_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -275,7 +275,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/w
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/wheels_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/wheels_2_xst.jpg" alt="Lucid Air Sapphire" class="img-fluid " />
 		</a>
 	</div>
 </div>

@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/exterior_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/exterior_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/exterior_2_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/exterior_2_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/frontseats_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/frontseats_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/headlight_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/headlight_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/main_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/main_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/screens_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/screens_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/screens_2_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/screens_2_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/screens_3_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/screens_3_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/secondrowseats_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/secondrowseats_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/thirdrowseats_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/thirdrowseats_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/trunk_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/trunk_1_xst.jpg" alt="Mercedes-EQ EQS 450 4MATIC SUV" class="img-fluid " />
 		</a>
 	</div>
 </div>

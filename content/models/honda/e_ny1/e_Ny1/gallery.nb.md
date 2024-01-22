@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exteri
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exteri
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_2_xst.jpg" alt="Honda e:Ny1" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_2_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/headli
 data-pswp-width="3000"
 data-pswp-height="1819" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/headlights_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/headlights_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/screen
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/screens_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/screens_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/trunk_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/trunk_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/trunk_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/wheels
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/wheels_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/wheels_1_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
 		</a>
 	</div>
 </div>

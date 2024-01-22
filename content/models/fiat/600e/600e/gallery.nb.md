@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_1_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_1_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_2_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_2_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_3_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/exterior_3_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseat
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseats_1_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseats_1_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseat
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseats_2_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/frontseats_2_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/headlight
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/headlights_1_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/headlights_1_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/interior_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/interior_1_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/interior_1_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1.jp
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_1
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_1_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_1_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_2
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_2_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/screens_2_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/fiat/600e/600e/trunk_1.j
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/trunk_1_xst.jpg" alt="Fiat 600e" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/trunk_1_xst.jpg" alt="Fiat 600e" class="img-fluid " />
 		</a>
 	</div>
 </div>

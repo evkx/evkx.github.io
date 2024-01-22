@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/charging_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/charging_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/exterior_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/exterior_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/exterior_2_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/exterior_2_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/exterior_3_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/exterior_3_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/frontseats_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/frontseats_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/frontseats_2_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/frontseats_2_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/frunk_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/frunk_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/headlights_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/headlights_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/rearlights_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/rearlights_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/screens_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/screens_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/screens_2_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/screens_2_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/screens_3_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/screens_3_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/secondrowseats_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/secondrowseats_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/trunk_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/trunk_1_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/trunk_2_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/trunk_2_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_t
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/trunk_3_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/trunk_3_xst.jpg" alt="Volvo C40 Recharge Twin Motor" class="img-fluid " />
 		</a>
 	</div>
 </div>

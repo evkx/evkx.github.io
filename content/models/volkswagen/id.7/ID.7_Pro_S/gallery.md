@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/charging_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/charging_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_3_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_3_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_4_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_4_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_5_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/exterior_5_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/frontseats_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/frontseats_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2125" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/frontseats_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/frontseats_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/frontseats_3_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/frontseats_3_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/headlights_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/headlights_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/headlights_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/headlights_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/interior_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/interior_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/interior_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/interior_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/main_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/main_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/rearlights_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/rearlights_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/screens_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/screens_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/screens_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/screens_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/secondrowseats_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/secondrowseats_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/secondrowseats_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/secondrowseats_2_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/trunk_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/trunk_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/wheels_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/wheels_1_xst.jpg" alt="Volkswagen ID.7 Pro S" class="img-fluid " />
 		</a>
 	</div>
 </div>

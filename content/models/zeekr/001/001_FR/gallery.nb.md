@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/brakes_
 data-pswp-width="3000"
 data-pswp-height="3000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/brakes_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/brakes_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/detail_
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/detail_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/detail_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/drivetr
 data-pswp-width="3000"
 data-pswp-height="3000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/drivetrain_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/drivetrain_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_2_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_2_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_3_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_3_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_4_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_4_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_5_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_5_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_6_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_6_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_7_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/dynamic_7_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterio
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterio
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_2_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_2_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterio
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_3_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_3_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterio
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_4_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_4_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterio
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_5_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_5_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterio
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_6_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_6_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterio
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_7_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/exterior_7_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/frontse
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/frontseats_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/frontseats_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/hud_1.j
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/hud_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/hud_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/interio
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/interior_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/interior_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/lidar_1
 data-pswp-width="3000"
 data-pswp-height="3000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/lidar_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/lidar_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1.
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/rearlig
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/rearlights_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/rearlights_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens
 data-pswp-width="3000"
 data-pswp-height="3000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -230,7 +230,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens
 data-pswp-width="1280"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens_2_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens_2_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -239,7 +239,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens
 data-pswp-width="3000"
 data-pswp-height="3000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens_3_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/screens_3_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -248,7 +248,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/steerin
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/steeringwheel_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/steeringwheel_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -257,7 +257,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/suspens
 data-pswp-width="3000"
 data-pswp-height="3000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/suspension_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/suspension_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -266,7 +266,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/torquev
 data-pswp-width="3000"
 data-pswp-height="3000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/torquevectoring_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/torquevectoring_1_xst.jpg" alt="Zeekr 001 FR" class="img-fluid " />
 		</a>
 	</div>
 </div>

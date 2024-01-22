@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/charging_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/charging_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/frontseats_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/frontseats_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/main_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/main_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/screens_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/screens_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/trunk_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/trunk_1_xst.jpg" alt="Mercedes-EQ EQE 350+" class="img-fluid " />
 		</a>
 	</div>
 </div>

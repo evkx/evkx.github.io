@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="1711" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_2_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_2_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_3_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_3_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="1886" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_4_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_4_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="1680" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_5_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/exterior_5_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="2110" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/frontseats_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/frontseats_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="1976" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/headlights_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/headlights_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/main_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boo
 data-pswp-width="3000"
 data-pswp-height="1714" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/screens_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/cupra/born/born_58_e-boost/screens_1_xst.jpg" alt="CUPRA BORN 58 e-BOOST" class="img-fluid " />
 		</a>
 	</div>
 </div>

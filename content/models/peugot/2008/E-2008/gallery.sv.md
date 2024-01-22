@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/exter
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/exterior_1_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/exterior_1_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/exter
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/exterior_2_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/exterior_2_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/glass
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/glassroof_1_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/glassroof_1_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/headl
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/headlights_1_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/headlights_1_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/inter
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/interior_1_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/interior_1_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/main_1_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/scree
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/screens_1_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/screens_1_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/scree
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/screens_2_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/screens_2_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/scree
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/screens_3_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/screens_3_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/trunk
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/trunk_1_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/trunk_1_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/trunk
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/trunk_2_xst.jpg" alt="Peugot E-2008" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/peugot/2008/e-2008/trunk_2_xst.jpg" alt="Peugot E-2008" class="img-fluid " />
 		</a>
 	</div>
 </div>

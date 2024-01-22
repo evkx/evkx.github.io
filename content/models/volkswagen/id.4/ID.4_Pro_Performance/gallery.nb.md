@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="1765" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/charging_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/charging_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/exterior_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/exterior_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/exterior_2_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/exterior_2_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/exterior_3_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/exterior_3_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/frontseats_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/frontseats_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/gearshifter_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/gearshifter_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/headlights_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/headlights_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/interior_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/interior_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="1666" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/keyfob_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/keyfob_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="1828" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/main_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/main_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/screens_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/screens_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/secondrowseats_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/secondrowseats_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/taillights_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/taillights_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/trunk_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/trunk_1_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/trunk_2_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/trunk_2_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/trunk_3_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/trunk_3_xst.jpg" alt="Volkswagen ID.4 Pro Performance" class="img-fluid " />
 		</a>
 	</div>
 </div>

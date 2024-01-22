@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/charg
 data-pswp-width="3000"
 data-pswp-height="2032" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/charging_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/charging_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/exter
 data-pswp-width="3000"
 data-pswp-height="1399" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/exterior_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/exterior_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/exter
 data-pswp-width="3000"
 data-pswp-height="1682" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/exterior_2_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/exterior_2_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/front
 data-pswp-width="3000"
 data-pswp-height="2256" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/frontseats_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/frontseats_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/headl
 data-pswp-width="3000"
 data-pswp-height="1467" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/headlights_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/headlights_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/inter
 data-pswp-width="3000"
 data-pswp-height="1676" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/interior_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/interior_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_
 data-pswp-width="3000"
 data-pswp-height="1486" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/scree
 data-pswp-width="3000"
 data-pswp-height="2052" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/screens_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/screens_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/secon
 data-pswp-width="3000"
 data-pswp-height="2287" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/secondrowseats_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/secondrowseats_1_xst.jpg" alt="HiPhi Z 4 Seater" class="img-fluid " />
 		</a>
 	</div>
 </div>

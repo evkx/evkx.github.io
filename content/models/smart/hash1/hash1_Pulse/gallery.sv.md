@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/charging_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/charging_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/doors_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/doors_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="2246" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_2_xst.jpg" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_2_xst.jpg" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_3_xst.png" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_3_xst.png" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/interior_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/interior_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/roof_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/roof_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/screens_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/screens_1_xst.jpg" alt="Smart #1 Pulse" class="img-fluid " />
 		</a>
 	</div>
 </div>

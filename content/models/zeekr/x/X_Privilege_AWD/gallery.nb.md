@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_2_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_2_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_3_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_3_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="1504"
 data-pswp-height="1128" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_4_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/exterior_4_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/frontseats_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/frontseats_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/frunk_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/frunk_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/headlights_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/headlights_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="2280"
 data-pswp-height="1282" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="1504"
 data-pswp-height="1128" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_2_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_2_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="2280"
 data-pswp-height="1282" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_3_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_3_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_4_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/screens_4_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/secondrowseats_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/secondrowseats_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/soundsystem_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/soundsystem_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/trunk_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/trunk_1_xst.jpg" alt="Zeekr X Privilege AWD" class="img-fluid " />
 		</a>
 	</div>
 </div>

@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/chargeport_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/chargeport_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="1800" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2040" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_2_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_2_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_3_xst.png" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_3_xst.png" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_4_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_4_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_5_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_5_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_6_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_6_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_7_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/exterior_7_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="1500" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/main_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/main_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/rearlights_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/rearlights_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="1535" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/screens_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/screens_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/v2l_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv70/electrified_gv70/v2l_1_xst.jpg" alt="Genesis Electrified GV70" class="img-fluid " />
 		</a>
 	</div>
 </div>

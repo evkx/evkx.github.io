@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/ex
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_1_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_1_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/ex
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_2_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_2_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/ex
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_3_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_3_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/ex
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_4_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_4_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/ex
 data-pswp-width="3000"
 data-pswp-height="2279" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_5_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_5_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/ex
 data-pswp-width="3000"
 data-pswp-height="2279" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_6_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/exterior_6_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/in
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/interior_1_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/interior_1_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/in
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/interior_2_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/interior_2_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/in
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/interior_3_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/interior_3_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/in
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/interior_4_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/interior_4_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/ma
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/sc
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/screens_1_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/screens_1_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/sc
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/screens_2_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/screens_2_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/se
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/secondrowseats_1_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/secondrowseats_1_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/tr
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/trunk_1_xst.jpg" alt="Tesla Model S" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/trunk_1_xst.jpg" alt="Tesla Model S" class="img-fluid " />
 		</a>
 	</div>
 </div>

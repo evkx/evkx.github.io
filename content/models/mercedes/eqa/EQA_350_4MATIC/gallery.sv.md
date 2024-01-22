@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/charging_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4ma
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4ma
 data-pswp-width="3000"
 data-pswp-height="3949" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_2_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/exterior_2_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/frontseats_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/lights_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/lights_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4ma
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4ma
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/screens_1_xst.jpg" alt="Mercedes-EQ EQA 350 4MATIC" class="img-fluid " />
 		</a>
 	</div>
 </div>

@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/ext
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/exterior_1_xst.jpg" alt="Mercedes-EQ EQA 250" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/exterior_1_xst.jpg" alt="Mercedes-EQ EQA 250" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/fro
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1_xst.jpg" alt="Mercedes-EQ EQA 250" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/frontseats_1_xst.jpg" alt="Mercedes-EQ EQA 250" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/mai
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_xst.jpg" alt="Mercedes-EQ EQA 250" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_xst.jpg" alt="Mercedes-EQ EQA 250" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/scr
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1_xst.jpg" alt="Mercedes-EQ EQA 250" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/screens_1_xst.jpg" alt="Mercedes-EQ EQA 250" class="img-fluid " />
 		</a>
 	</div>
 </div>

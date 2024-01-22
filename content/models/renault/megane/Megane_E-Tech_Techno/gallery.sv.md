@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2134" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/charging_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/charging_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_2_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_2_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_3_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_3_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_4_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_4_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_5_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_5_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_6_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_6_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="1920"
 data-pswp-height="1080" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/frontseats_1_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/frontseats_1_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/frontseats_2.jpg_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/frontseats_2.jpg_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/headlights_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/headlights_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_2_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_2_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_3_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_3_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_4_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_4_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_5_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_5_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/rearlights_1_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/rearlights_1_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/rearlights_2_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/rearlights_2_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="2400"
 data-pswp-height="1256" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_2_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_2_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_3_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_3_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/secondrowseats_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/secondrowseats_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/soundsystem_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/soundsystem_1_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_1_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_1_xst.jpg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -230,7 +230,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_2_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_2_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -239,7 +239,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_3_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_3_xst.jpeg" alt="Renault Megane E-Tech Techno" class="img-fluid " />
 		</a>
 	</div>
 </div>

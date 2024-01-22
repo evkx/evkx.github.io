@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/exterior_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus
 data-pswp-width="3000"
 data-pswp-height="4085" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/frontseats_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_2_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/secondrowseats_2_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/trunk_1_xst.jpg" alt="Mercedes-EQ EQS 450+" class="img-fluid " />
 		</a>
 	</div>
 </div>

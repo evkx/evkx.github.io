@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/exterior_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/exterior_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/headlights_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/headlights_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/interior_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/interior_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/interior_2_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/interior_2_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/interior_3_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/interior_3_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2776" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_2_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_2_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_3_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/screens_3_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_m
 data-pswp-width="3000"
 data-pswp-height="2251" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_xst.jpg" alt="Volvo EX30 Single Motor Extended Range" class="img-fluid " />
 		</a>
 	</div>
 </div>

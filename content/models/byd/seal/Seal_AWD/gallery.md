@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/doorha
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/doorhandle_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/doorhandle_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exteri
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exteri
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_2_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_2_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exteri
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_5_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/exterior_5_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/fronts
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frontseats_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frontseats_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frunk_
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frunk_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/frunk_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/headli
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/headlights_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/headlights_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/interi
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/interior_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/interior_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/interi
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/interior_2_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/interior_2_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/rearli
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/rearlights_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/rearlights_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screen
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screen
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_2_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_2_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screen
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_3_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_3_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screen
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_4_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_4_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screen
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_5_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_5_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screen
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_6_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/screens_6_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/second
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/secondrowseats_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/secondrowseats_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/sounds
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/soundsystem_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/soundsystem_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/wheels
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/wheels_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/wheels_1_xst.jpg" alt="BYD Seal AWD" class="img-fluid " />
 		</a>
 	</div>
 </div>

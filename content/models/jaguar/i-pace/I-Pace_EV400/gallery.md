@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/charging_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/charging_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1774" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/charging_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/charging_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/doors_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/doors_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_3_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_3_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_4_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_4_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_5_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_5_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_6_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_6_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_7_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/exterior_7_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1946" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/frontseats_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/frontseats_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/frontseats_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/frontseats_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/headlights_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/headlights_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1993" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/headlights_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/headlights_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1689" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/interior_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/interior_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/interior_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/interior_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/main_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/main_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1686" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/rearlights_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/rearlights_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="2560"
 data-pswp-height="1632" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/screens_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/screens_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/screens_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/screens_2_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1958" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/suspension_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/suspension_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1556" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/trunk_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/trunk_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -221,7 +221,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev4
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/wheels_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/wheels_1_xst.jpg" alt="Jaguar I-Pace EV400" class="img-fluid " />
 		</a>
 	</div>
 </div>

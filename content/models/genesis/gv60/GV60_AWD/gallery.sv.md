@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/dr
 data-pswp-width="1500"
 data-pswp-height="1000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/driving_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/driving_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="1500"
 data-pswp-height="1124" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_10_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_10_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="2121" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_2_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_2_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_3_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_3_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_4_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_4_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_5_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_5_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_6_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_6_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="2003" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_7_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_7_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_8_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_8_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ex
 data-pswp-width="3000"
 data-pswp-height="2251" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_9_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/exterior_9_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/fr
 data-pswp-width="1500"
 data-pswp-height="1090" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/frontseats_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/frontseats_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/he
 data-pswp-width="1387"
 data-pswp-height="780" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/headlights_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/headlights_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/in
 data-pswp-width="3000"
 data-pswp-height="1473" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/interior_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/interior_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/in
 data-pswp-width="1430"
 data-pswp-height="955" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/interior_2_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/interior_2_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/ma
 data-pswp-width="3000"
 data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/main_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/main_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/re
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/rearlights_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/rearlights_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/sc
 data-pswp-width="3000"
 data-pswp-height="1796" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/screens_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/screens_1_xst.jpg" alt="Genesis GV60 AWD" class="img-fluid " />
 		</a>
 	</div>
 </div>

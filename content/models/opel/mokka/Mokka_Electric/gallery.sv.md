@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/charging_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/charging_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1371" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/detail_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/detail_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/dreivetrain_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/dreivetrain_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1200" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_2_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_2_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_3_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_3_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_4_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_4_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1200" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_5_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_5_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1371" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/frontseats_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/frontseats_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/main_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/main_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/rearlights_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/rearlights_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electri
 data-pswp-width="1920"
 data-pswp-height="1280" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/screens_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/screens_1_xst.jpeg" alt="Opel Mokka Electric" class="img-fluid " />
 		</a>
 	</div>
 </div>

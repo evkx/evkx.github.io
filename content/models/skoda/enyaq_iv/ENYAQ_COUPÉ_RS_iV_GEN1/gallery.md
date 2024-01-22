@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/charging_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/charging_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/exterior_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/exterior_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/exterior_2_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/exterior_2_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/frontseats_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/frontseats_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/frontseats_2_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/frontseats_2_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/interior_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/interior_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/interior_2_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/interior_2_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/interior_3_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/interior_3_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/interior_4_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/interior_4_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/screens_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/screens_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/secondrowseats_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/secondrowseats_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_1_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_2_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_2_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_cou
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_3_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_3_xst.jpg" alt="SKODA ENYAQ COUPÉ RS iV (GEN1)" class="img-fluid " />
 		</a>
 	</div>
 </div>

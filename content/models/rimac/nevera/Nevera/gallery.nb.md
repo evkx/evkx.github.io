@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/door
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/doors_1_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/doors_1_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/door
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/doors_2_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/doors_2_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/door
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/doors_3_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/doors_3_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_1_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_1_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_2_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_2_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_3_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_3_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_4_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_4_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_5_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_5_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_6_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_6_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_7_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_7_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_8_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_8_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_9_xst.jpeg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/exterior_9_xst.jpeg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/fron
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/frontseats_1_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/frontseats_1_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/fron
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/frontseats_2_xst.jpeg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/frontseats_2_xst.jpeg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/head
 data-pswp-width="3000"
 data-pswp-height="2002" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/headlights_1_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/headlights_1_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/inte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/interior_1_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/interior_1_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/inte
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/interior_2_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/interior_2_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -167,7 +167,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/inte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/interior_3_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/interior_3_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -176,7 +176,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/inte
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/interior_4_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/interior_4_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -185,7 +185,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/main
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/main_1_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/main_1_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -194,7 +194,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/rear
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/rearlights_1_xst.jpeg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/rearlights_1_xst.jpeg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -203,7 +203,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/scre
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/screens_1_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/screens_1_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -212,7 +212,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/whee
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/wheels_1_xst.jpg" alt="Rimac Nevera" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/rimac/nevera/nevera/wheels_1_xst.jpg" alt="Rimac Nevera" class="img-fluid " />
 		</a>
 	</div>
 </div>

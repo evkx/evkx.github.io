@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/ex
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/exterior_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/exterior_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/fr
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/frontseats_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/frontseats_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/he
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/headlights_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/in
 data-pswp-width="3000"
 data-pswp-height="2249" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/interior_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/interior_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/ma
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/sc
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/screens_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/screens_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/tr
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/trunk_1_xst.jpg" alt="Audi e-tron 55" class="img-fluid " />
 		</a>
 	</div>
 </div>

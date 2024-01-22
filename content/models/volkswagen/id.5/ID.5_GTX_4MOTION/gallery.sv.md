@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/exterior_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/exterior_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/exterior_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/exterior_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/exterior_3_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/exterior_3_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/frontseats_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/frontseats_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/frontseats_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/frontseats_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2400" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/headlights_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/headlights_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/interior_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/interior_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/interior_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/interior_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2206" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/screens_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/screens_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/screens_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/screens_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/screens_3_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/screens_3_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2061" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/secondrowseats_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/secondrowseats_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_2_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -149,7 +149,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_3_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_3_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -158,7 +158,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_4_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/trunk_4_xst.jpg" alt="Volkswagen ID.5 GTX 4MOTION" class="img-fluid " />
 		</a>
 	</div>
 </div>

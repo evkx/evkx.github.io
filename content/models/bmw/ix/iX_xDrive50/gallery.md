@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/exter
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/exterior_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/exterior_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/front
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/frontseat_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/frontseat_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/front
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/frontseat_2_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/frontseat_2_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/inter
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/interior_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/interior_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/main_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/rears
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/rearseat_1_mt.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/rearseat_1_mt.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/rears
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/rearseat_2_mt.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/rearseat_2_mt.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/scree
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/screens_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/screens_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/secon
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/secondrowseats_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/secondrowseats_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/secon
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/secondrowseats_2_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/secondrowseats_2_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/trunk
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/trunk_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/ix/ix_xdrive50/trunk_1_xst.jpg" alt="BMW iX xDrive50" class="img-fluid " />
 		</a>
 	</div>
 </div>

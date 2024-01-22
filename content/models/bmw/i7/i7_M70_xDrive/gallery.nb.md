@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/ext
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/ext
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_2_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_2_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/ext
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_3_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_3_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/ext
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_4_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_4_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/ext
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_5_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_5_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/fro
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/hea
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/int
 data-pswp-width="3000"
 data-pswp-height="2001" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/interior_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/interior_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/mai
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rea
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rearlights_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rearlights_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/scr
 data-pswp-width="3000"
 data-pswp-height="1991" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/whe
 data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/wheels_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/wheels_1_xst.jpg" alt="BMW i7 M70 xDrive" class="img-fluid " />
 		</a>
 	</div>
 </div>

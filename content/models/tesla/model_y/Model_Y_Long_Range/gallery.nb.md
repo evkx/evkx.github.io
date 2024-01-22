@@ -14,7 +14,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2455" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -23,7 +23,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="2829"
 data-pswp-height="1623" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_2_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_2_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -32,7 +32,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="1921"
 data-pswp-height="1237" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_3_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_3_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -41,7 +41,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="1796"
 data-pswp-height="1054" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_4_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/exterior_4_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -50,7 +50,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/frontseats_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/frontseats_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -59,7 +59,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="1998" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/interior_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/interior_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -68,7 +68,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -77,7 +77,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="1800" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -86,7 +86,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_2_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_2_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -95,7 +95,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_3_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/screens_3_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -104,7 +104,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/seats_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/seats_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -113,7 +113,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/secondrowseats_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/secondrowseats_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -122,7 +122,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/thirdrowseats_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/thirdrowseats_1_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -131,7 +131,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/thirdrowseats_2_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/thirdrowseats_2_xst.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -140,7 +140,7 @@ data-pswp-src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_lo
 data-pswp-width="3000"
 data-pswp-height="2250" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/transportation_1_mt.jpg" alt="Tesla Model Y Long Range" class="img-fluid img-thumbnail" />
+			<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/transportation_1_mt.jpg" alt="Tesla Model Y Long Range" class="img-fluid " />
 		</a>
 	</div>
 </div>
