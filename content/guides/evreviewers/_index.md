@@ -40,7 +40,9 @@ You can learn more about Bjørn Nyland in this podcast
 
 Bjørn Nyland live stream many of his tests in his [Teslabjorn Live channel](https://www.youtube.com/@TeslabjornLive24). You can also track him on [chargefinder](https://chargefinder.com/en/live/teslabjorn)
 
-Visit his Youtube Channel and subscribe [here](https://www.youtube.com/@bjornnyland).
+Visit his Youtube Channels and subscribe
+
+<a href="https://www.youtube.com/@bjornnyland" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Bjørn Nyland</a> <a href="https://www.youtube.com/@TeslabjornLive24" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Teslabjorn Live</a>
 
 ## Out of spec Reviews
 
@@ -63,12 +65,15 @@ The channel also covers other EV-related content, such as charging infrastructur
 Overall, Out of Spec Reviews provides a unique perspective on electric vehicles and is a great resource for anyone interested in the EV space.
 Out of Spec Reviews is also the only channel that does systematic tests of Advance Driver Assist Systems.
 
-Visit their channel and subscribe [here](https://www.youtube.com/@OutofSpecReviews/videos).
-
 Out of Spec Reviews is run by Kyle Connor and Out Spec Studios from [Fort Collins, Colorado, USA](https://www.google.com/maps/place/40%C2%B033'27.0%22N+105%C2%B004'37.2%22W/@40.5331224,-105.1267027,13.25z/data=!4m4!3m3!8m2!3d40.5575024!4d-105.077008?entry=ttu). He often starts his tests from this [Chargepoint](https://www.google.com/maps/place/ChargePoint+Charging+Station/@40.7034806,-105.0004959,257m/data=!3m1!1e3!4m14!1m7!3m6!1s0x876ecc9b0ba5b31f:0xb9b69e642f7600f5!2sKum+%26+Go!8m2!3d40.7032659!4d-104.9999047!16s%2Fg%2F1tf2sqgr!3m5!1s0x876ecc9b04d9a58f:0x5be3446e078f2509!8m2!3d40.703674!4d-104.999549!16s%2Fg%2F11ny1s37zh?entry=ttu)
 They even have their own DC Charger at  [CSU Powerhouse](https://www.google.com/maps/@40.5942626,-105.0753647,74m/data=!3m1!1e3?entry=ttu) 
 
 They have several other EV-related channels. Kyle also joins the [Batteries Included podcast](https://www.youtube.com/channel/UC8t6qd-ss-pTvi0bqVzYGog) that we recommend.
+
+Visit their channel and subscribe
+
+<a href="https://www.youtube.com/@OutofSpecReviews" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Out of Spec Reviews</a> <a href="https://www.youtube.com/@OutofSpecPodcast" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> 
+Out of Spec Podcast</a> <a href="https://www.youtube.com/@OutofSpecMotoring" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Out of Spec Motoring</a> 
 
 ## Autogefühl
 
