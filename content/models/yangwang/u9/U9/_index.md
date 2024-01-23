@@ -37,7 +37,7 @@ The battery has a gross capacity of 120kWh and a net capacity of 106,8kWh, meani
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 15.3kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 500kW. A full charge from 0 - 100% would take 34 minutes, while a more common scenario of 10-80% would take 16 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 71%, resulting in an actual charge speed, including time loss, of 222kW. Each charge session would take 20 minutes and 54 seconds.
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 67%, resulting in an actual charge speed, including time loss, of 137kW. Each charge session would take 30 minutes and 22 seconds.
 
 ### Onboard charger
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 YangWang U9 has an all-wheel drive system supported by four motors. One for each wheel. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 120 mm, and the maximum is 135 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 120 mm, and the maximum is 120 mm.
 
 ### Steering
 
@@ -132,7 +132,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The YangWang U9 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 13.8 inches large. The touch screen in front of the passenger in the dashboard is 8.8 inches large.
+The YangWang U9 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 10.0 inches large. The touch screen at the top of the center console is 11.0 inches large. The touch screen in front of the passenger in the dashboard is 10.0 inches large.
 The model does not have a head-up display.
 
 

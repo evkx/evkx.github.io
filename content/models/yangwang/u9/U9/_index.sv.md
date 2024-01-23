@@ -37,7 +37,7 @@ Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 106,8kWh, 
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 700 km ( miles). Förbrukningen är 15.3kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 500 kW. En full laddning från 0 - 100 % tar 34 minuter, medan ett vanligare scenario på 10-80 % tar 16 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 222kW. Varje laddningssession tar 20 minuter och 54 sekunder.
+Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 137kW. Varje laddningssession tar 30 minuter och 22 sekunder.
 
 ### Inbyggd laddare
 
@@ -55,7 +55,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 YangWang U9 har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hjul. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 120 mm, och maximal är 135 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 120 mm, och maximal är 120 mm.
 
 ### Styrning
 
@@ -132,7 +132,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-YangWang U9 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum. Skärmen touch översta mittkonsolen är 13.8 tum. Skärmen touch framför passageraren i instrumentbrädan är 8.8 tum.
+YangWang U9 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.0 tum. Skärmen touch översta mittkonsolen är 11.0 tum. Skärmen touch framför passageraren i instrumentbrädan är 10.0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

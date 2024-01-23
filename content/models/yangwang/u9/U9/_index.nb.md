@@ -37,7 +37,7 @@ Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 106,8kWh, n
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 700 km ( miles). Forbruket er 15.3kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 500 kW. En full lading fra 0 - 100 % vil ta 34 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 71%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 222kW. Hver ladeøkt vil ta 20 minutter og 54 sekunder.
+Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 137kW. Hver ladeøkt vil ta 30 minutter og 22 sekunder.
 
 ### Ombordlader
 
@@ -55,7 +55,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 YangWang U9 har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 120 mm, og maksimum er 135 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 120 mm, og maksimum er 120 mm.
 
 ### Styring
 
@@ -132,7 +132,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-YangWang U9 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen øverst på midtkonsollen er 13.8 tommer stor. touch-skjermen foran passasjeren i dashbordet er 8.8 tommer stor.
+YangWang U9 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 10.0 tommer stor. touch-skjermen øverst på midtkonsollen er 11.0 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10.0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

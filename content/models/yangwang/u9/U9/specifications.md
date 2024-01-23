@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				500 kW
+				200 kW
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +388,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				135 mm (5,3")
+				120 mm (4,7")
 			</td>
 		</tr>
 		<tr>
@@ -896,7 +896,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12,3
+				Yes, 10
 			</td>
 		</tr>
 		<tr>
@@ -904,7 +904,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 13,8"
+				Yes, 11"
 			</td>
 		</tr>
 		<tr>
@@ -912,7 +912,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 8,8"
+				Yes, 10"
 			</td>
 		</tr>
 		<tr>

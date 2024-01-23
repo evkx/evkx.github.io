@@ -134,7 +134,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				500 kW
+				200 kW
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +388,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				135 mm
+				120 mm
 			</td>
 		</tr>
 		<tr>
@@ -896,7 +896,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 10
 			</td>
 		</tr>
 		<tr>
@@ -904,7 +904,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 13,8
+				Ja, 11
 			</td>
 		</tr>
 		<tr>
@@ -912,7 +912,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Ja, 8,8"
+				Ja, 10"
 			</td>
 		</tr>
 		<tr>
