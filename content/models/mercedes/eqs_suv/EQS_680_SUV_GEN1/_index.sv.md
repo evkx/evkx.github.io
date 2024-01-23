@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV
-linktitle: "EQS 680 SUV"
-description: "Mercedes-Maybach EQS 680 SUV är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 612 km. EVKX.net har alla detaljer."
+linktitle: "EQS 680 SUV GEN1"
+description: "Mercedes-Maybach EQS 680 SUV är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ Mercedes-Maybach EQS 680 SUV har en maximal effekt på 484 KW (658hk). Totalt vr
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 125kWh och en nettokapacitet på 118kWh, vilket innebär att du har en 7kWh buffert för skydd. (5,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 108,4kWh, vilket innebär att du har en 11,6kWh buffert för skydd. (9,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 612 till 560 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19.3kWh/100 km för basversionen och 21.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 600 till 502 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.1kWh/100 km för basversionen och 21.6kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 89 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 144kW. Varje laddningssession tar 27 minuter och 31 sekunder.
+Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 82 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 142kW. Varje laddningssession tar 26 minuter och 41 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28,5kWh/100km, tar 1000km 9 timmar och 31 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 49%. Total tid som går förlorad för att ladda batteriet kommer att vara 71 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28,5kWh/100km, tar 1000km 9 timmar och 35 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 56%. Total tid som går förlorad för att ladda batteriet kommer att vara 76 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 10 timmar och 43 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 9 timmar och 51 minuter.
 
 ### Laddningsport
 

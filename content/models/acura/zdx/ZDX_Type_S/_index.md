@@ -66,7 +66,6 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 You can choose between 8 different paint colors when ordering this model.
-Additionally, you can choose between 3 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

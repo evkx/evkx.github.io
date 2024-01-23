@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV
-linktitle: "EQS 680 SUV"
-description: "Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a WLTP range of up to 612 km (380 miles). EVKX.net has all the details."
+linktitle: "EQS 680 SUV GEN1"
+description: "Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ The Mercedes-Maybach EQS 680 SUV has a maximum power of 484 KW (658 hp/649 bhp).
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 125kWh and a net capacity of 118kWh, meaning you have a 7kWh buffer for protection. (5,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 612 to 560 km (380-348 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.3kWh/100km for the basic version and 21.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 600 to 502 km (373-312 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 18.1kWh/100km for the basic version and 21.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 89 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 55%, resulting in an actual charge speed, including time loss, of 144kW. Each charge session would take 27 minutes and 31 seconds.
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57%, resulting in an actual charge speed, including time loss, of 142kW. Each charge session would take 26 minutes and 41 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 31 minutes. This trip will require three charge session(s) charging from 1% to 49%. The total time lost for charging up the battery will be 71 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 35 minutes. This trip will require three charge session(s) charging from 1% to 56%. The total time lost for charging up the battery will be 76 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 43 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes.
 
 ### Charge port
 

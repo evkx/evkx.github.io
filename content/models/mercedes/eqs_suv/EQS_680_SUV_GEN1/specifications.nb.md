@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				612 km
+				600 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				19,3 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				22,0 kWh/100km
+				22,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				560 km
+				502 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				21,1 kWh/100km
+				21,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				24,1 kwh/100km
+				24,4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				125 kWh
+				120 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				118 kWh
+				108,4 kWh
 			</td>
 		</tr>
 		<tr>

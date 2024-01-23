@@ -66,7 +66,6 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Du kan välja mellan 8 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 3 hjul i storlek från 20 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

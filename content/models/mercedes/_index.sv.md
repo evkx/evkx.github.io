@@ -100,7 +100,7 @@ Mercedes EQS är en lyxsedan tillgänglig i 5 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Mercedes EQS SUV är en lyx-SUV tillgänglig i 4 varianter.
+Mercedes EQS SUV är en lyx-SUV tillgänglig i 5 varianter.
 </p>
 	<a href="eqs_suv/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

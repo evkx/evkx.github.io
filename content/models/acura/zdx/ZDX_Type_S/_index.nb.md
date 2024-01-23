@@ -66,7 +66,6 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 20 til 22 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
