@@ -33,15 +33,15 @@ The YangWang U9 has a maximum power of 960 KW (1305 hp/1287 bhp). The total torq
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 106,8kWh, meaning you have a 13,2kWh buffer for protection. (11,0%).
+The battery has a gross capacity of 100kWh and a net capacity of 98kWh, meaning you have a 2kWh buffer for protection. (2,0%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 15.3kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 14.0kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 67%, resulting in an actual charge speed, including time loss, of 137kW. Each charge session would take 30 minutes and 22 seconds.
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 28 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 67%, resulting in an actual charge speed, including time loss, of 135kW. Each charge session would take 28 minutes and 17 seconds.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 51 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 27 minutes.
 
 ### Charge port
 

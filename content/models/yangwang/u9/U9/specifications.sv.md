@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				15,3 kWh/100km
+				14,0 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				120 kWh
+				100 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				106,8 kWh
+				98 kWh
 			</td>
 		</tr>
 		<tr>
@@ -139,18 +139,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Packkonfiguration
-			</td>
-			<td>
-				174s40p
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Nominell spänning
 			</td>
 			<td>
 				630
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				LFP
 			</td>
 		</tr>
 	</tbody>

@@ -43,7 +43,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				700 km / 435 mi 
 			</td>
 			<td>
-				15,26kWh/100km /  mi/kWh
+				14,00kWh/100km /  mi/kWh
 			</td>
 		</tr>
 	</tbody>
