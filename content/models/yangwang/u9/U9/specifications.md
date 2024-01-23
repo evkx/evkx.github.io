@@ -271,10 +271,18 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Drag coefficient
+				Track width front
 			</td>
 			<td>
-				0,3
+				1719 mm (67,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1676 mm (66,0")
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				100 liter (4 cu-ft)
+				200 liter (7 cu-ft)
 			</td>
 		</tr>
 	</tbody>

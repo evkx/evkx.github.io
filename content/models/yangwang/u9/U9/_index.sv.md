@@ -179,7 +179,7 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 100 liter. Bilens maximala vikt är 2625 kg, och med basvikten på 2475 kg kan du lasta maximalt 150 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmets kapacitet är 200 liter. Bilens maximala vikt är 2625 kg, och med basvikten på 2475 kg kan du lasta maximalt 150 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris

@@ -271,10 +271,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Dragkoefficient
+				Spårbredd fram
 			</td>
 			<td>
-				0,3
+				1719 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd bak
+			</td>
+			<td>
+				1676 mm
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +331,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				100 liter
+				200 liter
 			</td>
 		</tr>
 	</tbody>

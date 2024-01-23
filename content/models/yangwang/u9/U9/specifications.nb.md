@@ -271,10 +271,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Drag-koeffisient
+				Sporbredde foran
 			</td>
 			<td>
-				0,3
+				1719 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1676 mm
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +331,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				100 liter
+				200 liter
 			</td>
 		</tr>
 	</tbody>
