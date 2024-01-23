@@ -151,6 +151,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="xpeng"><img src="https://media.evkx.net/multimedia/models/xpeng/logo_xst.png" alt="XPENG" title="XPENG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="yangwang"><img src="https://media.evkx.net/multimedia/models/yangwang/logo_xst.png" alt="YangWang" title="YangWang" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="zeekr"><img src="https://media.evkx.net/multimedia/models/zeekr/logo_xst.png" alt="Zeekr" title="Zeekr" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 	</div>
@@ -672,6 +675,17 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	XPENG has 5 models with total 7 variants.
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Go to XPENG EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="yangwang/"><img src="https://media.evkx.net/multimedia/models/yangwang/brandevs_st.jpg" class="img-fluid mb-2" alt="YangWang" ></a>
+	<h2>YangWang</h2>
+	<p>
+		Yangwang is a Chinese luxury electric car brand owned by BYD Auto and marketed by Shenzhen Yangwang Auto Sales Co., Ltd. The brand was introduced in January 2023 and targets the high-end market segment with its innovative technology and design.
+	</p>
+	<p>
+	YangWang has 1 models with total 1 variants.
+	</p>
+	<a href="yangwang/" class="btn btn-outline-primary" role="button">Go to YangWang EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>

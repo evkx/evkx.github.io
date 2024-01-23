@@ -151,6 +151,9 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 			<a href="xpeng"><img src="https://media.evkx.net/multimedia/models/xpeng/logo_xst.png" alt="XPENG" title="XPENG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="yangwang"><img src="https://media.evkx.net/multimedia/models/yangwang/logo_xst.png" alt="YangWang" title="YangWang" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="zeekr"><img src="https://media.evkx.net/multimedia/models/zeekr/logo_xst.png" alt="Zeekr" title="Zeekr" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 	</div>
@@ -534,6 +537,14 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	XPENG har 5 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Gå til XPENG modelloversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="yangwang/"><img src="https://media.evkx.net/multimedia/models/yangwang/brandevs_st.jpg" class="img-fluid mb-2" alt="YangWang" ></a>
+	<h2>YangWang</h2>
+	<p>
+	YangWang har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="yangwang/" class="btn btn-outline-primary" role="button">Gå til YangWang modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>

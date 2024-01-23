@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-97a3663f
+  translation: YangWang U9 is an all-electric premium supercar with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details.
+
 - id: frontpage-description-6b690eca
   translation: Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a WLTP range of up to 612 km (380 miles). EVKX.net has all the details.
 
@@ -145,15 +148,12 @@
 - id: frontpage-description-cb116463
   translation: Opel Mokka Electric is an all-electric crossover with a WLTP range of up to 406 km (252 miles). EVKX.net has all the details.
 
-- id: frontpage-description-61792853
-  translation: Audi Q8 e-tron edition Dakar is an all-electric luxury SUV with a WLTP range of up to 487 km (303 miles). EVKX.net has all the details.
+- id: frontpage-description-cb116463
+  translation: Opel Mokka Electric is an all-electric crossover with a WLTP range of up to 406 km (252 miles). EVKX.net has all the details.
 
 - id: frontpage-description-61792853
   translation: Audi Q8 e-tron edition Dakar is an all-electric luxury SUV with a WLTP range of up to 487 km (303 miles). EVKX.net has all the details.
 
 - id: frontpage-description-fb8c6f67
   translation: XPENG X9 AWD Performance is an all-electric MPV with a CLTC range of up to 640 km (398 miles). EVKX.net has all the details.
-
-- id: frontpage-description-60ff15b1
-  translation: Volkswagen ID.7 Pro S is an all-electric sedan with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details.
 
