@@ -26,6 +26,12 @@ Vi har delat in vår beskrivning av Mercedes-Maybach EQS 680 SUV i avsnitt. Om d
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<div class="alert alert-secondary" role="alert">
+
+Denna modell har ersatts av [Mercedes EQS 680 SUV](/models/mercedes/eqs_suv/eqs_680_suv/).
+
+</div>
+
 
 ## Prestanda
 

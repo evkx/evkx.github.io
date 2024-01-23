@@ -26,6 +26,12 @@ We have separated our Mercedes-Maybach EQS 680 SUV article into sections. If you
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Mercedes EQS 680 SUV](/models/mercedes/eqs_suv/eqs_680_suv/).
+
+</div>
+
 
 ## Performance
 

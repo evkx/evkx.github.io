@@ -26,6 +26,12 @@ Vi har delt vår beskrivelse av Mercedes-Maybach EQS 680 SUV i seksjoner. Hvis d
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne modellen er erstattet av [Mercedes EQS 680 SUV](/models/mercedes/eqs_suv/eqs_680_suv/).
+
+</div>
+
 
 ## Ytelse
 
