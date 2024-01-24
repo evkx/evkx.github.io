@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Electric Rolls Royce Spectre is Ridiculous!</h3>
+<p>Auto Focus: 24.01.2024</p>
+
+{{< youtube WadEyilW5CI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Driving the Rolls-Royce Spectre! Will electric and Rolls match? REVIEW</h3>
+<p>Autogefühl: 24.01.2024</p>
+
+{{< youtube 9hhtcCmR8BU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2024 Rolls-Royce Spectre Review: $450,000 Ultra-Luxury Electric Car</h3>
 <p>Doug DeMuro: 19.12.2023</p>
 

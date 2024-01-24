@@ -49,3 +49,8 @@ Pickupbilar erbjuder möjligheten att transportera många olika typer av gods.
 Elfordon (EV) blir mer populära och praktiska för olika ändamål, inklusive bogsering. Men många människor kan ha frågor eller funderingar om elbilars prestanda och räckvidd när de drar en släpvagn.
 
 [Du kan läsa allt om det i vår bogseringssektion.](sleping/)
+
+<div class="mt-3 mb-3">
+    <a href="../brakes/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bromsar</strong></a>
+    <a href="interiorcargo/" class="text-decoration-none text-black float-end"><strong>Interiör last <i class="bi-arrow-right"></i></strong></a>
+</div>

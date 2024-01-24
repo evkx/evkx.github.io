@@ -2,7 +2,7 @@
 title:  Interiör last
 linktitle: Interiör last
 description: Interiörlast avser lastutrymmet som är inneslutet och skyddat av bilens karosseri och fönster. Intern belastning kan variera beroende på modell och bilens konfiguration.
-weight: 2
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_3_st.jpg" title="Citroën ë-C3 trunk" width="3000" height="1999">}}
@@ -103,3 +103,8 @@ Internlast får endast vara kompatibel med vissa typer av föremål som ägaren 
 Invändig last kan minska komforten och bekvämligheten för passagerare och förare eftersom det kan ta upp lite utrymme som annars skulle användas för sittplatser, benutrymme eller förvaring. Intern last kan också skapa buller, vibrationer eller lukter som kan störa passagerare och förare. Intern last kan också påverka bilens klimatsystem, blockera luftventilerna eller fönstren.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger med en nydelig hund i bagasjerommet" width="3000" height="2000">}}
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Last- och trailer möjligheter</strong></a>
+    <a href="../frunkcargo/" class="text-decoration-none text-black float-end"><strong>Frunk last <i class="bi-arrow-right"></i></strong></a>
+</div>

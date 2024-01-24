@@ -2,7 +2,7 @@
 title:  Hitch Cargo
 linktitle: Hitch Cargo
 description: If you need to transport extra gear or luggage with your vehicle but don't have enough space inside or on the roof, consider using a hitch cargo carrier.
-weight: 2
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -73,3 +73,8 @@ Compared to having a box on the roof, a hitch box can increase efficiency becaus
  In the below video, the EV Guru, Bjørn Nyland, compares energy consumption on roof box vs hitch box.
 
 {{< youtube N6oZ2id7YhY >}}
+
+<div class="mt-3 mb-3">
+    <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Roof Cargo</strong></a>
+    <a href="../bedcargo/" class="text-decoration-none text-black float-end"><strong>Pickup bed cargo <i class="bi-arrow-right"></i></strong></a>
+</div>

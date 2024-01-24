@@ -2,7 +2,7 @@
 title:  Last i lasteplan
 linktitle: Last i lasteplan
 description: EV pickup-biler kan hjelpe til med å frakte klumpete, tunge eller uregelmessig formede gjenstander som møbler, apparater, verktøy, byggematerialer eller sportsutstyr.
-weight: 2
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -45,3 +45,8 @@ EV pickup truck seng kan tilby enklere tilgang og lasting enn bagasjerom, frunks
 ### Mindre innvirkning og problemer
 
 EV pickup trucks seng kan ha mindre innvirkning og problemer enn takstativer eller tilhengere, da de kan redusere vekten og luftmotstanden til lasten, noe som igjen kan redusere energiforbruket og rekkevidden til kjøretøyet. EV pickup truck seng kan også unngå noen av problemene eller risikoene forbundet med takstativ eller tilhengere, for eksempel skade, tyveri, støy eller ustabilitet av gjenstandene, eller vanskeligheter, fare eller lovligheten ved kjøring, parkering eller manøvrering av kjøretøyet eller tilhengeren.
+
+<div class="mt-3 mb-3">
+    <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Hengerkrok last</strong></a>
+    <a href="../towing/" class="text-decoration-none text-black float-end"><strong>Tilhenger <i class="bi-arrow-right"></i></strong></a>
+</div>

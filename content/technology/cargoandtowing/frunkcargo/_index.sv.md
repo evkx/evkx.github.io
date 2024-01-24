@@ -70,3 +70,8 @@ Här är några exempel på frunk elbilar, tillsammans med deras frunk kapacitet
 </tr>
 </tbody>
 </table>
+
+<div class="mt-3 mb-3">
+    <a href="../interiorcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interiör last</strong></a>
+    <a href="../roofcargo/" class="text-decoration-none text-black float-end"><strong>Taklast <i class="bi-arrow-right"></i></strong></a>
+</div>

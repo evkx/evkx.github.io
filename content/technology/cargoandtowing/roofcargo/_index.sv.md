@@ -2,7 +2,7 @@
 title:  Taklast
 linktitle: Taklast
 description:  En möjlig lösning är att använda taklaster, som ställ eller lådor, för att öka lagringskapaciteten för elbilar. Takräcken kan hjälpa till att transportera skrymmande, tunga eller oregelbundet formade föremål som skidor, cyklar, kajaker eller tält.
-weight: 2
+weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 Takräcke har dock några nackdelar och begränsningar som elbilsägare bör känna till innan de installeras på sina fordon.
@@ -41,3 +41,8 @@ Designen och specifikationerna för EV spelar också en roll för räckviddsmins
 Elbilar med bättre aerodynamik eller lägre vikt kan också ha en högre räckviddsminskning än elbilar med sämre aerodynamik eller högre vikt.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/roofcargo/roofcargo_3_st.jpg" title="Porsche Taycan med takbox" width="2048" height="1280">}}
+
+<div class="mt-3 mb-3">
+    <a href="../frunkcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frunk last</strong></a>
+    <a href="../hitchcargo/" class="text-decoration-none text-black float-end"><strong>Släpkroklast <i class="bi-arrow-right"></i></strong></a>
+</div>

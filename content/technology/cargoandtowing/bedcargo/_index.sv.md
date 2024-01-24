@@ -2,7 +2,7 @@
 title:  Last i lastplan
 linktitle: Last i lastplan
 description: Elektriska pickupbilar kan hjälpa till att transportera skrymmande, tunga eller oregelbundet formade föremål som möbler, apparater, verktyg, byggmaterial eller sportutrustning.
-weight: 2
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 {{< sitefiguresized thumb="technology/cargoandtowing/bedcargo/bed_8_st.jpg" title="Ford F150 Lightning" width="3000" height="1687">}}
@@ -44,3 +44,9 @@ EV pickup truck sängar kan erbjuda enklare åtkomst och lastning än trunks, fr
 ### Mindre påverkan och problem
 
 Elbilars sängar kan ha mindre stötar och problem än takräcken eller släp, eftersom de kan minska lastens vikt och motstånd, vilket i sin tur kan minska fordonets energiförbrukning och räckvidd. Elbilens lastbilsflak kan också undvika några av de problem eller risker som är förknippade med takräcken eller släp, såsom skador, stöld, buller eller instabilitet hos föremålen, eller svårigheten, faran eller lagligheten med att köra, parkera eller manövrera fordonet eller trailer.
+
+
+<div class="mt-3 mb-3">
+    <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Släpkroklast</strong></a>
+    <a href="../towing/" class="text-decoration-none text-black float-end"><strong>Trailer <i class="bi-arrow-right"></i></strong></a>
+</div>

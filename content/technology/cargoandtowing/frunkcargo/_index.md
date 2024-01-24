@@ -72,3 +72,9 @@ Many EVs on the market or in development have frunks, but some stand out for the
 </tr>
 </tbody>
 </table>
+
+
+<div class="mt-3 mb-3">
+    <a href="../interiorcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interior Cargo</strong></a>
+    <a href="../roofcargo/" class="text-decoration-none text-black float-end"><strong>Roof Cargo <i class="bi-arrow-right"></i></strong></a>
+</div>

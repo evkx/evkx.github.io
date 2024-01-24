@@ -70,3 +70,9 @@ Mange elbiler på markedet eller under utvikling har fordeler, men noen skiller 
 </tr>
 </tbody>
 </table>
+
+
+<div class="mt-3 mb-3">
+    <a href="../interiorcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Innvendig last</strong></a>
+    <a href="../roofcargo/" class="text-decoration-none text-black float-end"><strong>Taklast <i class="bi-arrow-right"></i></strong></a>
+</div>

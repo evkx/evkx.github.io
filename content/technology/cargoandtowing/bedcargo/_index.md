@@ -2,7 +2,7 @@
 title:  Pickup bed cargo
 linktitle: Pickup bed Cargo
 description: EV pickup trucks can help carry bulky, heavy, or irregularly shaped items such as furniture, appliances, tools, building materials, or sports gear.
-weight: 2
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -45,3 +45,9 @@ EV pickup trucks bed can offer easier access and loading than trunks, frunks, ro
 ### Less impact and hassle
 
 EV pickup trucks bed can have less impact and hassle than roof racks or trailers, as they can reduce the weight and drag of the cargo, which in turn can reduce the energy consumption and range reduction of the vehicle. EV pickup trucks bed can also avoid some of the problems or risks associated with roof racks or trailers, such as damage, theft, noise, or instability of the items, or difficulty, danger, or legality of driving, parking, or maneuvering the vehicle or the trailer.
+
+
+<div class="mt-3 mb-3">
+    <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Hitch Cargo</strong></a>
+    <a href="../towing/" class="text-decoration-none text-black float-end"><strong>Towing <i class="bi-arrow-right"></i></strong></a>
+</div>

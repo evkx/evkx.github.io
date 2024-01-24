@@ -2,7 +2,7 @@
 title:  Tilhenger
 linktitle: Tilhenger
 description: Elektriske kjøretøy blir mer populære og praktiske for ulike formål, inkludert tauing. Imidlertid kan mange mennesker ha spørsmål eller bekymringer om elbilers ytelse og rekkevidde når de trekker tilhenger.
-weight: 2
+weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 Denne artikkelen vil ta for seg noen av disse problemene og gi eksempler på elbiler som er egnet for tauing.
@@ -156,3 +156,8 @@ FHWA og U.S. Census Bureau bruker forskjellige kjøretøykategorier for lastebil
 Se hele listen i EVKX EV Database [her](../../../evsearch/?sortOrder=MaxTrailerSizeDesc)
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 med taklast og tilhenger" width="2560" height="1280">}}
+
+<div class="mt-3 mb-3">
+    <a href="../bedcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Last i lasteplan</strong></a>
+    <a href="../../charging/" class="text-decoration-none text-black float-end"><strong>Lading <i class="bi-arrow-right"></i></strong></a>
+</div>

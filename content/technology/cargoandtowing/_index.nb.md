@@ -49,3 +49,8 @@ Pickuper gir muligheten til å frakte mange forskjellige typer last.
 Elektriske kjøretøyer (EV-er) blir mer populære og praktiske for ulike formål, inkludert tauing. Imidlertid kan mange mennesker ha spørsmål eller bekymringer om elbilers ytelse og rekkevidde når de trekker tilhenger.
 
 [Du kan lese alt om det i tauingsdelen vår.](sleping/)
+
+<div class="mt-3 mb-3">
+    <a href="../brakes/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bremser</strong></a>
+    <a href="interiorcargo/" class="text-decoration-none text-black float-end"><strong>Innvendig last <i class="bi-arrow-right"></i></strong></a>
+</div>

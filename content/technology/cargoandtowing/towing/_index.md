@@ -2,7 +2,7 @@
 title:  Towing
 linktitle: Towing
 description: Electric vehicles are becoming more popular and practical for various purposes, including towing. However, many people may have questions or concerns about EVs' performance and range when towing a trailer.
-weight: 2
+weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -159,3 +159,8 @@ The FHWA and the U.S. Census Bureau use different vehicle categories for trucks 
 See the complete list in the EVKX EV Database [here](../../../evsearch/?sortOrder=MaxTrailerSizeDesc)
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 with roof cargo and trailer" width="2560" height="1280">}}
+
+<div class="mt-3 mb-3">
+    <a href="../bedcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Pickup bed cargo</strong></a>
+    <a href="../../charging/" class="text-decoration-none text-black float-end"><strong>Charging <i class="bi-arrow-right"></i></strong></a>
+</div>

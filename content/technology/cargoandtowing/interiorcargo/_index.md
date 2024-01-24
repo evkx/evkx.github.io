@@ -2,7 +2,7 @@
 title:  Interior Cargo
 linktitle: Interior Cargo
 description: Interior cargo refers to the cargo space enclosed and protected by the car's body and windows. Internal cargo can vary depending on the model and the car's configuration.
-weight: 2
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -105,3 +105,8 @@ Interior cargo may only be compatible with some types of items that the owner ma
 Interior cargo may reduce the comfort and convenience of the passengers and the driver, as it may take up some space that would otherwise be used for seating, legroom, or storage. Interior cargo may also create noise, vibration, or odor that may disturb passengers and drivers. Internal cargo may also affect the car’s climate control system, blocking the air vents or the windows.
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger with a lovely dog in the trunk" width="3000" height="2000">}}
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cargo & towing capabilities</strong></a>
+    <a href="../frunkcargo/" class="text-decoration-none text-black float-end"><strong>Frunk Cargo <i class="bi-arrow-right"></i></strong></a>
+</div>

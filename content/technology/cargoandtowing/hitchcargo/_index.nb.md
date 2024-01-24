@@ -2,7 +2,7 @@
 title:  Hengerkrok last
 linktitle: Hengerkrok last
 description: Hvis du trenger å transportere ekstra utstyr eller bagasje med kjøretøyet ditt, men ikke har nok plass inne eller på taket, bør du vurdere å bruke tilhengerkrok last.
-weight: 2
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -72,3 +72,8 @@ Sammenlignet med å ha en boks på taket, kan en koblingsboks øke effektivitete
 I videoen nedenfor sammenligner EV-guruen, Bjørn Nyland, energiforbruket på takboks kontra festeboks.
 
 {{< youtube N6oZ2id7YhY >}}
+
+<div class="mt-3 mb-3">
+    <a href="../roofcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Taklast</strong></a>
+    <a href="../bedcargo/" class="text-decoration-none text-black float-end"><strong>Last i lasteplan <i class="bi-arrow-right"></i></strong></a>
+</div>

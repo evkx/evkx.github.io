@@ -2,7 +2,7 @@
 title:  Trailer
 linktitle: Trailer
 description: Elfordon blir mer populära och praktiska för olika ändamål, inklusive trekke trailer. Men många människor kan ha frågor eller funderingar om elbilars prestanda och räckvidd när de drar en släpvagn.
-weight: 2
+weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 Den här artikeln kommer att ta upp några av dessa problem och ge exempel på elbilar som är lämpliga för bogsering.
@@ -155,3 +155,8 @@ FHWA och U.S. Census Bureau använder olika fordonskategorier för lastbilar bas
 Se hela listan i EVKX EV Database [här](../../../evsearch/?sortOrder=MaxTrailerSizeDesc)
 
 {{< sitefiguresized thumb="technology/cargoandtowing/towing/towing_4_st.jpg" title="Nio ES8 med taklast och släp" width="2560" height="1280">}}
+
+<div class="mt-3 mb-3">
+    <a href="../bedcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Last i lastplan</strong></a>
+    <a href="../../charging/" class="text-decoration-none text-black float-end"><strong>Ladda <i class="bi-arrow-right"></i></strong></a>
+</div>
