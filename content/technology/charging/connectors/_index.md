@@ -95,6 +95,6 @@ Front corner is used by some and can be a benefit if you are towing a trailer.
 {{< sitefiguresized thumb="technology/charging/connectors/frontport_1_st.jpg" width="3000" height="2000" title="Kia Niro EV with front charge port" >}}
 
 <div class="mt-3 mb-3">
-    <a href="../cargoandtowing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cargo & towing capabilities</strong></a>
-    <a href="connectors/" class="text-decoration-none text-black float-end"><strong>Charging Connectors <i class="bi-arrow-right"></i></strong></a>
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Charging</strong></a>
+    <a href="../homecharging/" class="text-decoration-none text-black float-end"><strong>Home Charging <i class="bi-arrow-right"></i></strong></a>
 </div>

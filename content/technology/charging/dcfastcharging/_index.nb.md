@@ -92,3 +92,8 @@ Det finnes flere ladenettverk i Europa for elbiler. Her er noen av de største l
 - Plugsurfing: Et europeisk nettverk du kan bruke for å lade en elbil i Europa. Med den unike nøkkelen eller kortet – som koster €9,95 – og den gratis smarttelefonappen, kan du bruke over 200 000 ladere, inkludert de fra forskjellige nettverk som Allego, EnBW, Eon, Innogy, IONITY og Vattenfall.
 
 - Maingau: Gjennom sin EinfachStromLaden smarttelefon-app, ladebrikke eller kort kan du lade en elbil i Tyskland, Østerrike eller Sveits ved 50 000 ladepunkter med Maingau.
+
+<div class="mt-3 mb-3">
+    <a href="../homecharging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Hjemmelading</strong></a>
+    <a href="../batteryswap/" class="text-decoration-none text-black float-end"><strong>Batteribytte <i class="bi-arrow-right"></i></strong></a>
+</div>

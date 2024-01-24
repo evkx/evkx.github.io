@@ -90,3 +90,8 @@ Främre hörn används av vissa och kan vara en fördel om du drar släp.
 ### Framför
 
 {{< sitefiguresized thumb="technology/charging/connectors/frontport_1_st.jpg" width="3000" height="2000" title="Kia Niro EV med främre laddningsport" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Ladda</strong></a>
+    <a href="../homecharging/" class="text-decoration-none text-black float-end"><strong>Hemladdning <i class="bi-arrow-right"></i></strong></a>
+</div>

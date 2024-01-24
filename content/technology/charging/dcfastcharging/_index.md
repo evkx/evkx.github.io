@@ -95,3 +95,8 @@ There are several charging networks in Europe for EVs. Here are some of the larg
 - Plugsurfing: A European-wide network you could use for charging an EV in Europe. With its unique key or card – which costs €9.95 – and its free smartphone app, you can use upwards of 200,000 chargers, including those from different networks such as Allego, EnBW, Eon, Innogy, IONITY and Vattenfall.
 
 - Maingau: Through its EinfachStromLaden smartphone app, charging chip or card, you can charge an EV in Germany, Austria or Switzerland at 50,000 charging points with Maingau.
+
+<div class="mt-3 mb-3">
+    <a href="../homecharging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Home Charging</strong></a>
+    <a href="../batteryswap/" class="text-decoration-none text-black float-end"><strong>Battery Swapping <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -29,3 +29,8 @@ Fordelene med batteribytte er
 Se omtalen av systemet fra Bjørn Nyland nedenfor.
 
 {{< youtube VmWL1hZQmD0 >}}
+
+<div class="mt-3 mb-3">
+    <a href="../dcfastcharging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> DC Fast Charging</strong></a>
+    <a href="../bidirectional/" class="text-decoration-none text-black float-end"><strong>Bidirectional Charging <i class="bi-arrow-right"></i></strong></a>
+</div>

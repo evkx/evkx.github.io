@@ -228,3 +228,8 @@ Nedan är en recensionsvideo av de bästa laddstationerna för 2023 (skapad inna
 Se videon nedan för en video fokuserad på Storbritannien om hur du installerar en hemladdare.
 
 {{< youtube VCx_1Afh3iw >}}
+
+<div class="mt-3 mb-3">
+    <a href="../connectors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Laddar kontakter</strong></a>
+    <a href="../dcfastcharging/" class="text-decoration-none text-black float-end"><strong>DC snabbladdning <i class="bi-arrow-right"></i></strong></a>
+</div>

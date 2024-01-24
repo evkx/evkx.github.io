@@ -30,3 +30,8 @@ Fördelarna med batteribyte är
 Se beskrivningen av systemet från Bjørn Nyland nedan.
 
 {{< youtube VmWL1hZQmD0 >}}
+
+<div class="mt-3 mb-3">
+    <a href="../dcfastcharging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> DC snabbladdning</strong></a>
+    <a href="../bidirectional/" class="text-decoration-none text-black float-end"><strong>Tvåvägsladdning<i class="bi-arrow-right"></i></strong></a>
+</div>
