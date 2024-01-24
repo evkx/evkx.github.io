@@ -55,3 +55,8 @@ Batteribytte er en metode for å lade elbiler som innebærer å bytte ut det tom
 Les alt om [battery swapping](batteryswap)
 
 {{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Nio Power Battery Swap Station" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../cargoandtowing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Laste- og tilhenger muligheter</strong></a>
+    <a href="connectors/" class="text-decoration-none text-black float-end"><strong>Ladekontakter <i class="bi-arrow-right"></i></strong></a>
+</div>
