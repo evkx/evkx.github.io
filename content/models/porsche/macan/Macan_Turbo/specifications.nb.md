@@ -225,7 +225,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Ladeportplassering
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>
@@ -287,7 +287,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Ladeportplassering
 			</td>
 			<td>
-				LeftFrontSide
+				RightRearSide
 			</td>
 		</tr>
 		<tr>
