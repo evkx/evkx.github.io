@@ -1488,7 +1488,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, två 10,9" och 5"
+				Ja, 10,9
 			</td>
 		</tr>
 		<tr>
