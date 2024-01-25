@@ -16,6 +16,13 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>all-new Porsche Macan electric REVEAL REVIEW Macan 4 vs Turbo</h3>
+<p>Autogefühl: 25.01.2024</p>
+
+{{< youtube J1qXh8RpaEY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Porsche Macan EV Highway Range Test | Behind the Wheels of Porsche’s First Electric SUV</h3>
 <p>Edmund Cars: 11.01.2024</p>
 

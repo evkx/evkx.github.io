@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Porsche Macan Turbo i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Med overboost har Porsche Macan Turbo en maximal effekt på 500 KW (680hk). Utan overboost är det 470KW (639hp). Vridmomentet är 1130 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 3,3 sekunder. Topphastigheten är 260 km/h.
+Porsche Macan Turbo har en maximal effekt på 470 KW (639hk). Vridmomentet är 1130 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 3,3 sekunder. Topphastigheten är 260 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -57,9 +57,7 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 Porsche Macan Turbo har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-
-
-Du kan beställa Porsche Macan Turbo med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 150 mm, och maximal är 200 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 150 mm, och maximal är 200 mm.
 
 ### Styrning
 

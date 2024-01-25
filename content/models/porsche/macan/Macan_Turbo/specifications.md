@@ -36,14 +36,6 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan Turbo.
 		</tr>
 		<tr>
 			<td>
-				Peak power with  boost
-			</td>
-			<td>
-				500 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Electrical torque output boost
 			</td>
 			<td>

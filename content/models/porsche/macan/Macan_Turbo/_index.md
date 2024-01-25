@@ -29,7 +29,7 @@ We have separated our Porsche Macan Turbo article into sections. If you want to 
 
 ## Performance
 
-With overboost, the Porsche Macan Turbo has a maximum power of 500 KW (680 hp / 639 bhp). Without overboost, it is 470 KW (639 hp / 671 bhp). The torque is 1130 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 3,3 seconds. The top speed is 260 km/h.
+The Porsche Macan Turbo has a maximum power of 470 KW (639 hp/630 bhp). The torque is 1130 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 3,3 seconds. The top speed is 260 km/h.
 
 ## Battery, range, and charging
 
@@ -57,9 +57,7 @@ The location of the charge port is on the [right front side](../../../../technol
 
 Porsche Macan Turbo has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-
-
-You can order Porsche Macan Turbo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 150 mm, and the maximum is 200 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 150 mm, and the maximum is 200 mm.
 
 ### Steering
 

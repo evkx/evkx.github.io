@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Porsche Macan Turbo i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Med overboost har Porsche Macan Turbo en maksimal effekt på 500 KW (680hk). Uten overboost er den 470KW (639hk). Dreiemomentet er 1130 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 260 km/t.
+Porsche Macan Turbo har en maksimal effekt på 470 KW (639hk). Dreiemomentet er 1130 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -57,9 +57,7 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 Porsche Macan Turbo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-
-
-Du kan bestille Porsche Macan Turbo med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 150 mm, og maksimum er 200 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 150 mm, og maksimum er 200 mm.
 
 ### Styring
 
