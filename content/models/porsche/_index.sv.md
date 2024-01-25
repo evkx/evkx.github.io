@@ -9,6 +9,20 @@ weight: 30
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Porsche Macan</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="macan"><img src="https://media.evkx.net/multimedia/models/porsche/macan/macan_turbo/main_1_st.jpg" class="img-fluid" alt="Porsche Macan" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Porsche Macan är en premium-SUV tillgänglig i 1 varianter.
+</p>
+	<a href="macan/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Porsche Taycan</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
