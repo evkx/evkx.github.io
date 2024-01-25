@@ -964,7 +964,7 @@ This model is available with a seat configuration with five seats.
 ### Second row seats
 
 
-#### 2+1
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -1288,7 +1288,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
 			</td>
 			<td>
-				Yes (Night Vision Assist), optional equipment
+				Not available
 			</td>
 		</tr>
 	</tbody>
@@ -1401,50 +1401,9 @@ This model is available with a seat configuration with five seats.
 				Number of avaiable sound systems
 			</td>
 			<td>
-				3
+				2
 			</td>
 		</tr>
-
-### Porsche Sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Number of speakers
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Channels
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Total effect
-			</td>
-			<td>
-				150
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 ###  BOSE® Surround Sound System
 
@@ -1522,7 +1481,7 @@ This model is available with a seat configuration with five seats.
 				Total effect
 			</td>
 			<td>
-				1455
+				1470
 			</td>
 		</tr>
 	</tbody>

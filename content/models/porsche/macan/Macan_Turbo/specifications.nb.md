@@ -964,7 +964,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 ### Seter på andre rad
 
 
-#### 2+1
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -1288,7 +1288,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Nattsyn
 			</td>
 			<td>
-				Ja (Night Vision Assist), tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -1401,50 +1401,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Antall tilgjengelige lydsystemer
 			</td>
 			<td>
-				3
+				2
 			</td>
 		</tr>
-
-### Porsche Sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antall høyttalere
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Total effekt
-			</td>
-			<td>
-				150
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 ###  BOSE® Surround Sound System
 
@@ -1522,7 +1481,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Total effekt
 			</td>
 			<td>
-				1455
+				1470
 			</td>
 		</tr>
 	</tbody>
