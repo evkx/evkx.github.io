@@ -78,7 +78,7 @@ Dessutom kan du välja mellan 8 hjul i storlek från 20 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
-Standardinställningen är bara ett vanligt tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
+Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 
@@ -143,7 +143,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet  stöder olika temperaturer i tre zoner för förare, passagerare och baksäte. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
+Du kan välja mellan två olika klimatsystem. Klimatsystemet  2-zone stöder olika temperaturer i två zoner för förare och passagerare. Klimatsystemet  4-zone stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
 ## Tröst
 
@@ -172,7 +172,7 @@ Du kan välja mellan två ljudsystem på Porsche Macan Turbo. Med  BOSE® Surrou
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Porsche Macan Turbo Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
-
+Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Porsche Macan Turbo. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.

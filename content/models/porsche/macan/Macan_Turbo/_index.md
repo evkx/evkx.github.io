@@ -87,7 +87,7 @@ Additionally, you can choose between 8 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 You can order the car with tinted windows from B-pillar and back.
 
@@ -152,7 +152,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+You can choose from two different climate systems. The  2-zone climate system supports different temperatures in two zones for the driver and passenger. The  4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -181,7 +181,7 @@ You can choose between two sound systems on the Porsche Macan Turbo. With the  B
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Macan Turbo supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-
+The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 ## Lights
 
 You can choose between two types of headlights for the Porsche Macan Turbo. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
