@@ -31,7 +31,23 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Macan Turbo. K
 				Max effekt
 			</td>
 			<td>
-				470 KW (639 hk)
+				430 KW (585 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max effekt med boost
+			</td>
+			<td>
+				470 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vridmoment
+			</td>
+			<td>
+				1130 nm
 			</td>
 		</tr>
 		<tr>

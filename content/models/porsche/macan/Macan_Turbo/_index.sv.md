@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Porsche Macan Turbo i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Porsche Macan Turbo har en maximal effekt på 470 KW (639hk). Vridmomentet är 1130 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 3,3 sekunder. Topphastigheten är 260 km/h.
+Med overboost har Porsche Macan Turbo en maximal effekt på 470 KW (639hk). Utan overboost är det 430KW (585hp). Vridmomentet är 1130 Nm med överboost och 1130 utan överboost. Den gör sprinten 0-100 km/h på 3,3 sekunder. Topphastigheten är 260 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -47,7 +47,7 @@ För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 1
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. exterior.chargeport.secondlocation.rightrearside Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
+Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [höger baksida](../../../../technology/charging/connectors/#front-side). Denna extra port ger dig fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
 

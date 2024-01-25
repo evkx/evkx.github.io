@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Porsche Macan Turbo i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Porsche Macan Turbo har en maksimal effekt på 470 KW (639hk). Dreiemomentet er 1130 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Macan Turbo en maksimal effekt på 470 KW (639hk). Uten overboost er den 430KW (585hk). Dreiemomentet er 1130 nm med overboost og 1130 uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
