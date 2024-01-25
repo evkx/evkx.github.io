@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan Turbo
 linktitle: "Macan Turbo"
-description: "Porsche Macan Turbo är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 591 km. EVKX.net har alla detaljer."
+description: "Porsche Macan Turbo är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 591 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ Porsche Macan Turbo har en maximal effekt på 470 KW (639hk). Vridmomentet är 1
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 96,8kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (3,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 591 till 518 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.1kWh/100 km för basversionen och 18.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 591 till 518 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.4kWh/100 km för basversionen och 18.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 170kW. Varje laddningssession tar 20 minuter och 5 sekunder.
+Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 58 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 171kW. Varje laddningssession tar 20 minuter och 22 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 4 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 2% till 68%. Total tid som går förlorad för att ladda batteriet kommer att vara 44 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 3 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 3% till 67%. Total tid som går förlorad för att ladda batteriet kommer att vara 44 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 38 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 4 timmar och 19 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 47 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 4 timmar och 23 minuter.
 
 ### Laddningsport
 
@@ -57,7 +57,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Porsche Macan Turbo har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 150 mm, och maximal är 200 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 184 mm, och maximal är 224 mm.
 
 ### Styrning
 
@@ -74,7 +74,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 Du kan välja mellan 17 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
-Dessutom kan du välja mellan 8 hjul i storlek från 19 till 21 tum.
+Dessutom kan du välja mellan 9 hjul i storlek från 19 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -94,19 +94,7 @@ Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. De
 
 ### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Porsche Macan Turbo.
-
-Följande funktioner är tillgängliga på **Comfort** sätet.
-
-- elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- integrerat nackstöd
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
-
+Det finns två sätestyper du kan välja mellan för den främre raden av Porsche Macan Turbo.
 
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 
@@ -172,7 +160,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Porsche Macan Turbo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 12.6 tum. Skärmen touch översta mittkonsolen är 10.9 tum. Skärmen touch botten av mittkonsolen är 8.4 tum. Skärmen touch framför passageraren i instrumentbrädan är 10.9 tum.
+Porsche Macan Turbo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 12.6 tum. Skärmen touch översta mittkonsolen är 10.9 tum. Skärmen touch botten av mittkonsolen är 5.0 tum. Skärmen touch framför passageraren i instrumentbrädan är 10.9 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -235,7 +223,7 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 540 liter. Med baksätet nedfällt är det 1348 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2870 kg, och med basvikten på 2220 kg kan du lasta maximalt 650 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 540 liter. Med baksätet nedfällt är det 1348 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2950 kg, och med basvikten på 2330 kg kan du lasta maximalt 620 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

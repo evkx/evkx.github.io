@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan Turbo
 linktitle: "Macan Turbo"
-description: "Porsche Macan Turbo is an all-electric premium SUV with a WLTP range of up to 591 km (367 miles). EVKX.net has all the details."
+description: "Porsche Macan Turbo is an all-electric premium coupe SUV with a WLTP range of up to 591 km (367 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,21 +33,21 @@ The Porsche Macan Turbo has a maximum power of 470 KW (639 hp/630 bhp). The torq
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 95kWh, meaning you have a 5kWh buffer for protection. (5,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 100kWh and a net capacity of 96,8kWh, meaning you have a 3,2kWh buffer for protection. (3,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 591 to 518 km (367-322 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.1kWh/100km for the basic version and 18.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 591 to 518 km (367-322 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.4kWh/100km for the basic version and 18.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 170kW. Each charge session would take 20 minutes and 5 seconds.
+The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 58 minutes, while a more common scenario of 10-80% would take 21 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 171kW. Each charge session would take 20 minutes and 22 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 4 minutes. This trip will require two charge session(s) charging from 2% to 68%. The total time lost for charging up the battery will be 44 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 3 minutes. This trip will require two charge session(s) charging from 3% to 67%. The total time lost for charging up the battery will be 44 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 38 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 19 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 47 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 23 minutes.
 
 ### Charge port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. exterior.chargeport.secondlocation.rightrearside The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). See full specifications for all markets.
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. A second port is on the [right rear side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Porsche Macan Turbo has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 150 mm, and the maximum is 200 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 184 mm, and the maximum is 224 mm.
 
 ### Steering
 
@@ -83,7 +83,7 @@ The optional SportDesign package contains a specially designed upper part front 
 The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
 
-Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches.
+Additionally, you can choose between 9 wheels with sizes from 19 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
@@ -103,19 +103,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are three seat types you can choose from for the front row in the Porsche Macan Turbo.
-
-The following functionalities are available on the **Comfort** seat.
-
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- integrated headrest
-
-You can choose from 1 different materials/colors for this seat type.
-
-
+There are two seat types you can choose from for the front row in the Porsche Macan Turbo.
 
 The following functionalities are available on the **Comfortseats with memory** seat.
 
@@ -181,7 +169,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The Porsche Macan Turbo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 12.6 inches large. The touch screen at the top of the center console is 10.9 inches large. The touch screen at the bottom of the center console is 8.4 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
+The Porsche Macan Turbo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 12.6 inches large. The touch screen at the top of the center console is 10.9 inches large. The touch screen at the bottom of the center console is 5.0 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -244,7 +232,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2870 kg (6327 lbs), and with the base weight of 2220 kg (4894 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2950 kg (6504 lbs), and with the base weight of 2330 kg (5137 lbs), you can max load 620 kg (1367 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

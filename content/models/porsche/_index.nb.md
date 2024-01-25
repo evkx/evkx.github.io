@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Porsche Macan er en premium SUV tilgjengelig i 1 varianter.
+Porsche Macan er en premium Coupe SUV tilgjengelig i 1 varianter.
 </p>
 	<a href="macan/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>
