@@ -139,6 +139,10 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
+
 ### Second-row seat
 
 
@@ -147,6 +151,10 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
 
 There is only one type of steering wheel available.
 
@@ -185,6 +193,10 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 ## Lights
 
 You can choose between two types of headlights for the Porsche Macan Turbo. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/headlights_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
 ## Advanced driver assistance systems
 
 The Porsche Macan Turbo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -233,7 +245,11 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2950 kg (6504 lbs), and with the base weight of 2330 kg (5137 lbs), you can max load 620 kg (1367 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/trunk_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

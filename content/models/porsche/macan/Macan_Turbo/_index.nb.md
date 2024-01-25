@@ -130,6 +130,10 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
+
 ### Seter på andre rad
 
 
@@ -138,6 +142,10 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - integrert hodestøtte
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
 
 Det er bare én type ratt tilgjengelig.
 
@@ -176,6 +184,10 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Porsche Macan Turbo. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/headlights_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
 ## Avanserte førerassistentsystemer
 
 Porsche Macan Turbo har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
@@ -224,7 +236,11 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 Lastkapasiteten i bagasjerommet er 540 liter. Med baksetet nede er det 1348 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2950 kg, og med basisvekten på 2330 kg kan du maksimalt laste 620 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/trunk_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

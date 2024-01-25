@@ -130,6 +130,10 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
+
 ### Säten på andra raden
 
 
@@ -138,6 +142,10 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
 - integrerat nackstöd
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -176,6 +184,10 @@ Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Porsche Macan Turbo. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/headlights_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+
 ## Avancerade förarassistanssystem
 
 Porsche Macan Turbo har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
@@ -224,7 +236,11 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 
 Lastkapaciteten i bagageutrymmet är 540 liter. Med baksätet nedfällt är det 1348 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2950 kg, och med basvikten på 2330 kg kan du lasta maximalt 620 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
+
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/trunk_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>
