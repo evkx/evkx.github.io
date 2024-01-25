@@ -248,7 +248,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2870 kg (6327 lbs), and with the base weight of 2220 kg (4894 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

@@ -239,7 +239,7 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 Lastkapasiteten i bagasjerommet er 540 liter. Med baksetet nede er det 1348 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2870 kg, og med basisvekten på 2220 kg kan du maksimalt laste 650 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

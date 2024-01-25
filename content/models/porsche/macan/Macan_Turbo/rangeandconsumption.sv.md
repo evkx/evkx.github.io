@@ -129,6 +129,50 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 	<tbody>
 		<tr>
 			<td>
+				90 km/h/56 mph under perfekta förhållanden
+			</td>
+			<td>
+				528km / 328 mi
+			</td>
+			<td>
+				18 kWh/100km / 3,5 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90 kmh/56 mph med 2KW uppvärmning
+			</td>
+			<td>
+				483km /292mi
+			</td>
+			<td>
+				20,2 kWh/100km /3,1 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/h under perfekta förhållanden
+			</td>
+			<td>
+				500 km / 311 mi
+			</td>
+			<td>
+				19 kWh/100km / 3,3 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/h med 2KW uppvärmning
+			</td>
+			<td>
+				736km / 457mi
+			</td>
+			<td>
+				20,8 kWh/100km / 3,0 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120 kmh/75 mph under perfekta förhållanden
 			</td>
 			<td>
