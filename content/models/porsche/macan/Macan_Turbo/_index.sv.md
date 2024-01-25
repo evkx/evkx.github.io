@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 47 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 4 timmar och 23 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 47 minuter.
 
 ### Laddningsport
 
@@ -71,10 +71,10 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 17 olika färgfärger när du beställer den här modellen.
+Du kan välja mellan 13 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
-Dessutom kan du välja mellan 9 hjul i storlek från 19 till 22 tum.
+Dessutom kan du välja mellan 7 hjul i storlek från 20 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

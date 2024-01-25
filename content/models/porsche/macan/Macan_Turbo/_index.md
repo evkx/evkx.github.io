@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 47 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 23 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 47 minutes.
 
 ### Charge port
 
@@ -71,7 +71,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 17 different paint colors when ordering this model.
+You can choose between 13 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
 The optional SportDesign package contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in exterior color specially designed rear diffusor in Black with side fins painted in exterior color, front licence plate carrier painted in exterior color. 
@@ -83,7 +83,7 @@ The optional SportDesign package contains a specially designed upper part front 
 The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
 
-Additionally, you can choose between 9 wheels with sizes from 19 to 22 inches.
+Additionally, you can choose between 7 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

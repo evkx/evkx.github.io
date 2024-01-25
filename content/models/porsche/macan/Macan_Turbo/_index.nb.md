@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 22 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 23 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter.
 
 ### Ladeport
 
@@ -71,10 +71,10 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 17 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 13 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-I tillegg kan du velge mellom 9 hjul med størrelser fra 19 til 22 tommer.
+I tillegg kan du velge mellom 7 hjul med størrelser fra 20 til 22 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
