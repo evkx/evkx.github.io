@@ -92,7 +92,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
+Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
