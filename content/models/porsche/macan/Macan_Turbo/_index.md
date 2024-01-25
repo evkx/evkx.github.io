@@ -112,6 +112,9 @@ The following functionalities are available on the **Comfortseats with memory** 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- integrated headrest
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 2 different materials/colors for this seat type.
 
@@ -128,23 +131,17 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
 
 
 
-### Second-row seats
+### Second-row seat
 
-You can choose two seat types for the second row in the Porsche Macan Turbo.
 
-The standard option is two integrated seats in the second row. In addition, the following functionalities are available.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- integrated headrest
-
-The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest

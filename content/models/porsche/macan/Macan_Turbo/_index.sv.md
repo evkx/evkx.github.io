@@ -103,6 +103,9 @@ Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- integrerat nackstöd
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -119,8 +122,7 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustment)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrerat nackstöd
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
@@ -128,14 +130,9 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 ### Säten på andra raden
 
-Du kan välja två sätestyper för den andra raden i Porsche Macan Turbo.
 
-Alternativet standard är två integrerade säten i andra raden. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
-- integrerat nackstöd
-
-Alternativet second är två integrerade säten i andra raden med en tredje mindre säte emellan. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
 - integrerat nackstöd
