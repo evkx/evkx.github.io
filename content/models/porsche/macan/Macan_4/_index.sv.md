@@ -57,7 +57,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Porsche Macan 4 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 184 mm, och maximal är 224 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 184 mm. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 184 mm, och maximal är 224 mm.
 
 ### Styrning
 
@@ -96,7 +96,15 @@ Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Si
 
 ### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Porsche Macan 4.
+Det finns tre sätestyper du kan välja mellan för den främre raden av Porsche Macan 4.
+
+Följande funktioner är tillgängliga på **Comfortseats** sätet.
+
+- elektrisk justering
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#heating)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valfritt)
+- integrerat nackstöd
 
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 
@@ -116,6 +124,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 
 - elektrisk justering
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
@@ -230,7 +239,7 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 480 liter. Med baksätet nedfällt är det 1288 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2950 kg, och med basvikten på 2330 kg kan du lasta maximalt 620 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 540 liter. Med baksätet nedfällt är det 1348 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2920 kg, och med basvikten på 2255 kg kan du lasta maximalt 665 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
 

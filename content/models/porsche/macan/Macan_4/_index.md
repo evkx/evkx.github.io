@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Porsche Macan 4 has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 184 mm, and the maximum is 224 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 184 mm. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 184 mm, and the maximum is 224 mm.
 
 ### Steering
 
@@ -105,7 +105,15 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Porsche Macan 4.
+There are three seat types you can choose from for the front row in the Porsche Macan 4.
+
+The following functionalities are available on the **Comfortseats** seat.
+
+- electric adjustment
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+- integrated headrest
 
 The following functionalities are available on the **Comfortseats with memory** seat.
 
@@ -125,6 +133,7 @@ You can choose from 2 different materials/colors for this seat type.
 The following functionalities are available on the **Sportsseats Plus** seat.
 
 - electric adjustment
+- height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
@@ -239,7 +248,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1288 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2950 kg (6504 lbs), and with the base weight of 2330 kg (5137 lbs), you can max load 620 kg (1367 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2920 kg (6437 lbs), and with the base weight of 2255 kg (4971 lbs), you can max load 665 kg (1466 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 
