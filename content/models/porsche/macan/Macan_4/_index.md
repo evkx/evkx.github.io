@@ -1,7 +1,7 @@
 ---
-title: Porsche Macan Turbo
-linktitle: "Macan Turbo"
-description: "Porsche Macan Turbo is an all-electric premium coupe SUV with a WLTP range of up to 591 km (367 miles). EVKX.net has all the details."
+title: Porsche Macan 4
+linktitle: "Macan 4"
+description: "Porsche Macan 4 is an all-electric premium coupe SUV with a WLTP range of up to 613 km (381 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/main_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/main_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
-We have separated our Porsche Macan Turbo article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We have separated our Porsche Macan 4 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -29,17 +29,17 @@ We have separated our Porsche Macan Turbo article into sections. If you want to 
 
 ## Performance
 
-With overboost, the Porsche Macan Turbo has a maximum power of 470 KW (639 hp / 585 bhp). Without overboost, it is 430 KW (585 hp / 630 bhp). The torque is 1130 nm with overboost and 1130 without overboost. It performs the 0-100km/h sprint (0-62mph) in 3,3 seconds. The top speed is 260 km/h.
+With overboost, the Porsche Macan 4 has a maximum power of 300 KW (408 hp / 367 bhp). Without overboost, it is 270 KW (367 hp / 402 bhp). The torque is 650 nm with overboost and 650 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,2 seconds. The top speed is 220 km/h.
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 100kWh and a net capacity of 96,8kWh, meaning you have a 3,2kWh buffer for protection. (3,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 591 to 518 km (367-322 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.4kWh/100km for the basic version and 18.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 613 to 516 km (381-321 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.8kWh/100km for the basic version and 18.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 58 minutes, while a more common scenario of 10-80% would take 21 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 171kW. Each charge session would take 20 minutes and 22 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 3 minutes. This trip will require two charge session(s) charging from 3% to 67%. The total time lost for charging up the battery will be 44 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21,5kWh/100km, 1000km will take 9 hours and 2 minutes. This trip will require two charge session(s) charging from 3% to 65%. The total time lost for charging up the battery will be 42 minutes.
 
 ### Onboard charger
 
@@ -55,13 +55,13 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Porsche Macan Turbo has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Macan 4 has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 184 mm, and the maximum is 224 mm.
 
 ### Steering
 
-Dynamic steering is a standard feature on the Porsche Macan Turbo. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard feature on the Porsche Macan 4. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
@@ -92,7 +92,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back.
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/exterior_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/exterior_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -105,7 +105,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the Porsche Macan Turbo.
+There are two seat types you can choose from for the front row in the Porsche Macan 4.
 
 The following functionalities are available on the **Comfortseats with memory** seat.
 
@@ -139,10 +139,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
-
-
 ### Second-row seat
 
 
@@ -153,7 +149,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - integrated headrest
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/secondrowseats_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
 
 There is only one type of steering wheel available.
@@ -164,7 +160,7 @@ You can choose from two different climate systems. The  2-zone climate system su
 
 ## Comfort
 
-Porsche Macan Turbo has several features to make your life as a driver or passenger more comfortable.
+Porsche Macan 4 has several features to make your life as a driver or passenger more comfortable.
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
 
@@ -176,41 +172,41 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The Porsche Macan Turbo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The touch screen behind the steering wheel integrated into the dashboard is 12.6 inches large. The touch screen at the top of the center console is 10.9 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
+The Porsche Macan 4 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The touch screen behind the steering wheel integrated into the dashboard is 12.6 inches large. The touch screen at the top of the center console is 10.9 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/screens_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/screens_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
 
 ## Infotainment
 
-You can choose between two sound systems on the Porsche Macan Turbo. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1470 watts.
+You can choose between two sound systems on the Porsche Macan 4. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1470 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Macan Turbo supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Macan 4 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 ## Lights
 
-You can choose between two types of headlights for the Porsche Macan Turbo. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+You can choose between two types of headlights for the Porsche Macan 4. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/headlights_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/headlights_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
 ## Advanced driver assistance systems
 
-The Porsche Macan Turbo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Porsche Macan 4 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
 ### Safety systems
 
 
 
-The Porsche Macan Turbo has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Porsche Macan 4 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Porsche Macan Turbo has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+The Porsche Macan 4 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
-The Porsche Macan Turbo has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Porsche Macan 4 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
@@ -218,7 +214,7 @@ The Porsche Macan Turbo has a [**lane-keeping assist**](../../../../technology/d
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions.
 
-The Porsche Macan Turbo has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Porsche Macan 4 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
 
@@ -226,7 +222,7 @@ The Porsche Macan Turbo has [**automatic emergency braking**](../../../../techno
 
 ### Driving Automation
 
-The Porsche Macan Turbo offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Porsche Macan 4 offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
@@ -248,7 +244,7 @@ The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 12
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/trunk_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/trunk_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
 ### Availability & Pricing
 

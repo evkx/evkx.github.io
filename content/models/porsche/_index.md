@@ -16,7 +16,7 @@ Porsche has been investing heavily in electric vehicle (EV) technology in recent
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Porsche Macan is a premium Coupe SUV available in 1 variants.
+Porsche Macan is a premium Coupe SUV available in 2 variants.
 </p>
 	<a href="macan/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

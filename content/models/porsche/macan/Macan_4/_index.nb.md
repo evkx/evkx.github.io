@@ -1,7 +1,7 @@
 ---
-title: Porsche Macan Turbo
-linktitle: "Macan Turbo"
-description: "Porsche Macan Turbo er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 591 km. EVKX.net har alle detaljene."
+title: Porsche Macan 4
+linktitle: "Macan 4"
+description: "Porsche Macan 4 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 613 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/main_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/main_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
-Vi har delt vår beskrivelse av Porsche Macan Turbo i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har delt vår beskrivelse av Porsche Macan 4 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av Porsche Macan Turbo i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Med overboost har Porsche Macan Turbo en maksimal effekt på 470 KW (639hk). Uten overboost er den 430KW (585hk). Dreiemomentet er 1130 nm med overboost og 1130 uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Macan 4 en maksimal effekt på 300 KW (408hk). Uten overboost er den 270KW (367hk). Dreiemomentet er 650 nm med overboost og 650 uten overboost. Den utfører sprinten 0-100 km/t på 5,2 sekunder. Topphastigheten er 220 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (3,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 591 til 518 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.4kWh/100 km for basisversjonen og 18.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 613 til 516 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.8kWh/100 km for basisversjonen og 18.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 58 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 171kW. Hver ladeøkt vil ta 20 minutter og 22 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 3 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 3% til 67%. Totalt tapt tid for å lade opp batteriet vil være 44 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21,5kWh/100km, vil 1000km ta 9 timer og 2 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 3% til 65%. Totalt tapt tid for å lade opp batteriet vil være 42 minutter.
 
 ### Ombordlader
 
@@ -55,13 +55,13 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 ## Drivverk
 
-Porsche Macan Turbo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Macan 4 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 184 mm, og maksimum er 224 mm.
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Porsche Macan Turbo. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Dynamisk styring er standard-funksjonen på Porsche Macan 4. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
 
@@ -83,7 +83,7 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/exterior_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/exterior_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -96,7 +96,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Porsche Macan Turbo.
+Det er to setetyper du kan velge mellom for første rad i Porsche Macan 4.
 
 Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 
@@ -130,10 +130,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
-
-
 ### Seter på andre rad
 
 
@@ -144,7 +140,7 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 - integrert hodestøtte
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/secondrowseats_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
 
 Det er bare én type ratt tilgjengelig.
@@ -155,7 +151,7 @@ Du kan velge mellom to forskjellige klimasystemer. Klimasystemet  2-zone støtte
 
 ## Komfort
 
-Porsche Macan Turbo har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Porsche Macan 4 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
 
 Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
 
@@ -167,41 +163,41 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-Porsche Macan Turbo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. touch-skjermen bak rattet integrert i dashbordet er 12.6 tommer stor. touch-skjermen øverst på midtkonsollen er 10.9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10.9 tommer stor.
+Porsche Macan 4 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. touch-skjermen bak rattet integrert i dashbordet er 12.6 tommer stor. touch-skjermen øverst på midtkonsollen er 10.9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10.9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/screens_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/screens_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
 
 ## Infotainment
 
-Du kan velge mellom to lydsystemer på Porsche Macan Turbo. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1470 watt.
+Du kan velge mellom to lydsystemer på Porsche Macan 4. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1470 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Macan Turbo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Macan 4 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 ## Lys
 
-Du kan velge mellom to typer frontlykter for Porsche Macan Turbo. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+Du kan velge mellom to typer frontlykter for Porsche Macan 4. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/headlights_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/headlights_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
 ## Avanserte førerassistentsystemer
 
-Porsche Macan Turbo har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+Porsche Macan 4 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
 ### Sikkerhetssystemer
 
 
 
-Porsche Macan Turbo har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Porsche Macan 4 har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Porsche Macan Turbo har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
+Porsche Macan 4 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-Porsche Macan Turbo har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Porsche Macan 4 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er tilvalg førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
@@ -209,7 +205,7 @@ Porsche Macan Turbo har et [**kjørefeltassistent**](../../../../technology/driv
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-Porsche Macan Turbo har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Porsche Macan 4 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 [**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon.
 
@@ -217,7 +213,7 @@ Porsche Macan Turbo har [**automatisk nødbremsing**](../../../../technology/dri
 
 ### Kjøreautomatisering
 
-Porsche Macan Turbo tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
+Porsche Macan 4 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
@@ -239,7 +235,7 @@ Lastkapasiteten i bagasjerommet er 480 liter. Med baksetet nede er det 1288 lite
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
 
 
-{{< sitefiguresized thumb="models/porsche/macan/macan_turbo/trunk_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/macan/macan_4/trunk_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
 ### Tilgjengelighet & pris
 
