@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Macan 4. Klick
 				Max effekt
 			</td>
 			<td>
-				270 KW (367 hk)
+				285 KW (387 hk)
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				184 mm
+				185 mm
 			</td>
 		</tr>
 		<tr>

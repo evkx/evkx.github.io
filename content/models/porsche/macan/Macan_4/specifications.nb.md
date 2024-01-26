@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Macan 4. Kl
 				Maks effekt
 			</td>
 			<td>
-				270 KW (367 hk)
+				285 KW (387 hk)
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				184 mm
+				185 mm
 			</td>
 		</tr>
 		<tr>

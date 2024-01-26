@@ -29,7 +29,7 @@ We have separated our Porsche Macan 4 article into sections. If you want to wait
 
 ## Performance
 
-With overboost, the Porsche Macan 4 has a maximum power of 300 KW (408 hp / 367 bhp). Without overboost, it is 270 KW (367 hp / 402 bhp). The torque is 650 nm with overboost and 650 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,2 seconds. The top speed is 220 km/h.
+With overboost, the Porsche Macan 4 has a maximum power of 300 KW (408 hp / 388 bhp). Without overboost, it is 285 KW (388 hp / 402 bhp). The torque is 650 nm with overboost and 650 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,2 seconds. The top speed is 220 km/h.
 
 ## Battery, range, and charging
 
@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Porsche Macan 4 has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 184 mm. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 184 mm, and the maximum is 224 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 184 mm. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 185 mm, and the maximum is 224 mm.
 
 ### Steering
 

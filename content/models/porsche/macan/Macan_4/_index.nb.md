@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Porsche Macan 4 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Med overboost har Porsche Macan 4 en maksimal effekt på 300 KW (408hk). Uten overboost er den 270KW (367hk). Dreiemomentet er 650 nm med overboost og 650 uten overboost. Den utfører sprinten 0-100 km/t på 5,2 sekunder. Topphastigheten er 220 km/t.
+Med overboost har Porsche Macan 4 en maksimal effekt på 300 KW (408hk). Uten overboost er den 285KW (388hk). Dreiemomentet er 650 nm med overboost og 650 uten overboost. Den utfører sprinten 0-100 km/t på 5,2 sekunder. Topphastigheten er 220 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Porsche Macan 4 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 184 mm. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 184 mm, og maksimum er 224 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 184 mm. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 185 mm, og maksimum er 224 mm.
 
 ### Styring
 

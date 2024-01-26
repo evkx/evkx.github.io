@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Porsche Macan 4 i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-Med overboost har Porsche Macan 4 en maximal effekt på 300 KW (408hk). Utan overboost är det 270KW (367hp). Vridmomentet är 650 Nm med överboost och 650 utan överboost. Den gör sprinten 0-100 km/h på 5,2 sekunder. Topphastigheten är 220 km/h.
+Med overboost har Porsche Macan 4 en maximal effekt på 300 KW (408hk). Utan overboost är det 285KW (388hp). Vridmomentet är 650 Nm med överboost och 650 utan överboost. Den gör sprinten 0-100 km/h på 5,2 sekunder. Topphastigheten är 220 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -57,7 +57,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Porsche Macan 4 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 184 mm. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 184 mm, och maximal är 224 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 184 mm. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 185 mm, och maximal är 224 mm.
 
 ### Styrning
 

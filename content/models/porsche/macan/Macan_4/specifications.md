@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan 4. Cli
 				Peak power
 			</td>
 			<td>
-				270 KW (367 hp /362 bhp)
+				285 KW (387 hp /382 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				184 mm (7,2")
+				185 mm (7,3")
 			</td>
 		</tr>
 		<tr>
