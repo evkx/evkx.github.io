@@ -45,7 +45,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 7,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 12 timer og 4 minutter.
 
-### Opladningsport
+### Ladeport
 
 Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
@@ -57,7 +57,7 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 Nissan Ariya 87kWh e-4ORCE har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
 
-standard-ophænget har en fast højde og dæmpning. Højdehøjden med denne affjedring er 170 mm.
+standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 170 mm.
 
 ### Styring
 

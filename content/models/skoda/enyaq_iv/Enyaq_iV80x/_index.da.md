@@ -49,9 +49,9 @@ Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op t
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
 
-### Opladningsport
+### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal sikkerhedskopiere til opladeren. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -61,9 +61,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 SKODA Enyaq iV80x har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
-standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Højdehøjden med denne affjedring er 187 mm.
+standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 187 mm.
 
-Du kan bestille SKODA Enyaq iV80x med en alternativ sport suspension. sport-ophænget har en fast højde og dæmpning. Højdehøjden med denne affjedring er 171 mm.
+Du kan bestille SKODA Enyaq iV80x med en alternativ sport suspension. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 171 mm.
 
 ### Styring
 

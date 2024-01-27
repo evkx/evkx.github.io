@@ -49,7 +49,7 @@ Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op t
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/charging_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 
-### Opladningsport
+### Ladeport
 
 Placeringen af ladeporten er på [forsiden](../../../../technology/charging/connectors/#front). Denne placering gør det letanvendelige ladestationer, hvor du skal parkere med fronten ind. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
@@ -61,7 +61,7 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 Kia Niro EV har et baghjulstræksystem, der understøttes af en motor på bagakslen.
 
--ophænget har en fast højde og dæmpning. Højdehøjden med denne affjedring er 160 mm.
+-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
 
 ### Bremser
 

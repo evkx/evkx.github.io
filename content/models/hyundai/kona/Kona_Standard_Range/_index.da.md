@@ -49,7 +49,7 @@ Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op t
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/charging_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2054"  >}}
 
 
-### Opladningsport
+### Ladeport
 
 Placeringen af ladeporten er på [forsiden](../../../../technology/charging/connectors/#front). Denne placering gør det letanvendelige ladestationer, hvor du skal parkere med fronten ind. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
@@ -61,7 +61,7 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 Hyundai Kona Standard Range har et forhjulstræksystem understøttet af en motor på forakslen.
 
--ophænget har en fast højde og dæmpning. Højdehøjden med denne affjedring er 178 mm.
+-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
 
 ### Bremser
 

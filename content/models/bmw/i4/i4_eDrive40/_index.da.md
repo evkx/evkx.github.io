@@ -49,9 +49,9 @@ Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op t
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/charging_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2001"  >}}
 
 
-### Opladningsport
+### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal sikkerhedskopiere til opladeren. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -61,7 +61,7 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 BMW i4 eDrive40 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
 
-Standard affjedringen har luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Højdehøjden med denne affjedring er 125 mm. -affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Højdehøjden med denne affjedring er 125 mm.
+Standard affjedringen har luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 125 mm. -affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 125 mm.
 
 ### Styring
 

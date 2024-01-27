@@ -43,7 +43,7 @@ Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % vill
 
 Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 6,6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 28 minutter.
 
-### Opladningsport
+### Ladeport
 
 Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
@@ -55,7 +55,7 @@ Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS C
 
 XPENG G3i har et forhjulstræksystem understøttet af en motor på forakslen.
 
--ophænget har en fast højde og dæmpning. Højdehøjden med denne affjedring er 130 mm.
+-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 130 mm.
 
 ### Bremser
 
