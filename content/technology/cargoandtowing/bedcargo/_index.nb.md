@@ -1,7 +1,7 @@
 ---
 title:  Last i lasteplan
 linktitle: Last i lasteplan
-description: EV pickup-biler kan hjelpe til med å frakte klumpete, tunge eller uregelmessig formede gjenstander som møbler, apparater, verktøy, byggematerialer eller sportsutstyr.
+description: Elektriske pickup-biler kan hjelpe til med å frakte klumpete, tunge eller uregelmessig formede gjenstander som møbler, apparater, verktøy, byggematerialer eller sportsutstyr.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
