@@ -6,7 +6,7 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-## Hva er hensikten med suspensjon?
+## Hva er hensikten med hjuloppheng?
 
 Hensikten med fjæring på biler er å gi en jevn og komfortabel tur for passasjerene samtidig som det sikrer at kjøretøyet er stabilt, kontrollerbart og trygt å kjøre. Fjæringssystemet tjener flere viktige funksjoner, inkludert:
 
