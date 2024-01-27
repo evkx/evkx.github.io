@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW i5 M60 acceleration and noise test</h3>
+<p>Bjørn Nyland: 27.01.2024</p>
+
+{{< youtube 9qDhG-nLgz8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW i5, i4, Mercedes EQE and Tesla Model S charging comparison</h3>
+<p>Bjørn Nyland: 27.01.2024</p>
+
+{{< youtube alnq6k8ZW64 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW i5 M60 interior review</h3>
+<p>Bjørn Nyland: 25.01.2024</p>
+
+{{< youtube m5TwI08qTF8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BMW i5 M60 headlights test</h3>
 <p>Bjørn Nyland: 24.01.2024</p>
 
