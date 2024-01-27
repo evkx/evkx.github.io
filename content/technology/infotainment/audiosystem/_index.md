@@ -2,7 +2,7 @@
 title: Audio system
 linktitle: Audio system
 description: When buying a car, many customers pay particular attention to the audio system. That is because the car is specifically where people listen to music enthusiastically and frequently.
-weight: 2
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -81,3 +81,9 @@ Equalizers allow you to adjust the balance of different frequencies in your musi
 The wiring of a car audio system is crucial for achieving the best sound quality. High-quality wiring can minimize signal loss and noise, resulting in clearer sound. It is essential to use the correct gauge of wire for each component, and all connections should be secure and properly insulated.
 
 {{<evkxdisplayaddarticle />}}
+
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infotainment System</strong></a>
+    <a href="../navigation/" class="text-decoration-none text-black float-end"><strong>Navigation <i class="bi-arrow-right"></i></strong></a>
+</div>

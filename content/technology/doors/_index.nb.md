@@ -133,3 +133,8 @@ Dette er en funksjon som gjør at døren kan åpnes eller lukkes ved å trykke p
 Et flush dørhåndtak på elbiler er en type dørhåndtak som er innfelt i døren og ikke stikker utover. Elbiler har flush dørhåndtak for å redusere aerodynamisk luftmotstand og gi bilen et slankere utseende. Noen stiler tar sikte på å imponere kjøpere med håndtak som dukker ut ved tilnærming. De gir også ekstra sikkerhet, men kommer med ulemper som pålitelighet, sikkerhetshensyn og drift i isete tilstand
 
 {{< sitefiguresized thumb="technology/doors/eqssuvdoorhandle_1_st.jpg" width="3000" height="2000" title="Mercedes EQS SUV Flush dørhåndtak" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../hvac/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Klimasystem</strong></a>
+    <a href="../battery/" class="text-decoration-none text-black float-end"><strong>Elbil batterier <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -139,3 +139,8 @@ Så hvor mye påvirker det rekkevidden.
     </tr>
 </tbody>
 </table>
+
+<div class="mt-3 mb-3">
+    <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lading</strong></a>
+    <a href="../doors/" class="text-decoration-none text-black float-end"><strong>Dører <i class="bi-arrow-right"></i></strong></a>
+</div>

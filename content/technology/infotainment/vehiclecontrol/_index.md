@@ -2,7 +2,7 @@
 title: Vehicle Control
 linktitle: Vehicle Control
 description: From the infotainment system, the driver typical can configure the car settings for various features.
-weight: 2
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -22,3 +22,9 @@ Depending on model you typcal can change between modes that could change
 ## Climate System
 
 Many Infotainment systems have controls for the climate system. Read more in our climate system technology article.
+
+
+<div class="mt-3 mb-3">
+    <a href="../smartphoneintegration/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Smartphone integration</strong></a>
+    <a href="../../interior/" class="text-decoration-none text-black float-end"><strong>Interior <i class="bi-arrow-right"></i></strong></a>
+</div>

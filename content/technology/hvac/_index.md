@@ -139,3 +139,8 @@ So how much does that affect range.
     </tr>
 </tbody>
 </table>
+
+<div class="mt-3 mb-3">
+    <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Charging</strong></a>
+    <a href="../doors/" class="text-decoration-none text-black float-end"><strong>Doors <i class="bi-arrow-right"></i></strong></a>
+</div>

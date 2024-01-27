@@ -2,7 +2,7 @@
 title: Kjøretøykontroll
 linktitle: Kjøretøykontroll
 description: Fra infotainmentsystemet kan sjåføren typisk konfigurere bilinnstillingene for ulike funksjoner.
-weight: 2
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -22,3 +22,9 @@ Avhengig av modell kan du typisk bytte mellom moduser som kan endres
 ## Klimasystem
 
 Mange infotainmentsystemer har kontroller for klimasystemet. Les mer i vår artikkel om klimasystemteknologi.
+
+
+<div class="mt-3 mb-3">
+    <a href="../smartphoneintegration/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Smartphone integration</strong></a>
+    <a href="../../interior/" class="text-decoration-none text-black float-end"><strong>Interior <i class="bi-arrow-right"></i></strong></a>
+</div>

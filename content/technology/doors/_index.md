@@ -133,3 +133,8 @@ This is a feature that allows the door to be opened or closed by pressing a butt
 A flush door handle on EVs is a type of door handle that is recessed into the door and does not protrude outwards. Electric cars have flush door handles to reduce aerodynamic drag and to give the car a sleeker look. Some styles aim to impress buyers with handles that pop out on approach. They also provide extra security but come with downsides such as reliability, safety concerns, and operation in icy condition
 
 {{< sitefiguresized thumb="technology/doors/eqssuvdoorhandle_1_st.jpg" width="3000" height="2000" title="Mercedes EQS SUV Flush doorhandles" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../hvac/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Climate System</strong></a>
+    <a href="../battery/" class="text-decoration-none text-black float-end"><strong>EV Batteries <i class="bi-arrow-right"></i></strong></a>
+</div>

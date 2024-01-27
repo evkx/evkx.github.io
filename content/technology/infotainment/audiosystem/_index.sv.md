@@ -2,7 +2,7 @@
 title: Ljudsystem
 linktitle: Ljudsystem
 description: När man köper en bil är det många kunder som är särskilt uppmärksamma på ljudsystemet. Det beror på att bilen är speciellt där folk lyssnar på musik entusiastiskt och ofta.
-weight: 2
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 Elbilar anses vara bättre att lyssna på musik i jämfört med fossilbilar av flera skäl, som:
@@ -78,3 +78,9 @@ Equalizers låter dig justera balansen mellan olika frekvenser i din musik. De k
 Kabeldragningen till ett bilstereosystem är avgörande för att uppnå bästa ljudkvalitet. Kablage av hög kvalitet kan minimera signalförluster och brus, vilket resulterar i klarare ljud. Det är viktigt att använda rätt kabelmått för varje komponent och alla anslutningar ska vara säkra och ordentligt isolerade.
 
 {{<evkxdisplayaddarticle />}}
+
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infotainmentsystem</strong></a>
+    <a href="../navigation/" class="text-decoration-none text-black float-end"><strong>Navigationssystem <i class="bi-arrow-right"></i></strong></a>
+</div>

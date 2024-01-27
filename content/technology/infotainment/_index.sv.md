@@ -62,3 +62,8 @@ Andra som Polestar och Volvo bygger sina system på [Android Automotive](https:/
 ## Infotainmentskärmar
 
 Infotainmentsystemen är vanligtvis tillgängliga på en eller flera skärmar. Baksidan eller [detaljerad skärmartikel](../userinterface/screens/) för att veta mer.
+
+<div class="mt-3 mb-3">
+    <a href="../glassroof/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Glastak</strong></a>
+    <a href="Ljudsystem/" class="text-decoration-none text-black float-end"><strong>Audio system <i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -2,7 +2,7 @@
 title: Smartphone integration
 linktitle: Smartphone integration
 description: Android Auto och Apple CarPlay är system som gör att du kan koppla din smartphone till bilens infotainmentsystem och komma åt några av telefonens funktioner på bilens display.
-weight: 2
+weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 De är designade för att göra det enklare och säkrare för dig att använda din telefon medan du kör, utan att behöva röra telefonen eller ta blicken från vägen.
@@ -24,3 +24,8 @@ Android Auto och Apple CarPlay har vissa likheter och skillnader, till exempel:
 {{< sitefiguresized thumb="technology/infotainment/smartphoneintegration/kiaev6applecarplay_1_st.jpg" width="3000" height="2018" title="Kia EV6 with Apple Car Play" >}}
 
 Android Auto och Apple CarPlay är system som syftar till att förbättra din körupplevelse genom att integrera din smartphone med bilens infotainmentsystem. De erbjuder liknande funktioner men har olika design och funktionalitet. Beroende på telefonmodell och bilmodell kanske du föredrar det ena systemet framför det andra, eller så kan du använda båda systemen omväxlande
+
+<div class="mt-3 mb-3">
+    <a href="../navigation/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Navigationssystem</strong></a>
+    <a href="../vehiclecontrol/" class="text-decoration-none text-black float-end"><strong>Fordonskontroll <i class="bi-arrow-right"></i></strong></a>
+</div>

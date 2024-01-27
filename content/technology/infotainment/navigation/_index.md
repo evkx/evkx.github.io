@@ -66,3 +66,9 @@ The navigation system can help drivers make the most of their time while their E
 ### Voice control and integration
 
 The navigation system can be controlled by voice commands to allow drivers to keep their eyes on the road and hands on the wheel. The navigation system can also be integrated with other vehicle features, such as climate control, entertainment system, or digital assistant.
+
+
+<div class="mt-3 mb-3">
+    <a href="../audiosystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Audio system</strong></a>
+    <a href="../smartphoneintegration/" class="text-decoration-none text-black float-end"><strong>Smartphone integration <i class="bi-arrow-right"></i></strong></a>
+</div>

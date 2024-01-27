@@ -132,3 +132,8 @@ Detta är en funktion som gör att dörren kan öppnas eller stängas genom att 
 Ett flush dörrhandtag på elbilar är en typ av dörrhandtag som är infällt i dörren och inte sticker ut. Elbilar har jämna dörrhandtag för att minska det aerodynamiska motståndet och ge bilen ett smalare utseende. Vissa stilar syftar till att imponera på köpare med handtag som dyker upp när de närmar sig. De ger också extra säkerhet, men kommer med nackdelar som tillförlitlighet, säkerhetsproblem och drift i isiga förhållanden
 
 {{< sitefiguresized thumb="technology/doors/eqssuvdoorhandle_1_st.jpg" width="3000" height="2000" title="Mercedes EQS SUV Flush dörrhandtag" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../hvac/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Klimatsystem</strong></a>
+    <a href="../battery/" class="text-decoration-none text-black float-end"><strong>Elbils batterier <i class="bi-arrow-right"></i></strong></a>
+</div>

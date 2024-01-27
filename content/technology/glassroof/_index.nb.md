@@ -70,3 +70,8 @@ Elektrokromatisk glasstak er en type som kan endre fargetonenivået basert på m
 
 Et glasspaneltak er en luksusfunksjon som tilfører verdi og komfort
 bilen. Men det øker også vekten og kompleksiteten til bilen og kan redusere drivstoffeffektiviteten og sikkerheten. Et glasspaneltak kan også være mer utsatt for lekkasjer, sprekker eller brudd på grunn av værforhold, veirusk eller ulykker.
+
+<div class="mt-3 mb-3">
+    <a href="../platforms/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Elbil-plattformer</strong></a>
+    <a href="../infotainment/" class="text-decoration-none text-black float-end"><strong>Infotainmentsystem <i class="bi-arrow-right"></i></strong></a>
+</div>

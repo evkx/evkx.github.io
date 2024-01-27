@@ -279,3 +279,10 @@ Tabellen nedan visar de vanligaste EV-plattformarna som använts på modeller un
         </tr>
         </tbody>
 </table>
+
+
+
+<div class="mt-3 mb-3">
+    <a href="../battery/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Elbils batterier</strong></a>
+    <a href="../glassroof/" class="text-decoration-none text-black float-end"><strong>Glastak <i class="bi-arrow-right"></i></strong></a>
+</div>
