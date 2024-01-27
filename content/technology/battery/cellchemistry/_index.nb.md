@@ -160,7 +160,7 @@ Semi-solid state batterier er en hybrid type batteri som kombinerer faste og fly
 
 Quasi solid state-batterier er en annen hybrid type batteri som bruker en gel-lignende elektrolytt i stedet for en flytende eller fast. De har lignende egenskaper som semi solid state-batterier, men med mer fleksibilitet og viskositet. Quasi solid state-batterier kan også danne et beskyttende lag på overflaten av litiummetall, noe som forbedrer sykkelytelsen og sikkerheten til batteriet. Imidlertid lider de også av lav ionisk ledningsevne, høy polarisering og dårlig mekanisk styrke.
 
-## Nåværende samler
+## Strømkollektoren
 
 Strømkollektoren er en komponent i en battericelle som letter flyten av elektrisk strøm mellom elektroden og den eksterne kretsen. I de fleste battericeller er strømsamleren en tynn metallfolie som er plassert på hver side av elektrodematerialet.
 

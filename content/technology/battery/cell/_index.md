@@ -1,7 +1,7 @@
 ---
-title: Cell Housing
-linktitle: Cell Housing
-description: Several types of cell housing exist for battery cells used in electric vehicles.
+title: Cell formats
+linktitle: Cell formats
+description: Several types of cell formats exist for battery cells used in electric vehicles.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->

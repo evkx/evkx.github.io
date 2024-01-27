@@ -1,6 +1,6 @@
 ---
-title: Cellhus
-linktitle: Cellhus
+title: Celleformat
+linktitle: Celleformat
 description: Det finns flera typer av cellhus för battericeller som används i elfordon.
 weight: 3
 ---

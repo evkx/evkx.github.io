@@ -1,7 +1,7 @@
 ---
 title: Garanti
 linktitle: Garanti
-description: Garantien som tilbys av EV-produsenter for deres batterier kan variere avhengig av produsenten og den spesifikke modellen av kjøretøyet.
+description: Garantien som tilbys av elbil-produsenter for deres batterier kan variere avhengig av produsenten og den spesifikke modellen av kjøretøyet.
 weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
