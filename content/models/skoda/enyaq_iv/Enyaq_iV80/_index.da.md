@@ -63,7 +63,7 @@ SKODA Enyaq iV80 har et baghjulstræksystem, der understøttes af en motor på b
 
 standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 187 mm.
 
-Du kan bestille SKODA Enyaq iV80 med en alternativ sport suspension. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 171 mm.
+Du kan bestille SKODA Enyaq iV80 med en alternativ sport hjulophæng. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 171 mm.
 
 ### Styring
 

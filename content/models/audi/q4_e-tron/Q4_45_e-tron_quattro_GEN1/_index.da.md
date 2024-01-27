@@ -69,7 +69,7 @@ Audi Q4 45 e-tron quattro (GEN1) har et firehjulstræk, der understøttes af to 
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 180 mm.
 
-Du kan bestille Audi Q4 45 e-tron quattro (GEN1) med en alternativ sport suspension. Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 165 mm.
+Du kan bestille Audi Q4 45 e-tron quattro (GEN1) med en alternativ sport hjulophæng. Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 165 mm.
 
 ### Styring
 

@@ -159,7 +159,7 @@ Teknologiartiklerne henvender sig til alle, der ønsker at lære mere om EV-tekn
 						<img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_xst.jpg"  alt="Hjuloppheng" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Hjulophæng</h5>
+			<h5>Affjedring</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">

@@ -59,7 +59,7 @@ Volkswagen ID.5 GTX 4MOTION har et firehjulstræk, der understøttes af to motor
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 170 mm.
 
-Du kan bestille Volkswagen ID.5 GTX 4MOTION med en alternativ sport suspension. Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 153 mm.
+Du kan bestille Volkswagen ID.5 GTX 4MOTION med en alternativ sport hjulophæng. Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 153 mm.
 
 ### Styring
 

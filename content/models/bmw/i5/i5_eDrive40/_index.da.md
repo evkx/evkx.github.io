@@ -63,9 +63,9 @@ BMW i5 eDrive40 har et baghjulstræksystem, der understøttes af en motor på ba
 
 Adaptive M Suspension-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 144 mm.
 
-Du kan bestille BMW i5 eDrive40 med en alternativ M Sport Suspension suspension. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
+Du kan bestille BMW i5 eDrive40 med en alternativ M Sport Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
 
-Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professional suspension. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 140 mm.
+Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professional hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 140 mm.
 
 ### Styring
 

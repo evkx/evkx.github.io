@@ -65,7 +65,7 @@ Audi e-tron 50 Sportback har et firehjulstræk, der understøttes af to motorer,
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 152 mm, og maksimum er 248 mm.
 
-Du kan bestille Audi e-tron 50 Sportback med en alternativ Adaptive Air Suspension Sport suspension. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 152 mm, og maksimum er 248 mm.
+Du kan bestille Audi e-tron 50 Sportback med en alternativ Adaptive Air Suspension Sport hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 152 mm, og maksimum er 248 mm.
 
 ### Styring
 

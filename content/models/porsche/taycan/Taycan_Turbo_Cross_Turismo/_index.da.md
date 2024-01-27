@@ -61,9 +61,9 @@ Porsche Taycan Turbo Cross Turismo har et firehjulstræk, der understøttes af t
 
 
 
-Du kan bestille Porsche Taycan Turbo Cross Turismo med en alternativ Adaptive Air Suspension suspension. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 126 mm, og maksimum er 176 mm.
+Du kan bestille Porsche Taycan Turbo Cross Turismo med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 126 mm, og maksimum er 176 mm.
 
-Du kan bestille Porsche Taycan Turbo Cross Turismo med en alternativ Adaptive Air Suspension Offroad Design Package suspension. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 136 mm, og maksimum er 186 mm.
+Du kan bestille Porsche Taycan Turbo Cross Turismo med en alternativ Adaptive Air Suspension Offroad Design Package hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 136 mm, og maksimum er 186 mm.
 
 ### Styring
 

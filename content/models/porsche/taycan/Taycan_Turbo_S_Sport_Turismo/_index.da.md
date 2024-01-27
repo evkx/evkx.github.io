@@ -59,7 +59,7 @@ Porsche Taycan Turbo S Sport Turismo har et firehjulstræk, der understøttes af
 
 
 
-Du kan bestille Porsche Taycan Turbo S Sport Turismo med en alternativ Adaptive Air Suspension suspension. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 103 mm, og maksimum er 126 mm.
+Du kan bestille Porsche Taycan Turbo S Sport Turismo med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 103 mm, og maksimum er 126 mm.
 
 ### Styring
 

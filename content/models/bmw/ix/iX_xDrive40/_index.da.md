@@ -59,7 +59,7 @@ BMW iX xDrive40 har et firehjulstræk, der understøttes af to motorer, en på h
 
 Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 202 mm.
 
-Du kan bestille BMW iX xDrive40 med en alternativ Adaptive Air Suspension suspension. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 193 mm, og maksimum er 223 mm.
+Du kan bestille BMW iX xDrive40 med en alternativ Adaptive Air Suspension hjulophæng. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 193 mm, og maksimum er 223 mm.
 
 ### Styring
 
