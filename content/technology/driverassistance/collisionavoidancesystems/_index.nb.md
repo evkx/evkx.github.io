@@ -26,5 +26,5 @@ Det er viktig å merke seg at selv om disse systemene kan bidra til å forhindre
 
 <div class="mt-3 mb-3">
     <a href="../blindspotmonitoring/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Blind Spot Monitoring</strong></a>
-    <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Driver Drowsiness Detection (DDD)) <i class="bi-arrow-right"></i></strong></a>
+    <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Driver Drowsiness Detection (DDD) <i class="bi-arrow-right"></i></strong></a>
 </div>
