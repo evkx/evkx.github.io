@@ -1,7 +1,7 @@
 ---
 title: MG Marvel R Electric Performance
 linktitle: "Marvel R Electric Performance"
-description: "MG Marvel R Electric Performance er en helt elektrisk SUV med en rækkevidde på WLTP på op til 370 km (230 miles). EVKX.net har alle detaljerne."
+description: "MG Marvel R Electric Performance er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 370 km (230 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -182,7 +182,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 359 liter. Med bagsædet nede er det 1396 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5,3 CU FT). Bilens maksimale vægt er 2373 kg (5232 lbs), og med basisvægten på 1920 kg (4233 lbs), kan du maksimalt laste 453 kg (999 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 453kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 

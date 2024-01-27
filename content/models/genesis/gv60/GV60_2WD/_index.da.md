@@ -1,7 +1,7 @@
 ---
 title: Genesis GV60 2WD
 linktitle: "GV60 2WD"
-description: "Genesis GV60 2WD er en helt elektrisk SUV med en rækkevidde på WLTP på op til 517 km (321 miles). EVKX.net har alle detaljerne."
+description: "Genesis GV60 2WD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 517 km (321 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -201,7 +201,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 432 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

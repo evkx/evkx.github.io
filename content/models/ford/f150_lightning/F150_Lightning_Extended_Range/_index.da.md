@@ -1,7 +1,7 @@
 ---
 title: Ford F150 Lightning Extended Range
 linktitle: "F150 Lightning Extended Range"
-description: "Ford F150 Lightning Extended Range er en helelektrisk pickup med en EPA rækkevidde på op til 515 km (320 miles). EVKX.net har alle detaljerne."
+description: "Ford F150 Lightning Extended Range er en fuldelektrisk pickup med en EPA rækkevidde på op til 515 km (320 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -202,7 +202,7 @@ Med Ford Co-Pilot360™ Active 2.0  niveau 2-systemet får du yderligere køreau
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lastkapaciteten i lastbilens lad er 1495 liter. Ladebredden er 1285 mm, og længden er 1704 mm. Den maksimale lastvægt i lad er 907 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 399 liter (14,1 CU FT). Bilens maksimale vægt er 3878 kg (8550 lbs), og med basisvægten på 2988 kg (6587 lbs), kan du maksimalt laste 890 kg (1962 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

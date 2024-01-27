@@ -1,7 +1,7 @@
 ---
 title: Neta GT 580 AWD
 linktitle: "GT 580 AWD"
-description: "Neta GT 580 AWD er en helelektrisk coupé med en CLTC rækkevidde på op til 580 km (361 miles). EVKX.net har alle detaljerne."
+description: "Neta GT 580 AWD er en fuldelektrisk coupé med en CLTC rækkevidde på op til 580 km (361 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -191,7 +191,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 297 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 50 liter (1,8 CU FT).
 

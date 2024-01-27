@@ -1,7 +1,7 @@
 ---
 title: Nio ET5 Touring
 linktitle: "ET5 Touring"
-description: "Nio ET5 Touring er en helelektrisk stationcar med en WLTP rækkevidde på op til 560 km (348 miles). EVKX.net har alle detaljerne."
+description: "Nio ET5 Touring er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 560 km (348 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -223,7 +223,7 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 450 liter. Med bagsædet nede er det 1447 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

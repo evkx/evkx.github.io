@@ -1,7 +1,7 @@
 ---
 title: Honda e:Ny1
 linktitle: "e:Ny1"
-description: "Honda e:Ny1 er en helelektrisk delefilter med en WLTP rækkevidde på op til 412 km (256 miles). EVKX.net har alle detaljerne."
+description: "Honda e:Ny1 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 412 km (256 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -152,7 +152,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 346 liter. Bilens maksimale vægt er 2080 kg (4586 lbs), og med basisvægten på 1677 kg (3697 lbs), kan du maksimalt laste 403 kg (888 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: MG Cyberster AWD Long Range
 linktitle: "Cyberster AWD Long Range"
-description: "MG Cyberster AWD Long Range er en helelektrisk cabriolet med en CLTC rækkevidde på op til 520 km (323 miles). EVKX.net har alle detaljerne."
+description: "MG Cyberster AWD Long Range er en fuldelektrisk cabriolet med en CLTC rækkevidde på op til 520 km (323 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -168,7 +168,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 240 liter. Bilens maksimale vægt er 2250 kg (4960 lbs), og med basisvægten på 1985 kg (4376 lbs), kan du maksimalt laste 265 kg (584 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

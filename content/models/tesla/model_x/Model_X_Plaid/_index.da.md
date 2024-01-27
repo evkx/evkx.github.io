@@ -1,7 +1,7 @@
 ---
 title: Tesla Model X Plaid
 linktitle: "Model X Plaid"
-description: "Tesla Model X Plaid er en helt elektrisk SUV med en rækkevidde på WLTP på op til 543 km (338 miles). EVKX.net har alle detaljerne."
+description: "Tesla Model X Plaid er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 543 km (338 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -214,7 +214,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 709 liter. Med bagsædet nede er det 1828 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 183 liter (6,5 CU FT). Bilens maksimale vægt er 2970 kg (6548 lbs), og med basisvægten på 2464 kg (5432 lbs), kan du maksimalt laste 506 kg (1116 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

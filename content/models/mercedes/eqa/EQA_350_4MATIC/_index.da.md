@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQA 350 4MATIC
 linktitle: "EQA 350 4MATIC"
-description: "Mercedes-EQ EQA 350 4MATIC er en helelektrisk premium crossover med en WLTP rækkevidde på op til 438 km (272 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-EQ EQA 350 4MATIC er en fuldelektrisk premium crossover med en WLTP rækkevidde på op til 438 km (272 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -223,7 +223,7 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 340 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2535 kg (5589 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

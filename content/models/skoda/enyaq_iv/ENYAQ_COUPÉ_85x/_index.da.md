@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ 85x
 linktitle: "ENYAQ COUPÉ 85x"
-description: "SKODA ENYAQ COUPÉ 85x er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 545 km (339 miles). EVKX.net har alle detaljerne."
+description: "SKODA ENYAQ COUPÉ 85x er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 545 km (339 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -207,7 +207,7 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1610 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2180 kg (4806 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

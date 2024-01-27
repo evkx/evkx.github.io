@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 RWD Long Range
 linktitle: "G9 RWD Long Range"
-description: "XPENG G9 RWD Long Range er en helt elektrisk SUV med en rækkevidde på WLTP på op til 570 km (354 miles). EVKX.net har alle detaljerne."
+description: "XPENG G9 RWD Long Range er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 570 km (354 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -211,7 +211,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1576 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2,5 CU FT). Bilens maksimale vægt er 2680 kg (5908 lbs), og med basisvægten på 2230 kg (4916 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 450kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 

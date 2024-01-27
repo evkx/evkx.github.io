@@ -1,7 +1,7 @@
 ---
 title: Fisker Ocean Extreme
 linktitle: "Ocean Extreme"
-description: "Fisker Ocean Extreme er en helt elektrisk SUV med en rækkevidde på WLTP på op til 707 km (439 miles). EVKX.net har alle detaljerne."
+description: "Fisker Ocean Extreme er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 707 km (439 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -210,7 +210,7 @@ Med Fisker Intelligent Pilot  niveau 2-systemet får du følgende køreautomatis
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 476 liter. Med bagsædet nede er det 918 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2974 kg (6557 lbs), og med basisvægten på 2433 kg (5364 lbs), kan du maksimalt laste 541 kg (1193 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

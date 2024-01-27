@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron 55 Sportback
 linktitle: "e-tron 55 Sportback"
-description: "Audi e-tron 55 Sportback er en helt elektrisk luksus coupe SUV med en WLTP rækkevidde på op til 452 km (281 miles). EVKX.net har alle detaljerne."
+description: "Audi e-tron 55 Sportback er en fuldelektrisk luksus coupe SUV med en WLTP rækkevidde på op til 452 km (281 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -299,7 +299,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

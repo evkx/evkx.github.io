@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 77 e-BOOST
 linktitle: "BORN 77 e-BOOST"
-description: "CUPRA BORN 77 e-BOOST er en helelektrisk hatchback med en WLTP rækkevidde på op til 548 km (341 miles). EVKX.net har alle detaljerne."
+description: "CUPRA BORN 77 e-BOOST er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 548 km (341 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -210,7 +210,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2300 kg (5071 lbs), og med basisvægten på 1895 kg (4178 lbs), kan du maksimalt laste 405 kg (893 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

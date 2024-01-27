@@ -1,7 +1,7 @@
 ---
 title: Rimac Nevera
 linktitle: "Nevera"
-description: "Rimac Nevera er en helelektrisk luksushyperbil med en WLTP rækkevidde på op til 490 km (305 miles). EVKX.net har alle detaljerne."
+description: "Rimac Nevera er en fuldelektrisk luksushyperbil med en WLTP rækkevidde på op til 490 km (305 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -183,7 +183,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 100 liter. Bilens maksimale vægt er 2550 kg (5622 lbs), og med basisvægten på 2300 kg (5071 lbs), kan du maksimalt laste 250 kg (551 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3
 linktitle: "ë-C3"
-description: "Citroën ë-C3 er en helelektrisk delefilter med en WLTP rækkevidde på op til 320 km (199 miles). EVKX.net har alle detaljerne."
+description: "Citroën ë-C3 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 320 km (199 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -181,7 +181,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 310 liter.
 

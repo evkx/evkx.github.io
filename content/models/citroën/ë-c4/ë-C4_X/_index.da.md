@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C4 X
 linktitle: "ë-C4 X"
-description: "Citroën ë-C4 X er en helelektrisk delefilter med en WLTP rækkevidde på op til 402 km (250 miles). EVKX.net har alle detaljerne."
+description: "Citroën ë-C4 X er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 402 km (250 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -170,7 +170,7 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 350 liter. Med bagsædet nede er det 1050 liter. Bilens maksimale vægt er 2008 kg (4427 lbs), og med basisvægten på 1550 kg (3417 lbs), kan du maksimalt laste 458 kg (1010 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

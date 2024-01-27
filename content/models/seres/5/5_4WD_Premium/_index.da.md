@@ -1,7 +1,7 @@
 ---
 title: Seres 5 4WD Premium
 linktitle: "5 4WD Premium"
-description: "Seres 5 4WD Premium er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 483 km (300 miles). EVKX.net har alle detaljerne."
+description: "Seres 5 4WD Premium er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 483 km (300 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -196,7 +196,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 367 liter. Med bagsædet nede er det 723 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 67 liter (2,4 CU FT). Bilens maksimale vægt er 2735 kg (6030 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 375 kg (827 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 375kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 

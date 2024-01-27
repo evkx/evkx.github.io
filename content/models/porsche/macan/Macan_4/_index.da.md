@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan 4
 linktitle: "Macan 4"
-description: "Porsche Macan 4 er en helt elektrisk premium coupe SUV med en rækkevidde på WLTP på op til 613 km (381 miles). EVKX.net har alle detaljerne."
+description: "Porsche Macan 4 er en fuldelektrisk premium coupe SUV med en rækkevidde på WLTP på op til 613 km (381 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -237,7 +237,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 540 liter. Med bagsædet nede er det 1348 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2920 kg (6437 lbs), og med basisvægten på 2255 kg (4971 lbs), kan du maksimalt laste 665 kg (1466 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

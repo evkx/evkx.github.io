@@ -1,7 +1,7 @@
 ---
 title: Subaru Solterra AWD
 linktitle: "Solterra AWD"
-description: "Subaru Solterra AWD er en helt elektrisk SUV med en rækkevidde på WLTP på op til 466 km (290 miles). EVKX.net har alle detaljerne."
+description: "Subaru Solterra AWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 466 km (290 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -191,7 +191,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 441 liter. Med bagsædet nede er det 784 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2550 kg (5622 lbs), og med basisvægten på 2010 kg (4431 lbs), kan du maksimalt laste 540 kg (1190 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

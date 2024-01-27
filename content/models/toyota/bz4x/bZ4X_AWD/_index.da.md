@@ -1,7 +1,7 @@
 ---
 title: Toyota bZ4X AWD
 linktitle: "bZ4X AWD"
-description: "Toyota bZ4X AWD er en helt elektrisk SUV med en rækkevidde på WLTP på op til 470 km (292 miles). EVKX.net har alle detaljerne."
+description: "Toyota bZ4X AWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 470 km (292 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -183,7 +183,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 452 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 2015 kg (4442 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

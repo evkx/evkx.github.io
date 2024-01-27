@@ -1,7 +1,7 @@
 ---
 title: Tesla Cybertruck AWD
 linktitle: "Cybertruck AWD"
-description: "Tesla Cybertruck AWD er en helelektrisk pickup med en EPA rækkevidde på op til 547 km (340 miles). EVKX.net har alle detaljerne."
+description: "Tesla Cybertruck AWD er en fuldelektrisk pickup med en EPA rækkevidde på op til 547 km (340 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -237,7 +237,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lastkapaciteten i lastbilens lad er 1897,23 liter. Ladebredden er 1295 mm, og længden er 1849 mm. Den maksimale lastvægt i lad er 1134 kg. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 201 liter (7,1 CU FT). Bilens maksimale vægt er 4159 kg (9169 lbs), og med basisvægten på 3025 kg (6669 lbs), kan du maksimalt laste 1134 kg (2500 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

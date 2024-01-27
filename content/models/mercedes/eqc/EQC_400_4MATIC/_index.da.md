@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQC 400 4MATIC
 linktitle: "EQC 400 4MATIC"
-description: "Mercedes-EQ EQC 400 4MATIC er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 432 km (269 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-EQ EQC 400 4MATIC er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 432 km (269 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -176,7 +176,7 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2940 kg (6482 lbs), og med basisvægten på 2420 kg (5335 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

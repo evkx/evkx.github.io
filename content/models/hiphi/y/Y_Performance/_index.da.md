@@ -1,7 +1,7 @@
 ---
 title: HiPhi Y Performance
 linktitle: "Y Performance"
-description: "HiPhi Y Performance er en helt elektrisk premium-SUV med en rækkevidde på WLTP på op til 620 km (385 miles). EVKX.net har alle detaljerne."
+description: "HiPhi Y Performance er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 620 km (385 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -211,7 +211,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 692 liter. Med bagsædet nede er det 1848 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 85 liter (3,0 CU FT).
 

@@ -1,7 +1,7 @@
 ---
 title: Kia EV9 Long Range AWD
 linktitle: "EV9 Long Range AWD"
-description: "Kia EV9 Long Range AWD er en helt elektrisk SUV med en rækkevidde på WLTP på op til 497 km (309 miles). EVKX.net har alle detaljerne."
+description: "Kia EV9 Long Range AWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 497 km (309 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -225,7 +225,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 333 liter. Med bagsædet nede er det 2393 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 55 liter (1,9 CU FT). Bilens maksimale vægt er 3190 kg (7033 lbs), og med basisvægten på 2637 kg (5814 lbs), kan du maksimalt laste 553 kg (1219 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

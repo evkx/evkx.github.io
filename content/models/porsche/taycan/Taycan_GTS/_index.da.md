@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan GTS
 linktitle: "Taycan GTS"
-description: "Porsche Taycan GTS er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 504 km (313 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan GTS er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 504 km (313 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -241,7 +241,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2295 kg (5060 lbs), kan du maksimalt laste 555 kg (1224 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

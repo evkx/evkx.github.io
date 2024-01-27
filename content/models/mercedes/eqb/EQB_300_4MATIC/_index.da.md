@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQB 300 4MATIC
 linktitle: "EQB 300 4MATIC"
-description: "Mercedes-EQ EQB 300 4MATIC er en helt elektrisk premium-SUV med en rækkevidde på WLTP på op til 423 km (263 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-EQ EQB 300 4MATIC er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 423 km (263 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -225,7 +225,7 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 495 liter. Med bagsædet nede er det 1410 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2580 kg (5688 lbs), og med basisvægten på 2100 kg (4630 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 480kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 

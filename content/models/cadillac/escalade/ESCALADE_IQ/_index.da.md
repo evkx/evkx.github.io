@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ
 linktitle: "ESCALADE IQ"
-description: "Cadillac ESCALADE IQ er en helt elektrisk SUV med en rækkevidde på EPA på op til 724 km (450 miles). EVKX.net har alle detaljerne."
+description: "Cadillac ESCALADE IQ er en fuldelektrisk SUV med en rækkevidde på EPA på op til 724 km (450 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -205,7 +205,7 @@ Med Super Cruise  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 670 liter. Med bagsædet nede er det 3374 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 345 liter (12,2 CU FT). Bilens maksimale vægt er 4717 kg (10399 lbs), og med basisvægten på 4103 kg (9046 lbs), kan du maksimalt laste 614 kg (1354 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

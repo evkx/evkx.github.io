@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 Long Range 2WD
 linktitle: "Ioniq 5 Long Range 2WD"
-description: "Hyundai Ioniq 5 Long Range 2WD er en helt elektrisk SUV med en rækkevidde på WLTP på op til 507 km (315 miles). EVKX.net har alle detaljerne."
+description: "Hyundai Ioniq 5 Long Range 2WD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 507 km (315 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -201,7 +201,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 527 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 80 kg (176,4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 57 liter (2,0 CU FT). Bilens maksimale vægt er 2450 kg (5401 lbs), og med basisvægten på 1935 kg (4266 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

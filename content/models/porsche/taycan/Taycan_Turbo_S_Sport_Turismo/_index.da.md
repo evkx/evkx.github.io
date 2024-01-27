@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S Sport Turismo
 linktitle: "Taycan Turbo S Sport Turismo"
-description: "Porsche Taycan Turbo S Sport Turismo er en al-elektrisk luksus stationcar med en WLTP rækkevidde på op til 457 km (284 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan Turbo S Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 457 km (284 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -235,7 +235,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 446 liter. Med bagsædet nede er det 1212 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2870 kg (6327 lbs), og med basisvægten på 2250 kg (4960 lbs), kan du maksimalt laste 620 kg (1367 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Blazer EV RS AWD
 linktitle: "Blazer EV RS AWD"
-description: "Chevrolet Blazer EV RS AWD er en helt elektrisk SUV med en rækkevidde på EPA på op til 449 km (279 miles). EVKX.net har alle detaljerne."
+description: "Chevrolet Blazer EV RS AWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 449 km (279 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -188,7 +188,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 863 liter. Med bagsædet nede er det 1676 liter.
 

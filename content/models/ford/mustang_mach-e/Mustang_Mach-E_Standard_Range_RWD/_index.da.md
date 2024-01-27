@@ -1,7 +1,7 @@
 ---
 title: Ford Mustang Mach-E Standard Range RWD
 linktitle: "Mustang Mach-E Standard Range RWD"
-description: "Ford Mustang Mach-E Standard Range RWD er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 440 km (274 miles). EVKX.net har alle detaljerne."
+description: "Ford Mustang Mach-E Standard Range RWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 440 km (274 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -207,7 +207,7 @@ Med Ford BlueCruise  niveau 2-systemet får du følgende køreautomatiseringsfun
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 402 liter. Med bagsædet nede er det 1420 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 100 liter (3,5 CU FT). Bilens maksimale vægt er 2640 kg (5820 lbs), og med basisvægten på 2063 kg (4548 lbs), kan du maksimalt laste 577 kg (1272 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: Nio EL7
 linktitle: "EL7"
-description: "Nio EL7 er en helt elektrisk SUV med en rækkevidde på WLTP på op til 513 km (319 miles). EVKX.net har alle detaljerne."
+description: "Nio EL7 er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 513 km (319 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -231,7 +231,7 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1545 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2366 kg (5216 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 484kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 

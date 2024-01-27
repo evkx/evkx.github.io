@@ -1,7 +1,7 @@
 ---
 title: XPENG P7 AWD Performance
 linktitle: "P7 AWD Performance"
-description: "XPENG P7 AWD Performance er en helelektrisk sedan med en WLTP rækkevidde på op til 505 km (314 miles). EVKX.net har alle detaljerne."
+description: "XPENG P7 AWD Performance er en fuldelektrisk sedan med en WLTP rækkevidde på op til 505 km (314 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -197,7 +197,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 440 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 0 liter (0,0 CU FT). Bilens maksimale vægt er 2570 kg (5666 lbs), og med basisvægten på 2055 kg (4530 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

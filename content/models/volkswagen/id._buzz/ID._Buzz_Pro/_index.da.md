@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID. Buzz Pro
 linktitle: "ID. Buzz Pro"
-description: "Volkswagen ID. Buzz Pro er en helelektrisk MPV med en WLTP rækkevidde på op til 418 km (260 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID. Buzz Pro er en fuldelektrisk MPV med en WLTP rækkevidde på op til 418 km (260 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -221,7 +221,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 1121 liter. Med bagsædet nede er det 2205 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3000 kg (6614 lbs), og med basisvægten på 2416 kg (5326 lbs), kan du maksimalt laste 584 kg (1287 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

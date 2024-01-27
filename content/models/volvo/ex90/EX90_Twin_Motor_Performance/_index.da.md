@@ -1,7 +1,7 @@
 ---
 title: Volvo EX90 Twin Motor Performance
 linktitle: "EX90 Twin Motor Performance"
-description: "Volvo EX90 Twin Motor Performance er en helt elektrisk SUV med en rækkevidde på WLTP på op til 580 km (361 miles). EVKX.net har alle detaljerne."
+description: "Volvo EX90 Twin Motor Performance er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 580 km (361 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -206,7 +206,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 311 liter. Med bagsædet nede er det 1411 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 37 liter (1,3 CU FT). Bilens maksimale vægt er 3380 kg (7452 lbs), og med basisvægten på 2748 kg (6058 lbs), kan du maksimalt laste 632 kg (1393 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: SKODA Enyaq iV80
 linktitle: "Enyaq iV80"
-description: "SKODA Enyaq iV80 er en helt elektrisk SUV med en rækkevidde på WLTP på op til 534 km (332 miles). EVKX.net har alle detaljerne."
+description: "SKODA Enyaq iV80 er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 534 km (332 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -227,7 +227,7 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 585 liter. Med bagsædet nede er det 1710 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2540 kg (5600 lbs), og med basisvægten på 2032 kg (4480 lbs), kan du maksimalt laste 508 kg (1120 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

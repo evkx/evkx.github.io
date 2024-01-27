@@ -1,7 +1,7 @@
 ---
 title: Mercedes-Maybach EQS 680 SUV
 linktitle: "EQS 680 SUV"
-description: "Mercedes-Maybach EQS 680 SUV er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 612 km (380 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-Maybach EQS 680 SUV er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 612 km (380 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -232,7 +232,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 440 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2735 kg (6030 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

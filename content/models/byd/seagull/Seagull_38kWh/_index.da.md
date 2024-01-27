@@ -1,7 +1,7 @@
 ---
 title: BYD Seagull 38kWh
 linktitle: "Seagull 38kWh"
-description: "BYD Seagull 38kWh er en helelektrisk hatchback med en CLTC rækkevidde på op til 405 km (252 miles). EVKX.net har alle detaljerne."
+description: "BYD Seagull 38kWh er en fuldelektrisk hatchback med en CLTC rækkevidde på op til 405 km (252 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -187,7 +187,7 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 300 liter. Med bagsædet nede er det 900 liter. Bilens maksimale vægt er 1550 kg (3417 lbs), og med basisvægten på 1240 kg (2734 lbs), kan du maksimalt laste 310 kg (683 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

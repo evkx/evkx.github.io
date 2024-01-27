@@ -1,7 +1,7 @@
 ---
 title: Hongqi E-HS9 Exclusive
 linktitle: "E-HS9 Exclusive"
-description: "Hongqi E-HS9 Exclusive er en helt elektrisk SUV med en rækkevidde på WLTP på op til 465 km (289 miles). EVKX.net har alle detaljerne."
+description: "Hongqi E-HS9 Exclusive er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 465 km (289 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -212,7 +212,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 225 liter. Med sædet på tredje række nede er det 622 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3180 kg (7011 lbs), og med basisvægten på 2630 kg (5798 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

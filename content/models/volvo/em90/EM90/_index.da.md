@@ -1,7 +1,7 @@
 ---
 title: Volvo EM90
 linktitle: "EM90"
-description: "Volvo EM90 er en helt elektrisk premium MPV med en CLTC rækkevidde på op til 738 km (459 miles). EVKX.net har alle detaljerne."
+description: "Volvo EM90 er en fuldelektrisk premium MPV med en CLTC rækkevidde på op til 738 km (459 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -209,7 +209,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 376 liter. Med sædet på tredje række nede er det 2979 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1,1 CU FT). Bilens maksimale vægt er 3400 kg (7496 lbs), og med basisvægten på 2763 kg (6091 lbs), kan du maksimalt laste 637 kg (1404 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: Smart #3 Brabus
 linktitle: "#3 Brabus"
-description: "Smart #3 Brabus er en helelektrisk delefilter med en WLTP rækkevidde på op til 415 km (258 miles). EVKX.net har alle detaljerne."
+description: "Smart #3 Brabus er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 415 km (258 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -197,7 +197,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 370 liter. Med bagsædet nede er det 1160 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 15 liter (0,5 CU FT). Bilens maksimale vægt er 2360 kg (5203 lbs), og med basisvægten på 1910 kg (4211 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

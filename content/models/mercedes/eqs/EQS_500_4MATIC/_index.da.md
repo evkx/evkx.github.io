@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 500 4MATIC
 linktitle: "EQS 500 4MATIC"
-description: "Mercedes-EQ EQS 500 4MATIC er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 696 km (433 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-EQ EQS 500 4MATIC er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 696 km (433 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -245,7 +245,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2540 kg (5600 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

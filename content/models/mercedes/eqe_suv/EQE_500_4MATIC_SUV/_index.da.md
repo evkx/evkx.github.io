@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQE 500 4MATIC SUV
 linktitle: "EQE 500 4MATIC SUV"
-description: "Mercedes-EQ EQE 500 4MATIC SUV er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 547 km (340 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-EQ EQE 500 4MATIC SUV er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 547 km (340 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -238,7 +238,7 @@ Med Driver Assistance Package Plus  niveau 2-systemet får du yderligere køreau
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1675 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3095 kg (6823 lbs), og med basisvægten på 2560 kg (5644 lbs), kan du maksimalt laste 535 kg (1179 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

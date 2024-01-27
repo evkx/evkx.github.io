@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo Cross Turismo
 linktitle: "Taycan Turbo Cross Turismo"
-description: "Porsche Taycan Turbo Cross Turismo er en al-elektrisk luksus stationcar med en WLTP rækkevidde på op til 452 km (281 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan Turbo Cross Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 452 km (281 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -251,7 +251,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2320 kg (5115 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

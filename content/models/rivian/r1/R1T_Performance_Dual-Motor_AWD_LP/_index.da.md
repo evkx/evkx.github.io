@@ -1,7 +1,7 @@
 ---
 title: Rivian R1T Performance Dual-Motor AWD LP
 linktitle: "R1T Performance Dual-Motor AWD LP"
-description: "Rivian R1T Performance Dual-Motor AWD LP er en helelektrisk pickup med en EPA rækkevidde på op til 566 km (352 miles). EVKX.net har alle detaljerne."
+description: "Rivian R1T Performance Dual-Motor AWD LP er en fuldelektrisk pickup med en EPA rækkevidde på op til 566 km (352 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -201,7 +201,7 @@ Med Driver+  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lastkapaciteten i lastbilens lad er 1925 liter. Ladebredden er 1275 mm, og længden er 1371 mm. Den maksimale lastvægt i lad er 800 kg. På taget kan du laste op til 113 kg (249,1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11,1 CU FT). Bilens maksimale vægt er 3870 kg (8532 lbs), og med basisvægten på 2858 kg (6301 lbs), kan du maksimalt laste 1012 kg (2231 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

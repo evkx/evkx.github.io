@@ -1,7 +1,7 @@
 ---
 title: BMW iX M60
 linktitle: "iX M60"
-description: "BMW iX M60 er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 561 km (349 miles). EVKX.net har alle detaljerne."
+description: "BMW iX M60 er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 561 km (349 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -211,7 +211,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1750 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3135 kg (6911 lbs), og med basisvægten på 2510 kg (5534 lbs), kan du maksimalt laste 625 kg (1378 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

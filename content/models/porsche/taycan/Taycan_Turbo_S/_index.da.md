@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S
 linktitle: "Taycan Turbo S"
-description: "Porsche Taycan Turbo S er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 507 km (315 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan Turbo S er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 507 km (315 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -235,7 +235,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 366 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2230 kg (4916 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: XPENG G9 AWD Performance
 linktitle: "G9 AWD Performance"
-description: "XPENG G9 AWD Performance er en helt elektrisk SUV med en rækkevidde på WLTP på op til 520 km (323 miles). EVKX.net har alle detaljerne."
+description: "XPENG G9 AWD Performance er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 520 km (323 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -211,7 +211,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1576 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2,5 CU FT). Bilens maksimale vægt er 2800 kg (6173 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 440 kg (970 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 440kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 

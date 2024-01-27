@@ -1,7 +1,7 @@
 ---
 title: BYD Atto 3
 linktitle: "Atto 3"
-description: "BYD Atto 3 er en helelektrisk delefilter med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
+description: "BYD Atto 3 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -213,7 +213,7 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1338 liter. På taget kan du laste op til 50 kg (110,2 lbs). Bilens maksimale vægt er 2160 kg (4762 lbs), og med basisvægten på 1750 kg (3858 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

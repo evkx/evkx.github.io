@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 450+ SUV
 linktitle: "EQS 450+ SUV"
-description: "Mercedes-EQ EQS 450+ SUV er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 672 km (418 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-EQ EQS 450+ SUV er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 672 km (418 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -248,7 +248,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3265 kg (7198 lbs), og med basisvægten på 2620 kg (5776 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

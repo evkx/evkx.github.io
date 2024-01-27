@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 45 e-tron
 linktitle: "Q4 45 e-tron"
-description: "Audi Q4 45 e-tron er en helt elektrisk premium-SUV med en rækkevidde på WLTP på op til 544 km (338 miles). EVKX.net har alle detaljerne."
+description: "Audi Q4 45 e-tron er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 544 km (338 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -236,7 +236,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1490 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2070 kg (4564 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

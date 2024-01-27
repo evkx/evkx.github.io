@@ -1,7 +1,7 @@
 ---
 title: Tesla Model S Standard Range
 linktitle: "Model S Standard Range"
-description: "Tesla Model S Standard Range er en helelektrisk sedan med en WLTP rækkevidde på op til 512 km (318 miles). EVKX.net har alle detaljerne."
+description: "Tesla Model S Standard Range er en fuldelektrisk sedan med en WLTP rækkevidde på op til 512 km (318 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -208,7 +208,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 709 liter. Med bagsædet nede er det 1828 liter. På taget kan du laste op til 70 kg (154,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 89 liter (3,1 CU FT). Bilens maksimale vægt er 2629 kg (5796 lbs), og med basisvægten på 2265 kg (4993 lbs), kan du maksimalt laste 364 kg (802 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

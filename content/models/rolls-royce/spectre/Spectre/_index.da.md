@@ -1,7 +1,7 @@
 ---
 title: Rolls-Royce Spectre
 linktitle: "Spectre"
-description: "Rolls-Royce Spectre er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 530 km (329 miles). EVKX.net har alle detaljerne."
+description: "Rolls-Royce Spectre er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 530 km (329 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -219,7 +219,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 500 liter. Bilens maksimale vægt er 3400 kg (7496 lbs), og med basisvægten på 2890 kg (6371 lbs), kan du maksimalt laste 510 kg (1124 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

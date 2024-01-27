@@ -1,7 +1,7 @@
 ---
 title: Jeep Avenger
 linktitle: "Avenger"
-description: "Jeep Avenger er en helelektrisk delefilter med en WLTP rækkevidde på op til 404 km (251 miles). EVKX.net har alle detaljerne."
+description: "Jeep Avenger er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 404 km (251 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -179,7 +179,7 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 355 liter. Med bagsædet nede er det 1050 liter. Bilens maksimale vægt er 2025 kg (4464 lbs), og med basisvægten på 1520 kg (3351 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

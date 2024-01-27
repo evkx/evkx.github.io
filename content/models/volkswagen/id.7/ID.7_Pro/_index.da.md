@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Pro
 linktitle: "ID.7 Pro"
-description: "Volkswagen ID.7 Pro er en helelektrisk sedan med en WLTP rækkevidde på op til 615 km (382 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID.7 Pro er en fuldelektrisk sedan med en WLTP rækkevidde på op til 615 km (382 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -228,7 +228,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 542 liter. Med bagsædet nede er det 1575 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2630 kg (5798 lbs), og med basisvægten på 2152 kg (4744 lbs), kan du maksimalt laste 478 kg (1054 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

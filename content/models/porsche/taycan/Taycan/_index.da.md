@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan
 linktitle: "Taycan"
-description: "Porsche Taycan er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 431 km (268 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 431 km (268 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -253,7 +253,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2795 kg (6162 lbs), og med basisvægten på 2075 kg (4575 lbs), kan du maksimalt laste 720 kg (1587 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

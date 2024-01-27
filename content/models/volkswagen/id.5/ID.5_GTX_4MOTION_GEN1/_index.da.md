@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.5 GTX 4MOTION (GEN1)
 linktitle: "ID.5 GTX 4MOTION GEN1"
-description: "Volkswagen ID.5 GTX 4MOTION (GEN1) er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 496 km (308 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID.5 GTX 4MOTION (GEN1) er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 496 km (308 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -233,7 +233,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 549 liter. Med bagsædet nede er det 1561 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2750 kg (6063 lbs), og med basisvægten på 2167 kg (4777 lbs), kan du maksimalt laste 583 kg (1285 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

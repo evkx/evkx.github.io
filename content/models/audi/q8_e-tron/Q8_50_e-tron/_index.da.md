@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 50 e-tron
 linktitle: "Q8 50 e-tron"
-description: "Audi Q8 50 e-tron er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 491 km (305 miles). EVKX.net har alle detaljerne."
+description: "Audi Q8 50 e-tron er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 491 km (305 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -293,7 +293,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3040 kg (6702 lbs), og med basisvægten på 2370 kg (5225 lbs), kan du maksimalt laste 670 kg (1477 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan Turbo
 linktitle: "Macan Turbo"
-description: "Porsche Macan Turbo er en helt elektrisk premium coupe SUV med en rækkevidde på WLTP på op til 591 km (367 miles). EVKX.net har alle detaljerne."
+description: "Porsche Macan Turbo er en fuldelektrisk premium coupe SUV med en rækkevidde på WLTP på op til 591 km (367 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -232,7 +232,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1288 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2950 kg (6504 lbs), og med basisvægten på 2330 kg (5137 lbs), kan du maksimalt laste 620 kg (1367 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

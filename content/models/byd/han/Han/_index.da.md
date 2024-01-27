@@ -1,7 +1,7 @@
 ---
 title: BYD Han
 linktitle: "Han"
-description: "BYD Han er en helelektrisk sedan med en WLTP rækkevidde på op til 521 km (324 miles). EVKX.net har alle detaljerne."
+description: "BYD Han er en fuldelektrisk sedan med en WLTP rækkevidde på op til 521 km (324 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -219,7 +219,7 @@ Med Smart Pilot  niveau 2-systemet får du yderligere køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 410 liter. Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2250 kg (4960 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

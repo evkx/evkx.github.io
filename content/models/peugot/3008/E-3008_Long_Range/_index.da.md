@@ -1,7 +1,7 @@
 ---
 title: Peugot E-3008 Long Range
 linktitle: "E-3008 Long Range"
-description: "Peugot E-3008 Long Range er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne."
+description: "Peugot E-3008 Long Range er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -181,7 +181,7 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 434 liter. Med bagsædet nede er det 1467 liter. Bilens maksimale vægt er 2030 kg (4475 lbs), og med basisvægten på 1573 kg (3468 lbs), kan du maksimalt laste 457 kg (1008 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 457kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 

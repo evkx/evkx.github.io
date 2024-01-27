@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh
 linktitle: "Ariya 87kWh"
-description: "Nissan Ariya 87kWh er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 533 km (331 miles). EVKX.net har alle detaljerne."
+description: "Nissan Ariya 87kWh er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 533 km (331 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -195,7 +195,7 @@ Med ProPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 468 liter. Med bagsædet nede er det 1490 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2400 kg (5291 lbs), og med basisvægten på 1875 kg (4134 lbs), kan du maksimalt laste 525 kg (1157 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

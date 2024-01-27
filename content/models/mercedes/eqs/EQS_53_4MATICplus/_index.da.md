@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQS 53 4MATIC+
 linktitle: "EQS 53 4MATIC+"
-description: "Mercedes-AMG EQS 53 4MATIC+ er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 570 km (354 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-AMG EQS 53 4MATIC+ er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 570 km (354 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -241,7 +241,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3225 kg (7110 lbs), og med basisvægten på 2580 kg (5688 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

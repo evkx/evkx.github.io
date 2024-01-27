@@ -1,7 +1,7 @@
 ---
 title: XPENG G3i
 linktitle: "G3i"
-description: "XPENG G3i er en helelektrisk delefilter med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
+description: "XPENG G3i er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -162,7 +162,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 380 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2110 kg (4652 lbs), og med basisvægten på 1660 kg (3660 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

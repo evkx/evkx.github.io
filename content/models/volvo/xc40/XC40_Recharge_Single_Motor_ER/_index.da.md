@@ -1,7 +1,7 @@
 ---
 title: Volvo XC40 Recharge Single Motor ER
 linktitle: "XC40 Recharge Single Motor ER"
-description: "Volvo XC40 Recharge Single Motor ER er en helelektrisk delefilter med en WLTP rækkevidde på op til 572 km (356 miles). EVKX.net har alle detaljerne."
+description: "Volvo XC40 Recharge Single Motor ER er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 572 km (356 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -181,7 +181,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1295 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

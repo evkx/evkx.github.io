@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 6 Long Range AWD
 linktitle: "Ioniq 6 Long Range AWD"
-description: "Hyundai Ioniq 6 Long Range AWD er en helelektrisk sedan med en WLTP rækkevidde på op til 583 km (362 miles). EVKX.net har alle detaljerne."
+description: "Hyundai Ioniq 6 Long Range AWD er en fuldelektrisk sedan med en WLTP rækkevidde på op til 583 km (362 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -197,7 +197,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 401 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 80 kg (176,4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 12 liter (0,4 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 500 kg (1102 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

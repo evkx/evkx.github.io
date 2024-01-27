@@ -1,7 +1,7 @@
 ---
 title: Tesla Model Y Long Range
 linktitle: "Model Y Long Range"
-description: "Tesla Model Y Long Range er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 542 km (337 miles). EVKX.net har alle detaljerne."
+description: "Tesla Model Y Long Range er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 542 km (337 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -225,7 +225,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 854 liter. Med bagsædet nede er det 2158 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2720 kg (5997 lbs), og med basisvægten på 2135 kg (4707 lbs), kan du maksimalt laste 585 kg (1290 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

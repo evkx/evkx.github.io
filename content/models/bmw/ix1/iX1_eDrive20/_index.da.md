@@ -1,7 +1,7 @@
 ---
 title: BMW iX1 eDrive20
 linktitle: "iX1 eDrive20"
-description: "BMW iX1 eDrive20 er en helt elektrisk premium-SUV med en rækkevidde på WLTP på op til 475 km (295 miles). EVKX.net har alle detaljerne."
+description: "BMW iX1 eDrive20 er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 475 km (295 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -215,7 +215,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1495 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2580 kg (5688 lbs), og med basisvægten på 2010 kg (4431 lbs), kan du maksimalt laste 570 kg (1257 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

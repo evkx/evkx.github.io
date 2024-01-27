@@ -1,7 +1,7 @@
 ---
 title: CUPRA BORN 58 e-BOOST
 linktitle: "BORN 58 e-BOOST"
-description: "CUPRA BORN 58 e-BOOST er en helelektrisk hatchback med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
+description: "CUPRA BORN 58 e-BOOST er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -210,7 +210,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2280 kg (5027 lbs), og med basisvægten på 1785 kg (3935 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

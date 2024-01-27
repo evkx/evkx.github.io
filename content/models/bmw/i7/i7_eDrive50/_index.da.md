@@ -1,7 +1,7 @@
 ---
 title: BMW i7 eDrive50
 linktitle: "i7 eDrive50"
-description: "BMW i7 eDrive50 er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 611 km (380 miles). EVKX.net har alle detaljerne."
+description: "BMW i7 eDrive50 er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 611 km (380 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -234,7 +234,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 500 liter. Bilens maksimale vægt er 3130 kg (6900 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

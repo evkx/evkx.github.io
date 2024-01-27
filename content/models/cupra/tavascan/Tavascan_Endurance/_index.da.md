@@ -1,7 +1,7 @@
 ---
 title: CUPRA Tavascan Endurance
 linktitle: "Tavascan Endurance"
-description: "CUPRA Tavascan Endurance er en helt elektrisk SUV med en rækkevidde på WLTP på op til 547 km (340 miles). EVKX.net har alle detaljerne."
+description: "CUPRA Tavascan Endurance er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 547 km (340 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -212,7 +212,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 540 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

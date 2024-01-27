@@ -1,7 +1,7 @@
 ---
 title: Lucid Gravity Dream Edition
 linktitle: "Gravity Dream Edition"
-description: "Lucid Gravity Dream Edition er en helt elektrisk SUV med en rækkevidde på EPA på op til 708 km (440 miles). EVKX.net har alle detaljerne."
+description: "Lucid Gravity Dream Edition er en fuldelektrisk SUV med en rækkevidde på EPA på op til 708 km (440 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -216,7 +216,7 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 700 liter. Med bagsædet nede er det 3170 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 226 liter (8,0 CU FT). Bilens maksimale vægt er 3280 kg (7231 lbs), og med basisvægten på 2500 kg (5512 lbs), kan du maksimalt laste 780 kg (1720 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

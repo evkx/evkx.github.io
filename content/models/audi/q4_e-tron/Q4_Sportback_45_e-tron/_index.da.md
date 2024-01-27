@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 Sportback 45 e-tron
 linktitle: "Q4 Sportback 45 e-tron"
-description: "Audi Q4 Sportback 45 e-tron er en helt elektrisk premium coupe SUV med en rækkevidde på WLTP på op til 562 km (349 miles). EVKX.net har alle detaljerne."
+description: "Audi Q4 Sportback 45 e-tron er en fuldelektrisk premium coupe SUV med en rækkevidde på WLTP på op til 562 km (349 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -232,7 +232,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 535 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2625 kg (5787 lbs), og med basisvægten på 2045 kg (4508 lbs), kan du maksimalt laste 580 kg (1279 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

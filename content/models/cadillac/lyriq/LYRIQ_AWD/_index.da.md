@@ -1,7 +1,7 @@
 ---
 title: Cadillac LYRIQ AWD
 linktitle: "LYRIQ AWD"
-description: "Cadillac LYRIQ AWD er en helt elektrisk SUV med en rækkevidde på EPA på op til 494 km (307 miles). EVKX.net har alle detaljerne."
+description: "Cadillac LYRIQ AWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 494 km (307 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -191,7 +191,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 793 liter. Med bagsædet nede er det 1723 liter.
 

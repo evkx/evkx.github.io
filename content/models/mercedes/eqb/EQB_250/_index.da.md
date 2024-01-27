@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQB 250
 linktitle: "EQB 250"
-description: "Mercedes-EQ EQB 250 er en helt elektrisk premium-SUV med en rækkevidde på WLTP på op til 474 km (295 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-EQ EQB 250 er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 474 km (295 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -225,7 +225,7 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 495 liter. Med bagsædet nede er det 1410 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2035 kg (4486 lbs), kan du maksimalt laste 485 kg (1069 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 485kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 

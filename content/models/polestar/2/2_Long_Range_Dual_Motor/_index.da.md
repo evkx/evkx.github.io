@@ -1,7 +1,7 @@
 ---
 title: Polestar 2 Long Range Dual Motor
 linktitle: "2 Long Range Dual Motor"
-description: "Polestar 2 Long Range Dual Motor er en helelektrisk sedan med en WLTP rækkevidde på op til 592 km (368 miles). EVKX.net har alle detaljerne."
+description: "Polestar 2 Long Range Dual Motor er en fuldelektrisk sedan med en WLTP rækkevidde på op til 592 km (368 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -189,7 +189,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1095 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2025 kg (4464 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

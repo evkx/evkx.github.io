@@ -1,7 +1,7 @@
 ---
 title: Mercedes-AMG EQE 53 4MATIC+ SUV
 linktitle: "EQE 53 4MATIC+ SUV"
-description: "Mercedes-AMG EQE 53 4MATIC+ SUV er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 470 km (292 miles). EVKX.net har alle detaljerne."
+description: "Mercedes-AMG EQE 53 4MATIC+ SUV er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 470 km (292 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -236,7 +236,7 @@ Med Driver Assistance Package Plus  niveau 2-systemet får du yderligere køreau
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1675 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3195 kg (7044 lbs), og med basisvægten på 2690 kg (5930 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

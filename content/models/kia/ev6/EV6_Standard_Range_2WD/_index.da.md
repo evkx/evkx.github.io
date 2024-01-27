@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Standard Range 2WD
 linktitle: "EV6 Standard Range 2WD"
-description: "Kia EV6 Standard Range 2WD er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 394 km (245 miles). EVKX.net har alle detaljerne."
+description: "Kia EV6 Standard Range 2WD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 394 km (245 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -200,7 +200,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1260 liter. På taget kan du laste op til 80 kg (176,4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 2015 kg (4442 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

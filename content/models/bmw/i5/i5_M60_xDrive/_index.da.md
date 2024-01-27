@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive
 linktitle: "i5 M60 xDrive"
-description: "BMW i5 M60 xDrive er en helt elektrisk premium sedan med en WLTP rækkevidde på op til 515 km (320 miles). EVKX.net har alle detaljerne."
+description: "BMW i5 M60 xDrive er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 515 km (320 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -235,7 +235,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2895 kg (6382 lbs), og med basisvægten på 2305 kg (5082 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

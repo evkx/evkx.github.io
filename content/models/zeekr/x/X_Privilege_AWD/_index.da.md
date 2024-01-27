@@ -1,7 +1,7 @@
 ---
 title: Zeekr X Privilege AWD
 linktitle: "X Privilege AWD"
-description: "Zeekr X Privilege AWD er en helelektrisk delefilter med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
+description: "Zeekr X Privilege AWD er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -197,7 +197,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 362 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0,2 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 1960 kg (4321 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

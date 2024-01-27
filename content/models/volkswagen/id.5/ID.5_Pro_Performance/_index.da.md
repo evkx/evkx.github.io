@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.5 Pro Performance
 linktitle: "ID.5 Pro Performance"
-description: "Volkswagen ID.5 Pro Performance er en helelektrisk coupé-SUV med en WLTP rækkevidde på op til 529 km (329 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID.5 Pro Performance er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 529 km (329 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -240,7 +240,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 549 liter. Med bagsædet nede er det 1561 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: BMW iX3
 linktitle: "iX3"
-description: "BMW iX3 er en helt elektrisk premium-SUV med en rækkevidde på WLTP på op til 461 km (287 miles). EVKX.net har alle detaljerne."
+description: "BMW iX3 er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 461 km (287 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -202,7 +202,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 510 liter. Med bagsædet nede er det 1560 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2725 kg (6008 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 540 kg (1190 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

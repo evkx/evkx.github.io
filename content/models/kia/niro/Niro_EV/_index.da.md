@@ -1,7 +1,7 @@
 ---
 title: Kia Niro EV
 linktitle: "Niro EV"
-description: "Kia Niro EV er en helelektrisk delefilter med en WLTP rækkevidde på op til 463 km (288 miles). EVKX.net har alle detaljerne."
+description: "Kia Niro EV er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 463 km (288 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -192,7 +192,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 475 liter. Med bagsædet nede er det 1392 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 220 kg (485 lbs), og med basisvægten på 1557 kg (3433 lbs), kan du maksimalt laste -1337 kg (-2948 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: XPENG X9 AWD Performance
 linktitle: "X9 AWD Performance"
-description: "XPENG X9 AWD Performance er en helelektrisk MPV med en CLTC rækkevidde på op til 640 km (398 miles). EVKX.net har alle detaljerne."
+description: "XPENG X9 AWD Performance er en fuldelektrisk MPV med en CLTC rækkevidde på op til 640 km (398 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -207,7 +207,7 @@ Med XPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 755 liter. Med sædet på tredje række nede er det 2554 liter.
 

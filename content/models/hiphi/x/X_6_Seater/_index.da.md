@@ -1,7 +1,7 @@
 ---
 title: HiPhi X 6 Seater
 linktitle: "X 6 Seater"
-description: "HiPhi X 6 Seater er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 460 km (286 miles). EVKX.net har alle detaljerne."
+description: "HiPhi X 6 Seater er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 460 km (286 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -219,7 +219,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 204 liter. Med sædet på tredje række nede er det 587 liter.
 

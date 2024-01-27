@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 GTX 4MOTION
 linktitle: "ID.4 GTX 4MOTION"
-description: "Volkswagen ID.4 GTX 4MOTION er en helt elektrisk SUV med en rækkevidde på WLTP på op til 515 km (320 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID.4 GTX 4MOTION er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 515 km (320 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -223,7 +223,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 543 liter. Med bagsædet nede er det 1575 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2750 kg (6063 lbs), og med basisvægten på 2164 kg (4771 lbs), kan du maksimalt laste 586 kg (1292 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

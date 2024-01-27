@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Long Range (GEN1)
 linktitle: "Model 3 Long Range GEN1"
-description: "Tesla Model 3 Long Range (GEN1) er en helelektrisk sedan med en WLTP rækkevidde på op til 602 km (374 miles). EVKX.net har alle detaljerne."
+description: "Tesla Model 3 Long Range (GEN1) er en fuldelektrisk sedan med en WLTP rækkevidde på op til 602 km (374 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -221,7 +221,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 561 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2232 kg (4921 lbs), og med basisvægten på 1844 kg (4065 lbs), kan du maksimalt laste 388 kg (855 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

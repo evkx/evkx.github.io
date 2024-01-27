@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 AWD Performance
 linktitle: "G6 AWD Performance"
-description: "XPENG G6 AWD Performance er en helt elektrisk SUV med en rækkevidde på CLTC på op til 700 km (435 miles). EVKX.net har alle detaljerne."
+description: "XPENG G6 AWD Performance er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 700 km (435 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -199,7 +199,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 571 liter. Med bagsædet nede er det 1374 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2,5 CU FT). Bilens maksimale vægt er 2600 kg (5732 lbs), og med basisvægten på 2095 kg (4619 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

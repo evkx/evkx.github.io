@@ -1,7 +1,7 @@
 ---
 title: MG MG5 Electric Long Range
 linktitle: "MG5 Electric Long Range"
-description: "MG MG5 Electric Long Range er en helelektrisk stationcar med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
+description: "MG MG5 Electric Long Range er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -180,7 +180,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 479 liter. Med bagsædet nede er det 1367 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2017 kg (4447 lbs), og med basisvægten på 1562 kg (3444 lbs), kan du maksimalt laste 455 kg (1003 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

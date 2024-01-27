@@ -1,7 +1,7 @@
 ---
 title: Volvo C40 Recharge Twin Motor
 linktitle: "C40 Recharge Twin Motor"
-description: "Volvo C40 Recharge Twin Motor er en helelektrisk delefilter med en WLTP rækkevidde på op til 548 km (341 miles). EVKX.net har alle detaljerne."
+description: "Volvo C40 Recharge Twin Motor er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 548 km (341 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -189,7 +189,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1205 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2620 kg (5776 lbs), og med basisvægten på 2110 kg (4652 lbs), kan du maksimalt laste 510 kg (1124 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

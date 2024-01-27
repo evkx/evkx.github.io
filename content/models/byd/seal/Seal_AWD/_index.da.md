@@ -1,7 +1,7 @@
 ---
 title: BYD Seal AWD
 linktitle: "Seal AWD"
-description: "BYD Seal AWD er en helelektrisk sedan med en WLTP rækkevidde på op til 520 km (323 miles). EVKX.net har alle detaljerne."
+description: "BYD Seal AWD er en fuldelektrisk sedan med en WLTP rækkevidde på op til 520 km (323 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -208,7 +208,7 @@ Med Smart Pilot  niveau 2-systemet får du følgende køreautomatiseringsfunktio
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 402 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 53 liter (1,9 CU FT). Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 475 kg (1047 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

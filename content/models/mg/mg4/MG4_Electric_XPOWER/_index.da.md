@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric XPOWER
 linktitle: "MG4 Electric XPOWER"
-description: "MG MG4 Electric XPOWER er en helelektrisk delefilter med en WLTP rækkevidde på op til 435 km (270 miles). EVKX.net har alle detaljerne."
+description: "MG MG4 Electric XPOWER er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 435 km (270 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -179,7 +179,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Bilens maksimale vægt er 2133 kg (4702 lbs), og med basisvægten på 1715 kg (3781 lbs), kan du maksimalt laste 418 kg (922 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

@@ -1,7 +1,7 @@
 ---
 title: Lexus RZ 450e
 linktitle: "RZ 450e"
-description: "Lexus RZ 450e er en helt elektrisk SUV med en rækkevidde på WLTP på op til 440 km (274 miles). EVKX.net har alle detaljerne."
+description: "Lexus RZ 450e er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 440 km (274 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -196,7 +196,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 522 liter. Med sædet på tredje række nede er det 1451 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 1980 kg (4365 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

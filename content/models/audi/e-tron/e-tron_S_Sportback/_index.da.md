@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron S Sportback
 linktitle: "e-tron S Sportback"
-description: "Audi e-tron S Sportback er en helt elektrisk luksus coupe SUV med en WLTP rækkevidde på op til 379 km (236 miles). EVKX.net har alle detaljerne."
+description: "Audi e-tron S Sportback er en fuldelektrisk luksus coupe SUV med en WLTP rækkevidde på op til 379 km (236 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -263,7 +263,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3280 kg (7231 lbs), og med basisvægten på 2655 kg (5853 lbs), kan du maksimalt laste 625 kg (1378 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

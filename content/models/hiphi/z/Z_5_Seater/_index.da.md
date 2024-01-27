@@ -1,7 +1,7 @@
 ---
 title: HiPhi Z 5 Seater
 linktitle: "Z 5 Seater"
-description: "HiPhi Z 5 Seater er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 555 km (345 miles). EVKX.net har alle detaljerne."
+description: "HiPhi Z 5 Seater er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 555 km (345 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -215,7 +215,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 316 liter. Med bagsædet nede er det 684 liter.
 

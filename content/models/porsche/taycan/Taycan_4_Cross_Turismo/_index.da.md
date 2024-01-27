@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4 Cross Turismo
 linktitle: "Taycan 4 Cross Turismo"
-description: "Porsche Taycan 4 Cross Turismo er en al-elektrisk luksus stationcar med en WLTP rækkevidde på op til 490 km (305 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan 4 Cross Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 490 km (305 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -249,7 +249,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 446 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2885 kg (6360 lbs), og med basisvægten på 2245 kg (4949 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

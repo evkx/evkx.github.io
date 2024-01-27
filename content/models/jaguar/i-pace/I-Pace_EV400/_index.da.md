@@ -1,7 +1,7 @@
 ---
 title: Jaguar I-Pace EV400
 linktitle: "I-Pace EV400"
-description: "Jaguar I-Pace EV400 er en helt elektrisk premium-SUV med en rækkevidde på WLTP på op til 470 km (292 miles). EVKX.net har alle detaljerne."
+description: "Jaguar I-Pace EV400 er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 470 km (292 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -218,7 +218,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 505 liter. Med bagsædet nede er det 1163 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT).
 

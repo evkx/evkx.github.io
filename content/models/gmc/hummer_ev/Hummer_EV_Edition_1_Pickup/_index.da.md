@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV Edition 1 Pickup
 linktitle: "Hummer EV Edition 1 Pickup"
-description: "GMC Hummer EV Edition 1 Pickup er en helelektrisk pickup med en EPA rækkevidde på op til 529 km (329 miles). EVKX.net har alle detaljerne."
+description: "GMC Hummer EV Edition 1 Pickup er en fuldelektrisk pickup med en EPA rækkevidde på op til 529 km (329 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -180,7 +180,7 @@ Med Super Cruise  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1272 mm, og længden er 1524 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 320 liter (11,3 CU FT). Bilens maksimale vægt er 4717 kg (10399 lbs), og med basisvægten på 4103 kg (9046 lbs), kan du maksimalt laste 614 kg (1354 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

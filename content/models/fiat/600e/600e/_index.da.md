@@ -1,7 +1,7 @@
 ---
 title: Fiat 600e
 linktitle: "600e"
-description: "Fiat 600e er en helelektrisk delefilter med en WLTP rækkevidde på op til 409 km (254 miles). EVKX.net har alle detaljerne."
+description: "Fiat 600e er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 409 km (254 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -183,7 +183,7 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 360 liter. Med bagsædet nede er det 1231 liter. Bilens maksimale vægt er 2025 kg (4464 lbs), og med basisvægten på 1520 kg (3351 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

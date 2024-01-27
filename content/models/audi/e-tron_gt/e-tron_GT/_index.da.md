@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT
 linktitle: "e-tron GT"
-description: "Audi e-tron GT er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 488 km (303 miles). EVKX.net har alle detaljerne."
+description: "Audi e-tron GT er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 488 km (303 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -233,7 +233,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 405 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 85 liter (3,0 CU FT). Bilens maksimale vægt er 2860 kg (6305 lbs), og med basisvægten på 2340 kg (5159 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 

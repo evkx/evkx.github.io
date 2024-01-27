@@ -1,7 +1,7 @@
 ---
 title: Volvo EX30 Single Motor
 linktitle: "EX30 Single Motor"
-description: "Volvo EX30 Single Motor er en helelektrisk delefilter med en WLTP rækkevidde på op til 344 km (214 miles). EVKX.net har alle detaljerne."
+description: "Volvo EX30 Single Motor er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 344 km (214 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -197,7 +197,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 
-## Lastkapacitet og bugseringsevne
+## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 318 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0,2 CU FT). Bilens maksimale vægt er 2216 kg (4885 lbs), og med basisvægten på 1758 kg (3876 lbs), kan du maksimalt laste 458 kg (1010 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
