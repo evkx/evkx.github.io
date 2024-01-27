@@ -1,7 +1,7 @@
 ---
 title: Lading
 linktitle: Lading
-description: Elektriske kjøretøy (EV-er) blir mer populære og rimelige, men krever en annen påfyllingsmetode enn konvensjonelle biler. I stedet for å fylle opp en bensintank, må elbiler kobles til en ladestasjon og lade batteriene.
+description: Elektriske kjøretøy blir mer populære og rimelige, men krever en annen påfyllingsmetode enn konvensjonelle biler. I stedet for å fylle opp en bensintank, må elbiler kobles til en ladestasjon og lade batteriene.
 weight: 2
 shownavtabs: true
 ---
