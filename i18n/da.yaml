@@ -1,0 +1,159 @@
+- id: menu-technology
+  translation: Teknologi
+
+- id: menu-guides
+  translation: Vejledninger
+
+- id: menu-search
+  translation: Elbilsøgning
+
+- id: menu-brands
+  translation: Mærker og modeller
+
+- id: language
+  translation: Sprog
+
+- id: common-section-search-title
+  translation: Elbilsøgning
+
+- id: common-section-search-description
+  translation: EVKX.net har den mest komplette elbildatabase. Søg og filtrer på mange funktioner og specifikationer.
+
+- id: common-section-search-link
+  translation: Gå til elbilsøgning
+
+- id: common-section-mostsold-world-title
+  translation: Mest solgte elbiler globalt
+
+- id: common-section-mostsold-world-description
+  translation: Nedenfor finder du de 10 bedst sælgende EV-modeller i verden. Klik på navnet for fuld info.
+
+- id: common-section-technology-title
+  translation: Lær elbilteknologi
+
+- id: common-section-technology-description
+  translation: EVKX tilbyder den mest omfattende samling af dybdegående artikler om elbilteknologi.
+
+- id: common-section-technology-gotosection
+  translation: Se alle artiklerne i vores teknologisektion.
+
+- id: common-section-technology-section-battery
+  translation: Batteri
+
+- id: common-section-technology-section-adas
+  translation: Avancerede førerassistentsystemer
+
+- id: common-section-technology-section-motors
+  translation: Elektriske motorer
+
+- id: common-section-technology-section-suspension
+  translation: Hjulophæng
+
+- id: common-section-technology-section-brakes
+  translation: Bremser
+
+- id: common-section-technology-section-lights
+  translation: Lys
+
+- id: common-section-technology-section-regen
+  translation: Regenerativ bremsning
+
+- id: common-section-technology-section-seats
+  translation: Sæder
+
+- id: common-section-technology-section-sensors
+  translation: Sensorer og kameraer
+
+- id: common-section-technology-section-ui
+  translation: Brugergrænseflade
+
+- id: common-section-guides-title
+  translation: Vejledninger
+
+- id: common-section-guides-description
+  translation: Nedenfor finder du forskellige vejledninger til at eje en elbil og til brug af denne side.
+
+- id: common-section-guides-gotosection
+  translation: Se alle vores guider.
+
+- id: common-section-guides-section-search
+  translation: Sådan bruger du elbilsøgningen
+
+- id: common-section-guides-section-preservebattery
+  translation: Bevarelse af batteri
+
+- id: common-section-guides-section-preservebattery-description
+  translation: I denne guide forklarer vi, hvad du kan gøre for at få batteriet til at holde så længe som muligt.
+
+- id: common-section-guides-section-understandingrange
+  translation: Understanding range
+
+- id: common-section-guides-section-understandingrange-description
+  translation: For mange er elbilens rækkevidde det vigtigste aspekt. Lær, hvilke aspekter af elbilen, der påvirker den nominelle rækkevidde, og forstå, hvad der påvirker den i den virkelige verden.
+
+- id: common-section-guides-section-vehicletypes
+  translation: Køretøjstyper
+
+- id: common-section-guides-section-reviewers
+  translation: Elbiltestere og influencers
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: Sådan kontrollerer du batteriets tilstand
+
+- id: common-section-models-title
+  translation: Mærker og modeller
+
+- id: common-section-models-description
+  translation: Læs om de forskellige mærker, deres EV-strategier og den mest komplette information om alle modellerne nedenfor.
+
+- id: common-section-latest-reviews
+  translation: Seneste tests og anmeldelser
+
+- id: frontpage-description-e19e45ce
+  translation: Porsche Macan 4 er en helt elektrisk premium coupe SUV med en rækkevidde på WLTP på op til 613 km (381 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-ff237454
+  translation: Porsche Macan Turbo er en helt elektrisk premium coupe SUV med en rækkevidde på WLTP på op til 591 km (367 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-97a3663f
+  translation: YangWang U9 er en helelektrisk premium superbil med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-6b690eca
+  translation: Mercedes-Maybach EQS 680 SUV er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 612 km (380 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-1b088938
+  translation: Acura ZDX Type S er en helt elektrisk SUV med en rækkevidde på EPA på op til 463 km (288 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-300df0ff
+  translation: Rimac Nevera er en helelektrisk luksushyperbil med en WLTP rækkevidde på op til 490 km (305 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-65a6b079
+  translation: Neta GT 580 AWD er en helelektrisk coupé med en CLTC rækkevidde på op til 580 km (361 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-d456be48
+  translation: MG Cyberster AWD Long Range er en helelektrisk cabriolet med en CLTC rækkevidde på op til 520 km (323 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-a8e9d5b4
+  translation: BYD Seagull 38kWh er en helelektrisk hatchback med en CLTC rækkevidde på op til 405 km (252 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-5a24e938
+  translation: Volvo EM90 er en helt elektrisk premium MPV med en CLTC rækkevidde på op til 738 km (459 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-f2ab9bce
+  translation: XPENG G6 AWD Performance er en helt elektrisk SUV med en rækkevidde på CLTC på op til 700 km (435 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-4564fd05
+  translation: Zeekr 009 ME Edition er en helt elektrisk premium MPV med en CLTC rækkevidde på op til 822 km (511 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-1e8adcbc
+  translation: Zeekr 007 AWD Performance er en helelektrisk sedan med en CLTC rækkevidde på op til 660 km (410 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-129d77f2
+  translation: Lotus Emeya er en helt elektrisk luksussedan med en WLTP rækkevidde på op til 535 km (333 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-cb116463
+  translation: Opel Mokka Electric er en helelektrisk delefilter med en WLTP rækkevidde på op til 406 km (252 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-61792853
+  translation: Audi Q8 e-tron edition Dakar er en helt elektrisk luksus-SUV med en rækkevidde på WLTP på op til 487 km (303 miles). EVKX.net har alle detaljerne.
+
