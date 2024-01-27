@@ -1,11 +1,11 @@
 ---
-title: Hjulophæng
-linktitle: Hjulophæng
-description: Hjulophænget er en af ​​de væsentlige dele af en EV-drivlinje. Igen giver EVKX.net dig alle detaljerne.
+title: Affjedringen
+linktitle: Affjedringen
+description: Affjedringen er en af ​​de væsentlige dele af en EV-drivlinje. Igen giver EVKX.net dig alle detaljerne.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-## Hvad er formålet med hjulophæng?
+## Hvad er formålet med affjedringen?
 
 Formålet med affjedring på biler er at give en jævn og behagelig kørsel for passagererne og samtidig sikre, at køretøjet er stabilt, kontrollerbart og sikkert at køre. Affjedringssystemet tjener flere vigtige funktioner, herunder:
 
