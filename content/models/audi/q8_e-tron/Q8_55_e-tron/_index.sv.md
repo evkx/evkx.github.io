@@ -288,6 +288,10 @@ Med Assistantpackage Tour  nivå 2-systemet får du fler körautomatiseringsfunk
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
+### Sensorer och kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för förarassistanssystemen.
+Upp till fem radarsensorer, fem kameror och 12 ultraljudssensorer registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
 

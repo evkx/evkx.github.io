@@ -294,6 +294,10 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
+### Sensorer og kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsystemene.
+Opptil fem radarsensorer, fem kameraer og 12 ultralydsensorer registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 
