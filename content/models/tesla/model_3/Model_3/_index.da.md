@@ -214,7 +214,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 593 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2149 kg (4738 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 389 kg (858 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 593 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2149 kg (4738 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 389 kg (858 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 ### Tilgængelighed og priser

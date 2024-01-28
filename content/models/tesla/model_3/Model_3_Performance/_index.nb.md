@@ -217,7 +217,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 561 liter. På taket kan du laste opptil 70 kg. Maksimumsvekten til bilen er 2232 kg, og med basisvekten på 1844 kg kan du maksimalt laste 388 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 561 liter. Med baksetet nede er det 1234 liter. På taket kan du laste opptil 70 kg. Maksimumsvekten til bilen er 2232 kg, og med basisvekten på 1844 kg kan du maksimalt laste 388 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris

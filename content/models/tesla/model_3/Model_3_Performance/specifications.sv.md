@@ -384,6 +384,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Bagagerumsvolym, med nedfällda säten
+			</td>
+			<td>
+				1234 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>

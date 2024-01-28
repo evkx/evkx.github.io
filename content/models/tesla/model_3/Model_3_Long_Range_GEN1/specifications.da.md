@@ -408,6 +408,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Bagumskapacitet med alle bagsæder foldet
+			</td>
+			<td>
+				1234 liter (44 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max trailervægt bremset
 			</td>
 			<td>

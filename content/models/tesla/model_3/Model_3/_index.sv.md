@@ -214,7 +214,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du fler körautomationsf
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 593 liter. På taket kan du lasta upp till 70 kg. Bilens maximala vikt är 2149 kg, och med basvikten på 1760 kg kan du lasta maximalt 389 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 593 liter. Med baksätet nedfällt är det 1234 liter. På taket kan du lasta upp till 70 kg. Bilens maximala vikt är 2149 kg, och med basvikten på 1760 kg kan du lasta maximalt 389 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1000, och på obromsad är den 750 kg.
 ### Tillgänglighet och pris
