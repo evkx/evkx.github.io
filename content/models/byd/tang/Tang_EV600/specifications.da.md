@@ -307,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2440 kg (5379 lbs)
+				2489 kg (5487 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				3099 kg (6832 lbs)
+				3060 kg (6746 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				659 kg (1453 lbs)
+				571 kg (1259 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				75 kg (165 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>

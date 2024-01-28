@@ -215,7 +215,7 @@ Med Smart Pilot  niveau 2-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 192 liter. Med bagsædet nede er det 763 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3099 kg (6832 lbs), og med basisvægten på 2440 kg (5379 lbs), kan du maksimalt laste 659 kg (1453 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 192 liter. Med bagsædet nede er det 763 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2489 kg (5487 lbs), kan du maksimalt laste 571 kg (1259 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
