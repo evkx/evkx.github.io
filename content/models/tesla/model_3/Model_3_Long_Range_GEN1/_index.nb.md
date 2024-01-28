@@ -216,6 +216,10 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 - Trafikklyskontroll - følg trafikklysene.
 - Stoppskiltkontroll - følg stoppskilt.
 
+### Sensorer og kameraer
+
+Denne modellen bruker kun kameraer for førerassistentsystemene. Denne utformingen begrenser nøyaktigheten til kjøreassistentsystemene og gjør dem mer følsomme for vær enn biler som også bruker radar og andre sensorer.
+Den bruker åtte kameraer til å registrere alt i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

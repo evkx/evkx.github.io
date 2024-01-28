@@ -239,6 +239,10 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
 
+### Sensors & Cameras
+
+This model only uses cameras for the driver assist systems. This design limits the accuracy of the driving assistance systems and makes them more sensitive to weather than cars that also use radar and other sensors.
+It uses eight cameras to register everything in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 
