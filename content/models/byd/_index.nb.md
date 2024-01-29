@@ -79,6 +79,20 @@ BYD Seal er en sedan tilgjengelig i 2 varianter.
 	</div>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> BYD Seal U</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="seal_u"><img src="https://media.evkx.net/multimedia/models/byd/seal_u/seal_u_design/main_1_st.jpg" class="img-fluid" alt="BYD Seal U" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+BYD Seal U er en SUV tilgjengelig i 1 varianter.
+</p>
+	<a href="seal_u/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BYD Tang</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

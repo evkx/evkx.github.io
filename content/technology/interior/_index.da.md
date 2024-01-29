@@ -58,5 +58,7 @@ Nogle af de materialer, der bruges eller udvikles til EV-interiør er:
 
 Fortsæt til et af underafsnittene i denne artikel
 
-- [Cockpitdesign og layout](cockpitdesign/)
-- [Indvendig opbevaring](interiøropbevaring/)
+<div class="mt-3 mb-3">
+    <a href="../infotainment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infotainment System</strong></a>
+    <a href="cockpitdesign/" class="text-decoration-none text-black float-end"><strong>Cockpitdesign og layout <i class="bi-arrow-right"></i></strong></a>
+</div>

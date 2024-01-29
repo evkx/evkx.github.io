@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-406356fd
+  translation: BYD Seal U Design is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details.
+
 - id: frontpage-description-c3e5377b
   translation: Aion Hyper GT 710 Supercharged is an all-electric sedan with a CLTC range of up to 710 km (441 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-129d77f2
   translation: Lotus Emeya is an all-electric luxury sedan with a WLTP range of up to 535 km (333 miles). EVKX.net has all the details.
-
-- id: frontpage-description-cb116463
-  translation: Opel Mokka Electric is an all-electric crossover with a WLTP range of up to 406 km (252 miles). EVKX.net has all the details.
 
