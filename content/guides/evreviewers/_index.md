@@ -87,6 +87,10 @@ He has a separate channel also for <a href="https://www.youtube.com/@only_ev" ta
 
 Visit the Youtube Channel [here](https://www.youtube.com/@autogefuehl/videos) 
 
+Visit his Youtube Channels and subscribe
+
+<a href="https://www.youtube.com/@autogefuehl" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Autogefühl</a> <a href="https://www.youtube.com/@only_ev" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> OnlyElectric</a>
+
 ## State of Charge
 
 {{< sitefiguresized thumb="guides/evreviewers/stateofcharge_1_st.jpg" width="1280" height="720" title="State of Charge" >}}
@@ -119,7 +123,12 @@ His tests are more accessible for people who do not need to understand every det
 
 He also gives a good overview of model options and features.
 
-Visit his Youtube Channel [here](https://www.youtube.com/c/krisrifa).
+He has both a english and a norwegian speaking channel.
+
+Visit his Youtube Channels and subscribe
+
+<a href="https://www.youtube.com/@KrisRifa" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Autogefühl</a> <a href="https://www.youtube.com/@jegerkris" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Jeg er Kris</a>
+
 
 ## Other notable mentions
 
