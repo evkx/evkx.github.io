@@ -217,7 +217,7 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 316 liter. Med baksätet nedfällt är det 684 liter.
+Lastkapaciteten i bagageutrymmet är 316 liter. Med baksätet nedfällt är det 684 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 40 liter. Bilens maximala vikt är 2950 kg, och med basvikten på 2548 kg kan du lasta maximalt 402 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

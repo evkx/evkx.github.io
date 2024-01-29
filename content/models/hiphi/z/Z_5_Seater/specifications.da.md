@@ -283,7 +283,23 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2539 kg (5598 lbs)
+				2548 kg (5617 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal totalvægt
+			</td>
+			<td>
+				2950 kg (6504 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal belastning inklusive vægtdriver
+			</td>
+			<td>
+				402 kg (886 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -300,6 +316,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				684 liter (24 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse frunk
+			</td>
+			<td>
+				40 liter (1 cu-ft)
 			</td>
 		</tr>
 	</tbody>

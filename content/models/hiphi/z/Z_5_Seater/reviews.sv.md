@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>HiPhi Z banana box test</h3>
+<p>Bjørn Nyland: 29.01.2024</p>
+
+{{< youtube XIX4Dn8kDZY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>This Might Be The Strangest Car You Can Buy Today</h3>
 <p>Fully Charged Show: 06.04.2023</p>
 

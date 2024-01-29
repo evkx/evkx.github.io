@@ -283,7 +283,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2539 kg
+				2548 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillatt totalvekt
+			</td>
+			<td>
+				2950 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks nyttelast inkludert vekt fører
+			</td>
+			<td>
+				402 kg
 			</td>
 		</tr>
 		<tr>
@@ -300,6 +316,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				684 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse frunk
+			</td>
+			<td>
+				40 liter
 			</td>
 		</tr>
 	</tbody>

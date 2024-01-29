@@ -283,7 +283,23 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2539 kg (5598 lbs)
+				2548 kg (5617 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum total weight</a>
+			</td>
+			<td>
+				2950 kg (6504 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
+			</td>
+			<td>
+				402 kg (886 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -300,6 +316,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				684 liter (24 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
+			</td>
+			<td>
+				40 liter (1 cu-ft)
 			</td>
 		</tr>
 	</tbody>
