@@ -79,3 +79,8 @@ Dette design giver kun et opbevaringsrum og et armlæn. Den er ikke forbundet ti
 Dette design har en konsol i to niveauer med en nedre sektion til opbevaring og kopholdere og en øvre sektion, der rummer bilens lyd- og klimakontrolsystemer.
 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq6 split-level midterkonsol" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interior</strong></a>
+    <a href="../interiorstorage/" class="text-decoration-none text-black float-end"><strong>Interior Storage <i class="bi-arrow-right"></i></strong></a>
+</div>

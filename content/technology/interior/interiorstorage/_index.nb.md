@@ -18,3 +18,9 @@ Elbiler har mer innvendig lagringsplass enn gassdrevne motparter fordi elbiler h
 Et hanskerom er et rom i dashbordet på en bil som kan brukes til å oppbevare småting, som hansker, dokumenter, kart osv. Et hanskerom kan låses eller låses opp med en nøkkel eller en knapp. Et hanskerom kan også ha et lys inni for å hjelpe brukeren med å se innholdet. Noen elbiler har hanskerom som ligner på gassbiler, mens andre har hanskerom som er mer romslige eller innovative. For eksempel har Tesla Model S et hanskerom som kan åpnes og lukkes med en berøringsskjerm-kommando. Ford Mustang Mach-E har et hanskerom som kan passe en bærbar PC eller et nettbrett.
 
 ## Døroppbevaring
+
+
+<div class="mt-3 mb-3">
+    <a href="../cockpitdesign/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cockpit design & layout</strong></a>
+    <a href="../../lights/" class="text-decoration-none text-black float-end"><strong>Lights <i class="bi-arrow-right"></i></strong></a>
+</div>

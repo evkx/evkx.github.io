@@ -1,6 +1,6 @@
 ---
-title: Innvendig oppbevaring
-linktitle: Innvendig oppbevaring
+title: Invändig förvaring
+linktitle: Invändig förvaring
 description: Invändig förvaring är utrymmet inuti en bil som kan användas för att förvara personliga föremål, såsom telefoner, plånböcker, nycklar, drycker etc.
 weight: 2
 ---
@@ -18,3 +18,8 @@ Elbilar har mer invändigt förvaringsutrymme än sina gasdrivna motsvarigheter 
 Ett handskfack är ett utrymme i instrumentbrädan på en bil som kan användas för att förvara småsaker, såsom handskar, dokument, kartor etc. Ett handskfack kan låsas eller låsas upp med en nyckel eller en knapp. Ett handskfack kan också ha ett ljus inuti för att hjälpa användaren att se dess innehåll. Vissa elbilar har handskfack som liknar gasbilar, medan andra har handskfack som är rymligare eller mer innovativa. Till exempel har Tesla Model S ett handskfack som kan öppnas och stängas med ett pekskärmskommando. Ford Mustang Mach-E har ett handskfack som passar en bärbar dator eller surfplatta.
 
 ## Dörrförvaring
+
+<div class="mt-3 mb-3">
+    <a href="../cockpitdesign/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cockpit design och layout</strong></a>
+    <a href="../../lights/" class="text-decoration-none text-black float-end"><strong>Ljus <i class="bi-arrow-right"></i></strong></a>
+</div>

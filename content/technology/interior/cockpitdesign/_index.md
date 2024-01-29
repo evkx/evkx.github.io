@@ -80,3 +80,9 @@ This design gives only a storage area and an armrest. It is not connected to the
 This design features a two-tiered console, with a lower section for storage and cup holders and an upper section that houses the car's audio and climate control systems.
 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq6 split-level center console" >}}
+
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interior</strong></a>
+    <a href="../interiorstorage/" class="text-decoration-none text-black float-end"><strong>Interior Storage <i class="bi-arrow-right"></i></strong></a>
+</div>

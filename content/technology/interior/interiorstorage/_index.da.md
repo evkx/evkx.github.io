@@ -18,3 +18,9 @@ Elbiler har mere indvendig lagerplads end deres gasdrevne modstykker, fordi elbi
 Et handskerum er et rum i instrumentbrættet i en bil, der kan bruges til at opbevare småting, såsom handsker, dokumenter, kort osv. Et handskerum kan låses eller låses op med en nøgle eller en knap. Et handskerum kan også have et lys indeni for at hjælpe brugeren med at se indholdet. Nogle elbiler har handskerum, der ligner gasbiler, mens andre har handskerum, der er mere rummelige eller innovative. For eksempel har Tesla Model S et handskerum, der kan åbnes og lukkes med en touchscreen-kommando. Ford Mustang Mach-E har et handskerum, der kan passe til en bærbar eller tablet.
 
 ## Døropbevaring
+
+
+<div class="mt-3 mb-3">
+    <a href="../cockpitdesign/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cockpit design og layout</strong></a>
+    <a href="../../lights/" class="text-decoration-none text-black float-end"><strong>Lys <i class="bi-arrow-right"></i></strong></a>
+</div>
