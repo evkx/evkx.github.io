@@ -61,3 +61,8 @@ Continue to one of the subsection of this article
 
 - [Cockpit design & layout](cockpitdesign)
 - [Interior storage](interiorstorage)
+
+<div class="mt-3 mb-3">
+    <a href="../infotainment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infotainment System</strong></a>
+    <a href="cockpitdesign/" class="text-decoration-none text-black float-end"><strong>Cockpit design & layout <i class="bi-arrow-right"></i></strong></a>
+</div>
