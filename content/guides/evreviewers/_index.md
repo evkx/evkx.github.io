@@ -127,7 +127,7 @@ He has both a english and a norwegian speaking channel.
 
 Visit his Youtube Channels and subscribe
 
-<a href="https://www.youtube.com/@KrisRifa" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Autogefühl</a> <a href="https://www.youtube.com/@jegerkris" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Jeg er Kris</a>
+<a href="https://www.youtube.com/@KrisRifa" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Kris Rifa</a> <a href="https://www.youtube.com/@jegerkris" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Jeg er Kris</a>
 
 
 ## Other notable mentions
