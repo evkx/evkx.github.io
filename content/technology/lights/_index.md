@@ -51,3 +51,8 @@ Gone are the days when car interiors were shrouded in darkness once the sun went
  This extensive article section will explore the world of ambient lights in cars, their origins, functionalities, types, and the latest innovations. 
 
 [Learn about ambient lighting.](ambientlighting)
+
+<div class="mt-3 mb-3">
+    <a href="../interior/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interior</strong></a>
+    <a href="headlights/" class="text-decoration-none text-black float-end"><strong>Headlights <i class="bi-arrow-right"></i></strong></a>
+</div>

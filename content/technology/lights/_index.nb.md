@@ -51,3 +51,8 @@ Borte er tiden da bilinteriør ble innhyllet i mørke når solen gikk ned. I dag
   Denne omfattende artikkeldelen vil utforske verden av omgivelseslys i biler, deres opprinnelse, funksjoner, typer og de siste innovasjonene.
 
 [Finn ut om ambient lighting.](ambientlighting/)
+
+<div class="mt-3 mb-3">
+    <a href="../interior/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interiør</strong></a>
+    <a href="headlights/" class="text-decoration-none text-black float-end"><strong>Frontlykter og DRL <i class="bi-arrow-right"></i></strong></a>
+</div>
