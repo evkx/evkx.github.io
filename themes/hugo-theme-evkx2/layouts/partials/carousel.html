@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/honda/prologue/prologue_awd/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/honda/prologue/prologue_awd/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Honda Prologue AWD</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-7d7da23c"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/byd/seal_u/seal_u_design/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/byd/seal_u/seal_u_design/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Porsche Macan Turbo</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-ff237454"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/yangwang/u9/u9/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>YangWang U9</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-97a3663f"}}</p>
 				</div>
 			</div>
 		</div>
