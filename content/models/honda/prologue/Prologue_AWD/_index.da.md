@@ -37,7 +37,7 @@ Batteriet har en bruttokapacitet på 85kWh og en nettokapacitet på 80kWh, hvilk
 
 [EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 281 til 273 miles (452-439 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 3.5mi/kWh for basisversionen og 3.4mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 138 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 68%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 115kW. Hver opladningssession ville tage 25 minutter og 26 sekunder.
+Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 24 minutter og 14 sekunder.
 
 ### Indbygget oplader
 

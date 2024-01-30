@@ -37,7 +37,7 @@ Batteriet har en bruttokapacitet på 85kWh och en nettokapacitet på 80kWh, vilk
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 281 till 273 miles (452-439 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 3.5mi/kWh för basversionen och 3.4mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 138 minuter, medan ett vanligare scenario på 10-80 % tar 25 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 68%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 115kW. Varje laddningssession tar 25 minuter och 26 sekunder.
+Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 101kW. Varje laddningssession tar 24 minuter och 14 sekunder.
 
 ### Inbyggd laddare
 
