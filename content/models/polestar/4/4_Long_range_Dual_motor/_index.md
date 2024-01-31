@@ -57,7 +57,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Polestar 4 Long range Dual motor has an all-wheel drive system supported by two motors, one on each axle.
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 181 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 166 mm.
 
 ### Brakes
 
@@ -91,6 +91,7 @@ Only one front seat type is available in the Polestar 4 Long range Dual motor.
 
 The following functionalities are available on the **standard** seat.
 
+- electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -183,7 +184,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1536 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0,5 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2600 kg (5732 lbs), you can max load 480 kg (1058 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 480kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1536 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0,5 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2351 kg (5183 lbs), you can max load 729 kg (1607 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -57,7 +57,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Polestar 4 Long range Dual motor har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. -fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 181 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. -fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 166 mm.
 
 ### Bromsar
 
@@ -91,6 +91,7 @@ Endast en typ av framsäte är tillgänglig i Polestar 4 Long range Dual motor.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
+- elektrisk justering
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -183,7 +184,7 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 526 liter. Med baksätet nedfällt är det 1536 liter. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 15 liter. Bilens maximala vikt är 3080 kg, och med basvikten på 2600 kg kan du lasta maximalt 480 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 480 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Lastkapaciteten i bagageutrymmet är 526 liter. Med baksätet nedfällt är det 1536 liter. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 15 liter. Bilens maximala vikt är 3080 kg, och med basvikten på 2351 kg kan du lasta maximalt 729 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

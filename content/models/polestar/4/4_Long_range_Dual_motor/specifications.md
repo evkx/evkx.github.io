@@ -279,6 +279,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Width excluding mirrors
+			</td>
+			<td>
+				2008 mm (79,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Width including mirrors
 			</td>
 			<td>
@@ -322,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11,8 meter (464,6")
+				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
@@ -347,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2600 kg (5732 lbs)
+				2351 kg (5183 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				480 kg (1058 lbs)
+				729 kg (1607 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +492,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				241 mm (9,5")
+				166 mm (6,5")
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +500,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				181 mm (7,1")
+				166 mm (6,5")
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +588,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +596,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +604,15 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +620,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +668,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +692,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -684,7 +700,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>

@@ -57,7 +57,7 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Polestar 4 Long range Dual motor har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 181 mm.
+Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 166 mm.
 
 ### Bremser
 
@@ -91,6 +91,7 @@ Kun én type forsæde er tilgængelig i Polestar 4 Long range Dual motor.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
+- elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -183,7 +184,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 526 liter. Med bagsædet nede er det 1536 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 15 liter (0,5 CU FT). Bilens maksimale vægt er 3080 kg (6790 lbs), og med basisvægten på 2600 kg (5732 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 480kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 526 liter. Med bagsædet nede er det 1536 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 15 liter (0,5 CU FT). Bilens maksimale vægt er 3080 kg (6790 lbs), og med basisvægten på 2351 kg (5183 lbs), kan du maksimalt laste 729 kg (1607 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

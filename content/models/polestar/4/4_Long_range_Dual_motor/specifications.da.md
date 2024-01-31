@@ -279,6 +279,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Bredde ekskl. spejle
+			</td>
+			<td>
+				2008 mm (79,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Bredde inklusive spejle
 			</td>
 			<td>
@@ -322,7 +330,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,8 meter (464,6")
+				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
@@ -347,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2600 kg (5732 lbs)
+				2351 kg (5183 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				480 kg (1058 lbs)
+				729 kg (1607 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +492,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				241 mm (9,5")
+				166 mm (6,5")
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +500,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				181 mm (7,1")
+				166 mm (6,5")
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +588,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +596,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +604,15 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +620,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk justering af højde, tilbagelæning og vinkel
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +668,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +692,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -684,7 +700,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

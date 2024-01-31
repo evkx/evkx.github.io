@@ -279,6 +279,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Bredde uten speil
+			</td>
+			<td>
+				2008 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Bredde inkludert speil
 			</td>
 			<td>
@@ -322,7 +330,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11,8 meter
+				11,6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -347,7 +355,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2600 kg
+				2351 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				480 kg
+				729 kg
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +492,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				241 mm
+				166 mm
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +500,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				181 mm
+				166 mm
 			</td>
 		</tr>
 		<tr>
@@ -580,7 +588,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +596,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +604,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +620,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +668,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +692,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -684,7 +700,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

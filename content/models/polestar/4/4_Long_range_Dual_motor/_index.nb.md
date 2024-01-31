@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Polestar 4 Long range Dual motor har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 181 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 166 mm.
 
 ### Bremser
 
@@ -91,6 +91,7 @@ Bare én type forsete er tilgjengelig i Polestar 4 Long range Dual motor.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
+- elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -183,7 +184,7 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 526 liter. Med baksetet nede er det 1536 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 15 liter. Maksimumsvekten til bilen er 3080 kg, og med basisvekten på 2600 kg kan du maksimalt laste 480 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 480 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Lastkapasiteten i bagasjerommet er 526 liter. Med baksetet nede er det 1536 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 15 liter. Maksimumsvekten til bilen er 3080 kg, og med basisvekten på 2351 kg kan du maksimalt laste 729 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
