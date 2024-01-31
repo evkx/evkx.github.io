@@ -422,7 +422,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="polestar/"><img src="https://media.evkx.net/multimedia/models/polestar/brandevs_st.jpg" class="img-fluid mb-2" alt="Polestar" ></a>
 	<h2>Polestar</h2>
 	<p>
-	Polestar har 2 modeller med i alt 4 varianter.
+	Polestar har 3 modeller med i alt 5 varianter.
 	</p>
 	<a href="polestar/" class="btn btn-outline-primary" role="button">Gå til Polestar EV-modeloversigt</a>
 </div>

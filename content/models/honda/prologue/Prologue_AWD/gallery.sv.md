@@ -126,6 +126,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/honda/prologue/prologue_awd/screens_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/honda/prologue/prologue_awd/screens_1.jpg"
+data-pswp-width="1600"
+data-pswp-height="900" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/honda/prologue/prologue_awd/screens_1_xst.jpg" alt="Honda Prologue AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/honda/prologue/prologue_awd/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/honda/prologue/prologue_awd/secondrowseats_1.jpg"
 data-pswp-width="3000"

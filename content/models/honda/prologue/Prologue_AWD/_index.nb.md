@@ -140,6 +140,10 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 Honda Prologue AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 11.0 tommer stor. touch-skjermen øverst på midtkonsollen er 11.3 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
+
+{{< sitefiguresized thumb="models/honda/prologue/prologue_awd/screens_1_st.jpg" title="Honda Prologue AWD" width="1600" height="900"  >}}
+
+
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment

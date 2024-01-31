@@ -422,7 +422,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="polestar/"><img src="https://media.evkx.net/multimedia/models/polestar/brandevs_st.jpg" class="img-fluid mb-2" alt="Polestar" ></a>
 	<h2>Polestar</h2>
 	<p>
-	Polestar har 2 modell(er) med totalt 4 varianter.
+	Polestar har 3 modell(er) med totalt 5 varianter.
 	</p>
 	<a href="polestar/" class="btn btn-outline-primary" role="button">Gå till Polestar modellöversikt</a>
 </div>

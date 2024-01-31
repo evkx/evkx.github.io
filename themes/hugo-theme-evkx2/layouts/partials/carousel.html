@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/polestar/4/4_long_range_dual_motor/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/polestar/4/4_long_range_dual_motor/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Polestar 4 Long range Dual motor</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-cebe99e4"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/honda/prologue/prologue_awd/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/honda/prologue/prologue_awd/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Porsche Macan 4</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-e19e45ce"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/porsche/macan/macan_turbo/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan_turbo/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Porsche Macan Turbo</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-ff237454"}}</p>
 				</div>
 			</div>
 		</div>

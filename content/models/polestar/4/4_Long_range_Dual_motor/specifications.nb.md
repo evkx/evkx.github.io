@@ -1,15 +1,15 @@
 ---
-title: Polestar 3 Long Range Dual Motor Performance spesifikasjoner
+title: Polestar 4 Long range Dual motor spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Polestar 3 Long Range Dual Motor Performance."
+description: "EVKX.net gir deg alle spesifikasjonene for Polestar 4 Long range Dual motor."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 3 Long Range Dual Motor Performance. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Polestar 3 Long Range Dual Motor Performance, gå til [chargeinfo](../chargecurve/) for Polestar 3 Long Range Dual Motor Performance med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/main_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="2000" >}}
+EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 4 Long range Dual motor. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Polestar 4 Long range Dual motor, gå til [chargeinfo](../chargecurve/) for Polestar 4 Long range Dual motor med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 3 Long Ran
 				Maks effekt
 			</td>
 			<td>
-				380 KW (517 hk)
+				400 KW (544 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 3 Long Ran
 				Dreiemoment
 			</td>
 			<td>
-				910 nm
+				686 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Polestar 3 Long Ran
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde
 			</td>
 			<td>
-				560 km
+				580 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				19,1 kWh/100km
+				16,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				111 kWh
+				100 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				107 kWh
+				94 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				250 kW
+				200 kW
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4900 mm
+				4840 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,15 +274,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1614 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bredde uten speil
-			</td>
-			<td>
-				1968 mm
+				1534 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde inkludert speil
 			</td>
 			<td>
-				2120 mm
+				2139 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2985 mm
+				2999 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,29
+				0,26
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +403,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
-				2200 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +419,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>
-				100 kg
+				110 kg
 			</td>
 		</tr>
 	</tbody>
@@ -757,7 +749,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -765,7 +757,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +765,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +773,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -789,7 +781,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

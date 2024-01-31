@@ -36,3 +36,17 @@ Polestar 3 är en SUV tillgänglig i 1 varianter.
 		</div>
 	</div>
 </div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Polestar 4</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="4"><img src="https://media.evkx.net/multimedia/models/polestar/4/4_long_range_dual_motor/main_1_st.jpg" class="img-fluid" alt="Polestar 4" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Polestar 4 är en Coupe SUV tillgänglig i 1 varianter.
+</p>
+	<a href="4/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
+		</div>
+	</div>
+</div>

@@ -1,15 +1,15 @@
 ---
-title: Polestar 3 Long Range Dual Motor Performance specifications
+title: Polestar 4 Long range Dual motor specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Polestar 3 Long Range Dual Motor Performance."
+description: "EVKX.net gives you the full specifications for Polestar 4 Long range Dual motor."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250" >}}
-EVKX.net seeks to have the most complete specifications for Polestar 3 Long Range Dual Motor Performance. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 3 Long Range Dual Motor Performance, visit the [chargeinfo](../chargecurve/) for Polestar 3 Long Range Dual Motor Performance with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/main_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="2000" >}}
+EVKX.net seeks to have the most complete specifications for Polestar 4 Long range Dual motor. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Polestar 4 Long range Dual motor, visit the [chargeinfo](../chargecurve/) for Polestar 4 Long range Dual motor with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Polestar 3 Long Rang
 				Peak power
 			</td>
 			<td>
-				380 KW (517 hp /510 bhp)
+				400 KW (544 hp /536 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Polestar 3 Long Rang
 				Electrical torque output
 			</td>
 			<td>
-				910 nm (672 ft-lb)
+				686 nm (506 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Polestar 3 Long Rang
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				560 km
+				580 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				19,1 kWh/100km
+				16,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				111 kWh
+				100 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				107 kWh
+				94 kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				250 kW
+				200 kW
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4900 mm (192,9")
+				4840 mm (190,6")
 			</td>
 		</tr>
 		<tr>
@@ -274,15 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1614 mm (63,5")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Width excluding mirrors
-			</td>
-			<td>
-				1968 mm (77,5")
+				1534 mm (60,4")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2120 mm (83,5")
+				2139 mm (84,2")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2985 mm (117,5")
+				2999 mm (118,1")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,29
+				0,26
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +403,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				2200 kg (4850 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +419,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
 			</td>
 			<td>
-				100 kg (220 lbs)
+				110 kg (243 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -757,7 +749,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -765,7 +757,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +765,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +773,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -789,7 +781,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>

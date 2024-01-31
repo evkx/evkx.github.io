@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-cebe99e4
+  translation: Polestar 4 Long range Dual motor er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 580 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-7d7da23c
   translation: Honda Prologue AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 452 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-f2ab9bce
   translation: XPENG G6 AWD Performance er en helelektrisk SUV med en CLTC rekkevidde på opptil 700 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-4564fd05
-  translation: Zeekr 009 ME Edition er en helelektrisk premium MPV med en CLTC rekkevidde på opptil 822 km. EVKX.net har alle detaljene.
 
