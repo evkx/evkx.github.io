@@ -94,3 +94,8 @@ Videoen nedenfor viser, hvordan lysene fungerer på Audi e-tron GT inklusive las
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_3_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron med fjernlys LED Matrix og nærlysmoduler aktive (DRL dæmpet)" >}}
 
 Fortsæt med [baglys](../baglys/) eller vend tilbage til [artikeloversigt](../)
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lights</strong></a>
+    <a href="../rearlights/" class="text-decoration-none text-black float-end"><strong>Rear lights<i class="bi-arrow-right"></i></strong></a>
+</div>
