@@ -9,10 +9,17 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Polestar 3 Performance Pack Full Tour! The Spicy Cousin To Volvo EX90</h3>
-<p>Out of Spec Reviews: 11.01.2023</p>
+<h3>Polestar 4 - fighting the Macan EV without a rear window! REVIEW</h3>
+<p>Autogefühl: 31.01.2024</p>
 
-{{< youtube K3KrRuEgFDs >}}
+{{< youtube 5XNLSMI3__Y >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST LOOK: 2024 Polestar 4 - No looking back? Inside Polestar’s crazy newcomer</h3>
+<p>Electrifying: 31.01.2024</p>
+
+{{< youtube 75yfV88uei8 >}}
 
 </div>
 <div class="mt-3 mb-3">

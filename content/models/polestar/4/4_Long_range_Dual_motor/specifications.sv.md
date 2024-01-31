@@ -379,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				484 liter
+				526 liter
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1411 liter
+				1536 liter
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek frunk
 			</td>
 			<td>
-				32 liter
+				15 liter
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd fram
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd bak
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -516,7 +516,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre fjädring
 			</td>
 			<td>
-				Air
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
@@ -524,7 +524,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre fjädring
 			</td>
 			<td>
-				Air
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
@@ -1107,7 +1107,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 9
+				Ja, 10
 			</td>
 		</tr>
 		<tr>
@@ -1115,7 +1115,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 14,5
+				Ja, 15,4
 			</td>
 		</tr>
 		<tr>
