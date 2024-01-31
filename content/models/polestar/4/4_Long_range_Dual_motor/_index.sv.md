@@ -71,7 +71,7 @@ Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Du kan välja mellan två typer av tak på denna modell. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
+Du kan välja mellan två typer av tak på denna modell. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig från framsidan till baksidan. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
 
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/exterior_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="1687"  >}}

@@ -71,7 +71,7 @@ Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
-Du kan vælge mellem to typer tage på denne model. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
+Du kan vælge mellem to typer tage på denne model. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/exterior_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="1687"  >}}
