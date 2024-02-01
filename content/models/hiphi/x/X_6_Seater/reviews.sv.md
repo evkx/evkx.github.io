@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>HiPhi X first impressions</h3>
+<p>Bjørn Nyland: 30.01.2024</p>
+
+{{< youtube F2AZtC1GB0Q >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Chinese Gullwing Luxury SUV | HiPhi X</h3>
 <p>Supercar Blondie: 08.08.2022</p>
 

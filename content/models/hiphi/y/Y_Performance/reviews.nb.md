@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>HiPhi Y first impressions</h3>
+<p>Bjørn Nyland: 31.01.2024</p>
+
+{{< youtube JXKLBRjGjjo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Move Over Germans! - The HiPhi Y Crams The Tech and Madness of the X and Z Into A Smaller Package</h3>
 <p>Inside China Auto: 15.07.2023</p>
 
