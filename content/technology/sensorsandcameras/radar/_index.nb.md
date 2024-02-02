@@ -16,3 +16,8 @@ Radarsensorer kan operere i et bredt spekter av værforhold, inkludert regn og t
 Imidlertid er radarsensorer mottakelige for forstyrrelser fra andre radiobølger og kan være dyre å produsere. I tillegg har radarsensorer begrenset oppløsning og kan ikke gi detaljert informasjon om formen eller identiteten til objekter.
 
 Totalt sett er radarsensorer en viktig teknologi i biler, som gir kritiske sikkerhetsfunksjoner og forbedrer kjøreopplevelsen. Ettersom teknologien fortsetter å utvikle seg, vil radarsensorer sannsynligvis bli enda kraftigere og mer pålitelige, noe som gjør dem enda mer nyttige i en lang rekke bruksområder.
+
+<div class="mt-3 mb-3">
+    <a href="../cameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Kameraer</strong></a>
+    <a href="../lidar/" class="text-decoration-none text-black float-end"><strong>LiDAR sensorer<i class="bi-arrow-right"></i></strong></a>
+</div>

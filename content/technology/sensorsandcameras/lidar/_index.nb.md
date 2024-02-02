@@ -29,3 +29,8 @@ Det er flere produsenter av LiDAR-sensorer. [Luminar](https://www.luminartech.co
 På grunn av de høye kostnadene er det fortsatt få elbiler som er utstyrt med den. Selv test viser at LiDAR er overlegen andre sensorer i noen kjørescenarier.
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" width="3000" height="2000" title="Luminars lidar-utstyrte demobil utkonkurrerer et system som kun er kamera ved å stoppe for en testdummy på CES 2023" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../radar/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Radarsensorer</strong></a>
+    <a href="../infrared/" class="text-decoration-none text-black float-end"><strong>Infrarødt kamera<i class="bi-arrow-right"></i></strong></a>
+</div>

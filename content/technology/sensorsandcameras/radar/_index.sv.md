@@ -16,3 +16,9 @@ Radarsensorer kan fungera i ett brett spektrum av väderförhållanden, inklusiv
 Radarsensorer är dock känsliga för störningar från andra radiovågor och kan vara dyra att tillverka. Dessutom har radarsensorer begränsad upplösning och kan inte ge detaljerad information om objektens form eller identitet.
 
 Sammantaget är radarsensorer en viktig teknik i bilar, som ger viktiga säkerhetsfunktioner och förbättrar körupplevelsen. När tekniken fortsätter att utvecklas kommer radarsensorer sannolikt att bli ännu mer kraftfulla och pålitliga, vilket gör dem ännu mer användbara i en mängd olika applikationer.
+
+
+<div class="mt-3 mb-3">
+    <a href="../cameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Kameror</strong></a>
+    <a href="../lidar/" class="text-decoration-none text-black float-end"><strong>LiDAR-sensorer<i class="bi-arrow-right"></i></strong></a>
+</div>

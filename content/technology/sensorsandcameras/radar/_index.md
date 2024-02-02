@@ -16,3 +16,8 @@ Radar sensors can operate in a wide range of weather conditions, including rain 
 However, radar sensors are susceptible to interference from other radio waves and can be expensive to manufacture. Additionally, radar sensors have limited resolution and cannot provide detailed information about the shape or identity of objects.
 
 Overall, radar sensors are an important technology in cars, providing critical safety features and improving the driving experience. As technology continues to advance, radar sensors are likely to become even more powerful and reliable, making them even more useful in a wide range of applications.
+
+<div class="mt-3 mb-3">
+    <a href="../cameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cameras</strong></a>
+    <a href="../lidar/" class="text-decoration-none text-black float-end"><strong>LiDAR sensors<i class="bi-arrow-right"></i></strong></a>
+</div>
