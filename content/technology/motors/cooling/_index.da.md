@@ -26,4 +26,7 @@ Direkte køling kan give mere effektiv varmeoverførsel, men kan kræve omhyggel
 Valget af kølemetode afhænger af forskellige faktorer, såsom motorens effekt- og temperaturkrav, driftsmiljøet og omkostningsovervejelser. Korrekt køling er afgørende for at opretholde ydeevnen, effektiviteten og pålideligheden af ​​elektriske motorer i elektriske køretøjer og er et vigtigt aspekt af motordesign og integration i elektriske køretøjer.
 
 
-[Tilbage til hovedartikel](../#gears)
+<div class="mt-3 mb-3">
+    <a href="../inverter/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Inverter</strong></a>
+    <a href="../gears/" class="text-decoration-none text-black float-end"><strong>Gears<i class="bi-arrow-right"></i></strong></a>
+</div>

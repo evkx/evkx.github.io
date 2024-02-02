@@ -59,3 +59,8 @@ Andre bruker induksjonsmotorer foran og PSMS bak. Eksempler er all omsorg basert
 Hvis du vil lære enda mer om PSMS-motorer, anbefaler vi å se denne videoen hvor Lucid forklarer deres PMSM-design og sammenligne det med andre
 
 {{< youtube U7IHZxNC6hc >}}
+
+<div class="mt-3 mb-3">
+    <a href="../asm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Induksjonsmotorer</strong></a>
+    <a href="../wrsm/" class="text-decoration-none text-black float-end"><strong>WRSM<i class="bi-arrow-right"></i></strong></a>
+</div>

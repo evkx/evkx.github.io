@@ -79,5 +79,7 @@ Below you see a video from Audi that shows how their OLED works.
 
 {{< youtube OMx8x8J6Pro >}}
 
-
-[Continue to ambient lighting](../ambientlighting/)
+<div class="mt-3 mb-3">
+    <a href="../headlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Headlights & DRL</strong></a>
+    <a href="../ambientlighting/" class="text-decoration-none text-black float-end"><strong>Ambient Lighting<i class="bi-arrow-right"></i></strong></a>
+</div>

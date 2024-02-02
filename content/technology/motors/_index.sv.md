@@ -62,6 +62,7 @@ Synkronmotorer är en typ av elmotor som även används i elfordon (EV) för fra
 En lindad rotorsynkronmotor, även känd som en släpringssynkronmotor, är en typ av elmotor som kombinerar funktionerna hos både synkrona och lindade induktionsmotorer.
 
 [Ta reda på om WRSM.](wrsm)
+
 ## Växelriktaren
 
 Växelriktaren är en viktig drivenhetskomponent för elfordon (EV). Den är ansvarig för att omvandla likström (DC) elektricitet som lagras i fordonets batteri till växelström (AC) elektricitet, som sedan används för att driva elmotorn som driver hjulen på EV.
@@ -109,3 +110,8 @@ Vissa modeller med Quad-motorinställning är
 Nedan ser du Rivian R1T Quad-motorn som gör en tankvändning med fyrhjulsmotorinställningen.
 
 {{< youtube yzwM8KE2L3I >}}
+
+<div class="mt-3 mb-3">
+    <a href="../lights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Ljus</strong></a>
+    <a href="asm/" class="text-decoration-none text-black float-end"><strong>Induktionsmotorer<i class="bi-arrow-right"></i></strong></a>
+</div>

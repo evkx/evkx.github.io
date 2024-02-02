@@ -59,3 +59,8 @@ När tekniken fortsätter att utvecklas kan vi förvänta oss att se ytterligare
 **Hälsa och välbefinnande:** Omgivande ljus kan också användas för att främja hälsa och välbefinnande inne i bilen. Forskning har till exempel visat att vissa ljusa färger kan påverka humör, sömn och välbefinnande. Vi kan se användningen av omgivande ljus som främjar avslappning, minskar stress eller till och med anpassar sig till förarens dygnsrytm för en mer bekväm och hälsosam körupplevelse.
 
 **Augmented Reality (AR)-belysning:** När förstärkt verklighetsteknik fortsätter att utvecklas kan vi se integrationen av omgivande belysning med AR-skärmar inuti bilen. Detta kan skapa en mer uppslukande och interaktiv upplevelse, där omgivande belysning dynamiskt kan ändras för att matcha den virtuella miljön som visas av AR-systemet, vilket förbättrar den övergripande körupplevelsen.
+
+<div class="mt-3 mb-3">
+    <a href="../rearlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bakljus</strong></a>
+    <a href="../../motors/" class="text-decoration-none text-black float-end"><strong>Motorer och drivenheter<i class="bi-arrow-right"></i></strong></a>
+</div>

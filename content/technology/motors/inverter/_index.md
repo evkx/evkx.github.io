@@ -30,3 +30,9 @@ In summary, the inverter is a critical component in the EV drive unit that conve
 If you want to learn more about Inverters we recomend watching this Tech Talk from Lucid Motors.
 
 {{< youtube fKhxxKCPwzc >}}
+
+
+<div class="mt-3 mb-3">
+    <a href="../wrsm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> WRSM</strong></a>
+    <a href="../cooling/" class="text-decoration-none text-black float-end"><strong>Motor Cooling<i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -99,6 +99,6 @@ Fortsätt med [rearlights](../rearlights/) eller återgå till [artikelöversikt
 
 <div class="mt-3 mb-3">
     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lys</strong></a>
-    <a href="../rearlights/" class="text-decoration-none text-black float-end"><strong>Baklykter<i class="bi-arrow-right"></i></strong></a>
+    <a href="../rearlights/" class="text-decoration-none text-black float-end"><strong>Bakljus<i class="bi-arrow-right"></i></strong></a>
 </div>
 

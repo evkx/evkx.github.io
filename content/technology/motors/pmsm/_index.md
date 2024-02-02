@@ -59,3 +59,8 @@ Others uses Induction Motors in front and PSMS in rear. Example are all care bas
 If you want to learn even more about PSMS motor we recomend watch this video where Lucid explains their PMSM design and compare it with others
 
 {{< youtube U7IHZxNC6hc >}}
+
+<div class="mt-3 mb-3">
+    <a href="../asm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Induction Motors</strong></a>
+    <a href="../wrsm/" class="text-decoration-none text-black float-end"><strong>WRSM<i class="bi-arrow-right"></i></strong></a>
+</div>

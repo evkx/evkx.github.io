@@ -60,3 +60,8 @@ Ettersom teknologien fortsetter å utvikle seg, kan vi forvente å se ytterliger
 **Helse og velvære:** Omgivelseslys kan også brukes til å fremme helse og velvære inne i bilen. For eksempel har forskning vist at visse lysfarger kan påvirke humør, søvn og velvære. Vi kan se bruken av omgivelseslys som fremmer avslapning, reduserer stress, eller til og med justerer til førerens døgnrytme for en mer komfortabel og sunn kjøreopplevelse.
 
 **Augmented Reality (AR)-belysning:** Etter hvert som utvidet virkelighet-teknologi fortsetter å utvikle seg, kan vi se integreringen av omgivelsesbelysning med AR-skjermer inne i bilen. Dette kan skape en mer oppslukende og interaktiv opplevelse, der omgivelseslys kan endres dynamisk for å matche det virtuelle miljøet som vises av AR-systemet, og forbedre den generelle kjøreopplevelsen.
+
+<div class="mt-3 mb-3">
+    <a href="../rearlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Baklykter</strong></a>
+    <a href="../../motors/" class="text-decoration-none text-black float-end"><strong>Motorer og drivenheter<i class="bi-arrow-right"></i></strong></a>
+</div>

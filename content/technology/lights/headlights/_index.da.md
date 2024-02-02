@@ -96,6 +96,6 @@ Videoen nedenfor viser, hvordan lysene fungerer på Audi e-tron GT inklusive las
 Fortsæt med [baglys](../baglys/) eller vend tilbage til [artikeloversigt](../)
 
 <div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lights</strong></a>
-    <a href="../rearlights/" class="text-decoration-none text-black float-end"><strong>Rear lights<i class="bi-arrow-right"></i></strong></a>
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lys</strong></a>
+    <a href="../rearlights/" class="text-decoration-none text-black float-end"><strong>Baglygter<i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -78,4 +78,7 @@ Nedan kan du se en video från Audi som visar hur deras OLED fungerar.
 
 {{< youtube OMx8x8J6Pro >}}
 
-[Fortsätt till omgivande belysning](../ambientlighting/)
+<div class="mt-3 mb-3">
+    <a href="../headlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Strålkastare och DRL</strong></a>
+    <a href="../ambientlighting/" class="text-decoration-none text-black float-end"><strong>Omgivningsbelysning<i class="bi-arrow-right"></i></strong></a>
+</div>

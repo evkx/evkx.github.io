@@ -26,3 +26,8 @@ These gearboxes have multiple gear ratios that allow the electric motor to opera
 It's worth noting that some EVs, particularly those with single-speed gearboxes or direct drive systems, do not use traditional gears at all. Instead, they rely on sophisticated power electronics and motor control algorithms to deliver the required torque and power to the wheels without the need for physical gears. The specific type of gearbox used in an EV drive unit depends on factors such as the vehicle's size, performance requirements, driving conditions, and design considerations.
 
 [Back to main article](../#motor-setup)
+
+<div class="mt-3 mb-3">
+    <a href="../cooling/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motor Cooling</strong></a>
+    <a href="../../regen/" class="text-decoration-none text-black float-end"><strong>Regenerative braking<i class="bi-arrow-right"></i></strong></a>
+</div>

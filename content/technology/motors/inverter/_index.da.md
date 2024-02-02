@@ -30,3 +30,8 @@ Sammenfattende er inverteren en kritisk komponent i EV-drivenheden, der konverte
 Hvis du vil lære mere om invertere, anbefaler vi at se denne Tech Talk fra Lucid Motors.
 
 {{< youtube fKhxxKCPwzc >}}
+
+<div class="mt-3 mb-3">
+    <a href="../wrsm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> WRSM</strong></a>
+    <a href="../cooling/" class="text-decoration-none text-black float-end"><strong>Motorkøling<i class="bi-arrow-right"></i></strong></a>
+</div>

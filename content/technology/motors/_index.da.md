@@ -46,6 +46,7 @@ Rotoren indeholder på den anden side magneter eller viklinger, og når det magn
 Motorstyringen styrer retningen og hastigheden af ​​motorens rotation ved at variere strømmen, der løber gennem statorviklingerne, hvilket ændrer styrken og orienteringen af ​​magnetfeltet. Denne teknik tillader præcis kontrol af motorens ydeevne, herunder drejningsmoment, hastighed og kraft.
 
 Forskellige typer elektriske motorer, såsom permanentmagnet og induktionsmotorer, har forskellige designs og driftsprincipper. Alligevel er de alle afhængige af interaktionen mellem magnetiske felter og elektriske strømme for at generere bevægelse.
+
 ### Induktionsmotorer
 
 Induktionsmotorer, også kendt som asynkronmotorer, er en type elektrisk motor, der er meget udbredt i elektriske køretøjer (EV) for deres unikke egenskaber og fordele.
@@ -83,6 +84,7 @@ Elektriske køretøjer (EV'er) bruger typisk forskellige typer transmissioner i 
 [Lær alt om gear.](gear)
 
 {{<evkxdisplayaddarticle />}}
+
 ## Motorlayout
 
 Elbiler (EV'er) kan bruge forskellige motorlayouts afhængigt af bilens specifikke design og krav. Nogle af de typiske motorlayouts, der bruges i elbiler, omfatter:
@@ -110,3 +112,10 @@ Nogle modeller med Quad motor opsætning er
 Nedenfor ser du Rivian R1T Quad-motoren, der laver en tankvending med quad-motoropsætningen.
 
 {{< youtube yzwM8KE2L3I >}}
+
+
+<div class="mt-3 mb-3">
+    <a href="../lights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lys</strong></a>
+    <a href="asm/" class="text-decoration-none text-black float-end"><strong>Induktionsmotorer<i class="bi-arrow-right"></i></strong></a>
+</div>
+
