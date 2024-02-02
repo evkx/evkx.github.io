@@ -2,7 +2,7 @@
 title: Ultralydsensorer
 linktitle: Ultralydsensorer
 description:  Ultralydsensorer brukes ofte i biler for å hjelpe sjåfører med parkering og unngå kollisjoner. 
-weight: 3
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 De fungerer ved å sende ut høyfrekvente lydbølger som spretter av objekter og går tilbake til sensoren. Tiden det tar før lydbølgene kommer tilbake brukes til å beregne avstanden til objektet.

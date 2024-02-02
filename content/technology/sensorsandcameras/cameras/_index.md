@@ -2,7 +2,7 @@
 title: Cameras
 linktitle: Cameras
 description:  Cameras are an essential component of ADAS technologies, as they play a crucial role in providing real-time information about the environment surrounding the vehicle.
-weight: 3
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -44,3 +44,9 @@ Overall, cameras play a critical role in ADAS technologies, providing drivers wi
 The below video form Veoneer shows some example of camera use in cars.
 
 {{< youtube w9kDTFXVYuE >}}
+
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensors & Cameras</strong></a>
+    <a href="../radar/" class="text-decoration-none text-black float-end"><strong>Radar sensors<i class="bi-arrow-right"></i></strong></a>
+</div>

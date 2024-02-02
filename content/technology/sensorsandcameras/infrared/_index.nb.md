@@ -2,7 +2,7 @@
 title: Infrarødt kamera
 linktitle: Infrarødt kamera
 description:  Infrarøde kameraer, også kjent som termiske kameraer, brukes i noen biler til ulike formål som nattsyn, fotgjengerdeteksjon og dyredeteksjon.
-weight: 3
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 Disse kameraene fungerer ved å oppdage varmesignaturen til objekter, i stedet for å stole på synlig lys som tradisjonelle kameraer.

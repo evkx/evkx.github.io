@@ -2,7 +2,7 @@
 title: Infrared camera
 linktitle: Infrared camera
 description:  Infrared cameras, also known as thermal cameras, are used in some cars for various purposes such as night vision, pedestrian detection, and animal detection. 
-weight: 3
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 These cameras work by detecting the heat signature of objects, rather than relying on visible light like traditional cameras.

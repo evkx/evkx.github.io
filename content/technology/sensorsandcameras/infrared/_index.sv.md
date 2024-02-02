@@ -2,7 +2,7 @@
 title: Infraröd kamera
 linktitle: Infraröd kamera
 description:  Infraröda kameror, även känd som värmekameror, används i vissa bilar för olika ändamål som mörkerseende, fotgängardetektering och djurdetektering.
-weight: 3
+weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 Dessa kameror fungerar genom att detektera värmesignaturen hos föremål, snarare än att förlita sig på synligt ljus som traditionella kameror.

@@ -23,3 +23,8 @@ Några av de vanligaste sensorteknologierna som används i bilar inkluderar:
 - Infraröd: Infraröda sensorer använder värmesignaturer för att upptäcka föremål i fordonets väg. De används ofta i mörkerseendesystem, som hjälper förare att se tydligare i svagt ljus. Läs allt om [infraröda sensorer] (infraröd)
 
 Sammantaget beror valet av sensorteknik på de specifika kraven för varje system och avvägningarna mellan faktorer som kostnad, prestanda och tillförlitlighet. Många moderna bilar använder en kombination av olika sensortyper för att ge ett omfattande utbud av ADAS-funktioner och säkerhetssystem.
+
+<div class="mt-3 mb-3">
+    <a href="../seats/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bilsäten</strong></a>
+    <a href="cameras/" class="text-decoration-none text-black float-end"><strong>Kameror<i class="bi-arrow-right"></i></strong></a>
+</div>

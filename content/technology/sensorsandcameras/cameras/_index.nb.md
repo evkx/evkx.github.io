@@ -2,7 +2,7 @@
 title: Kameraer
 linktitle: Kameraer
 description:  Kameraer er en viktig komponent i ADAS-teknologier, siden de spiller en avgjørende rolle i å gi sanntidsinformasjon om miljøet rundt kjøretøyet.
-weight: 3
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -44,3 +44,8 @@ Samlet sett spiller kameraer en kritisk rolle i ADAS-teknologier, og gir sjåfø
 Videoskjemaet under Veoneer viser noen eksempler på kamerabruk i biler.
 
 {{< youtube w9kDTFXVYuE >}}
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensorer og kameraer</strong></a>
+    <a href="../radar/" class="text-decoration-none text-black float-end"><strong>Radarsensorer<i class="bi-arrow-right"></i></strong></a>
+</div>

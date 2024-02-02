@@ -2,7 +2,7 @@
 title: Radarsensorer
 linktitle: Radarsensorer
 description:  Radarsensorer används ofta i bilar för en mängd olika applikationer, inklusive kollisionsundvikande, adaptiv farthållare och döda vinklar.
-weight: 3
+weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 Radar står för "Radio Detection and Ranging" och är en sensorteknik som använder radiovågor för att upptäcka närvaro och placering av föremål.

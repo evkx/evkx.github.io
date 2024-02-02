@@ -2,7 +2,7 @@
 title: Radar sensors
 linktitle: Radar
 description:  Radar sensors are commonly used in cars for a variety of applications, including collision avoidance, adaptive cruise control, and blind spot detection.
-weight: 3
+weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 Radar stands for "Radio Detection and Ranging" and is a sensing technology that uses radio waves to detect the presence and location of objects.

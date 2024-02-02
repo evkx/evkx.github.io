@@ -2,7 +2,7 @@
 title: Kameror
 linktitle: Kameror
 description:  Kameror är en viktig komponent i ADAS-teknik, eftersom de spelar en avgörande roll för att tillhandahålla realtidsinformation om miljön runt fordonet.
-weight: 3
+weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 Det finns flera typer av kameror som används i ADAS. Det vanligaste
@@ -43,3 +43,8 @@ Sammantaget spelar kameror en avgörande roll i ADAS-tekniker, och ger förarna 
 Videoschemat under Veoneer visar några exempel på kameraanvändning i bilar.
 
 {{< youtube w9kDTFXVYuE >}}
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensorer och kameror</strong></a>
+    <a href="../radar/" class="text-decoration-none text-black float-end"><strong>Radarsensorer<i class="bi-arrow-right"></i></strong></a>
+</div>

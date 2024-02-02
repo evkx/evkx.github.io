@@ -2,7 +2,7 @@
 title: Ultrasonic sensors
 linktitle: Ultrasonic
 description:  Ultrasonic sensors are commonly used in cars to help drivers with parking and avoid collisions. 
-weight: 3
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 They work by emitting high-frequency sound waves that bounce off objects and return to the sensor. The time it takes for the sound waves to return is used to calculate the distance to the object.

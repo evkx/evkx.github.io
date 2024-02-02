@@ -2,7 +2,7 @@
 title: Ultraljudssensorer
 linktitle: Ultraljudssensorer
 description:  Ultraljudssensorer används ofta i bilar för att hjälpa förare att parkera och undvika kollisioner.
-weight: 3
+weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 De fungerar genom att sända ut högfrekventa ljudvågor som studsar av föremål och återgår till sensorn. Tiden det tar för ljudvågorna att återvända används för att beräkna avståndet till föremålet.

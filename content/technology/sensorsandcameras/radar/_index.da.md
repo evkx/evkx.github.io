@@ -2,7 +2,7 @@
 title: Radarsensorer
 linktitle: Radarsensorer
 description:  Radarsensorer bruges almindeligvis i biler til en række forskellige formål, herunder kollisionsundgåelse, adaptiv fartpilot og registrering af blinde vinkler.
-weight: 3
+weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 Radar står for "Radio Detection and Ranging" og er en sensorteknologi, der bruger radiobølger til at registrere tilstedeværelse og placering af objekter.
