@@ -24,3 +24,8 @@ Sammantaget är ultraljudssensorer en användbar säkerhetsfunktion i bilar som 
 För att minska kostnaderna har Tesla beslutat att ta bort ultraljudssensorer från några av sina modeller. Detta har inte varit någon stor framgång. Se test nedan.
 
 {{< youtube sNo6vdKY5jA >}}
+
+<div class="mt-3 mb-3">
+    <a href="../infrared/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infraröd kamera</strong></a>
+    <a href="../../suspension/" class="text-decoration-none text-black float-end"><strong>Hjulupphängning<i class="bi-arrow-right"></i></strong></a>
+</div>

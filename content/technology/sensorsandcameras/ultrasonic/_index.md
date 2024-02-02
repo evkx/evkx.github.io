@@ -24,3 +24,8 @@ Overall, ultrasonic sensors are a useful safety feature in cars that can help dr
 To reduce cost, Tesla has decided to remove ultrasonic sensors from some of their models. This has not been a great success. See test below.
 
 {{< youtube sNo6vdKY5jA >}}
+
+<div class="mt-3 mb-3">
+    <a href="../infrared/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infrared camera</strong></a>
+    <a href="../../suspension/" class="text-decoration-none text-black float-end"><strong>Suspension<i class="bi-arrow-right"></i></strong></a>
+</div>
