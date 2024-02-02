@@ -100,4 +100,7 @@ Det finns flera fördelar med regenerativ bromsning, inklusive:
 
 I den andra delen ger vi detaljerade beräkningar på hur mycket energi som kan återskapas och hur det påverkar räckvidden. Vi förklarar också fysiken bakom beräkningen.
 
-[Gå till regen-beräkningar.](calculations/)
+<div class="mt-3 mb-3">
+    <a href="../motors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motorer och drivenheter</strong></a>
+    <a href="calculations/" class="text-decoration-none text-black float-end"><strong>Regen beräkningar<i class="bi-arrow-right"></i></strong></a>
+</div>

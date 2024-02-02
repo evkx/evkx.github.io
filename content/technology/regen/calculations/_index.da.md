@@ -256,3 +256,9 @@ Forskellen er lille, sandsynligvis mindre end 10% af forskellen mellem friløb o
 Der er ingen forskel for scenarier som scenario 1, da du vil udføre regenerativ bremsning for at holde bilen på vejen.
 
 Da forskellen er så lille, bør du vælge ud fra dine præferencer.
+
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Regenerativ bremsning</strong></a>
+    <a href="../../safety/" class="text-decoration-none text-black float-end"><strong>Sikkerhed<i class="bi-arrow-right"></i></strong></a>
+</div>

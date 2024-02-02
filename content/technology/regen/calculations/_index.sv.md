@@ -259,3 +259,9 @@ Skillnaden är liten, troligen mindre än 10 % av skillnaden mellan frihjulsdrif
 Det är ingen skillnad för scenarier som scenario 1 eftersom du kommer att utföra regenerativ bromsning för att hålla bilen på vägen.
 
 Eftersom skillnaden är så liten bör du välja utifrån dina preferenser.
+
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Regenerativ bromsning</strong></a>
+    <a href="../../safety/" class="text-decoration-none text-black float-end"><strong>Säkerhet<i class="bi-arrow-right"></i></strong></a>
+</div>

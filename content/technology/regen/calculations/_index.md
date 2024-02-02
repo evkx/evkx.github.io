@@ -261,3 +261,9 @@ The difference is small, probably less than 10% of the difference between coasti
 There is no difference for scenarios like scenario 1 since you will do regenerative braking to keep the car on the road.
 
 Since the difference is so small, you should choose based on your preference.
+
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Regenerative braking</strong></a>
+    <a href="../../safety/" class="text-decoration-none text-black float-end"><strong>Safety<i class="bi-arrow-right"></i></strong></a>
+</div>

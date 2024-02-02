@@ -99,4 +99,7 @@ Mens regenerativ bremsning giver mange fordele, har teknologien nogle begrænsni
 
 I anden del giver vi detaljerede beregninger på, hvor meget energi der kan regenereres, og hvordan det påvirker rækkevidden. Vi forklarer også fysikken bag beregningen.
 
-[Gå til regen-beregninger.](beregninger/)
+<div class="mt-3 mb-3">
+    <a href="../motors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motorer og drivenheder</strong></a>
+    <a href="calculations/" class="text-decoration-none text-black float-end"><strong>Regen beregninger<i class="bi-arrow-right"></i></strong></a>
+</div>
