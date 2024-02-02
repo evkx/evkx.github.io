@@ -314,3 +314,8 @@ Wool is a renewable resource that is sheared from sheep once a year, making it a
 ## Colors
 
 Colors are an important aspect of seat holstering materials, as they can significantly impact the overall appearance and style of your vehicle's interior. Different materials offer varying options for colors, allowing you to customize the look of your seats according to your preferences and the desired aesthetic.
+
+<div class="mt-3 mb-3">
+    <a href="../adjustment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Seat adjustment and features</strong></a>
+    <a href="../../sensorsandcameras/" class="text-decoration-none text-black float-end"><strong>Sensors & Cameras<i class="bi-arrow-right"></i></strong></a>
+</div>

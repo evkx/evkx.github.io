@@ -122,3 +122,9 @@ Noen seter tilbyr benstøtte for avslappende stillinger.
 {{< sitefiguresized thumb="technology/seats/types/kiaev9captainseats_1_st.jpg" width="3000" height="2000" title="Kia EV9 kapteinstoler i andre rad med svingfunksjon" >}}
 
 ### Fotstøtte
+
+
+<div class="mt-3 mb-3">
+    <a href="../types/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Setetyper</strong></a>
+    <a href="../materials/" class="text-decoration-none text-black float-end"><strong>Setetrekk og materialer<i class="bi-arrow-right"></i></strong></a>
+</div>

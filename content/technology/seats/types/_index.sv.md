@@ -112,3 +112,8 @@ Men det finns också några potentiella nackdelar med tredje radens kaptensstola
 I EVKX EV-databasen kan du söka efter modeller med en specifik sätestyp.
 
 Fortsätt till [stolsjustering och funktioner](../adjustment/).
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bilsäten</strong></a>
+    <a href="../adjustment/" class="text-decoration-none text-black float-end"><strong>Stolsjustering och funktioner<i class="bi-arrow-right"></i></strong></a>
+</div>

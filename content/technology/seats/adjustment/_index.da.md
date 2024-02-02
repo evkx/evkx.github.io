@@ -36,6 +36,7 @@ Nogle autostole tilbyder manuel sædehøjdejustering, som normalt involverer et 
 Sædehøjdejustering er en vigtig egenskab, især for førere af forskellig højde, da det kan være med til at sikre, at førerens øjne er på linje med midten af ​​forruden, og at de har tilstrækkelig ben- og hovedplads. Derudover kan hævning eller sænkning af sædet også hjælpe med at reducere træthed og forbedre komforten under lange køreture.
 
 Denne justering er typisk kun tilgængelig på forsæderne.
+
 ### Justering af sædevinklen
 
 Sædevinkeljustering på autostole refererer til muligheden for at justere sædehyndens vinkel i forhold til bilens gulv. Denne justering gør det muligt for føreren at justere sædevinklen for at opnå en komfortabel og sikker kørestilling.
@@ -119,3 +120,8 @@ Nogle sæder tilbyder benstøtte til afslappende stillinger.
 {{< sitefiguresized thumb="technology/seats/types/kiaev9captainseats_1_st.jpg" width="3000" height="2000" title="Kia EV9 anden række kaptajnsæder med drejefunktion" >}}
 
 ### Fodstøtte
+
+<div class="mt-3 mb-3">
+    <a href="../types/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sædetyper</strong></a>
+    <a href="../materials/" class="text-decoration-none text-black float-end"><strong>Sædebetræk og materialer<i class="bi-arrow-right"></i></strong></a>
+</div>
