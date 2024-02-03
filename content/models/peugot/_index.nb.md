@@ -50,3 +50,17 @@ Peugot 3008 er en Coupe SUV tilgjengelig i 1 varianter.
 		</div>
 	</div>
 </div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Peugot 308</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="308"><img src="https://media.evkx.net/multimedia/models/peugot/308/e-308/main_1_st.jpg" class="img-fluid" alt="Peugot 308" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Peugot 308 er en crossover tilgjengelig i 1 varianter.
+</p>
+	<a href="308/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

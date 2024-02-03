@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-e2c47898
+  translation: Peugot E-308 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 410 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-1ebc0a26
   translation: Mercedes-EQ EQS 580 4MATIC SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 673 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-d456be48
   translation: MG Cyberster AWD Long Range er en helelektrisk cabriolet med en CLTC rekkevidde på opptil 520 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-a8e9d5b4
-  translation: BYD Seagull 38kWh er en helelektrisk kombi med en CLTC rekkevidde på opptil 405 km. EVKX.net har alle detaljene.
 

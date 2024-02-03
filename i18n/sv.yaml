@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-e2c47898
+  translation: Peugot E-308 är en helelektrisk crossover med en WLTP räckvidd på upp till 410 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-1ebc0a26
   translation: Mercedes-EQ EQS 580 4MATIC SUV är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 673 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-d456be48
   translation: MG Cyberster AWD Long Range är en helelektrisk cabriolet med en CLTC räckvidd på upp till 520 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-a8e9d5b4
-  translation: BYD Seagull 38kWh är en helelektrisk halvkombi med en CLTC räckvidd på upp till 405 km. EVKX.net har alla detaljer.
 
