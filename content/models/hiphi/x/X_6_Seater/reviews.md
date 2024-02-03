@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>HiPhi X banana box test</h3>
+<p>Bjørn Nyland: 03.02.2024</p>
+
+{{< youtube w5qrqyV8P5M >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>HiPhi X first impressions</h3>
 <p>Bjørn Nyland: 30.01.2024</p>
 

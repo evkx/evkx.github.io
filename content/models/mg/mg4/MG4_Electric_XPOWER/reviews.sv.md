@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>MG4 XPower: This Car Makes No Sense!!</h3>
+<p>Fully Charged Show: 01.02.2024</p>
+
+{{< youtube zGcjrVRTGF4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>MG4 XPower 1000 km challenge in extreme cold weather</h3>
 <p>Bjørn Nyland: 09.01.2024</p>
 

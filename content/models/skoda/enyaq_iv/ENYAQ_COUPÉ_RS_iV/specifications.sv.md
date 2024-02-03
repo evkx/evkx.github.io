@@ -31,15 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för SKODA ENYAQ COUPÉ RS 
 				Max effekt
 			</td>
 			<td>
-				210 KW (286 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max effekt med boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hk)
 			</td>
 		</tr>
 		<tr>
@@ -48,14 +40,6 @@ EVKX.net vill ha de mest kompletta specifikationerna för SKODA ENYAQ COUPÉ RS 
 			</td>
 			<td>
 				679 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vridmoment med boost
-			</td>
-			<td>
-				679 Nm
 			</td>
 		</tr>
 		<tr>

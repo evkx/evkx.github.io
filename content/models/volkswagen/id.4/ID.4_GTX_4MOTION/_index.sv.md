@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volkswagen ID.4 GTX 4MOTION i avsnitt. Om du
 
 ## Prestanda
 
-Med overboost har Volkswagen ID.4 GTX 4MOTION en maximal effekt på 250 KW (340hk). Utan overboost är det 210KW (286hp). Vridmomentet är 679 Nm med överboost och 545 utan överboost. Den gör sprinten 0-100 km/h på 5,5 sekunder med överboost och 6,7 sekunder utan överboost. Topphastigheten är 180 km/h.
+Volkswagen ID.4 GTX 4MOTION har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 

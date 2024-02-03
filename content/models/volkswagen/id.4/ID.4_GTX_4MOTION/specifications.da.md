@@ -31,15 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 GT
 				Popeffekt
 			</td>
 			<td>
-				210 KW (286 hk /282 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Popkraft med boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hk /335 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,15 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 GT
 				Elektrisk momentudgang
 			</td>
 			<td>
-				545 nm (402 ft-lb)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forøgelse af elektrisk drejningsmomentoutput
-			</td>
-			<td>
-				679 Nm
+				679 nm (501 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -69,14 +53,6 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 GT
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
-			</td>
-			<td>
-				6,7 s
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,5 s

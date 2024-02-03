@@ -31,15 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 Sportback 55 e
 				Max effekt
 			</td>
 			<td>
-				210 KW (286 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max effekt med boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hk)
 			</td>
 		</tr>
 		<tr>
@@ -48,14 +40,6 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 Sportback 55 e
 			</td>
 			<td>
 				679 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vridmoment med boost
-			</td>
-			<td>
-				679 Nm
 			</td>
 		</tr>
 		<tr>
@@ -69,14 +53,6 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 Sportback 55 e
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
-			</td>
-			<td>
-				6,7 s
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

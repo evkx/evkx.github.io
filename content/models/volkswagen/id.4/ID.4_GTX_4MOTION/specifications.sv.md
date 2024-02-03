@@ -31,15 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.4 GTX 4M
 				Max effekt
 			</td>
 			<td>
-				210 KW (286 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max effekt med boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,15 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.4 GTX 4M
 				Vridmoment
 			</td>
 			<td>
-				545 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vridmoment med boost
-			</td>
-			<td>
-				679 Nm
+				679 nm
 			</td>
 		</tr>
 		<tr>
@@ -69,14 +53,6 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.4 GTX 4M
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
-			</td>
-			<td>
-				6,7 s
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,5 s

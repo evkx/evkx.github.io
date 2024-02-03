@@ -31,15 +31,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 55
 				Peak power
 			</td>
 			<td>
-				210 KW (286 hp /282 bhp)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peak power with  boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hp /335 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -48,14 +40,6 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 55
 			</td>
 			<td>
 				679 nm (501 ft-lb)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electrical torque output boost
-			</td>
-			<td>
-				679 Nm
 			</td>
 		</tr>
 		<tr>
@@ -69,14 +53,6 @@ EVKX.net seeks to have the most complete specifications for Audi Q4 Sportback 55
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
-			</td>
-			<td>
-				6,7 s
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

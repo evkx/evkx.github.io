@@ -31,15 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q4 55 e-tron 
 				Popeffekt
 			</td>
 			<td>
-				210 KW (286 hk /282 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Popkraft med boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hk /335 hk)
 			</td>
 		</tr>
 		<tr>
@@ -48,14 +40,6 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q4 55 e-tron 
 			</td>
 			<td>
 				679 nm (501 ft-lb)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forøgelse af elektrisk drejningsmomentoutput
-			</td>
-			<td>
-				679 Nm
 			</td>
 		</tr>
 		<tr>
@@ -69,14 +53,6 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q4 55 e-tron 
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
-			</td>
-			<td>
-				6,7 s
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

@@ -31,15 +31,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 
 				Peak power
 			</td>
 			<td>
-				210 KW (286 hp /282 bhp)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peak power with  boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hp /335 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,15 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 
 				Electrical torque output
 			</td>
 			<td>
-				545 nm (402 ft-lb)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electrical torque output boost
-			</td>
-			<td>
-				679 Nm
+				679 nm (501 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -69,14 +53,6 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
-			</td>
-			<td>
-				6,7 s
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,5 s

@@ -29,7 +29,7 @@ We have separated our Audi Q4 Sportback 55 e-tron quattro article into sections.
 
 ## Performance
 
-With overboost, the Audi Q4 Sportback 55 e-tron quattro has a maximum power of 250 KW (340 hp / 335 bhp). Without overboost, it is 210 KW (286 hp / 286 bhp). The torque is 679 nm with overboost and 679 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,4 seconds with overboost and 6,7 seconds without overboost. The top speed is 180 km/h.
+The Audi Q4 Sportback 55 e-tron quattro has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 679 nm (501 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,4 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 

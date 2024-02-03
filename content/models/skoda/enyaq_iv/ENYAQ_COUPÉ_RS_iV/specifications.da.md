@@ -31,15 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for SKODA ENYAQ COUPÉ
 				Popeffekt
 			</td>
 			<td>
-				210 KW (286 hk /282 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Popkraft med boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hk /335 hk)
 			</td>
 		</tr>
 		<tr>
@@ -48,14 +40,6 @@ EVKX.net søger at have de mest komplette specifikationer for SKODA ENYAQ COUPÉ
 			</td>
 			<td>
 				679 nm (501 ft-lb)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forøgelse af elektrisk drejningsmomentoutput
-			</td>
-			<td>
-				679 Nm
 			</td>
 		</tr>
 		<tr>

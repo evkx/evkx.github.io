@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Audi Q4 55 e-tron quattro i avsnitt. Om du v
 
 ## Prestanda
 
-Med overboost har Audi Q4 55 e-tron quattro en maximal effekt på 250 KW (340hk). Utan overboost är det 210KW (286hp). Vridmomentet är 679 Nm med överboost och 679 utan överboost. Den gör sprinten 0-100 km/h på 5,4 sekunder med överboost och 6,7 sekunder utan överboost. Topphastigheten är 180 km/h.
+Audi Q4 55 e-tron quattro har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 5,4 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 

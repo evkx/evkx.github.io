@@ -31,15 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA ENYAQ COUPÉ 
 				Maks effekt
 			</td>
 			<td>
-				210 KW (286 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks effekt med boost
-			</td>
-			<td>
-				250 Kw
+				250 KW (340 hk)
 			</td>
 		</tr>
 		<tr>
@@ -48,14 +40,6 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for SKODA ENYAQ COUPÉ 
 			</td>
 			<td>
 				679 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dreiemoment med boost
-			</td>
-			<td>
-				679 Nm
 			</td>
 		</tr>
 		<tr>
