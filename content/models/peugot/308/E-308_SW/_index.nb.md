@@ -1,7 +1,7 @@
 ---
-title: Peugot E-308
-linktitle: "E-308"
-description: "Peugot E-308 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 410 km. EVKX.net har alle detaljene."
+title: Peugot E-308 SW
+linktitle: "E-308 SW"
+description: "Peugot E-308 SW er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 410 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/main_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/main_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
-Vi har delt vår beskrivelse av Peugot E-308 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har delt vår beskrivelse av Peugot E-308 SW i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Peugot E-308 i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Peugot E-308 har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 8,1 sekunder. Topphastigheten er 150 km/t.
+Peugot E-308 SW har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 10,5 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -53,7 +53,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 ## Drivverk
 
-Peugot E-308 har et forhjulsdriftssystem støttet av én motor på forakselen.
+Peugot E-308 SW har et forhjulsdriftssystem støttet av én motor på forakselen.
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 170 mm.
 
@@ -75,7 +75,7 @@ Det er bare ett tak for denne modellen.
 Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/exterior_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/exterior_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -88,7 +88,7 @@ Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
-Bare én type forsete er tilgjengelig i Peugot E-308.
+Bare én type forsete er tilgjengelig i Peugot E-308 SW.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -106,7 +106,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/frontseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/frontseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
 ### Seter på andre rad
@@ -118,7 +118,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - høydejusterbar hodestøtte
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/secondrowseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/secondrowseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
 Det er bare én type ratt tilgjengelig.
@@ -129,7 +129,7 @@ Det er ett tilgjengelig klimasystem. Denne modellen har en [varmepumpe](../../..
 
 ## Komfort
 
-Peugot E-308 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Peugot E-308 SW har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
 
 Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
 
@@ -144,15 +144,11 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 -skjermen bak rattet integrert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum er 10.3 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
-{{< sitefiguresized thumb="models/peugot/308/e-308/screens_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
-
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Peugot E-308. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for Peugot E-308 SW. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Peugot E-308 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Peugot E-308 SW Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
 Modellen har 3 USB-C-tilkoblinger som standard.
 ## Lys
@@ -160,24 +156,24 @@ Modellen har 3 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/headlights_1_st.jpg" title="Peugot E-308" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/headlights_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2001"  >}}
 
 ## Avanserte førerassistentsystemer
 
-Peugot E-308 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+Peugot E-308 SW har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 ### Sikkerhetssystemer
 
 
 
-Peugot E-308 har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Peugot E-308 SW har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-Peugot E-308 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+Peugot E-308 SW har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-Peugot E-308 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Peugot E-308 SW har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 ### Kjøreautomatisering
 
-Peugot E-308 tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
+Peugot E-308 SW tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
 
 Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
@@ -189,13 +185,9 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 412 liter. Med baksetet nede er det 1323 liter. Maksimumsvekten til bilen er 2110 kg, og med basisvekten på 1714 kg kan du maksimalt laste 396 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 608 liter. Med baksetet nede er det 1634 liter. Maksimumsvekten til bilen er 2110 kg, og med basisvekten på 1714 kg kan du maksimalt laste 396 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
-
-{{< sitefiguresized thumb="models/peugot/308/e-308/trunk_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
-
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 06.07.2023, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">

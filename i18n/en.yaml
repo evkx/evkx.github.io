@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-1beeb3ae
+  translation: Peugot E-308 SW is an all-electric station wagon with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details.
+
 - id: frontpage-description-e2c47898
   translation: Peugot E-308 is an all-electric crossover with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-65a6b079
   translation: Neta GT 580 AWD is an all-electric coupe with a CLTC range of up to 580 km (361 miles). EVKX.net has all the details.
-
-- id: frontpage-description-d456be48
-  translation: MG Cyberster AWD Long Range is an all-electric convertible with a CLTC range of up to 520 km (323 miles). EVKX.net has all the details.
 

@@ -1,34 +1,34 @@
 ---
-title: Peugot E-308 spesifikasjoner
-linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Peugot E-308."
+title: Peugot E-308 SW Specifikationer
+linktitle: "Specifikationer"
+description: "EVKX.net ger dig alla specifikationer för Peugot E-308 SW."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/peugot/308/e-308/main_1_st.jpg" title="Peugot E-308" width="3000" height="2000" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-308. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Peugot E-308, gå til [chargeinfo](../chargecurve/) for Peugot E-308 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/main_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000" >}}
+EVKX.net vill ha de mest kompletta specifikationerna för Peugot E-308 SW. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Peugot E-308 SW, gå till [chargeinfo](../chargecurve/) för Peugot E-308 SW med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
-## Ytelse
+## Prestanda
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Maks effekt
+				Max effekt
 			</td>
 			<td>
 				115 KW (156 hk)
@@ -36,7 +36,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-308. Klikk
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment
+				Vridmoment
 			</td>
 			<td>
 				260 nm
@@ -47,15 +47,15 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-308. Klikk
 				Topphastighet
 			</td>
 			<td>
-				150 km/t
+				150 km/h
 			</td>
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				8,1 s
+				10,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -63,24 +63,24 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-308. Klikk
 
 
 
-## Rekkevidde og forbruk
+## Räckvidd och förbrukning
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+Nedan finns den officiella sortimentsinformationen. Besök vår [information om utökat sortiment](../rangeandconsumption/) för detaljerade exempel på sortiment. Besök vår [räckvidde guide](../../../../../guides/understandingrange/) för att se vad som påverkar räckvidden och hur de officiella räckviddsvärdena mäts.
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde
+				WLTP-räckvidd
 			</td>
 			<td>
 				410 km
@@ -88,7 +88,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk
+				WLTP-förbrukning
 			</td>
 			<td>
 				12,4 kWh/100km
@@ -96,7 +96,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk med ladetap
+				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
 				15,3 kWh/100km
@@ -107,23 +107,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
-## Batteri og lading
+## Batteri och laddning
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Brutto batteristørrelse
+				Total batterikapacitet (brutto)
 			</td>
 			<td>
 				54 kWh
@@ -131,7 +131,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Netto batteristørrelse
+				Användbar batterikapacitet (netto)
 			</td>
 			<td>
 				50,8 kWh
@@ -139,7 +139,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks DC-lading
+				Max laddningskapacitet
 			</td>
 			<td>
 				100 kW
@@ -147,7 +147,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Pakkekonfigurasjon
+				Packkonfiguration
 			</td>
 			<td>
 				102s1p
@@ -155,7 +155,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Nominell spenning
+				Nominell spänning
 			</td>
 			<td>
 				377
@@ -163,7 +163,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Katodematerialer
+				Katodmaterial
 			</td>
 			<td>
 				NMC811
@@ -174,23 +174,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
-### Ladeport
+### Laddningsport
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Laddningsportplacering
 			</td>
 			<td>
 				LeftRearSide
@@ -198,7 +198,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
+				Typ laddport Europa
 			</td>
 			<td>
 				CCS2
@@ -206,7 +206,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Nord-Amerika
+				Typ laddport Nordamerika
 			</td>
 			<td>
 				CCS1
@@ -214,7 +214,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Kina
+				Typ laddport Kina
 			</td>
 			<td>
 				GBT
@@ -222,7 +222,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Japan
+				Typ laddport Japan
 			</td>
 			<td>
 				CHAdeMO
@@ -230,7 +230,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Typ laddport Oceanien (Australien, Nya Zeeland ++)
 			</td>
 			<td>
 				CCS2
@@ -239,39 +239,39 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
-## Dimensjoner
+## Dimensions
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Lengde
+				Längd
 			</td>
 			<td>
-				4367 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Høyde
-			</td>
-			<td>
-				1441 mm
+				4636 mm
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bredde uten speil
+				Höjd
+			</td>
+			<td>
+				1442 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bredd exklusive speglar
 			</td>
 			<td>
 				1852 mm
@@ -279,7 +279,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Bredde inkludert speil
+				Bredd inklusive speglar
 			</td>
 			<td>
 				2062 mm
@@ -287,15 +287,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Akselavstand
+				Axelavstånd
 			</td>
 			<td>
-				2675 mm
+				2732 mm
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Drag-koeffisient
+				Dragkoefficient
 			</td>
 			<td>
 				0,33
@@ -311,32 +311,32 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Vendesirkel
+				Vändcirkel
 			</td>
 			<td>
-				10,5 meter
+				10,7 meter
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Lastekapasitet og slepeevne
+## Lastkapacitet och dragkapacitet
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Egenvekt
+				Tomvikt
 			</td>
 			<td>
 				1714 kg
@@ -344,7 +344,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Tillatt totalvekt
+				Tillåten totalvikt
 			</td>
 			<td>
 				2110 kg
@@ -352,7 +352,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks nyttelast inkludert vekt fører
+				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
 				396 kg
@@ -360,80 +360,80 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
+				Bagagerumsvolym
 			</td>
 			<td>
-				412 liter
+				608 liter
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Størrelse med alle bakseter lagt ned
+				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1323 liter
+				1634 liter
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Hjuloppheng
+## Hjulupphängning
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptive Suspension
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar demping foran
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar demping bak
+				Justerbar dämpning fram
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde foran
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar høyde bak
+				Justerbar dämpning bak
 			</td>
 			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks bakkeklaring
+				Justerbar höjd fram
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar höjd bak
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max markfrigång
 			</td>
 			<td>
 				170 mm
@@ -441,7 +441,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minsta markfrigång
 			</td>
 			<td>
 				170 mm
@@ -449,7 +449,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Främre stötdämpare
 			</td>
 			<td>
 				Monotube
@@ -457,7 +457,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Bakre stötdämpare
 			</td>
 			<td>
 				Monotube
@@ -465,23 +465,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Främre fjädring
 			</td>
 			<td>
-				Spiralfjær
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring bak
-			</td>
-			<td>
-				Spiralfjær
+				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Bakre fjädring
+			</td>
+			<td>
+				Skruvfjäder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
 			</td>
 			<td>
 				MacPhersonStrut
@@ -489,7 +489,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Hjulupphängning bak
 			</td>
 			<td>
 				TorsionBeam
@@ -498,11 +498,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
-## Interiør
+## Interiör
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
+Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
-### Forseter
+### Framsäten
 
 
 #### standard
@@ -511,44 +511,44 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Setetype
+				Säte typ
 			</td>
 			<td>
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Setedybdejustering
-			</td>
-			<td>
-				Standardfunksjon
+				Förar- och passagerarsäte
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Justering sätesdjup
 			</td>
 			<td>
-				Standardfunksjon
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Justering säteshöjd
 			</td>
 			<td>
-				Standardfunksjon
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -556,125 +556,125 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minne passasjersete
+				Minnesförarsäte
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Høydejusterbar nakkestøtte
-			</td>
-			<td>
-				Standardfunksjon
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Lengdejusterbar hodestøtte
+				Memory Passenger Seat
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
+				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fotstøttepassasjerer
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Justerbart lårstöd
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk korsryggstøtte
-			</td>
-			<td>
-				Valgfri funksjon
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seteventilasjon
+				Ryggstödsjustering
 			</td>
 			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Massasjefunksjon
+				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Valgfri funksjon
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt justerbart lårstöd
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstödspassagerare
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LegSupportPassenger
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt svankstöd
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sätesventilation
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Seter på andre rad
+### Sätesrad 2
 
 
 #### standard
@@ -683,155 +683,155 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Setetype
+				Säte typ
 			</td>
 			<td>
-				Tre-seters benk
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Høydejusterbar nakkestøtte
-			</td>
-			<td>
-				Standardfunksjon
+				Tre-sits bänk
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Lengdejusterbar hodestøtte
+				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				LengthAdjustableHeadrest
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
+				Justerbart lårstöd
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fotstøttepassasjerer
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Ryggstödsjustering
 			</td>
 			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk korsryggstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seteventilasjon
+				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Massasjefunksjon
+				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstödspassagerare
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LegSupportPassenger
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt svankstöd
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sätesventilation
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Sjåførassistanse
+## Förarassistans
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Lane keeping
+				Körfilsassistans
 			</td>
 			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Lane departure warning
-			</td>
-			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Døsighetsvarsel
+				Körfilsassistans avåkningsvarnare
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bryggekamera
+				Trötthetsvarnare
 			</td>
 			<td>
-				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				ReversingCamera
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -839,12 +839,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				360-kamera
 			</td>
 			<td>
-				Ja, standardutstyr
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Alarm for kryssende trafikk bak
+				Varning för korstrafik, bak
 			</td>
 			<td>
 			</td>
@@ -858,74 +858,74 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer foran
+				Parkeringssensorer fram
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer på siden
+				Sidoparkeringssensorer
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hill nedstigningshjelp
+				Hill Descent Assist
 			</td>
 			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hill start assist
-			</td>
-			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Automatisk nødbremsing
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bremseassistent
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Traksjonskontroll
+				Backstartsassistans
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Unngå krasj i venstresving
+				Antiblockeringssystem (ABS)
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonom nödbromsning
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk bromsassistans
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Antispinnsystem (TCS)
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Forward Collision Warning
+				Left Turn Crash Avoidance
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kollisionsvarning, front
 			</td>
 			<td>
 			</td>
@@ -939,67 +939,67 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Temperaturadvarsel
+				Temperature Warning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Varning för korstrafik, foran
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
+				Hastighetsbegränsare
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Effektivitetsassistent
+				EfficiencyAssist
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødstyring
+				Autonom nödstyrning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Trafikkskiltgjenkjenning
+				Skyltigenkänning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Nattsyn
+				Nattseende
 			</td>
 			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Brukerinterface
+## Användargränssnitt
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
-				Spesifikasjon
+				Specifikation
 			</th>
 			<th>
-				Verdi
+				Värde
 			</th>
 			</tr>
 	</thead>
@@ -1009,50 +1009,50 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, standardutstyr
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Voice control
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Gesture control
+				Röststyrning
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Android Auto-støtte
+				Gestkontroll
 			</td>
 			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay-støtte
-			</td>
-			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				I bilnavigasjon
+				Android Auto Support
 			</td>
 			<td>
-				Ja, standardutstyr
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Available screen layouts
+				Apple Carplay Support
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Navigation
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillgängliga skärmlayouter
 			</td>
 			<td>
 				1
@@ -1060,7 +1060,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Digital driver display
+				Digital drivrutinsdisplay
 			</td>
 			<td>
 				Ja, 10,25
@@ -1068,7 +1068,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm
+				Infotainmentskärm
 			</td>
 			<td>
 				Ja, 10,25
@@ -1076,25 +1076,25 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm fremre passasjer
+				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm bak
+				Bakre infotainmentskärm
 			</td>
 			<td>
-				Ikke tilgjengelig
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
 </table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Ladekurve </strong>
+<strong><i class="bi-arrow-left"></i> Laddningskurva </strong>
 </a>
 <a href="../gallery/" class="text-decoration-none text-black float-end">
 <strong>Galleri <i class="bi-arrow-right"></i></strong>

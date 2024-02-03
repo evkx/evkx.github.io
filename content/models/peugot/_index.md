@@ -58,7 +58,7 @@ Peugot 3008 is a Coupe SUV available in 1 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Peugot 308 is a crossover available in 1 variants.
+modelintro.CrossoverStationWagon.Mid
 </p>
 	<a href="308/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

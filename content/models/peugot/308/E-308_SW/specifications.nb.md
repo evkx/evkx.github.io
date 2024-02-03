@@ -1,15 +1,15 @@
 ---
-title: Peugot E-308 spesifikasjoner
+title: Peugot E-308 SW spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Peugot E-308."
+description: "EVKX.net gir deg alle spesifikasjonene for Peugot E-308 SW."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/peugot/308/e-308/main_1_st.jpg" title="Peugot E-308" width="3000" height="2000" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-308. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Peugot E-308, gå til [chargeinfo](../chargecurve/) for Peugot E-308 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/main_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000" >}}
+EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-308 SW. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Peugot E-308 SW, gå til [chargeinfo](../chargecurve/) for Peugot E-308 SW med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Peugot E-308. Klikk
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				8,1 s
+				10,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4367 mm
+				4636 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1441 mm
+				1442 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2675 mm
+				2732 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				10,5 meter
+				10,7 meter
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				412 liter
+				608 liter
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1323 liter
+				1634 liter
 			</td>
 		</tr>
 	</tbody>

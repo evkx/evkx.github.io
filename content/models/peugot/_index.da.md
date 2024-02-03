@@ -58,7 +58,7 @@ Peugot 3008 er en Coupe SUV tilgængelig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Peugot 308 er en crossover tilgængelig i 1 varianter.
+modelintro.CrossoverStationWagon.Mid
 </p>
 	<a href="308/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,15 +1,15 @@
 ---
-title: Peugot E-308 specifications
+title: Peugot E-308 SW specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Peugot E-308."
+description: "EVKX.net gives you the full specifications for Peugot E-308 SW."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/peugot/308/e-308/main_1_st.jpg" title="Peugot E-308" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Peugot E-308. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-308, visit the [chargeinfo](../chargecurve/) for Peugot E-308 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/main_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000" >}}
+EVKX.net seeks to have the most complete specifications for Peugot E-308 SW. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Peugot E-308 SW, visit the [chargeinfo](../chargecurve/) for Peugot E-308 SW with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Peugot E-308. Click 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				8,1 s
+				10,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4367 mm (171,9")
+				4636 mm (182,5")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1441 mm (56,7")
+				1442 mm (56,8")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2675 mm (105,3")
+				2732 mm (107,6")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10,5 meter (413,4")
+				10,7 meter (421,3")
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				412 liter (15 cu-ft)
+				608 liter (21 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1323 liter (47 cu-ft)
+				1634 liter (58 cu-ft)
 			</td>
 		</tr>
 	</tbody>

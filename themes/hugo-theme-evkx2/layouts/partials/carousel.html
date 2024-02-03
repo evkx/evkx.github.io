@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/peugot/308/e-308_sw/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/peugot/308/e-308_sw/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Peugot E-308 SW</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-1beeb3ae"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/peugot/308/e-308/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/peugot/308/e-308/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Honda Prologue AWD</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-7d7da23c"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/byd/seal_u/seal_u_design/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/byd/seal_u/seal_u_design/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>BYD Seal U Design</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-aa3af3e9"}}</p>
 				</div>
 			</div>
 		</div>

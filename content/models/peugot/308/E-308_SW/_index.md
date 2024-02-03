@@ -1,7 +1,7 @@
 ---
-title: Peugot E-308
-linktitle: "E-308"
-description: "Peugot E-308 is an all-electric crossover with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details."
+title: Peugot E-308 SW
+linktitle: "E-308 SW"
+description: "Peugot E-308 SW is an all-electric station wagon with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/main_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/main_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
-We have separated our Peugot E-308 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We have separated our Peugot E-308 SW article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -29,7 +29,7 @@ We have separated our Peugot E-308 article into sections. If you want to wait to
 
 ## Performance
 
-The Peugot E-308 has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,1 seconds. The top speed is 150 km/h.
+The Peugot E-308 SW has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 10,5 seconds. The top speed is 150 km/h.
 
 ## Battery, range, and charging
 
@@ -53,7 +53,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Peugot E-308 has a front-wheel drive system supported by one motor on the front axle.
+Peugot E-308 SW has a front-wheel drive system supported by one motor on the front axle.
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm.
 
@@ -75,7 +75,7 @@ There is only one roof for this model.
 You can order the car with tinted windows from B-pillar and back.
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/exterior_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/exterior_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -88,7 +88,7 @@ The seat layout is the traditional five seats with two in front and three in the
 
 ### First row seats
 
-Only one front seat type is available in the Peugot E-308.
+Only one front seat type is available in the Peugot E-308 SW.
 
 The following functionalities are available on the **standard** seat.
 
@@ -106,7 +106,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/frontseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/frontseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
 ### Second-row seat
@@ -118,7 +118,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - height adjustable headrest
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/secondrowseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/secondrowseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
 There is only one type of steering wheel available.
@@ -129,7 +129,7 @@ There is one climate system available. This model has a [heat pump](../../../../
 
 ## Comfort
 
-Peugot E-308 has several features to make your life as a driver or passenger more comfortable.
+Peugot E-308 SW has several features to make your life as a driver or passenger more comfortable.
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
 
@@ -144,15 +144,11 @@ Keyless go makes it possible to start the car without using the key.
 The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 10.3 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
-
-{{< sitefiguresized thumb="models/peugot/308/e-308/screens_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
-
-
 ## Infotainment
 
-One type of sound system is available for the Peugot E-308. With the , you get NULL speakers with a max system output of  watts.
+One type of sound system is available for the Peugot E-308 SW. With the , you get NULL speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-308 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-308 SW supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 The model has 3 USB-C connections as standard.
 ## Lights
@@ -160,24 +156,24 @@ The model has 3 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
-{{< sitefiguresized thumb="models/peugot/308/e-308/headlights_1_st.jpg" title="Peugot E-308" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/peugot/308/e-308_sw/headlights_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2001"  >}}
 
 ## Advanced driver assistance systems
 
-The Peugot E-308 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Peugot E-308 SW has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The Peugot E-308 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Peugot E-308 SW has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Peugot E-308 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Peugot E-308 SW has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-The Peugot E-308 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Peugot E-308 SW has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 
-The Peugot E-308 offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Peugot E-308 SW offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the DS Drive Assist  level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
@@ -189,13 +185,9 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 412 liters. With the rear seat down, it is 1323 liters. The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1714 kg (3779 lbs), you can max load 396 kg (873 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 608 liters. With the rear seat down, it is 1634 liters. The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1714 kg (3779 lbs), you can max load 396 kg (873 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
-
-{{< sitefiguresized thumb="models/peugot/308/e-308/trunk_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
-
 ### Availability & Pricing
 
 This model had a world premiere on 06.07.2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
