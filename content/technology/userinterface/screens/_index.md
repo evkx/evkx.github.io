@@ -146,3 +146,9 @@ See the examples below.
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_2_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV MBUX Hyperscreen layout with fully integrated" >}}
 
 [Continue to head-up displays.](../hud/)
+
+
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> User Interface</strong></a>
+    <a href="../hud/" class="text-decoration-none text-black float-end"><strong>Head-up Display<i class="bi-arrow-right"></i></strong></a>
+</div>

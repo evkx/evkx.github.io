@@ -141,4 +141,7 @@ Se eksemplerne nedenfor.
 
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_2_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV MBUX Hyperskærmlayout med fuldt integreret" >}}
 
-[Fortsæt til head-up displays.](../hud/)
+<div class="mt-3 mb-3">
+    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Brugergrænseflade</strong></a>
+    <a href="../hud/" class="text-decoration-none text-black float-end"><strong>Head-up Display<i class="bi-arrow-right"></i></strong></a>
+</div>

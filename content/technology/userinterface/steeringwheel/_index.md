@@ -48,4 +48,7 @@ Modern vehicles offer various steering wheel adjustments to allow drivers to fin
 
 It's important to note that proper steering wheel adjustment is crucial for safe driving. Drivers should adjust their steering wheel to allow a relaxed and comfortable grip, with their arms slightly bent and shoulders relaxed. In addition, the steering wheel should not obstruct the driver’s view of the instrument panel or the road, and the airbag should be positioned correctly in an emergency.
 
-[Continue to stalks.](../stalks/)
+<div class="mt-3 mb-3">
+    <a href="../buttons/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Physical Buttons</strong></a>
+    <a href="../stalks/" class="text-decoration-none text-black float-end"><strong>Stalks<i class="bi-arrow-right"></i></strong></a>
+</div>

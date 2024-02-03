@@ -22,3 +22,8 @@ Her er noen viktige aspekter ved bevegelseskontroll i bilindustrien:
 **Begrensninger for bevegelseskontroll:** Begrensninger for bevegelseskontroll har også noen begrensninger å vurdere. Nøyaktigheten og påliteligheten til bevegelsesgjenkjenning kan variere avhengig av faktorer som lysforhold, hånd-/kroppsposisjonering og kompleksiteten til bevegelser. Brukere kan trenge å lære og huske spesifikke bevegelser, noe som kan være utfordrende for noen brukere. Bevegelseskontroll er kanskje ikke så effektiv eller rask som andre kontrollmetoder, for eksempel fysiske knapper eller talekommandoer, spesielt i situasjoner der presise bevegelser eller flere bevegelser kreves. I tillegg kan det hende at ikke alle kjøretøysfunksjoner er tilgjengelige for kontroll via bevegelser, og integreringsnivået og funksjonaliteten kan variere avhengig av kjøretøyets spesifikke merke og modell.
 
 Oppsummert er bevegelseskontroll i biler en teknologi som lar brukere kontrollere ulike kjøretøyfunksjoner ved hjelp av hånd- eller kroppsbevegelser, uten fysisk å berøre knapper eller skjermer. Det tilbyr fordeler som naturlig interaksjon, reduserte distraksjoner og bekvemmelighet, men har også begrensninger knyttet til nøyaktighet, brukerens læringskurve og systemintegrasjon. Tilgjengeligheten og mulighetene til bevegelseskontroll kan variere avhengig av det spesifikke kjøretøyet og systemet som brukes.
+
+<div class="mt-3 mb-3">
+    <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Stemmekontroll</strong></a>
+    <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Vinduer<i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -25,4 +25,7 @@ Here are some key aspects of voice control in cars:
 In summary, voice control in cars is a technology that allows drivers to control various vehicle functions using voice commands. It offers benefits such as improved safety, convenience, and accessibility, but also has some limitations related to accuracy, complexity of commands, and system integration. The availability and capabilities of voice control may vary depending on the specific vehicle and system used.
 
 
-[Continue to gesture control.](../gesturecontrol/)
+<div class="mt-3 mb-3">
+    <a href="../mirrors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Mirrors</strong></a>
+    <a href="../gesturecontrol/" class="text-decoration-none text-black float-end"><strong>Gesture control<i class="bi-arrow-right"></i></strong></a>
+</div>

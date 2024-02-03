@@ -43,4 +43,7 @@ I tillegg reduserer de vindmotstanden og øker dermed rekkevidden og reduserer v
 
 Innvendige speil eller sminkespeil er vanligvis plassert på solskjermene eller overheadkonsollen og lar sjåføren og passasjerene sjekke utseendet deres eller se interiøret i kjøretøyet.
 
-[Fortsett til stemmestyring.](../voicecontrol/)
+<div class="mt-3 mb-3">
+    <a href="../stalks/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Hendler</strong></a>
+    <a href="../voicecontrol/" class="text-decoration-none text-black float-end"><strong>Stemmekontroll<i class="bi-arrow-right"></i></strong></a>
+</div>

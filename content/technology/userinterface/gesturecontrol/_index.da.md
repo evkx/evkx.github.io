@@ -22,3 +22,8 @@ Her er nogle vigtige aspekter af motion control i bilindustrien:
 **Begrænsninger for bevægelseskontrol:** Begrænsninger i bevægelseskontrol har også nogle begrænsninger, der skal tages i betragtning. Nøjagtigheden og pålideligheden af ​​gestusgenkendelse kan variere afhængigt af faktorer som lysforhold, hånd-/kropspositionering og kompleksiteten af ​​gestus. Brugere skal muligvis lære og huske specifikke bevægelser, hvilket kan være en udfordring for nogle brugere. Bevægelseskontrol er muligvis ikke så effektiv eller hurtig som andre kontrolmetoder, såsom fysiske knapper eller stemmekommandoer, især i situationer, hvor der kræves præcise bevægelser eller flere bevægelser. Derudover er det muligvis ikke alle køretøjsfunktioner, der er tilgængelige til bevægelseskontrol, og integrations- og funktionalitetsniveauet kan variere afhængigt af køretøjets specifikke mærke og model.
 
 Sammenfattende er motion control i biler en teknologi, der giver brugerne mulighed for at styre forskellige køretøjsfunktioner ved hjælp af hånd- eller kropsbevægelser uden fysisk at røre knapper eller skærme. Det giver fordele såsom naturlig interaktion, reducerede distraktioner og bekvemmelighed, men har også begrænsninger relateret til nøjagtighed, brugerindlæringskurve og systemintegration. Tilgængeligheden og mulighederne for bevægelseskontrol kan variere afhængigt af det specifikke køretøj og det anvendte system.
+
+<div class="mt-3 mb-3">
+    <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Stemmekontroll</strong></a>
+    <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Vinduer<i class="bi-arrow-right"></i></strong></a>
+</div>

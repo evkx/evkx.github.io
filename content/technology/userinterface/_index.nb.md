@@ -72,3 +72,7 @@ Bevegelseskontroll er en annen teknologi som begynner å dukke opp i elbiler. Me
 
 [Les alt om gestkontroll.](gesturecontrol/)
 
+<div class="mt-3 mb-3">
+    <a href="../wheels/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Dekk og felger</strong></a>
+    <a href="screens/" class="text-decoration-none text-black float-end"><strong>Skjermer<i class="bi-arrow-right"></i></strong></a>
+</div>

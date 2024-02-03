@@ -44,4 +44,7 @@ Polaroid sunglasses can also prevent the driver from seeing the screen.
 
 In the [EVKX EV database](../../evsearch/), you can search for models with HUD.
 
-[Continue to buttons.](../buttons/)
+<div class="mt-3 mb-3">
+    <a href="../screens/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Screens</strong></a>
+    <a href="../buttons/" class="text-decoration-none text-black float-end"><strong>Physical Buttons<i class="bi-arrow-right"></i></strong></a>
+</div>

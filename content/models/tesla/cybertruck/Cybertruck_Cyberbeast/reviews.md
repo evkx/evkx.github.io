@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Cybertruck Review // We Drove It Over 500 Miles...And Oh Boy</h3>
+<p>Throttle House: 01.02.2024</p>
+
+{{< youtube xNE-NyaYBcg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Cybertruck Full Tour! Exposing All Details - Service Mode, Wiper, Powertrain, & Much More</h3>
 <p>Out of Spec Reviews: 03.01.2024</p>
 

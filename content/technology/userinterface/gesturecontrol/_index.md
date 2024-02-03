@@ -22,3 +22,9 @@ Here are some key aspects of gesture control in the automotive industry:
 **Limitations of gesture control:** Gesture control also has some limitations to consider. The accuracy and reliability of gesture recognition can vary depending on factors such as lighting conditions, hand/body positioning, and the complexity of gestures. Users may need to learn and memorize specific gestures, which could be challenging for some users. Gesture control may not be as efficient or quick as other methods of control, such as physical buttons or voice commands, especially in situations where precise movements or multiple gestures are required. Additionally, not all vehicle functions may be available for control via gestures, and the level of integration and functionality may vary depending on the specific make and model of the vehicle.
 
 In summary, gesture control in cars is a technology that allows users to control various vehicle functions using hand or body gestures, without physically touching buttons or screens. It offers benefits such as natural interaction, reduced distractions, and convenience, but also has limitations related to accuracy, user learning curve, and system integration. The availability and capabilities of gesture control may vary depending on the specific vehicle and system used.
+
+
+<div class="mt-3 mb-3">
+    <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Voice control</strong></a>
+    <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Windows<i class="bi-arrow-right"></i></strong></a>
+</div>

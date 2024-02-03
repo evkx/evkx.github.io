@@ -43,4 +43,7 @@ Polaroid-solbriller kan også hindre sjåføren i å se skjermen.
 
 I [EVKX EV-databasen](../../evsearch/) kan du søke etter modeller med HUD.
 
-[Fortsett til knapper.](../buttons/)
+<div class="mt-3 mb-3">
+    <a href="../screens/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Skjermer</strong></a>
+    <a href="../buttons/" class="text-decoration-none text-black float-end"><strong>Fysiske knapper<i class="bi-arrow-right"></i></strong></a>
+</div>

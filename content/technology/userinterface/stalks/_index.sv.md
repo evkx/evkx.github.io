@@ -52,5 +52,7 @@ I videon nedan visar [Bjørn Nyland](../../../guides/evreviewers/#bjørn-nyland)
 
 Den skaftlösa designen finns för närvarande i nya Model S, Model 3 och Model X, och vi förväntar oss att Tesla snart kommer att introducera en skaftlös design i Model Y.
 
-
-[Fortsätt till speglar.](../mirrors/)
+<div class="mt-3 mb-3">
+    <a href="../steeringwheel/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Ratt</strong></a>
+    <a href="../mirrors/" class="text-decoration-none text-black float-end"><strong>Spegel<i class="bi-arrow-right"></i></strong></a>
+</div>

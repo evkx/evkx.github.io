@@ -47,4 +47,7 @@ Moderna fordon erbjuder olika rattjusteringar så att föraren kan hitta den mes
 
 Det är viktigt att notera att korrekt justering av ratten är avgörande för säker körning. Förare bör justera ratten för att ge ett avslappnat och bekvämt grepp, med armarna lätt böjda och axlarna avslappnade. Dessutom bör ratten inte hindra förarens sikt över instrumentpanelen eller vägen, och krockkudden ska vara korrekt placerad i en nödsituation.
 
-[Fortsätt till stalks.](../stalks/)
+<div class="mt-3 mb-3">
+    <a href="../buttons/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Fysiska knappar</strong></a>
+    <a href="../stalks/" class="text-decoration-none text-black float-end"><strong>Spakarna<i class="bi-arrow-right"></i></strong></a>
+</div>

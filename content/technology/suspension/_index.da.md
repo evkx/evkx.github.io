@@ -179,3 +179,8 @@ Der findes flere forskellige typer af adaptive dæmpningssystemer, men de har al
 Overordnet set kan adaptiv dæmpning forbedre køreoplevelsen ved at give en mere komfortabel kørsel og bedre håndtering, især på ujævne eller ujævne veje.
 
 {{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Audi RS e-tron GT adaptiv luftaffjedring" >}}
+
+<div class="mt-3 mb-3">
+    <a href="../sensorsandcameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensorer og kameraer</strong></a>
+    <a href="../wheels/" class="text-decoration-none text-black float-end"><strong>Dæk og fælge<i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -24,4 +24,7 @@ Här är några viktiga aspekter av röststyrning i bilar:
 Sammanfattningsvis är röststyrning i bilar en teknik som gör att förare kan styra olika fordonsfunktioner med hjälp av röstkommandon. Det erbjuder fördelar som förbättrad säkerhet, bekvämlighet och tillgänglighet, men har också vissa begränsningar relaterade till noggrannhet, komplexitet i kommandon och systemintegration. Tillgänglighet och funktioner för röststyrning kan variera beroende på det specifika fordonet och det specifika systemet som används.
 
 
-[Fortsätt till gestkontroll.](../gesturecontrol/)
+<div class="mt-3 mb-3">
+    <a href="../mirrors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Spegel</strong></a>
+    <a href="../gesturecontrol/" class="text-decoration-none text-black float-end"><strong>Rörelsekontroll<i class="bi-arrow-right"></i></strong></a>
+</div>

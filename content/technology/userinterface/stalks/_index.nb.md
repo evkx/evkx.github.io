@@ -53,4 +53,7 @@ I videoen under demonstrerer [Bjørn Nyland](../../../guides/evreviewers/#bjørn
 Den stilkløse designen er for øyeblikket tilgjengelig i den nye Model S, Model 3 og Model X, og vi forventer at Tesla snart vil introdusere en stilkløs design i Model Y.
 
 
-[Fortsett til speil.](../mirrors/)
+<div class="mt-3 mb-3">
+    <a href="../steeringwheel/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Ratt</strong></a>
+    <a href="../mirrors/" class="text-decoration-none text-black float-end"><strong>Speil<i class="bi-arrow-right"></i></strong></a>
+</div>

@@ -22,3 +22,8 @@ Här är några viktiga aspekter av rörelsekontroll inom bilindustrin:
 **Begränsningar för rörelsekontroll:** Begränsningar för rörelsekontroll har också vissa begränsningar att ta hänsyn till. Noggrannheten och tillförlitligheten för gestigenkänning kan variera beroende på faktorer som ljusförhållanden, hand-/kroppspositionering och gesternas komplexitet. Användare kan behöva lära sig och komma ihåg specifika gester, vilket kan vara utmanande för vissa användare. Gestkontroll kanske inte är lika effektiv eller snabb som andra kontrollmetoder, som fysiska knappar eller röstkommandon, särskilt i situationer där exakta rörelser eller flera rörelser krävs. Dessutom kanske inte alla fordonsfunktioner är tillgängliga för geststyrning, och integrationsnivån och funktionaliteten kan variera beroende på fordonets specifika märke och modell.
 
 Sammanfattningsvis är rörelsekontroll i bilar en teknik som låter användare styra olika fordonsfunktioner med hjälp av hand- eller kroppsrörelser, utan att fysiskt röra knappar eller skärmar. Det erbjuder fördelar som naturlig interaktion, minskade distraktioner och bekvämlighet, men har också begränsningar relaterade till noggrannhet, användarens inlärningskurva och systemintegration. Tillgängligheten och funktionerna för rörelsekontroll kan variera beroende på det specifika fordonet och det specifika systemet som används.
+
+<div class="mt-3 mb-3">
+    <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Röst kontroll</strong></a>
+    <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Fönster<i class="bi-arrow-right"></i></strong></a>
+</div>
