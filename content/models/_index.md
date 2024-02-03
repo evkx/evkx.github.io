@@ -686,7 +686,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		XPeng is a Chinese electric vehicle manufacturer that was founded in 2014 by He Xiaopeng, a former Alibaba executive and internet entrepreneur. The company is headquartered in Guangzhou, Guangdong, with offices in Mountain View, California, United States and is publicly traded on the New York Stock Exchange. 
 	</p>
 	<p>
-	XPENG has 5 models with total 7 variants.
+	XPENG has 5 models with total 8 variants.
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Go to XPENG EV-model overview</a>
 </div>
