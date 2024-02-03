@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 580 4MATIC SUV
-linktitle: "EQS 580 4MATIC SUV"
-description: "Mercedes-EQ EQS 580 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 673 km (418 miles). EVKX.net has all the details."
+linktitle: "EQS 580 4MATIC SUV GEN1"
+description: "Mercedes-EQ EQS 580 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 610 km (379 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
 We have separated our Mercedes-EQ EQS 580 4MATIC SUV article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
@@ -33,17 +33,17 @@ The Mercedes-EQ EQS 580 4MATIC SUV has a maximum power of 400 KW (544 hp/536 bhp
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 125kWh and a net capacity of 118kWh, meaning you have a 7kWh buffer for protection. (5,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 673 to 594 km (418-369 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.5kWh/100km for the basic version and 19.9kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 610 to 511 km (379-318 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.8kWh/100km for the basic version and 21.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 89 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 55%, resulting in an actual charge speed, including time loss, of 144kW. Each charge session would take 27 minutes and 31 seconds.
+The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57%, resulting in an actual charge speed, including time loss, of 142kW. Each charge session would take 26 minutes and 41 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 31 minutes. This trip will require three charge session(s) charging from 1% to 49%. The total time lost for charging up the battery will be 71 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28,5kWh/100km, 1000km will take 9 hours and 35 minutes. This trip will require three charge session(s) charging from 1% to 56%. The total time lost for charging up the battery will be 76 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 43 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 51 minutes.
 
 ### Charge port
 
@@ -84,7 +84,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -132,7 +132,7 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 
 ### Second-row seat
@@ -145,7 +145,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
 
 
 ### Third-row seats
@@ -155,7 +155,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2001"  >}}
 
 
 There is only one type of steering wheel available.
@@ -190,7 +190,7 @@ The optional MBUX Hyperscreen layout has the following configuration. Behind the
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
@@ -258,7 +258,7 @@ The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 21
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
 ### Availability & Pricing
 

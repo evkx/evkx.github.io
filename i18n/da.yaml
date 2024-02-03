@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-1ebc0a26
+  translation: Mercedes-EQ EQS 580 4MATIC SUV er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 673 km (418 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-44e86874
   translation: XPENG G6 RWD Long Range er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 755 km (469 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a8e9d5b4
   translation: BYD Seagull 38kWh er en fuldelektrisk hatchback med en CLTC rækkevidde på op til 405 km (252 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-5a24e938
-  translation: Volvo EM90 er en fuldelektrisk premium MPV med en CLTC rækkevidde på op til 738 km (459 miles). EVKX.net har alle detaljerne.
 

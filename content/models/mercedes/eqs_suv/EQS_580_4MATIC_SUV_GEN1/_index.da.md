@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 580 4MATIC SUV
-linktitle: "EQS 580 4MATIC SUV"
-description: "Mercedes-EQ EQS 580 4MATIC SUV er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 673 km (418 miles). EVKX.net har alle detaljerne."
+linktitle: "EQS 580 4MATIC SUV GEN1"
+description: "Mercedes-EQ EQS 580 4MATIC SUV er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 610 km (379 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
 Vi har opdelt vores Mercedes-EQ EQS 580 4MATIC SUV artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer]( specifikationer/), et [billedgalleri](galleri/), detaljerede oplysninger om [opladningsydelse](opladningskurve/), og nogle [online anmeldelser](anmeldelser/). Vores sektioner:
 
@@ -33,17 +33,17 @@ Mercedes-EQ EQS 580 4MATIC SUV har en maksimal effekt på 400 KW (544 hk/536 hk)
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 125kWh og en nettokapacitet på 118kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (5,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108,4kWh, hvilket betyder, at du har en 11,6kWh buffer til beskyttelse. (9,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 673 til 594 km (418-369 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.5kWh/100 km for basisversionen og 19.9kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 610 til 511 km (379-318 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.8kWh/100 km for basisversionen og 21.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 89 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 55%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 144kW. Hver opladningssession ville tage 27 minutter og 31 sekunder.
+Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 82 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 142kW. Hver opladningssession ville tage 26 minutter og 41 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28,5kWh/100 km, vil 1000 km tage 9 timer og 31 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 71 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28,5kWh/100 km, vil 1000 km tage 9 timer og 35 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 56%. Den samlede tid, der går tabt for at oplade batteriet, vil være 76 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 10 timer og 43 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 9 timer og 51 minutter.
 
 ### Ladeport
 
@@ -81,7 +81,7 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Du kan vælge mellem to typer tage på denne model. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne fronten del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til at beskytte mod solen.
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -129,7 +129,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 
 ### Sæde på anden række
@@ -142,7 +142,7 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
 
 
 ### Sæder på tredje række
@@ -152,7 +152,7 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du folde sæderne ned, når de ikke bruges for at skabe en større lastkapacitet.
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2001"  >}}
 
 
 Der er kun én type rat tilgængelig.
@@ -187,7 +187,7 @@ Det valgfri MBUX Hyperscreen-layout har følgende konfiguration. Bag rattet er d
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 
 Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
@@ -255,7 +255,7 @@ Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 lite
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
 ### Tilgængelighed og priser
 

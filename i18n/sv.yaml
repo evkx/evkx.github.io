@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-1ebc0a26
+  translation: Mercedes-EQ EQS 580 4MATIC SUV är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 673 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-44e86874
   translation: XPENG G6 RWD Long Range är en helelektrisk SUV med en CLTC räckvidd på upp till 755 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a8e9d5b4
   translation: BYD Seagull 38kWh är en helelektrisk halvkombi med en CLTC räckvidd på upp till 405 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-5a24e938
-  translation: Volvo EM90 är en helelektrisk premium MPV med en CLTC räckvidd på upp till 738 km. EVKX.net har alla detaljer.
 

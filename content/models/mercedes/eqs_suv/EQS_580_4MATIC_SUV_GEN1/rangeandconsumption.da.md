@@ -1,7 +1,7 @@
 ---
-title: Mercedes-EQ EQS 580 4MATIC SUV range & consumption
+title: Mercedes-EQ EQS 580 4MATIC SUV rækkevidde og forbrug
 linktitle: "Range"
-description: "Here you find all details about range and consumption for Mercedes-EQ EQS 580 4MATIC SUV."
+description: "Her finder du alle detaljer om rækkevidde og forbrug for Mercedes-EQ EQS 580 4MATIC SUV."
 weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -9,14 +9,14 @@ navicon: bi-file-earmark-bar-graph
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-The range will vary depending on several factors. Like how fast you drive, the temperature, wet or dry road, and the equipped equipment. On this page, you will find a diagram and tables with the standard test cycle results like WLTP and EPA and estimated real-world range in different environments.
+Rækkevidden vil variere afhængigt af flere faktorer. Som hvor hurtigt du kører, temperaturen, våd eller tør vej og det udstyrede udstyr. På denne side finder du et diagram og tabeller med standard testcyklusresultater som WLTP og EPA og estimeret rækkevidde i den virkelige verden i forskellige miljøer.
 
 <img class="img-fluid" alt="Charge curve" src="../range.svg"/>
 <a href="../range.svg">Full screen</a>
 
-### Official test cycle results
+### Officielle testcyklusresultater
 
-Below are the officially rated ranges. The tests are performed with the heating/AC turned off. Click on the links in the table for more details about test procedures.
+Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/vekselstrøm slukket. Klik på linkene i tabellen for flere detaljer om testprocedurer.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -28,7 +28,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				Range
 			</th>
 			<th>
-				Consumption
+				Forbrug
 			</th>
 		</tr>
 	</thead>
@@ -36,36 +36,36 @@ Below are the officially rated ranges. The tests are performed with the heating/
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP range basic trim
+					WLTP række grundlæggende trim
 				</a>
 			</td>
 			<td>
-				673 km / 418 mi
+				610 km / 379 mi
 			</td>
 			<td>
-				17,53kWh/100km / 3,5 mi/kWh
+				17,77kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP range top trim
+					WLTP række top trim
 				</a>
 			</td>
 			<td>
-				594 km / 369 mi
+				511 km / 318 mi
 			</td>
 			<td>
-				19,87 kWh/100km / 3,1 mi/kWh
+				21,21 kWh/100km / 2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
 </table>
 </div>
 
-### Official test cycle results with added heating
+### Officielle testcyklusresultater med tilføjet opvarmning
 
-The table below shows how turning on heating/cooling on a cold/hot day affects the official range.
+Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/varm dag påvirker den officielle rækkevidde.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -77,40 +77,40 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				Range
 			</th>
 			<th>
-				Range reduction
+				Reduktion af rækkevidde
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				WLTP range basic trim with 2KW AC
+				WLTP række grundlæggende trim med 2KW AC
 			</td>
 			<td>
-				 540km / 336 mi 
+				 491km / 305 mi 
 			</td>
 			<td>
-				-19,8%
+				-19,5%
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP range top trim with 2KW AC
+				WLTP række top trim med 2KW AC
 			</td>
 			<td>
-				488 km / 303 mi
+				425 km / 264 mi
 			</td>
 			<td>
-				-17,8%
+				-16,8%
 			</td>
 		</tr>
 	</tbody>
 </table>
 </div>
 
-### Real world range estimates
+### Estimat for rækkevidde fra den virkelige verden
 
-The table below shows some estimated real-world examples in perfect condition and in conditions needing A/C to heat or cool vehicles. See our [range guide](../../../../../guides/understandingrange/) to see how the range is affected in real world.
+Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i perfekt stand og under forhold, der kræver aircondition til at opvarme eller afkøle køretøjer. Se vores [range guide](../../../../../guides/understandingrange/) for at se, hvordan rækkevidden påvirkes i den virkelige verden.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -122,17 +122,17 @@ The table below shows some estimated real-world examples in perfect condition an
 				Range
 			</th>
 			<th>
-				Consumption
+				Forbrug
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				90kmh/56mph perfect condition
+				90kmt/56mph perfekt stand
 			</td>
 			<td>
-				536km / 333 mi
+				493km / 306 mi
 			</td>
 			<td>
 				22 kWh/100km / 2,8 mi/kWh
@@ -140,10 +140,10 @@ The table below shows some estimated real-world examples in perfect condition an
 		</tr>
 		<tr>
 			<td>
-				90kmh/56mph with 2KW heating
+				90kmt/56mph med 2KW opvarmning
 			</td>
 			<td>
-				498km /303mi
+				458km /278mi
 			</td>
 			<td>
 				24,2 kWh/100km /2,6 mi/kWh 
@@ -151,10 +151,10 @@ The table below shows some estimated real-world examples in perfect condition an
 		</tr>
 		<tr>
 			<td>
-				70mph/112kmh perfect condition
+				70mph/112kmh perfekt stand
 			</td>
 			<td>
-				454 km / 282 mi
+				417 km / 259 mi
 			</td>
 			<td>
 				26 kWh/100km / 2,4 mi/kWh
@@ -162,10 +162,10 @@ The table below shows some estimated real-world examples in perfect condition an
 		</tr>
 		<tr>
 			<td>
-				70mph/112kmh with 2KW heating
+				70mph/112kmh med 2KW opvarmning
 			</td>
 			<td>
-				684km / 425mi
+				628km / 390mi
 			</td>
 			<td>
 				27,8 kWh/100km / 2,2 mi/kWh  
@@ -173,10 +173,10 @@ The table below shows some estimated real-world examples in perfect condition an
 		</tr>
 		<tr>
 			<td>
-				120kmh/75mph perfect condition
+				120kmt/75mph perfekt stand
 			</td>
 			<td>
-				414 km / 257 mi
+				380 km / 236 mi
 			</td>
 			<td>
 				28,5 kWh/100km / 2,2 mi/kWh
@@ -184,10 +184,10 @@ The table below shows some estimated real-world examples in perfect condition an
 		</tr>
 		<tr>
 			<td>
-				120kmh/75mph with 2KW heating
+				120kmt/75mph med 2KW opvarmning
 			</td>
 			<td>
-				391 km /243mi
+				359 km /223mi
 			</td>
 			<td>
 				30,2 kWh/100km /2,1 mi/kWh
@@ -201,6 +201,6 @@ The table below shows some estimated real-world examples in perfect condition an
 <strong><i class="bi-arrow-left"></i> Mercedes EQS 580 4MATIC SUV </strong>
 </a>
 <a href="../chargingcurve/" class="text-decoration-none text-black float-end">
-<strong>Charging curve <i class="bi-arrow-right"></i></strong>
+<strong>Opladningskurve <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
