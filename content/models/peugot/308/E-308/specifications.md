@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Peugot E-308. Click 
 				Top speed
 			</td>
 			<td>
-				150 kph (93 mph)
+				170 kph (106 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Peugot E-308. Click 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				8,1 s
+				9,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -295,18 +295,18 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Drag coefficient
+				Track width front
 			</td>
 			<td>
-				0,33
+				1559 mm (61,4")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Frontal area
+				Track width rear
 			</td>
 			<td>
-				2,25
+				1554 mm (61,2")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10,5 meter (413,4")
+				10,95 meter (431,1")
 			</td>
 		</tr>
 	</tbody>
@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				1714 kg (3779 lbs)
+				1684 kg (3713 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,15 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				396 kg (873 lbs)
+				426 kg (939 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
+			</td>
+			<td>
+				70 kg (154 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				412 liter (15 cu-ft)
+				361 liter (13 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1323 liter (47 cu-ft)
+				1271 liter (45 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -436,7 +444,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				170 mm (6,7")
+				140 mm (5,5")
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +452,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				170 mm (6,7")
+				140 mm (5,5")
 			</td>
 		</tr>
 		<tr>
@@ -854,6 +862,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -861,6 +870,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -875,7 +885,7 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -883,6 +893,7 @@ This model is available with a seat configuration with five seats.
 				Hill start assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

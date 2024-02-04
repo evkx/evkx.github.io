@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Peugot E-308. Klicka p
 				Topphastighet
 			</td>
 			<td>
-				150 km/h
+				170 km/h
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Peugot E-308. Klicka p
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				8,1 s
+				9,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -295,18 +295,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Dragkoefficient
+				Spårbredd fram
 			</td>
 			<td>
-				0,33
+				1559 mm
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Frontalområde
+				Spårbredd bak
 			</td>
 			<td>
-				2,25
+				1554 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10,5 meter
+				10,95 meter
 			</td>
 		</tr>
 	</tbody>
@@ -339,7 +339,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				1714 kg
+				1684 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,15 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				396 kg
+				426 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillåten taklast
+			</td>
+			<td>
+				70 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				412 liter
+				361 liter
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1323 liter
+				1271 liter
 			</td>
 		</tr>
 	</tbody>
@@ -436,7 +444,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				170 mm
+				140 mm
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +452,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				170 mm
+				140 mm
 			</td>
 		</tr>
 		<tr>
@@ -854,6 +862,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Parkeringssensorer bak
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -861,6 +870,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Parkeringssensorer fram
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -875,7 +885,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Hill Descent Assist
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -883,6 +893,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Backstartsassistans
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

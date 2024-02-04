@@ -29,7 +29,7 @@ We have separated our Peugot E-308 article into sections. If you want to wait to
 
 ## Performance
 
-The Peugot E-308 has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,1 seconds. The top speed is 150 km/h.
+The Peugot E-308 has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9,8 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Peugot E-308 has a front-wheel drive system supported by one motor on the front axle.
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm.
 
 ### Brakes
 
@@ -70,7 +70,7 @@ Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model.
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 You can order the car with tinted windows from B-pillar and back.
 
@@ -125,7 +125,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -175,6 +175,8 @@ The Peugot E-308 has a [**lane-keeping assist**](../../../../technology/driveras
 
 The Peugot E-308 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
+
 ### Driving Automation
 
 The Peugot E-308 offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -189,7 +191,7 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 412 liters. With the rear seat down, it is 1323 liters. The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1714 kg (3779 lbs), you can max load 396 kg (873 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 361 liters. With the rear seat down, it is 1271 liters. On the roof, you can load up to 70 kg (154,3 lbs). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1684 kg (3713 lbs), you can max load 426 kg (939 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

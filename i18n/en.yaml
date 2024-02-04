@@ -130,9 +130,6 @@
 - id: frontpage-description-aa3af3e9
   translation: BYD Seal U Design is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details.
 
-- id: frontpage-description-406356fd
-  translation: BYD Seal U Design is an all-electric SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details.
-
 - id: frontpage-description-c3e5377b
   translation: Aion Hyper GT 710 Supercharged is an all-electric sedan with a CLTC range of up to 710 km (441 miles). EVKX.net has all the details.
 
@@ -156,4 +153,7 @@
 
 - id: frontpage-description-65a6b079
   translation: Neta GT 580 AWD is an all-electric coupe with a CLTC range of up to 580 km (361 miles). EVKX.net has all the details.
+
+- id: frontpage-description-d456be48
+  translation: MG Cyberster AWD Long Range is an all-electric convertible with a CLTC range of up to 520 km (323 miles). EVKX.net has all the details.
 
