@@ -65,7 +65,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

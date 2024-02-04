@@ -65,7 +65,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 5 hjul med størrelser fra 17 til 18 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

@@ -65,7 +65,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+You can choose between 6 different paint colors when ordering this model.
 Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

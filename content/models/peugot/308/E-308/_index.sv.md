@@ -65,7 +65,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 5 hjul i storlek från 17 till 18 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

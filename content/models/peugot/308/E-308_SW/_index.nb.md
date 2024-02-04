@@ -65,7 +65,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
