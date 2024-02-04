@@ -409,7 +409,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
 	<h2>Opel</h2>
 	<p>
-	Opel har 1 modell(er) med totalt 1 varianter.
+	Opel har 2 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="opel/" class="btn btn-outline-primary" role="button">Gå til Opel modelloversikt</a>
 </div>

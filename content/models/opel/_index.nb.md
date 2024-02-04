@@ -9,6 +9,20 @@ weight: 30
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Opel Astra</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="astra"><img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/main_1_st.jpg" class="img-fluid" alt="Opel Astra" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Opel Astra er en stasjonsvogn tilgjengelig i 1 varianter.
+</p>
+	<a href="astra/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Opel Mokka</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

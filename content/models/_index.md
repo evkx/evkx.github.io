@@ -499,7 +499,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Opel is a German automobile manufacturer that has been a subsidiary of Stellantis since 2021. It was previously owned by General Motors and PSA Group. Opel produces passenger cars, light commercial vehicles, and vehicle parts, and sells them under the Opel and Vauxhall brands in Europe and other regions.
 	</p>
 	<p>
-	Opel has 1 models with total 1 variants.
+	Opel has 2 models with total 2 variants.
 	</p>
 	<a href="opel/" class="btn btn-outline-primary" role="button">Go to Opel EV-model overview</a>
 </div>

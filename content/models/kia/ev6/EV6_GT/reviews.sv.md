@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Can Kia's EV6 Drive Europe's Longest Road? The FULL Challenge</h3>
+<p>Fifth Gear: 04.02.2024</p>
+
+{{< youtube 8Txzu_jEaqw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV6 GT | Long Trip Test</h3>
 <p>Kris Rifa: 17.12.2023</p>
 
