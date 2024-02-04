@@ -12,7 +12,7 @@ De vanligaste systemen är:
 
 - [Adaptive Cruise Control](adaptivecruisecontrol/) (ACC)
 - [Anti-lock Braking System](antilockbrakingsystem/) (ABS)
-- [Automated lane change](automatedlanechange/)
+- [Automated lane change](automatedlanechange/) (ALC)
 - [Autonomous Emergency Braking](automaticemergencybraking/) (AEB)
 - [Automatic Emergency Steering](automaticemergencysteering/) (AES)
 - [Automatic parking](automaticparking/)
@@ -23,9 +23,9 @@ De vanligaste systemen är:
 - [Driver Monitoring System](drivermonitoringsystem/) (DMS)
 - [Efficiency Assist](efficencyassist/)
 - [Electronic Stability Control](electronicstabilitycontrol/) (ESC)
-- [Exit Warning](exitwarning/)
+- [Exit Warning](exitwarning/) (EW)
 - [Forward collision warning](forwardcollisionwarning/) (FCW)
-- [Front cross traffic assist](frontcrosstrafficassist/)
+- [Front cross traffic assist](frontcrosstrafficassist/) (FCTA)
 - [Lane departure warning](lanedeparturewarning/) (LDW)
 - [Lane Keeping Assist](lanekeepingassist/) (LKA)
 - [Rear Cross Traffic Alert](rearcrosstrafficalert/) (RCTA)
@@ -33,6 +33,7 @@ De vanligaste systemen är:
 - Tire Pressure Monitoring System (TPMS)
 
 {{<evkxdisplayaddarticle />}}
+
 ### Nivå av autonom körning
 
 Nivån på autonom körning, även känd som nivån av autonomi, hänvisar till graden av automatisering och kontroll ett fordon har över sin verksamhet.

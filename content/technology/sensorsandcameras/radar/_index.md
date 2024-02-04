@@ -1,21 +1,120 @@
 ---
 title: Radar sensors
 linktitle: Radar
-description:  Radar sensors are commonly used in cars for a variety of applications, including collision avoidance, adaptive cruise control, and blind spot detection.
+description:  ADAS systems use car radar sensors for various applications, including collision avoidance, adaptive cruise control, and blind spot detection.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 Radar stands for "Radio Detection and Ranging" and is a sensing technology that uses radio waves to detect the presence and location of objects.
 
-In cars, radar sensors are typically located on the front, rear, and sides of the vehicle. The sensors emit radio waves, which bounce off nearby objects and return to the sensor. By measuring the time it takes for the radio waves to travel to and from an object, radar sensors can determine the distance and speed of the object.
+{{< sitefiguresized thumb="technology/sensorsandcameras/radar/radar_3_st.jpg" width="3000" height="1714" title="Radar sensor" >}}
 
-Radar sensors are particularly useful for collision avoidance and adaptive cruise control. For collision avoidance, radar sensors can detect when a car is getting too close to an object, such as another car, and alert the driver or automatically apply the brakes to avoid a collision. For adaptive cruise control, radar sensors can detect the speed and distance of the car in front of you and adjust the speed of your car accordingly to maintain a safe distance.
+Manufacturers typically place radar sensors on the vehicle's front, rear, and sides. The sensors emit radio waves, which bounce off nearby objects and return to the sensor. By measuring the time it takes for the radio waves to travel to and from an object, radar sensors can determine the distance and speed of the object. 
 
-Radar sensors can operate in a wide range of weather conditions, including rain and fog, making them more reliable than other sensor technologies such as cameras. Additionally, radar sensors can operate at longer distances than cameras, making them particularly useful for detecting objects at high speeds.
+The radar sensors can be standard or optional, depending on the EV model. Typically, the front sensor is standard on all EVs with radar.
 
-However, radar sensors are susceptible to interference from other radio waves and can be expensive to manufacture. Additionally, radar sensors have limited resolution and cannot provide detailed information about the shape or identity of objects.
+{{< sitefiguresized thumb="technology/sensorsandcameras/radar/radar_1_st.jpg" width="1290" height="826" title="Radar sensor location rear Audi e-tron GT" >}}
 
-Overall, radar sensors are an important technology in cars, providing critical safety features and improving the driving experience. As technology continues to advance, radar sensors are likely to become even more powerful and reliable, making them even more useful in a wide range of applications.
+{{< sitefiguresized thumb="technology/sensorsandcameras/radar/radar_2_st.jpg" width="1113" height="852" title="Radar sensor" >}}
+
+Radar sensors are beneficial for collision avoidance and adaptive cruise control.
+For collision avoidance, radar sensors can detect when a car is getting too close to an object, such as another car, and alert the driver or automatically apply the brakes to avoid a collision.
+
+For adaptive cruise control, radar sensors can detect the speed and distance of the car in front of you and adjust the speed of your car accordingly to maintain a safe distance.
+
+The table and diagram below show the types and typical locations of the different radar sensors.
+
+<table class="table table-striped border">
+<thead>
+    <tr>
+        <th>
+            Type
+        </th>
+        <th>
+            Range
+        </th>
+        <th>
+            Location
+        </th>
+        <th>
+            ADAS Usage
+        </th>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td>
+        Long range 77/79Ghz
+    </td>
+    <td>
+        10-300 meters
+    </td>
+    <td>
+        Front and rear
+    </td>
+    <td>
+        <a href="../../driverassistance/adaptivecruisecontrol/">ACC</a>,
+        <a href="../../driverassistance/automaticemergencybraking/">AEB</a>,
+        <a href="../../driverassistance/collisionavoidancesystems/">CAS</a>,
+        <a href="../../driverassistance/forwardcollisionwarning/">FCW</a>
+    </td>
+</tr>
+<tr>
+    <td>
+        Medium range 77/79Ghz
+    </td>
+    <td>
+        1-60 meters
+    </td>
+    <td>
+        Front/rear
+    </td>
+    <td>
+        <a href="../../driverassistance/adaptivecruisecontrol/">ACC</a>,
+        <a href="../../driverassistance/automaticemergencybraking/">AEB</a>,
+        <a href="../../driverassistance/collisionavoidancesystems/">CAS</a>,
+        <a href="../../driverassistance/forwardcollisionwarning/">FCW</a>,
+        <a href="../../driverassistance/automatedlanechange/">ALC</a>,
+        <a href="../../driverassistance/frontcrosstrafficassist/">FCTA</a>
+    </td>
+</tr>
+<tr>
+    <td>
+        Short range (24/77Ghz)
+    </td>
+    <td>
+        0.5-20 meters
+    </td>
+    <td>
+        Front and Rear corner
+    </td>
+    <td>
+         <a href="../../driverassistance/rearcrosstrafficalert/">RCTA</a>,
+            RCW,
+                <a href="../../driverassistance/blindspotmonitoring/">BSM</a>
+    </td>
+</tr>
+
+</tbody>
+
+</table>
+
+{{< sitefiguresized thumb="technology/sensorsandcameras/radar/radarrange_1_st.jpg" width="3000" height="1686" title="Radar sensor range " >}}
+
+
+### Pros Radar sensors
+
+- Radar sensors better detect moving vehicles, pedestrians, and objects than cameras or lidars. They can see far-away objects and move quickly, which is helpful in many ADAS.
+- Radar sensors also work well in all weather conditions, including rain, snow, and fog. They are not affected by the brightness or darkness of the environment, unlike cameras or lidars.
+- Radar sensors are relatively cheap and easy to install and maintain. They have low power consumption and long service life.
+
+### Cons radar sensors
+
+- Radar sensors have lower resolution and accuracy than cameras or lidars. They cannot distinguish objects' shape, color, or texture, which limits their ability to recognize traffic signs, lane markings, or other visual cues.
+- Radar sensors may also suffer from interference or false alarms caused by other radar sources, such as vehicles, police radars, or radio towers.
+- Radar sensors have a limited field of view and cannot cover the vehicle’s surroundings. They must be combined with other sensors, such as cameras or lidars, to provide a comprehensive and reliable perception of the environment.
+
+
 
 <div class="mt-3 mb-3">
     <a href="../cameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cameras</strong></a>
