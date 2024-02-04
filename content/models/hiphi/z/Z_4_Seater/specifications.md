@@ -981,7 +981,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/infotainment/navigation/">In Car navigation</a>
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New VW ID7 review: It's not boring!</h3>
+<p>carwow: 02.02.2024</p>
+
+{{< youtube L58V0GT7knE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>DRIVEN: Volkswagen ID.7. Has VW finally built a Tesla-beater?</h3>
 <p>What Car?: 15.01.2024</p>
 

@@ -981,7 +981,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				I bilnavigation
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

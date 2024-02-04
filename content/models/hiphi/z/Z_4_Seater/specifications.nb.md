@@ -981,7 +981,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				I bilnavigasjon
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

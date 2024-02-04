@@ -981,7 +981,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Navigation
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

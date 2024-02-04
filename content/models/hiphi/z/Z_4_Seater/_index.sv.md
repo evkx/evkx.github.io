@@ -174,8 +174,6 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 En typ av ljudsystem är tillgänglig för HiPhi Z 4 Seater. Med SONIC PRO SYSTEM får du 23 högtalare med en maximal systemeffekt på 600 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
-
 Modellen har 1 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar. Modellen har 1 USB-A-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 ## Ljus
 
