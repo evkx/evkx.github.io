@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>People Say the Tesla Cybertruck Just CAN'T Tow. They're WRONG, But...</h3>
+<p>The Fast Lane Truck: 04.02.2024</p>
+
+{{< youtube p1139Jexyz8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Cybertruck DC Fast Charge Testing & Analysis - Comparing To Rivian, Lightning, & Hummer EV</h3>
 <p>Out of Spec Reviews: 11.01.2024</p>
 
