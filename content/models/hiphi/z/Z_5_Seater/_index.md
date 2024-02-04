@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW c
 
 ### Charge port
 
-The location of the charge port is on the [right rear corner](../../../../technology/charging/connectors/#rear-corner). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,8 +167,6 @@ This model is equipped with voice control as standard. The voice control lets yo
 ## Infotainment
 
 One type of sound system is available for the HiPhi Z 5 Seater. With the SONIC PRO SYSTEM, you get 23 speakers with a max system output of 600 watts.
-
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 
 The model has 1 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard. As an option, you can get additional 2 USB-C connections.
 ## Lights

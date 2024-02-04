@@ -51,7 +51,7 @@ För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-ladd
 
 ### Laddningsport
 
-Platsen för laddningsporten är i [högra bakre hörnet](../../../../technology/charging/connectors/#rear-corner). Denna plats gör det lätt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,8 +167,6 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 ## Infotainment
 
 En typ av ljudsystem är tillgänglig för HiPhi Z 5 Seater. Med SONIC PRO SYSTEM får du 23 högtalare med en maximal systemeffekt på 600 watt.
-
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
 Modellen har 1 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar. Modellen har 1 USB-A-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 ## Ljus

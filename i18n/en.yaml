@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-b279832a
+  translation: Opel Astra Electric is an all-electric hatchback with a WLTP range of up to 413 km (257 miles). EVKX.net has all the details.
+
 - id: frontpage-description-7f7a00b6
   translation: Opel Astra Sports Tourer Electric is an all-electric station wagon with a WLTP range of up to 413 km (257 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-300df0ff
   translation: Rimac Nevera is an all-electric luxury hypercar with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details.
-
-- id: frontpage-description-65a6b079
-  translation: Neta GT 580 AWD is an all-electric coupe with a CLTC range of up to 580 km (361 miles). EVKX.net has all the details.
 

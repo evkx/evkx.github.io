@@ -406,7 +406,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
 	<h2>Opel</h2>
 	<p>
-	Opel har 2 modeller med i alt 2 varianter.
+	Opel har 2 modeller med i alt 3 varianter.
 	</p>
 	<a href="opel/" class="btn btn-outline-primary" role="button">Gå til Opel EV-modeloversigt</a>
 </div>

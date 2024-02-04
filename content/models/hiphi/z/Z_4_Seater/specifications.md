@@ -153,7 +153,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Chargeport placement
 			</td>
 			<td>
-				RightRearCorner
+				RightRearSide
 			</td>
 		</tr>
 		<tr>
@@ -161,15 +161,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport Europe
 			</td>
 			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport North America
-			</td>
-			<td>
-				CCS1
+				GBT
 			</td>
 		</tr>
 		<tr>
@@ -193,7 +185,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
 			<td>
-				CCS2
+				GBT
 			</td>
 		</tr>
 	</tbody>

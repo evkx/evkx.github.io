@@ -51,7 +51,7 @@ Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op t
 
 ### Ladeport
 
-Placeringen af ladeporten er i [højre bageste hjørne](../../../../technology/charging/connectors/#rear-corner). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,8 +167,6 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 ## Infotainment
 
 Én type lydsystem er tilgængelig for HiPhi Z 5 Seater. Med SONIC PRO SYSTEM får du 23 højttalere med en maksimal systemeffekt på 600 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
 Modellen har 1 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser. Modellen har 1 USB-A-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 ## Lys

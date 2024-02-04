@@ -153,7 +153,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Laddningsportplacering
 			</td>
 			<td>
-				RightRearCorner
+				RightRearSide
 			</td>
 		</tr>
 		<tr>
@@ -161,15 +161,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Europa
 			</td>
 			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Nordamerika
-			</td>
-			<td>
-				CCS1
+				GBT
 			</td>
 		</tr>
 		<tr>
@@ -193,7 +185,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Oceanien (Australien, Nya Zeeland ++)
 			</td>
 			<td>
-				CCS2
+				GBT
 			</td>
 		</tr>
 	</tbody>
@@ -1005,7 +997,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Navigation
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

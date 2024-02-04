@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-b279832a
+  translation: Opel Astra Electric er en helelektrisk kombi med en WLTP rekkevidde på opptil 413 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-7f7a00b6
   translation: Opel Astra Sports Tourer Electric er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 413 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-300df0ff
   translation: Rimac Nevera er en helelektrisk hyperbil med en WLTP rekkevidde på opptil 490 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-65a6b079
-  translation: Neta GT 580 AWD er en helelektrisk kupé med en CLTC rekkevidde på opptil 580 km. EVKX.net har alle detaljene.
 

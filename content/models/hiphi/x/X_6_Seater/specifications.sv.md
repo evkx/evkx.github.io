@@ -161,15 +161,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Europa
 			</td>
 			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Nordamerika
-			</td>
-			<td>
-				CCS1
+				GBT
 			</td>
 		</tr>
 		<tr>
@@ -193,7 +185,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Oceanien (Australien, Nya Zeeland ++)
 			</td>
 			<td>
-				CCS2
+				GBT
 			</td>
 		</tr>
 	</tbody>

@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/opel/astra/astra_electric/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_electric/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Opel Astra Electric</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-b279832a"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/opel/astra/astra_sports_tourer_electric/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>XPENG G6 RWD Long Range</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-44e86874"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/polestar/4/4_long_range_dual_motor/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/polestar/4/4_long_range_dual_motor/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Polestar 4 Long range Dual motor</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-cebe99e4"}}</p>
 				</div>
 			</div>
 		</div>

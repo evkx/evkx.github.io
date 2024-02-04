@@ -27,6 +27,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/dynamic_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/dynamic_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/dynamic_1_xst.jpg" alt="Opel Astra Sports Tourer Electric" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/exterior_1.jpg"
 data-pswp-width="3000"
@@ -81,12 +90,39 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/exterior_7.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/exterior_7.jpg"
+data-pswp-width="3000"
+data-pswp-height="1983" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/exterior_7_xst.jpg" alt="Opel Astra Sports Tourer Electric" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/exterior_8.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/exterior_8.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/exterior_8_xst.jpg" alt="Opel Astra Sports Tourer Electric" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/headlights_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1874" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/headlights_1_xst.jpg" alt="Opel Astra Sports Tourer Electric" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/headlights_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/headlights_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/headlights_2_xst.jpg" alt="Opel Astra Sports Tourer Electric" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -240,6 +276,15 @@ data-pswp-width="3000"
 data-pswp-height="2000" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/wheels_1_xst.jpg" alt="Opel Astra Sports Tourer Electric" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/wheels_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/wheels_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/wheels_2_xst.jpg" alt="Opel Astra Sports Tourer Electric" class="img-fluid " />
 		</a>
 	</div>
 </div>

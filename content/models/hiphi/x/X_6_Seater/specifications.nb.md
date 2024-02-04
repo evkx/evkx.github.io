@@ -161,15 +161,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type ladeport Europa
 			</td>
 			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				CCS1
+				GBT
 			</td>
 		</tr>
 		<tr>
@@ -193,7 +185,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Skriv ladeport Oceania (Australia, New Zealand ++)
 			</td>
 			<td>
-				CCS2
+				GBT
 			</td>
 		</tr>
 	</tbody>

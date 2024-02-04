@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Opel Astra er en stationcar tilgængelig i 1 varianter.
+modelintro.HatchbackStationWagon.Mid
 </p>
 	<a href="astra/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>
