@@ -51,7 +51,7 @@ För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-ladd
 
 ### Laddningsport
 
-Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren.
+Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Denna modell använder [**GBT**](../../../../technology/charging/connectors/#gbt) för Kina och Europa, vilket betyder att du måste använda en CCS2>GBT-adapter i Europa. Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
 

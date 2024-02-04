@@ -23,6 +23,13 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>HiPhi Z charging problems with CCS to GB/T adapter</h3>
+<p>Bjørn Nyland: 31.01.2024</p>
+
+{{< youtube 5_2SmiEjOQY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>HiPhi Z headlights test</h3>
 <p>Bjørn Nyland: 30.01.2024</p>
 

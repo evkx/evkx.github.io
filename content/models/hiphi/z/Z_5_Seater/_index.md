@@ -51,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW c
 
 ### Charge port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. This model uses [**GBT**](../../../../technology/charging/connectors/#gbt) for China and Europe, meaning you must use a CCS2>GBT adapter in Europe. See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 

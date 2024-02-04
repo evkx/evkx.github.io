@@ -51,7 +51,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading.
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen.
+Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Denne modellen bruker [**GBT**](../../../../technology/charging/connectors/#gbt) for Kina og Europa, noe som betyr at du må bruke en CCS2>GBT-adapter i Europa. Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 

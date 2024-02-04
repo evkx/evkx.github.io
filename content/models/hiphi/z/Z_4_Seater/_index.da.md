@@ -51,7 +51,7 @@ Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op t
 
 ### Ladeport
 
-Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander.
+Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Denne model bruger [**GBT**](../../../../technology/charging/connectors/#gbt) til Kina og Europa, hvilket betyder, at du skal bruge en CCS2>GBT-adapter i Europa. Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
