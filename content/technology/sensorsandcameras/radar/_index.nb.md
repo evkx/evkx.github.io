@@ -114,7 +114,18 @@ Tabellen og diagrammet nedenfor viser typene og typiske plasseringer for de fors
 - Radarsensorer kan også lide av forstyrrelser eller falske alarmer forårsaket av andre radarkilder, for eksempel kjøretøy, politiradarer eller radiotårn.
 - Radarsensorer har et begrenset synsfelt og kan ikke dekke kjøretøyets omgivelser. De må kombineres med andre sensorer, som kameraer eller lidarer, for å gi en omfattende og pålitelig oppfatning av miljøet.
 
+### Produsenter
 
+Her er noen produsenter av radarsensorer
+
+- [Valeo](https://www.valeo.com/en/)
+- [Bosch](https://www.bosch-mobility.com/en/solutions/sensors/front-radar-sensor/)
+- [HELLA](https://www.hella.com/partnerworld/us/Product-range/ADAS-Transforming-the-automotive-industry-47101/)
+– [Continental](https://www.continental-automotive.com/en/components/radars.html)
+- [Denso Corporation](https://www.denso.com/global/en/driven-base/feature/mobility/)
+- [Infineon Technologies](https://www.infineon.com/cms/en/product/sensor/radar-sensors/)
+- [NXP Semiconductors N.V](https://www.nxp.com/applications/automotive/adas-and-safe-driving/automotive-radar-systems:RADAR-SYSTEMS)
+- [Texas Instruments Incorporated](https://www.ti.com/sensors/mmwave-radar/overview.html)
 
 <div class="mt-3 mb-3">
      <a href="../cameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Kameraer</strong></ a>

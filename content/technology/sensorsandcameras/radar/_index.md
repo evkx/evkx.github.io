@@ -114,7 +114,18 @@ The table and diagram below show the types and typical locations of the differen
 - Radar sensors may also suffer from interference or false alarms caused by other radar sources, such as vehicles, police radars, or radio towers.
 - Radar sensors have a limited field of view and cannot cover the vehicle’s surroundings. They must be combined with other sensors, such as cameras or lidars, to provide a comprehensive and reliable perception of the environment.
 
+### Manufacturers
 
+Here are some manufacturers of Radar sensors
+
+- [Valeo](https://www.valeo.com/en/)
+- [Bosch](https://www.bosch-mobility.com/en/solutions/sensors/front-radar-sensor/)
+- [HELLA](https://www.hella.com/partnerworld/us/Product-range/ADAS-Transforming-the-automotive-industry-47101/)
+- [Continental](https://www.continental-automotive.com/en/components/radars.html)
+- [Denso Corporation](https://www.denso.com/global/en/driven-base/feature/mobility/)
+- [Infineon Technologies](https://www.infineon.com/cms/en/product/sensor/radar-sensors/)
+- [NXP Semiconductors N.V](https://www.nxp.com/applications/automotive/adas-and-safe-driving/automotive-radar-systems:RADAR-SYSTEMS)
+- [Texas Instruments Incorporated](https://www.ti.com/sensors/mmwave-radar/overview.html)
 
 <div class="mt-3 mb-3">
     <a href="../cameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cameras</strong></a>
