@@ -1,15 +1,15 @@
 ---
-title: BMW i5 eDrive40 specifikationer
+title: BMW i5 xDrive40 specifikationer
 linktitle: "Specifikationer"
-description: "EVKX.net giver dig de fulde specifikationer for BMW i5 eDrive40."
+description: "EVKX.net giver dig de fulde specifikationer for BMW i5 xDrive40."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/main_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2250" >}}
-EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BMW i5 eDrive40, besøg [chargeinfo](../chargecurve/) for BMW i5 eDrive40 med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/main_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2250" >}}
+EVKX.net søger at have de mest komplette specifikationer for BMW i5 xDrive40. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BMW i5 xDrive40, besøg [chargeinfo](../chargecurve/) for BMW i5 xDrive40 med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40. K
 				Popeffekt
 			</td>
 			<td>
-				250 KW (340 hk /335 hk)
+				290 KW (394 hk /389 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				430 nm (317 ft-lb)
+				590 nm (435 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40. K
 				Tophastighed
 			</td>
 			<td>
-				193 km/t (120 mph)
+				230 km/t (143 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40. K
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6 s
+				5,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				581 km
+				538 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				14,0 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				18,2 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				498 km
+				463 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				16,3 kWh/100km
+				17,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				20,6 kwh/100km
+				20,0 kwh/100km
 			</td>
 		</tr>
 	</tbody>

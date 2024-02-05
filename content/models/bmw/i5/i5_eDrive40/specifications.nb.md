@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 eDrive40. Kl
 				Dreiemoment
 			</td>
 			<td>
-				795 nm
+				430 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 eDrive40. Kl
 				Topphastighet
 			</td>
 			<td>
-				230 km/t
+				193 km/t
 			</td>
 		</tr>
 		<tr>

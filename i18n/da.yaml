@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-63ce3f7e
+  translation: BMW i5 xDrive40 er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 538 km (334 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-b279832a
   translation: Opel Astra Electric er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 413 km (257 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-1b088938
   translation: Acura ZDX Type S er en fuldelektrisk SUV med en rækkevidde på EPA på op til 463 km (288 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-300df0ff
-  translation: Rimac Nevera er en fuldelektrisk luksushyperbil med en WLTP rækkevidde på op til 490 km (305 miles). EVKX.net har alle detaljerne.
 

@@ -1,15 +1,15 @@
 ---
-title: BMW i5 eDrive40 specifications
+title: BMW i5 xDrive40 specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for BMW i5 eDrive40."
+description: "EVKX.net gives you the full specifications for BMW i5 xDrive40."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/main_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2250" >}}
-EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 eDrive40, visit the [chargeinfo](../chargecurve/) for BMW i5 eDrive40 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/main_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2250" >}}
+EVKX.net seeks to have the most complete specifications for BMW i5 xDrive40. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 xDrive40, visit the [chargeinfo](../chargecurve/) for BMW i5 xDrive40 with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Cli
 				Peak power
 			</td>
 			<td>
-				250 KW (340 hp /335 bhp)
+				290 KW (394 hp /389 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Cli
 				Electrical torque output
 			</td>
 			<td>
-				430 nm (317 ft-lb)
+				590 nm (435 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Cli
 				Top speed
 			</td>
 			<td>
-				193 kph (120 mph)
+				230 kph (143 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40. Cli
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				6 s
+				5,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				581 km
+				538 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				14,0 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				18,2 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				498 km
+				463 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				16,3 kWh/100km
+				17,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				20,6 kwh/100km
+				20,0 kwh/100km
 			</td>
 		</tr>
 	</tbody>

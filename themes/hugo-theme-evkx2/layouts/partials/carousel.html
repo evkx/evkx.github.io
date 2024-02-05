@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/bmw/i5/i5_xdrive40/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_xdrive40/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>BMW i5 xDrive40</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-63ce3f7e"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/opel/astra/astra_electric/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/opel/astra/astra_electric/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Mercedes EQS 580 4MATIC SUV</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-1ebc0a26"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/xpeng/g6/g6_rwd_long_range/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_rwd_long_range/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>XPENG G6 RWD Long Range</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-44e86874"}}</p>
 				</div>
 			</div>
 		</div>

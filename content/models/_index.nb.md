@@ -193,7 +193,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="bmw/"><img src="https://media.evkx.net/multimedia/models/bmw/brandevs_st.jpg" class="img-fluid mb-2" alt="BMW" ></a>
 	<h2>BMW</h2>
 	<p>
-	BMW har 7 modell(er) med totalt 15 varianter.
+	BMW har 7 modell(er) med totalt 16 varianter.
 	</p>
 	<a href="bmw/" class="btn btn-outline-primary" role="button">Gå til BMW modelloversikt</a>
 </div>

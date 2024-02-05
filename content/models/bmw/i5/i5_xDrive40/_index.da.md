@@ -1,7 +1,7 @@
 ---
-title: BMW i5 eDrive40
-linktitle: "i5 eDrive40"
-description: "BMW i5 eDrive40 er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 581 km (361 miles). EVKX.net har alle detaljerne."
+title: BMW i5 xDrive40
+linktitle: "i5 xDrive40"
+description: "BMW i5 xDrive40 er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 538 km (334 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/main_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/main_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2250"  >}}
 
-Vi har opdelt vores BMW i5 eDrive40 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer]( specifikationer/), et [billedgalleri](galleri/), detaljerede oplysninger om [opladningsydelse](opladningskurve/), og nogle [online anmeldelser](anmeldelser/). Vores sektioner:
+Vi har opdelt vores BMW i5 xDrive40 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer]( specifikationer/), et [billedgalleri](galleri/), detaljerede oplysninger om [opladningsydelse](opladningskurve/), og nogle [online anmeldelser](anmeldelser/). Vores sektioner:
 
 - [Ydeevne](#performance)
 - [Batteri, rækkevidde og opladning](#battery-range-and-charging)
@@ -29,13 +29,13 @@ Vi har opdelt vores BMW i5 eDrive40 artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-BMW i5 eDrive40 har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6 sekunder. Tophastigheden er 193 km/t.
+BMW i5 xDrive40 har en maksimal effekt på 290 KW (394 hk/389 hk). Det samlede drejningsmoment er 590 nm (435 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,4 sekunder. Tophastigheden er 230 km/t.
 
 ## Batteri, rækkevidde og opladning
 
 Batteriet har en bruttokapacitet på 84,4kWh og en nettokapacitet på 81,2kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (3,8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 581 til 498 km (361-310 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.0kWh/100 km for basisversionen og 16.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 538 til 463 km (334-288 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.1kWh/100 km for basisversionen og 17.5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 205kW. En fuld opladning fra 0 - 100 % ville tage 56 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 50%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 118kW. Hver opladningssession ville tage 19 minutter og 26 sekunder.
 
@@ -46,7 +46,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 22 minutter.
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/charging_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="3000"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/charging_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="3000"  >}}
 
 
 ### Ladeport
@@ -59,17 +59,17 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-BMW i5 eDrive40 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+BMW i5 xDrive40 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
 
 Adaptive M Suspension-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 144 mm.
 
-Du kan bestille BMW i5 eDrive40 med en alternativ M Sport Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
+Du kan bestille BMW i5 xDrive40 med en alternativ M Sport Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere.
 
-Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professional hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 140 mm.
+Du kan bestille BMW i5 xDrive40 med en alternativ Adaptives suspension professional hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 140 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på BMW i5 eDrive40. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en valgfri-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
+Dynamisk styring er en standard-funktion på BMW i5 xDrive40. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en valgfri-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
 
@@ -89,7 +89,7 @@ Du kan vælge mellem to typer tage på denne model. Standarden er bare et almind
 Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå.
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/exterior_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/exterior_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -102,7 +102,7 @@ Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesig
 
 ### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i BMW i5 eDrive40.
+Der er to sædetyper, du kan vælge imellem til forreste række i BMW i5 xDrive40.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -135,7 +135,7 @@ Følgende funktioner er tilgængelige på **M Sport** sædet.
 - integreret nakkestøtte
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/frontseats_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/frontseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
 
 ### Sæde på anden række
@@ -148,7 +148,7 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 - integreret nakkestøtte
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/secondrowseats_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/secondrowseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
 
 Der er kun én type rat tilgængelig. stock-rattet er opvarmet, og du kan styre lydsystemet med knapper på rattet.
@@ -159,7 +159,7 @@ Du kan vælge mellem to forskellige klimasystemer. Klimasystemet standard unders
 
 ## Komfort
 
-BMW i5 eDrive40 har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+BMW i5 xDrive40 har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
 
 Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
 
@@ -175,51 +175,51 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-BMW i5 eDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 14.9 tommer stor og har en opløsning på 2880 x 1080 pixels.
+BMW i5 xDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 14.9 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/screens_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/screens_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="1999"  >}}
 
 
 ## Infotainment
 
-Du kan vælge mellem tre lydsystemer på BMW i5 eDrive40. Med Hifi Sound system får du seks højttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 højttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 højttalere med en maksimal systemeffekt på 655 watt.
+Du kan vælge mellem tre lydsystemer på BMW i5 xDrive40. Med Hifi Sound system får du seks højttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 højttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 højttalere med en maksimal systemeffekt på 655 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter BMW i5 eDrive40 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter BMW i5 xDrive40 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
 Modellen har 6 USB-C-forbindelser som standard.
 ## Lys
 
-Du kan vælge mellem to typer forlygter til BMW i5 eDrive40. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+Du kan vælge mellem to typer forlygter til BMW i5 xDrive40. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/headlights_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/headlights_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
 ## Avancerede førerassistentsystemer
 
-BMW i5 eDrive40 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+BMW i5 xDrive40 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 ### Sikkerhedssystemer
 
 
 
-BMW i5 eDrive40 har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+BMW i5 xDrive40 har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
-BMW i5 eDrive40 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+BMW i5 xDrive40 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-BMW i5 eDrive40 har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+BMW i5 xDrive40 har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er en valgfri førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en valgfri førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-BMW i5 eDrive40 har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
+BMW i5 xDrive40 har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
 [**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er en valgfri førerassistentsystem designet til at hjælpe chauffører med at undgå kollisioner ved at automatisk styring af køretøjet i en nødsituation.
 
 ### Køreautomatisering
 
-BMW i5 eDrive40 tilbyder [kørselsautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
+BMW i5 xDrive40 tilbyder [kørselsautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Driving Assistant  niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 - Fartpilot.
@@ -242,7 +242,7 @@ Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1290 lite
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/trunk_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/trunk_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW i5 </strong>

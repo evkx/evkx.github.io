@@ -16,7 +16,7 @@ Opel has a clear vision to become a purely electric brand in Europe by 2028. Thi
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.HatchbackStationWagon.Mid
+Opel Astra is a hatcback / station wagon available in 2 variants.
 </p>
 	<a href="astra/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
