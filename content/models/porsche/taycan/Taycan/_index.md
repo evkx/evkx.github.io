@@ -38,26 +38,26 @@ With the optional Performance Battery Plus battery, you get other performance nu
 Porsche Taycan has two battery options with different specifications. Below you see how this affects range and charging.
 ### Performance Battery
 
-The battery has a gross capacity of 79,2kWh and a net capacity of 71kWh, meaning you have a 8,2kWh buffer for protection. (10,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
-
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 431 to 354 km (268-220 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.5kWh/100km for the basic version and 20.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
-
-The maximum DC charging speed is 225kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 67%, resulting in an actual charge speed, including time loss, of 136kW. Each charge session would take 21 minutes and 2 seconds.
-
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 26 minutes. This trip will require three charge session(s) charging from 0% to 70%. The total time lost for charging up the battery will be 66 minutes.
-### Performance Battery Plus
-
 The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 484 to 407 km (301-253 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.5kWh/100km for the basic version and 20.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 431 to 354 km (268-220 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.4kWh/100km for the basic version and 23.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65%, resulting in an actual charge speed, including time loss, of 165kW. Each charge session would take 19 minutes and 53 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 10 minutes. This trip will require three charge session(s) charging from 3% to 58%. The total time lost for charging up the battery will be 51 minutes.
+### Performance Battery Plus
+
+The battery has a gross capacity of 105kWh and a net capacity of 97kWh, meaning you have a 8kWh buffer for protection. (7,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 678 to 407 km (421-253 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.4kWh/100km for the basic version and 23.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+
+The maximum DC charging speed is 320kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 15 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 65%, resulting in an actual charge speed, including time loss, of 212kW. Each charge session would take 18 minutes and 32 seconds.
+
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 8 hours and 55 minutes. This trip will require two charge session(s) charging from 1% to 65%. The total time lost for charging up the battery will be 35 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 27 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 13 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes.
 
 ### Charge port
 
@@ -106,7 +106,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan/exterior_1_st.jpg" title="Porsche Taycan" width="3000" height="1713"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/exterior_1_st.jpg" title="Porsche Taycan" width="3000" height="1687"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -164,7 +164,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="2048" height="1536"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
 
 ### Second-row seats
@@ -180,6 +180,10 @@ The second option is two integrated seats in the second row with a third smaller
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
+
 
 There is only one type of steering wheel available.
 
@@ -205,7 +209,7 @@ The Porsche Taycan has multiple integrated screens. Behind the steering wheel is
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan/screens_1_st.jpg" title="Porsche Taycan" width="3000" height="1870"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/screens_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
 
 ## Infotainment
@@ -218,6 +222,10 @@ In addition, with the standard in-car navigation system, you get the help you ne
 ## Lights
 
 You can choose between two types of headlights for the Porsche Taycan. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/headlights_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
+
 ## Advanced driver assistance systems
 
 The Porsche Taycan has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

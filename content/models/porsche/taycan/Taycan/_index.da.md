@@ -38,26 +38,26 @@ Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Me
 Porsche Taycan har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
 ### Performance Battery
 
-Batteriet har en bruttokapacitet på 79,2kWh og en nettokapacitet på 71kWh, hvilket betyder, at du har en 8,2kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
-
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 431 til 354 km (268-220 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.5kWh/100 km for basisversionen og 20.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
-
-Den maksimale DC-opladningshastighed er 225kW. En fuld opladning fra 0 - 100 % ville tage 45 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 136kW. Hver opladningssession ville tage 21 minutter og 2 sekunder.
-
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 26 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 0 % til 70%. Den samlede tid, der går tabt for at oplade batteriet, vil være 66 minutter.
-### Performance Battery Plus
-
 Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 484 til 407 km (301-253 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.5kWh/100 km for basisversionen og 20.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 431 til 354 km (268-220 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19.4kWh/100 km for basisversionen og 23.6kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 165kW. Hver opladningssession ville tage 19 minutter og 53 sekunder.
 
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 10 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 3 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 51 minutter.
+### Performance Battery Plus
+
+Batteriet har en bruttokapacitet på 105kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 678 til 407 km (421-253 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19.4kWh/100 km for basisversionen og 23.6kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+
+Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 15 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 212kW. Hver opladningssession ville tage 18 minutter og 32 sekunder.
+
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 8 timer og 55 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 65%. Den samlede tid, der går tabt for at oplade batteriet, vil være 35 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 27 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 13 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
 
 ### Ladeport
 
@@ -97,7 +97,7 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan/exterior_1_st.jpg" title="Porsche Taycan" width="3000" height="1713"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/exterior_1_st.jpg" title="Porsche Taycan" width="3000" height="1687"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -155,7 +155,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="2048" height="1536"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
 
 ### Sæder på anden række
@@ -171,6 +171,10 @@ Muligheden second er to integrerede sæder i anden række med et tredje mindre s
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - integreret nakkestøtte
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
+
 
 Der er kun én type rat tilgængelig.
 
@@ -196,7 +200,7 @@ Porsche Taycan har flere integrerede skærme. Bag rattet er en [digital instrume
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan/screens_1_st.jpg" title="Porsche Taycan" width="3000" height="1870"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/screens_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
 
 ## Infotainment
@@ -209,6 +213,10 @@ Derudover får du med standard navigationssystemet i bilen den hjælp, du har br
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Porsche Taycan. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan/headlights_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
+
 ## Avancerede førerassistentsystemer
 
 Porsche Taycan har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.

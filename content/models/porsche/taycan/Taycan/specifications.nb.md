@@ -155,7 +155,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				16,5 kWh/100km
+				19,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				20,1 kWh/100km
+				23,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -211,7 +211,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				484 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +219,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				16,5 kWh/100km
+				19,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +243,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				20,1 kWh/100km
+				23,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -260,78 +260,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 ## Batteri og lading
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Brutto batteristørrelse
-			</td>
-			<td>
-				79,2 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Netto batteristørrelse
-			</td>
-			<td>
-				71 kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks DC-lading
-			</td>
-			<td>
-				225 kW
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Antall moduler
-			</td>
-			<td>
-				28
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Pakkekonfigurasjon
-			</td>
-			<td>
-				168s2p
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Nominell spenning
-			</td>
-			<td>
-				615
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Katodematerialer
-			</td>
-			<td>
-				NMC
-			</td>
-		</tr>
-	</tbody>
-</table>
-
 
 <table class="table table-striped border">
 	<thead>
@@ -367,6 +295,78 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				270 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Antall moduler
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				198s2p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				725
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Brutto batteristørrelse
+			</td>
+			<td>
+				105 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Netto batteristørrelse
+			</td>
+			<td>
+				97 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				320 kW
 			</td>
 		</tr>
 		<tr>

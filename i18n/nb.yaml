@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-b65ba1f0
+  translation: Porsche Taycan er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 431 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-268cd381
   translation: BMW iX2 eDrive20 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-97a3663f
   translation: YangWang U9 er en helelektrisk superbil med en CLTC rekkevidde på opptil 700 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-6b690eca
-  translation: Mercedes-Maybach EQS 680 SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 612 km. EVKX.net har alle detaljene.
 
