@@ -31,62 +31,6 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Max effekt
 			</td>
 			<td>
-				240 KW (326 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max effekt med boost
-			</td>
-			<td>
-				300 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vridmoment med boost
-			</td>
-			<td>
-				345 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topphastighet
-			</td>
-			<td>
-				230 km/h
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100 km/h (0-62 mph)
-			</td>
-			<td>
-				5,4 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Max effekt
-			</td>
-			<td>
 				280 KW (381 hk)
 			</td>
 		</tr>
@@ -119,7 +63,63 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				4,8 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Max effekt
+			</td>
+			<td>
+				240 KW (326 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max effekt med boost
+			</td>
+			<td>
+				300 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vridmoment med boost
+			</td>
+			<td>
+				345 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topphastighet
+			</td>
+			<td>
+				230 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -147,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				484 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +155,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				17,3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				20,6 kWh/100km
+				19,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -211,7 +211,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				678 km
+				484 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +219,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				17,3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +227,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16,7 kWh/100km
+				21,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +235,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				503 km
+				407 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +243,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				20,6 kWh/100km
+				19,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -278,7 +278,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +286,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +294,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +350,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				105 kWh
+				93,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +358,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				97 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,7 +366,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				320 kW
+				270 kW
 			</td>
 		</tr>
 		<tr>

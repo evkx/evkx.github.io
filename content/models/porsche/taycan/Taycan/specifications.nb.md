@@ -31,62 +31,6 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt
 			</td>
 			<td>
-				240 KW (326 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks effekt med boost
-			</td>
-			<td>
-				300 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dreiemoment med boost
-			</td>
-			<td>
-				345 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topphastighet
-			</td>
-			<td>
-				230 km/t
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100 km/t (0-62 mph)
-			</td>
-			<td>
-				5,4 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Maks effekt
-			</td>
-			<td>
 				280 KW (381 hk)
 			</td>
 		</tr>
@@ -119,7 +63,63 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				4,8 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Maks effekt
+			</td>
+			<td>
+				240 KW (326 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks effekt med boost
+			</td>
+			<td>
+				300 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment med boost
+			</td>
+			<td>
+				345 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topphastighet
+			</td>
+			<td>
+				230 km/t
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -147,7 +147,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				484 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +155,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				17,3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				20,6 kWh/100km
+				19,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -211,7 +211,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				678 km
+				484 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +219,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				17,3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +227,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				16,7 kWh/100km
+				21,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +235,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				503 km
+				407 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +243,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				20,6 kWh/100km
+				19,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -278,7 +278,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +286,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +294,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +350,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				105 kWh
+				93,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +358,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				97 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,7 +366,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				320 kW
+				270 kW
 			</td>
 		</tr>
 		<tr>

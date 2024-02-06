@@ -31,62 +31,6 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				240 KW (326 hk /322 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Popkraft med boost
-			</td>
-			<td>
-				300 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forøgelse af elektrisk drejningsmomentoutput
-			</td>
-			<td>
-				345 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tophastighed
-			</td>
-			<td>
-				230 km/t (143 mph)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100 km/t (0-62 mph)
-			</td>
-			<td>
-				5,4 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Popeffekt
-			</td>
-			<td>
 				280 KW (381 hk /375 hk)
 			</td>
 		</tr>
@@ -119,7 +63,63 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				4,8 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Popeffekt
+			</td>
+			<td>
+				240 KW (326 hk /322 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Popkraft med boost
+			</td>
+			<td>
+				300 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Forøgelse af elektrisk drejningsmomentoutput
+			</td>
+			<td>
+				345 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tophastighed
+			</td>
+			<td>
+				230 km/t (143 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -147,7 +147,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				484 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +155,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				17,3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				20,6 kWh/100km
+				19,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -211,7 +211,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				678 km
+				484 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +219,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				17,3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +227,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				16,7 kWh/100km
+				21,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +235,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				503 km
+				407 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +243,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				20,6 kWh/100km
+				19,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -278,7 +278,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +286,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +294,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +350,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				105 kWh
+				93,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +358,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				97 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,7 +366,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				320 kW
+				270 kW
 			</td>
 		</tr>
 		<tr>

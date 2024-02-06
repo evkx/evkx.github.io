@@ -42,6 +42,148 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				</a>
 			</td>
 			<td>
+				678 km / 421 mi
+			</td>
+			<td>
+				14,31kWh/100km / 4,3 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP rekkevidde maks utstyrsniv
+				</a>
+			</td>
+			<td>
+				503 km / 313 mi
+			</td>
+			<td>
+				19,28 kWh/100km / 3,2 mi/kWh
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+### Offisielle testsyklusresultater med ekstra oppvarming
+
+Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/varm dag påvirker den offisielle rekkevidden.
+
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Rekkevidde
+			</th>
+			<th>
+				Rekkeviddereduksjon
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				WLTP rekkevidde grunnleggende utstyrsnivå med 2KW AC
+			</td>
+			<td>
+				 521km / 324 mi 
+			</td>
+			<td>
+				-23,2%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP rekkevidde maks utstyrsniv med 2KW AC
+			</td>
+			<td>
+				411 km / 255 mi
+			</td>
+			<td>
+				-18,3%
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+### Rekkeviddeanslag fra den virkelige verden
+
+Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under perfekte forhold og under forhold som krever luftkondisjonering for å varme opp eller kjøle ned kjøretøy. Se vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hvordan rekkevidden påvirkes i den virkelige verden.
+
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Rekkevidde
+			</th>
+			<th>
+				Forbruk
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				120 kmt/75 mph under perfekte forhold
+			</td>
+			<td>
+				441 km / 274 mi
+			</td>
+			<td>
+				22 kWh/100km / 2,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 kmt /75mph med 2KW oppvarming
+			</td>
+			<td>
+				410 km /255mi
+			</td>
+			<td>
+				23,7 kWh/100km /2,6 mi/kWh
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<img class="img-fluid" alt="Charge curve" src="../range_2.svg"/>
+<a href="../range_2.svg">Full screen</a>
+
+### Offisielle testsyklusresultater
+
+Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC slått av. Klikk på koblingene i tabellen for mer detaljer om testprosedyrer.
+
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				Rekkevidde
+			</th>
+			<th>
+				Forbruk
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP rekkevidde grunnleggende utstyrsnivå
+				</a>
+			</td>
+			<td>
 				484 km / 301 mi
 			</td>
 			<td>
@@ -151,104 +293,6 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				23,7 kWh/100km /2,6 mi/kWh
 			</td>
 		</tr>
-	</tbody>
-</table>
-</div>
-
-<img class="img-fluid" alt="Charge curve" src="../range_2.svg"/>
-<a href="../range_2.svg">Full screen</a>
-
-### Offisielle testsyklusresultater
-
-Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC slått av. Klikk på koblingene i tabellen for mer detaljer om testprosedyrer.
-
-<div class="table-responsive">
-<table class="table table-striped border">
-	<thead>
-		<tr>
-			<th>
-			</th>
-			<th>
-				Rekkevidde
-			</th>
-			<th>
-				Forbruk
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP rekkevidde grunnleggende utstyrsnivå
-				</a>
-			</td>
-			<td>
-				678 km / 421 mi
-			</td>
-			<td>
-				kWh/100km /  mi/kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP rekkevidde maks utstyrsniv
-				</a>
-			</td>
-			<td>
-				503 km / 313 mi
-			</td>
-			<td>
-				 kWh/100km /  mi/kWh
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-### Offisielle testsyklusresultater med ekstra oppvarming
-
-Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/varm dag påvirker den offisielle rekkevidden.
-
-<div class="table-responsive">
-<table class="table table-striped border">
-	<thead>
-		<tr>
-			<th>
-			</th>
-			<th>
-				Rekkevidde
-			</th>
-			<th>
-				Rekkeviddereduksjon
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-	</tbody>
-</table>
-</div>
-
-### Rekkeviddeanslag fra den virkelige verden
-
-Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under perfekte forhold og under forhold som krever luftkondisjonering for å varme opp eller kjøle ned kjøretøy. Se vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hvordan rekkevidden påvirkes i den virkelige verden.
-
-<div class="table-responsive">
-<table class="table table-striped border">
-	<thead>
-		<tr>
-			<th>
-			</th>
-			<th>
-				Rekkevidde
-			</th>
-			<th>
-				Forbruk
-			</th>
-		</tr>
-	</thead>
-	<tbody>
 	</tbody>
 </table>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan
 linktitle: "Taycan"
-description: "Porsche Taycan er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 484 km (301 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 678 km (421 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,35 +29,35 @@ Vi har opdelt vores Porsche Taycan artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Med overboost har Porsche Taycan en maksimal effekt på 300 KW (408 hk / 326 bhp). Uden overboost er den 240 KW (326 hk / 402 hk). Momentet er 345 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,4 sekunder. Tophastigheden er 230 km/t.
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan en maksimal effekt på 350 KW (476 hk / 381 bhp). Uden overboost er den 280 KW (381 hk / 469 hk). Momentet er 357 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,4 sekunder. Tophastigheden er 230 km/t.
+
+Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan en maksimal effekt på 350 KW (476 hk / 381 bhp). Uden overboost er den 280 KW (381 hk / 469 hk). Momentet er 357 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Tophastigheden er 230 km/t. Med overboost har Porsche Taycan en maksimal effekt på 300 KW (408 hk / 326 bhp). Uden overboost er den 240 KW (326 hk / 402 hk). Momentet er 345 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Tophastigheden er 230 km/t.
 
 ## Batteri, rækkevidde og opladning
 
 Porsche Taycan har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
-### Performance Battery
-
-Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
-
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 484 til 407 km (301-253 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.3kWh/100 km for basisversionen og 20.6kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
-
-Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 165kW. Hver opladningssession ville tage 19 minutter og 53 sekunder.
-
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 10 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 3 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 51 minutter.
 ### Performance Battery Plus
 
 Batteriet har en bruttokapacitet på 105kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 678 til 503 km (421-313 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.3kWh/100 km for basisversionen og 20.6kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 678 til 503 km (421-313 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.3kWh/100 km for basisversionen og 19.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 15 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 212kW. Hver opladningssession ville tage 18 minutter og 32 sekunder.
 
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 8 timer og 55 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 65%. Den samlede tid, der går tabt for at oplade batteriet, vil være 35 minutter.
+### Performance Battery
+
+Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 484 til 407 km (301-253 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.3kWh/100 km for basisversionen og 19.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+
+Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 165kW. Hver opladningssession ville tage 19 minutter og 53 sekunder.
+
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 10 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 3 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 51 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 49 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 4 timer og 24 minutter.
 
 ### Ladeport
 
