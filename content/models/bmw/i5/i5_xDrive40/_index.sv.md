@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/main_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/main_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2002"  >}}
 
 Vi har delat in vår beskrivning av BMW i5 xDrive40 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 

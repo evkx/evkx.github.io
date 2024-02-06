@@ -57,7 +57,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2250" 
+data-pswp-height="2000" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_xst.jpg" alt="BMW i5 eDrive40" class="img-fluid " />
 		</a>

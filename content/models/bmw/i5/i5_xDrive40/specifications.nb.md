@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/main_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2250" >}}
+{{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/main_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2002" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 xDrive40. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av BMW i5 xDrive40, gå til [chargeinfo](../chargecurve/) for BMW i5 xDrive40 med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 

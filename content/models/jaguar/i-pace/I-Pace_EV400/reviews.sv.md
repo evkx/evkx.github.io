@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Jaguar I-Pace Review: Still Worth It In 2024?</h3>
+<p>AutoTrader: 06.02.2024</p>
+
+{{< youtube 3huobbAsAZU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2024 Jaguar I-Pace | Walk around & Drive</h3>
 <p>RybrookTV: 27.05.2023</p>
 

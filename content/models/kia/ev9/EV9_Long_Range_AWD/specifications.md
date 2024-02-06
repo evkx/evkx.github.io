@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11,9 meter (468,5")
+				12,3 meter (484,3")
 			</td>
 		</tr>
 	</tbody>
