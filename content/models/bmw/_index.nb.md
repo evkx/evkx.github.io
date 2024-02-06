@@ -86,7 +86,7 @@ BMW iX1 er en premium SUV tilgjengelig i 2 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-BMW iX2 er en premium Coupe SUV tilgjengelig i 1 varianter.
+BMW iX2 er en premium Coupe SUV tilgjengelig i 2 varianter.
 </p>
 	<a href="ix2/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

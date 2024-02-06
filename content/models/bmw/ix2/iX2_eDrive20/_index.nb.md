@@ -1,7 +1,7 @@
 ---
-title: BMW iX2 xDrive30
-linktitle: "iX2 xDrive30"
-description: "BMW iX2 xDrive30 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km. EVKX.net har alle detaljene."
+title: BMW iX2 eDrive20
+linktitle: "iX2 eDrive20"
+description: "BMW iX2 eDrive20 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/main_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/main_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="1999"  >}}
 
-Vi har delt vår beskrivelse av BMW iX2 xDrive30 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
+Vi har delt vår beskrivelse av BMW iX2 eDrive20 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
 - [Batteri, rekkevidde og lading](#batteri-rekkevidde-og-lading)
@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW iX2 xDrive30 i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-BMW iX2 xDrive30 har en maksimal effekt på 230 KW (313hk). Totalt dreiemoment er 494 nm. Den utfører sprinten 0-100 km/t på 5,6 sekunder. Topphastigheten er 180 km/t.
+BMW iX2 eDrive20 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 247 nm. Den utfører sprinten 0-100 km/t på 8,6 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -55,13 +55,13 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-BMW iX2 xDrive30 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW iX2 eDrive20 har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
 Adaptive M Suspension-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 170 mm.
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på BMW iX2 xDrive30. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er standard-funksjonen på BMW iX2 eDrive20. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -81,7 +81,7 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/exterior_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/exterior_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -94,7 +94,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 ### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i BMW iX2 xDrive30.
+Det er to setetyper du kan velge mellom for første rad i BMW iX2 eDrive20.
 
 Følgende funksjoner er tilgjengelige på **Standard** setet.
 
@@ -129,7 +129,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/frontseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/frontseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
 
 ### Seter på andre rad
@@ -142,7 +142,7 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 - integrert hodestøtte
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/secondrowseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/secondrowseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
 
 Det er bare én type ratt tilgjengelig. stock-rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet.
@@ -153,7 +153,7 @@ Det er ett tilgjengelig klimasystem. Klimasystemet standard støtter forskjellig
 
 ## Komfort
 
-BMW iX2 xDrive30 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+BMW iX2 eDrive20 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
 
 Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
 
@@ -167,45 +167,45 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-BMW iX2 xDrive30 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 10.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 10.7 tommer stor og har en oppløsning på 2880 x 1080 piksler.
+BMW iX2 eDrive20 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 10.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 10.7 tommer stor og har en oppløsning på 2880 x 1080 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/screens_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/screens_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
 
 ## Infotainment
 
-Du kan velge mellom to lydsystemer på BMW iX2 xDrive30. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt.
+Du kan velge mellom to lydsystemer på BMW iX2 eDrive20. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW iX2 xDrive30 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW iX2 eDrive20 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 ## Lys
 
-Du kan velge mellom to typer frontlykter for BMW iX2 xDrive30. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+Du kan velge mellom to typer frontlykter for BMW iX2 eDrive20. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/headlights_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/headlights_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2001"  >}}
 
 ## Avanserte førerassistentsystemer
 
-BMW iX2 xDrive30 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+BMW iX2 eDrive20 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 ### Sikkerhetssystemer
 
 
 
-BMW iX2 xDrive30 har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+BMW iX2 eDrive20 har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
-BMW iX2 xDrive30 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
+BMW iX2 eDrive20 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-BMW iX2 xDrive30 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+BMW iX2 eDrive20 har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er tilvalg førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-BMW iX2 xDrive30 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+BMW iX2 eDrive20 har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 [**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er tilvalg førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon.
 
@@ -225,12 +225,12 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 525 liter. Med baksetet nede er det 1400 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2605 kg, og med basisvekten på 2020 kg kan du maksimalt laste 585 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 525 liter. Med baksetet nede er det 1400 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 26052460 kg, og med basisvekten på 1875 kg kan du maksimalt laste 26050585 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/trunk_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/trunk_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW iX2 </strong>

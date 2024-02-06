@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-268cd381
+  translation: BMW iX2 eDrive20 er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 449 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-63ce3f7e
   translation: BMW i5 xDrive40 er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 538 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-6b690eca
   translation: Mercedes-Maybach EQS 680 SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 612 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-1b088938
-  translation: Acura ZDX Type S er en helelektrisk SUV med en EPA rekkevidde på opptil 463 km. EVKX.net har alle detaljene.
 

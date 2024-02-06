@@ -1,7 +1,7 @@
 ---
-title: BMW iX2 xDrive30
-linktitle: "iX2 xDrive30"
-description: "BMW iX2 xDrive30 is an all-electric premium coupe SUV with a WLTP range of up to 449 km (279 miles). EVKX.net has all the details."
+title: BMW iX2 eDrive20
+linktitle: "iX2 eDrive20"
+description: "BMW iX2 eDrive20 is an all-electric premium coupe SUV with a WLTP range of up to 449 km (279 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/main_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/main_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="1999"  >}}
 
-We have separated our BMW iX2 xDrive30 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We have separated our BMW iX2 eDrive20 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -29,7 +29,7 @@ We have separated our BMW iX2 xDrive30 article into sections. If you want to wai
 
 ## Performance
 
-The BMW iX2 xDrive30 has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 494 nm (365 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,6 seconds. The top speed is 180 km/h.
+The BMW iX2 eDrive20 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 247 nm (182 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,6 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
@@ -55,13 +55,13 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BMW iX2 xDrive30 has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW iX2 eDrive20 has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
 The Adaptive M Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm.
 
 ### Steering
 
-Dynamic steering is a standard feature on the BMW iX2 xDrive30. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard feature on the BMW iX2 eDrive20. Dynamic steering varies the steering ratio as a function of driving speed.
 
 ### Brakes
 
@@ -81,7 +81,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 You can order the car with tinted windows from B-pillar and back.
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/exterior_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/exterior_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -94,7 +94,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 ### First row seats
 
-There are two seat types you can choose from for the front row in the BMW iX2 xDrive30.
+There are two seat types you can choose from for the front row in the BMW iX2 eDrive20.
 
 The following functionalities are available on the **Standard** seat.
 
@@ -129,7 +129,7 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/frontseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/frontseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
 
 ### Second-row seat
@@ -142,7 +142,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - integrated headrest
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/secondrowseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/secondrowseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
@@ -153,7 +153,7 @@ There is one climate system available. The standard climate system supports diff
 
 ## Comfort
 
-BMW iX2 xDrive30 has several features to make your life as a driver or passenger more comfortable.
+BMW iX2 eDrive20 has several features to make your life as a driver or passenger more comfortable.
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
 
@@ -167,45 +167,45 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The BMW iX2 xDrive30 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10.7 inches large and has a 2880 x 1080 pixels resolution.
+The BMW iX2 eDrive20 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 10.7 inches large and has a 2880 x 1080 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/screens_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/screens_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
 
 ## Infotainment
 
-You can choose between two sound systems on the BMW iX2 xDrive30. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
+You can choose between two sound systems on the BMW iX2 eDrive20. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX2 xDrive30 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW iX2 eDrive20 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 ## Lights
 
-You can choose between two types of headlights for the BMW iX2 xDrive30. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+You can choose between two types of headlights for the BMW iX2 eDrive20. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/headlights_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/headlights_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2001"  >}}
 
 ## Advanced driver assistance systems
 
-The BMW iX2 xDrive30 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The BMW iX2 eDrive20 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The BMW iX2 xDrive30 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The BMW iX2 eDrive20 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The BMW iX2 xDrive30 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+The BMW iX2 eDrive20 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
-The BMW iX2 xDrive30 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The BMW iX2 eDrive20 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is an optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions.
 
-The BMW iX2 xDrive30 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The BMW iX2 eDrive20 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is an optional  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
 
@@ -225,12 +225,12 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 525 liters. With the rear seat down, it is 1400 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2605 kg (5743 lbs), and with the base weight of 2020 kg (4453 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 525 liters. With the rear seat down, it is 1400 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 26052460 kg (57435774 lbs), and with the base weight of 1875 kg (4134 lbs), you can max load 26050585 kg (57431641 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 
 
-{{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/trunk_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/trunk_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW iX2 </strong>

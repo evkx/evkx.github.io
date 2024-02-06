@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-268cd381
+  translation: BMW iX2 eDrive20 is an all-electric premium coupe SUV with a WLTP range of up to 449 km (279 miles). EVKX.net has all the details.
+
 - id: frontpage-description-63ce3f7e
   translation: BMW i5 xDrive40 is an all-electric premium sedan with a WLTP range of up to 538 km (334 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-6b690eca
   translation: Mercedes-Maybach EQS 680 SUV is an all-electric luxury SUV with a WLTP range of up to 612 km (380 miles). EVKX.net has all the details.
-
-- id: frontpage-description-1b088938
-  translation: Acura ZDX Type S is an all-electric SUV with a EPA range of up to 463 km (288 miles). EVKX.net has all the details.
 
