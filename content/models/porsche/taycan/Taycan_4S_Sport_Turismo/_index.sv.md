@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4S Sport Turismo
 linktitle: "Taycan 4S Sport Turismo"
-description: "Porsche Taycan 4S Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 441 km. EVKX.net har alla detaljer."
+description: "Porsche Taycan 4S Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 498 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

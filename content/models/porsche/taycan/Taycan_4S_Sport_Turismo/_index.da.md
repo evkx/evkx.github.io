@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4S Sport Turismo
 linktitle: "Taycan 4S Sport Turismo"
-description: "Porsche Taycan 4S Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 441 km (274 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan 4S Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 498 km (310 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

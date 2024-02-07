@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4S
 linktitle: "Taycan 4S"
-description: "Porsche Taycan 4S er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 431 km (268 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan 4S er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 464 km (288 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				280 KW (381 hk /375 hk)
+				340 KW (462 hk /456 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				350 Kw
+				410 Kw
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				240 KW (326 hk /322 hk)
+				280 KW (381 hk /375 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				300 Kw
+				360 Kw
 			</td>
 		</tr>
 		<tr>

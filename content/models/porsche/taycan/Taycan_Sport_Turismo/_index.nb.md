@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Sport Turismo
 linktitle: "Taycan Sport Turismo"
-description: "Porsche Taycan Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 431 km. EVKX.net har alle detaljene."
+description: "Porsche Taycan Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 484 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt
 			</td>
 			<td>
-				280 KW (381 hk)
+				340 KW (462 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt med boost
 			</td>
 			<td>
-				350 Kw
+				410 Kw
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt
 			</td>
 			<td>
-				240 KW (326 hk)
+				280 KW (381 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt med boost
 			</td>
 			<td>
-				300 Kw
+				360 Kw
 			</td>
 		</tr>
 		<tr>
