@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-From 2025 onwards, the BMW Group plans to increase its delivery share of all-electric vehicles to 50% with the Neue Klasse, while also further reducing its carbon footprint over the entire life cycle. BMW has currently 7 all electric models with total 17 variants in the market. Below you find links for each model page.
+From 2025 onwards, the BMW Group plans to increase its delivery share of all-electric vehicles to 50% with the Neue Klasse, while also further reducing its carbon footprint over the entire life cycle. BMW has currently 7 all electric models with total 18 variants in the market. Below you find links for each model page.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> BMW i4</h3>
@@ -30,7 +30,7 @@ BMW i4 is a premium sedan available in 3 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-BMW i5 is a premium sedan available in 3 variants.
+modelintro.SedanStationWagon.Premium
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

@@ -16,6 +16,13 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Taycan Facelift Full Tour! Software, Range, Charging, Design, Suspension, & More Detailed</h3>
+<p>Out of Spec Reviews: 07.02.2024</p>
+
+{{< youtube 11XbivJhsLA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Insane Porsche Charging Performance! New Taycan Facelift Charging Test & Comparison</h3>
 <p>Out of Spec Reviews: 06.02.2024</p>
 
