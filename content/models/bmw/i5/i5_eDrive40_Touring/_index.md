@@ -29,7 +29,7 @@ We have separated our BMW i5 eDrive40 Touring article into sections. If you want
 
 ## Performance
 
-The BMW i5 eDrive40 Touring has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6 seconds. The top speed is 193 km/h.
+The BMW i5 eDrive40 Touring has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 193 km/h.
 
 ## Battery, range, and charging
 
@@ -44,6 +44,10 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 22 minutes.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/charging_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1686"  >}}
+
 
 ### Charge port
 
@@ -233,9 +237,9 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1700 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2256 kg (4974 lbs), you can max load 484 kg (1067 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1700 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 2790 kg (6151 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/trunk_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2250"  >}}

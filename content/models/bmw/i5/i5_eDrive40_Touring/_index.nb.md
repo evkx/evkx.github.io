@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW i5 eDrive40 Touring i seksjoner. Hvis du vil
 
 ## Ytelse
 
-BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 6 sekunder. Topphastigheten er 193 km/t.
+BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 6,1 sekunder. Topphastigheten er 193 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -44,6 +44,10 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 ### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 22 minutter.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/charging_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1686"  >}}
+
 
 ### Ladeport
 
@@ -233,9 +237,9 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 570 liter. Med baksetet nede er det 1700 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2740 kg, og med basisvekten på 2256 kg kan du maksimalt laste 484 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 570 liter. Med baksetet nede er det 1700 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 2790 kg, og med basisvekten på 2180 kg kan du maksimalt laste 610 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/trunk_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2250"  >}}

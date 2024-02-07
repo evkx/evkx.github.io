@@ -1,15 +1,14 @@
 ---
-title: BMW i5 eDrive40 Touring specifikationer
+title: BMW i5 M60 xDrive Touring specifikationer
 linktitle: "Specifikationer"
-description: "EVKX.net giver dig de fulde specifikationer for BMW i5 eDrive40 Touring."
+description: "EVKX.net giver dig de fulde specifikationer for BMW i5 M60 xDrive Touring."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/main_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2001" >}}
-EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40 Touring. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BMW i5 eDrive40 Touring, besøg [chargeinfo](../chargecurve/) for BMW i5 eDrive40 Touring med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net søger at have de mest komplette specifikationer for BMW i5 M60 xDrive Touring. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af BMW i5 M60 xDrive Touring, besøg [chargeinfo](../chargecurve/) for BMW i5 M60 xDrive Touring med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -31,7 +30,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40 To
 				Popeffekt
 			</td>
 			<td>
-				250 KW (340 hk /335 hk)
+				442 KW (601 hk /593 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +38,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40 To
 				Elektrisk momentudgang
 			</td>
 			<td>
-				430 nm (317 ft-lb)
+				795 nm (587 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +46,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40 To
 				Tophastighed
 			</td>
 			<td>
-				193 km/t (120 mph)
+				230 km/t (143 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40 To
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6,1 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +82,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				560 km
+				515 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +90,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				14,5 kWh/100km
+				15,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +98,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				16,5 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +106,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				483 km
+				456 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +114,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				16,8 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +297,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1515 mm (59,6")
+				1505 mm (59,3")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +337,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0,24
+				0,25
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +378,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2180 kg (4806 lbs)
+				2350 kg (5181 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2790 kg (6151 lbs)
+				2960 kg (6526 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +402,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				100 kg (220 lbs)
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +426,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -451,10 +450,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 ## Suspension
 
-Modellen tilbyder 3 affjedringsvarianter
-
-### Adaptive M Suspension
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -472,7 +467,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Adaptiv suspension
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -480,7 +475,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Justerbar dæmpning foran
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +483,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Justerbar dæmpning bagtil
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +499,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Justerbar højde bag
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +507,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				144 mm (5,7")
+				136 mm (5,4")
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +515,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				144 mm (5,7")
+				136 mm (5,4")
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +523,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Spjældtype foran
 			</td>
 			<td>
-				Monotube
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +531,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Dæmper type bag
 			</td>
 			<td>
-				Monotube
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
@@ -553,248 +548,6 @@ Modellen tilbyder 3 affjedringsvarianter
 			</td>
 			<td>
 				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ophængstype foran
-			</td>
-			<td>
-				Dobbelt wishbone suspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension type bag
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### M Sport Suspension
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptiv suspension
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dæmpning foran
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dæmpning bagtil
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar højde foran
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar højde bag
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks frihøjde
-			</td>
-			<td>
-				136 mm (5,4")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum frihøjde
-			</td>
-			<td>
-				136 mm (5,4")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Spjældtype foran
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dæmper type bag
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjedertype foran
-			</td>
-			<td>
-				Spiralfjeder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjedertype bagtil
-			</td>
-			<td>
-				Spiralfjeder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ophængstype foran
-			</td>
-			<td>
-				Dobbelt wishbone suspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension type bag
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptives suspension professional
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptiv suspension
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dæmpning foran
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dæmpning bagtil
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar højde foran
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar højde bag
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks frihøjde
-			</td>
-			<td>
-				140 mm (5,5")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum frihøjde
-			</td>
-			<td>
-				140 mm (5,5")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Spjældtype foran
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dæmper type bag
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjedertype foran
-			</td>
-			<td>
-				Spiralfjeder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjedertype bagtil
-			</td>
-			<td>
-				Spiralfjeder
 			</td>
 		</tr>
 		<tr>
@@ -1505,6 +1258,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1512,6 +1266,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

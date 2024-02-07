@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av BMW i5 eDrive40 Touring i avsnitt. Om du vil
 
 ## Prestanda
 
-BMW i5 eDrive40 Touring har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 6 sekunder. Topphastigheten är 193 km/h.
+BMW i5 eDrive40 Touring har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 6,1 sekunder. Topphastigheten är 193 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -44,6 +44,10 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 ### Inbyggd laddare
 
 För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 22 minuter.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/charging_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1686"  >}}
+
 
 ### Laddningsport
 
@@ -233,9 +237,9 @@ Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatise
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 570 liter. Med baksätet nedfällt är det 1700 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2740 kg, och med basvikten på 2256 kg kan du lasta maximalt 484 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 570 liter. Med baksätet nedfällt är det 1700 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 2790 kg, och med basvikten på 2180 kg kan du lasta maximalt 610 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/trunk_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2250"  >}}

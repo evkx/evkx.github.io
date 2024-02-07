@@ -29,7 +29,7 @@ Vi har opdelt vores BMW i5 eDrive40 Touring artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6 sekunder. Tophastigheden er 193 km/t.
+BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Tophastigheden er 193 km/t.
 
 ## Batteri, rækkevidde og opladning
 
@@ -44,6 +44,10 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 ### Indbygget oplader
 
 Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 22 minutter.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/charging_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1686"  >}}
+
 
 ### Ladeport
 
@@ -233,9 +237,9 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1700 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2256 kg (4974 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1700 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2790 kg (6151 lbs), og med basisvægten på 2180 kg (4806 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
+Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/trunk_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2250"  >}}

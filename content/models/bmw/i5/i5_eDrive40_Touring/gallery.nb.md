@@ -18,6 +18,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40_touring/charging_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40_touring/charging_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1686" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40_touring/charging_1_xst.jpg" alt="BMW i5 eDrive40 Touring" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40_touring/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40_touring/exterior_1.jpg"
 data-pswp-width="3000"

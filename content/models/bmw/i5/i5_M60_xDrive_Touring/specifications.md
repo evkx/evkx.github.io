@@ -1,15 +1,14 @@
 ---
-title: BMW i5 eDrive40 Touring specifications
+title: BMW i5 M60 xDrive Touring specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for BMW i5 eDrive40 Touring."
+description: "EVKX.net gives you the full specifications for BMW i5 M60 xDrive Touring."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/main_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2001" >}}
-EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40 Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 eDrive40 Touring, visit the [chargeinfo](../chargecurve/) for BMW i5 eDrive40 Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+EVKX.net seeks to have the most complete specifications for BMW i5 M60 xDrive Touring. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of BMW i5 M60 xDrive Touring, visit the [chargeinfo](../chargecurve/) for BMW i5 M60 xDrive Touring with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -31,7 +30,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40 Tour
 				Peak power
 			</td>
 			<td>
-				250 KW (340 hp /335 bhp)
+				442 KW (601 hp /593 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +38,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40 Tour
 				Electrical torque output
 			</td>
 			<td>
-				430 nm (317 ft-lb)
+				795 nm (587 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +46,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40 Tour
 				Top speed
 			</td>
 			<td>
-				193 kph (120 mph)
+				230 kph (143 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net seeks to have the most complete specifications for BMW i5 eDrive40 Tour
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				6,1 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +82,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				560 km
+				515 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +90,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				14,5 kWh/100km
+				15,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +98,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				16,5 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +106,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				483 km
+				456 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +114,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				16,8 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +297,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1515 mm (59,6")
+				1505 mm (59,3")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +337,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,24
+				0,25
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +378,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2180 kg (4806 lbs)
+				2350 kg (5181 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2790 kg (6151 lbs)
+				2960 kg (6526 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +402,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
-				100 kg (220 lbs)
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +426,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -451,10 +450,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-The model offers 3 suspension variants
-
-### Adaptive M Suspension
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -472,7 +467,7 @@ The model offers 3 suspension variants
 				<a href="/technology/suspension/">Adaptive suspension</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -480,7 +475,7 @@ The model offers 3 suspension variants
 				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +483,7 @@ The model offers 3 suspension variants
 				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +499,7 @@ The model offers 3 suspension variants
 				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +507,7 @@ The model offers 3 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				144 mm (5,7")
+				136 mm (5,4")
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +515,7 @@ The model offers 3 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				144 mm (5,7")
+				136 mm (5,4")
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +523,7 @@ The model offers 3 suspension variants
 				<a href="/technology/suspension/">Damper type front</a>
 			</td>
 			<td>
-				Monotube
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +531,7 @@ The model offers 3 suspension variants
 				<a href="/technology/suspension/">Damper type rear</a>
 			</td>
 			<td>
-				Monotube
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
@@ -553,248 +548,6 @@ The model offers 3 suspension variants
 			</td>
 			<td>
 				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type front</a>
-			</td>
-			<td>
-				Double wishbone suspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type rear</a>
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### M Sport Suspension
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adaptive suspension</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping front</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping rear</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height front</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height rear</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Max ground clearance</a>
-			</td>
-			<td>
-				136 mm (5,4")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Minimum ground clearance</a>
-			</td>
-			<td>
-				136 mm (5,4")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type front</a>
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type rear</a>
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type front</a>
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type rear</a>
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type front</a>
-			</td>
-			<td>
-				Double wishbone suspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type rear</a>
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptives suspension professional
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adaptive suspension</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping front</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping rear</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height front</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height rear</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Max ground clearance</a>
-			</td>
-			<td>
-				140 mm (5,5")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Minimum ground clearance</a>
-			</td>
-			<td>
-				140 mm (5,5")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type front</a>
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type rear</a>
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type front</a>
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type rear</a>
-			</td>
-			<td>
-				Coil Spring
 			</td>
 		</tr>
 		<tr>
@@ -1505,6 +1258,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1512,6 +1266,7 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

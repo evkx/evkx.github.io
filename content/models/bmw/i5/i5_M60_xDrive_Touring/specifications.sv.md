@@ -1,15 +1,14 @@
 ---
-title: BMW i5 eDrive40 Touring Specifikationer
+title: BMW i5 M60 xDrive Touring Specifikationer
 linktitle: "Specifikationer"
-description: "EVKX.net ger dig alla specifikationer för BMW i5 eDrive40 Touring."
+description: "EVKX.net ger dig alla specifikationer för BMW i5 M60 xDrive Touring."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/main_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2001" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 eDrive40 Touring. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BMW i5 eDrive40 Touring, gå till [chargeinfo](../chargecurve/) för BMW i5 eDrive40 Touring med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 M60 xDrive Touring. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av BMW i5 M60 xDrive Touring, gå till [chargeinfo](../chargecurve/) för BMW i5 M60 xDrive Touring med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -31,7 +30,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 eDrive40 Tourin
 				Max effekt
 			</td>
 			<td>
-				250 KW (340 hk)
+				442 KW (601 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +38,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 eDrive40 Tourin
 				Vridmoment
 			</td>
 			<td>
-				430 nm
+				795 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +46,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 eDrive40 Tourin
 				Topphastighet
 			</td>
 			<td>
-				193 km/h
+				230 km/h
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 eDrive40 Tourin
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6,1 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +82,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				560 km
+				515 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +90,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				14,5 kWh/100km
+				15,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +98,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16,5 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +106,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				483 km
+				456 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +114,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				16,8 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +297,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjd
 			</td>
 			<td>
-				1515 mm
+				1505 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +337,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,24
+				0,25
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +378,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2180 kg
+				2350 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2790 kg
+				2960 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +402,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten taklast
 			</td>
 			<td>
-				100 kg
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +426,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				1500 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -451,10 +450,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Hjulupphängning
 
-Modellen erbjuder 3 fjädringsvarianter
-
-### Adaptive M Suspension
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -472,7 +467,7 @@ Modellen erbjuder 3 fjädringsvarianter
 				Adaptive Suspension
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -480,7 +475,7 @@ Modellen erbjuder 3 fjädringsvarianter
 				Justerbar dämpning fram
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +483,7 @@ Modellen erbjuder 3 fjädringsvarianter
 				Justerbar dämpning bak
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +499,7 @@ Modellen erbjuder 3 fjädringsvarianter
 				Justerbar höjd bak
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +507,7 @@ Modellen erbjuder 3 fjädringsvarianter
 				Max markfrigång
 			</td>
 			<td>
-				144 mm
+				136 mm
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +515,7 @@ Modellen erbjuder 3 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				144 mm
+				136 mm
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +523,7 @@ Modellen erbjuder 3 fjädringsvarianter
 				Främre stötdämpare
 			</td>
 			<td>
-				Monotube
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +531,7 @@ Modellen erbjuder 3 fjädringsvarianter
 				Bakre stötdämpare
 			</td>
 			<td>
-				Monotube
+				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
@@ -553,248 +548,6 @@ Modellen erbjuder 3 fjädringsvarianter
 			</td>
 			<td>
 				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjulupphängning foran
-			</td>
-			<td>
-				Dubbel länkarmsfjädring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjulupphängning bak
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### M Sport Suspension
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptive Suspension
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning fram
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning bak
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd fram
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd bak
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max markfrigång
-			</td>
-			<td>
-				136 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minsta markfrigång
-			</td>
-			<td>
-				136 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Främre stötdämpare
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre stötdämpare
-			</td>
-			<td>
-				Monotube
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Främre fjädring
-			</td>
-			<td>
-				Skruvfjäder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre fjädring
-			</td>
-			<td>
-				Skruvfjäder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjulupphängning foran
-			</td>
-			<td>
-				Dubbel länkarmsfjädring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjulupphängning bak
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptives suspension professional
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptive Suspension
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning fram
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning bak
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd fram
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd bak
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max markfrigång
-			</td>
-			<td>
-				140 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minsta markfrigång
-			</td>
-			<td>
-				140 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Främre stötdämpare
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre stötdämpare
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Främre fjädring
-			</td>
-			<td>
-				Skruvfjäder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre fjädring
-			</td>
-			<td>
-				Skruvfjäder
 			</td>
 		</tr>
 		<tr>
@@ -1505,6 +1258,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Röststyrning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1512,6 +1266,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Gestkontroll
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

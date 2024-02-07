@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 eDrive40 Tou
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6 s
+				6,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -298,7 +298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1505 mm
+				1515 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde foran
 			</td>
 			<td>
-				1692 mm
+				1622 mm
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde bak
 			</td>
 			<td>
-				1716 mm
+				1625 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,25
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Frontalområde
 			</td>
 			<td>
-				2,49
+				2,5
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2256 kg
+				2180 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2740 kg
+				2790 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				484 kg
+				610 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				75 kg
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
-				2000 kg
+				1500 kg
 			</td>
 		</tr>
 		<tr>

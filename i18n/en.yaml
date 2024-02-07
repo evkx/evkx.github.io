@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-9b4e225d
+  translation: BMW i5 M60 xDrive Touring is an all-electric premium station wagon with a WLTP range of up to 515 km (320 miles). EVKX.net has all the details.
+
 - id: frontpage-description-a6158252
   translation: BMW i5 eDrive40 Touring is an all-electric premium station wagon with a WLTP range of up to 560 km (348 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-e19e45ce
   translation: Porsche Macan 4 is an all-electric premium coupe SUV with a WLTP range of up to 613 km (381 miles). EVKX.net has all the details.
-
-- id: frontpage-description-ff237454
-  translation: Porsche Macan Turbo is an all-electric premium coupe SUV with a WLTP range of up to 591 km (367 miles). EVKX.net has all the details.
 

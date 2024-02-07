@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-9b4e225d
+  translation: BMW i5 M60 xDrive Touring är en helelektrisk premiumkombi med en WLTP räckvidd på upp till 515 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-a6158252
   translation: BMW i5 eDrive40 Touring är en helelektrisk premiumkombi med en WLTP räckvidd på upp till 560 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-e19e45ce
   translation: Porsche Macan 4 är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 613 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-ff237454
-  translation: Porsche Macan Turbo är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 591 km. EVKX.net har alla detaljer.
 

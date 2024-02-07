@@ -190,7 +190,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="bmw/"><img src="https://media.evkx.net/multimedia/models/bmw/brandevs_st.jpg" class="img-fluid mb-2" alt="BMW" ></a>
 	<h2>BMW</h2>
 	<p>
-	BMW har 7 modeller med i alt 18 varianter.
+	BMW har 7 modeller med i alt 19 varianter.
 	</p>
 	<a href="bmw/" class="btn btn-outline-primary" role="button">Gå til BMW EV-modeloversigt</a>
 </div>
