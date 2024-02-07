@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/main_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2001"  >}}
+
 We have separated our BMW i5 M60 xDrive Touring article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
@@ -40,6 +44,10 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 22 minutes.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/charging_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1686"  >}}
+
 
 ### Charge port
 
@@ -75,6 +83,10 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 You can order the car with tinted windows from B-pillar and back.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/exterior_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1999"  >}}
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -118,6 +130,10 @@ The following functionalities are available on the **M Sport** seat.
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - integrated headrest
 
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
+
+
 ### Second-row seat
 
 
@@ -126,6 +142,10 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
+
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 
@@ -154,6 +174,10 @@ You have wireless charging for your phone.
 The BMW i5 M60 xDrive Touring has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 14.9 inches large and has a 2880 x 1080 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/screens_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
+
+
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
 
 A gesture control system that lets you control specific features using your hands.
@@ -168,6 +192,10 @@ The model has 6 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the BMW i5 M60 xDrive Touring. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/headlights_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1999"  >}}
+
 ## Advanced driver assistance systems
 
 The BMW i5 M60 xDrive Touring has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -211,7 +239,11 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1700 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2960 kg (6526 lbs), and with the base weight of 2350 kg (5181 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/trunk_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2250"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW i5 </strong>
 </a>

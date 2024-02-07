@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/main_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2001"  >}}
+
 Vi har delt vår beskrivelse av BMW i5 M60 xDrive Touring i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
@@ -40,6 +44,10 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 ### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 22 minutter.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/charging_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1686"  >}}
+
 
 ### Ladeport
 
@@ -75,6 +83,10 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelok
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/exterior_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1999"  >}}
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -118,6 +130,10 @@ Følgende funksjoner er tilgjengelige på **M Sport** setet.
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - integrert hodestøtte
 
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
+
+
 ### Seter på andre rad
 
 
@@ -126,6 +142,10 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - integrert hodestøtte
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
+
 
 Det er bare én type ratt tilgjengelig. stock-rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet.
 
@@ -154,6 +174,10 @@ Du har trådløs lading for telefonen din.
 BMW i5 M60 xDrive Touring har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 14.9 tommer stor og har en oppløsning på 2880 x 1080 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/screens_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
+
+
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med hendene.
@@ -168,6 +192,10 @@ Modellen har 6 USB-C-tilkoblinger som standard.
 ## Lys
 
 Du kan velge mellom to typer frontlykter for BMW i5 M60 xDrive Touring. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/headlights_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1999"  >}}
+
 ## Avanserte førerassistentsystemer
 
 BMW i5 M60 xDrive Touring har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
@@ -211,7 +239,11 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 Lastkapasiteten i bagasjerommet er 570 liter. Med baksetet nede er det 1700 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2960 kg, og med basisvekten på 2350 kg kan du maksimalt laste 610 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
+
+
+{{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/trunk_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2250"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW i5 </strong>
 </a>

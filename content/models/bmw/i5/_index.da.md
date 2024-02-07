@@ -64,7 +64,7 @@ weight: 30
 <h3>BMW i5 M60 xDrive Touring</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="i5_m60_xdrive_touring/"><img src="" class="img-fluid" width="400px" height="0px" alt="i5 M60 xDrive Touring" ></a>
+			<a href="i5_m60_xdrive_touring/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive_touring/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i5 M60 xDrive Touring" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
