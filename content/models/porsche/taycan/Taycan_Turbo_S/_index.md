@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S
 linktitle: "Taycan Turbo S"
-description: "Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net has all the details."
+description: "Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 630 km (392 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ We have separated our Porsche Taycan Turbo S article into sections. If you want 
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo S has a maximum power of 560 KW (761 hp / 751 bhp). Without overboost, it is 460 KW (625 hp / 625 bhp). The torque is 850 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2,8 seconds. The top speed is 260 km/h.
+With overboost, the Porsche Taycan Turbo S has a maximum power of 700 KW (952 hp / 939 bhp). Without overboost, it is 620 KW (843 hp / 843 bhp). The torque is 1110 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2,4 seconds. The top speed is 260 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 105kWh and a net capacity of 97kWh, meaning you have a 8kWh buffer for protection. (7,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 507 to 435 km (315-270 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.5kWh/100km for the basic version and 19.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 630 to 558 km (392-347 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.4kWh/100km for the basic version and 17.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65%, resulting in an actual charge speed, including time loss, of 165kW. Each charge session would take 19 minutes and 53 seconds.
+The maximum DC charging speed is 320kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 15 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 65%, resulting in an actual charge speed, including time loss, of 212kW. Each charge session would take 18 minutes and 32 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 10 minutes. This trip will require three charge session(s) charging from 3% to 58%. The total time lost for charging up the battery will be 51 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 8 hours and 55 minutes. This trip will require two charge session(s) charging from 1% to 65%. The total time lost for charging up the battery will be 35 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 24 minutes.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2242"  >}}
@@ -159,6 +159,10 @@ The second option is two integrated seats in the second row with a third smaller
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest
 
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="1688"  >}}
+
+
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -248,7 +252,11 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 The cargo capacity in the trunk is 366 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2230 kg (4916 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/trunk_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

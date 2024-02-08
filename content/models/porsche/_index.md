@@ -30,7 +30,7 @@ Porsche Macan is a premium Coupe SUV available in 2 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Porsche Taycan is a luxury sedan /station wagon available in 15 variants.
+Porsche Taycan is a luxury sedan /station wagon available in 16 variants.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

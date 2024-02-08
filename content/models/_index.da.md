@@ -430,7 +430,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
-	Porsche har 2 modeller med i alt 17 varianter.
+	Porsche har 2 modeller med i alt 18 varianter.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå til Porsche EV-modeloversigt</a>
 </div>

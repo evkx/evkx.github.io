@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-1acd4168
+  translation: Porsche Taycan Turbo S är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 630 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-9b4e225d
   translation: BMW i5 M60 xDrive Touring är en helelektrisk premiumkombi med en WLTP räckvidd på upp till 515 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-c3e5377b
   translation: Aion Hyper GT 710 Supercharged är en helelektrisk sedan med en CLTC räckvidd på upp till 710 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-e19e45ce
-  translation: Porsche Macan 4 är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 613 km. EVKX.net har alla detaljer.
 

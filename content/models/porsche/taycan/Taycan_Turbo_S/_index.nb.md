@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S
 linktitle: "Taycan Turbo S"
-description: "Porsche Taycan Turbo S er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 507 km. EVKX.net har alle detaljene."
+description: "Porsche Taycan Turbo S er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 630 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo S i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Med overboost har Porsche Taycan Turbo S en maksimal effekt på 560 KW (761hk). Uten overboost er den 460KW (625hk). Dreiemomentet er 850 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,8 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Taycan Turbo S en maksimal effekt på 700 KW (952hk). Uten overboost er den 620KW (843hk). Dreiemomentet er 1110 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,4 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 93,4kWh og en nettokapasitet på 83,7kWh, noe som betyr at du har et 9,7kWh-buffer for beskyttelse. (10,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.5kWh/100 km for basisversjonen og 19.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 630 til 558 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.4kWh/100 km for basisversjonen og 17.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 53 sekunder.
+Maksimal DC-ladehastighet er 320 kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 15 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 212kW. Hver ladeøkt vil ta 18 minutter og 32 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 10 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 3% til 58%. Totalt tapt tid for å lade opp batteriet vil være 51 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 8 timer og 55 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 65%. Totalt tapt tid for å lade opp batteriet vil være 35 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 22 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 49 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 22 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 24 minutter.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2242"  >}}
@@ -150,6 +150,10 @@ Alternativet second er to integrerte seter i andre rad med et tredje mindre sete
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - integrert hodestøtte
 
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="1688"  >}}
+
+
 Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
@@ -239,7 +243,11 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 Lastkapasiteten i bagasjerommet er 366 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2880 kg, og med basisvekten på 2230 kg kan du maksimalt laste 650 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
+Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/trunk_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

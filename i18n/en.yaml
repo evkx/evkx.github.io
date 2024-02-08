@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-1acd4168
+  translation: Porsche Taycan Turbo S is an all-electric luxury sedan with a WLTP range of up to 630 km (392 miles). EVKX.net has all the details.
+
 - id: frontpage-description-9b4e225d
   translation: BMW i5 M60 xDrive Touring is an all-electric premium station wagon with a WLTP range of up to 515 km (320 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-c3e5377b
   translation: Aion Hyper GT 710 Supercharged is an all-electric sedan with a CLTC range of up to 710 km (441 miles). EVKX.net has all the details.
-
-- id: frontpage-description-e19e45ce
-  translation: Porsche Macan 4 is an all-electric premium coupe SUV with a WLTP range of up to 613 km (381 miles). EVKX.net has all the details.
 
