@@ -127,6 +127,28 @@ The table below shows some estimated real-world examples in perfect condition an
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				120kmh/75mph perfect condition
+			</td>
+			<td>
+				312 km / 194 mi
+			</td>
+			<td>
+				25 kWh/100km / 2,5 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120kmh/75mph with 2KW heating
+			</td>
+			<td>
+				292 km /181mi
+			</td>
+			<td>
+				26,7 kWh/100km /2,3 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

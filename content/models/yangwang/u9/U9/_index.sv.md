@@ -39,6 +39,8 @@ Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 98kWh, vil
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 54 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 135kW. Varje laddningssession tar 28 minuter och 17 sekunder.
 
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26kWh/100km, tar 1000km 9 timmar och 34 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 2% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 74 minuter.
+
 ### Inbyggd laddare
 
 För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 22KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 4 timmar och 27 minuter.

@@ -39,6 +39,8 @@ Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 98kWh, hvil
 
 Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 54 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 135kW. Hver opladningssession ville tage 28 minutter og 17 sekunder.
 
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26kWh/100 km, vil 1000 km tage 9 timer og 34 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 2 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 74 minutter.
+
 ### Indbygget oplader
 
 Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 4 timer og 27 minutter.
