@@ -39,6 +39,8 @@ The [CLTC range](../../../../guides/understandingrange/cltc/) is 710 km ( miles)
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 38 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 54%, resulting in an actual charge speed, including time loss, of 152kW. Each charge session would take 16 minutes and 50 seconds.
 
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 20kWh/100km, 1000km will take 9 hours and 9 minutes. This trip will require three charge session(s) charging from 2% to 56%. The total time lost for charging up the battery will be 49 minutes.
+
 ### Onboard charger
 
 

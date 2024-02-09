@@ -175,6 +175,28 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				120 kmt/75 mph under perfekte forhold
+			</td>
+			<td>
+				444 km / 276 mi
+			</td>
+			<td>
+				24 kWh/100km / 2,6 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120 kmt /75mph med 2KW oppvarming
+			</td>
+			<td>
+				415 km /258mi
+			</td>
+			<td>
+				25,7 kWh/100km /2,4 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
