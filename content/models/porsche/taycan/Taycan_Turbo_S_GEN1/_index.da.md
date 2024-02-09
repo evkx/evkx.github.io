@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/main_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/main_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Porsche Taycan Turbo S (GEN1) artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer]( specifikationer/), et [billedgalleri](galleri/), detaljerede oplysninger om [opladningsydelse](opladningskurve/), og nogle [online anmeldelser](anmeldelser/). Vores sektioner:
 
@@ -25,6 +25,12 @@ Vi har opdelt vores Porsche Taycan Turbo S (GEN1) artikel i sektioner. Hvis du v
 - [Lys](#lights)
 - [Avancerede driver-assistance-systemer](#advanced-driver-assistance-systems)
 - [Lastkapacitet og bugseringsevne](#cargo-capacity-and-towing-ability)
+
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Porsche Taycan Turbo S](/models/porsche/taycan/taycan_turbo_s/).
+
+</div>
 
 
 ## Ydeevne
@@ -46,7 +52,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2242"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/charging_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2242"  >}}
 
 
 ### Ladeport
@@ -87,7 +93,7 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/exterior_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -133,7 +139,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
 
 
 ### Sæder på anden række
@@ -174,7 +180,7 @@ Porsche Taycan Turbo S (GEN1) har flere integrerede skærme. Bag rattet er en [d
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
 
 
 ## Infotainment
@@ -189,7 +195,7 @@ Derudover får du med standard navigationssystemet i bilen den hjælp, du har br
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2298"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2298"  >}}
 
 ## Avancerede førerassistentsystemer
 
@@ -239,7 +245,10 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 Lagekapaciteten i bagagerummet er 366 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2230 kg (4916 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
+Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+### Tilgængelighed og priser
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>
