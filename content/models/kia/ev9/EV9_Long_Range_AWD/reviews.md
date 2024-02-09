@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 charging test at Ionity</h3>
+<p>Bjørn Nyland: 09.02.2024</p>
+
+{{< youtube m2x__u9O7m4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>New Kia EV9 review: Cancel your Range Rover!</h3>
 <p>carwow: 06.02.2024</p>
 
