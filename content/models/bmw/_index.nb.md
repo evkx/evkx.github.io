@@ -30,7 +30,7 @@ BMW i4 er en premium sedan tilgjengelig i 3 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.SedanStationWagon.Premium
+BMW i5 er en premium sedan /stasjonsvogn tilgjengelig i 5 varianter.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

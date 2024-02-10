@@ -1,7 +1,7 @@
 ---
 title: Peugot E-308
 linktitle: "E-308"
-description: "Peugot E-308 is an all-electric crossover with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details."
+description: "Peugot E-308 is an all-electric hatchback with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

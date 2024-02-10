@@ -30,7 +30,7 @@ BMW i4 is a premium sedan available in 3 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.SedanStationWagon.Premium
+BMW i5 is a premium sedan /station wagon available in 5 variants.
 </p>
 	<a href="i5/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

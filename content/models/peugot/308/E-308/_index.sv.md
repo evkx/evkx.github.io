@@ -1,7 +1,7 @@
 ---
 title: Peugot E-308
 linktitle: "E-308"
-description: "Peugot E-308 är en helelektrisk crossover med en WLTP räckvidd på upp till 410 km. EVKX.net har alla detaljer."
+description: "Peugot E-308 är en helelektrisk halvkombi med en WLTP räckvidd på upp till 410 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

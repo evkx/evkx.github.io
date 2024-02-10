@@ -1,7 +1,7 @@
 ---
 title: Peugot E-308
 linktitle: "E-308"
-description: "Peugot E-308 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 410 km (255 miles). EVKX.net har alle detaljerne."
+description: "Peugot E-308 er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 410 km (255 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

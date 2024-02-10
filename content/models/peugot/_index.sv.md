@@ -58,7 +58,7 @@ Peugot 3008 är en Coupe SUV tillgänglig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.CrossoverStationWagon.Mid
+Peugot 308 är en halvkombi/kombi som finns i 2 varianter.
 </p>
 	<a href="308/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
