@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 acceleration and noise test</h3>
+<p>Bjørn Nyland: 10.02.2024</p>
+
+{{< youtube trxSicvLTbs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 banana box test</h3>
+<p>Bjørn Nyland: 10.02.2024</p>
+
+{{< youtube VfPnINrFAfM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV9 charging test at Ionity</h3>
 <p>Bjørn Nyland: 09.02.2024</p>
 
