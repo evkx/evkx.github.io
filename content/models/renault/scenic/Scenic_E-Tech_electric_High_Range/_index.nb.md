@@ -1,7 +1,7 @@
 ---
 title: Renault Scenic E-Tech electric High Range
 linktitle: "Scenic E-Tech electric High Range"
-description: "Renault Scenic E-Tech electric High Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene."
+description: "Renault Scenic E-Tech electric High Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Renault Scenic E-Tech electric High Range har en maksimal effekt på 160 KW (218
 
 Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 87kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 610 km. Forbruket er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 625 til 622 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.9kWh/100 km for basisversjonen og 14.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 130 kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 98kW. Hver ladeøkt vil ta 28 minutter og 18 sekunder.
 

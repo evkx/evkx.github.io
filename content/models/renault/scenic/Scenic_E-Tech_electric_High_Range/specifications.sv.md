@@ -80,26 +80,50 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-räckvidd
+				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				610 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-förbrukning
-			</td>
-			<td>
-				14,3 kWh/100km
+				625 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-förbrukning med förlust av laddning
+				Basic trim WLTP-förbrukning
+			</td>
+			<td>
+				13,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
 				18,1 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topptrim WLTP-räckvidd
+			</td>
+			<td>
+				622 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topptrim WLTP-förbrukning
+			</td>
+			<td>
+				14,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topp trim WLTP-förbrukning med laddningsförlust
+			</td>
+			<td>
+				18,5 kwh/100km
 			</td>
 		</tr>
 	</tbody>

@@ -40,10 +40,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				610 km / 379 mi
+				625 km / 388 mi
 			</td>
 			<td>
-				14,26kWh/100km / 4,4 mi/kWh
+				13,92kWh/100km / 4,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				610 km / 379 mi
+				622 km / 386 mi
 			</td>
 			<td>
-				14,26 kWh/100km / 4,4 mi/kWh
+				13,99 kWh/100km / 4,4 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række grundlæggende trim med 2KW AC
 			</td>
 			<td>
-				 469km / 291 mi 
+				 477km / 296 mi 
 			</td>
 			<td>
-				-23,1%
+				-23,7%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række top trim med 2KW AC
 			</td>
 			<td>
-				469 km / 291 mi
+				476 km / 296 mi
 			</td>
 			<td>
-				-23,1%
+				-23,5%
 			</td>
 		</tr>
 	</tbody>
