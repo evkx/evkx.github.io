@@ -441,7 +441,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="renault/"><img src="https://media.evkx.net/multimedia/models/renault/brandevs_st.jpg" class="img-fluid mb-2" alt="Renault" ></a>
 	<h2>Renault</h2>
 	<p>
-	Renault har 2 modell(er) med totalt 2 varianter.
+	Renault har 2 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Gå til Renault modelloversikt</a>
 </div>

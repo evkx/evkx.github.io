@@ -30,7 +30,7 @@ Renault Megane är en crossover tillgänglig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Renault Scenic är en crossover tillgänglig i 1 varianter.
+Renault Scenic är en crossover tillgänglig i 2 varianter.
 </p>
 	<a href="scenic/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

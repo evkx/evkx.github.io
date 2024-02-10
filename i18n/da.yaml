@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-abfe27f9
+  translation: Renault Scenic E-Tech electric er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 450 km (280 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-1acd4168
   translation: Porsche Taycan Turbo S er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 630 km (392 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-aa3af3e9
   translation: BYD Seal U Design er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 500 km (311 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-c3e5377b
-  translation: Aion Hyper GT 710 Supercharged er en fuldelektrisk sedan med en CLTC rækkevidde på op til 710 km (441 miles). EVKX.net har alle detaljerne.
 
