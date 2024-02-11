@@ -1,7 +1,7 @@
 ---
 title: Kia EV9 Long Range AWD
 linktitle: "EV9 Long Range AWD"
-description: "Kia EV9 Long Range AWD is an all-electric SUV with a WLTP range of up to 497 km (309 miles). EVKX.net has all the details."
+description: "Kia EV9 Long Range AWD is an all-electric SUV with a WLTP range of up to 512 km (318 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,17 +29,17 @@ We have separated our Kia EV9 Long Range AWD article into sections. If you want 
 
 ## Performance
 
-The Kia EV9 Long Range AWD has a maximum power of 283 KW (385 hp/380 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 200 km/h.
+The Kia EV9 Long Range AWD has a maximum power of 283 KW (385 hp/380 bhp). The total torque is 600 nm (443 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 99,8kWh and a net capacity of 98kWh, meaning you have a 1,8kWh buffer for protection. (1,8%).
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 497 to 484 km (309-301 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.7kWh/100km for the basic version and 20.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 512 to 505 km (318-314 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.1kWh/100km for the basic version and 19.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 21 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 71%, resulting in an actual charge speed, including time loss, of 161kW. Each charge session would take 26 minutes and 38 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 17 minutes. This trip will require two charge session(s) charging from 1% to 79%. The total time lost for charging up the battery will be 57 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 9 hours and 21 minutes. This trip will require two charge session(s) charging from 0% to 83%. The total time lost for charging up the battery will be 62 minutes.
 
 ### Onboard charger
 

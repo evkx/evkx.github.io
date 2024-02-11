@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Kia EV9 Long Range AWD
 				Vridmoment
 			</td>
 			<td>
-				700 nm
+				600 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Kia EV9 Long Range AWD
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,3 s
+				6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				497 km
+				512 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				19,7 kWh/100km
+				19,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				17,2 kWh/100km
+				22,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				484 km
+				505 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				20,2 kWh/100km
+				19,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				17,2 kwh/100km
+				22,8 kwh/100km
 			</td>
 		</tr>
 		<tr>

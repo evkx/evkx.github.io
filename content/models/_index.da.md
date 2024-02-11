@@ -334,7 +334,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
 	<h2>Kia</h2>
 	<p>
-	Kia har 3 modeller med i alt 7 varianter.
+	Kia har 3 modeller med i alt 10 varianter.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Gå til Kia EV-modeloversigt</a>
 </div>

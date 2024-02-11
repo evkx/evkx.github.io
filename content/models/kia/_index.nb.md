@@ -30,7 +30,7 @@ Kia EV6 er en Coupe SUV tilgjengelig i 5 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Kia EV9 er en SUV tilgjengelig i 1 varianter.
+Kia EV9 er en SUV tilgjengelig i 4 varianter.
 </p>
 	<a href="ev9/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

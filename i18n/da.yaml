@@ -109,6 +109,12 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-21f35009
+  translation: Kia EV9 RWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 443 km (275 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-5af16ab1
+  translation: Kia EV9 Long Range RWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 563 km (350 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-abfe27f9
   translation: Renault Scenic E-Tech electric er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 450 km (280 miles). EVKX.net har alle detaljerne.
 
@@ -150,10 +156,4 @@
 
 - id: frontpage-description-cebe99e4
   translation: Polestar 4 Long range Dual motor er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 580 km (361 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-7d7da23c
-  translation: Honda Prologue AWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 452 km (281 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-aa3af3e9
-  translation: BYD Seal U Design er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 500 km (311 miles). EVKX.net har alle detaljerne.
 

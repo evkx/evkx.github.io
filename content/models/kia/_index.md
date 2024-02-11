@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Kia has currently 3 model with total 7 variants in the market. 
+Kia has currently 3 model with total 10 variants in the market. 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Kia EV6</h3>
@@ -30,7 +30,7 @@ Kia EV6 is a Coupe SUV available in 5 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Kia EV9 is a SUV available in 1 variants.
+Kia EV9 is a SUV available in 4 variants.
 </p>
 	<a href="ev9/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

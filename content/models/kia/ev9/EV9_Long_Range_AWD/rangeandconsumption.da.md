@@ -40,10 +40,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				497 km / 309 mi
+				512 km / 318 mi
 			</td>
 			<td>
-				19,72kWh/100km / 3,2 mi/kWh
+				19,14kWh/100km / 3,2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				484 km / 301 mi
+				505 km / 314 mi
 			</td>
 			<td>
-				20,25 kWh/100km / 3,1 mi/kWh
+				19,41 kWh/100km / 3,2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -113,10 +113,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række grundlæggende trim med 2KW AC
 			</td>
 			<td>
-				 408km / 254 mi 
+				 418km / 260 mi 
 			</td>
 			<td>
-				-17,9%
+				-18,4%
 			</td>
 		</tr>
 		<tr>
@@ -124,10 +124,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række top trim med 2KW AC
 			</td>
 			<td>
-				399 km / 248 mi
+				413 km / 257 mi
 			</td>
 			<td>
-				-17,6%
+				-18,2%
 			</td>
 		</tr>
 		<tr>
@@ -199,13 +199,35 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 		<tr>
 			<td>
+				70mph/112kmh perfekt stand
+			</td>
+			<td>
+				426 km / 265 mi
+			</td>
+			<td>
+				23 kWh/100km / 2,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112kmh med 2KW opvarmning
+			</td>
+			<td>
+				637km / 396mi
+			</td>
+			<td>
+				24,8 kWh/100km / 2,5 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120kmt/75mph perfekt stand
 			</td>
 			<td>
-				392 km / 244 mi
+				377 km / 234 mi
 			</td>
 			<td>
-				25 kWh/100km / 2,5 mi/kWh
+				26 kWh/100km / 2,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -213,10 +235,10 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				120kmt/75mph med 2KW opvarmning
 			</td>
 			<td>
-				368 km /229mi
+				354 km /220mi
 			</td>
 			<td>
-				26,7 kWh/100km /2,3 mi/kWh
+				27,7 kWh/100km /2,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
