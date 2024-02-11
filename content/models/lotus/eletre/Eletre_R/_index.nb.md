@@ -214,6 +214,10 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk filskifte**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Sensorer og kameraer
+
+Denne modellen bruker kameraer, LiDAR og ultralydsensorer for førerassistentsystemene.
+Opptil fire [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

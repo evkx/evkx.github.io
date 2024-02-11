@@ -91,6 +91,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 			<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="mini"><img src="https://media.evkx.net/multimedia/models/mini/logo_xst.png" alt="Mini" title="Mini" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="neta"><img src="https://media.evkx.net/multimedia/models/neta/logo_xst.png" alt="Neta" title="Neta" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -377,6 +380,13 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	MG har 5 modeller med i alt 11 varianter.
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Gå til MG EV-modeloversigt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Mini</h2>
+	<p>
+	Mini har 1 modeller med i alt 1 varianter.
+	</p>
+	<a href="mini/" class="btn btn-outline-primary" role="button">Gå til Mini EV-modeloversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="neta/"><img src="https://media.evkx.net/multimedia/models/neta/brandevs_st.jpg" class="img-fluid mb-2" alt="Neta" ></a>

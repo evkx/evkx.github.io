@@ -91,6 +91,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="mg"><img src="https://media.evkx.net/multimedia/models/mg/logo_xst.png" alt="MG" title="MG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="mini"><img src="https://media.evkx.net/multimedia/models/mini/logo_xst.png" alt="Mini" title="Mini" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="neta"><img src="https://media.evkx.net/multimedia/models/neta/logo_xst.png" alt="Neta" title="Neta" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -458,6 +461,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	MG has 5 models with total 11 variants.
 	</p>
 	<a href="mg/" class="btn btn-outline-primary" role="button">Go to MG EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Mini</h2>
+	<p>
+		Mini is a British car brand that is owned by BMW Group. It is known for its iconic small cars that combine style, performance, and fun. 
+	</p>
+	<p>
+	Mini has 1 models with total 1 variants.
+	</p>
+	<a href="mini/" class="btn btn-outline-primary" role="button">Go to Mini EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="neta/"><img src="https://media.evkx.net/multimedia/models/neta/brandevs_st.jpg" class="img-fluid mb-2" alt="Neta" ></a>

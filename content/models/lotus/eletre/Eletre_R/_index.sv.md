@@ -214,6 +214,10 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Sensorer och kameror
+
+Denna modell använder kameror, LiDAR och ultraljudssensorer för förarassistanssystemen.
+Upp till fyra [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
 

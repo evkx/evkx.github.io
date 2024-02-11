@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-016b49de
+  translation: Mini Cooper SE er en fuldelektrisk premium hatchback med en WLTP rækkevidde på op til 402 km (250 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-21f35009
   translation: Kia EV9 RWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 443 km (275 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-44e86874
   translation: XPENG G6 RWD Long Range er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 755 km (469 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-cebe99e4
-  translation: Polestar 4 Long range Dual motor er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 580 km (361 miles). EVKX.net har alle detaljerne.
 
