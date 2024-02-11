@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 GT-Line range test</h3>
+<p>Bjørn Nyland: 11.02.2024</p>
+
+{{< youtube vS_WP0IyZo0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV9 acceleration and noise test</h3>
 <p>Bjørn Nyland: 10.02.2024</p>
 

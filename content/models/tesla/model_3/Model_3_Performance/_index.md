@@ -213,7 +213,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 ### Sensors & Cameras
 
 This model only uses cameras for the driver assist systems. This design limits the accuracy of the driving assistance systems and makes them more sensitive to weather than cars that also use radar and other sensors.
-It uses eight cameras to register everything in the vehicle's environment.
+It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to register everything in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 

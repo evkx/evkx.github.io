@@ -265,7 +265,7 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 ### Sensorer og kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsystemene.
-Opptil fem radarsensorer, fem kameraer og 12 ultralydsensorer registrerer alt som skjer i kjøretøyets miljø.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

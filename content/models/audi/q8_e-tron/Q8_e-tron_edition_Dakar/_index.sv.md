@@ -295,7 +295,7 @@ Med Assistantpackage Tour  nivå 2-systemet får du fler körautomatiseringsfunk
 ### Sensorer och kameror
 
 Denna modell använder kameror, radar och ultraljudssensorer för förarassistanssystemen.
-Upp till fem radarsensorer, fem kameror och 12 ultraljudssensorer registrerar allt som händer i fordonets miljö.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
 

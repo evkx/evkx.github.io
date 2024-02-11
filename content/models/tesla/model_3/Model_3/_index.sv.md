@@ -210,7 +210,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du fler körautomationsf
 ### Sensorer och kameror
 
 Denna modell använder bara kameror för förarassistanssystemen. Denna design begränsar körassistanssystemens noggrannhet och gör dem mer väderkänsliga än bilar som också använder radar och andra sensorer.
-Den använder sju kameror för att registrera allt i fordonets miljö.
+Den använder sju [kameror](../../../../technology/sensorsandcameras/cameras/) för att registrera allt i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
 

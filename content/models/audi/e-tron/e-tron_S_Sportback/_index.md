@@ -264,7 +264,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
-Up to five radar sensors, five cameras, and 12 ultrasonic sensors register everything that happens in the vehicle's environment.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 
