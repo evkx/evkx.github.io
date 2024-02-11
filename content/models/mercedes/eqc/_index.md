@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqc_400_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqc/eqc_400_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQC 400 4MATIC" ></a>
+<i class="bi bi-battery-full"></i> 86 kWh <i class="bi bi-ev-station"></i> 112 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

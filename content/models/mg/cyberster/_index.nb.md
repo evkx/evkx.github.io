@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="cyberster_awd_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/cyberster/cyberster_awd_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="Cyberster AWD Long Range" ></a>
+<i class="bi bi-battery-full"></i> 77 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

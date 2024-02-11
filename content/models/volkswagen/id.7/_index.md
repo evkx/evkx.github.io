@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.7_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.7 Pro" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.7_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.7 Pro S" ></a>
+<i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="001_fr/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_fr/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="001 FR" ></a>
+<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="001_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_long_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="001 Long Range RWD" ></a>
+<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="001_performance_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_performance_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="001 Performance AWD" ></a>
+<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -65,6 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="001_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/001/001_privilege_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="001 Privilege AWD" ></a>
+<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

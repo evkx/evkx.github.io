@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="seagull_38kwh/"><img src="https://media.evkx.net/multimedia/models/byd/seagull/seagull_38kwh/main_1_xst.jpg" class="img-fluid" width="400px" height="294px" alt="Seagull 38kWh" ></a>
+<i class="bi bi-battery-full"></i> 38,8 kWh <i class="bi bi-ev-station"></i> 40 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

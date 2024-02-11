@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="gv60_2wd/"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_2wd/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="GV60 2WD" ></a>
+<i class="bi bi-battery-full"></i> 77,4 kWh <i class="bi bi-ev-station"></i> 233 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="gv60_awd/"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="GV60 AWD" ></a>
+<i class="bi bi-battery-full"></i> 77,4 kWh <i class="bi bi-ev-station"></i> 233 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="gv60_awd_performance/"><img src="https://media.evkx.net/multimedia/models/genesis/gv60/gv60_awd_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="GV60 AWD Performance" ></a>
+<i class="bi bi-battery-full"></i> 77,4 kWh <i class="bi bi-ev-station"></i> 233 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

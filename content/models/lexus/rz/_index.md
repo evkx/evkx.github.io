@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="rz_450e/"><img src="https://media.evkx.net/multimedia/models/lexus/rz/rz_450e/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="RZ 450e" ></a>
+<i class="bi bi-battery-full"></i> 71,4 kWh <i class="bi bi-ev-station"></i> 147 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

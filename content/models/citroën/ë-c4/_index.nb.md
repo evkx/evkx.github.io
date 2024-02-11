@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ë-c4_x/"><img src="https://media.evkx.net/multimedia/models/citroën/ë-c4/ë-c4_x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ë-C4 X" ></a>
+<i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

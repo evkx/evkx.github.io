@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="atto_3/"><img src="https://media.evkx.net/multimedia/models/byd/atto_3/atto_3/main_1_xst.jpg" class="img-fluid" width="400px" height="288px" alt="Atto 3" ></a>
+<i class="bi bi-battery-full"></i> 60,5 kWh <i class="bi bi-ev-station"></i> 88 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

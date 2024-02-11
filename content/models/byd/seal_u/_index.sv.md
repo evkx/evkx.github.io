@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="seal_u_design/"><img src="https://media.evkx.net/multimedia/models/byd/seal_u/seal_u_design/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="Seal U Design" ></a>
+<i class="bi bi-battery-full"></i> 87 kWh <i class="bi bi-ev-station"></i> 140 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="macan_4/"><img src="https://media.evkx.net/multimedia/models/porsche/macan/macan_4/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Macan 4" ></a>
+<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="macan_turbo/"><img src="https://media.evkx.net/multimedia/models/porsche/macan/macan_turbo/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Macan Turbo" ></a>
+<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

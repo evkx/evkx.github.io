@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_450plus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450plus/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="EQS 450+" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 210 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_450_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_450_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 450 4MATIC" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 210 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_500_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_500_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 500 4MATIC" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 210 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -65,6 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_53_4maticplus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_53_4maticplus/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 53 4MATIC+" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 210 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -83,6 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_580_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 580 4MATIC" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 210 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

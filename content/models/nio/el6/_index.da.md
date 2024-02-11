@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="el6/"><img src="https://media.evkx.net/multimedia/models/nio/el6/el6/main_2_xst.jpg" class="img-fluid" width="400px" height="236px" alt="EL6" ></a>
+<i class="bi bi-battery-full"></i> 75 - 100 kWh <i class="bi bi-ev-station"></i> 126 - 140 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

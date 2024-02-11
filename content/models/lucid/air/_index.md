@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="air_dream_edition_performance/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Dream Edition Performance" ></a>
+<i class="bi bi-battery-full"></i> 118 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="air_dream_edition_range/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_dream_edition_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Dream Edition Range" ></a>
+<i class="bi bi-battery-full"></i> 118 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="air_grand_touring/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Grand Touring" ></a>
+<i class="bi bi-battery-full"></i> 112 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -65,6 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="air_pure/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Pure" ></a>
+<i class="bi bi-battery-full"></i> 94 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -83,6 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="air_sapphire/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_sapphire/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Sapphire" ></a>
+<i class="bi bi-battery-full"></i> 118 kWh <i class="bi bi-ev-station"></i> 300 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

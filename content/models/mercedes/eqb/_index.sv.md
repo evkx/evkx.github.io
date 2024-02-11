@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqb_250/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_250/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQB 250" ></a>
+<i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqb_300_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_300_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQB 300 4MATIC" ></a>
+<i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqb_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqb/eqb_350_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQB 350 4MATIC" ></a>
+<i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

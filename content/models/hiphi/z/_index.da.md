@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="z_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_xst.jpg" class="img-fluid" width="400px" height="198px" alt="Z 4 Seater" ></a>
+<i class="bi bi-battery-full"></i> 125 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="z_5_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_5_seater/main_1_xst.jpg" class="img-fluid" width="400px" height="198px" alt="Z 5 Seater" ></a>
+<i class="bi bi-battery-full"></i> 125 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

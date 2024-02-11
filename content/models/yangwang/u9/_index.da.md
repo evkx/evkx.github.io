@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="u9/"><img src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/main_1_xst.jpg" class="img-fluid" width="400px" height="208px" alt="U9" ></a>
+<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

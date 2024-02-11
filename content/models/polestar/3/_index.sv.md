@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="3_long_range_dual_motor_performance/"><img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="3 Long Range Dual Motor Performance" ></a>
+<i class="bi bi-battery-full"></i> 111 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

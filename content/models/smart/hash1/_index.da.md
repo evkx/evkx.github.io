@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="hash1/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="#1" ></a>
+<i class="bi bi-battery-full"></i> 66 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="hash1_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_brabus/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="#1 Brabus" ></a>
+<i class="bi bi-battery-full"></i> 66 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="hash1_pulse/"><img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="#1 Pulse" ></a>
+<i class="bi bi-battery-full"></i> 66 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_y_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Model Y Long Range" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_y_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Model Y Performance" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_y_standard_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Model Y Standard Range" ></a>
+<i class="bi bi-battery-full"></i> 60 - 70 kWh <i class="bi bi-ev-station"></i> 250 - 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

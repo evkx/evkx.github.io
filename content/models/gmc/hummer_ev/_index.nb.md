@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="hummer_ev_edition_1_pickup/"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Hummer EV Edition 1 Pickup" ></a>
+<i class="bi bi-battery-full"></i> 220 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

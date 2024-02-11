@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i-pace_ev400/"><img src="https://media.evkx.net/multimedia/models/jaguar/i-pace/i-pace_ev400/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="I-Pace EV400" ></a>
+<i class="bi bi-battery-full"></i> 90 kWh <i class="bi bi-ev-station"></i> 104 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

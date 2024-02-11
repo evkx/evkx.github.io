@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="marvel_r_electric/"><img src="https://media.evkx.net/multimedia/models/mg/marvel_r/marvel_r_electric/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Marvel R Electric" ></a>
+<i class="bi bi-battery-full"></i> 75 kWh <i class="bi bi-ev-station"></i> 94 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="marvel_r_electric_performance/"><img src="https://media.evkx.net/multimedia/models/mg/marvel_r/marvel_r_electric_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Marvel R Electric Performance" ></a>
+<i class="bi bi-battery-full"></i> 75 kWh <i class="bi bi-ev-station"></i> 94 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

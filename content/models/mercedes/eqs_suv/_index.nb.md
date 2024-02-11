@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_450plus_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450plus_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 450+ SUV" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_450_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_450_4matic_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 450 4MATIC SUV" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_580_4matic_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 580 4MATIC SUV" ></a>
+<i class="bi bi-battery-full"></i> 125 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -65,6 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_680_suv/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="282px" alt="EQS 680 SUV" ></a>
+<i class="bi bi-battery-full"></i> 125 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -85,6 +89,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_580_4matic_suv_gen1/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQS 580 4MATIC SUV" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -103,6 +108,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqs_680_suv_gen1/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqs_suv/eqs_680_suv/main_1_xst.jpg" class="img-fluid" width="400px" height="282px" alt="EQS 680 SUV" ></a>
+<i class="bi bi-battery-full"></i> 120 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

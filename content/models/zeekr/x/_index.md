@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="x_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_long_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="X Long Range RWD" ></a>
+<i class="bi bi-battery-full"></i> 69 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="x_privilege_awd/"><img src="https://media.evkx.net/multimedia/models/zeekr/x/x_privilege_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="X Privilege AWD" ></a>
+<i class="bi bi-battery-full"></i> 69 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

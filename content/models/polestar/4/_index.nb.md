@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="4_long_range_dual_motor/"><img src="https://media.evkx.net/multimedia/models/polestar/4/4_long_range_dual_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="4 Long range Dual motor" ></a>
+<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

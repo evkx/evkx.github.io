@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ix1_edrive20/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_edrive20/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="iX1 eDrive20" ></a>
+<i class="bi bi-battery-full"></i> 68 kWh <i class="bi bi-ev-station"></i> 130 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ix1_xdrive30/"><img src="https://media.evkx.net/multimedia/models/bmw/ix1/ix1_xdrive30/main_1_xst.jpg" class="img-fluid" width="400px" height="279px" alt="iX1 xDrive30" ></a>
+<i class="bi bi-battery-full"></i> 68 kWh <i class="bi bi-ev-station"></i> 130 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

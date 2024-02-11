@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="enyaq_coupé_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_85x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ COUPÉ 85x" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="enyaq_coupé_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ COUPÉ RS iV" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,6 +51,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="enyaq_coupé_rs_iv_gen1/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ COUPÉ RS iV" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -67,6 +70,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="enyaq_iv80/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Enyaq iV80" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -85,6 +89,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="enyaq_iv80x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_iv80x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Enyaq iV80x" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -103,6 +108,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="enyaq_rs_iv/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs_iv/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ RS iV" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_4s/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Taycan 4S" ></a>
+<i class="bi bi-battery-full"></i> 79,2 - 93,4 kWh <i class="bi bi-ev-station"></i> 225 - 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_4s_cross_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_cross_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan 4S Cross Turismo" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_4s_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4s_sport_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan 4S Sport Turismo" ></a>
+<i class="bi bi-battery-full"></i> 79,2 - 93,4 kWh <i class="bi bi-ev-station"></i> 225 - 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -65,6 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_4_cross_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4_cross_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan 4 Cross Turismo" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -83,6 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_gts/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan GTS" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -101,6 +106,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_gts_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gts_sport_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan GTS Sport Turismo" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -119,6 +125,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Taycan" ></a>
+<i class="bi bi-battery-full"></i> 89 - 105 kWh <i class="bi bi-ev-station"></i> 270 - 320 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -137,6 +144,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan Sport Turismo" ></a>
+<i class="bi bi-battery-full"></i> 79,2 - 93,4 kWh <i class="bi bi-ev-station"></i> 225 - 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -155,6 +163,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_turbo_gen1/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan Turbo" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -173,6 +182,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_turbo_cross_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan Turbo Cross Turismo" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -191,6 +201,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_turbo_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_sport_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan Turbo Sport Turismo" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -209,6 +220,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_turbo_s_cross_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_cross_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan Turbo S Cross Turismo" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -227,6 +239,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_turbo_s/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan Turbo S" ></a>
+<i class="bi bi-battery-full"></i> 105 kWh <i class="bi bi-ev-station"></i> 320 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -245,6 +258,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_turbo_s_sport_turismo/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan Turbo S Sport Turismo" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -265,6 +279,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_gen1/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Taycan" ></a>
+<i class="bi bi-battery-full"></i> 79,2 - 93,4 kWh <i class="bi bi-ev-station"></i> 225 - 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -283,6 +298,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="taycan_turbo_s_gen1/"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Taycan Turbo S" ></a>
+<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

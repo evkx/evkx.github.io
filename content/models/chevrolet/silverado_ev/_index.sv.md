@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="silverado_ev_4wt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Silverado EV 4WT" ></a>
+<i class="bi bi-battery-full"></i> 220 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

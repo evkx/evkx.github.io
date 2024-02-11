@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i4 eDrive35" ></a>
+<i class="bi bi-battery-full"></i> 70,2 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i4_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive40/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i4 eDrive40" ></a>
+<i class="bi bi-battery-full"></i> 83,9 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i4_m50/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_m50/main_1_xst.jpg" class="img-fluid" width="400px" height="333px" alt="i4 M50" ></a>
+<i class="bi bi-battery-full"></i> 83,9 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

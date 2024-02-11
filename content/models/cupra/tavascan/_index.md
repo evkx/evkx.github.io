@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="tavascan_endurance/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_endurance/main_1_xst.JPG" class="img-fluid" width="400px" height="223px" alt="Tavascan Endurance" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="tavascan_vz/"><img src="https://media.evkx.net/multimedia/models/cupra/tavascan/tavascan_vz/main_1_xst.JPG" class="img-fluid" width="400px" height="223px" alt="Tavascan VZ" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

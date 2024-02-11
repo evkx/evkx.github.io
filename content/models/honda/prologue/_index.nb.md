@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="prologue_awd/"><img src="https://media.evkx.net/multimedia/models/honda/prologue/prologue_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="269px" alt="Prologue AWD" ></a>
+<i class="bi bi-battery-full"></i> 85 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

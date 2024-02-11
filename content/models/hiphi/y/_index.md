@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="y_performance/"><img src="https://media.evkx.net/multimedia/models/hiphi/y/y_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="257px" alt="Y Performance" ></a>
+<i class="bi bi-battery-full"></i> 115 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

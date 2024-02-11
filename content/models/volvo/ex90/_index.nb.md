@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ex90_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EX90 Twin Motor" ></a>
+<i class="bi bi-battery-full"></i> 111 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ex90_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex90/ex90_twin_motor_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EX90 Twin Motor Performance" ></a>
+<i class="bi bi-battery-full"></i> 111 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

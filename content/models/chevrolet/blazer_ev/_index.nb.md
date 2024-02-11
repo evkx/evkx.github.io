@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="blazer_ev_rs_awd/"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_rs_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="270px" alt="Blazer EV RS AWD" ></a>
+<i class="bi bi-battery-full"></i> 85 kWh <i class="bi bi-ev-station"></i> 190 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="blazer_ev_ss/"><img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Blazer EV SS" ></a>
+<i class="bi bi-battery-full"></i> 110 kWh <i class="bi bi-ev-station"></i> 190 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

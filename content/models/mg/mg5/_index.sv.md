@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="mg5_electric_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="256px" alt="MG5 Electric Long Range" ></a>
+<i class="bi bi-battery-full"></i> 61,1 kWh <i class="bi bi-ev-station"></i> 87 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="mg5_electric_standard_range/"><img src="https://media.evkx.net/multimedia/models/mg/mg5/mg5_electric_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="256px" alt="MG5 Electric Standard Range" ></a>
+<i class="bi bi-battery-full"></i> 50,3 kWh <i class="bi bi-ev-station"></i> 87 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

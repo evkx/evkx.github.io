@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ariya_63kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_xst.jpg" class="img-fluid" width="400px" height="251px" alt="Ariya 63kWh" ></a>
+<i class="bi bi-battery-full"></i> 66 kWh <i class="bi bi-ev-station"></i> 130 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -29,6 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ariya_87kwh/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh/main_1_xst.jpg" class="img-fluid" width="400px" height="251px" alt="Ariya 87kWh" ></a>
+<i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 130 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -47,6 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ariya_87kwh_e-4orce/"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_87kwh_e-4orce/main_1_xst.jpg" class="img-fluid" width="400px" height="251px" alt="Ariya 87kWh e-4ORCE" ></a>
+<i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 130 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

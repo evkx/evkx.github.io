@@ -11,6 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ix3/"><img src="https://media.evkx.net/multimedia/models/bmw/ix3/ix3/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="iX3" ></a>
+<i class="bi bi-battery-full"></i> 80 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
