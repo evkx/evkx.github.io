@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-965180d0
+  translation: Lexus UX 300e is an all-electric crossover with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details.
+
 - id: frontpage-description-016b49de
   translation: Mini Cooper SE is an all-electric premium hatchback with a WLTP range of up to 402 km (250 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-1ebc0a26
   translation: Mercedes-EQ EQS 580 4MATIC SUV is an all-electric luxury SUV with a WLTP range of up to 673 km (418 miles). EVKX.net has all the details.
-
-- id: frontpage-description-44e86874
-  translation: XPENG G6 RWD Long Range is an all-electric SUV with a CLTC range of up to 755 km (469 miles). EVKX.net has all the details.
 

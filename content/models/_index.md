@@ -414,7 +414,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		The Lexus journey begins in 1983, when a Japanese team of engineers, designers and technicians were assigned a secret project that required them to reimagine luxury automotive. They were to set new standards of production in order to build an ambitious new vehicle that would outshine the world's best.  
 	</p>
 	<p>
-	Lexus has 1 models with total 1 variants.
+	Lexus has 2 models with total 2 variants.
 	</p>
 	<a href="lexus/" class="btn btn-outline-primary" role="button">Go to Lexus EV-model overview</a>
 </div>

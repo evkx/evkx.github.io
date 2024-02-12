@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-965180d0
+  translation: Lexus UX 300e är en helelektrisk crossover med en WLTP räckvidd på upp till 450 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-016b49de
   translation: Mini Cooper SE är en helelektrisk premium halvkombi med en WLTP räckvidd på upp till 402 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-1ebc0a26
   translation: Mercedes-EQ EQS 580 4MATIC SUV är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 673 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-44e86874
-  translation: XPENG G6 RWD Long Range är en helelektrisk SUV med en CLTC räckvidd på upp till 755 km. EVKX.net har alla detaljer.
 

@@ -22,3 +22,17 @@ Lexus RZ er en SUV tilgjengelig i 1 varianter.
 		</div>
 	</div>
 </div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Lexus UX</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ux"><img src="https://media.evkx.net/multimedia/models/lexus/ux/ux_300e/main_1_st.jpg" class="img-fluid" alt="Lexus UX" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Lexus UX er en crossover tilgjengelig i 1 varianter.
+</p>
+	<a href="ux/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>

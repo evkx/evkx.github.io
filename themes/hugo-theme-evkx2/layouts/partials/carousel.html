@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/lexus/ux/ux_300e/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/lexus/ux/ux_300e/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Lexus UX 300e</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-965180d0"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/mini/cooper/cooper_se/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/mini/cooper/cooper_se/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Porsche Taycan Turbo S</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-1acd4168"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/bmw/i5/i5_m60_xdrive_touring/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive_touring/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>BMW i5 M60 xDrive Touring</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-9b4e225d"}}</p>
 				</div>
 			</div>
 		</div>
