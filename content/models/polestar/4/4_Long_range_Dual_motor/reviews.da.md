@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Polestar 4 first impressions</h3>
+<p>Bjørn Nyland: 12.02.2024</p>
+
+{{< youtube L7orNjOhxg8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 4 - fighting the Macan EV without a rear window! REVIEW</h3>
 <p>Autogefühl: 31.01.2024</p>
 
