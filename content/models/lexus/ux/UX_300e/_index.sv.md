@@ -71,8 +71,8 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 2 hjul i storlek från 18 till 20 tum.
+Du kan välja mellan 10 olika färgfärger när du beställer den här modellen.
+Dessutom kan du välja mellan 2 hjul i storlek från 17 till 18 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -98,11 +98,12 @@ Endast en typ av framsäte är tillgänglig i Lexus UX 300e.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
-- elektrisk justering (valfritt)
+- elektrisk justering
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
@@ -118,7 +119,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#heating)
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/secondrowseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
@@ -134,6 +135,12 @@ Det finns ett tillgängligt klimatsystem. Klimatsystemet 2-zone stöder olika te
 
 Lexus UX 300e har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
 
+Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+
+Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
+
+Ratten är elektriskt justerbar.
+
 Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
@@ -144,9 +151,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på Lexus UX 300e.
 
-Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 8.0 tum. Skärmen touch översta mittkonsolen är 12.3 tum.
+Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 7.0 tum.
 
-Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 12.3 tum.
+Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 8.0 tum. Skärmen touch översta mittkonsolen är 12.3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -175,6 +182,10 @@ Lexus UX 300e har flera standard- och valfria [avancerade förarassistanssystem]
 
 
 Lexus UX 300e har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+
+Lexus UX 300e har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+
+Lexus UX 300e har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 

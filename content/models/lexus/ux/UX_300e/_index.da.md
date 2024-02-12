@@ -71,8 +71,8 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 18 til 20 tommer.
+Du kan vælge mellem 10 forskellige malingsfarver, når du bestiller denne model.
+Derudover kan du vælge mellem 2 hjul med størrelser fra 17 til 18 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -98,11 +98,12 @@ Kun én type forsæde er tilgængelig i Lexus UX 300e.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
-- elektrisk justering (valgfrit)
+- elektrisk justering
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
@@ -118,7 +119,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
+- [heating](../../../../technology/seats/adjustment/#heating)
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/secondrowseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
@@ -134,6 +135,12 @@ Der er et tilgængeligt klimasystem. Klimasystemet 2-zone understøtter forskell
 
 Lexus UX 300e har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
 
+Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+
+Keyless go gør det muligt at starte bilen uden at bruge nøglen.
+
+Rattet er elektrisk justerbart.
+
 Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
@@ -144,9 +151,9 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på Lexus UX 300e.
 
-Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 8.0 tommer stor. Skærmen touch øverst på midterkonsollen er 12.3 tommer stor.
+Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 7.0 tommer stor. Skærmen touch øverst på midterkonsollen er 7.0 tommer stor.
 
-Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 7.0 tommer stor. Skærmen touch øverst på midterkonsollen er 12.3 tommer stor.
+Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 8.0 tommer stor. Skærmen touch øverst på midterkonsollen er 12.3 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -175,6 +182,10 @@ Lexus UX 300e har flere standard- og valgfrie [avancerede førerassistentsysteme
 
 
 Lexus UX 300e har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+
+Lexus UX 300e har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+
+Lexus UX 300e har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
