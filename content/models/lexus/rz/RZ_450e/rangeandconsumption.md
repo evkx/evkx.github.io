@@ -213,7 +213,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				70mph/112kmh with 2KW heating
 			</td>
 			<td>
-				415km / 258mi
+				258km / 160mi
 			</td>
 			<td>
 				24,8 kWh/100km / 2,5 mi/kWh  

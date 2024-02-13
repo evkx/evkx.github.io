@@ -143,7 +143,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				70 mph/112 km/h med 2KW uppvärmning
 			</td>
 			<td>
-				651km / 405mi
+				404km / 251mi
 			</td>
 			<td>
 				22,4 kWh/100km / 2,8 mi/kWh  

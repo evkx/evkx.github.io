@@ -165,7 +165,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				70mph/112kmh med 2KW opvarmning
 			</td>
 			<td>
-				650km / 404mi
+				404km / 251mi
 			</td>
 			<td>
 				22,8 kWh/100km / 2,7 mi/kWh  
