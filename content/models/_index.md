@@ -534,7 +534,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Polestar is a Swedish electric vehicle (EV) brand that was launched in 2017 as a standalone brand under the Volvo Car Group and its parent company, Geely Holding. Polestar's focus is on developing premium electric cars that combine cutting-edge technology, sustainable materials, and minimalist design.
 	</p>
 	<p>
-	Polestar has 3 models with total 5 variants.
+	Polestar has 3 models with total 6 variants.
 	</p>
 	<a href="polestar/" class="btn btn-outline-primary" role="button">Go to Polestar EV-model overview</a>
 </div>

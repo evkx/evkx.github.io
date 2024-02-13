@@ -44,7 +44,7 @@ Polestar 3 er en SUV tilgjengelig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Polestar 4 er en Coupe SUV tilgjengelig i 1 varianter.
+Polestar 4 er en Coupe SUV tilgjengelig i 2 varianter.
 </p>
 	<a href="4/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

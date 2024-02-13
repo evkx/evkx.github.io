@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-f069a415
+  translation: Polestar 4 Long range Single motor är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 610 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-965180d0
   translation: Lexus UX 300e är en helelektrisk crossover med en WLTP räckvidd på upp till 450 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-e2c47898
   translation: Peugot E-308 är en helelektrisk halvkombi med en WLTP räckvidd på upp till 410 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-1ebc0a26
-  translation: Mercedes-EQ EQS 580 4MATIC SUV är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 673 km. EVKX.net har alla detaljer.
 

@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/polestar/4/4_long_range_single_motor/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/polestar/4/4_long_range_single_motor/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Polestar 4 Long range Single motor</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-f069a415"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/lexus/ux/ux_300e/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/lexus/ux/ux_300e/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Renault Scenic E-Tech electric</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-abfe27f9"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/porsche/taycan/taycan_turbo_s/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Porsche Taycan Turbo S</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-1acd4168"}}</p>
 				</div>
 			</div>
 		</div>
