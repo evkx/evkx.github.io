@@ -55,7 +55,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Polestar 4 Long range Single motor has an all-wheel drive system supported by two motors, one on each axle.
+Polestar 4 Long range Single motor has a rear-wheel drive system supported by one motor on the rear axle.
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 166 mm.
 
