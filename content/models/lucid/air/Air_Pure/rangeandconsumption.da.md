@@ -35,6 +35,32 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 	<tbody>
 		<tr>
 			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP række grundlæggende trim
+				</a>
+			</td>
+			<td>
+				747 km / 464 mi
+			</td>
+			<td>
+				12,32kWh/100km / 5,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP række top trim
+				</a>
+			</td>
+			<td>
+				708 km / 440 mi
+			</td>
+			<td>
+				12,99 kWh/100km / 4,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="../../../../../guides/understandingrange/epa/ ">
 					EPA rækkevidde minimum trim
 				</a>
@@ -82,6 +108,28 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP række grundlæggende trim med 2KW AC
+			</td>
+			<td>
+				 554km / 344 mi 
+			</td>
+			<td>
+				-25,8%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP række top trim med 2KW AC
+			</td>
+			<td>
+				532 km / 331 mi
+			</td>
+			<td>
+				-24,9%
+			</td>
+		</tr>
 		<tr>
 			<td>
 				EPA-serie grundlæggende trim med 2KW AC

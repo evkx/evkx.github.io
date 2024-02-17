@@ -160,7 +160,7 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgængelig for Lucid Air Dream Edition Performance. Med Surreal Sound System får du 21 højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Lucid Air Dream Edition Performance. Med Surreal Sound får du ni højttalere med en maksimal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
 
 Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 

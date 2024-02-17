@@ -80,6 +80,38 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
+				WLTP-område for grunnleggende trim
+			</td>
+			<td>
+				747 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP-forbruk
+			</td>
+			<td>
+				12,3 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt WLTP-rekkevidde
+			</td>
+			<td>
+				708 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topputstyrt WLTP-forbruk
+			</td>
+			<td>
+				13,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				EPA-rekkevidde
 			</td>
 			<td>
@@ -1046,6 +1078,80 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Antall tilgjengelige lydsystemer
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Surreal Sound
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antall høyttalere
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				800
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Surreal Sound Pro
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antall høyttalere
+			</td>
+			<td>
+				21
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

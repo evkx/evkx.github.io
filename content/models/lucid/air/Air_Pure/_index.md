@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Pure
 linktitle: "Air Pure"
-description: "Lucid Air Pure is an all-electric sedan with a EPA range of up to 660 km (410 miles). EVKX.net has all the details."
+description: "Lucid Air Pure is an all-electric sedan with a WLTP range of up to 747 km (464 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Lucid Air Pure has a maximum power of 320 KW (435 hp/429 bhp). The total tor
 
 The battery has a gross capacity of 94kWh and a net capacity of 92kWh, meaning you have a 2kWh buffer for protection. (2,1%).
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 410 miles (660 km). The consumption is 4.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 747 to 708 km (464-440 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.3kWh/100km for the basic version and 13.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 49%, resulting in an actual charge speed, including time loss, of 163kW. Each charge session would take 16 minutes and 18 seconds.
 
@@ -154,7 +154,7 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the Lucid Air Pure. With the Surreal Sound System, you get 21 speakers with a max system output of  watts.
+You can choose between two sound systems on the Lucid Air Pure. With the Surreal Sound, you get nine speakers with a max system output of 800 watts. With the Surreal Sound Pro, you get 21 speakers with a max system output of 800 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 

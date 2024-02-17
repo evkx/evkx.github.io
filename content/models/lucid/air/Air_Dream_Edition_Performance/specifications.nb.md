@@ -1114,6 +1114,80 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 	</tbody>
 </table>
+		<tr>
+			<td>
+				Antall tilgjengelige lydsystemer
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Surreal Sound
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antall høyttalere
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				300
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Surreal Sound Pro
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antall høyttalere
+			</td>
+			<td>
+				21
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				800
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ladekurve </strong>

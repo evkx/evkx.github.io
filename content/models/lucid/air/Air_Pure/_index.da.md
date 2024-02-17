@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Pure
 linktitle: "Air Pure"
-description: "Lucid Air Pure er en fuldelektrisk sedan med en EPA rækkevidde på op til 660 km (410 miles). EVKX.net har alle detaljerne."
+description: "Lucid Air Pure er en fuldelektrisk sedan med en WLTP rækkevidde på op til 747 km (464 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Lucid Air Pure har en maksimal effekt på 320 KW (435 hk/429 hk). Det samlede dr
 
 Batteriet har en bruttokapacitet på 94kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2,1%).
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 410 miles (660 km). Forbruget er 4.5mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 747 til 708 km (464-440 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.3kWh/100 km for basisversionen og 13.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 163kW. Hver opladningssession ville tage 16 minutter og 18 sekunder.
 
@@ -154,7 +154,7 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgængelig for Lucid Air Pure. Med Surreal Sound System får du 21 højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Lucid Air Pure. Med Surreal Sound får du ni højttalere med en maksimal systemeffekt på 800 watt. Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
 
 Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 

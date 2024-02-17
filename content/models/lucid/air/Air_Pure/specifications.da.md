@@ -80,6 +80,38 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
+				Basic trim WLTP range
+			</td>
+			<td>
+				747 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP-forbrug
+			</td>
+			<td>
+				12,3 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrim WLTP-område
+			</td>
+			<td>
+				708 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrim WLTP-forbrug
+			</td>
+			<td>
+				13,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				EPA-område
 			</td>
 			<td>
@@ -1046,6 +1078,80 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Antal tilgængelige lydsystemer
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Surreal Sound
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antal højttalere
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				800
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Surreal Sound Pro
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antal højttalere
+			</td>
+			<td>
+				21
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Samlet effekt
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

@@ -80,6 +80,38 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
+				WLTP-räckvidd för grundläggande trim
+			</td>
+			<td>
+				747 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP-förbrukning
+			</td>
+			<td>
+				12,3 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topptrim WLTP-räckvidd
+			</td>
+			<td>
+				708 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topptrim WLTP-förbrukning
+			</td>
+			<td>
+				13,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				EPA räckvidd
 			</td>
 			<td>
@@ -1046,6 +1078,80 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Antal tillgängliga ljudsystem
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Surreal Sound
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antal högtalare
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				800
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Surreal Sound Pro
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antal högtalare
+			</td>
+			<td>
+				21
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

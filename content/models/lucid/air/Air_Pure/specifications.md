@@ -80,6 +80,38 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+			</td>
+			<td>
+				747 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+			</td>
+			<td>
+				12,3 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
+			</td>
+			<td>
+				708 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
+			</td>
+			<td>
+				13,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
@@ -1046,6 +1078,80 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Number of avaiable sound systems
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Surreal Sound
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				800
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Surreal Sound Pro
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				21
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				800
 			</td>
 		</tr>
 	</tbody>

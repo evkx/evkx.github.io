@@ -159,7 +159,7 @@ Modellen är inte tillgänglig med head-up display.
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Lucid Air Sapphire. Med Surreal Sound System får du 21 högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Lucid Air Sapphire. Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 

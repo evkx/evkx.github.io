@@ -35,6 +35,32 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 	<tbody>
 		<tr>
 			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP-seriens grundläggande utrustningsnivå
+				</a>
+			</td>
+			<td>
+				747 km / 464 mi
+			</td>
+			<td>
+				12,32kWh/100km / 5,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP-räckvidd max utrustningsnivå
+				</a>
+			</td>
+			<td>
+				708 km / 440 mi
+			</td>
+			<td>
+				12,99 kWh/100km / 4,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="../../../../../guides/understandingrange/epa/ ">
 					EPA-räckvidd lägsta utrustningsnivå
 				</a>
@@ -82,6 +108,28 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-seriens grundutrustningsnivå med 2KW AC
+			</td>
+			<td>
+				 554km / 344 mi 
+			</td>
+			<td>
+				-25,8%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-räckvidd max trimnivå med 2KW AC
+			</td>
+			<td>
+				532 km / 331 mi
+			</td>
+			<td>
+				-24,9%
+			</td>
+		</tr>
 		<tr>
 			<td>
 				EPA-seriens grundläggande trimnivå med 2KW AC

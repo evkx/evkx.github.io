@@ -1114,6 +1114,80 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 	</tbody>
 </table>
+		<tr>
+			<td>
+				Antal tillgängliga ljudsystem
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Surreal Sound
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antal högtalare
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				300
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Surreal Sound Pro
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Antal högtalare
+			</td>
+			<td>
+				21
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effekt
+			</td>
+			<td>
+				800
+			</td>
+		</tr>
+	</tbody>
+</table>
 <div class="mt-3 mb-3">
 <a href="../chargingcurve/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Laddningskurva </strong>

@@ -1,7 +1,7 @@
 ---
 title: Lucid Air Pure
 linktitle: "Air Pure"
-description: "Lucid Air Pure er en helelektrisk sedan med en EPA rekkevidde på opptil 660 km. EVKX.net har alle detaljene."
+description: "Lucid Air Pure er en helelektrisk sedan med en WLTP rekkevidde på opptil 747 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Lucid Air Pure har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 
 
 Batteriet har en bruttokapasitet på 94kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2,1%).
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 410 miles (660 km). Forbruket er 4.5mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 747 til 708 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.3kWh/100 km for basisversjonen og 13.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 163kW. Hver ladeøkt vil ta 16 minutter og 18 sekunder.
 
@@ -154,7 +154,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Lucid Air Pure. Med Surreal Sound System får du 21 høyttalere med en maksimal systemeffekt på  watt.
+Du kan velge mellom to lydsystemer på Lucid Air Pure. Med Surreal Sound får du ni høyttalere med en maksimal systemeffekt på 800 watt. Med Surreal Sound Pro får du 21 høyttalere med en maksimal systemeffekt på 800 watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
