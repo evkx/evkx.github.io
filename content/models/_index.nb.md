@@ -76,6 +76,9 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 			<a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="lancia"><img src="https://media.evkx.net/multimedia/models/lancia/logo_xst.png" alt="Lancia" title="Lancia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="lexus"><img src="https://media.evkx.net/multimedia/models/lexus/logo_xst.png" alt="Lexus" title="Lexus" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -343,6 +346,14 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	Kia har 3 modell(er) med totalt 10 varianter.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Gå til Kia modelloversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="lancia/"><img src="https://media.evkx.net/multimedia/models/lancia/brandevs_st.jpg" class="img-fluid mb-2" alt="Lancia" ></a>
+	<h2>Lancia</h2>
+	<p>
+	Lancia har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="lancia/" class="btn btn-outline-primary" role="button">Gå til Lancia modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>

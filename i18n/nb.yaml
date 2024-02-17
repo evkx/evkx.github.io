@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-5b7a133a
+  translation: Lancia Ypsilon er en helelektrisk kombi med en WLTP rekkevidde på opptil 403 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-f069a415
   translation: Polestar 4 Long range Single motor er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-1beeb3ae
   translation: Peugot E-308 SW er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 410 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-e2c47898
-  translation: Peugot E-308 er en helelektrisk kombi med en WLTP rekkevidde på opptil 410 km. EVKX.net har alle detaljene.
 

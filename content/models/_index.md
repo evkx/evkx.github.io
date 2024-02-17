@@ -76,6 +76,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="lancia"><img src="https://media.evkx.net/multimedia/models/lancia/logo_xst.png" alt="Lancia" title="Lancia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="lexus"><img src="https://media.evkx.net/multimedia/models/lexus/logo_xst.png" alt="Lexus" title="Lexus" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -406,6 +409,17 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	Kia has 3 models with total 10 variants.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Go to Kia EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="lancia/"><img src="https://media.evkx.net/multimedia/models/lancia/brandevs_st.jpg" class="img-fluid mb-2" alt="Lancia" ></a>
+	<h2>Lancia</h2>
+	<p>
+		Lancia is a historic Italian car brand that is owned by Stellantis, the world's fourth-largest automaker. Lancia is known for its stylish and innovative cars, such as the Stratos, the Delta, and the Ypsilon.
+	</p>
+	<p>
+	Lancia has 1 models with total 1 variants.
+	</p>
+	<a href="lancia/" class="btn btn-outline-primary" role="button">Go to Lancia EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="lexus/"><img src="https://media.evkx.net/multimedia/models/lexus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lexus" ></a>
