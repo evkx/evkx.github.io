@@ -1118,7 +1118,7 @@ This model is available with a seat configuration with five seats.
 				Total effect
 			</td>
 			<td>
-				800
+				300
 			</td>
 		</tr>
 	</tbody>

@@ -1118,7 +1118,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Total effekt
 			</td>
 			<td>
-				800
+				300
 			</td>
 		</tr>
 	</tbody>

@@ -55,7 +55,7 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 
 ## Drivetrain
 
-Tesla Model X Plaid har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
+Tesla Model X Plaid har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 117 mm, og maksimum er 158 mm.
 

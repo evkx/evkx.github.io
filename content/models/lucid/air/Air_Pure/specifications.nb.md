@@ -1118,7 +1118,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Total effekt
 			</td>
 			<td>
-				800
+				300
 			</td>
 		</tr>
 	</tbody>

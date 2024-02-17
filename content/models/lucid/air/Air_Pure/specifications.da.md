@@ -1118,7 +1118,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Samlet effekt
 			</td>
 			<td>
-				800
+				300
 			</td>
 		</tr>
 	</tbody>

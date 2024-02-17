@@ -154,7 +154,7 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-You can choose between two sound systems on the Lucid Air Pure. With the Surreal Sound, you get nine speakers with a max system output of 800 watts. With the Surreal Sound Pro, you get 21 speakers with a max system output of 800 watts.
+You can choose between two sound systems on the Lucid Air Pure. With the Surreal Sound, you get nine speakers with a max system output of 300 watts. With the Surreal Sound Pro, you get 21 speakers with a max system output of 800 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 

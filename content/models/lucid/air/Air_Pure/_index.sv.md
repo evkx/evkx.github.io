@@ -154,7 +154,7 @@ Modellen är inte tillgänglig med head-up display.
 
 ## Infotainment
 
-Du kan välja mellan två ljudsystem på Lucid Air Pure. Med Surreal Sound får du nio högtalare med en maximal systemeffekt på 800 watt. Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
+Du kan välja mellan två ljudsystem på Lucid Air Pure. Med Surreal Sound får du nio högtalare med en maximal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
