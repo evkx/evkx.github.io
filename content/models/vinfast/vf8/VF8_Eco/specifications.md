@@ -1,15 +1,15 @@
 ---
-title: VinFast VF8 Plus specifications
+title: VinFast VF8 Eco specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for VinFast VF8 Plus."
+description: "EVKX.net gives you the full specifications for VinFast VF8 Eco."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/main_1_st.jpg" title="VinFast VF8 Plus" width="3000" height="1687" >}}
-EVKX.net seeks to have the most complete specifications for VinFast VF8 Plus. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of VinFast VF8 Plus, visit the [chargeinfo](../chargecurve/) for VinFast VF8 Plus with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/main_1_st.jpg" title="VinFast VF8 Eco" width="3000" height="1687" >}}
+EVKX.net seeks to have the most complete specifications for VinFast VF8 Eco. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of VinFast VF8 Eco, visit the [chargeinfo](../chargecurve/) for VinFast VF8 Eco with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for VinFast VF8 Plus. Cl
 				Peak power
 			</td>
 			<td>
-				300 KW (408 hp /402 bhp)
+				260 KW (354 hp /349 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for VinFast VF8 Plus. Cl
 				Electrical torque output
 			</td>
 			<td>
-				620 nm (458 ft-lb)
+				500 nm (369 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for VinFast VF8 Plus. Cl
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,5 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				447 km
+				471 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				19,6 kWh/100km
+				18,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
-				391 mi
+				425 mi
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				4,5 mi/kWh
+				4,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -672,7 +672,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>

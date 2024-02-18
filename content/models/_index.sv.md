@@ -539,9 +539,10 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="toyota/" class="btn btn-outline-primary" role="button">Gå till Toyota modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="vinfast/"><img src="https://media.evkx.net/multimedia/models/vinfast/brandevs_st.jpg" class="img-fluid mb-2" alt="VinFast" ></a>
 	<h2>VinFast</h2>
 	<p>
-	VinFast har 1 modell(er) med totalt 1 varianter.
+	VinFast har 1 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="vinfast/" class="btn btn-outline-primary" role="button">Gå till VinFast modellöversikt</a>
 </div>

@@ -1,7 +1,7 @@
 ---
-title: VinFast VF8 Plus
-linktitle: "VF8 Plus"
-description: "VinFast VF8 Plus er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 447 km (278 miles). EVKX.net har alle detaljerne."
+title: VinFast VF8 Eco
+linktitle: "VF8 Eco"
+description: "VinFast VF8 Eco er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 471 km (293 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/main_1_st.jpg" title="VinFast VF8 Plus" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/main_1_st.jpg" title="VinFast VF8 Eco" width="3000" height="1687"  >}}
 
-Vi har opdelt vores VinFast VF8 Plus artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer]( specifikationer/), et [billedgalleri](galleri/), detaljerede oplysninger om [opladningsydelse](opladningskurve/), og nogle [online anmeldelser](anmeldelser/). Vores sektioner:
+Vi har opdelt vores VinFast VF8 Eco artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer]( specifikationer/), et [billedgalleri](galleri/), detaljerede oplysninger om [opladningsydelse](opladningskurve/), og nogle [online anmeldelser](anmeldelser/). Vores sektioner:
 
 - [Ydeevne](#performance)
 - [Batteri, rækkevidde og opladning](#battery-range-and-charging)
@@ -29,13 +29,13 @@ Vi har opdelt vores VinFast VF8 Plus artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-VinFast VF8 Plus har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 620 nm (458 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder. Tophastigheden er 200 km/t.
+VinFast VF8 Eco har en maksimal effekt på 260 KW (354 hk/349 hk). Det samlede drejningsmoment er 500 nm (369 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,9 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
 Batteriet har en bruttokapacitet på 94kWh og en nettokapacitet på 87,7kWh, hvilket betyder, at du har en 6,3kWh buffer til beskyttelse. (6,7%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 447 km (278 mi). Forbruget er 19.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 471 km (293 mi). Forbruget er 18.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 110kW. En fuld opladning fra 0 - 100 % ville tage 105 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 44 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 11% til 70%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 77kW. Hver opladningssession ville tage 40 minutter og 4 sekunder.
 
@@ -53,13 +53,13 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-VinFast VF8 Plus har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+VinFast VF8 Eco har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 175 mm.
 
 ### Køretilstande
 
-VinFast VF8 Plus lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
+VinFast VF8 Eco lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
 
 - Eco Mode: Effektiv gas.
 - Normal Mode: Balanceret gasspjæld.
@@ -78,12 +78,12 @@ Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/exterior_1_st.jpg" title="VinFast VF8 Plus" width="2048" height="1365"  >}}
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/exterior_1_st.jpg" title="VinFast VF8 Eco" width="2048" height="1365"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -92,11 +92,11 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Du kan vælge mellem flere interiørdesigns.
+
 
 ### Første række sæder
 
-Kun én type forsæde er tilgængelig i VinFast VF8 Plus.
+Kun én type forsæde er tilgængelig i VinFast VF8 Eco.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -104,14 +104,10 @@ Følgende funktioner er tilgængelige på **** sædet.
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -126,7 +122,7 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 
 
 Der er kun én type rat tilgængelig.
@@ -137,7 +133,7 @@ Der er et tilgængeligt klimasystem. Klimasystemet  understøtter forskellige te
 
 ## Komfort
 
-VinFast VF8 Plus har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+VinFast VF8 Eco har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
 
 Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
 
@@ -151,20 +147,20 @@ Rattet er elektrisk justerbart.
 
 ## Brugergrænseflade og kontrol
 
-VinFast VF8 Plus har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 15.6 tommer stor.
+VinFast VF8 Eco har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 15.6 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/screens_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/screens_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
 ## Infotainment
 
-Én type lydsystem er tilgængelig for VinFast VF8 Plus. Med  får du 11 højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for VinFast VF8 Eco. Med  får du 11 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter VinFast VF8 Plus Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter VinFast VF8 Eco Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 4 USB-A-forbindelser som standard.
 ## Lys
@@ -172,22 +168,22 @@ Modellen har 1 USB-C-forbindelser som standard. Modellen har 4 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
 ## Avancerede førerassistentsystemer
 
-VinFast VF8 Plus har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+VinFast VF8 Eco har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 ### Sikkerhedssystemer
 
 
 
-VinFast VF8 Plus har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+VinFast VF8 Eco har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
-VinFast VF8 Plus har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+VinFast VF8 Eco har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-VinFast VF8 Plus har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+VinFast VF8 Eco har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er en standard førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-VinFast VF8 Plus har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
+VinFast VF8 Eco har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
 [**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 

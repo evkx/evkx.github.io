@@ -153,6 +153,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				87,7 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				110 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				403
+			</td>
+		</tr>
 	</tbody>
 </table>
 

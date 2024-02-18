@@ -1,15 +1,15 @@
 ---
-title: VinFast VF8 Plus Specifikationer
+title: VinFast VF8 Eco Specifikationer
 linktitle: "Specifikationer"
-description: "EVKX.net ger dig alla specifikationer för VinFast VF8 Plus."
+description: "EVKX.net ger dig alla specifikationer för VinFast VF8 Eco."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/main_1_st.jpg" title="VinFast VF8 Plus" width="3000" height="1687" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för VinFast VF8 Plus. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av VinFast VF8 Plus, gå till [chargeinfo](../chargecurve/) för VinFast VF8 Plus med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/main_1_st.jpg" title="VinFast VF8 Eco" width="3000" height="1687" >}}
+EVKX.net vill ha de mest kompletta specifikationerna för VinFast VF8 Eco. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av VinFast VF8 Eco, gå till [chargeinfo](../chargecurve/) för VinFast VF8 Eco med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för VinFast VF8 Plus. Klic
 				Max effekt
 			</td>
 			<td>
-				300 KW (408 hk)
+				260 KW (354 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för VinFast VF8 Plus. Klic
 				Vridmoment
 			</td>
 			<td>
-				620 nm
+				500 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för VinFast VF8 Plus. Klic
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,5 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd
 			</td>
 			<td>
-				447 km
+				471 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				19,6 kWh/100km
+				18,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA räckvidd
 			</td>
 			<td>
-				391 mi
+				425 mi
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				4,5 mi/kWh
+				4,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -672,7 +672,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

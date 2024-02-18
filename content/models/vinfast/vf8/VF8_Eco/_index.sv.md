@@ -1,7 +1,7 @@
 ---
-title: VinFast VF8 Plus
-linktitle: "VF8 Plus"
-description: "VinFast VF8 Plus är en helelektrisk SUV med en WLTP räckvidd på upp till 447 km. EVKX.net har alla detaljer."
+title: VinFast VF8 Eco
+linktitle: "VF8 Eco"
+description: "VinFast VF8 Eco är en helelektrisk SUV med en WLTP räckvidd på upp till 471 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/main_1_st.jpg" title="VinFast VF8 Plus" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/main_1_st.jpg" title="VinFast VF8 Eco" width="3000" height="1687"  >}}
 
-Vi har delat in vår beskrivning av VinFast VF8 Plus i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av VinFast VF8 Eco i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#ytelse)
 - [Batteri, räckvidd och laddning](#battery-range-and-charging)
@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av VinFast VF8 Plus i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-VinFast VF8 Plus har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 200 km/h.
+VinFast VF8 Eco har en maximal effekt på 260 KW (354hk). Totalt vridmoment är 500 Nm. Den gör sprinten 0-100 km/h på 5,9 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
 Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 87,7kWh, vilket innebär att du har en 6,3kWh buffert för skydd. (6,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 447 km. Förbrukningen är 19.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 471 km. Förbrukningen är 18.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 105 minuter, medan ett vanligare scenario på 10-80 % tar 44 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 11% till 70%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 40 minuter och 4 sekunder.
 
@@ -53,13 +53,13 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-VinFast VF8 Plus har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+VinFast VF8 Eco har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 175 mm.
 
 ### Körlägen
 
-VinFast VF8 Plus låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
+VinFast VF8 Eco låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
 
 - Eco Mode: Effektiv gass.
 - Normal Mode: Balansert gass.
@@ -78,12 +78,12 @@ Du kan välja mellan 8 olika färgfärger när du beställer den här modellen.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
-Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
 
 B-stolpen och vyerna bak är tonade.
 
 
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/exterior_1_st.jpg" title="VinFast VF8 Plus" width="2048" height="1365"  >}}
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/exterior_1_st.jpg" title="VinFast VF8 Eco" width="2048" height="1365"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -92,11 +92,11 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Du kan välja mellan flera inredningsdesigner.
+
 
 ### Framsäten
 
-Endast en typ av framsäte är tillgänglig i VinFast VF8 Plus.
+Endast en typ av framsäte är tillgänglig i VinFast VF8 Eco.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -104,14 +104,10 @@ Följande funktioner är tillgängliga på **** sätet.
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -126,7 +122,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 
 
 Det finns bara en typ av ratt tillgänglig.
@@ -137,7 +133,7 @@ Det finns ett tillgängligt klimatsystem. Klimatsystemet  stöder olika temperat
 
 ## Tröst
 
-VinFast VF8 Plus har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+VinFast VF8 Eco har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
 
 Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
 
@@ -151,20 +147,20 @@ Ratten är elektriskt justerbar.
 
 ## Användargränssnitt och kontroll
 
-VinFast VF8 Plus har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 15.6 tum.
+VinFast VF8 Eco har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 15.6 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/screens_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/screens_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för VinFast VF8 Plus. Med  får du 11 högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för VinFast VF8 Eco. Med  får du 11 högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder VinFast VF8 Plus Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder VinFast VF8 Eco Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 4 USB-A-anslutningar som standard.
 ## Ljus
@@ -172,22 +168,22 @@ Modellen har 1 USB-C-anslutningar som standard. Modellen har 4 USB-A-anslutninga
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
 ## Avancerade förarassistanssystem
 
-VinFast VF8 Plus har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+VinFast VF8 Eco har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 ### Säkerhetssystem
 
 
 
-VinFast VF8 Plus har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+VinFast VF8 Eco har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
-VinFast VF8 Plus har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+VinFast VF8 Eco har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
 
-VinFast VF8 Plus har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+VinFast VF8 Eco har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) är standard förarassistanssystem som använder sensorer för att detektera närmar sig fordon från sidan när du backar ut från en parkeringsplats eller uppfart.
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 
-VinFast VF8 Plus har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+VinFast VF8 Eco har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
 [**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 

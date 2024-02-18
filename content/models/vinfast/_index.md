@@ -16,7 +16,7 @@ VinFast produces electric vehicles, such as electric cars, electric scooters, an
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-VinFast VF8 is a SUV available in 1 variants.
+VinFast VF8 is a SUV available in 2 variants.
 </p>
 	<a href="vf8/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

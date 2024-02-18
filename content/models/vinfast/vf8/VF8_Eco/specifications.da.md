@@ -1,15 +1,15 @@
 ---
-title: VinFast VF8 Plus specifikationer
+title: VinFast VF8 Eco specifikationer
 linktitle: "Specifikationer"
-description: "EVKX.net giver dig de fulde specifikationer for VinFast VF8 Plus."
+description: "EVKX.net giver dig de fulde specifikationer for VinFast VF8 Eco."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/main_1_st.jpg" title="VinFast VF8 Plus" width="3000" height="1687" >}}
-EVKX.net søger at have de mest komplette specifikationer for VinFast VF8 Plus. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af VinFast VF8 Plus, besøg [chargeinfo](../chargecurve/) for VinFast VF8 Plus med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/main_1_st.jpg" title="VinFast VF8 Eco" width="3000" height="1687" >}}
+EVKX.net søger at have de mest komplette specifikationer for VinFast VF8 Eco. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af VinFast VF8 Eco, besøg [chargeinfo](../chargecurve/) for VinFast VF8 Eco med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for VinFast VF8 Plus. 
 				Popeffekt
 			</td>
 			<td>
-				300 KW (408 hk /402 hk)
+				260 KW (354 hk /349 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for VinFast VF8 Plus. 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				620 nm (458 ft-lb)
+				500 nm (369 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for VinFast VF8 Plus. 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,5 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-område
 			</td>
 			<td>
-				447 km
+				471 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				19,6 kWh/100km
+				18,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-område
 			</td>
 			<td>
-				391 mi
+				425 mi
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-forbrug
 			</td>
 			<td>
-				4,5 mi/kWh
+				4,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -672,7 +672,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

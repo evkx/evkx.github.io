@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-c21dd820
+  translation: VinFast VF8 Eco er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 471 km (293 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-c57491dd
   translation: VinFast VF8 Plus er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 447 km (278 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b279832a
   translation: Opel Astra Electric er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 413 km (257 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-7f7a00b6
-  translation: Opel Astra Sports Tourer Electric er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 413 km (257 miles). EVKX.net har alle detaljerne.
 

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Test av Hyundai Kona - en fullverdig familiebil?</h3>
+<p>Norsk elbilforening: 18.02.2024</p>
+
+{{< youtube 8O5rIkSGgmo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>SHOOTOUT: 2024 Kia Niro EV vs Hyundai Kona Electric</h3>
 <p>Electrifying: 07.01.2024</p>
 
