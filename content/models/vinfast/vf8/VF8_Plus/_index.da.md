@@ -29,7 +29,7 @@ Vi har opdelt vores VinFast VF8 Plus artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-VinFast VF8 Plus har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 620 nm (458 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder.
+VinFast VF8 Plus har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 620 nm (458 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
@@ -45,7 +45,7 @@ Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % vill
 
 ### Ladeport
 
-Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -53,15 +53,24 @@ Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS C
 
 ## Drivetrain
 
-VinFast VF8 Plus har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
+VinFast VF8 Plus har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
--ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 175 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 175 mm.
+
+### Køretilstande
+
+VinFast VF8 Plus lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
+
+- Eco Mode: Effektiv gas.
+- Normal Mode: Balanceret gasspjæld.
+- Sport Mode: Dynamisk gasspjæld.
+
 
 ### Bremser
 
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 341mm.
 
-
-
+[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model. Du kan vælge mellem to stoptilstande til kørsel med én pedal. Rulletilstand får køretøjet til at rulle, indtil det stopper af sig selv, og krybetilstand vil krybe bilen fremad ved lav hastighed . Du kan justere, hvor stærk regen du får, når du løfter foden. Der er to niveauer.
 
 ## Udvendig
 
@@ -83,7 +92,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-
+Du kan vælge mellem flere interiørdesigns.
 
 ### Første række sæder
 
@@ -92,12 +101,17 @@ Kun én type forsæde er tilgængelig i VinFast VF8 Plus.
 Følgende funktioner er tilgængelige på **** sædet.
 
 - elektrisk justering
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -105,16 +119,11 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 
-Følgende funktioner er tilgængelige på **** sædet.
+Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
-
 
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
@@ -195,7 +204,7 @@ Med Highway Assist  niveau 2-systemet får du følgende køreautomatiseringsfunk
 ### Sensorer og kameraer
 
 Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsystemerne.
-driverassistance.CameraRadarUltrasonic.TrueFalseFalseFalse
+Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -203,9 +212,9 @@ driverassistance.CameraRadarUltrasonic.TrueFalseFalseFalse
 
 ## Lastkapacitet og træk-kapacitet
 
+Lagekapaciteten i bagagerummet er 376 liter. Med bagsædet nede er det 1373 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 78 liter (2,8 CU FT). Bilens maksimale vægt er 3075 kg (6779 lbs), og med basisvægten på 2600 kg (5732 lbs), kan du maksimalt laste 475 kg (1047 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 475kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
-
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
+Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
 </a>

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av VinFast VF8 Plus i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-VinFast VF8 Plus har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder.
+VinFast VF8 Plus har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -45,7 +45,7 @@ Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 105 
 
 ### Laddningsport
 
-Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -53,15 +53,24 @@ Anslutningstyper varierar mellan olika marknader. Den här modellen använder [*
 
 ## Drivlina
 
-VinFast VF8 Plus har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
+VinFast VF8 Plus har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 175 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 175 mm.
+
+### Körlägen
+
+VinFast VF8 Plus låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
+
+- Eco Mode: Effektiv gass.
+- Normal Mode: Balansert gass.
+- Sport Mode: Dynamisk gass.
+
 
 ### Bromsar
 
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 341mm.
 
-
-
+[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell. Du kan välja mellan två stopplägen för körning med en pedal. Rullläget gör att fordonet rullar tills det stannar av sig självt, och krypläget kommer att krypa bilen framåt i låg hastighet . Du kan justera hur stark regen är när du lyfter foten. Det finns två nivåer.
 
 ## Exteriör
 
@@ -83,7 +92,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-
+Du kan välja mellan flera inredningsdesigner.
 
 ### Framsäten
 
@@ -92,12 +101,17 @@ Endast en typ av framsäte är tillgänglig i VinFast VF8 Plus.
 Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -105,16 +119,11 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-Följande funktioner är tillgängliga på **** sätet.
+Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
-
 
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
@@ -195,7 +204,7 @@ Med Highway Assist  nivå 2-systemet får du följande körautomatiseringsfunkti
 ### Sensorer och kameror
 
 Denna modell använder kameror, radar och ultraljudssensorer för förarassistanssystemen.
-driverassistance.CameraRadarUltrasonic.TrueFalseFalseFalse
+Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -203,9 +212,9 @@ driverassistance.CameraRadarUltrasonic.TrueFalseFalseFalse
 
 ## Lastkapacitet och dragkapacitet
 
+Lastkapaciteten i bagageutrymmet är 376 liter. Med baksätet nedfällt är det 1373 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 78 liter. Bilens maximala vikt är 3075 kg, och med basvikten på 2600 kg kan du lasta maximalt 475 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 475 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
-
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
 </a>

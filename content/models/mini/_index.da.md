@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.Hatchback.Premium
+Mini Cooper er en premium hatcback tilgængelig i 1 varianter.
 </p>
 	<a href="cooper/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -29,7 +29,7 @@ We have separated our VinFast VF8 Plus article into sections. If you want to wai
 
 ## Performance
 
-The VinFast VF8 Plus has a maximum power of 300 KW (408 hp/402 bhp). The total torque is 620 nm (458 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds.
+The VinFast VF8 Plus has a maximum power of 300 KW (408 hp/402 bhp). The total torque is 620 nm (458 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,5 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
@@ -45,7 +45,7 @@ The maximum DC charging speed is kW. A full charge from 0 - 100% would take 105 
 
 ### Charge port
 
-The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -53,15 +53,24 @@ The connector types vary between the different markets. This model uses [**CCS C
 
 ## Drivetrain
 
-VinFast VF8 Plus has an all-wheel drive system supported by two motors, one on each axle.
+VinFast VF8 Plus has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm.
+
+### Drive modes
+
+The VinFast VF8 Plus lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
+
+- Eco Mode: Efficent throttle.
+- Normal Mode: Balanced throttle.
+- Sport Mode: Dynamic throttle.
+
 
 ### Brakes
 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 341mm.
 
-
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. You can choose between two stopping modes for one-pedal driving. Roll mode causes the vehicle to roll until it stops by itself, and creep mode will creep the car forward at low speed. You can adjust how strong regen you get when you lift the foot. There are two levels.
 
 ## Exterior
 
@@ -83,7 +92,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-
+You can choose between several interior designs.
 
 ### First row seats
 
@@ -92,12 +101,17 @@ Only one front seat type is available in the VinFast VF8 Plus.
 The following functionalities are available on the **** seat.
 
 - electric adjustment
+- height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type.
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -105,16 +119,11 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-The following functionalities are available on the **** seat.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
-You can choose from 1 different materials/colors for this seat type.
-- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
-
 
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
@@ -195,7 +204,7 @@ With the Highway Assist  level 2 system, you get the following driving automatio
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
-driverassistance.CameraRadarUltrasonic.TrueFalseFalseFalse
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -203,9 +212,9 @@ driverassistance.CameraRadarUltrasonic.TrueFalseFalseFalse
 
 ## Cargo Capacity and Towing Ability
 
+The cargo capacity in the trunk is 376 liters. With the rear seat down, it is 1373 liters. Under the hood, there is frunk with more storage room. This frunk is 78 liters (2,8 CU FT). The maxium weight of the car is 3075 kg (6779 lbs), and with the base weight of 2600 kg (5732 lbs), you can max load 475 kg (1047 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 475kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
-
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
 </a>

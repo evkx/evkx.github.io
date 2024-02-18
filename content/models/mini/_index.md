@@ -16,7 +16,7 @@ Mini's EV strategy is to go all-electric by 2030, according to a report by Bloom
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-modelintro.Hatchback.Premium
+Mini Cooper is a premium hatcback available in 1 variants.
 </p>
 	<a href="cooper/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
