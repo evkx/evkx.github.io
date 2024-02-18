@@ -41,7 +41,7 @@ Den maksimale DC-opladningshastighed er 110kW. En fuld opladning fra 0 - 100 % v
 
 ### Indbygget oplader
 
-
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 58 minutter.
 
 ### Ladeport
 

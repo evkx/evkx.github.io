@@ -41,7 +41,7 @@ Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 1
 
 ### Inbyggd laddare
 
-
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 58 minuter.
 
 ### Laddningsport
 

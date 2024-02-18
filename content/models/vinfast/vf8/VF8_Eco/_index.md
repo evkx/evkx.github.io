@@ -41,7 +41,7 @@ The maximum DC charging speed is 110kW. A full charge from 0 - 100% would take 1
 
 ### Onboard charger
 
-
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 58 minutes.
 
 ### Charge port
 
