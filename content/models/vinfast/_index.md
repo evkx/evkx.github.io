@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-VinFast produces electric vehicles, such as electric cars, electric scooters, and electric buses. VinFast aims to offer a unique combination of performance, connectivity, and sustainability to its customers. 
+VinFast produces electric vehicles, such as electric cars, electric scooters, and electric buses. VinFast aims to offer a unique combination of performance, connectivity, and sustainability to its customers.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> VinFast VF8</h3>

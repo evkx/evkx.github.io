@@ -195,7 +195,7 @@ With the Highway Assist  level 2 system, you get the following driving automatio
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
+driverassistance.CameraRadarUltrasonic.TrueFalseFalseFalse
 
 {{<evkxdisplayaddarticle />}}
 

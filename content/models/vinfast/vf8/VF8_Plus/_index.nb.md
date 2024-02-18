@@ -195,7 +195,7 @@ Med Highway Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunk
 ### Sensorer og kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsystemene.
-Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
+driverassistance.CameraRadarUltrasonic.TrueFalseFalseFalse
 
 {{<evkxdisplayaddarticle />}}
 
