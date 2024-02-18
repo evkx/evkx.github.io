@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-c57491dd
+  translation: VinFast VF8 Plus er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 447 km (278 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-5b7a133a
   translation: Lancia Ypsilon er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 403 km (251 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-7f7a00b6
   translation: Opel Astra Sports Tourer Electric er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 413 km (257 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-1beeb3ae
-  translation: Peugot E-308 SW er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 410 km (255 miles). EVKX.net har alle detaljerne.
 

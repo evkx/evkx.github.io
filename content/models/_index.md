@@ -148,6 +148,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="toyota"><img src="https://media.evkx.net/multimedia/models/toyota/logo_xst.png" alt="Toyota" title="Toyota" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="vinfast"><img src="https://media.evkx.net/multimedia/models/vinfast/logo_xst.png" alt="VinFast" title="VinFast" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="volkswagen"><img src="https://media.evkx.net/multimedia/models/volkswagen/logo_xst.png" alt="Volkswagen" title="Volkswagen" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -672,6 +675,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	Toyota has 1 models with total 2 variants.
 	</p>
 	<a href="toyota/" class="btn btn-outline-primary" role="button">Go to Toyota EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>VinFast</h2>
+	<p>
+		VinFast is a Vietnamese car company that is part of Vingroup, one of the largest private corporations in Vietnam. VinFast was founded in 2017 and is the first Vietnamese car brand to expand into global markets.
+	</p>
+	<p>
+	VinFast has 1 models with total 1 variants.
+	</p>
+	<a href="vinfast/" class="btn btn-outline-primary" role="button">Go to VinFast EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>

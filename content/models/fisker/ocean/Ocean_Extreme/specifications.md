@@ -968,7 +968,7 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -976,7 +976,7 @@ This model is available with a seat configuration with five seats.
 				Hill start assist
 			</td>
 			<td>
-				Yes, standard equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

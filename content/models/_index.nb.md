@@ -148,6 +148,9 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 			<a href="toyota"><img src="https://media.evkx.net/multimedia/models/toyota/logo_xst.png" alt="Toyota" title="Toyota" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="vinfast"><img src="https://media.evkx.net/multimedia/models/vinfast/logo_xst.png" alt="VinFast" title="VinFast" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="volkswagen"><img src="https://media.evkx.net/multimedia/models/volkswagen/logo_xst.png" alt="Volkswagen" title="Volkswagen" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -537,6 +540,13 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	Toyota har 1 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="toyota/" class="btn btn-outline-primary" role="button">Gå til Toyota modelloversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>VinFast</h2>
+	<p>
+	VinFast har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="vinfast/" class="btn btn-outline-primary" role="button">Gå til VinFast modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-c57491dd
+  translation: VinFast VF8 Plus är en helelektrisk SUV med en WLTP räckvidd på upp till 447 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-5b7a133a
   translation: Lancia Ypsilon är en helelektrisk halvkombi med en WLTP räckvidd på upp till 403 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-7f7a00b6
   translation: Opel Astra Sports Tourer Electric är en helelektrisk kombi med en WLTP räckvidd på upp till 413 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-1beeb3ae
-  translation: Peugot E-308 SW är en helelektrisk kombi med en WLTP räckvidd på upp till 410 km. EVKX.net har alla detaljer.
 

@@ -968,7 +968,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill DescentAssist
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -976,7 +976,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill start assist
 			</td>
 			<td>
-				Ja, standardudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

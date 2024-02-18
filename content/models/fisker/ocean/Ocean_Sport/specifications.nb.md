@@ -928,7 +928,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -936,7 +936,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill start assist
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
