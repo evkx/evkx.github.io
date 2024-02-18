@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>This is the Worst Car I've Ever Reviewed</h3>
+<p>Auto Focus: 18.02.2024</p>
+
+{{< youtube 6xWXRk3yaSw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Prøvekjørt Fisker Ocean One. Hvor bra er den?</h3>
 <p>Norsk elbilforening: 04.10.2023</p>
 
