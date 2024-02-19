@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-62414ec7
+  translation: Volkswagen ID.7 Tourer Pro er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 615 km (382 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-c21dd820
   translation: VinFast VF8 Eco er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 471 km (293 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-63ce3f7e
   translation: BMW i5 xDrive40 er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 538 km (334 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-b279832a
-  translation: Opel Astra Electric er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 413 km (257 miles). EVKX.net har alle detaljerne.
 

@@ -166,7 +166,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				170 kW
+				200 kW
 			</td>
 		</tr>
 		<tr>

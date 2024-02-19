@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-62414ec7
+  translation: Volkswagen ID.7 Tourer Pro är en helelektrisk kombi med en WLTP räckvidd på upp till 615 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-c21dd820
   translation: VinFast VF8 Eco är en helelektrisk SUV med en WLTP räckvidd på upp till 471 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-63ce3f7e
   translation: BMW i5 xDrive40 är en helelektrisk premium sedan med en WLTP räckvidd på upp till 538 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-b279832a
-  translation: Opel Astra Electric är en helelektrisk halvkombi med en WLTP räckvidd på upp till 413 km. EVKX.net har alla detaljer.
 
