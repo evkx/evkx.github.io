@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Volkswagen is aiming to increase the proportion of unit sales accounted for by purely electric vehicles to at least 70 percent in Europe and to more than 50 percent in North America and China by 2030. In 2030, nine out of 14 Volkswagen models will be purely electric vehicles. Volkswagen has currently 5 all electric models with total 16 variants in the market. Below you find links for each model page.
+Volkswagen is aiming to increase the proportion of unit sales accounted for by purely electric vehicles to at least 70 percent in Europe and to more than 50 percent in North America and China by 2030. In 2030, nine out of 14 Volkswagen models will be purely electric vehicles. Volkswagen has currently 5 all electric models with total 17 variants in the market. Below you find links for each model page.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volkswagen ID. Buzz</h3>
@@ -72,7 +72,7 @@ Volkswagen ID.5 is a Coupe SUV available in 4 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Volkswagen ID.7 is a sedan /station wagon available in 3 variants.
+Volkswagen ID.7 is a sedan /station wagon available in 4 variants.
 </p>
 	<a href="id.7/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
