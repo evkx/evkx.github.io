@@ -71,7 +71,7 @@ Dynamisk styring er en valgfri-funktion på CUPRA BORN VZ. Dynamisk styring vari
 
 ## Udvendig
 
-Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 6 hjul med størrelser fra 18 til 20 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -143,7 +143,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-CUPRA BORN VZ har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.0 tommer stor. Skærmen touch i dashboardets midte er 12.0 tommer stor og har en opløsning på 1920 x 869 pixels.
+CUPRA BORN VZ har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.0 tommer stor. Skærmen touch i dashboardets midte er 12.9 tommer stor og har en opløsning på 1920 x 869 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -210,7 +210,10 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2300 kg (5071 lbs), og med basisvægten på 1895 kg (4178 lbs), kan du maksimalt laste 405 kg (893 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
+Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+### Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 20.02.2024, og leveringerne startede i August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> CUPRA BORN </strong>
 </a>

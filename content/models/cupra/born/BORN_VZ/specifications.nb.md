@@ -1090,7 +1090,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 12
+				Ja, 12,9
 			</td>
 		</tr>
 		<tr>

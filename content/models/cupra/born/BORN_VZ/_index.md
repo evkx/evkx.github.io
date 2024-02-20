@@ -71,7 +71,7 @@ Dynamic steering is an optional feature on the CUPRA BORN VZ. Dynamic steering v
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+You can choose between 7 different paint colors when ordering this model.
 Additionally, you can choose between 6 wheels with sizes from 18 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -143,7 +143,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The CUPRA BORN VZ has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 12.0 inches large and has a 1920 x 869 pixels resolution.
+The CUPRA BORN VZ has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 12.9 inches large and has a 1920 x 869 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -210,7 +210,10 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0,0 lbs). The maxium weight of the car is 2300 kg (5071 lbs), and with the base weight of 1895 kg (4178 lbs), you can max load 405 kg (893 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+### Availability & Pricing
+
+This model had a world premiere on 20.02.2024, and deliveries started in August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> CUPRA BORN </strong>
 </a>
