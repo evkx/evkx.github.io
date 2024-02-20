@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New Fisker Ocean review: SO many cool features!</h3>
+<p>carwow: 20.02.2024</p>
+
+{{< youtube FoIT_onPfKk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST DRIVE: 2024 Fisker Ocean: is Fisker’s electric SUV worth the wait?</h3>
 <p>Electrifying: 04.01.2024</p>
 

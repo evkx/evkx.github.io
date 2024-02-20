@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Tourer Pro S
 linktitle: "ID.7 Tourer Pro S"
-description: "Volkswagen ID.7 Tourer Pro S är en helelektrisk kombi med en WLTP räckvidd på upp till 700 km. EVKX.net har alla detaljer."
+description: "Volkswagen ID.7 Tourer Pro S är en helelektrisk kombi med en WLTP räckvidd på upp till 685 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Volkswagen ID.7 Tourer Pro S har en maximal effekt på 210 KW (286hk). Totalt vr
 
 Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 86kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,5%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 700 till 622 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.3kWh/100 km för basversionen och 13.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 685 till 622 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.6kWh/100 km för basversionen och 13.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 70 minuter, medan ett vanligare scenario på 10-80 % tar 39 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 42%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 104kW. Varje laddningssession tar 20 minuter och 49 sekunder.
 

@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Tourer Pro
 linktitle: "ID.7 Tourer Pro"
-description: "Volkswagen ID.7 Tourer Pro is an all-electric station wagon with a WLTP range of up to 615 km (382 miles). EVKX.net has all the details."
+description: "Volkswagen ID.7 Tourer Pro is an all-electric station wagon with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Volkswagen ID.7 Tourer Pro has a maximum power of 210 KW (286 hp/282 bhp). T
 
 The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 615 to 550 km (382-342 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.5kWh/100km for the basic version and 14.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 600 to 550 km (373-342 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.8kWh/100km for the basic version and 14.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 175kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 19 minutes and 43 seconds.
 

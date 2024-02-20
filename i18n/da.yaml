@@ -109,11 +109,14 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-fa4ec0c9
+  translation: CUPRA BORN VZ er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 570 km (354 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-f24e04cd
-  translation: Volkswagen ID.7 Tourer Pro S er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne.
+  translation: Volkswagen ID.7 Tourer Pro S er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 685 km (426 miles). EVKX.net har alle detaljerne.
 
 - id: frontpage-description-62414ec7
-  translation: Volkswagen ID.7 Tourer Pro er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 615 km (382 miles). EVKX.net har alle detaljerne.
+  translation: Volkswagen ID.7 Tourer Pro er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 600 km (373 miles). EVKX.net har alle detaljerne.
 
 - id: frontpage-description-c21dd820
   translation: VinFast VF8 Eco er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 471 km (293 miles). EVKX.net har alle detaljerne.
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b65ba1f0
   translation: Porsche Taycan er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 678 km (421 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-268cd381
-  translation: BMW iX2 eDrive20 er en fuldelektrisk premium coupe SUV med en rækkevidde på WLTP på op til 449 km (279 miles). EVKX.net har alle detaljerne.
 

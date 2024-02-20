@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				615 km
+				600 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				12,5 kWh/100km
+				12,8 kWh/100km
 			</td>
 		</tr>
 		<tr>

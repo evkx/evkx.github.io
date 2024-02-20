@@ -266,7 +266,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Cupra is a Spanish automobile brand that forms part of SEAT. It was created in 2018 as a spin-off of SEAT's performance division. Cupra stands for Cup Racing and reflects the brand's passion for racing and powerful car.
 	</p>
 	<p>
-	CUPRA has 2 models with total 5 variants.
+	CUPRA has 2 models with total 6 variants.
 	</p>
 	<a href="cupra/" class="btn btn-outline-primary" role="button">Go to CUPRA EV-model overview</a>
 </div>

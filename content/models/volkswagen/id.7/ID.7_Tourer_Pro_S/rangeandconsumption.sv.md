@@ -40,10 +40,10 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				</a>
 			</td>
 			<td>
-				700 km / 435 mi
+				685 km / 426 mi
 			</td>
 			<td>
-				12,29kWh/100km / 5,1 mi/kWh
+				12,55kWh/100km / 5,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -87,10 +87,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				WLTP-seriens grundutrustningsnivå med 2KW AC
 			</td>
 			<td>
-				 519km / 322 mi 
+				 510km / 317 mi 
 			</td>
 			<td>
-				-25,9%
+				-25,5%
 			</td>
 		</tr>
 		<tr>

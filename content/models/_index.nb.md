@@ -242,7 +242,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="cupra/"><img src="https://media.evkx.net/multimedia/models/cupra/brandevs_st.jpg" class="img-fluid mb-2" alt="CUPRA" ></a>
 	<h2>CUPRA</h2>
 	<p>
-	CUPRA har 2 modell(er) med totalt 5 varianter.
+	CUPRA har 2 modell(er) med totalt 6 varianter.
 	</p>
 	<a href="cupra/" class="btn btn-outline-primary" role="button">Gå til CUPRA modelloversikt</a>
 </div>

@@ -109,11 +109,14 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-fa4ec0c9
+  translation: CUPRA BORN VZ is an all-electric hatchback with a WLTP range of up to 570 km (354 miles). EVKX.net has all the details.
+
 - id: frontpage-description-f24e04cd
-  translation: Volkswagen ID.7 Tourer Pro S is an all-electric station wagon with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details.
+  translation: Volkswagen ID.7 Tourer Pro S is an all-electric station wagon with a WLTP range of up to 685 km (426 miles). EVKX.net has all the details.
 
 - id: frontpage-description-62414ec7
-  translation: Volkswagen ID.7 Tourer Pro is an all-electric station wagon with a WLTP range of up to 615 km (382 miles). EVKX.net has all the details.
+  translation: Volkswagen ID.7 Tourer Pro is an all-electric station wagon with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details.
 
 - id: frontpage-description-c21dd820
   translation: VinFast VF8 Eco is an all-electric SUV with a WLTP range of up to 471 km (293 miles). EVKX.net has all the details.
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b65ba1f0
   translation: Porsche Taycan is an all-electric luxury sedan with a WLTP range of up to 678 km (421 miles). EVKX.net has all the details.
-
-- id: frontpage-description-268cd381
-  translation: BMW iX2 eDrive20 is an all-electric premium coupe SUV with a WLTP range of up to 449 km (279 miles). EVKX.net has all the details.
 

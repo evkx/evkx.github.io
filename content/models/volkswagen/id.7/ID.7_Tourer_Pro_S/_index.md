@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Tourer Pro S
 linktitle: "ID.7 Tourer Pro S"
-description: "Volkswagen ID.7 Tourer Pro S is an all-electric station wagon with a WLTP range of up to 700 km (435 miles). EVKX.net has all the details."
+description: "Volkswagen ID.7 Tourer Pro S is an all-electric station wagon with a WLTP range of up to 685 km (426 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Volkswagen ID.7 Tourer Pro S has a maximum power of 210 KW (286 hp/282 bhp).
 
 The battery has a gross capacity of 91kWh and a net capacity of 86kWh, meaning you have a 5kWh buffer for protection. (5,5%).
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 700 to 622 km (435-387 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.3kWh/100km for the basic version and 13.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 685 to 622 km (426-387 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.6kWh/100km for the basic version and 13.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 70 minutes, while a more common scenario of 10-80% would take 39 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 42%, resulting in an actual charge speed, including time loss, of 104kW. Each charge session would take 20 minutes and 49 seconds.
 

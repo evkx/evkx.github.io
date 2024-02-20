@@ -16,7 +16,7 @@ Cupra has a strong focus on electrification and performance. It aims to combine 
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-CUPRA BORN is a hatcback available in 3 variants.
+CUPRA BORN is a hatcback available in 4 variants.
 </p>
 	<a href="born/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

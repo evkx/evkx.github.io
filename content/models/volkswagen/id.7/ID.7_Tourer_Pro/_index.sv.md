@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Tourer Pro
 linktitle: "ID.7 Tourer Pro"
-description: "Volkswagen ID.7 Tourer Pro är en helelektrisk kombi med en WLTP räckvidd på upp till 615 km. EVKX.net har alla detaljer."
+description: "Volkswagen ID.7 Tourer Pro är en helelektrisk kombi med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Volkswagen ID.7 Tourer Pro har en maximal effekt på 210 KW (286hk). Totalt vrid
 
 Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 615 till 550 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.5kWh/100 km för basversionen och 14.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 600 till 550 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.8kWh/100 km för basversionen och 14.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 175 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 101kW. Varje laddningssession tar 19 minuter och 43 sekunder.
 

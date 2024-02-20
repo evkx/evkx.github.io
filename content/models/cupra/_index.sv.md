@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-CUPRA BORN är en halvkombi tillgänglig i 3 varianter.
+CUPRA BORN är en halvkombi tillgänglig i 4 varianter.
 </p>
 	<a href="born/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

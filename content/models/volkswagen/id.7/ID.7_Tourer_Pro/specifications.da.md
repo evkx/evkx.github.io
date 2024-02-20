@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				615 km
+				600 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				12,5 kWh/100km
+				12,8 kWh/100km
 			</td>
 		</tr>
 		<tr>

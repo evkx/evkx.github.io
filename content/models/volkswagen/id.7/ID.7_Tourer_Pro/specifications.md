@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				615 km
+				600 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				12,5 kWh/100km
+				12,8 kWh/100km
 			</td>
 		</tr>
 		<tr>

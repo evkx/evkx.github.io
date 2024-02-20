@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Tourer Pro S
 linktitle: "ID.7 Tourer Pro S"
-description: "Volkswagen ID.7 Tourer Pro S er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 700 km. EVKX.net har alle detaljene."
+description: "Volkswagen ID.7 Tourer Pro S er en helelektrisk stasjonsvogn med en WLTP rekkevidde på opptil 685 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Volkswagen ID.7 Tourer Pro S har en maksimal effekt på 210 KW (286hk). Totalt d
 
 Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5,5%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 700 til 622 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.3kWh/100 km for basisversjonen og 13.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 685 til 622 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.6kWh/100 km for basisversjonen og 13.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 39 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 42%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 104kW. Hver ladeøkt vil ta 20 minutter og 49 sekunder.
 

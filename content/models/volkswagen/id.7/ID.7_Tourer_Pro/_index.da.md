@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Tourer Pro
 linktitle: "ID.7 Tourer Pro"
-description: "Volkswagen ID.7 Tourer Pro er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 615 km (382 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID.7 Tourer Pro er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 600 km (373 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Volkswagen ID.7 Tourer Pro har en maksimal effekt på 210 KW (286 hk/282 hk). De
 
 Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 615 til 550 km (382-342 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.5kWh/100 km for basisversionen og 14.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 600 til 550 km (373-342 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.8kWh/100 km for basisversionen og 14.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 175kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
 
