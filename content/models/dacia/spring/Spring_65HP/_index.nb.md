@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Dacia Spring 65HP i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Dacia Spring 65HP har en maksimal effekt på 48 KW (65hk). Totalt dreiemoment er 113 nm. Den utfører sprinten 0-100 km/t på 14 sekunder. Topphastigheten er 125 km/t.
+Dacia Spring 65HP har en maksimal effekt på 48 KW (65hk). Totalt dreiemoment er 113 nm. Den utfører sprinten 0-100 km/t på 13,7 sekunder. Topphastigheten er 125 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -59,7 +59,7 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 Dacia Spring 65HP har et forhjulsdriftssystem støttet av én motor på forakselen.
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 180 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 150 mm.
 
 ### Bremser
 
@@ -69,7 +69,8 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ## Eksteriør
 
-Du kan velge mellom 2 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
+I tillegg kan du velge mellom 2 hjul med størrelser fra 14 til 15 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -93,8 +94,10 @@ Bare én type forsete er tilgjengelig i Dacia Spring 65HP.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
+- integrert hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -108,8 +111,10 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
+- høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -117,7 +122,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet  støtter kun kontroll av én delt sone for hele bilen.
+Det er ett tilgjengelig klimasystem. Klimasystemet  støtter kun kontroll av én delt sone for hele bilen. Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
 ## Komfort
 

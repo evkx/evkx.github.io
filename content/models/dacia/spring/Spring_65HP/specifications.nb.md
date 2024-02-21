@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Dacia Spring 65HP. 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				14 s
+				13,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -285,6 +285,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				2423 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vendesirkel
+			</td>
+			<td>
+				9,5 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -412,7 +420,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				180 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +428,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				180 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +513,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +521,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +529,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -537,7 +545,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +553,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Minne førersete
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +561,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Minne passasjersete
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +569,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +577,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +585,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +593,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +601,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -601,7 +609,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +617,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +625,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +633,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +641,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +649,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -674,7 +682,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -682,7 +690,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -690,7 +698,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -698,7 +706,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +714,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -714,7 +722,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -722,7 +730,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -730,7 +738,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -738,7 +746,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -746,7 +754,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -754,7 +762,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

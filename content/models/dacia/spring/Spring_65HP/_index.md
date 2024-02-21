@@ -29,7 +29,7 @@ We have separated our Dacia Spring 65HP article into sections. If you want to wa
 
 ## Performance
 
-The Dacia Spring 65HP has a maximum power of 48 KW (65 hp/64 bhp). The total torque is 113 nm (83 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 14 seconds. The top speed is 125 km/h.
+The Dacia Spring 65HP has a maximum power of 48 KW (65 hp/64 bhp). The total torque is 113 nm (83 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 13,7 seconds. The top speed is 125 km/h.
 
 ## Battery, range, and charging
 
@@ -59,7 +59,7 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 Dacia Spring 65HP has a front-wheel drive system supported by one motor on the front axle.
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 180 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
 ### Brakes
 
@@ -69,7 +69,8 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Exterior
 
-You can choose between 2 different paint colors when ordering this model.
+You can choose between 6 different paint colors when ordering this model.
+Additionally, you can choose between 2 wheels with sizes from 14 to 15 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
@@ -93,8 +94,10 @@ Only one front seat type is available in the Dacia Spring 65HP.
 
 The following functionalities are available on the **** seat.
 
+- integrated headrest
 
 You can choose from 1 different materials/colors for this seat type.
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -108,8 +111,10 @@ You can choose from 1 different materials/colors for this seat type.
 
 The following functionalities are available on the **** seat.
 
+- height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -117,7 +122,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports only controlling one shared zone for the whole car.
+There is one climate system available. The  climate system supports only controlling one shared zone for the whole car. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort
 

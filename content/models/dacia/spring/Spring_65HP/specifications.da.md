@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Dacia Spring 65HP.
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				14 s
+				13,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -285,6 +285,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				2423 mm (95,4")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vendecirkel
+			</td>
+			<td>
+				9,5 meter (374,0")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -412,7 +420,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				180 mm (7,1")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +428,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				180 mm (7,1")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +513,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +521,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +529,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -537,7 +545,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Elektrisk justering af højde, tilbagelæning og vinkel
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +553,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Memory førersæde
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +561,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Memory passagersæde
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +569,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +577,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +585,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +593,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -601,7 +609,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +617,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +625,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +633,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +641,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +649,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -674,7 +682,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -682,7 +690,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -690,7 +698,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -698,7 +706,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +714,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -714,7 +722,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -722,7 +730,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -730,7 +738,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -738,7 +746,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -746,7 +754,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -754,7 +762,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>

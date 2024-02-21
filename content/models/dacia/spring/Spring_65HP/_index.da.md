@@ -29,7 +29,7 @@ Vi har opdelt vores Dacia Spring 65HP artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-Dacia Spring 65HP har en maksimal effekt på 48 KW (65 hk/64 hk). Det samlede drejningsmoment er 113 nm (83 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 14 sekunder. Tophastigheden er 125 km/t.
+Dacia Spring 65HP har en maksimal effekt på 48 KW (65 hk/64 hk). Det samlede drejningsmoment er 113 nm (83 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 13,7 sekunder. Tophastigheden er 125 km/t.
 
 ## Batteri, rækkevidde og opladning
 
@@ -59,7 +59,7 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 Dacia Spring 65HP har et forhjulstræksystem understøttet af en motor på forakslen.
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 180 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 150 mm.
 
 ### Bremser
 
@@ -69,7 +69,8 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Du kan vælge mellem 2 forskellige malingsfarver, når du bestiller denne model.
+Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Derudover kan du vælge mellem 2 hjul med størrelser fra 14 til 15 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -93,8 +94,10 @@ Kun én type forsæde er tilgængelig i Dacia Spring 65HP.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
+- integreret nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -108,8 +111,10 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
+- højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -117,7 +122,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Klimasystemet  understøtter kun kontrol af én delt zone for hele bilen.
+Der er et tilgængeligt klimasystem. Klimasystemet  understøtter kun kontrol af én delt zone for hele bilen. Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
 ## Komfort
 

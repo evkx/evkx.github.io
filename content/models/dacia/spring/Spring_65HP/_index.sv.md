@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Dacia Spring 65HP i avsnitt. Om du vill vän
 
 ## Prestanda
 
-Dacia Spring 65HP har en maximal effekt på 48 KW (65hk). Totalt vridmoment är 113 Nm. Den gör sprinten 0-100 km/h på 14 sekunder. Topphastigheten är 125 km/h.
+Dacia Spring 65HP har en maximal effekt på 48 KW (65hk). Totalt vridmoment är 113 Nm. Den gör sprinten 0-100 km/h på 13,7 sekunder. Topphastigheten är 125 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -59,7 +59,7 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 Dacia Spring 65HP har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 180 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 
 ### Bromsar
 
@@ -69,7 +69,8 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Du kan välja mellan 2 olika färgfärger när du beställer den här modellen.
+Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Dessutom kan du välja mellan 2 hjul i storlek från 14 till 15 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -93,8 +94,10 @@ Endast en typ av framsäte är tillgänglig i Dacia Spring 65HP.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- integrerat nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -108,8 +111,10 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- höjdjusterbart nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -117,7 +122,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet  stöder endast kontroll av en delad zon för hela bilen.
+Det finns ett tillgängligt klimatsystem. Klimatsystemet  stöder endast kontroll av en delad zon för hela bilen. Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
 ## Tröst
 

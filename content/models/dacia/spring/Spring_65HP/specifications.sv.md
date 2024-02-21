@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Dacia Spring 65HP. Kli
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				14 s
+				13,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -285,6 +285,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				2423 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				9,5 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -412,7 +420,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				180 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +428,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				180 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +513,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +521,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +529,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -537,7 +545,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +553,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Minnesförarsäte
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +561,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Memory Passenger Seat
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +569,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +577,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +585,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +593,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +601,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -601,7 +609,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +617,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +625,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +633,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +641,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +649,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -674,7 +682,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -682,7 +690,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -690,7 +698,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -698,7 +706,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +714,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -714,7 +722,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -722,7 +730,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -730,7 +738,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -738,7 +746,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -746,7 +754,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -754,7 +762,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
