@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-6fb4c17f
+  translation: Dacia Spring 65HP er en helelektrisk kombi med en WLTP rekkevidde på opptil 220 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-fa4ec0c9
   translation: CUPRA BORN VZ er en helelektrisk kombi med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a6158252
   translation: BMW i5 eDrive40 Touring er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 560 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-b65ba1f0
-  translation: Porsche Taycan er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 678 km. EVKX.net har alle detaljene.
 

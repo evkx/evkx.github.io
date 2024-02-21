@@ -37,6 +37,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="cupra"><img src="https://media.evkx.net/multimedia/models/cupra/logo_xst.png" alt="CUPRA" title="CUPRA" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="dacia"><img src="https://media.evkx.net/multimedia/models/dacia/logo_xst.png" alt="Dacia" title="Dacia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="ds"><img src="https://media.evkx.net/multimedia/models/ds/logo_xst.png" alt="DS" title="DS" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -269,6 +272,17 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	CUPRA has 2 models with total 6 variants.
 	</p>
 	<a href="cupra/" class="btn btn-outline-primary" role="button">Go to CUPRA EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="dacia/"><img src="https://media.evkx.net/multimedia/models/dacia/brandevs_st.jpg" class="img-fluid mb-2" alt="Dacia" ></a>
+	<h2>Dacia</h2>
+	<p>
+		Dacia is a Romanian car manufacturer that is owned by Stellantis, the world's fourth-largest automaker. Dacia is known for its affordable and reliable cars, such as the Sandero, the Logan, and the Duster. Dacia launched its first electric car, the Spring, in 2021, which is based on the Renault City K-ZE
+	</p>
+	<p>
+	Dacia has 1 models with total 1 variants.
+	</p>
+	<a href="dacia/" class="btn btn-outline-primary" role="button">Go to Dacia EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ds/"><img src="https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg" class="img-fluid mb-2" alt="DS" ></a>

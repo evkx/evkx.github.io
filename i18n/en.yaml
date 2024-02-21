@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-6fb4c17f
+  translation: Dacia Spring 65HP is an all-electric hatchback with a WLTP range of up to 220 km (137 miles). EVKX.net has all the details.
+
 - id: frontpage-description-fa4ec0c9
   translation: CUPRA BORN VZ is an all-electric hatchback with a WLTP range of up to 570 km (354 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a6158252
   translation: BMW i5 eDrive40 Touring is an all-electric premium station wagon with a WLTP range of up to 560 km (348 miles). EVKX.net has all the details.
-
-- id: frontpage-description-b65ba1f0
-  translation: Porsche Taycan is an all-electric luxury sedan with a WLTP range of up to 678 km (421 miles). EVKX.net has all the details.
 

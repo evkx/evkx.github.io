@@ -37,6 +37,9 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 			<a href="cupra"><img src="https://media.evkx.net/multimedia/models/cupra/logo_xst.png" alt="CUPRA" title="CUPRA" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="dacia"><img src="https://media.evkx.net/multimedia/models/dacia/logo_xst.png" alt="Dacia" title="Dacia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="ds"><img src="https://media.evkx.net/multimedia/models/ds/logo_xst.png" alt="DS" title="DS" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -245,6 +248,14 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	CUPRA har 2 modell(er) med totalt 6 varianter.
 	</p>
 	<a href="cupra/" class="btn btn-outline-primary" role="button">Gå til CUPRA modelloversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="dacia/"><img src="https://media.evkx.net/multimedia/models/dacia/brandevs_st.jpg" class="img-fluid mb-2" alt="Dacia" ></a>
+	<h2>Dacia</h2>
+	<p>
+	Dacia har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="dacia/" class="btn btn-outline-primary" role="button">Gå til Dacia modelloversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="ds/"><img src="https://media.evkx.net/multimedia/models/ds/brandevs_st.jpg" class="img-fluid mb-2" alt="DS" ></a>

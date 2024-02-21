@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-6fb4c17f
+  translation: Dacia Spring 65HP er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 220 km (137 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-fa4ec0c9
   translation: CUPRA BORN VZ er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 570 km (354 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a6158252
   translation: BMW i5 eDrive40 Touring er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 560 km (348 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-b65ba1f0
-  translation: Porsche Taycan er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 678 km (421 miles). EVKX.net har alle detaljerne.
 
