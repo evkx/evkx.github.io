@@ -30,7 +30,7 @@ Honda e:Ny1 är en crossover tillgänglig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Honda Prologue är en SUV tillgänglig i 1 varianter.
+Honda Prologue är en SUV tillgänglig i 2 varianter.
 </p>
 	<a href="prologue/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

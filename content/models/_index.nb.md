@@ -317,7 +317,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="honda/"><img src="https://media.evkx.net/multimedia/models/honda/brandevs_st.jpg" class="img-fluid mb-2" alt="Honda" ></a>
 	<h2>Honda</h2>
 	<p>
-	Honda har 2 modell(er) med totalt 2 varianter.
+	Honda har 2 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="honda/" class="btn btn-outline-primary" role="button">Gå til Honda modelloversikt</a>
 </div>

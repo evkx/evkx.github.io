@@ -29,21 +29,21 @@ We have separated our Honda Prologue AWD article into sections. If you want to w
 
 ## Performance
 
-The Honda Prologue AWD has a maximum power of 214 KW (291 hp/287 bhp). The total torque is 451 nm (333 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4 seconds.
+The Honda Prologue AWD has a maximum power of 214 KW (291 hp/287 bhp). The total torque is 451 nm (333 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6 seconds.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 85kWh and a net capacity of 80kWh, meaning you have a 5kWh buffer for protection. (5,9%).
+The battery has a gross capacity of 89kWh and a net capacity of 85kWh, meaning you have a 4kWh buffer for protection. (4,5%).
 
-The [EPA range](../../../../guides/understandingrange/epa/) varies from 281 to 273 miles (452-439 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 3.5mi/kWh for the basic version and 3.4mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) varies from 281 to 273 miles (452-439 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 3.3mi/kWh for the basic version and 3.2mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 57%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 24 minutes and 14 seconds.
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 66 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 56%, resulting in an actual charge speed, including time loss, of 102kW. Each charge session would take 25 minutes and 56 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 2 minutes. This trip will require four charge session(s) charging from 5% to 59%. The total time lost for charging up the battery will be 103 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 57 minutes. This trip will require four charge session(s) charging from 6% to 55%. The total time lost for charging up the battery will be 98 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 23 minutes.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
@@ -67,11 +67,11 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 396mm, and the rear discs are 343mm.
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+You can choose between 7 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
@@ -87,7 +87,7 @@ You can choose between two types of roofs on this model. The standard roof has a
 
 ## Interior
 
-
+You can choose between several interior designs.
 
 ### First row seats
 
@@ -102,9 +102,10 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 3 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -165,11 +166,17 @@ The Honda Prologue AWD has several standard and optional [advanced driver assist
 
 
 
+The Honda Prologue AWD has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The Honda Prologue AWD has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+
 The Honda Prologue AWD has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
 
 The Honda Prologue AWD has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
@@ -177,11 +184,10 @@ The Honda Prologue AWD has [**automatic emergency braking**](../../../../technol
 
 ### Driving Automation
 
+The Honda Prologue AWD offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-
-With the   level 2 system, you get the following driving automation features.
+With the   level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 {{<evkxdisplayaddarticle />}}

@@ -33,17 +33,17 @@ Chevrolet Blazer EV RS AWD har en maksimal effekt på 214 KW (291 hk/287 hk). De
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 85kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5,9%).
+Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,5%).
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 279 miles (449 km). Forbruget er 3.5mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 279 miles (449 km). Forbruget er 3.3mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 190kW. En fuld opladning fra 0 - 100 % ville tage 138 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 68%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 115kW. Hver opladningssession ville tage 25 minutter og 26 sekunder.
+Den maksimale DC-opladningshastighed er 190kW. En fuld opladning fra 0 - 100 % ville tage 147 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 68%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 116kW. Hver opladningssession ville tage 27 minutter og 43 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 9 timer og 49 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 6 % til 77%. Den samlede tid, der går tabt for at oplade batteriet, vil være 90 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 9 timer og 45 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 7 % til 72%. Den samlede tid, der går tabt for at oplade batteriet, vil være 86 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 57 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 23 minutter.
 
 ### Ladeport
 

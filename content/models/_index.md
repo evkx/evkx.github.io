@@ -368,7 +368,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Honda is a Japanese multinational conglomerate that manufactures automobiles, motorcycles, and power equipment. It is the world's largest motorcycle manufacturer and one of the largest automobile manufacturers. Honda also has a luxury brand called Acura, which it launched in 1986 as the first Japanese luxury brand.
 	</p>
 	<p>
-	Honda has 2 models with total 2 variants.
+	Honda has 2 models with total 3 variants.
 	</p>
 	<a href="honda/" class="btn btn-outline-primary" role="button">Go to Honda EV-model overview</a>
 </div>

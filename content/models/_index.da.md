@@ -314,7 +314,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="honda/"><img src="https://media.evkx.net/multimedia/models/honda/brandevs_st.jpg" class="img-fluid mb-2" alt="Honda" ></a>
 	<h2>Honda</h2>
 	<p>
-	Honda har 2 modeller med i alt 2 varianter.
+	Honda har 2 modeller med i alt 3 varianter.
 	</p>
 	<a href="honda/" class="btn btn-outline-primary" role="button">Gå til Honda EV-modeloversigt</a>
 </div>

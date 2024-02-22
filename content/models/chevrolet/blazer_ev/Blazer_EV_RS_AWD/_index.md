@@ -33,17 +33,17 @@ The Chevrolet Blazer EV RS AWD has a maximum power of 214 KW (291 hp/287 bhp). T
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 85kWh and a net capacity of 80kWh, meaning you have a 5kWh buffer for protection. (5,9%).
+The battery has a gross capacity of 89kWh and a net capacity of 85kWh, meaning you have a 4kWh buffer for protection. (4,5%).
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 279 miles (449 km). The consumption is 3.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) is 279 miles (449 km). The consumption is 3.3mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 190kW. A full charge from 0 - 100% would take 138 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 68%, resulting in an actual charge speed, including time loss, of 115kW. Each charge session would take 25 minutes and 26 seconds.
+The maximum DC charging speed is 190kW. A full charge from 0 - 100% would take 147 minutes, while a more common scenario of 10-80% would take 26 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 68%, resulting in an actual charge speed, including time loss, of 116kW. Each charge session would take 27 minutes and 43 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 49 minutes. This trip will require three charge session(s) charging from 6% to 77%. The total time lost for charging up the battery will be 90 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 45 minutes. This trip will require three charge session(s) charging from 7% to 72%. The total time lost for charging up the battery will be 86 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 57 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 23 minutes.
 
 ### Charge port
 

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-89f7e5ac
+  translation: Honda Prologue FWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 476 km (296 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-6fb4c17f
   translation: Dacia Spring 65HP er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 220 km (137 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-9b4e225d
   translation: BMW i5 M60 xDrive Touring er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 515 km (320 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-a6158252
-  translation: BMW i5 eDrive40 Touring er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 560 km (348 miles). EVKX.net har alle detaljerne.
 
