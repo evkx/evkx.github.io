@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/main_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2018" >}}
 EVKX.net seeks to have the most complete specifications for Honda Prologue FWD. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Honda Prologue FWD, visit the [chargeinfo](../chargecurve/) for Honda Prologue FWD with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 

@@ -29,7 +29,7 @@ weight: 30
 <h3>Honda Prologue FWD</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="prologue_fwd/"><img src="" class="img-fluid" width="400px" height="0px" alt="Prologue FWD" ></a>
+			<a href="prologue_fwd/"><img src="https://media.evkx.net/multimedia/models/honda/prologue/prologue_fwd/main_1_xst.jpg" class="img-fluid" width="400px" height="269px" alt="Prologue FWD" ></a>
 <i class="bi bi-battery-full"></i> 89 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
