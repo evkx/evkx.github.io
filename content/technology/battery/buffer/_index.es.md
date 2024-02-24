@@ -83,6 +83,6 @@ EVKX.net cree que se trata de una mala práctica por parte de los fabricantes.
 Consulte los resultados de las pruebas de Bjørns para <a href="https://docs.google.com/spreadsheets/d/1V6ucyFGKWuSQzvI8lMzvvWJHrBS82echMVJH37kwgjE/edit#gid=52159941" target="_blank">más datos</a> o todos sus <a href ="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank">Pruebas Cero Millas</a>
 
 <div class="mt-3 mb-3">
-     <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Degradación de la batería</strong>< /a>
-     <a href="../manufactors/" class="text-decoration-none text-black float-end"><strong>Fabricantes <i class="bi-arrow-right"></i></strong ></a>
+     <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Degradación de la batería</strong></a>
+     <a href="../manufactors/" class="text-decoration-none text-black float-end"><strong>Fabricantes <i class="bi-arrow-right"></i></strong></a>
 </div>

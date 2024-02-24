@@ -98,6 +98,6 @@ En viajes más largos, la curva de carga puede afectar a la parada de carga ópt
 Para todos los modelos, EVKX calcula esto por usted en la página de información del modelo.
 
 <div class="mt-3 mb-3">
-     <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Equilibrio de celdas</strong>< /a>
+     <a href="../cellbalancing/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Equilibrio de celdas</strong></a>
      <a href="../degredation/" class="text-decoration-none text-black float-end"><strong>Degredación <i class="bi-arrow-right"></i></strong ></a>
 </div>

@@ -28,5 +28,5 @@ En un vehículo eléctrico, el BMS desempeña un papel crucial a la hora de gara
 
 <div class="mt-3 mb-3">
      <a href="../batterypack/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batería y configuración</strong ></a>
-     <a href="../thermalmanagement/" class="text-decoration-none text-black float-end"><strong>Gestión térmica <i class="bi-arrow-right"></i></ fuerte></a>
+     <a href="../thermalmanagement/" class="text-decoration-none text-black float-end"><strong>Gestión térmica <i class="bi-arrow-right"></i></strong></a>
 </div>

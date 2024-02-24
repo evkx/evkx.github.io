@@ -84,6 +84,6 @@ La garantía también puede tener en cuenta la antigüedad de la batería. Por e
 Es importante tener en cuenta que los términos específicos de la garantía pueden variar mucho entre fabricantes, por lo que siempre es una buena idea revisar detenidamente la información de la garantía antes de comprar un vehículo eléctrico.
 
 <div class="mt-3 mb-3">
-     <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Fabricantes</strong></ un>
-     <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>Plataformas para vehículos eléctricos <i class="bi-arrow-right"></i </strong></a>
+     <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Fabricantes</strong></a>
+     <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>Plataformas para vehículos eléctricos <i class="bi-arrow-right"></i></strong></a>
 </div>

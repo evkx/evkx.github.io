@@ -17,6 +17,6 @@ Sin embargo, el nivel de carga de la batería de alto voltaje es sólo del 96 %.
 Para ello, la unidad de control de regulación de la batería compara las tensiones de los grupos de celdas. Si los grupos de celdas tienen un voltaje de celda alto, la unidad de control de los módulos de batería responsable recibe la información de equilibrio. El equilibrio se realiza cuando las diferencias de tensión son superiores a aprox. El 1% se produce cuando se está cargando la batería de alto voltaje. Una vez desconectado el encendido, la unidad de control para la regulación de la batería comprueba si es necesario realizar un equilibrado y, en caso necesario, lo activa. El equilibrio típico se realiza a niveles de carga superiores al 30%.
 
 <div class="mt-3 mb-3">
-     <a href="../thermalmanagement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Gestión térmica</strong>< /a>
+     <a href="../thermalmanagement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Gestión térmica</strong></a>
      <a href="../charging/" class="text-decoration-none text-black float-end"><strong>Cargando <i class="bi-arrow-right"></i></strong ></a>
 </div>

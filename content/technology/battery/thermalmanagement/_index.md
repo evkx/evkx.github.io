@@ -1,35 +1,35 @@
 ---
-title: Gestión térmica
-linktitle: Gestión térmica
-description: La gestión térmica es importante para el rendimiento y la salud de la batería.
+title: Thermal management 
+linktitle: Thermal management 
+description: Thermal management is important for battery performance and health
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
-La temperatura óptima para el funcionamiento de una batería es de entre 20 y 30 grados centígrados. Para el almacenamiento, la temperatura óptima es aún más baja.
+The optimal temperature for a battery is around 20-30 degrees Celcius for operating. For storage, the optimal temperature is even lower.
 
-Un paquete de baterías tiene un sistema de gestión térmica para intentar mantener la batería en las mejores condiciones de funcionamiento.
+A battery pack has a thermal management system to try to keep the battery in the best operating condition.
 
-Esto incluye enfriar cuando está en uso para no sobrecalentarse.
+This includes cooling when in use to not overheat.
 
-{{< sitefiguresized thumb="technology/battery/thermalmanagment/batterycooling_1_st.jpg" width="3000" height="1808" title="Refrigeración de la batería" >}}
+{{< sitefiguresized thumb="technology/battery/thermalmanagment/batterycooling_1_st.jpg" width="3000" height="1808" title="Battery cooling" >}}
 
-En algunos automóviles, también puede calentar la batería antes de cargarla para mejorar el rendimiento de la carga.
+On some cars, it can also heat the battery before charging to improve charging performance.
 
-Esto se llama condición previa activa. En días fríos, esto es necesario para obtener la velocidad de carga máxima. Sin él, la carga tardará más en alcanzar su capacidad máxima.
+This is called Active Precondition. On cold days this is necessary to get the full charging speed. Without it, charging will take a longer time to get to full capacity.
 
-[Audi e-tron GT](../../../modelos/e-tron-gt/) y [Audi RS e-tron GT](../../../models/e-tron-gt/) tiene esta capacidad.
+[Audi e-tron GT](../../../models/e-tron-gt/) and [Audi RS e-tron GT](../../../models/e-tron-gt/) have this capability.
 
-En la imagen siguiente se ven ambos circuitos de refrigeración y un calentador auxiliar que puede calentar la batería cuando está fría.
+In the picture below you see both cooling circuits and an auxiliary heater that can heat the battery when cold.
 
-{{< sitefiguresized thumb="tecnología/batería/thermalmanagment/thermal_management_st.jpg" width="2000" height="1200" title="Gestión térmica del Audi e-tron GT" >}}
+{{< sitefiguresized thumb="technology/battery/thermalmanagment/thermal_management_st.jpg" width="2000" height="1200" title="Audi e-tron GT thermal management" >}}
 
-En este clip, ve detalles sobre el sistema de gestión térmica del [Audi e-tron GT](/models/e-tron-gt).
+In this clip, you see details about the thermal management system on [Audi e-tron GT](/models/e-tron-gt).
 
 {{< youtube zdCiTtRR4TE >}}
 
 <br />
 
 <div class="mt-3 mb-3">
-     <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Gestión de la batería</strong>< /a>
-     <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Equilibrio de celdas <i class="bi-arrow-right"></i></strong></a>
+    <a href="../batterymanagment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Battery management</strong></a>
+    <a href="../cellbalancing/" class="text-decoration-none text-black float-end"><strong>Cell balancing <i class="bi-arrow-right"></i></strong></a>
 </div>

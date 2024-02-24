@@ -9,7 +9,7 @@ shownavtabs: true
 
 En este artículo, exploraremos los diferentes tipos de baterías para vehículos eléctricos, cómo funcionan, sus ventajas y desventajas y los últimos avances en tecnología de baterías para vehículos eléctricos.
 
-{{< sitefiguresized thumb="tecnología/batería/bmwixbattery_1_st.jpg" title="Batería BMW iX" width="3000" height="1688">}}
+{{< sitefiguresized thumb="technology/battery/bmwixbattery_1_st.jpg" title="Batería BMW iX" width="3000" height="1688">}}
 
 Al final de este artículo, comprenderá mejor el estado actual y las perspectivas de las baterías para vehículos eléctricos y su papel en la transición hacia un sistema de transporte más sostenible.
 
@@ -31,6 +31,6 @@ Hemos dividido el artículo en secciones separadas.
 - [Garantía](warranty/) - ¿Qué tipo de garantía de batería es típica?
 
 <div class="mt-3 mb-3">
-     <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Puertas</strong></ un>
-     <a href="basic/" class="text-decoration-none text-black float-end"><strong>Conceptos básicos sobre la batería <i class="bi-arrow-right"></i></strong>< /a>
+     <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Puertas</strong></a>
+     <a href="basic/" class="text-decoration-none text-black float-end"><strong>Conceptos básicos sobre la batería <i class="bi-arrow-right"></i></strong></a>
 </div>

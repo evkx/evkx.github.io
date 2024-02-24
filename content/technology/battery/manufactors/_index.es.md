@@ -49,6 +49,6 @@ En el siguiente vídeo, Elliot Richard del programa Fully Charged le ofrece un r
 [Para obtener una lista completa de productores de celdas, consulte Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
 
 <div class="mt-3 mb-3">
-     <a href="../buffer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Búfer</strong></ un>
+     <a href="../buffer/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Búfer</strong></a>
      <a href="../warranty/" class="text-decoration-none text-black float-end"><strong>Garantía <i class="bi-arrow-right"></i></strong ></a>
 </div>

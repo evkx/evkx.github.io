@@ -172,6 +172,6 @@ En el siguiente vídeo, la científica e ingeniera de baterías [Jill Pestana](h
 {{< youtube yyp-GydAHfM >}}
 
 <div class="mt-3 mb-3">
-     <a href="../basic/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Conceptos básicos sobre la batería</strong>< /a>
+     <a href="../basic/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Conceptos básicos sobre la batería</strong></a>
      <a href="../cell/" class="text-decoration-none text-black float-end"><strong>Carcasa de celda <i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -96,5 +96,5 @@ Una de las características de seguridad clave de las baterías Blade es el uso 
 
 <div class="mt-3 mb-3">
      <a href="../cellchemistry/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Química celular y partes</strong ></a>
-     <a href="../batterypack/" class="text-decoration-none text-black float-end"><strong>Paquete de batería y configuración <i class="bi-arrow-right"></i> </strong></a>
+     <a href="../batterypack/" class="text-decoration-none text-black float-end"><strong>Paquete de batería y configuración <i class="bi-arrow-right"></i></strong></a>
 </div>

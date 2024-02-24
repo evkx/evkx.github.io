@@ -281,6 +281,6 @@ La siguiente tabla muestra cómo la densidad del paquete ha variado con el tiemp
 Si desea obtener detalles sobre más paquetes, le recomendamos <a href="https://www.batterydesign.net/maximising-pack-energy-density/">BatteryDesign.net</a>
 
 <div class="mt-3 mb-3">
-     <a href="../cell/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Vivienda celular</strong>< /a>
-     <a href="../batterymanagment/" class="text-decoration-none text-black float-end"><strong>Gestión de la batería <i class="bi-arrow-right"></i></ fuerte></a>
+     <a href="../cell/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Vivienda celular</strong></a>
+     <a href="../batterymanagment/" class="text-decoration-none text-black float-end"><strong>Gestión de la batería <i class="bi-arrow-right"></i></strong></a>
 </div>

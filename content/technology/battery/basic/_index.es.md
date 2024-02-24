@@ -42,6 +42,6 @@ Si desea pasar al siguiente nivel, comprenda cómo funciona una batería de ione
 {{< youtube 4-1psMHSpKs >}}
 
 <div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Introducción a las baterías para vehículos eléctricos </strong></ un>
+     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Introducción a las baterías para vehículos eléctricos </strong></a>
      <a href="../cellchemistry/" class="text-decoration-none text-black float-end"><strong>Química celular y partes <i class="bi-arrow-right"></i> </strong></a>
 </div>
