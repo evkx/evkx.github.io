@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>EX30 Winter Range Test. Great results</h3>
+<p>Volvo Kristian: 24.02.2024</p>
+
+{{< youtube a1n54zeuJDM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Full Tour Of The Volvo EX30! Incredible Price, Technology, & Performance In This Small Electric SUV</h3>
 <p>Out of Spec Reviews: 07.06.2023</p>
 

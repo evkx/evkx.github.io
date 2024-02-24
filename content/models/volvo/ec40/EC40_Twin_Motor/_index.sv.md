@@ -200,7 +200,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 20.02.2024 och leveranserna startade i April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EC40 </strong>
 </a>

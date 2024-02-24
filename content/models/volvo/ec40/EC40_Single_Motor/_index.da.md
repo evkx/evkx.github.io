@@ -200,7 +200,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 20.02.2024, og leveringerne startede i April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EC40 </strong>
 </a>

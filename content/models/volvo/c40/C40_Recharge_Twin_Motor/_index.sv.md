@@ -26,6 +26,12 @@ Vi har delat in vår beskrivning av Volvo C40 Recharge Twin Motor i avsnitt. Om 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<div class="alert alert-secondary" role="alert">
+
+Denna modell har ersatts av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor/).
+
+</div>
+
 
 ## Prestanda
 
@@ -200,7 +206,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
 </a>
