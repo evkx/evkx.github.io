@@ -95,7 +95,10 @@ Bare én type forsete er tilgjengelig i Peugot E-3008 Long Range.
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering (tilvalg)
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
@@ -150,7 +153,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Peugot E-3008 Long Range. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+Du kan velge mellom to lydsystemer på Peugot E-3008 Long Range. Med  får du seks høyttalere med en maksimal systemeffekt på 100 watt. Med  får du common.number.zero høyttalere med en maksimal systemeffekt på 690 watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Peugot E-3008 Long Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
@@ -173,6 +176,8 @@ Peugot E-3008 Long Range har et [**ABS-bremsesystem**](../../../../technology/dr
 
 Peugot E-3008 Long Range har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er tilvalg førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+
 Peugot E-3008 Long Range har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 [**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
@@ -188,6 +193,10 @@ Med Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfunksj
 Med Drive Assist Plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
+### Sensorer og kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsystemene.
+driverassistance.CameraRadarUltrasonic.TrueTrueTrueFalse
 
 {{<evkxdisplayaddarticle />}}
 

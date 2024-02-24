@@ -95,7 +95,10 @@ Only one front seat type is available in the Peugot E-3008 Long Range.
 The following functionalities are available on the **standard** seat.
 
 - electric adjustment (optional)
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
@@ -150,7 +153,7 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the Peugot E-3008 Long Range. With the , you get NULL speakers with a max system output of  watts.
+You can choose between two sound systems on the Peugot E-3008 Long Range. With the , you get six speakers with a max system output of 100 watts. With the , you get common.number.zero speakers with a max system output of 690 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
@@ -173,6 +176,8 @@ The Peugot E-3008 Long Range has an [**anti-lock braking system (ABS)**](../../.
 
 The Peugot E-3008 Long Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is an optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
 The Peugot E-3008 Long Range has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots.
@@ -188,6 +193,10 @@ With the Drive Assist  level 1 system, you get the following driving automation 
 With the Drive Assist Plus  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
+driverassistance.CameraRadarUltrasonic.TrueTrueTrueFalse
 
 {{<evkxdisplayaddarticle />}}
 
