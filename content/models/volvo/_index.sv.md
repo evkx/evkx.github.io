@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Volvo C40 är en crossover tillgänglig i 4 varianter.
+Volvo C40 är en crossover tillgänglig i 3 varianter.
 </p>
 	<a href="c40/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
@@ -30,7 +30,7 @@ Volvo C40 är en crossover tillgänglig i 4 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Volvo EC40 är en crossover tillgänglig i 2 varianter.
+Volvo EC40 är en crossover tillgänglig i 3 varianter.
 </p>
 	<a href="ec40/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
