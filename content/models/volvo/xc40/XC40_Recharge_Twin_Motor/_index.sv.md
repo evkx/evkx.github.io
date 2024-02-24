@@ -26,6 +26,12 @@ Vi har delat in vår beskrivning av Volvo XC40 Recharge Twin Motor i avsnitt. Om
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<div class="alert alert-secondary" role="alert">
+
+Denna modell har ersatts av [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor/).
+
+</div>
+
 
 ## Prestanda
 

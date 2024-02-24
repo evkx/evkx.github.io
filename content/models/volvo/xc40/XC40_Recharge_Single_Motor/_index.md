@@ -26,6 +26,12 @@ We have separated our Volvo XC40 Recharge Single Motor article into sections. If
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Volvo EX40 Single Motor](/models/volvo/ex40/ex40_single_motor/).
+
+</div>
+
 
 ## Performance
 
@@ -189,6 +195,9 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/trunk_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="3000" height="2250"  >}}
+
+### Availability & Pricing
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>

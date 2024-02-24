@@ -569,7 +569,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="volvo/"><img src="https://media.evkx.net/multimedia/models/volvo/brandevs_st.jpg" class="img-fluid mb-2" alt="Volvo" ></a>
 	<h2>Volvo</h2>
 	<p>
-	Volvo har 5 modell(er) med totalt 12 varianter.
+	Volvo har 6 modell(er) med totalt 15 varianter.
 	</p>
 	<a href="volvo/" class="btn btn-outline-primary" role="button">Gå till Volvo modellöversikt</a>
 </div>

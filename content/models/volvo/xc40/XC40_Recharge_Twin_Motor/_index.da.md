@@ -26,6 +26,12 @@ Vi har opdelt vores Volvo XC40 Recharge Twin Motor artikel i sektioner. Hvis du 
 - [Avancerede driver-assistance-systemer](#advanced-driver-assistance-systems)
 - [Lastkapacitet og bugseringsevne](#cargo-capacity-and-towing-ability)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor/).
+
+</div>
+
 
 ## Ydeevne
 

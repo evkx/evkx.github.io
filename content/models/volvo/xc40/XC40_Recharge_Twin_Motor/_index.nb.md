@@ -26,6 +26,12 @@ Vi har delt vår beskrivelse av Volvo XC40 Recharge Twin Motor i seksjoner. Hvis
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne modellen er erstattet av [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor/).
+
+</div>
+
 
 ## Ytelse
 

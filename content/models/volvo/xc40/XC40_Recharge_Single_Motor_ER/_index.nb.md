@@ -26,6 +26,12 @@ Vi har delt vår beskrivelse av Volvo XC40 Recharge Single Motor ER i seksjoner.
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne modellen er erstattet av [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40_single_motor_er/).
+
+</div>
+
 
 ## Ytelse
 
@@ -189,6 +195,9 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="3000" height="2250"  >}}
+
+### Tilgjengelighet & pris
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>

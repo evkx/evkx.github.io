@@ -26,6 +26,12 @@ We have separated our Volvo XC40 Recharge Twin Motor article into sections. If y
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor/).
+
+</div>
+
 
 ## Performance
 

@@ -78,3 +78,17 @@ Volvo XC40 is a crossover available in 3 variants.
 		</div>
 	</div>
 </div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Volvo XC40</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="xc40"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" class="img-fluid" alt="Volvo XC40" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Volvo XC40 is a crossover available in 3 variants.
+</p>
+	<a href="xc40/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>

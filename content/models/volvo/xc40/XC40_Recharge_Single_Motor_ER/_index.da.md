@@ -26,6 +26,12 @@ Vi har opdelt vores Volvo XC40 Recharge Single Motor ER artikel i sektioner. Hvi
 - [Avancerede driver-assistance-systemer](#advanced-driver-assistance-systems)
 - [Lastkapacitet og bugseringsevne](#cargo-capacity-and-towing-ability)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40_single_motor_er/).
+
+</div>
+
 
 ## Ydeevne
 
@@ -189,6 +195,9 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="3000" height="2250"  >}}
+
+### Tilgængelighed og priser
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>

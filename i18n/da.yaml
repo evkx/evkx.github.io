@@ -109,6 +109,15 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-ea07c9b5
+  translation: Volvo EX40 Twin Motor er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 535 km (333 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-81608bf9
+  translation: Volvo EX40 Single Motor ER er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 572 km (356 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-cf09af6f
+  translation: Volvo EX40 Single Motor er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 467 km (290 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-89f7e5ac
   translation: Honda Prologue FWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 476 km (296 miles). EVKX.net har alle detaljerne.
 
@@ -147,13 +156,4 @@
 
 - id: frontpage-description-5af16ab1
   translation: Kia EV9 Long Range RWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 563 km (350 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-abfe27f9
-  translation: Renault Scenic E-Tech electric er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 450 km (280 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-1acd4168
-  translation: Porsche Taycan Turbo S er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 630 km (392 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-9b4e225d
-  translation: BMW i5 M60 xDrive Touring er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 515 km (320 miles). EVKX.net har alle detaljerne.
 
