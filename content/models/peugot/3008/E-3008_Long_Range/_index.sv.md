@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Peugot E-3008 Long Range i avsnitt. Om du vi
 
 ## Prestanda
 
-Peugot E-3008 Long Range har en maximal effekt på 170 KW (231hk). Totalt vridmoment är 343 Nm. Den gör sprinten 0-100 km/h på 9,1 sekunder. Topphastigheten är 150 km/h.
+Peugot E-3008 Long Range har en maximal effekt på 157 KW (214hk). Totalt vridmoment är 345 Nm. Den gör sprinten 0-100 km/h på 9 sekunder. Topphastigheten är 170 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -37,7 +37,7 @@ Batteriet har en bruttokapacitet på 98kWh och en nettokapacitet på 98kWh, vilk
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 700 km. Förbrukningen är 14.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 110 minuter, medan ett vanligare scenario på 10-80 % tar 56 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 74kW. Varje laddningssession tar 41 minuter och 45 sekunder.
+Maximal DC-laddningshastighet är 160 kW. En full laddning från 0 - 100 % tar 110 minuter, medan ett vanligare scenario på 10-80 % tar 56 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 74kW. Varje laddningssession tar 41 minuter och 45 sekunder.
 
 För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 10 timmar och 24 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 5% till 57%. Total tid som går förlorad för att ladda batteriet kommer att vara 125 minuter.
 
@@ -57,13 +57,13 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Peugot E-3008 Long Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 200 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 198 mm.
 
 ### Bromsar
 
 
 
-[Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual - regen-user-brakepedal) för att regenerera.
+[Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual - regen-user-brakepedal) för att regenerera. Du kan justera hur stark regen du blir när du lyfter foten. Det finns tre nivåer.
 
 ## Exteriör
 
@@ -72,9 +72,9 @@ Dessutom kan du välja mellan 2 hjul i storlek från 19 till 20 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
-Det finns bara ett tak för denna modell.
+Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
+B-stolpen och vyerna bak är tonade.
 
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/exterior_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="1666"  >}}
@@ -114,8 +114,10 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -131,14 +133,16 @@ Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. 
 
 Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
+Du har trådlös laddning för din telefon.
+
 {{<evkxdisplayaddarticle />}}
 
 
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 10.3 tum. Skärmen touch i mitten av instrumentbrädan är 10.3 tum.
-En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+Peugot E-3008 Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 10.0 tum. Skärmen touch på höger sida av den delade ramen är 10.0 tum.
+Modellen är inte tillgänglig med head-up display.
 
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/screens_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2167"  >}}
@@ -150,10 +154,10 @@ En typ av ljudsystem är tillgänglig för Peugot E-3008 Long Range. Med  får d
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Peugot E-3008 Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
-
+Modellen har 4 USB-C-anslutningar som standard.
 ## Ljus
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+Du kan välja mellan två typer av strålkastare för Peugot E-3008 Long Range. Standardlamporna använder LED-teknik. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/headlights_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
@@ -171,12 +175,18 @@ Peugot E-3008 Long Range har en [**filhållningsassistent**](../../../../technol
 
 Peugot E-3008 Long Range har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+
 ### Körautomation
 
-Peugot E-3008 Long Range erbjuder [nivå 1 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Peugot E-3008 Long Range erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktioner.
+Med Drive Assist  nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+
+Med Drive Assist Plus  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
+- [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -185,9 +195,12 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 434 liter. Med baksätet nedfällt är det 1467 liter. Bilens maximala vikt är 2030 kg, och med basvikten på 1573 kg kan du lasta maximalt 457 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 457 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Lastkapaciteten i bagageutrymmet är 520 liter. Med baksätet nedfällt är det 1480 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2640 kg, och med basvikten på 2108 kg kan du lasta maximalt 532 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1250, och på en obromsad är den 750 kg.
+### Tillgänglighet och pris
+
+Denna modell hade världspremiär 12.09.2023 och leveranserna startade i February 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 3008 </strong>
 </a>

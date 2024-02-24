@@ -26,6 +26,12 @@ Vi har opdelt vores Volvo C40 Recharge Single Motor artikel i sektioner. Hvis du
 - [Avancerede driver-assistance-systemer](#advanced-driver-assistance-systems)
 - [Lastkapacitet og bugseringsevne](#cargo-capacity-and-towing-ability)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_single_motor/).
+
+</div>
+
 
 ## Ydeevne
 
@@ -200,7 +206,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_single_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
 </a>

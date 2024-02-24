@@ -9,17 +9,10 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>ALL NEW JEEP AVENGER: the new superhero of small electric cars?</h3>
-<p>Electrifying: 20.01.2023</p>
+<h3>How the all-new Peugeot 3008 surprises in design and range! REVIEW e-3008</h3>
+<p>Autogefühl: 18.02.2024</p>
 
-{{< youtube Ofj_X4415R0 >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Jeep Avenger: The New King Of SMALL EVs?</h3>
-<p>Fully Charged Show: 20.01.2023</p>
-
-{{< youtube OW-0LMwcjgQ >}}
+{{< youtube wklgg5Je618 >}}
 
 </div>
 <div class="mt-3 mb-3">
