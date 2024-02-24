@@ -126,7 +126,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+Det er ett tilgjengelig klimasystem. Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
 ## Komfort
 
@@ -153,7 +153,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Du kan velge mellom to lydsystemer på Peugot E-3008 Long Range. Med  får du seks høyttalere med en maksimal systemeffekt på 100 watt. Med  får du common.number.zero høyttalere med en maksimal systemeffekt på 690 watt.
+Du kan velge mellom to lydsystemer på Peugot E-3008 Long Range. Med  får du seks høyttalere med en maksimal systemeffekt på 100 watt. Med  får du ti høyttalere med en maksimal systemeffekt på 690 watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Peugot E-3008 Long Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
@@ -196,7 +196,7 @@ Med Drive Assist Plus  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 ### Sensorer og kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsystemene.
-driverassistance.CameraRadarUltrasonic.TrueTrueTrueFalse
+Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

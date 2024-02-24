@@ -1183,7 +1183,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Antal högtalare
 			</td>
 			<td>
-				0
+				10
 			</td>
 		</tr>
 		<tr>

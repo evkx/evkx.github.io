@@ -1183,7 +1183,7 @@ This model is available with a seat configuration with five seats.
 				Number of speakers
 			</td>
 			<td>
-				0
+				10
 			</td>
 		</tr>
 		<tr>

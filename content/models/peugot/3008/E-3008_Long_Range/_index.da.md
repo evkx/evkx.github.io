@@ -126,7 +126,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Der er et tilgængeligt klimasystem. Klimasystemet 2-zone understøtter forskellige temperaturer i to zoner for fører og passager. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
 
 ## Komfort
 
@@ -153,7 +153,7 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-Du kan vælge mellem to lydsystemer på Peugot E-3008 Long Range. Med  får du seks højttalere med en maksimal systemeffekt på 100 watt. Med  får du common.number.zero højttalere med en maksimal systemeffekt på 690 watt.
+Du kan vælge mellem to lydsystemer på Peugot E-3008 Long Range. Med  får du seks højttalere med en maksimal systemeffekt på 100 watt. Med  får du ti højttalere med en maksimal systemeffekt på 690 watt.
 
 Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Peugot E-3008 Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
@@ -196,7 +196,7 @@ Med Drive Assist Plus  niveau 2-systemet får du yderligere køreautomatiserings
 ### Sensorer og kameraer
 
 Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsystemerne.
-driverassistance.CameraRadarUltrasonic.TrueTrueTrueFalse
+Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

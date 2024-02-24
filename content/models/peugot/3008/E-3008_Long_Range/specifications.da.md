@@ -1183,7 +1183,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Antal højttalere
 			</td>
 			<td>
-				0
+				10
 			</td>
 		</tr>
 		<tr>

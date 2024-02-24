@@ -126,7 +126,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -153,7 +153,7 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-You can choose between two sound systems on the Peugot E-3008 Long Range. With the , you get six speakers with a max system output of 100 watts. With the , you get common.number.zero speakers with a max system output of 690 watts.
+You can choose between two sound systems on the Peugot E-3008 Long Range. With the , you get six speakers with a max system output of 100 watts. With the , you get ten speakers with a max system output of 690 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
@@ -196,7 +196,7 @@ With the Drive Assist Plus  level 2 system, you get additional driving automatio
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
-driverassistance.CameraRadarUltrasonic.TrueTrueTrueFalse
+Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -1183,7 +1183,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Antall høyttalere
 			</td>
 			<td>
-				0
+				10
 			</td>
 		</tr>
 		<tr>
