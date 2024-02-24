@@ -134,6 +134,42 @@ target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_1_xst.jpg" alt="YangWang U9" class="img-fluid " />
 		</a>
 	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_2.jpg"
+data-pswp-width="1439"
+data-pswp-height="980" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_2_xst.jpg" alt="YangWang U9" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_3.jpg"
+data-pswp-width="2000"
+data-pswp-height="1500" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_3_xst.jpg" alt="YangWang U9" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_4.jpg"
+data-pswp-width="1471"
+data-pswp-height="1103" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_4_xst.jpg" alt="YangWang U9" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_5.jpg"
+data-pswp-width="1380"
+data-pswp-height="1035" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/yangwang/u9/u9/screens_5_xst.jpg" alt="YangWang U9" class="img-fluid " />
+		</a>
+	</div>
 </div>
 <script type="module">
   import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';

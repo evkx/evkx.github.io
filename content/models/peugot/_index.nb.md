@@ -44,7 +44,7 @@ Peugot 208 er en crossover tilgjengelig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Peugot 3008 er en Coupe SUV tilgjengelig i 1 varianter.
+Peugot 3008 er en Coupe SUV tilgjengelig i 2 varianter.
 </p>
 	<a href="3008/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

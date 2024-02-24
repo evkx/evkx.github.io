@@ -44,7 +44,7 @@ Peugot 208 is a crossover available in 1 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Peugot 3008 is a Coupe SUV available in 1 variants.
+Peugot 3008 is a Coupe SUV available in 2 variants.
 </p>
 	<a href="3008/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

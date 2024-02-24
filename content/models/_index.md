@@ -554,7 +554,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Peugeot is a French brand of automobiles that was founded in 1810 as a steel foundry that later produced hand tools, kitchen equipment, bicycles and cars. Peugeot is known for its lion logo, which was registered in 1858 by Émile Peugeot. Peugeot is part of the Stellantis group, which was formed in 2021 by the merger of PSA Peugeot Citroën and Fiat Chrysler Automobiles.
 	</p>
 	<p>
-	Peugot has 4 models with total 5 variants.
+	Peugot has 4 models with total 6 variants.
 	</p>
 	<a href="peugot/" class="btn btn-outline-primary" role="button">Go to Peugot EV-model overview</a>
 </div>

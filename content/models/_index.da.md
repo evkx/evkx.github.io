@@ -449,7 +449,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>
 	<h2>Peugot</h2>
 	<p>
-	Peugot har 4 modeller med i alt 5 varianter.
+	Peugot har 4 modeller med i alt 6 varianter.
 	</p>
 	<a href="peugot/" class="btn btn-outline-primary" role="button">Gå til Peugot EV-modeloversigt</a>
 </div>
