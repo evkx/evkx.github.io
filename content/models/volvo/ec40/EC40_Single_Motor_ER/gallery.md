@@ -45,6 +45,24 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/exterior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/exterior_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/exterior_4_xst.jpg" alt="Volvo EC40 Single Motor ER" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/exterior_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/exterior_5.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/exterior_5_xst.jpg" alt="Volvo EC40 Single Motor ER" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/frontseats_1.jpg"
 data-pswp-width="3000"
@@ -75,7 +93,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/headlights_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2000" 
+data-pswp-height="2184" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor_er/headlights_1_xst.jpg" alt="Volvo EC40 Single Motor ER" class="img-fluid " />
 		</a>
