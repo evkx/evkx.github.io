@@ -23,16 +23,16 @@ Volvo C40 is a crossover available in 4 variants.
 	</div>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Volvo C40</h3>
+<h3> Volvo EC40</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="c40"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" class="img-fluid" alt="Volvo C40" ></a>
+			<a href="ec40"><img src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_single_motor/main_1_st.jpg" class="img-fluid" alt="Volvo EC40" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Volvo C40 is a crossover available in 2 variants.
+Volvo EC40 is a crossover available in 2 variants.
 </p>
-	<a href="c40/" class="btn btn-outline-primary" role="button">Go to model info</a>
+	<a href="ec40/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
@@ -65,6 +65,20 @@ Volvo EX30 is a crossover available in 3 variants.
 	</div>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Volvo EX40</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ex40"><img src="https://media.evkx.net/multimedia/models/volvo/ex40/ex40_single_motor/main_1_st.jpg" class="img-fluid" alt="Volvo EX40" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Volvo EX40 is a crossover available in 3 variants.
+</p>
+	<a href="ex40/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Volvo EX90</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
@@ -75,20 +89,6 @@ Volvo EX30 is a crossover available in 3 variants.
 Volvo EX90 is a SUV available in 2 variants.
 </p>
 	<a href="ex90/" class="btn btn-outline-primary" role="button">Go to model info</a>
-		</div>
-	</div>
-</div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Volvo XC40</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="xc40"><img src="https://media.evkx.net/multimedia/models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" class="img-fluid" alt="Volvo XC40" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
-Volvo XC40 is a crossover available in 3 variants.
-</p>
-	<a href="xc40/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
