@@ -198,7 +198,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 18.05.2022, og leveringene startet i August 2022. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40_single_motor_er).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>
 </a>

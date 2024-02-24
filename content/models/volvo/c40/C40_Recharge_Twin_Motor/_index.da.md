@@ -155,7 +155,7 @@ Modellen har 1 USB-C-forbindelser som standard.
 Du kan vælge mellem to typer forlygter til Volvo C40 Recharge Twin Motor. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 
-{{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2184"  >}}
 
 ## Avancerede førerassistentsystemer
 
@@ -197,7 +197,10 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
 </a>

@@ -198,7 +198,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-<div class="mt-3 mb-3">
+Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40_single_motor_er).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>
 </a>

@@ -26,7 +26,7 @@ Por ejemplo, algunos frunks tienen características de aislamiento, drenaje o bl
 
 ## ¿Cuáles son las posibilidades de los frunks?
 
-{{< sitefiguresized thumb="technology/cargoandtowing/frunkcargo/frunk_2_st.jpeg" title="Lucid Gravity frunk usado como sofá." ancho="2573" alto="1762">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/frunkcargo/frunk_2_st.jpeg" title="Lucid Gravity frunk usado como sofá." width="2573" height="1762">}}
 
 Frunk cargo puede ofrecer muchas posibilidades y ventajas para los propietarios de vehículos eléctricos, como por ejemplo:
 

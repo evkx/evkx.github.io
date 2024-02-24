@@ -39,6 +39,7 @@ La configuración del paquete puede afectar la velocidad de carga. Una configura
 Lo mismo ocurre con los cargadores CCS HPC, ya que están limitados a 500 amperios. 400 voltios con 500 amperios es un máximo de 200 KW. La velocidad de carga de una batería de 300 voltios estaría limitada a 150 KW.
 
 Volvo y Polestar afirman que sus próximos vehículos eléctricos con paquetes de 400 voltios tendrían una carga de 250 kW. Sin embargo, no está claro cómo gestionarían eso con los límites estándar actuales de CCS.
+
 #### Temperatura
 
 La temperatura de la batería puede afectar significativamente la velocidad de carga. Por ejemplo, el BMS puede reducir la velocidad de carga en más del 50% en climas fríos.
@@ -67,7 +68,7 @@ El fabricante decide la curva basándose en varios datos. La entrada podría ser
 
 Algunos fabricantes también limitan el número de sesiones de carga de alta velocidad durante un período. Toytota BZ4X es un modelo que Toyota lanzó con una limitación de sólo dos sesiones de alta velocidad durante 24 horas. Más carga sería a baja velocidad.
 
-{{< sitefiguresized thumb="technology/battery/charging/taycancharging_1_st.jpg" ancho="3000" altura="2669" title="Carga Porsche Taycan" >}}
+{{< sitefiguresized thumb="technology/battery/charging/taycancharging_1_st.jpg" width="3000" height="2669" title="Carga Porsche Taycan" >}}
 
 Porsche Taycan es un modelo en el que el propietario puede establecer como máxima una velocidad de carga "amigable con la batería" para disminuir la degradación. Un Taycan puede cargarse inicialmente con una velocidad de hasta 270 KW. Con esta configuración habilitada, está limitada a 200 KW.
 

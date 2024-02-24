@@ -16,7 +16,21 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Volvo C40 är en crossover tillgänglig i 3 varianter.
+Volvo C40 är en crossover tillgänglig i 4 varianter.
+</p>
+	<a href="c40/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Volvo C40</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="c40"><img src="https://media.evkx.net/multimedia/models/volvo/c40/C40_recharge_twin_motor/main_1_st.jpg" class="img-fluid" alt="Volvo C40" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Volvo C40 är en crossover tillgänglig i 2 varianter.
 </p>
 	<a href="c40/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

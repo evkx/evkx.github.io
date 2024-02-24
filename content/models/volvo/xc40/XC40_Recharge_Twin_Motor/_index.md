@@ -195,7 +195,10 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/trunk_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="3000" height="2250"  >}}
-<div class="mt-3 mb-3">
+
+### Availability & Pricing
+
+This model had a world premiere on 18.05.2022, and deliveries started in August 2022. This models has now been discontined. This model has been replaced by [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>
 </a>

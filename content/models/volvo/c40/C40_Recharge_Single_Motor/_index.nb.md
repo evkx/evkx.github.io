@@ -155,7 +155,7 @@ Modellen har 1 USB-C-tilkoblinger som standard.
 Du kan velge mellom to typer frontlykter for Volvo C40 Recharge Single Motor. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 
-{{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2184"  >}}
 
 ## Avanserte førerassistentsystemer
 
@@ -197,7 +197,10 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 18.05.2022, og leveringene startet i August 2022. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
 </a>

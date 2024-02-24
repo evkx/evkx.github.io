@@ -18,7 +18,7 @@ La capacidad de carga varía mucho según el tipo de coche y las soluciones eleg
 
 La mayoría de los automóviles pueden plegar los asientos traseros. Al hacer esto, puede aumentar la capacidad de carga. Los automóviles típicos tienen una división 40:60 o 40:20:40 en los asientos traseros para acomodar 3, 2 o 1 asiento trasero.
 
-{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_2_st.jpg" title="Audi e-tron GT con los asientos traseros abatidos." ancho="3000" alto="1999">}}
+{{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_2_st.jpg" title="Audi e-tron GT con los asientos traseros abatidos." width="3000" height="1999">}}
 
 En el caso de los automóviles de 3 filas, el conductor normalmente puede plegar los asientos de la tercera y la segunda fila.
 
@@ -95,6 +95,7 @@ Sin embargo, la carga interior tiene sus desventajas. Algunas de las limitacione
 ### Capacidad de peso
 
 La carga interior tiene una capacidad limitada que no se puede exceder sin comprometer el rendimiento, la seguridad o la legalidad del automóvil. La carga interior no puede exceder la carga útil máxima del automóvil, que es el peso total de los pasajeros y la carga que el automóvil puede transportar.
+
 ### Compatibilidad
 
 Es posible que la carga interior solo sea compatible con algunos tipos de artículos que el propietario desee almacenar o transportar. Es posible que la carga interior no pueda acomodar artículos grandes, voluminosos o irregulares que no quepan dentro del automóvil o que puedan dañar el interior del automóvil. Es posible que la carga interior tampoco sea adecuada para artículos sucios, mojados o malolientes, ya que pueden manchar, dañar o contaminar el interior del automóvil.

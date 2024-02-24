@@ -6,6 +6,8 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+<h2>Discontinued variants</h2>
+
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Volvo C40 Recharge Single Motor</h3>
 	<div class="row">
@@ -59,6 +61,25 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="c40_recharge_twin_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
 				<li class="list-group-item list-group-item-action"><a href="c40_recharge_twin_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
 				<li class="list-group-item list-group-item-action"><a href="c40_recharge_twin_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3>Volvo EC40 Twin Motor</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="ec40_twin_motor/"><img src="" class="img-fluid" width="400px" height="0px" alt="EC40 Twin Motor" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 205 kW 
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="ec40_twin_motor/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
 			</ul>
 		</div>
 	</div>

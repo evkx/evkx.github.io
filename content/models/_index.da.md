@@ -569,7 +569,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="volvo/"><img src="https://media.evkx.net/multimedia/models/volvo/brandevs_st.jpg" class="img-fluid mb-2" alt="Volvo" ></a>
 	<h2>Volvo</h2>
 	<p>
-	Volvo har 6 modeller med i alt 15 varianter.
+	Volvo har 7 modeller med i alt 18 varianter.
 	</p>
 	<a href="volvo/" class="btn btn-outline-primary" role="button">Gå til Volvo EV-modeloversigt</a>
 </div>
