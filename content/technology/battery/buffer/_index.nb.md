@@ -46,7 +46,7 @@ Denne strategien gjør det mindre sannsynlig at elbilen går tom for batteri. Pr
 
 EVKX.net mener dette er en dårlig praksis fra produsentene.
 
-<b>Bjørn Nyland</b>har testet flere elbiler for å se hvor mye ekstra energi produsenten har skjult mellom 0 og 1 %. Mer er verre siden det lurer eieren.
+<b>Bjørn Nyland</b> har testet flere elbiler for å se hvor mye ekstra energi produsenten har skjult mellom 0 og 1 %. Mer er verre siden det lurer eieren.
 
 <img src="https://media.evkx.net/multimedia/technology/battery/tbzeromile_1_st.jpg" class="img-fluid">
 

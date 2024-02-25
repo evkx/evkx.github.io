@@ -21,7 +21,7 @@ Esto se llama condición previa activa. En días fríos, esto es necesario para 
 
 En la imagen siguiente se ven ambos circuitos de refrigeración y un calentador auxiliar que puede calentar la batería cuando está fría.
 
-{{< sitefiguresized thumb="tecnología/batería/thermalmanagment/thermal_management_st.jpg" width="2000" height="1200" title="Gestión térmica del Audi e-tron GT" >}}
+{{< sitefiguresized thumb="technology/battery/thermalmanagment/thermal_management_st.jpg" width="2000" height="1200" title="Gestión térmica del Audi e-tron GT" >}}
 
 En este clip, ve detalles sobre el sistema de gestión térmica del [Audi e-tron GT](/models/e-tron-gt).
 

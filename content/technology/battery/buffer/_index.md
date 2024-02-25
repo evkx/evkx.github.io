@@ -44,7 +44,7 @@ This strategy makes it less likely that the EV would run out of battery. The pro
 
 EVKX.net believes this is a bad practice from the manufacturers.
 
-<b>Bjørn Nyland</b>has tested several EVs to see how much additional energy the manufacturer has hidden between 0 and 1%. More is worse since it tricks the owner.
+<b>Bjørn Nyland</b> has tested several EVs to see how much additional energy the manufacturer has hidden between 0 and 1%. More is worse since it tricks the owner.
 
 <img src="https://media.evkx.net/multimedia/technology/battery/tbzeromile_1_st.jpg" class="img-fluid">
 

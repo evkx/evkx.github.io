@@ -41,11 +41,11 @@ El siguiente diagrama muestra cómo el área SOC utilizada durante la carga/desc
 
 El factor más importante para la carga cíclica es la velocidad de carga. La carga de CC de alta velocidad aumenta el efecto llamado revestimiento de litio que convierte los iones de litio en litio metálico.
 
-Cuando esto sucede, se reducen los iones disponibles en la batería. Una carga a mayor velocidad aumenta la cantidad de iones de litio que no pueden llegar al ánodo. Esto nuevamente se debe a limitaciones en el proceso químico. Si desea obtener más información sobre el revestimiento de litio, puede leer [esta presentación] (https://www.nasa.gov/sites/default/files/atoms/files/1-lithium_plating_azimmerman.pdf) de la NASA.
+Cuando esto sucede, se reducen los iones disponibles en la batería. Una carga a mayor velocidad aumenta la cantidad de iones de litio que no pueden llegar al ánodo. Esto nuevamente se debe a limitaciones en el proceso químico. Si desea obtener más información sobre el revestimiento de litio, puede leer [esta presentación](https://www.nasa.gov/sites/default/files/atoms/files/1-lithium_plating_azimmerman.pdf) de la NASA.
 
 ### Estadísticas de degradación del mundo real
 
-Tesla tiene en el [Informe de impacto de Tesla de 2022] (https://www.tesla.com/ns_videos/2022-tesla-impact-report-highlights.pdf) sus datos más actualizados sobre el Model S y el Model X.
+Tesla tiene en el [Informe de impacto de Tesla de 2022](https://www.tesla.com/ns_videos/2022-tesla-impact-report-highlights.pdf) sus datos más actualizados sobre el Model S y el Model X.
 
 {{< sitefiguresized thumb="technology/battery/degradation/teslastats_1_st.png" width="991" height="550" title="Después de 200.000 millas, las baterías Tesla se degradan sólo un 12%" >}}
 

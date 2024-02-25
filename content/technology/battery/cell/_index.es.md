@@ -16,7 +16,7 @@ Una ventaja es la estabilidad mecánica. La forma redonda de la batería distrib
 
 Otra ventaja es que es posible obtener un alto rendimiento de células en las líneas de producción.
 
-Tesla es uno de los pocos fabricantes de vehículos eléctricos que utiliza esto. [BMW comenzará](https://www.press.bmwgroup.com/global/article/detail/T0403470EN/more-performance-co2-reduced-production-significantly-lower-costs:-bmw-group-to-use -innovadoras-pilas-redondas-bmw-en-neue-klasse-from-2025?language=en) utilizándola en la próxima generación.
+Tesla es uno de los pocos fabricantes de vehículos eléctricos que utiliza esto. [BMW comenzará](https://www.press.bmwgroup.com/global/article/detail/T0403470EN/more-performance-co2-reduced-production-significantly-lower-costs:-bmw-group-to-use-innovadoras-pilas-redondas-bmw-en-neue-klasse-from-2025?language=en) utilizándola en la próxima generación.
 
 Se utilizan tres tamaños diferentes.
 

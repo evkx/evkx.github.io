@@ -129,6 +129,7 @@ La siguiente tabla resume las diferencias.
 </tr>
 </tbody>
 </table>
+
 ## Separador
 
 Un separador es un componente esencial de la batería de un vehículo eléctrico (EV) que se coloca entre el cátodo y el ánodo para evitar que se toquen y provoquen un cortocircuito. El separador suele ser una membrana delgada y porosa hecha de un material polimérico que permite el flujo de iones de litio entre el cátodo y el ánodo, al tiempo que evita el flujo de electrones.
@@ -149,7 +150,7 @@ Los electrolitos líquidos de las baterías de iones de litio consisten en sales
 
 Un electrolito líquido actúa como una vía conductora para el movimiento de cationes que pasan del electrodo negativo al positivo durante la descarga y en la dirección opuesta durante la carga.
 
-Los electrolitos basados en materiales sólidos son áreas en las que muchos trabajan. Se denominan [baterías de estado sólido] (https://en.wikipedia.org/wiki/Solid-state_battery).
+Los electrolitos basados en materiales sólidos son áreas en las que muchos trabajan. Se denominan [baterías de estado sólido](https://en.wikipedia.org/wiki/Solid-state_battery).
 
 Las baterías de estado sólido tienen muchas ventajas potenciales, como una mayor densidad de energía, una carga más rápida, una vida útil más larga y una mayor seguridad. Sin embargo, también enfrentan muchos desafíos, como alto costo, baja densidad de potencia, mala estabilidad de la interfaz y difícil escalabilidad.
 
@@ -167,7 +168,7 @@ El diseño y los materiales utilizados para el colector de corriente pueden tene
 
 ## Batería EV explicada con comida
 
-En el siguiente vídeo, la científica e ingeniera de baterías [Jill Pestana](https://www.linkedin.com/in/jillpestana/) del canal de YouTube [Across the Nanoverse](https://www.youtube.com/@ AcrosstheNanoverse) explica las diferentes partes de la batería con comida.
+En el siguiente vídeo, la científica e ingeniera de baterías [Jill Pestana](https://www.linkedin.com/in/jillpestana/) del canal de YouTube [Across the Nanoverse](https://www.youtube.com/@AcrosstheNanoverse) explica las diferentes partes de la batería con comida.
 
 {{< youtube yyp-GydAHfM >}}
 

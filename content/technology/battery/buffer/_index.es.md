@@ -43,7 +43,7 @@ Esta estrategia hace que sea menos probable que el vehículo eléctrico se quede
 
 EVKX.net cree que se trata de una mala práctica por parte de los fabricantes.
 
-<b>Bjørn Nyland</b>ha probado varios vehículos eléctricos para ver cuánta energía adicional ha ocultado el fabricante entre el 0 y el 1%. Más es peor porque engaña al dueño.
+<b>Bjørn Nyland</b> ha probado varios vehículos eléctricos para ver cuánta energía adicional ha ocultado el fabricante entre el 0 y el 1%. Más es peor porque engaña al dueño.
 
 <img src="https://media.evkx.net/multimedia/technology/battery/tbzeromile_1_st.jpg" class="img-fluid">
 
