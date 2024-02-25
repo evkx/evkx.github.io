@@ -42,7 +42,7 @@ Bjørn Nyland transmite en vivo muchas de sus pruebas en su [canal Teslabjorn Li
 
 Visita sus canales de Youtube y suscríbete.
 
-<a href="https://www.youtube.com/@bjornnyland" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Bjørn Nyland< /a> <a href="https://www.youtube.com/@TeslabjornLive24" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Teslabjorn en vivo</a>
+<a href="https://www.youtube.com/@bjornnyland" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Bjørn Nyland</a> <a href="https://www.youtube.com/@TeslabjornLive24" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Teslabjorn en vivo</a>
 ## Reseñas fuera de especificaciones
 
 {{< sitefiguresized thumb="guides/evreviewers/outofspecreviews_st.jpg" width="680" height="382" title="Reseñas fuera de especificaciones" >}}
@@ -56,15 +56,15 @@ Out of Spec Reviews tiene un amplio conjunto de pruebas estándar. Haga clic en 
 - Primeros viajes. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBWaieOY6Z_zd37XlbHvsG6" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - Revisión en profundidad que cubre el interior, el exterior, la transmisión y las opciones <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCcL-FHtFY9837w0Hw5mAiG" target="_blank"><i class="bi -colección-reproducir-rellenar texto-negro"></i></a>
 - Prueba de autonomía en autopista de 70 mph. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbC-i-UCr10bnI3zwbnAm7kU" target="_blank"><i class="bi-collection-play-fill text-black"></ i></a>
-- 10% de desafío. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCaQZul0c2KxJnRaH8uxZ4I" target="_blank"><i class="bi-collection-play-fill text-black"></i></ a> ¿Hasta dónde puedes conducir después de 15 minutos de carga desde el 10%? [Ver el resultado calculado en nuestra base de datos](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
-- Prueba ADAS. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBRwZoFf2rrenzUwsKU0jZk" target="_blank"><i class="bi-collection-play-fill text-black"></i></ a> Prueba de sistemas avanzados de asistencia al conductor
+- 10% de desafío. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCaQZul0c2KxJnRaH8uxZ4I" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>¿Hasta dónde puedes conducir después de 15 minutos de carga desde el 10%? [Ver el resultado calculado en nuestra base de datos](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
+- Prueba ADAS. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBRwZoFf2rrenzUwsKU0jZk" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>Prueba de sistemas avanzados de asistencia al conductor
 
 El canal también cubre otros contenidos relacionados con los vehículos eléctricos, como infraestructura de carga, motocicletas eléctricas e incluso un avión eléctrico.
 
 En general, Out of Spec Reviews proporciona una perspectiva única sobre los vehículos eléctricos y es un gran recurso para cualquier persona interesada en el espacio de los vehículos eléctricos.
 Out of Spec Reviews es también el único canal que realiza pruebas sistemáticas de los sistemas avanzados de asistencia al conductor.
 
-Out of Spec Reviews está dirigido por Kyle Connor y Out Spec Studios de [Fort Collins, Colorado, EE. UU.] (https://www.google.com/maps/place/40%C2%B033'27.0%22N+105%C2 %B004'37.2%22W/@40.5331224,-105.1267027,13.25z/data=!4m4!3m3!8m2!3d40.5575024!4d-105.077008?entry=ttu). A menudo comienza sus pruebas desde este [punto de carga](https://www.google.com/maps/place/ChargePoint+Charging+Station/@40.7034806,-105.0004959,257m/data=!3m1!1e3!4m14!1m7! 3m6!1s0x876ecc9b0ba5b31f:0xb9b69e642f7600f5!2sKum+%26+Go!8m2!3d40.7032659!4d-104.9999047!16s%2Fg%2F1tf2sqgr!3m5!1s0x876ecc9b04d9 a58f:0x5be3446e078f2509!8m2!3d40.703674!4d-104.999549!16s%2Fg%2F11ny1s37zh? entrada=ttu)
+Out of Spec Reviews está dirigido por Kyle Connor y Out Spec Studios de [Fort Collins, Colorado, EE. UU.](https://www.google.com/maps/place/40%C2%B033'27.0%22N+105%C2%B004'37.2%22W/@40.5331224,-105.1267027,13.25z/data=!4m4!3m3!8m2!3d40.5575024!4d-105.077008?entry=ttu). A menudo comienza sus pruebas desde este [punto de carga](https://www.google.com/maps/place/ChargePoint+Charging+Station/@40.7034806,-105.0004959,257m/data=!3m1!1e3!4m14!1m7!3m6!1s0x876ecc9b0ba5b31f:0xb9b69e642f7600f5!2sKum+%26+Go!8m2!3d40.7032659!4d-104.9999047!16s%2Fg%2F1tf2sqgr!3m5!1s0x876ecc9b04d9a58f:0x5be3446e078f2509!8m2!3d40.703674!4d-104.999549!16s%2Fg%2F11ny1s37zh?entry=ttu)
 Incluso tienen su propio cargador de CC en [CSU Powerhouse](https://www.google.com/maps/@40.5942626,-105.0753647,74m/data=!3m1!1e3?entry=ttu)
 
 Tienen varios otros canales relacionados con los vehículos eléctricos. Kyle también se suma al [podcast Baterías incluidas](https://www.youtube.com/channel/UC8t6qd-ss-pTvi0bqVzYGog) que recomendamos.
@@ -87,13 +87,13 @@ Visita el Canal de Youtube [aquí](https://www.youtube.com/@autogefuehl/videos)
 
 Visita sus canales de Youtube y suscríbete.
 
-<a href="https://www.youtube.com/@autogefuehl" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Autogefühl</ a> <a href="https://www.youtube.com/@only_ev" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> OnlyElectric </a>
+<a href="https://www.youtube.com/@autogefuehl" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Autogefühl</a><a href="https://www.youtube.com/@only_ev" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> OnlyElectric </a>
 
 ## Estado de carga
 
 {{< sitefiguresized thumb="guides/evreviewers/stateofcharge_1_st.jpg" width="1280" height="720" title="Estado de carga" >}}
 
-State of Charge es un canal de YouTube que se especializa en equipos de carga para el hogar, pero que también cubre pruebas de vehículos eléctricos. Los canales están dirigidos por Tom Moloughney de [Norte de Nueva Jersey, EE. UU.](https://www.google.com/maps/place/Charging+Ahead+EV+Consulting/@40.7611725,-74.6597525,369a,35y,226.84h ,44,97t/datos=!3m1!1e3!4m15!1m8!3m7!1s0x89c39997d947c5e1:0xb2471e2c8ef76477!2s34+E+Fox+Chase+Rd,+Chester+Township,+NJ+07930,+EE.UU.!3b1!8m2!3d40. 7590041!4d-74.6637613!16s%2Fg%2F11g0272ps0!3m5!1s0x89c39997decaf7bd:0x4cd31596bd1311c6!8m2!3d40.7590285!4d-74.6637302!16s%2Fg%2F 11c1p17kv3?entrada=ttu)
+State of Charge es un canal de YouTube que se especializa en equipos de carga para el hogar, pero que también cubre pruebas de vehículos eléctricos. Los canales están dirigidos por Tom Moloughney de [Norte de Nueva Jersey, EE. UU.](https://www.google.com/maps/place/Charging+Ahead+EV+Consulting/@40.7611725,-74.6597525,369a,35y,226.84h,44.97t/data=!3m1!1e3!4m15!1m8!3m7!1s0x89c39997d947c5e1:0xb2471e2c8ef76477!2s34+E+Fox+Chase+Rd,+Chester+Township,+NJ+07930,+USA!3b1!8m2!3d40.7590041!4d-74.6637613!16s%2Fg%2F11g0272ps0!3m5!1s0x89c39997decaf7bd:0x4cd31596bd1311c6!8m2!3d40.7590285!4d-74.6637302!16s%2Fg%2F11c1p17kv3?entry=ttu)
 
 Tom Moloughney también es editor senior del sitio de noticias sobre vehículos eléctricos InsideEVs y ha estado cubriendo la industria de los vehículos enchufables desde 2012.
 
@@ -125,7 +125,7 @@ Tiene un canal de habla inglesa y noruega.
 
 Visita sus canales de Youtube y suscríbete.
 
-<a href="https://www.youtube.com/@KrisRifa" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Kris Rifa< /a> <a href="https://www.youtube.com/@jegerkris" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Jeg er Kris</a>
+<a href="https://www.youtube.com/@KrisRifa" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Kris Rifa</a> <a href="https://www.youtube.com/@jegerkris" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Jeg er Kris</a>
 
 
 ## Otras menciones destacadas
