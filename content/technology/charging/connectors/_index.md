@@ -50,7 +50,7 @@ NACS is the proprietary Level 1, Level 2, and Level 3 charging connector for all
 
 The [standard](https://tesla-cdn.thron.com/static/HXVNIC_North_American_Charging_Standard_Technical_Specification_TS-0023666_HFTPKZ.pdf) says it can deliver up to 250 kW of power with a maximum of 1000 Volts. Ford [announced](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html) May 25. 2023, they will add a NACS port on their models from 2024 in North America. GM [Followed on June 08. 2023](https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2023/jun/0608-gm.html).
 
-EVKX.net expect others to follow soon.
+Since then all major manufacturers has informed that they will change to NACS.
 
 {{< sitefiguresized thumb="technology/charging/connectors/nacs_1_st.jpg" width="2048" height="1152" title="NACS connector / Tesla connector" >}}
 
