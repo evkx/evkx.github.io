@@ -108,7 +108,7 @@ Vea también este video para obtener buena información sobre neumáticos espec�
 
 Si quieres entender la física de cómo las diferentes ruedas afectan el consumo y la autonomía, mira el vídeo a continuación.
 
-{{<youtubeNYvKxsYFqO8>}}
+{{< youtube NYvKxsYFqO8 >}}
 
 
 <div class="mt-3 mb-3">

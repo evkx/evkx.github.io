@@ -49,7 +49,7 @@ Sin embargo, algunos críticos han expresado su preocupación por la seguridad, 
 
 En el siguiente vídeo, [Bjørn Nyland](../../../guides/evreviewers/#bjørn-nyland) demuestra los problemas del diseño sin tallo.
 
-{{<youtube5BOmWsV2lto>}}
+{{< youtube 5BOmWsV2lto >}}
 
 El diseño sin tallo está disponible actualmente en los nuevos Model S, Model 3 y Model X, y esperamos que Tesla introduzca pronto un diseño sin tallo en el Model Y.
 

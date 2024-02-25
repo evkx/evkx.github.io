@@ -1,7 +1,7 @@
 ---
-title: ¿Cuánto se puede regenerar?
-linktitle: Cálculos de regeneración
-description: Los siguientes escenarios utilizan matemáticas y física para explicar cuán importantes son los beneficios del frenado regenerativo.
+title: "¿Cuánto se puede regenerar?"
+linktitle: "Cálculos de regeneración"
+description: "Los siguientes escenarios utilizan matemáticas y física para explicar cuán importantes son los beneficios del frenado regenerativo."
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->---
@@ -14,7 +14,7 @@ La transmisión tampoco está exenta de pérdidas, lo que significa que pierde a
 
 ### Escenario 1: Pico Pikes
 
-Tomemos como ejemplo Pikes Peak. Esta montaña tiene 4300 metros (14,110 pies) de altura, pero si conduces por las [primeras 18,6 millas](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States /38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2 m2!1d-105.0422595!2d38.8408707!1m0!3e0), usted [ han caído 6538 pies](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/) (1993 metros)
+Tomemos como ejemplo Pikes Peak. Esta montaña tiene 4300 metros (14,110 pies) de altura, pero si conduces por las [primeras 18,6 millas](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States/38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2m2!1d-105.0422595!2d38.8408707!1m0!3e0), usted [ han caído 6538 pies](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/) (1993 metros)
 
 1993 metros para un Audi e-tron 55 con 2900 kg equivalen a 15,74 kWh de energía potencial.
 
@@ -28,7 +28,7 @@ Esto significa 12,59 kWh para regenerar. Con una eficiencia del 80%, esto signif
 
 En el vídeo a continuación se ve una prueba del mundo real de exactamente este viaje y cuánto son capaces de regenerarse.
 
-{{<youtubevrYRJ9TuaX0>}}
+{{< youtube vrYRJ9TuaX0 >}}
 
 ### Escenario 2: detenerse por completo desde 120 km/h
 
@@ -74,13 +74,14 @@ El resto podría regenerarse y, con un 80% de eficiencia, esto devolvería 1,3 k
 1,3 kWh debería proporcionar 6,8 km de autonomía adicional a 80 km/h (49,7 mph)
 ## Entendiendo la física
 
+
 ### Energía cinética
 
 Un objeto en movimiento tiene energía cinética. Esta energía depende del peso del objeto y de la velocidad del objeto.
 
 La fórmula es
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?KE&space;=&space;\frac{ 1}{2}mv{2})
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?KE&space;=&space;\frac{1}{2}mv{2})
 
 Dónde
 
@@ -125,7 +126,7 @@ A 80 km/h la rueda girará a 566,89 rpm y la energía cinética resultante serí
 
 Nota: Esto no es 100% correcto ya que la fórmula se basa en una rueda con la misma forma desde el centro hasta el borde. Pero está lo suficientemente cerca para este tipo de cálculo.
 
-Si quieres calcular, puedes probar la [Calculadora de energía cinética rotacional] (https://www.omnicalculator.com/physics/rotational-kinetic-energy)
+Si quieres calcular, puedes probar la [Calculadora de energía cinética rotacional](https://www.omnicalculator.com/physics/rotational-kinetic-energy)
 
 ### Energía potencial gravitacional
 
@@ -144,7 +145,7 @@ Por ejemplo, el Audi e-tron 55 de 2900 kg ubicado a 1000 metros (3280 pies) sobr
 
 En zonas con elevación, la energía potencial será la mayor fuente de energía regenerada.
 
-Consulte [calculadora de energía potencial] (https://www.omnicalculator.com/physics/potential-energy)
+Consulte [calculadora de energía potencial](https://www.omnicalculator.com/physics/potential-energy)
 
 ### Resumen
 
@@ -179,6 +180,7 @@ requiere 39,89 kW (24,94 kWh/100 km) para superar la resistencia.
 La temperatura afecta la densidad. A -25 la densidad es de 1,4224 y el consumo a 80 km/h aumenta hasta los 7,23kWh/100km.
 
 Para todos los cálculos de este artículo, asumimos 15 °C
+
 ### Resistencia a la rodadura
 
 Además de la fuerza de arrastre, existe una resistencia a la rodadura de las ruedas y otros componentes del tren motriz que actúa contra el movimiento.

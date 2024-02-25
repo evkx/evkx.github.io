@@ -57,7 +57,7 @@ Otros utilizan motores de inducción en la parte delantera y PSMS en la parte tr
 
 Si desea aprender aún más sobre el motor PSMS, le recomendamos ver este video donde Lucid explica su diseño PMSM y compararlo con otros.
 
-{{<youtubeU7IHZxNC6hc>}}
+{{< youtube U7IHZxNC6hc >}}
 
 <div class="mt-3 mb-3">
      <a href="../asm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motores de inducción</strong>< /a>
