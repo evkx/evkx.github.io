@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/main_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="1999"  >}}
 
-Hemos separado nuestro artículo XPENG G9 RWD Standard Range en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas]( especificaciones/), una [galería de imágenes](galería/), información detallada sobre [rendimiento de carga](curva de carga/) y algunas [reseñas en línea](reseñas/). Nuestras secciones:
+Hemos separado nuestro artículo XPENG G9 RWD Standard Range en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
 - [Batería, autonomía y carga](#battery-range-and-charging)

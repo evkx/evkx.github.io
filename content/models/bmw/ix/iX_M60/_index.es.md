@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/main_1_st.jpg" title="BMW iX M60" width="3000" height="2002"  >}}
 
-Hemos separado nuestro artículo BMW iX M60 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas]( especificaciones/), una [galería de imágenes](galería/), información detallada sobre [rendimiento de carga](curva de carga/) y algunas [reseñas en línea](reseñas/). Nuestras secciones:
+Hemos separado nuestro artículo BMW iX M60 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
 - [Batería, autonomía y carga](#battery-range-and-charging)

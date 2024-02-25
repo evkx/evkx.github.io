@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/main_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
-Hemos separado nuestro artículo Seres 5 4WD Premium en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas]( especificaciones/), una [galería de imágenes](galería/), información detallada sobre [rendimiento de carga](curva de carga/) y algunas [reseñas en línea](reseñas/). Nuestras secciones:
+Hemos separado nuestro artículo Seres 5 4WD Premium en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
 - [Batería, autonomía y carga](#battery-range-and-charging)
