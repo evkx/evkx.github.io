@@ -43,13 +43,14 @@ Bjørn Nyland transmite en vivo muchas de sus pruebas en su [canal Teslabjorn Li
 Visita sus canales de Youtube y suscríbete.
 
 <a href="https://www.youtube.com/@bjornnyland" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Bjørn Nyland</a> <a href="https://www.youtube.com/@TeslabjornLive24" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Teslabjorn en vivo</a>
-## Reseñas fuera de especificaciones
 
-{{< sitefiguresized thumb="guides/evreviewers/outofspecreviews_st.jpg" width="680" height="382" title="Reseñas fuera de especificaciones" >}}
+## Out of spec Reviews
+
+{{< sitefiguresized thumb="guides/evreviewers/outofspecreviews_st.jpg" width="680" height="382" title="Out of spec Reviews" >}}
 
 Out of Spec Reviews es un canal de YouTube que se centra en revisar vehículos eléctricos y resaltar sus capacidades más allá de lo que normalmente anuncian los fabricantes. El canal está dirigido por Kyle Conner y su equipo, apasionados por los vehículos eléctricos y los viajes de aventura.
 
-En Reseñas fuera de especificaciones, puede esperar encontrar reseñas detalladas de una variedad de vehículos eléctricos.
+En Out of spec Reviews, puede esperar encontrar reseñas detalladas de una variedad de vehículos eléctricos.
 Out of Spec Reviews tiene un amplio conjunto de pruebas estándar. Haga clic en <i class="bi-collection-play-fill text-black"></i> para ver las listas de reproducción.
 
 - Prueba de carga. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCM9DepIl6Ms1WENgEmki1b" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
