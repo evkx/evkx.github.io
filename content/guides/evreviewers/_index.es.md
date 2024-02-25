@@ -91,9 +91,9 @@ Visita sus canales de Youtube y suscríbete.
 
 <a href="https://www.youtube.com/@autogefuehl" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Autogefühl</a><a href="https://www.youtube.com/@only_ev" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> OnlyElectric </a>
 
-## Estado de carga
+## State of Charge
 
-{{< sitefiguresized thumb="guides/evreviewers/stateofcharge_1_st.jpg" width="1280" height="720" title="Estado de carga" >}}
+{{< sitefiguresized thumb="guides/evreviewers/stateofcharge_1_st.jpg" width="1280" height="720" title="State of Charge" >}}
 
 State of Charge es un canal de YouTube que se especializa en equipos de carga para el hogar, pero que también cubre pruebas de vehículos eléctricos. Los canales están dirigidos por Tom Moloughney de [Norte de Nueva Jersey, EE. UU.](https://www.google.com/maps/place/Charging+Ahead+EV+Consulting/@40.7611725,-74.6597525,369a,35y,226.84h,44.97t/data=!3m1!1e3!4m15!1m8!3m7!1s0x89c39997d947c5e1:0xb2471e2c8ef76477!2s34+E+Fox+Chase+Rd,+Chester+Township,+NJ+07930,+USA!3b1!8m2!3d40.7590041!4d-74.6637613!16s%2Fg%2F11g0272ps0!3m5!1s0x89c39997decaf7bd:0x4cd31596bd1311c6!8m2!3d40.7590285!4d-74.6637302!16s%2Fg%2F11c1p17kv3?entry=ttu)
 
