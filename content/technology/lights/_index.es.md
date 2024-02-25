@@ -53,6 +53,6 @@ Atrás quedaron los días en que el interior de los automóviles quedaba envuelt
 [Más información sobre la iluminación ambiental.](luz ambiental)
 
 <div class="mt-3 mb-3">
-     <a href="../interior/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interior</strong></ un>
-     <a href="headlights/" class="text-decoration-none text-black float-end"><strong>Faros <i class="bi-arrow-right"></i></strong></ un>
+     <a href="../interior/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interior</strong></a>
+     <a href="headlights/" class="text-decoration-none text-black float-end"><strong>Faros <i class="bi-arrow-right"></i></strong></a>
 </div>
