@@ -20,6 +20,6 @@ Las bolsas de aire son una característica de seguridad crítica en los vehícul
 
 
 <div class="mt-3 mb-3">
-     <a href="../regen/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frenado regenerativo</strong>< /a>
-     <a href="../seats/" class="text-decoration-none text-black float-end"><strong>Asientos de coche<i class="bi-arrow-right"></i></ fuerte></a>
+     <a href="../regen/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frenado regenerativo</strong></a>
+     <a href="../seats/" class="text-decoration-none text-black float-end"><strong>Asientos de coche<i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -12,7 +12,7 @@ Es una versión avanzada del control de crucero tradicional que ajusta la veloci
 
 ## ¿Como funciona?
 
-{{< sitefiguresized thumb="technology/driverassistance/adaptivecruisecontrol/ilustracion_st.jpg" width="2837" height="1708" title="Ilustración Control de crucero adaptativo Audi" >}}
+{{< sitefiguresized thumb="technology/driverassistance/adaptivecruisecontrol/illustration_st.jpg" width="2837" height="1708" title="Ilustración Control de crucero adaptativo Audi" >}}
 
 **Sensores:** ACC utiliza radares o cámaras para detectar la distancia entre su automóvil y el vehículo que está delante de usted.
 
@@ -29,6 +29,6 @@ Es una versión avanzada del control de crucero tradicional que ajusta la veloci
 El control de crucero adaptativo está diseñado para ayudar a los conductores a mantener una distancia de seguimiento segura y reducir la fatiga del conductor en viajes largos por carretera. Al asumir la responsabilidad de ajustar la velocidad del automóvil en respuesta a las condiciones del tráfico, el conductor puede concentrarse más en la dirección y otras tareas, lo que genera una experiencia de conducción más segura y relajada.
 
 <div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sistemas avanzados de asistencia al conductor (ADAS)< /fuerte></a>
+     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sistemas avanzados de asistencia al conductor (ADAS)</strong></a>
      <a href="../antilockbrakingsystem/" class="text-decoration-none text-black float-end"><strong>Sistema de frenos antibloqueo (ABS)<i class="bi-arrow-right"> </i></strong></a>
 </div>

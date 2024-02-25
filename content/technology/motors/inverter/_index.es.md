@@ -34,6 +34,6 @@ Si desea obtener más información sobre los inversores, le recomendamos ver est
 
 
 <div class="mt-3 mb-3">
-     <a href="../wrsm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> WRSM</strong></ un>
-     <a href="../cooling/" class="text-decoration-none text-black float-end"><strong>Enfriamiento del motor<i class="bi-arrow-right"></i></ fuerte></a>
+     <a href="../wrsm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> WRSM</strong></a>
+     <a href="../cooling/" class="text-decoration-none text-black float-end"><strong>Enfriamiento del motor<i class="bi-arrow-right"></i></strong></a>
 </div>

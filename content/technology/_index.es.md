@@ -23,7 +23,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/driverassistance/adaptivecruisecontrol/illustration_xst.jpg" alt="Advanced Driver Assistance Systems (ADAS)" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Advanced Driver Assistance Systems (ADAS)</h5>
+			<h5>Sistemas avanzados de asistencia al conductor (ADAS)</h5>
 		</div>
         <div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -31,7 +31,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 					<img src="https://media.evkx.net/multimedia/technology/brakes/ceramicetrongt_xst.jpg"  alt="Brakes " class="img-fluid image-cropped-calc border">
 			</a>
 				</div>
-				<h5>Brakes </h5>
+				<h5>Frenos </h5>
 		</div>
         <div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -39,7 +39,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/cargoandtowing/hitchcargo/hitchcargo_1_xst.jpg"  alt="Cargo & Towing" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Cargo & Towing</h5>
+			<h5>Carga y remolque</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -47,7 +47,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/charging/ontheroadcharging/charging_1_st.jpg"  alt="Charging" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Charging</h5>
+			<h5>Cargando</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -55,7 +55,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/hvac/3zoneclimatesystemskodaoctavia_st.jpg"  alt="Climate system" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Climate system</h5>
+			<h5>Sistema climático</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -63,7 +63,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/doors/xpengp7wingdoors_1_xst.jpg"  alt="Doors" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Doors</h5>
+			<h5>Puertas</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 				<div class="mb-2 image-box">
@@ -71,7 +71,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 							<img src="https://media.evkx.net/multimedia/technology/battery/bmwixbattery_1_xst.jpg" alt="EV Batteries" class="img-fluid image-cropped-calc border">
 					</a>
 				</div>
-				<h5>EV Batteries</h5>
+				<h5>Baterías para vehículos eléctricos</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 				<div class="mb-2 image-box">
@@ -87,7 +87,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 							<img src="https://media.evkx.net/multimedia/technology/glassroof/taycan_roof_open_xst.jpg" alt="Glass Panel roof" class="img-fluid image-cropped-calc border">
 					</a>
 				</div>
-				<h5>Glass Panel roof</h5>
+				<h5>Techo de paneles de vidrio</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 				<div class="mb-2 image-box">
@@ -95,7 +95,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 							<img src="https://media.evkx.net/multimedia/technology/infotainment/teslamodelxinfotainment_xst.jpg" alt="Infotainment system" class="img-fluid image-cropped-calc border">
 					</a>
 				</div>
-				<h5>Infotainment system</h5>
+				<h5>Sistema de información y entretenimiento</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 				<div class="mb-2 image-box">
@@ -111,7 +111,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/lights/audisq8lights_xst.jpg"  alt="Lights" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Lights</h5>
+			<h5>Luces</h5>
 			</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -119,7 +119,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/motors/asyncronmotor_xst.jpg"  alt="Motors & Drive Units" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Motors & Drive Units</h5>
+			<h5>Motores y unidades de accionamiento</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -127,7 +127,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/regen/kiaev6regenpaddles_xst.jpg"  alt="Regenerative braking" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Regenerative braking</h5>
+			<h5>Frenado regenerativo</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -135,7 +135,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/safety/illustration_xst.jpg"  alt="Safety" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Safety</h5>
+			<h5>Seguridad</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -143,7 +143,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/seats/types/eqssuv680twinexecutiveseats_1_xst.jpg"  alt="Seats" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Seats</h5>
+			<h5>Asientos</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -151,7 +151,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/sensorsandcameras/lidar/lidarvolvoex90_3_xst.jpg"  alt="Sensors & cameras" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Sensors & cameras</h5>
+			<h5>Sensores y cámaras</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -159,7 +159,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_xst.jpg"  alt="Suspension" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Suspension</h5>
+			<h5>Suspensión</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -167,7 +167,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/wheels/michelinpilotsportev_1_xst.jpg"  alt="Tires & Wheels" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Tires & Wheels</h5>
+			<h5>Neumáticos y ruedas</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -175,7 +175,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/userinterface/eqsui_xst.jpg"  alt="User Interface" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>User Interface</h5>
+			<h5>Interfaz de usuario</h5>
 		</div>
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="mb-2 image-box">
@@ -183,7 +183,7 @@ Los artículos sobre tecnología están dirigidos a cualquiera que desee aprende
 						<img src="https://media.evkx.net/multimedia/technology/windows/windshield_1_xst.jpeg"  alt="Windows" class="img-fluid image-cropped-calc border">
 				</a>
 			</div>
-			<h5>Windows</h5>
+			<h5>Ventanas</h5>
 		</div>
 	</div>
 </div>
@@ -474,7 +474,7 @@ Comprender estas características y cómo funcionan juntas puede ayudar a los co
     <img src="https://media.evkx.net/multimedia/technology/windows/windshield_1_st.jpeg" alt="Windows" title="Windows" class="img-fluid mb-2">
 </a>
 
-## ventanas
+## Ventanas
 
 Las ventanas son partes esenciales de cualquier automóvil, ya que brindan visibilidad, ventilación, protección y comodidad al conductor y a los pasajeros.
 

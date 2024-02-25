@@ -21,16 +21,16 @@ El canal de YouTube de Bjørn, Bjørn Nyland, tiene más de 306.000 suscriptores
 
 Bjørn tiene un amplio conjunto de pruebas estándar. Haga clic en <i class="bi-collection-play-fill text-black"></i> para ver las listas de reproducción.
 
-- Prueba de carga. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4PSt0Sk_9tEkZ3fh6F7_qV" target="_blank"><i class="bi-collection-play-fill text-black"></i></ un>
+- Prueba de carga. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4PSt0Sk_9tEkZ3fh6F7_qV" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - Prueba de alcance de 1000 km (a qué velocidad puede el vehículo eléctrico conducir 1000 km) <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7JYxuVkc5gSVJNWxaJmUNF" target="_blank"><i class="bi-collection-play -rellenar texto-negro"></i></a>
 - Prueba de autonomía de 1.000 km con remolque (¿a qué velocidad puede el vehículo eléctrico recorrer 1.000 km con remolque)?
 - Prueba de caja de plátano. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4S_twAZeVNXQkWIC--PapZ" target="_blank"><i class="bi-collection-play-fill text-black"></i ></a>
 - Revisión de interiores
-- Prueba de autonomía en 90 y 120km/h. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6aKC29mT8aC3YI6izOTzpF" target="_blank"><i class="bi-collection-play-fill text-black"></i></ un>
+- Prueba de autonomía en 90 y 120km/h. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6aKC29mT8aC3YI6izOTzpF" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - Prueba de ruido y aceleración. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv5AMA7O-5EE1tSB8AXrPx2e" target="_blank"><i class="bi-collection-play-fill text-black"></i> </a>
-- Prueba de conducción dominical. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7QSOjrZHCBBei5_1EEPJKS" target="_blank"><i class="bi-collection-play-fill text-black"></i></ un>
-- Prueba de milla cero. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank"><i class="bi-collection-play-fill text-black"></i></ un>
-- Prueba de degradación de la batería. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4jDGrgoNliG_5PaxqT9a_P" taget="_blank"><i class="bi-collection-play-fill text-black"></i></ un>
+- Prueba de conducción dominical. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv7QSOjrZHCBBei5_1EEPJKS" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- Prueba de milla cero. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv6ddxPVkiqQZMNyLtYjqQkq" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- Prueba de degradación de la batería. <a href="https://www.youtube.com/playlist?list=PLqKx2qnB8Xv4jDGrgoNliG_5PaxqT9a_P" taget="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 
 En general, Bjørn Nyland es un valioso colaborador de la comunidad de vehículos eléctricos, y su pasión por los vehículos eléctricos y su dedicación para compartir sus experiencias con otros ha ayudado a aumentar el conocimiento y la adopción de los vehículos eléctricos en todo el mundo.
 
@@ -52,8 +52,8 @@ Out of Spec Reviews es un canal de YouTube que se centra en revisar vehículos e
 En Reseñas fuera de especificaciones, puede esperar encontrar reseñas detalladas de una variedad de vehículos eléctricos.
 Out of Spec Reviews tiene un amplio conjunto de pruebas estándar. Haga clic en <i class="bi-collection-play-fill text-black"></i> para ver las listas de reproducción.
 
-- Prueba de carga. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCM9DepIl6Ms1WENgEmki1b" target="_blank"><i class="bi-collection-play-fill text-black"></i></ un>
-- Primeros viajes. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBWaieOY6Z_zd37XlbHvsG6" target="_blank"><i class="bi-collection-play-fill text-black"></i></ un>
+- Prueba de carga. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCM9DepIl6Ms1WENgEmki1b" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
+- Primeros viajes. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBWaieOY6Z_zd37XlbHvsG6" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - Revisión en profundidad que cubre el interior, el exterior, la transmisión y las opciones <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCcL-FHtFY9837w0Hw5mAiG" target="_blank"><i class="bi -colección-reproducir-rellenar texto-negro"></i></a>
 - Prueba de autonomía en autopista de 70 mph. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbC-i-UCr10bnI3zwbnAm7kU" target="_blank"><i class="bi-collection-play-fill text-black"></ i></a>
 - 10% de desafío. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCaQZul0c2KxJnRaH8uxZ4I" target="_blank"><i class="bi-collection-play-fill text-black"></i></ a> ¿Hasta dónde puedes conducir después de 15 minutos de carga desde el 10%? [Ver el resultado calculado en nuestra base de datos](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).

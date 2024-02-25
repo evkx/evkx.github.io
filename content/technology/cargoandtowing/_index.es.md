@@ -52,6 +52,6 @@ Los vehículos eléctricos (EV) son cada vez más populares y prácticos para di
 [Puedes leer todo al respecto en nuestra sección de remolque.](remolque/)
 
 <div class="mt-3 mb-3">
-     <a href="../brakes/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frenos</strong></ un>
-     <a href="interiorcargo/" class="text-decoration-none text-black float-end"><strong>Carga interior <i class="bi-arrow-right"></i></strong>< /a>
+     <a href="../brakes/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Frenos</strong></a>
+     <a href="interiorcargo/" class="text-decoration-none text-black float-end"><strong>Carga interior <i class="bi-arrow-right"></i></strong></a>
 </div>

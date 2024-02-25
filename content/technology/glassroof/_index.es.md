@@ -73,5 +73,5 @@ el coche. Sin embargo, también aumenta el peso y la complejidad del automóvil 
 
 <div class="mt-3 mb-3">
      <a href="../platforms/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Plataformas para vehículos eléctricos</strong>< /a>
-     <a href="../infotainment/" class="text-decoration-none text-black float-end"><strong>Sistema de infoentretenimiento <i class="bi-arrow-right"></i></ fuerte></a>
+     <a href="../infotainment/" class="text-decoration-none text-black float-end"><strong>Sistema de infoentretenimiento <i class="bi-arrow-right"></i></strong></a>
 </div>

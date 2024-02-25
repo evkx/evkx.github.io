@@ -28,6 +28,6 @@ La elección del método de enfriamiento depende de varios factores, como los re
 
 
 <div class="mt-3 mb-3">
-     <a href="../inversor/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Inversor</strong></ un>
+     <a href="../inversor/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Inversor</strong></a>
      <a href="../gears/" class="text-decoration-none text-black float-end"><strong>Engranajes<i class="bi-arrow-right"></i></strong ></a>
 </div>

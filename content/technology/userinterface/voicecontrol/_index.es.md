@@ -26,6 +26,6 @@ En resumen, el control por voz en los automóviles es una tecnología que permit
 
 
 <div class="mt-3 mb-3">
-     <a href="../mirrors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Espejos</strong></ un>
-     <a href="../gesturecontrol/" class="text-decoration-none text-black float-end"><strong>Control de gestos<i class="bi-arrow-right"></i></ fuerte></a>
+     <a href="../mirrors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Espejos</strong></a>
+     <a href="../gesturecontrol/" class="text-decoration-none text-black float-end"><strong>Control de gestos<i class="bi-arrow-right"></i></strong></a>
 </div>
