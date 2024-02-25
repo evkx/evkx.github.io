@@ -71,8 +71,9 @@ Tienen varios otros canales relacionados con los vehículos eléctricos. Kyle ta
 
 Visita su canal y suscríbete.
 
-<a href="https://www.youtube.com/@OutofSpecReviews" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Fuera de especificaciones Reseñas</a> <a href="https://www.youtube.com/@OutofSpecPodcast" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></ yo>
-Podcast fuera de especificaciones</a> <a href="https://www.youtube.com/@OutofSpecMotoring" target="_blank" class="btn btn-dark"><i class="bi bi-youtube" >>i> Automovilismo fuera de especificaciones</a>
+<a href="https://www.youtube.com/@OutofSpecReviews" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i> Fuera de especificaciones Reseñas</a> <a href="https://www.youtube.com/@OutofSpecPodcast" target="_blank" class="btn btn-dark"><i class="bi bi-youtube"></i>
+Podcast fuera de especificaciones</a> <a href="https://www.youtube.com/@OutofSpecMotoring" target="_blank" class="btn btn-dark"><i class="bi bi-youtube" ></i> Automovilismo fuera de especificaciones</a>
+
 ## Autogefühl
 
 {{< sitefiguresized thumb="guides/evreviewers/autogefuhl_st.jpg" width="679" height="386" title="Autogefühl" >}}
