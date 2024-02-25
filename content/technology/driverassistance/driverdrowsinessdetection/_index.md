@@ -33,7 +33,7 @@ Manufactors gives the system different names
 - Attention Assist ([Mercedes Benz](../../../models/mercedes/))
 
 <div class="mt-3 mb-3">
-    <a href="../collisionavoidancesystems/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Collision Avoidance Systems (CAS</strong></a>
+    <a href="../collisionavoidancesystems/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Collision Avoidance Systems (CAS)</strong></a>
     <a href="../drivermonitoringsystem/" class="text-decoration-none text-black float-end"><strong>Driver Monitoring System (DMS) <i class="bi-arrow-right"></i></strong></a>
 </div>
 

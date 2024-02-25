@@ -1,7 +1,7 @@
 ---
-title: Autosteer
+title: Autosteer / Lane Centering
 linktitle: Autosteer
-description: Autosteer is a feature of some advanced driver assistance systems that allows a vehicle to automatically steer itself within a lane on a highway or freeway. 
+description: Autosteer / Lane Centering is a feature of some advanced driver assistance systems that allows a vehicle to automatically steer itself within a lane on a highway or freeway. 
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
