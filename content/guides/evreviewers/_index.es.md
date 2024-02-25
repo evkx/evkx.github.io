@@ -56,7 +56,7 @@ Out of Spec Reviews tiene un amplio conjunto de pruebas estándar. Haga clic en 
 - Prueba de carga. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCM9DepIl6Ms1WENgEmki1b" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - Primeros viajes. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBWaieOY6Z_zd37XlbHvsG6" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - Revisión en profundidad que cubre el interior, el exterior, la transmisión y las opciones <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCcL-FHtFY9837w0Hw5mAiG" target="_blank"><i class="bi -colección-reproducir-rellenar texto-negro"></i></a>
-- Prueba de autonomía en autopista de 70 mph. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbC-i-UCr10bnI3zwbnAm7kU" target="_blank"><i class="bi-collection-play-fill text-black"></ i></a>
+- Prueba de autonomía en autopista de 70 mph. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbC-i-UCr10bnI3zwbnAm7kU" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>
 - 10% de desafío. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbCaQZul0c2KxJnRaH8uxZ4I" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>¿Hasta dónde puedes conducir después de 15 minutos de carga desde el 10%? [Ver el resultado calculado en nuestra base de datos](/evsearch/?sortOrder=DrivingDistance120kmhCharged10Percent15Min).
 - Prueba ADAS. <a href="https://www.youtube.com/playlist?list=PLVa4b_Vn4gbBRwZoFf2rrenzUwsKU0jZk" target="_blank"><i class="bi-collection-play-fill text-black"></i></a>Prueba de sistemas avanzados de asistencia al conductor
 
