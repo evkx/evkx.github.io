@@ -159,7 +159,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Tesla Model Y Performance has a single screen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center is 15.0 inches large and has a 2200 x 1300 pixels resolution.
+The Tesla Model Y Performance has a single screfen. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center is 15.0 inches large and has a 2200 x 1300 pixels resolution.
 The model does not have a head-up display.
 
 

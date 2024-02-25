@@ -1,0 +1,159 @@
+- id: menu-technology
+  translation: tecnología
+
+- id: menu-guides
+  translation: guías
+
+- id: menu-search
+  translation: búsqueda de vehículos eléctricos
+
+- id: menu-brands
+  translation: Marcas y modelos
+
+- id: language
+  translation: idioma
+
+- id: common-section-search-title
+  translation: búsqueda de vehículos eléctricos
+
+- id: common-section-search-description
+  translation: EVKX.net tiene la base de datos de vehículos eléctricos más completa. Busque y filtre según muchas características y especificaciones.
+
+- id: common-section-search-link
+  translation: Ir a la búsqueda de vehículos eléctricos
+
+- id: common-section-mostsold-world-title
+  translation: Los vehículos eléctricos más vendidos a nivel mundial
+
+- id: common-section-mostsold-world-description
+  translation: A continuación encontrará los 10 modelos de vehículos eléctricos más vendidos del mundo. Haga clic en el nombre para obtener información completa.
+
+- id: common-section-technology-title
+  translation: Aprenda la tecnología de los vehículos eléctricos
+
+- id: common-section-technology-description
+  translation: EVKX.net ofrece la colección más extensa de artículos detallados sobre la tecnología de vehículos eléctricos.
+
+- id: common-section-technology-gotosection
+  translation: Ver todos los artículos en nuestra sección de tecnología.
+
+- id: common-section-technology-section-battery
+  translation: batería
+
+- id: common-section-technology-section-adas
+  translation: Sistemas avanzados de asistencia al conductor
+
+- id: common-section-technology-section-motors
+  translation: motores eléctricos
+
+- id: common-section-technology-section-suspension
+  translation: suspensión
+
+- id: common-section-technology-section-brakes
+  translation: frenos
+
+- id: common-section-technology-section-lights
+  translation: luces
+
+- id: common-section-technology-section-regen
+  translation: frenado regenerativo
+
+- id: common-section-technology-section-seats
+  translation: asientos
+
+- id: common-section-technology-section-sensors
+  translation: Sensores y cámaras
+
+- id: common-section-technology-section-ui
+  translation: interfaz de usuario
+
+- id: common-section-guides-title
+  translation: guías
+
+- id: common-section-guides-description
+  translation: A continuación encontrará diferentes guías para poseer un vehículo eléctrico y utilizar este sitio.
+
+- id: common-section-guides-gotosection
+  translation: Vea todas nuestras guías.
+
+- id: common-section-guides-section-search
+  translation: Cómo utilizar la búsqueda EV
+
+- id: common-section-guides-section-preservebattery
+  translation: Preservar la batería
+
+- id: common-section-guides-section-preservebattery-description
+  translation: En esta guía te explicamos qué puedes hacer para que la batería dure el mayor tiempo posible.
+
+- id: common-section-guides-section-understandingrange
+  translation: comprensión del rango
+
+- id: common-section-guides-section-understandingrange-description
+  translation: Para muchos, la autonomía del vehículo eléctrico es el aspecto más esencial. Conozca qué aspectos del vehículo eléctrico afectan la autonomía nominal y comprenda qué lo afecta en el mundo real.
+
+- id: common-section-guides-section-vehicletypes
+  translation: tipos de vehículos
+
+- id: common-section-guides-section-reviewers
+  translation: Revisores de vehículos eléctricos
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: Cómo verificar el estado de la batería
+
+- id: common-section-models-title
+  translation: Marcas y modelos
+
+- id: common-section-models-description
+  translation: lea sobre las diferentes marcas, sus estrategias de vehículos eléctricos y la información más completa sobre todos los modelos a continuación.
+
+- id: common-section-latest-reviews
+  translation: Últimas reseñas en línea
+
+- id: frontpage-description-b546fa9c
+  translation: Peugot E-3008 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 527 km (328 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-9141e2cc
+  translation: Volvo EC40 Twin Motor es un crossover totalmente eléctrico con un WLTP alcance de hasta 548 km (341 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-572f8b64
+  translation: Volvo EC40 Single Motor ER es un crossover totalmente eléctrico con un WLTP alcance de hasta 581 km (361 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-3f41452e
+  translation: Volvo EC40 Single Motor es un crossover totalmente eléctrico con un WLTP alcance de hasta 478 km (297 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-ea07c9b5
+  translation: Volvo EX40 Twin Motor es un crossover totalmente eléctrico con un WLTP alcance de hasta 535 km (333 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-81608bf9
+  translation: Volvo EX40 Single Motor ER es un crossover totalmente eléctrico con un WLTP alcance de hasta 572 km (356 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-cf09af6f
+  translation: Volvo EX40 Single Motor es un crossover totalmente eléctrico con un WLTP alcance de hasta 467 km (290 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-89f7e5ac
+  translation: Honda Prologue FWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 476 km (296 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-6fb4c17f
+  translation: Dacia Spring 65HP es un hatchback totalmente eléctrico con un WLTP alcance de hasta 220 km (137 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-fa4ec0c9
+  translation: CUPRA BORN VZ es un hatchback totalmente eléctrico con un WLTP alcance de hasta 570 km (354 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-f24e04cd
+  translation: Volkswagen ID.7 Tourer Pro S es una camioneta totalmente eléctrica con una WLTP autonomía de hasta 685 km (426 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-62414ec7
+  translation: Volkswagen ID.7 Tourer Pro es una camioneta totalmente eléctrica con una WLTP autonomía de hasta 600 km (373 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-c21dd820
+  translation: VinFast VF8 Eco es un SUV totalmente eléctrico con una autonomía WLTP de hasta 471 km (293 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-c57491dd
+  translation: VinFast VF8 Plus es un SUV totalmente eléctrico con una autonomía WLTP de hasta 447 km (278 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-5b7a133a
+  translation: Lancia Ypsilon es un hatchback totalmente eléctrico con un WLTP alcance de hasta 403 km (251 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-f069a415
+  translation: Polestar 4 Long range Single motor es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 610 km (379 millas). EVKX.net tiene todos los detalles.
+

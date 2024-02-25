@@ -1,116 +1,113 @@
 # Menu
 - id: menu-technology
-  translation: Technology
+  translation: tecnología
 
 - id: menu-guides
-  translation: Guides
+  translation: guías
 
 - id: menu-search
-  translation: EV Search
+  translation: búsqueda de vehículos eléctricos
 
 - id: menu-brands
-  translation: Brands & Models
+  translation: Marcas y modelos
 
 - id: language
-  translation: Language
+  translation: idioma
 
 # Common Sections
 - id: common-section-search-title
-  translation: EV Search
+  translation: búsqueda de vehículos eléctricos
 
 - id: common-section-search-description
-  translation: EVKX.net has the most complete EV database. Search and filter on a lot of features & specifications.
+  translation: EVKX.net tiene la base de datos de vehículos eléctricos más completa. Busque y filtre según muchas características y especificaciones.
 
 - id: common-section-search-link
-  translation: Go to EV Search
+  translation: Ir a la búsqueda de vehículos eléctricos
 
 - id: common-section-mostsold-world-title
-  translation: Most sold EVs globaly
+  translation: Los vehículos eléctricos más vendidos a nivel mundial
 
 - id: common-section-mostsold-world-description
-  translation: Below, you find the top 10 most-sold EV models in the world. Click on the name for full info.
+  translation: A continuación encontrará los 10 modelos de vehículos eléctricos más vendidos del mundo. Haga clic en el nombre para obtener información completa.
 
 - id: common-section-technology-title
-  translation: Learn EV technology
+  translation: Aprenda la tecnología de los vehículos eléctricos
 
 - id: common-section-technology-description
-  translation: EVKX.net offers the most extensive collection of in-depth articles about EV technology. 
+  translation: EVKX.net ofrece la colección más extensa de artículos detallados sobre la tecnología de vehículos eléctricos.
 
 - id: common-section-technology-gotosection
-  translation: See all articles in our technology section.
+  translation: Ver todos los artículos en nuestra sección de tecnología.
 
 - id: common-section-technology-section-battery
-  translation: Battery
+  translation: batería
 
 - id: common-section-technology-section-adas
-  translation: Advanced Driver Assistance Systems
+  translation: Sistemas avanzados de asistencia al conductor
 
 - id: common-section-technology-section-motors
-  translation: Electric motors
+  translation: motores eléctricos
 
 - id: common-section-technology-section-suspension
-  translation: Suspension
+  translation: suspensión
 
 - id: common-section-technology-section-brakes
-  translation: Brakes
+  translation: frenos
 
 - id: common-section-technology-section-lights
-  translation: Lights
+  translation: luces
 
 - id: common-section-technology-section-regen
-  translation: Regenerative braking
+  translation: frenado regenerativo
 
 - id: common-section-technology-section-seats
-  translation: Seats
+  translation: asientos
 
 - id: common-section-technology-section-sensors
-  translation: Sensors & Cameras
+  translation: Sensores y cámaras
 
 - id: common-section-technology-section-ui
-  translation: User interface
+  translation: interfaz de usuario
 
 - id: common-section-guides-title
-  translation: Guides
+  translation: guías
 
 - id: common-section-guides-description
-  translation: Below, you find different guides for owning an EV and for using this site.
+  translation: A continuación encontrará diferentes guías para poseer un vehículo eléctrico y utilizar este sitio.
 
 - id: common-section-guides-gotosection
-  translation: Se all our guides.
+  translation: Vea todas nuestras guías.
 
 - id: common-section-guides-section-search
-  translation: How to use EV Search
+  translation: Cómo utilizar la búsqueda EV
 
 - id: common-section-guides-section-preservebattery
-  translation: Preserving battery
+  translation: Preservar la batería
 
 - id: common-section-guides-section-preservebattery-description
-  translation: In this guide we explain what you can do to make the battery last the longest possible. 
+  translation: En esta guía te explicamos qué puedes hacer para que la batería dure el mayor tiempo posible.
 
 - id: common-section-guides-section-understandingrange
-  translation: Understanding range
+  translation: comprensión del rango
 
 - id: common-section-guides-section-understandingrange-description
-  translation: For many, the range of the EV is the most essential aspect. Learn what aspects of the EV affect the rated range and understand what affects it in the real world.
+  translation: Para muchos, la autonomía del vehículo eléctrico es el aspecto más esencial. Conozca qué aspectos del vehículo eléctrico afectan la autonomía nominal y comprenda qué lo afecta en el mundo real.
 
 - id: common-section-guides-section-vehicletypes
-  translation: Vehicletypes
+  translation: tipos de vehículos
 
 - id: common-section-guides-section-reviewers
-  translation: EV Reviewers
+  translation: Revisores de vehículos eléctricos
 
 - id: common-section-guides-section-checkingbatteryhealth
-  translation: How to verify battery health
+  translation: Cómo verificar el estado de la batería
 
 - id: common-section-models-title
-  translation: Brands & Models
+  translation: Marcas y modelos
 
 - id: common-section-models-description
-  translation: Please read about the different Brands, their EV strategies, and the most complete info on all models below.
+  translation: lea sobre las diferentes marcas, sus estrategias de vehículos eléctricos y la información más completa sobre todos los modelos a continuación.
 
 - id: common-section-latest-reviews
-  translation: Latest online reviews
-
-
-
-   
+  translation: Últimas reseñas en línea
+  

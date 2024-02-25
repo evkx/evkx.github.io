@@ -1,0 +1,24 @@
+---
+title: Aion modelos de vehículos eléctricos
+linktitle: "Aion"
+description: "Aion is a Chinese electric vehicle (EV) brand owned by GAC Group, one of the largest automakers in China. Aion was launched in 2018 as a sub-brand of GAC New Energy, and became an independent marque in 2020. "
+weight: 30
+---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Aion Hyper GT</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="hyper_gt"><img src="https://media.evkx.net/multimedia/models/aion/hyper_gt/hyper_gt_710_supercharged/main_1_st.jpg" class="img-fluid" alt="Aion Hyper GT" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Aion Hyper GT es un sedán disponible en 1 variantes.
+</p>
+	<a href="hyper_gt/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,38 @@
+---
+title: Porsche modelos de vehículos eléctricos
+linktitle: "Porsche"
+description: "Porsche is a German luxury sports car manufacturer that was founded in 1931 by Ferdinand Porsche. The company has a long history of producing high-performance sports cars that are known for their engineering excellence, innovative design, and motorsports success."
+weight: 30
+---
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Porsche Macan</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="macan"><img src="https://media.evkx.net/multimedia/models/porsche/macan/macan_turbo/main_1_st.jpg" class="img-fluid" alt="Porsche Macan" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Porsche Macan es un SUV Coupé premium disponible en 2 variantes.
+</p>
+	<a href="macan/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Porsche Taycan</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="taycan"><img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan/main_1_st.jpg" class="img-fluid" alt="Porsche Taycan" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Porsche Taycan es un sedán/camioneta de lujo disponible en 16 variantes.
+</p>
+	<a href="taycan/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
