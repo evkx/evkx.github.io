@@ -4,7 +4,8 @@ linktitle: "Cálculos de regeneración"
 description: "Los siguientes escenarios utilizan matemáticas y física para explicar cuán importantes son los beneficios del frenado regenerativo."
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+
+<!-- markdownlint-disable MD033 -->
 
 Explicamos los detalles detrás del cálculo en el capítulo de física. Aún así, debes saber que un objeto en movimiento tiene energía cinética que el vehículo eléctrico puede recuperar con frenado regenerativo. Un automóvil en una posición elevada tiene energía potencial que el frenado regenerativo puede recuperar.
 
@@ -39,6 +40,7 @@ En este escenario, el automóvil se mueve a 75 mph (120,7 km/h) y necesita deten
 Como se muestra en el gráfico siguiente, 120 km/h para un Audi e-tron de 2.900 kg da una energía cinética total de 0,473 kWh.
 
 Con una eficiencia del tren motriz del 80%, esto significa que el automóvil podrá devolver 0,38 kWh a la batería.
+
 
 Un viaje completo de 100 km (62 millas) con 10 paradas completas como esta ahorraría 3,8 kWh en el viaje total en comparación con un automóvil con solo frenos de fricción.
 
@@ -236,7 +238,7 @@ Este tipo de aumento se podría ver incluso en escenarios donde no hay regenerac
 
 La única forma de saber cuánto has regenerado es observar cuánto cambia el estado de carga de la batería de arriba a abajo de la montaña.
 
-{{< sitefiguresized thumb="technology/regen/calculations/soc_st.jpg" width="1212" height="682" title="Estado de carga, la única forma de ver cuánto has regenerado en muchos coches" >} }
+{{< sitefiguresized thumb="technology/regen/calculations/soc_st.jpg" width="1212" height="682" title="Estado de carga, la única forma de ver cuánto has regenerado en muchos coches" >}}
 
 ## Conducción con un solo pedal versus regeneración manual/automática
 
