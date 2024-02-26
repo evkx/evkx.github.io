@@ -147,10 +147,18 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Antal moduler
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Pakkekonfiguration
 			</td>
 			<td>
-				96S3P
+				92s2p
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +428,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				140 mm (5,5")
+				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +436,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				140 mm (5,5")
+				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>

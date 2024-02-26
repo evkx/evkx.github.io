@@ -61,7 +61,7 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 Renault 5 E-Tech 52kWh 150hp tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
 
-La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 140 mm.
+La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 145 mm.
 
 ### Dirección
 

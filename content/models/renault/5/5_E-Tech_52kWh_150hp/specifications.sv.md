@@ -147,10 +147,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Antal moduler
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Packkonfiguration
 			</td>
 			<td>
-				96S3P
+				92s2p
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +428,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				140 mm
+				145 mm
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +436,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				140 mm
+				145 mm
 			</td>
 		</tr>
 		<tr>

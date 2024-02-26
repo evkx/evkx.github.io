@@ -147,10 +147,18 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Número de módulos
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Configuración del paquete
 			</td>
 			<td>
-				96S3P
+				92s2p
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +428,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				140 mm (5,5")
+				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +436,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				140 mm (5,5")
+				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>

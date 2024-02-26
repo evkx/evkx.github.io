@@ -147,10 +147,18 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Number of modules
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
-				96S3P
+				92s2p
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +428,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				140 mm (5,5")
+				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +436,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				140 mm (5,5")
+				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>

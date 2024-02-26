@@ -147,10 +147,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Antall moduler
+			</td>
+			<td>
+				4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Pakkekonfigurasjon
 			</td>
 			<td>
-				96S3P
+				92s2p
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +428,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				140 mm
+				145 mm
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +436,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				140 mm
+				145 mm
 			</td>
 		</tr>
 		<tr>

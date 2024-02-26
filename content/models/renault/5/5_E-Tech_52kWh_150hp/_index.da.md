@@ -61,7 +61,7 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 Renault 5 E-Tech 52kWh 150hp har et forhjulstræksystem understøttet af en motor på forakslen. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
 
-standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 140 mm.
+standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 145 mm.
 
 ### Styring
 

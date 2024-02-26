@@ -61,7 +61,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Renault 5 E-Tech 52kWh 150hp has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
-The standard suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm.
+The standard suspension has a fixed height and damping. The ground clearance with this suspension is 145 mm.
 
 ### Steering
 
