@@ -40,10 +40,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				700 km / 435 mi 
+				465 km / 289 mi 
 			</td>
 			<td>
-				14,00kWh/100km /  mi/kWh
+				17,20kWh/100km /  mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -97,7 +97,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				120kmt/75mph perfekt stand
 			</td>
 			<td>
-				377 km / 234 mi
+				308 km / 191 mi
 			</td>
 			<td>
 				26 kWh/100km / 2,4 mi/kWh
@@ -108,7 +108,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				120kmt/75mph med 2KW opvarmning
 			</td>
 			<td>
-				354 km /220mi
+				289 km /180mi
 			</td>
 			<td>
 				27,7 kWh/100km /2,2 mi/kWh

@@ -473,7 +473,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="renault/"><img src="https://media.evkx.net/multimedia/models/renault/brandevs_st.jpg" class="img-fluid mb-2" alt="Renault" ></a>
 	<h2>Renault</h2>
 	<p>
-	Renault har 2 modeller med i alt 3 varianter.
+	Renault har 3 modeller med i alt 4 varianter.
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Gå til Renault EV-modeloversigt</a>
 </div>

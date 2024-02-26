@@ -1,7 +1,7 @@
 ---
 title: YangWang U9
 linktitle: "U9"
-description: "YangWang U9 er en fuldelektrisk premium superbil med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne."
+description: "YangWang U9 er en fuldelektrisk premium superbil med en CLTC rækkevidde på op til 465 km (289 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ Vi har opdelt vores YangWang U9 artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-YangWang U9 har en maksimal effekt på 960 KW (1305 hk/1287 hk). Det samlede drejningsmoment er 1600 nm (1181 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2 sekunder. Tophastigheden er 300 km/t.
+YangWang U9 har en maksimal effekt på 960 KW (1305 hk/1287 hk). Det samlede drejningsmoment er 1680 nm (1240 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,36 sekunder. Tophastigheden er 309 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2,0%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 83kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 700 km ( miles). Forbruget er 14.0kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 465 km ( miles). Forbruget er 17.2kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 54 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 135kW. Hver opladningssession ville tage 28 minutter og 17 sekunder.
+Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 44 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 23 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 130kW. Hver opladningssession ville tage 25 minutter og 5 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26kWh/100 km, vil 1000 km tage 9 timer og 34 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 2 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 74 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26kWh/100 km, vil 1000 km tage 9 timer og 44 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 76%. Den samlede tid, der går tabt for at oplade batteriet, vil være 84 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 4 timer og 27 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 38 minutter.
 
 ### Ladeport
 

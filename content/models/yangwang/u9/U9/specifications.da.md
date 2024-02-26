@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for YangWang U9. Klik 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1600 nm (1181 ft-lb)
+				1680 nm (1240 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for YangWang U9. Klik 
 				Tophastighed
 			</td>
 			<td>
-				300 km/t (186 mph)
+				309 km/t (192 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for YangWang U9. Klik 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				2 s
+				2,36 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC range
 			</td>
 			<td>
-				700 km
+				465 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC-forbrug
 			</td>
 			<td>
-				14,0 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				100 kWh
+				83 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				98 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				200 kW
+				500 kW
 			</td>
 		</tr>
 		<tr>

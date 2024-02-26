@@ -1,7 +1,7 @@
 ---
 title: YangWang U9
 linktitle: "U9"
-description: "YangWang U9 är en helelektrisk superbil med en CLTC räckvidd på upp till 700 km. EVKX.net har alla detaljer."
+description: "YangWang U9 är en helelektrisk superbil med en CLTC räckvidd på upp till 465 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ Vi har delat in vår beskrivning av YangWang U9 i avsnitt. Om du vill vänta med
 
 ## Prestanda
 
-YangWang U9 har en maximal effekt på 960 KW (1305hk). Totalt vridmoment är 1600 Nm. Den gör sprinten 0-100 km/h på 2 sekunder. Topphastigheten är 300 km/h.
+YangWang U9 har en maximal effekt på 960 KW (1305hk). Totalt vridmoment är 1680 Nm. Den gör sprinten 0-100 km/h på 2,36 sekunder. Topphastigheten är 309 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 2kWh buffert för skydd. (2,0%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 83kWh och en nettokapacitet på 80kWh, vilket innebär att du har en 3kWh buffert för skydd. (3,6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 700 km ( miles). Förbrukningen är 14.0kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 465 km ( miles). Förbrukningen är 17.2kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 54 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 135kW. Varje laddningssession tar 28 minuter och 17 sekunder.
+Maximal DC-laddningshastighet är 500 kW. En full laddning från 0 - 100 % tar 44 minuter, medan ett vanligare scenario på 10-80 % tar 23 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 69%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 130kW. Varje laddningssession tar 25 minuter och 5 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26kWh/100km, tar 1000km 9 timmar och 34 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 2% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 74 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26kWh/100km, tar 1000km 9 timmar och 44 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 76%. Total tid som går förlorad för att ladda batteriet kommer att vara 84 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 22KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 4 timmar och 27 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 22KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 3 timmar och 38 minuter.
 
 ### Laddningsport
 

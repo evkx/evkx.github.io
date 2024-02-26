@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för YangWang U9. Klicka p�
 				Vridmoment
 			</td>
 			<td>
-				1600 nm
+				1680 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för YangWang U9. Klicka p�
 				Topphastighet
 			</td>
 			<td>
-				300 km/h
+				309 km/h
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för YangWang U9. Klicka p�
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				2 s
+				2,36 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC räckvidd
 			</td>
 			<td>
-				700 km
+				465 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				14,0 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				100 kWh
+				83 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				98 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				200 kW
+				500 kW
 			</td>
 		</tr>
 		<tr>

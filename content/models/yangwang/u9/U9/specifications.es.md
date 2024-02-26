@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para YangWang U9. Haga 
 				Salida de par eléctrico
 			</td>
 			<td>
-				1600 nm (1181 pies-libra)
+				1680 nm (1240 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para YangWang U9. Haga 
 				Velocidad máxima
 			</td>
 			<td>
-				300 kph (186 mph)
+				309 kph (192 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para YangWang U9. Haga 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				2 s
+				2,36 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango CLTC de equipamiento básico
 			</td>
 			<td>
-				700 km
+				465 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo CLTC de ajuste básico
 			</td>
 			<td>
-				14,0 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				100 kWh
+				83 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				98 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				200 kW
+				500 kW
 			</td>
 		</tr>
 		<tr>

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-794641c4
+  translation: Renault 5 E-Tech 52kWh 150hp er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-b546fa9c
   translation: Peugot E-3008 er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 527 km (328 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-5b7a133a
   translation: Lancia Ypsilon er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 403 km (251 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-f069a415
-  translation: Polestar 4 Long range Single motor er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 610 km (379 miles). EVKX.net har alle detaljerne.
 

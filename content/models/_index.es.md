@@ -473,7 +473,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="renault/"><img src="https://media.evkx.net/multimedia/models/renault/brandevs_st.jpg" class="img-fluid mb-2" alt="Renault" ></a>
 	<h2>Renault</h2>
 	<p>
-	Renault tiene 2 modelos con un total de 3 variantes.
+	Renault tiene 3 modelos con un total de 4 variantes.
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Ir a Renault descripción general del modelo EV</a>
 </div>

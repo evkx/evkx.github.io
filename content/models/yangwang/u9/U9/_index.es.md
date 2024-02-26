@@ -1,7 +1,7 @@
 ---
 title: YangWang U9
 linktitle: "U9"
-description: "YangWang U9 es un superdeportivo premium totalmente eléctrico con una CLTC autonomía de hasta 700 km (435 millas). EVKX.net tiene todos los detalles."
+description: "YangWang U9 es un superdeportivo premium totalmente eléctrico con una CLTC autonomía de hasta 465 km (289 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ Hemos separado nuestro artículo YangWang U9 en secciones. Si desea esperar para
 
 ## Rendimiento
 
-El YangWang U9 tiene una potencia máxima de 960 KW (1305 hp/1287 bhp). El par total es 1600 nm (1181 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2 segundos. La velocidad máxima es 300 km/h.
+El YangWang U9 tiene una potencia máxima de 960 KW (1305 hp/1287 bhp). El par total es 1680 nm (1240 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,36 segundos. La velocidad máxima es 309 km/h.
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 100kWh y una capacidad neta de 98kWh, lo que significa que tienes un buffer de 2kWh para protección. (2,0%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-fosfato-battery-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería tiene una capacidad bruta de 83kWh y una capacidad neta de 80kWh, lo que significa que tienes un buffer de 3kWh para protección. (3,6%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-fosfato-battery-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 700 km ( millas). El consumo es de 14.0kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 465 km ( millas). El consumo es de 17.2kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
 
-La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 54 minutos, mientras que un escenario más común del 10 al 80 % tardaría 28 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 67%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 135kW. Cada sesión de carga tardaría 28 minutos y 17 segundos.
+La velocidad máxima de carga de CC es 500kW. Una carga completa del 0 al 100 % tardaría 44 minutos, mientras que un escenario más común del 10 al 80 % tardaría 23 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 69%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 130kW. Cada sesión de carga tardaría 25 minutos y 5 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 26kWh/100 km, 1000 km tomarán 9 horas y 34 minutos. Este viaje requerirá tres sesiones de carga del 2 % al 58 %. El tiempo total perdido para cargar la batería será de 74 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 26kWh/100 km, 1000 km tomarán 9 horas y 44 minutos. Este viaje requerirá tres sesiones de carga del 1 % al 76 %. El tiempo total perdido para cargar la batería será de 84 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 27 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 3 horas y 38 minutos.
 
 ### Puerto de carga
 

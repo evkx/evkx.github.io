@@ -587,7 +587,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Renault is a French car manufacturer that has a strong focus on electric vehicles (EVs). Renault has been a pioneer in the EV market since it launched the first mass-produced electric car, the ZOE, in 2012.
 	</p>
 	<p>
-	Renault has 2 models with total 3 variants.
+	Renault has 3 models with total 4 variants.
 	</p>
 	<a href="renault/" class="btn btn-outline-primary" role="button">Go to Renault EV-model overview</a>
 </div>

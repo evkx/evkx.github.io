@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for YangWang U9. Click o
 				Electrical torque output
 			</td>
 			<td>
-				1600 nm (1181 ft-lb)
+				1680 nm (1240 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for YangWang U9. Click o
 				Top speed
 			</td>
 			<td>
-				300 kph (186 mph)
+				309 kph (192 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for YangWang U9. Click o
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				2 s
+				2,36 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC range
 			</td>
 			<td>
-				700 km
+				465 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				14,0 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				100 kWh
+				83 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				98 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				200 kW
+				500 kW
 			</td>
 		</tr>
 		<tr>
