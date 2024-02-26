@@ -8,7 +8,7 @@ weight: 5
 
 Los sistemas AES utilizan sensores como cámaras, radares o lidar para monitorear el camino y detectar si el vehículo se acerca demasiado a un objeto o peatón.
 
-{{< sitefiguresized thumb="technology/driverassistance/emergencysteeringassist/ilustracion_st.jpg" width="2363" height="1219" title="Ilustración del volante automático de emergencia Audi" >}}
+{{< sitefiguresized thumb="technology/driverassistance/emergencysteeringassist/illustration_st.jpg" width="2363" height="1219" title="Ilustración del volante automático de emergencia Audi" >}}
 
 Cuando el sistema AES detecta que una colisión es inminente, puede tomar la dirección del vehículo y alejarlo del objeto o peatón. El sistema también puede aplicar los frenos o ajustar la velocidad del vehículo para evitar o reducir aún más la gravedad de la colisión.
 

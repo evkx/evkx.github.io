@@ -12,7 +12,7 @@ Hay dos tipos principales de sistemas AEB:
 
 **Advertencia de colisión frontal (FCW) con frenado de emergencia autónomo**: FCW utiliza sensores para detectar la distancia y la velocidad de los vehículos u obstáculos adelante y proporciona una advertencia visual o audible al conductor si se detecta una posible colisión. Si el conductor no responde, el sistema AEB se activará y aplicará los frenos para evitar o reducir la gravedad de una colisión. Lea más sobre FCW [aquí.](../forwardcollisionwarning/)
 
-{{< sitefiguresized thumb="technology/driverassistance/forwardcollisionwarning/ilustracion_st.jpg" width="2246" height="2076" title="Ilustración de advertencia de colisión frontal con AEB Audi (Pre Sense)" >}}
+{{< sitefiguresized thumb="technology/driverassistance/forwardcollisionwarning/illustration_st.jpgg" width="2246" height="2076" title="Ilustración de advertencia de colisión frontal con AEB Audi (Pre Sense)" >}}
 
 **Detección de peatones con frenado autónomo de emergencia**: este tipo de sistema AEB utiliza sensores para detectar peatones en el camino del vehículo y aplicará los frenos de forma autónoma si el conductor no toma medidas para evitar una colisión.
 
