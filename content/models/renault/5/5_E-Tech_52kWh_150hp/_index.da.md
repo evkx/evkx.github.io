@@ -29,7 +29,7 @@ Vi har opdelt vores Renault 5 E-Tech 52kWh 150hp artikel i sektioner. Hvis du vi
 
 ## Ydeevne
 
-Renault 5 E-Tech 52kWh 150hp har en maksimal effekt på 110 KW (150 hk/148 hk). Det samlede drejningsmoment er 245 nm (181 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,4 sekunder. Tophastigheden er 150 km/t.
+Renault 5 E-Tech 52kWh 150hp har en maksimal effekt på 110 KW (150 hk/148 hk). Det samlede drejningsmoment er 245 nm (181 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Tophastigheden er 150 km/t.
 
 ## Batteri, rækkevidde og opladning
 
@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 55kWh og en nettokapacitet på 52kWh, hvilk
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 400 km (249 mi). Forbruget er 13.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 1519 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 662 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 100%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 2kW. Hver opladningssession ville tage 1524 minutter og 45 sekunder.
+Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 58%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 69kW. Hver opladningssession ville tage 24 minutter og 2 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,9kWh/100 km, vil 1000 km tage 21 timer og 1 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 16 % til 87%. Den samlede tid, der går tabt for at oplade batteriet, vil være 2201 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,9kWh/100 km, vil 1000 km tage 10 timer og 29 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 4 % til 61%. Den samlede tid, der går tabt for at oplade batteriet, vil være 130 minutter.
 
 ### Indbygget oplader
 
@@ -80,8 +80,6 @@ Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
-
-Ruderne fra B-stolpen og bagsiden er tonede.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/exterior_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}

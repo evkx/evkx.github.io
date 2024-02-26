@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Renault 5 E-Tech 52k
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				8,4 s
+				7,9 s
 			</td>
 		</tr>
 	</tbody>

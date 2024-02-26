@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Renault 5 E-Tech 52kWh 150hp en secciones. Si d
 
 ## Rendimiento
 
-El Renault 5 E-Tech 52kWh 150hp tiene una potencia máxima de 110 KW (150 hp/148 bhp). El par total es 245 nm (181 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 8,4 segundos. La velocidad máxima es 150 km/h.
+El Renault 5 E-Tech 52kWh 150hp tiene una potencia máxima de 110 KW (150 hp/148 bhp). El par total es 245 nm (181 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,9 segundos. La velocidad máxima es 150 km/h.
 
 ## Batería, autonomía y carga
 
@@ -37,9 +37,9 @@ La batería tiene una capacidad bruta de 55kWh y una capacidad neta de 52kWh, lo
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 13.0kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
 
-La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 1519 minutos, mientras que un escenario más común del 10 al 80 % tardaría 662 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 100%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 2kW. Cada sesión de carga tardaría 1524 minutos y 45 segundos.
+La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 68 minutos, mientras que un escenario más común del 10 al 80 % tardaría 29 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 69kW. Cada sesión de carga tardaría 24 minutos y 2 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 19,9kWh/100 km, 1000 km tomarán 21 horas y 1 minutos. Este viaje requerirá cuatro sesiones de carga del 16 % al 87 %. El tiempo total perdido para cargar la batería será de 2201 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 19,9kWh/100 km, 1000 km tomarán 10 horas y 29 minutos. Este viaje requerirá cinco sesiones de carga del 4 % al 61 %. El tiempo total perdido para cargar la batería será de 130 minutos.
 
 ### Cargador a bordo
 
@@ -80,8 +80,6 @@ Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../tecnología/puertas/#liftgate).
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
-
-Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/exterior_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
