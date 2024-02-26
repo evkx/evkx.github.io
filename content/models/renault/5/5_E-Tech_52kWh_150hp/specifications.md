@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10,4 meter (409,4")
+				10,3 meter (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -596,7 +596,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +604,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +620,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Optional feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Optional feature
+				Not Available
 			</td>
 		</tr>
 	</tbody>

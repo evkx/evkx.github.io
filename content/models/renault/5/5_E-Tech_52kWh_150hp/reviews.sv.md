@@ -22,6 +22,20 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 {{< youtube GstRLGwlFUQ >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Renault 5 First Look: The Legend Is Back</h3>
+<p>AutoTrader: 26.02.2024</p>
+
+{{< youtube RLnTwyFcOGM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Vive la R5VOLUTION! All-new Renault 5 electric supermini is finally HERE</h3>
+<p>Electrifying: 26.02.2024</p>
+
+{{< youtube bNI_D2IabPE >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galleri  </strong>

@@ -75,8 +75,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
+Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -107,8 +106,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 

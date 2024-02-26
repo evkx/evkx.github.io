@@ -282,7 +282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				10,4 meter
+				10,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -596,7 +596,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +604,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +620,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +628,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

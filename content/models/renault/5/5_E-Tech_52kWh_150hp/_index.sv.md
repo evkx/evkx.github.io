@@ -75,8 +75,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 2 hjul i storlek från 19 till 20 tum.
+Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -107,8 +106,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [värme](../../../../technology/seats/adjustment/#heating)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 

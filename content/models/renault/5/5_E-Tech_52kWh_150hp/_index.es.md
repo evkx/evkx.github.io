@@ -75,8 +75,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 19 a 20 pulgadas.
+Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../tecnología/puertas/#liftgate).
 
@@ -107,8 +106,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../tecnología/seats/adjustment/#heating)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
-- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 

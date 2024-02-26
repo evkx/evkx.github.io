@@ -75,8 +75,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+You can choose between 5 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
@@ -107,8 +106,6 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
 
