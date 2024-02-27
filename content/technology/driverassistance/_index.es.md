@@ -38,7 +38,7 @@ Los sistemas más comunes son:
 
 El nivel de conducción autónoma, también conocido como nivel de autonomía, se refiere al grado de automatización y control que tiene un vehículo sobre su funcionamiento.
 
-{{< sitefiguresized thumb="technology/driverassistance/Illustration_st.jpg" width="3000" height="1687" title="Mercedes EQS con conducción autónoma de nivel 3" >}}
+{{< sitefiguresized thumb="technology/driverassistance/illustration_st.jpg" width="3000" height="1687" title="Mercedes EQS con conducción autónoma de nivel 3" >}}
 
 Hay seis niveles de autonomía definidos por la Sociedad de Ingenieros Automotrices ([SAE](https://www.sae.org/)) que describen los niveles crecientes de automatización y la necesidad cada vez menor de intervención humana:
 
