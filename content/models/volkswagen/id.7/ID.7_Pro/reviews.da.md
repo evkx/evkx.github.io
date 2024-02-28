@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Pro 82 kWh range test</h3>
+<p>Bjørn Nyland: 28/02/2024</p>
+
+{{< youtube nE-5rKrJ1gE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Pro interior review</h3>
+<p>Bjørn Nyland: 27/02/2024</p>
+
+{{< youtube i68_0Dl827w >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Pro banana box test</h3>
+<p>Bjørn Nyland: 26/02/2024</p>
+
+{{< youtube DJ5QYQHr5Hw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>VW ID.7 Pro (77kWh) | Long Trip Test</h3>
 <p>Kris Rifa: 20/02/2024</p>
 
