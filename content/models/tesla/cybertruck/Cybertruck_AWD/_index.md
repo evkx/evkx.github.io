@@ -29,11 +29,11 @@ We have separated our Tesla Cybertruck AWD article into sections. If you want to
 
 ## Performance
 
-The Tesla Cybertruck AWD has a maximum power of 448 KW (609 hp/601 bhp). The total torque is 671 nm (495 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,1 seconds. The top speed is 180 km/h.
+The Tesla Cybertruck AWD has a maximum power of 448 KW (609 hp/601 bhp). The total torque is 671 nm (495 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.1 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 123kWh and a net capacity of 122,5kWh, meaning you have a 0,5kWh buffer for protection. (0,4%).
+The battery has a gross capacity of 123kWh and a net capacity of 122.5kWh, meaning you have a 0.5kWh buffer for protection. (0.4%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 340 miles (547 km). The consumption is 2.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [left rear corner](../../../../technol
 
 ### V2L - Vehichle to load
 
-This model supports V2L (Vehicle 2 Load), which means you can power electrical equipment requiring up to 11,5 kW power, including charging other vehicles. There are sockets available both on the cargo bed and in the cabin.
+This model supports V2L (Vehicle 2 Load), which means you can power electrical equipment requiring up to 11.5 kW power, including charging other vehicles. There are sockets available both on the cargo bed and in the cabin.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
@@ -239,7 +239,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1897,23 liters. The bed width is 1295 mm, and length is 1849 mm. The max load weight in bed is 1134 kg. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7,1 CU FT). The maxium weight of the car is 4159 kg (9169 lbs), and with the base weight of 3025 kg (6669 lbs), you can max load 1134 kg (2500 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1897.23 liters. The bed width is 1295 mm, and length is 1849 mm. The max load weight in bed is 1134 kg. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7.1 CU FT). The maxium weight of the car is 4159 kg (9169 lbs), and with the base weight of 3025 kg (6669 lbs), you can max load 1134 kg (2500 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 4990, and on unbraked, it is 750 kg (11000/1653 lbs).
 
@@ -248,7 +248,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ### Availability & Pricing
 
-This model had a world premiere on 30.11.2023, and deliveries started in November 2023. This model is only available in North America.<div class="mt-3 mb-3">
+This model had a world premiere on 11/30/2023, and deliveries started in November 2023. This model is only available in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
 </a>

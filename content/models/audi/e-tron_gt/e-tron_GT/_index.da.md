@@ -29,11 +29,11 @@ Vi har opdelt vores Audi e-tron GT artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Med overboost har Audi e-tron GT en maksimal effekt på 390 KW (530 hk / 476 bhp). Uden overboost er den 350 KW (476 hk / 523 hk). Momentet er 640 nm med overboost og 630 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4,1 sekunder med overboost og 4,5 sekunder uden overboost. Tophastigheden er 245 km/t.
+Med overboost har Audi e-tron GT en maksimal effekt på 390 KW (530 hk / 476 bhp). Uden overboost er den 350 KW (476 hk / 523 hk). Momentet er 640 nm med overboost og 630 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4.1 sekunder med overboost og 4.5 sekunder uden overboost. Tophastigheden er 245 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 93.4kWh og en nettokapacitet på 83.7kWh, hvilket betyder, at du har en 9.7kWh buffer til beskyttelse. (10.4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 488 til 448 km (303-278 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.2kWh/100 km for basisversionen og 18.7kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -235,7 +235,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 405 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 85 liter (3,0 CU FT). Bilens maksimale vægt er 2860 kg (6305 lbs), og med basisvægten på 2340 kg (5159 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 405 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 85 liter (3.0 CU FT). Bilens maksimale vægt er 2860 kg (6305 lbs), og med basisvægten på 2340 kg (5159 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 
@@ -244,7 +244,7 @@ Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du 
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 09.02.2021, og leveringerne startede i May 2021.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 2/9/2021, og leveringerne startede i May 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

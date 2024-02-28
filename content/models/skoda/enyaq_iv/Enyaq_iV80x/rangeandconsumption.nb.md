@@ -43,7 +43,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				504 km / 313 mi
 			</td>
 			<td>
-				15,28kWh/100km / 4,1 mi/kWh
+				15.28kWh/100km / 4.1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				504 km / 313 mi
 			</td>
 			<td>
-				15,28 kWh/100km / 4,1 mi/kWh
+				15.28 kWh/100km / 4.1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -90,7 +90,7 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				 393km / 244 mi 
 			</td>
 			<td>
-				-22,0%
+				-22.0%
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				393 km / 244 mi
 			</td>
 			<td>
-				-22,0%
+				-22.0%
 			</td>
 		</tr>
 	</tbody>
@@ -135,7 +135,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				335 km / 208 mi
 			</td>
 			<td>
-				23 kWh/100km / 2,7 mi/kWh
+				23 kWh/100km / 2.7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +146,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				312 km /194mi
 			</td>
 			<td>
-				24,7 kWh/100km /2,5 mi/kWh
+				24.7 kWh/100km /2.5 mi/kWh
 			</td>
 		</tr>
 	</tbody>

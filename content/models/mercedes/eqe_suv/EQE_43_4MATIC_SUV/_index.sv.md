@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Mercedes-AMG EQE 43 4MATIC SUV i avsnitt. Om
 
 ## Prestanda
 
-Mercedes-AMG EQE 43 4MATIC SUV har en maximal effekt på 350 KW (476hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4,3 sekunder. Topphastigheten är 210 km/h.
+Mercedes-AMG EQE 43 4MATIC SUV har en maximal effekt på 350 KW (476hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4.3 sekunder. Topphastigheten är 210 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 96,12kWh och en nettokapacitet på 90,6kWh, vilket innebär att du har en 5,52kWh buffert för skydd. (5,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 96.12kWh och en nettokapacitet på 90.6kWh, vilket innebär att du har en 5.52kWh buffert för skydd. (5.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 488 till 431 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.6kWh/100 km för basversionen och 21.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

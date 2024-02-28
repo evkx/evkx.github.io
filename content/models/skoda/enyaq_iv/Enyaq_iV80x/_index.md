@@ -29,11 +29,11 @@ We have separated our SKODA Enyaq iV80x article into sections. If you want to wa
 
 ## Performance
 
-The SKODA Enyaq iV80x has a maximum power of 195 KW (265 hp/262 bhp). The total torque is 425 nm (314 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,9 seconds. The top speed is 160 km/h.
+The SKODA Enyaq iV80x has a maximum power of 195 KW (265 hp/262 bhp). The total torque is 425 nm (314 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.9 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 504 km (313 mi). The consumption is 15.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -229,7 +229,7 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2117 kg (4667 lbs), you can max load 633 kg (1396 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2117 kg (4667 lbs), you can max load 633 kg (1396 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 
@@ -238,7 +238,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined.<div class="mt-3 mb-3">
+This model had a world premiere on 1/1/2020, and deliveries started in March 2021. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

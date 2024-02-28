@@ -43,7 +43,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				660 km / 410 mi
 			</td>
 			<td>
-				21,7 kWh/100km / 2,9 mi/kWh
+				21.7 kWh/100km / 2.9 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				660 km / 410 mi
 			</td>
 			<td>
-				21,7 kWh/100km / 2,9 mi/kWh
+				21.7 kWh/100km / 2.9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -90,7 +90,7 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				551 km / 342 mi
 			</td>
 			<td>
-				-16,5%
+				-16.5%
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				551 km / 342 mi
 			</td>
 			<td>
-				-16,5%
+				-16.5%
 			</td>
 		</tr>
 	</tbody>
@@ -135,7 +135,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				572km / 355 mi
 			</td>
 			<td>
-				25 kWh/100km / 2,5 mi/kWh
+				25 kWh/100km / 2.5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +146,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				536km /326mi
 			</td>
 			<td>
-				27,2 kWh/100km /2,3 mi/kWh 
+				27.2 kWh/100km /2.3 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -157,7 +157,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				554 km / 344 mi
 			</td>
 			<td>
-				25,8 kWh/100km / 2,4 mi/kWh
+				25.8 kWh/100km / 2.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -168,7 +168,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				518km / 322mi
 			</td>
 			<td>
-				27,6 kWh/100km / 2,3 mi/kWh  
+				27.6 kWh/100km / 2.3 mi/kWh  
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				477 km / 296 mi
 			</td>
 			<td>
-				30 kWh/100km / 2,1 mi/kWh
+				30 kWh/100km / 2.1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -190,7 +190,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				452 km /281mi
 			</td>
 			<td>
-				31,7 kWh/100km /2,0 mi/kWh
+				31.7 kWh/100km /2.0 mi/kWh
 			</td>
 		</tr>
 	</tbody>

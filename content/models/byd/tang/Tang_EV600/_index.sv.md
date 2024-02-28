@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av BYD Tang EV600 i avsnitt. Om du vill vänta 
 
 ## Prestanda
 
-BYD Tang EV600 har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 680 Nm. Den gör sprinten 0-100 km/h på 4,6 sekunder. Topphastigheten är 180 km/h.
+BYD Tang EV600 har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 680 Nm. Den gör sprinten 0-100 km/h på 4.6 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 90kWh och en nettokapacitet på 86,4kWh, vilket innebär att du har en 3,6kWh buffert för skydd. (4,0%).
+Batteriet har en bruttokapacitet på 90kWh och en nettokapacitet på 86.4kWh, vilket innebär att du har en 3.6kWh buffert för skydd. (4.0%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 21.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 93kW. Varje laddningssession tar 31 minuter och 37 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 31,7kWh/100km, tar 1000km 10 timmar och 50 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 5% till 59%. Total tid som går förlorad för att ladda batteriet kommer att vara 150 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 31.7kWh/100km, tar 1000km 10 timmar och 50 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 5% till 59%. Total tid som går förlorad för att ladda batteriet kommer att vara 150 minuter.
 
 ### Inbyggd laddare
 

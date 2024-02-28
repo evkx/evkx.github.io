@@ -29,11 +29,11 @@ We have separated our BYD Atto 3 article into sections. If you want to wait to r
 
 ## Performance
 
-The BYD Atto 3 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,3 seconds. The top speed is 160 km/h.
+The BYD Atto 3 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.3 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 60,5kWh and a net capacity of 58kWh, meaning you have a 2,5kWh buffer for protection. (4,1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 60.5kWh and a net capacity of 58kWh, meaning you have a 2.5kWh buffer for protection. (4.1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 420 km (261 mi). The consumption is 13.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -215,7 +215,7 @@ With the   level 1 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50 kg (110,2 lbs). The maxium weight of the car is 2160 kg (4762 lbs), and with the base weight of 1750 kg (3858 lbs), you can max load 410 kg (904 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50 kg (110.2 lbs). The maxium weight of the car is 2160 kg (4762 lbs), and with the base weight of 1750 kg (3858 lbs), you can max load 410 kg (904 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

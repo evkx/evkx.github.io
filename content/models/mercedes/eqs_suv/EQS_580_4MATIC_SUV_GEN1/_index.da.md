@@ -29,17 +29,17 @@ Vi har opdelt vores Mercedes-EQ EQS 580 4MATIC SUV artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-Mercedes-EQ EQS 580 4MATIC SUV har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 858 nm (633 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder. Tophastigheden er 210 km/t.
+Mercedes-EQ EQS 580 4MATIC SUV har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 858 nm (633 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.6 sekunder. Tophastigheden er 210 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108,4kWh, hvilket betyder, at du har en 11,6kWh buffer til beskyttelse. (9,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108.4kWh, hvilket betyder, at du har en 11.6kWh buffer til beskyttelse. (9.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 610 til 511 km (379-318 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.8kWh/100 km for basisversionen og 21.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 82 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 142kW. Hver opladningssession ville tage 26 minutter og 41 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28,5kWh/100 km, vil 1000 km tage 9 timer og 35 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 56%. Den samlede tid, der går tabt for at oplade batteriet, vil være 76 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28.5kWh/100 km, vil 1000 km tage 9 timer og 35 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 56%. Den samlede tid, der går tabt for at oplade batteriet, vil være 76 minutter.
 
 ### Indbygget oplader
 
@@ -250,7 +250,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2735 kg (6030 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2735 kg (6030 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 

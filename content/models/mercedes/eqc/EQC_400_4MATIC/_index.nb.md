@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQC 400 4MATIC i seksjoner. Hvis du 
 
 ## Ytelse
 
-Mercedes-EQ EQC 400 4MATIC har en maksimal effekt på 300 KW (408hk). Totalt dreiemoment er 760 nm. Den utfører sprinten 0-100 km/t på 5,1 sekunder. Topphastigheten er 180 km/t.
+Mercedes-EQ EQC 400 4MATIC har en maksimal effekt på 300 KW (408hk). Totalt dreiemoment er 760 nm. Den utfører sprinten 0-100 km/t på 5.1 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 86kWh og en nettokapasitet på 80kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (7,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 86kWh og en nettokapasitet på 80kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (7.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 432 til 400 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.5kWh/100 km for basisversjonen og 20.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

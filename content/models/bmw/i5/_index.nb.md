@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i5_edrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i5 eDrive40" ></a>
-<i class="bi bi-battery-full"></i> 84,4 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-battery-full"></i> 84.4 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i5_edrive40_touring/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_edrive40_touring/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i5 eDrive40 Touring" ></a>
-<i class="bi bi-battery-full"></i> 84,4 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-battery-full"></i> 84.4 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i5_m60_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="i5 M60 xDrive" ></a>
-<i class="bi bi-battery-full"></i> 84,4 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-battery-full"></i> 84.4 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i5_m60_xdrive_touring/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_m60_xdrive_touring/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i5 M60 xDrive Touring" ></a>
-<i class="bi bi-battery-full"></i> 84,4 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-battery-full"></i> 84.4 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -87,7 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i5_xdrive40/"><img src="https://media.evkx.net/multimedia/models/bmw/i5/i5_xdrive40/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i5 xDrive40" ></a>
-<i class="bi bi-battery-full"></i> 84,4 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-battery-full"></i> 84.4 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

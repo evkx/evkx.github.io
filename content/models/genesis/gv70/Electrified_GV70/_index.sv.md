@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Genesis Electrified GV70 i avsnitt. Om du vi
 
 ## Prestanda
 
-Med overboost har Genesis Electrified GV70 en maximal effekt på 360 KW (490hk). Utan overboost är det 320KW (435hp). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 4,2 sekunder med överboost och 4,8 sekunder utan överboost. Topphastigheten är 235 km/h.
+Med overboost har Genesis Electrified GV70 en maximal effekt på 360 KW (490hk). Utan overboost är det 320KW (435hp). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 4.2 sekunder med överboost och 4.8 sekunder utan överboost. Topphastigheten är 235 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 77,4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3,4kWh buffert för skydd. (4,4%).
+Batteriet har en bruttokapacitet på 77.4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3.4kWh buffert för skydd. (4.4%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 470 km. Förbrukningen är 15.7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

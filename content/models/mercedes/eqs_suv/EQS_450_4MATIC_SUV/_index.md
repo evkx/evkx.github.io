@@ -33,7 +33,7 @@ The Mercedes-EQ EQS 450 4MATIC SUV has a maximum power of 265 KW (360 hp/355 bhp
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 120kWh and a net capacity of 108.4kWh, meaning you have a 11.6kWh buffer for protection. (9.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 611 to 511 km (380-318 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.7kWh/100km for the basic version and 21.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -253,7 +253,7 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 2100 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3375 kg (7441 lbs), and with the base weight of 2730 kg (6019 lbs), you can max load 645 kg (1422 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 2100 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3375 kg (7441 lbs), and with the base weight of 2730 kg (6019 lbs), you can max load 645 kg (1422 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 

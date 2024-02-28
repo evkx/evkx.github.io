@@ -29,11 +29,11 @@ We have separated our Hyundai Kona Standard Range article into sections. If you 
 
 ## Performance
 
-The Hyundai Kona Standard Range has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 255 nm (188 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,3 seconds. The top speed is 185 km/h.
+The Hyundai Kona Standard Range has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 255 nm (188 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.3 seconds. The top speed is 185 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 51kWh and a net capacity of 48,4kWh, meaning you have a 2,6kWh buffer for protection. (5,1%).
+The battery has a gross capacity of 51kWh and a net capacity of 48.4kWh, meaning you have a 2.6kWh buffer for protection. (5.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 377 km (234 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -212,7 +212,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 466 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 27 liters (1,0 CU FT). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1640 kg (3616 lbs), you can max load 470 kg (1036 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 466 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1640 kg (3616 lbs), you can max load 470 kg (1036 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 

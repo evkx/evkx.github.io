@@ -35,11 +35,11 @@ Denna modell har ersatts av [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-t
 
 ## Prestanda
 
-Audi Q4 40 e-tron har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 8,5 sekunder. Topphastigheten är 160 km/h.
+Audi Q4 40 e-tron har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 8.5 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76,6kWh, vilket innebär att du har en 5,4kWh buffert för skydd. (6,6%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76.6kWh, vilket innebär att du har en 5.4kWh buffert för skydd. (6.6%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 521 till 447 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.7kWh/100 km för basversionen och 17.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -253,7 +253,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 14.04.2021 och leveranser startade i January 2022. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron).<div class="mt-3 mb-3">
+Denna modell hade världspremiär 4/14/2021 och leveranser startade i January 2022. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

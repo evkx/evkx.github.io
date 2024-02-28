@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av XPENG G6 AWD Performance i seksjoner. Hvis du vi
 
 ## Ytelse
 
-XPENG G6 AWD Performance har en maksimal effekt på 358 KW (487hk). Totalt dreiemoment er 660 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 202 km/t.
+XPENG G6 AWD Performance har en maksimal effekt på 358 KW (487hk). Totalt dreiemoment er 660 nm. Den utfører sprinten 0-100 km/t på 3.9 sekunder. Topphastigheten er 202 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 87,5kWh og en nettokapasitet på 82kWh, noe som betyr at du har et 5,5kWh-buffer for beskyttelse. (6,3%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 87.5kWh og en nettokapasitet på 82kWh, noe som betyr at du har et 5.5kWh-buffer for beskyttelse. (6.3%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 700 km ( miles). Forbruket er 11.7kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

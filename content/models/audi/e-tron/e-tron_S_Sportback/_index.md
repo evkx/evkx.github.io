@@ -35,11 +35,11 @@ This model has been replaced by [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tr
 
 ## Performance
 
-With overboost, the Audi e-tron S Sportback has a maximum power of 370 KW (503 hp / 496 bhp). Without overboost, it is 320 KW (435 hp / 435 bhp). The torque is 973 nm with overboost and 561 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds with overboost and 6,6 seconds without overboost. The top speed is 200 km/h.
+With overboost, the Audi e-tron S Sportback has a maximum power of 370 KW (503 hp / 496 bhp). Without overboost, it is 320 KW (435 hp / 435 bhp). The torque is 973 nm with overboost and 561 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds with overboost and 6.6 seconds without overboost. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 95kWh and a net capacity of 86kWh, meaning you have a 9kWh buffer for protection. (9,5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 95kWh and a net capacity of 86kWh, meaning you have a 9kWh buffer for protection. (9.5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 379 to 347 km (236-216 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 22.7kWh/100km for the basic version and 24.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -272,7 +272,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 3280 kg (7231 lbs), and with the base weight of 2655 kg (5853 lbs), you can max load 625 kg (1378 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3280 kg (7231 lbs), and with the base weight of 2655 kg (5853 lbs), you can max load 625 kg (1378 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 
@@ -281,7 +281,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 19.11.2019, and deliveries started in May 2020. This models has now been discontined. This model has been replaced by [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
+This model had a world premiere on 11/19/2019, and deliveries started in May 2020. This models has now been discontined. This model has been replaced by [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

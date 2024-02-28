@@ -29,11 +29,11 @@ We have separated our Lexus UX 300e article into sections. If you want to wait t
 
 ## Performance
 
-The Lexus UX 300e has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,5 seconds. The top speed is 160 km/h.
+The Lexus UX 300e has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.5 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71,4kWh and a net capacity of 64kWh, meaning you have a 7,4kWh buffer for protection. (10,4%).
+The battery has a gross capacity of 71.4kWh and a net capacity of 64kWh, meaning you have a 7.4kWh buffer for protection. (10.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 450 to 440 km (280-274 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.2kWh/100km for the basic version and 14.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -209,7 +209,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 367 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176,4 lbs). The maxium weight of the car is 2245 kg (4949 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 435 kg (959 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 367 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176.4 lbs). The maxium weight of the car is 2245 kg (4949 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 435 kg (959 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}

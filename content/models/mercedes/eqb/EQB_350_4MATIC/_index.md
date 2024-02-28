@@ -29,11 +29,11 @@ We have separated our Mercedes-EQ EQB 350 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQB 350 4MATIC has a maximum power of 215 KW (292 hp/288 bhp). The total torque is 520 nm (384 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,2 seconds. The top speed is 160 km/h.
+The Mercedes-EQ EQB 350 4MATIC has a maximum power of 215 KW (292 hp/288 bhp). The total torque is 520 nm (384 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.2 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4,6%).
+The battery has a gross capacity of 69.7kWh and a net capacity of 66.5kWh, meaning you have a 3.2kWh buffer for protection. (4.6%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 423 to 388 km (263-241 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.7kWh/100km for the basic version and 17.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -230,7 +230,7 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 495 liters. With the rear seat down, it is 1410 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2580 kg (5688 lbs), and with the base weight of 2100 kg (4630 lbs), you can max load 480 kg (1058 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 480kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 495 liters. With the rear seat down, it is 1410 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2580 kg (5688 lbs), and with the base weight of 2100 kg (4630 lbs), you can max load 480 kg (1058 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 480kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

@@ -29,11 +29,11 @@ Vi har opdelt vores Lancia Ypsilon artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Lancia Ypsilon har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 10,5 sekunder. Tophastigheden er 170 km/t.
+Lancia Ypsilon har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 10.5 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50,8kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (5,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50.8kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (5.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 403 km (251 mi). Forbruget er 12.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -192,7 +192,7 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 352 liter. Med bagsædet nede er det 1268 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 1950 kg (4299 lbs), og med basisvægten på 1584 kg (3492 lbs), kan du maksimalt laste 366 kg (807 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 352 liter. Med bagsædet nede er det 1268 liter. På taget kan du laste op til 70 kg (154.3 lbs). Bilens maksimale vægt er 1950 kg (4299 lbs), og med basisvægten på 1584 kg (3492 lbs), kan du maksimalt laste 366 kg (807 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 
@@ -201,7 +201,7 @@ Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du 
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 14.02.2024, og leveringerne startede i June 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 2/14/2024, og leveringerne startede i June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lancia Ypsilon </strong>
 </a>

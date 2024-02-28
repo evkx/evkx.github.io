@@ -35,11 +35,11 @@ Denna modell har ersatts av [Volvo EX40 Single Motor](/models/volvo/ex40/ex40_si
 
 ## Prestanda
 
-Volvo XC40 Recharge Single Motor har en maximal effekt på 175 KW (238hk). Totalt vridmoment är 420 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 180 km/h.
+Volvo XC40 Recharge Single Motor har en maximal effekt på 175 KW (238hk). Totalt vridmoment är 420 Nm. Den gör sprinten 0-100 km/h på 7.3 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 66kWh, vilket innebär att du har en 3kWh buffert för skydd. (4,3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 66kWh, vilket innebär att du har en 3kWh buffert för skydd. (4.3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 467 till 454 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.1kWh/100 km för basversionen och 14.5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -198,7 +198,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EX40 Single Motor](/models/volvo/ex40/ex40_single_motor).<div class="mt-3 mb-3">
+Denna modell hade världspremiär 5/18/2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EX40 Single Motor](/models/volvo/ex40/ex40_single_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>
 </a>

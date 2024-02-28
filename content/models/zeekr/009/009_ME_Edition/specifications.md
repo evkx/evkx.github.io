@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 009 ME Edition
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				4.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				16,3 kWh/100km
+				16.3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5209 mm (205,1")
+				5209 mm (205.1")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1848 mm (72,8")
+				1848 mm (72.8")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				2024 mm (79,7")
+				2024 mm (79.7")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3205 mm (126,2")
+				3205 mm (126.2")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,27
+				0.27
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				192 mm (7,6")
+				192 mm (7.6")
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				162 mm (6,4")
+				162 mm (6.4")
 			</td>
 		</tr>
 		<tr>
@@ -1053,7 +1053,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 10,2
+				Yes, 10.2
 			</td>
 		</tr>
 		<tr>
@@ -1061,7 +1061,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 15,4"
+				Yes, 15.4"
 			</td>
 		</tr>
 		<tr>

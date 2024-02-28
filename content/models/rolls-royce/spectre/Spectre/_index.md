@@ -29,11 +29,11 @@ We have separated our Rolls-Royce Spectre article into sections. If you want to 
 
 ## Performance
 
-The Rolls-Royce Spectre has a maximum power of 430 KW (585 hp/577 bhp). The total torque is 900 nm (664 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 250 km/h.
+The Rolls-Royce Spectre has a maximum power of 430 KW (585 hp/577 bhp). The total torque is 900 nm (664 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 105,7kWh and a net capacity of 102kWh, meaning you have a 3,7kWh buffer for protection. (3,5%).
+The battery has a gross capacity of 105.7kWh and a net capacity of 102kWh, meaning you have a 3.7kWh buffer for protection. (3.5%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 530 km (329 mi). The consumption is 19.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -226,7 +226,7 @@ The cargo capacity in the trunk is 500 liters. The maxium weight of the car is 3
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 18.10.2022, and deliveries started in December 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 10/18/2022, and deliveries started in December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rolls-Royce Spectre </strong>
 </a>

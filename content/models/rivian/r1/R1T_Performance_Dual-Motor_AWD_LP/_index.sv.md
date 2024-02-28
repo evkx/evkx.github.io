@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Rivian R1T Performance Dual-Motor AWD LP i a
 
 ## Prestanda
 
-Rivian R1T Performance Dual-Motor AWD LP har en maximal effekt på 495 KW (673hk). Totalt vridmoment är 1124 Nm. Den gör sprinten 0-100 km/h på 3,5 sekunder. Topphastigheten är 201 km/h.
+Rivian R1T Performance Dual-Motor AWD LP har en maximal effekt på 495 KW (673hk). Totalt vridmoment är 1124 Nm. Den gör sprinten 0-100 km/h på 3.5 sekunder. Topphastigheten är 201 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 135kWh och en nettokapacitet på 132kWh, vilket innebär att du har en 3kWh buffert för skydd. (2,2%).
+Batteriet har en bruttokapacitet på 135kWh och en nettokapacitet på 132kWh, vilket innebär att du har en 3kWh buffert för skydd. (2.2%).
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 352 miles (566 km). Förbrukningen är 2.7mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 11 timmar och 28 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 11 timmar och 28 minuter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}
@@ -212,7 +212,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 26.11.2018 och leveranserna startade i September 2021.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 11/26/2018 och leveranserna startade i September 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

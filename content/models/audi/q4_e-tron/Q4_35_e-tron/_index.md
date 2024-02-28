@@ -33,7 +33,7 @@ The Audi Q4 35 e-tron has a maximum power of 125 KW (170 hp/168 bhp). The total 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 55kWh and a net capacity of 51,5kWh, meaning you have a 3,5kWh buffer for protection. (6,4%).
+The battery has a gross capacity of 55kWh and a net capacity of 51.5kWh, meaning you have a 3.5kWh buffer for protection. (6.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 357 to 323 km (222-201 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.4kWh/100km for the basic version and 15.9kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7,2 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 9 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 7.2 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 9 minutes.
 
 ### Charge port
 
@@ -244,7 +244,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2475 kg (5456 lbs), and with the base weight of 1890 kg (4167 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2475 kg (5456 lbs), and with the base weight of 1890 kg (4167 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
 
@@ -253,7 +253,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 14.04.2021, and deliveries started in January 2022. This models has now been discontined.<div class="mt-3 mb-3">
+This model had a world premiere on 4/14/2021, and deliveries started in January 2022. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

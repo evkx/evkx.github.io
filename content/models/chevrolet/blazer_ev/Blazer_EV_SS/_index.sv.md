@@ -33,7 +33,7 @@ Chevrolet Blazer EV SS har en maximal effekt på 410 KW (557hk). Totalt vridmome
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,3%).
+Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.3%).
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 290 miles (467 km). Förbrukningen är 2.8mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter.
 
 ### Laddningsport
 

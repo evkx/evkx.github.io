@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av BMW iX3 i avsnitt. Om du vill vänta med att
 
 ## Prestanda
 
-BMW iX3 har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 400 Nm. Den gör sprinten 0-100 km/h på 6,8 sekunder. Topphastigheten är 180 km/h.
+BMW iX3 har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 400 Nm. Den gör sprinten 0-100 km/h på 6.8 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 80kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 6kWh buffert för skydd. (7,5%).
+Batteriet har en bruttokapacitet på 80kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 6kWh buffert för skydd. (7.5%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 461 till 453 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.1kWh/100 km för basversionen och 16.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

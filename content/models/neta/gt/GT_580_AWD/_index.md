@@ -29,11 +29,11 @@ We have separated our Neta GT 580 AWD article into sections. If you want to wait
 
 ## Performance
 
-The Neta GT 580 AWD has a maximum power of 340 KW (462 hp/456 bhp). The total torque is 620 nm (458 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,7 seconds.
+The Neta GT 580 AWD has a maximum power of 340 KW (462 hp/456 bhp). The total torque is 620 nm (458 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.7 seconds.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 78kWh and a net capacity of 75kWh, meaning you have a 3kWh buffer for protection. (3,8%).
+The battery has a gross capacity of 78kWh and a net capacity of 75kWh, meaning you have a 3kWh buffer for protection. (3.8%).
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 580 km ( miles). The consumption is 12.9kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -195,12 +195,12 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 297 liters. Under the hood, there is frunk with more storage room. This frunk is 50 liters (1,8 CU FT).
+The cargo capacity in the trunk is 297 liters. Under the hood, there is frunk with more storage room. This frunk is 50 liters (1.8 CU FT).
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 13.07.2023, and deliveries started in December 2023. This model is only available in China.<div class="mt-3 mb-3">
+This model had a world premiere on 7/13/2023, and deliveries started in December 2023. This model is only available in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Neta GT </strong>
 </a>

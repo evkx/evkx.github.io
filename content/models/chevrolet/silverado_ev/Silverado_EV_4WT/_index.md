@@ -29,11 +29,11 @@ We have separated our Chevrolet Silverado EV 4WT article into sections. If you w
 
 ## Performance
 
-The Chevrolet Silverado EV 4WT has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 834 nm (615 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 170 km/h.
+The Chevrolet Silverado EV 4WT has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 834 nm (615 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 220kWh and a net capacity of 213kWh, meaning you have a 7kWh buffer for protection. (3,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 220kWh and a net capacity of 213kWh, meaning you have a 7kWh buffer for protection. (3.2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 450 miles (724 km). The consumption is 2.1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -190,7 +190,7 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 303 liters (10,7 CU FT). The maxium weight of the car is 4531 kg (9989 lbs), and with the base weight of 3882 kg (8558 lbs), you can max load 649 kg (1431 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 303 liters (10.7 CU FT). The maxium weight of the car is 4531 kg (9989 lbs), and with the base weight of 3882 kg (8558 lbs), you can max load 649 kg (1431 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 4536, and on unbraked, it is 750 kg (10000/1653 lbs).
 
@@ -199,7 +199,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 05.01.2022, and deliveries started in September 2023. This model is only available in North America.<div class="mt-3 mb-3">
+This model had a world premiere on 1/5/2022, and deliveries started in September 2023. This model is only available in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

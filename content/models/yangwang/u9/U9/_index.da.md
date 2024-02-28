@@ -29,11 +29,11 @@ Vi har opdelt vores YangWang U9 artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-YangWang U9 har en maksimal effekt på 960 KW (1305 hk/1287 hk). Det samlede drejningsmoment er 1680 nm (1240 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,36 sekunder. Tophastigheden er 309 km/t.
+YangWang U9 har en maksimal effekt på 960 KW (1305 hk/1287 hk). Det samlede drejningsmoment er 1680 nm (1240 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.36 sekunder. Tophastigheden er 309 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 83kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 83kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3.6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 465 km ( miles). Forbruget er 17.2kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -186,7 +186,7 @@ Lagekapaciteten i bagagerummet er 200 liter. Bilens maksimale vægt er 2625 kg (
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 01.04.2023, og leveringer forventes at starte om January 2025.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 4/1/2023, og leveringer forventes at starte om January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> YangWang U9 </strong>
 </a>

@@ -29,14 +29,14 @@ Vi har delt vår beskrivelse av Nio ET7 i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-Nio ET7 har en maksimal effekt på 360 KW (490hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 200 km/t.
+Nio ET7 har en maksimal effekt på 360 KW (490hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 3.8 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Nio ET7 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
 ### 100kWh
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (10,0%).
+Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (10.0%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 580 til 505 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.5kWh/100 km for basisversjonen og 17.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -45,7 +45,7 @@ Maksimal DC-ladehastighet er 126 kW. En full lading fra 0 - 100 % vil ta 75 minu
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 52 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 50%. Totalt tapt tid for å lade opp batteriet vil være 93 minutter.
 ### 75kWh
 
-Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70,5kWh, noe som betyr at du har et 4,5kWh-buffer for beskyttelse. (6,0%).
+Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70.5kWh, noe som betyr at du har et 4.5kWh-buffer for beskyttelse. (6.0%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 445 til 385 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.5kWh/100 km for basisversjonen og 17.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

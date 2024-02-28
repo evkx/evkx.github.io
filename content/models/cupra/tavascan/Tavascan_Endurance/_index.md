@@ -29,11 +29,11 @@ We have separated our CUPRA Tavascan Endurance article into sections. If you wan
 
 ## Performance
 
-The CUPRA Tavascan Endurance has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 545 nm (402 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,8 seconds. The top speed is 180 km/h.
+The CUPRA Tavascan Endurance has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 545 nm (402 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.8 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 547 km (340 mi). The consumption is 14.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -214,7 +214,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0,0 lbs). The maxium weight of the car is 2650 kg (5842 lbs), and with the base weight of 2042 kg (4502 lbs), you can max load 608 kg (1340 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2650 kg (5842 lbs), and with the base weight of 2042 kg (4502 lbs), you can max load 608 kg (1340 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

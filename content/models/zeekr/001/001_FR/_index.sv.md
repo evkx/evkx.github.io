@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Zeekr 001 FR i avsnitt. Om du vill vänta me
 
 ## Prestanda
 
-Zeekr 001 FR har en maximal effekt på 930 KW (1264hk). Totalt vridmoment är 1200 Nm. Den gör sprinten 0-100 km/h på 2,02 sekunder. Topphastigheten är 280 km/h.
+Zeekr 001 FR har en maximal effekt på 930 KW (1264hk). Totalt vridmoment är 1200 Nm. Den gör sprinten 0-100 km/h på 2.02 sekunder. Topphastigheten är 280 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 580 km. Förbrukningen är 16.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -198,7 +198,7 @@ Lastkapaciteten i bagageutrymmet är 539 liter. Med baksätet nedfällt är det 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 30.10.2023 och leveranserna startade i January 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 10/30/2023 och leveranserna startade i January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 001 </strong>
 </a>

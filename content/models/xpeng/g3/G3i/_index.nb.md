@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av XPENG G3i i seksjoner. Hvis du vil vente med å 
 
 ## Ytelse
 
-XPENG G3i har en maksimal effekt på 145 KW (197hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t på 8,6 sekunder. Topphastigheten er 170 km/t.
+XPENG G3i har en maksimal effekt på 145 KW (197hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t på 8.6 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 55,9kWh, noe som betyr at du har et 10,1kWh-buffer for beskyttelse. (15,3%).
+Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 55.9kWh, noe som betyr at du har et 10.1kWh-buffer for beskyttelse. (15.3%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 420 km. Forbruket er 13.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 6,6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 28 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 6.6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 28 minutter.
 
 ### Ladeport
 

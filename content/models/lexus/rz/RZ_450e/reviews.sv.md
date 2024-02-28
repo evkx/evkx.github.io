@@ -10,28 +10,28 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Drive The Electric Lexus RZ 450e For The First Time! Is This A Joke?</h3>
-<p>Out of Spec Reviews: 06.10.2023</p>
+<p>Out of Spec Reviews: 06/10/2023</p>
 
 {{< youtube yOeDJ7s_LCc >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Yiiiiiikes! Brutal Results For The Lexus RZ450e Highway Electric Range Test</h3>
-<p>Out of Spec Reviews: 05.10.2023</p>
+<p>Out of Spec Reviews: 05/10/2023</p>
 
 {{< youtube yMc9RwQxLU0 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Lexus RZ 450e driving REVIEW</h3>
-<p>Autogefühl: 13.03.2023</p>
+<p>Autogefühl: 13/03/2023</p>
 
 {{< youtube y-ocjeOFPCk >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2023 Lexus RZ: InsideEVs First Drive Review</h3>
-<p>InsideEVs: 13.03.2023</p>
+<p>InsideEVs: 13/03/2023</p>
 
 {{< youtube qOWBIzfvr7g >}}
 

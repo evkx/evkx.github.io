@@ -29,11 +29,11 @@ We have separated our Mercedes-AMG EQE 43 4MATIC SUV article into sections. If y
 
 ## Performance
 
-The Mercedes-AMG EQE 43 4MATIC SUV has a maximum power of 350 KW (476 hp/469 bhp). The total torque is 858 nm (633 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,3 seconds. The top speed is 210 km/h.
+The Mercedes-AMG EQE 43 4MATIC SUV has a maximum power of 350 KW (476 hp/469 bhp). The total torque is 858 nm (633 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.3 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96,12kWh and a net capacity of 90,6kWh, meaning you have a 5,52kWh buffer for protection. (5,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 96.12kWh and a net capacity of 90.6kWh, meaning you have a 5.52kWh buffer for protection. (5.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 488 to 431 km (303-268 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 18.6kWh/100km for the basic version and 21.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -244,7 +244,7 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1675 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3195 kg (7044 lbs), and with the base weight of 2600 kg (5732 lbs), you can max load 595 kg (1312 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1675 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3195 kg (7044 lbs), and with the base weight of 2600 kg (5732 lbs), you can max load 595 kg (1312 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 

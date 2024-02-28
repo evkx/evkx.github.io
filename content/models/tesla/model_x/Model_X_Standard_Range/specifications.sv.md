@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model X Standard
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,2 s
+				4.2 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				13,8 kWh/100km
+				13.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				20,8 kWh/100km
+				20.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				14,2 kWh/100km
+				14.2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				21,4 kwh/100km
+				21.4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -330,7 +330,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,208
+				0.208
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				12,3 meter
+				12.3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1120,7 +1120,7 @@ Interior.Seatlayout.OnlySix
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>

@@ -31,11 +31,11 @@ Vi har opdelt vores Porsche Taycan GTS artikel i sektioner. Hvis du vil vente me
 
 
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan GTS en maksimal effekt på 440 KW (598 hk / 435 bhp). Uden overboost er den 320 KW (435 hk / 590 hk). Momentet er 850 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Tophastigheden er 250 km/t.
+Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan GTS en maksimal effekt på 440 KW (598 hk / 435 bhp). Uden overboost er den 320 KW (435 hk / 590 hk). Momentet er 850 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3.7 sekunder. Tophastigheden er 250 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 93.4kWh og en nettokapacitet på 83.7kWh, hvilket betyder, at du har en 9.7kWh buffer til beskyttelse. (10.4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 504 til 439 km (313-273 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.6kWh/100 km for basisversionen og 19.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -243,7 +243,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2295 kg (5060 lbs), kan du maksimalt laste 555 kg (1224 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2295 kg (5060 lbs), kan du maksimalt laste 555 kg (1224 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

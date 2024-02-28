@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av XPENG G9 RWD Standard Range i seksjoner. Hvis du
 
 ## Ytelse
 
-XPENG G9 RWD Standard Range har en maksimal effekt på 230 KW (313hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 6,4 sekunder. Topphastigheten er 200 km/t.
+XPENG G9 RWD Standard Range har en maksimal effekt på 230 KW (313hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 6.4 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 78,2kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (4,1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 78.2kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (4.1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 460 km. Forbruket er 16.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

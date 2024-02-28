@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Polestar 2 Long Range 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				4.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				13,3 kWh/100km
+				13.3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16,7 kWh/100km
+				16.7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				14,3 kWh/100km
+				14.3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				17,3 kwh/100km
+				17.3 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -346,7 +346,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11,4 meter
+				11.4 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1114,7 +1114,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1122,7 +1122,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 11,2
+				Ja, 11.2
 			</td>
 		</tr>
 		<tr>

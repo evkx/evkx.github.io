@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Audi e-tron GT i avsnitt. Om du vill vänta 
 
 ## Prestanda
 
-Med overboost har Audi e-tron GT en maximal effekt på 390 KW (530hk). Utan overboost är det 350KW (476hp). Vridmomentet är 640 Nm med överboost och 630 utan överboost. Den gör sprinten 0-100 km/h på 4,1 sekunder med överboost och 4,5 sekunder utan överboost. Topphastigheten är 245 km/h.
+Med overboost har Audi e-tron GT en maximal effekt på 390 KW (530hk). Utan overboost är det 350KW (476hp). Vridmomentet är 640 Nm med överboost och 630 utan överboost. Den gör sprinten 0-100 km/h på 4.1 sekunder med överboost och 4.5 sekunder utan överboost. Topphastigheten är 245 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 93,4kWh och en nettokapacitet på 83,7kWh, vilket innebär att du har en 9,7kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 93.4kWh och en nettokapacitet på 83.7kWh, vilket innebär att du har en 9.7kWh buffert för skydd. (10.4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 488 till 448 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.2kWh/100 km för basversionen och 18.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -244,7 +244,7 @@ Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn m
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 09.02.2021 och leveranserna startade i May 2021.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 2/9/2021 och leveranserna startade i May 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

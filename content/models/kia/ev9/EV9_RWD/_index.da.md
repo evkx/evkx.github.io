@@ -29,11 +29,11 @@ Vi har opdelt vores Kia EV9 RWD artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-Kia EV9 RWD har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 350 nm (258 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9,4 sekunder. Tophastigheden er 185 km/t.
+Kia EV9 RWD har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 350 nm (258 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9.4 sekunder. Tophastigheden er 185 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 76,1kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 1,1kWh buffer til beskyttelse. (1,4%).
+Batteriet har en bruttokapacitet på 76.1kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 1.1kWh buffer til beskyttelse. (1.4%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 443 km (275 mi). Forbruget er 16.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -227,7 +227,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 333 liter. Med bagsædet nede er det 2393 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 55 liter (1,9 CU FT). Bilens maksimale vægt er 3190 kg (7033 lbs), og med basisvægten på 2637 kg (5814 lbs), kan du maksimalt laste 553 kg (1219 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 333 liter. Med bagsædet nede er det 2393 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 55 liter (1.9 CU FT). Bilens maksimale vægt er 3190 kg (7033 lbs), og med basisvægten på 2637 kg (5814 lbs), kan du maksimalt laste 553 kg (1219 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2500, og på ubremset er den 750 kg (5512/1653 lbs).
 

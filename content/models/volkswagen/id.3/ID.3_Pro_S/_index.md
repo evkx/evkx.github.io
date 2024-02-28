@@ -29,11 +29,11 @@ We have separated our Volkswagen ID.3 Pro S article into sections. If you want t
 
 ## Performance
 
-The Volkswagen ID.3 Pro S has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,9 seconds. The top speed is 160 km/h.
+The Volkswagen ID.3 Pro S has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.9 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 553 to 548 km (344-341 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.9kWh/100km for the basic version and 14.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -216,7 +216,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0,0 lbs). The maxium weight of the car is 2290 kg (5049 lbs), and with the base weight of 1786 kg (3937 lbs), you can max load 504 kg (1111 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2290 kg (5049 lbs), and with the base weight of 1786 kg (3937 lbs), you can max load 504 kg (1111 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

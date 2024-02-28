@@ -31,11 +31,11 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo Cross Turismo i seksjoner. 
 
 
 
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan Turbo Cross Turismo en maksimal effekt på 500 KW (680hk). Uten overboost er den 460KW (625hk). Dreiemomentet er 850 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 250 km/t.
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan Turbo Cross Turismo en maksimal effekt på 500 KW (680hk). Uten overboost er den 460KW (625hk). Dreiemomentet er 850 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 3.3 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 93,4kWh og en nettokapasitet på 83,7kWh, noe som betyr at du har et 9,7kWh-buffer for beskyttelse. (10,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 93.4kWh og en nettokapasitet på 83.7kWh, noe som betyr at du har et 9.7kWh-buffer for beskyttelse. (10.4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 452 til 395 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.5kWh/100 km for basisversjonen og 21.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BMW iX xDrive50 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW iX xDrive50 har en maksimal effekt på 385 KW (524hk). Totalt dreiemoment er 765 nm. Den utfører sprinten 0-100 km/t på 4,6 sekunder. Topphastigheten er 200 km/t.
+BMW iX xDrive50 har en maksimal effekt på 385 KW (524hk). Totalt dreiemoment er 765 nm. Den utfører sprinten 0-100 km/t på 4.6 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 111kWh og en nettokapasitet på 105,2kWh, noe som betyr at du har et 5,8kWh-buffer for beskyttelse. (5,2%).
+Batteriet har en bruttokapasitet på 111kWh og en nettokapasitet på 105.2kWh, noe som betyr at du har et 5.8kWh-buffer for beskyttelse. (5.2%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 631 til 550 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.7kWh/100 km for basisversjonen og 19.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Kia Niro EV. Klikk 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				7,8 s
+				7.8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				14,0 kWh/100km
+				14.0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				16,4 kWh/100km
+				16.4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				64,8 kWh
+				64.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				10,2 meter
+				10.2 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1063,7 +1063,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Digital driver display
 			</td>
 			<td>
-				Ja, 10,25
+				Ja, 10.25
 			</td>
 		</tr>
 		<tr>
@@ -1071,7 +1071,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10,25
+				Ja, 10.25
 			</td>
 		</tr>
 		<tr>

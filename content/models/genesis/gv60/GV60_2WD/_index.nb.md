@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Genesis GV60 2WD i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Genesis GV60 2WD har en maksimal effekt på 168 KW (228hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 5,5 sekunder. Topphastigheten er 185 km/t.
+Genesis GV60 2WD har en maksimal effekt på 168 KW (228hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 5.5 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3,4kWh-buffer for beskyttelse. (4,4%).
+Batteriet har en bruttokapasitet på 77.4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3.4kWh-buffer for beskyttelse. (4.4%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 517 km. Forbruket er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

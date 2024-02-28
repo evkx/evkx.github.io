@@ -71,7 +71,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. C
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3.5 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. C
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
-				3,4 s
+				3.4 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				18,7 kWh/100km
+				18.7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				19,2 kWh/100km
+				19.2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4715 mm (185,6")
+				4715 mm (185.6")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1585 mm (62,4")
+				1585 mm (62.4")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1940 mm (76,4")
+				1940 mm (76.4")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3000 mm (118,1")
+				3000 mm (118.1")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1628 mm (64,1")
+				1628 mm (64.1")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1637 mm (64,4")
+				1637 mm (64.4")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,28
+				0.28
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12 meter (472,4")
+				12 meter (472.4")
 			</td>
 		</tr>
 	</tbody>
@@ -492,7 +492,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				158 mm (6,2")
+				158 mm (6.2")
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +500,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				158 mm (6,2")
+				158 mm (6.2")
 			</td>
 		</tr>
 		<tr>
@@ -1095,7 +1095,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12,3
+				Yes, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1103,7 +1103,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12,3"
+				Yes, 12.3"
 			</td>
 		</tr>
 		<tr>

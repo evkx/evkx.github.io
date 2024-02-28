@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av CUPRA BORN 58 i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-CUPRA BORN 58 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 160 km/t.
+CUPRA BORN 58 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7.3 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 62kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6,5%).
+Batteriet har en bruttokapasitet på 62kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6.5%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 424 til 358 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.7kWh/100 km for basisversjonen og 16.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

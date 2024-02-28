@@ -10,7 +10,7 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Insane Porsche Charging Performance! New Taycan Facelift Charging Test & Comparison</h3>
-<p>Out of Spec Reviews: 06.02.2024</p>
+<p>Out of Spec Reviews: 06/02/2024</p>
 
 {{< youtube YyuvG8Ey1JA >}}
 

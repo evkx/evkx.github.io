@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Zeekr 001 Long Range RWD i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Zeekr 001 Long Range RWD har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 7,2 sekunder. Topphastigheten er 200 km/t.
+Zeekr 001 Long Range RWD har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 7.2 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 95kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 95kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 590 km. Forbruket er 16.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -204,7 +204,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 4/14/2021, og leveringene startet i October 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 001 </strong>
 </a>

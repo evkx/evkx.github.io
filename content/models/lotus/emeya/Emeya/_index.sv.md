@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Lotus Emeya i avsnitt. Om du vill vänta med
 
 ## Prestanda
 
-Lotus Emeya har en maximal effekt på 675 KW (918hk). Totalt vridmoment är 985 Nm. Den gör sprinten 0-100 km/h på 2,78 sekunder. Topphastigheten är 256 km/h.
+Lotus Emeya har en maximal effekt på 675 KW (918hk). Totalt vridmoment är 985 Nm. Den gör sprinten 0-100 km/h på 2.78 sekunder. Topphastigheten är 256 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 108kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,6%).
+Batteriet har en bruttokapacitet på 108kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 6kWh buffert för skydd. (5.6%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 535 till 490 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19.1kWh/100 km för basversionen och 20.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -225,7 +225,7 @@ Lastkapaciteten i bagageutrymmet är 688 liter. Med baksätet nedfällt är det 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1225, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 12.10.2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 10/12/2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lotus Emeya </strong>
 </a>

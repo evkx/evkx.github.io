@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av CUPRA BORN 77 e-BOOST i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Med overboost har CUPRA BORN 77 e-BOOST en maksimal effekt på 170 KW (231hk). Uten overboost er den 150KW (204hk). Dreiemomentet er 310 nm med overboost og 310 uten overboost. Den utfører sprinten 0-100 km/t på 7 sekunder med overboost og 7,9 sekunder uten overboost. Topphastigheten er 160 km/t.
+Med overboost har CUPRA BORN 77 e-BOOST en maksimal effekt på 170 KW (231hk). Uten overboost er den 150KW (204hk). Dreiemomentet er 310 nm med overboost og 310 uten overboost. Den utfører sprinten 0-100 km/t på 7 sekunder med overboost og 7.9 sekunder uten overboost. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.1%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 548 til 492 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.1kWh/100 km for basisversjonen og 15.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

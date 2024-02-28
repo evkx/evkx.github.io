@@ -29,14 +29,14 @@ Vi har delat in vår beskrivning av Nio ET5 Touring i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-Nio ET5 Touring har en maximal effekt på 480 KW (653hk). Totalt vridmoment är 850 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 200 km/h.
+Nio ET5 Touring har en maximal effekt på 480 KW (653hk). Totalt vridmoment är 850 Nm. Den gör sprinten 0-100 km/h på 3.9 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
 Nio ET5 Touring har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
 ### 100kWh
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 90kWh, vilket innebär att du har en 10kWh buffert för skydd. (10,0%).
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 90kWh, vilket innebär att du har en 10kWh buffert för skydd. (10.0%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 560 till 540 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.1kWh/100 km för basversionen och 16.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -45,7 +45,7 @@ Maximal DC-laddningshastighet är 180 kW. En full laddning från 0 - 100 % tar 7
 För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 23kWh/100km, tar 1000km 9 timmar och 58 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 1% till 40%. Total tid som går förlorad för att ladda batteriet kommer att vara 98 minuter.
 ### 75kWh
 
-Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70,5kWh, vilket innebär att du har en 4,5kWh buffert för skydd. (6,0%).
+Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70.5kWh, vilket innebär att du har en 4.5kWh buffert för skydd. (6.0%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 456 till 419 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.1kWh/100 km för basversionen och 16.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

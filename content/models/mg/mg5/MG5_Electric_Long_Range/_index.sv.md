@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av MG MG5 Electric Long Range i avsnitt. Om du 
 
 ## Prestanda
 
-MG MG5 Electric Long Range har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 280 Nm. Den gör sprinten 0-100 km/h på 8,3 sekunder. Topphastigheten är 185 km/h.
+MG MG5 Electric Long Range har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 280 Nm. Den gör sprinten 0-100 km/h på 8.3 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 61,1kWh och en nettokapacitet på 57,4kWh, vilket innebär att du har en 3,7kWh buffert för skydd. (6,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 61.1kWh och en nettokapacitet på 57.4kWh, vilket innebär att du har en 3.7kWh buffert för skydd. (6.1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 400 till 380 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.4kWh/100 km för basversionen och 15.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

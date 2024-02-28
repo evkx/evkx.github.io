@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Volkswagen ID.4 Pro 4MOTION i avsnitt. Om du
 
 ## Prestanda
 
-Volkswagen ID.4 Pro 4MOTION har en maximal effekt på 195 KW (265hk). Totalt vridmoment är 425 Nm. Den gör sprinten 0-100 km/h på 6,9 sekunder. Topphastigheten är 180 km/h.
+Volkswagen ID.4 Pro 4MOTION har en maximal effekt på 195 KW (265hk). Totalt vridmoment är 425 Nm. Den gör sprinten 0-100 km/h på 6.9 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.1%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 510 till 409 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.1kWh/100 km för basversionen och 18.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

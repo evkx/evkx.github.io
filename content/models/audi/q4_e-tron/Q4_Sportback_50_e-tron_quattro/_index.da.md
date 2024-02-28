@@ -29,11 +29,11 @@ Vi har opdelt vores Audi Q4 Sportback 50 e-tron quattro artikel i sektioner. Hvi
 
 ## Ydeevne
 
-Med overboost har Audi Q4 Sportback 50 e-tron quattro en maksimal effekt på 220 KW (299 hk / 265 bhp). Uden overboost er den 195 KW (265 hk / 295 hk). Momentet er 460 nm med overboost og 425 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 6,2 sekunder med overboost og 6,2 sekunder uden overboost. Tophastigheden er 180 km/t.
+Med overboost har Audi Q4 Sportback 50 e-tron quattro en maksimal effekt på 220 KW (299 hk / 265 bhp). Uden overboost er den 195 KW (265 hk / 295 hk). Momentet er 460 nm med overboost og 425 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 6.2 sekunder med overboost og 6.2 sekunder uden overboost. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 76,6kWh, hvilket betyder, at du har en 5,4kWh buffer til beskyttelse. (6,6%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 76.6kWh, hvilket betyder, at du har en 5.4kWh buffer til beskyttelse. (6.6%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 522 til 446 km (324-277 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.7kWh/100 km for basisversionen og 17.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -234,7 +234,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 535 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2715 kg (5986 lbs), og med basisvægten på 2140 kg (4718 lbs), kan du maksimalt laste 575 kg (1268 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 535 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2715 kg (5986 lbs), og med basisvægten på 2140 kg (4718 lbs), kan du maksimalt laste 575 kg (1268 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
 
@@ -243,7 +243,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i January 2022. Denne model er nu udgået.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 4/14/2021, og leveringerne startede i January 2022. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

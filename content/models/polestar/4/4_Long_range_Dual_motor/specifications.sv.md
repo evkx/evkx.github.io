@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Polestar 4 Long range 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,8 s
+				3.8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				16,2 kWh/100km
+				16.2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				16,7 kWh/100km
+				16.7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -322,7 +322,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,26
+				0.26
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11,6 meter
+				11.6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1131,7 +1131,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15,4
+				Ja, 15.4
 			</td>
 		</tr>
 		<tr>

@@ -35,11 +35,11 @@ Denne modellen er erstattet av [Tesla Model 3 Long Range](/models/tesla/model_3/
 
 ## Ytelse
 
-Tesla Model 3 (GEN1) har en maksimal effekt på 208 KW (283hk). Totalt dreiemoment er 420 nm. Den utfører sprinten 0-100 km/t på 6,1 sekunder. Topphastigheten er 225 km/t.
+Tesla Model 3 (GEN1) har en maksimal effekt på 208 KW (283hk). Totalt dreiemoment er 420 nm. Den utfører sprinten 0-100 km/t på 6.1 sekunder. Topphastigheten er 225 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 59kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (1,7%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 59kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (1.7%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 495 til 491 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 11.9kWh/100 km for basisversjonen og 12.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -232,7 +232,7 @@ Lastkapasiteten i bagasjerommet er 561 liter. Med baksetet nede er det 1234 lite
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 01.04.2016, og leveringene startet i July 2017. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 4/1/2016, og leveringene startet i July 2017. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

@@ -29,17 +29,17 @@ We have separated our BYD Tang EV600 article into sections. If you want to wait 
 
 ## Performance
 
-The BYD Tang EV600 has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 680 nm (502 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,6 seconds. The top speed is 180 km/h.
+The BYD Tang EV600 has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 680 nm (502 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.6 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 90kWh and a net capacity of 86,4kWh, meaning you have a 3,6kWh buffer for protection. (4,0%).
+The battery has a gross capacity of 90kWh and a net capacity of 86.4kWh, meaning you have a 3.6kWh buffer for protection. (4.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 21.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 110kW. A full charge from 0 - 100% would take 67 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 59%, resulting in an actual charge speed, including time loss, of 93kW. Each charge session would take 31 minutes and 37 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 31,7kWh/100km, 1000km will take 10 hours and 50 minutes. This trip will require five charge session(s) charging from 5% to 59%. The total time lost for charging up the battery will be 150 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 31.7kWh/100km, 1000km will take 10 hours and 50 minutes. This trip will require five charge session(s) charging from 5% to 59%. The total time lost for charging up the battery will be 150 minutes.
 
 ### Onboard charger
 
@@ -215,7 +215,7 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 192 liters. With the rear seat down, it is 763 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3060 kg (6746 lbs), and with the base weight of 2489 kg (5487 lbs), you can max load 571 kg (1259 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 192 liters. With the rear seat down, it is 763 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3060 kg (6746 lbs), and with the base weight of 2489 kg (5487 lbs), you can max load 571 kg (1259 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Hongqi E-HS9 Exclusive+ i avsnitt. Om du vil
 
 ## Prestanda
 
-Hongqi E-HS9 Exclusive+ har en maximal effekt på 405 KW (551hk). Totalt vridmoment är 670 Nm. Den gör sprinten 0-100 km/h på 4,9 sekunder. Topphastigheten är 200 km/h.
+Hongqi E-HS9 Exclusive+ har en maximal effekt på 405 KW (551hk). Totalt vridmoment är 670 Nm. Den gör sprinten 0-100 km/h på 4.9 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 110kWh, vilket innebär att du har en 10kWh buffert för skydd. (8,3%).
+Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 110kWh, vilket innebär att du har en 10kWh buffert för skydd. (8.3%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 515 km. Förbrukningen är 21.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

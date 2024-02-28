@@ -33,7 +33,7 @@ Med overboost har Genesis GV60 AWD Performance en maximal effekt på 360 KW (490
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 77,4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3,4kWh buffert för skydd. (4,4%).
+Batteriet har en bruttokapacitet på 77.4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3.4kWh buffert för skydd. (4.4%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 470 km. Förbrukningen är 15.7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

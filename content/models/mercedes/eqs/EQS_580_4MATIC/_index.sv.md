@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQS 580 4MATIC i avsnitt. Om du 
 
 ## Prestanda
 
-Mercedes-EQ EQS 580 4MATIC har en maximal effekt på 385 KW (524hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4,3 sekunder. Topphastigheten är 210 km/h.
+Mercedes-EQ EQS 580 4MATIC har en maximal effekt på 385 KW (524hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4.3 sekunder. Topphastigheten är 210 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 108,4kWh, vilket innebär att du har en 11,6kWh buffert för skydd. (9,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 108.4kWh, vilket innebär att du har en 11.6kWh buffert för skydd. (9.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 692 till 583 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.7kWh/100 km för basversionen och 18.6kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

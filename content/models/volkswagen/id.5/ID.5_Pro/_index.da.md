@@ -29,11 +29,11 @@ Vi har opdelt vores Volkswagen ID.5 Pro artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Volkswagen ID.5 Pro har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 545 nm (402 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,7 sekunder. Tophastigheden er 180 km/t.
+Volkswagen ID.5 Pro har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 545 nm (402 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.7 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.1%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 556 km (346 mi). Forbruget er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -232,7 +232,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 549 liter. Med bagsædet nede er det 1561 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 549 liter. Med bagsædet nede er det 1561 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 
@@ -241,7 +241,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 10.10.2023, og leveringerne startede i November 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 10/10/2023, og leveringerne startede i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.5 </strong>
 </a>

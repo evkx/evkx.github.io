@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Audi Q8 e-tron edition Dakar i seksjoner. Hvis d
 
 ## Ytelse
 
-Med overboost har Audi Q8 e-tron edition Dakar en maksimal effekt på 300 KW (408hk). Uten overboost er den 265KW (360hk). Dreiemomentet er 664 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 5,8 sekunder med overboost og 6,8 sekunder uten overboost. Topphastigheten er 200 km/t.
+Med overboost har Audi Q8 e-tron edition Dakar en maksimal effekt på 300 KW (408hk). Uten overboost er den 265KW (360hk). Dreiemomentet er 664 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 5.8 sekunder med overboost og 6.8 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 114kWh og en nettokapasitet på 106kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 114kWh og en nettokapasitet på 106kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 487 km. Forbruket er 21.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -312,7 +312,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 03.01.2024, og leveringene startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 1/3/2024, og leveringene startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

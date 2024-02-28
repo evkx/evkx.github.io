@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Hyundai Kona Long Range i seksjoner. Hvis du vil
 
 ## Ytelse
 
-Hyundai Kona Long Range har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 185 km/t.
+Hyundai Kona Long Range har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7.3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 68,5kWh og en nettokapasitet på 65,4kWh, noe som betyr at du har et 3,1kWh-buffer for beskyttelse. (4,5%).
+Batteriet har en bruttokapasitet på 68.5kWh og en nettokapasitet på 65.4kWh, noe som betyr at du har et 3.1kWh-buffer for beskyttelse. (4.5%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 514 til 454 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.7kWh/100 km for basisversjonen og 14.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

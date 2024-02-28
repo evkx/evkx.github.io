@@ -29,11 +29,11 @@ We have separated our BYD Seal U Design article into sections. If you want to wa
 
 ## Performance
 
-The BYD Seal U Design has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9,3 seconds. The top speed is 175 km/h.
+The BYD Seal U Design has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9.3 seconds. The top speed is 175 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 87kWh and a net capacity of 87kWh, meaning you have a 0kWh buffer for protection. (0,0%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 87kWh and a net capacity of 87kWh, meaning you have a 0kWh buffer for protection. (0.0%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 500 km (311 mi). The consumption is 17.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ Vi har opdelt vores MG MG4 Electric Standard artikel i sektioner. Hvis du vil ve
 
 ## Ydeevne
 
-MG MG4 Electric Standard har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 250 nm (184 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Tophastigheden er 160 km/t.
+MG MG4 Electric Standard har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 250 nm (184 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.9 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 51kWh og en nettokapacitet på 50,8kWh, hvilket betyder, at du har en 0,2kWh buffer til beskyttelse. (0,4%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 51kWh og en nettokapacitet på 50.8kWh, hvilket betyder, at du har en 0.2kWh buffer til beskyttelse. (0.4%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 350 km (218 mi). Forbruget er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 

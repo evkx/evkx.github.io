@@ -29,11 +29,11 @@ We have separated our Ford F150 Lightning Standard Range article into sections. 
 
 ## Performance
 
-The Ford F150 Lightning Standard Range has a maximum power of 433 KW (589 hp/581 bhp). The total torque is 1050 nm (775 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 180 km/h.
+The Ford F150 Lightning Standard Range has a maximum power of 433 KW (589 hp/581 bhp). The total torque is 1050 nm (775 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.2 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 110kWh and a net capacity of 98kWh, meaning you have a 12kWh buffer for protection. (10,9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 110kWh and a net capacity of 98kWh, meaning you have a 12kWh buffer for protection. (10.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 427 km (265 mi). The consumption is 23.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 19,2 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 6 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 19.2 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 6 minutes.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}
@@ -204,7 +204,7 @@ With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, and length is 1704 mm. The max load weight in bed is 907 kg. Under the hood, there is frunk with more storage room. This frunk is 399 liters (14,1 CU FT). The maxium weight of the car is 3500 kg (7716 lbs), and with the base weight of 2890 kg (6371 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, and length is 1704 mm. The max load weight in bed is 907 kg. Under the hood, there is frunk with more storage room. This frunk is 399 liters (14.1 CU FT). The maxium weight of the car is 3500 kg (7716 lbs), and with the base weight of 2890 kg (6371 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3490, and on unbraked, it is 750 kg (7694/1653 lbs).
 
@@ -213,7 +213,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 19.05.2021, and deliveries started in December 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 5/19/2021, and deliveries started in December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
 </a>

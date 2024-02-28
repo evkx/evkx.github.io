@@ -29,11 +29,11 @@ Vi har opdelt vores Audi Q4 Sportback 45 e-tron artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Audi Q4 Sportback 45 e-tron har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 545 nm (402 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,7 sekunder. Tophastigheden er 180 km/t.
+Audi Q4 Sportback 45 e-tron har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 545 nm (402 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.7 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 76,6kWh, hvilket betyder, at du har en 5,4kWh buffer til beskyttelse. (6,6%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 76.6kWh, hvilket betyder, at du har en 5.4kWh buffer til beskyttelse. (6.6%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 562 til 475 km (349-295 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.6kWh/100 km for basisversionen og 16.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -234,7 +234,7 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 535 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2625 kg (5787 lbs), og med basisvægten på 2045 kg (4508 lbs), kan du maksimalt laste 580 kg (1279 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 535 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2625 kg (5787 lbs), og med basisvægten på 2045 kg (4508 lbs), kan du maksimalt laste 580 kg (1279 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 
@@ -243,7 +243,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 21.09.2023, og leveringerne startede i December 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 9/21/2023, og leveringerne startede i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

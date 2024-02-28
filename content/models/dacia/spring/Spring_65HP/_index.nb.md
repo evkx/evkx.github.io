@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Dacia Spring 65HP i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Dacia Spring 65HP har en maksimal effekt på 48 KW (65hk). Totalt dreiemoment er 113 nm. Den utfører sprinten 0-100 km/t på 13,7 sekunder. Topphastigheten er 125 km/t.
+Dacia Spring 65HP har en maksimal effekt på 48 KW (65hk). Totalt dreiemoment er 113 nm. Den utfører sprinten 0-100 km/t på 13.7 sekunder. Topphastigheten er 125 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 26,8kWh og en nettokapasitet på 25kWh, noe som betyr at du har et 1,8kWh-buffer for beskyttelse. (6,7%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 26.8kWh og en nettokapasitet på 25kWh, noe som betyr at du har et 1.8kWh-buffer for beskyttelse. (6.7%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 220 km. Forbruket er 11.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

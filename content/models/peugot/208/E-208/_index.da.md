@@ -29,11 +29,11 @@ Vi har opdelt vores Peugot E-208 artikel i sektioner. Hvis du vil vente med at l
 
 ## Ydeevne
 
-Peugot E-208 har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,1 sekunder. Tophastigheden er 150 km/t.
+Peugot E-208 har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.1 sekunder. Tophastigheden er 150 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 51kWh og en nettokapacitet på 48,1kWh, hvilket betyder, at du har en 2,9kWh buffer til beskyttelse. (5,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 51kWh og en nettokapacitet på 48.1kWh, hvilket betyder, at du har en 2.9kWh buffer til beskyttelse. (5.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 400 km (249 mi). Forbruget er 12.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -190,7 +190,7 @@ Lagekapaciteten i bagagerummet er 265 liter. Med bagsædet nede er det 1106 lite
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 06.07.2023, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 7/6/2023, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 208 </strong>
 </a>

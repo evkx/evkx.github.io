@@ -29,11 +29,11 @@ We have separated our Acura ZDX Type S article into sections. If you want to wai
 
 ## Performance
 
-The Acura ZDX Type S has a maximum power of 373 KW (507 hp/500 bhp). The total torque is 610 nm (450 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,6 seconds.
+The Acura ZDX Type S has a maximum power of 373 KW (507 hp/500 bhp). The total torque is 610 nm (450 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.6 seconds.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning you have a 8kWh buffer for protection. (7,3%).
+The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning you have a 8kWh buffer for protection. (7.3%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 288 miles (463 km). The consumption is 2.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes. You can also select an optional onboard charger that supports up to 19,2 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes. You can also select an optional onboard charger that supports up to 19.2 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes.
 
 ### Charge port
 

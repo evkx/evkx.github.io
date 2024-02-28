@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Hongqi E-HS9 Comfort i avsnitt. Om du vill v
 
 ## Prestanda
 
-Hongqi E-HS9 Comfort har en maximal effekt på 320 KW (435hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 6,5 sekunder. Topphastigheten är 200 km/h.
+Hongqi E-HS9 Comfort har en maximal effekt på 320 KW (435hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 6.5 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 84kWh och en nettokapacitet på 81,7kWh, vilket innebär att du har en 2,3kWh buffert för skydd. (2,7%).
+Batteriet har en bruttokapacitet på 84kWh och en nettokapacitet på 81.7kWh, vilket innebär att du har en 2.3kWh buffert för skydd. (2.7%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 396 km. Förbrukningen är 20.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

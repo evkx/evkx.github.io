@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av YangWang U9 i avsnitt. Om du vill vänta med
 
 ## Prestanda
 
-YangWang U9 har en maximal effekt på 960 KW (1305hk). Totalt vridmoment är 1680 Nm. Den gör sprinten 0-100 km/h på 2,36 sekunder. Topphastigheten är 309 km/h.
+YangWang U9 har en maximal effekt på 960 KW (1305hk). Totalt vridmoment är 1680 Nm. Den gör sprinten 0-100 km/h på 2.36 sekunder. Topphastigheten är 309 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 83kWh och en nettokapacitet på 80kWh, vilket innebär att du har en 3kWh buffert för skydd. (3,6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 83kWh och en nettokapacitet på 80kWh, vilket innebär att du har en 3kWh buffert för skydd. (3.6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 465 km ( miles). Förbrukningen är 17.2kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -186,7 +186,7 @@ Lastutrymmets kapacitet är 200 liter. Bilens maximala vikt är 2625 kg, och med
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 01.04.2023 och leveranser förväntas starta om January 2025.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 4/1/2023 och leveranser förväntas starta om January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> YangWang U9 </strong>
 </a>

@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Subaru Solterra AWD i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Subaru Solterra AWD har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 337 Nm. Den gör sprinten 0-100 km/h på 6,9 sekunder. Topphastigheten är 160 km/h.
+Subaru Solterra AWD har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 337 Nm. Den gör sprinten 0-100 km/h på 6.9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 71,4kWh och en nettokapacitet på 58kWh, vilket innebär att du har en 13,4kWh buffert för skydd. (18,8%).
+Batteriet har en bruttokapacitet på 71.4kWh och en nettokapacitet på 58kWh, vilket innebär att du har en 13.4kWh buffert för skydd. (18.8%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 466 till 416 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.4kWh/100 km för basversionen och 13.9kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 6,6KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 47 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 11 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 16 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 6.6KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 47 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 11 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 16 minuter.
 
 ### Laddningsport
 

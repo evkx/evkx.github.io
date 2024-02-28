@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Zeekr 009 ME Edition i avsnitt. Om du vill v
 
 ## Prestanda
 
-Zeekr 009 ME Edition har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 4,5 sekunder. Topphastigheten är 190 km/h.
+Zeekr 009 ME Edition har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 4.5 sekunder. Topphastigheten är 190 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 140kWh och en nettokapacitet på 134kWh, vilket innebär att du har en 6kWh buffert för skydd. (4,3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 140kWh och en nettokapacitet på 134kWh, vilket innebär att du har en 6kWh buffert för skydd. (4.3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 822 km ( miles). Förbrukningen är 16.3kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -207,7 +207,7 @@ Lastkapaciteten i bagageutrymmet är 376 liter. Med den tredje sätesraden nere 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 14.04.2021 och leveranserna startade i October 2021. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 4/14/2021 och leveranserna startade i October 2021. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 009 </strong>
 </a>

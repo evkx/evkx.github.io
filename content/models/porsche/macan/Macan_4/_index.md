@@ -29,17 +29,17 @@ We have separated our Porsche Macan 4 article into sections. If you want to wait
 
 ## Performance
 
-With overboost, the Porsche Macan 4 has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 285 KW (388 hp / 388 bhp). The torque is 650 nm with overboost and 650 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,2 seconds. The top speed is 220 km/h.
+With overboost, the Porsche Macan 4 has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 285 KW (388 hp / 388 bhp). The torque is 650 nm with overboost and 650 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5.2 seconds. The top speed is 220 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 96,8kWh, meaning you have a 3,2kWh buffer for protection. (3,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 100kWh and a net capacity of 96.8kWh, meaning you have a 3.2kWh buffer for protection. (3.2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 613 to 516 km (381-321 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.8kWh/100km for the basic version and 18.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 58 minutes, while a more common scenario of 10-80% would take 21 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 171kW. Each charge session would take 20 minutes and 22 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21,5kWh/100km, 1000km will take 9 hours and 2 minutes. This trip will require two charge session(s) charging from 3% to 65%. The total time lost for charging up the battery will be 42 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21.5kWh/100km, 1000km will take 9 hours and 2 minutes. This trip will require two charge session(s) charging from 3% to 65%. The total time lost for charging up the battery will be 42 minutes.
 
 ### Onboard charger
 
@@ -248,7 +248,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2920 kg (6437 lbs), and with the base weight of 2255 kg (4971 lbs), you can max load 665 kg (1466 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2920 kg (6437 lbs), and with the base weight of 2255 kg (4971 lbs), you can max load 665 kg (1466 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 
@@ -257,7 +257,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 25.01.2024, and deliveries is expected to start in August 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 1/25/2024, and deliveries is expected to start in August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

@@ -29,11 +29,11 @@ Vi har opdelt vores BMW i5 eDrive40 Touring artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Tophastigheden er 193 km/t.
+BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.1 sekunder. Tophastigheden er 193 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 84,4kWh og en nettokapacitet på 81,2kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (3,8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 84.4kWh og en nettokapacitet på 81.2kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (3.8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 560 til 483 km (348-300 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.5kWh/100 km for basisversionen og 16.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -237,7 +237,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1700 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2790 kg (6151 lbs), og med basisvægten på 2180 kg (4806 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1700 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 2790 kg (6151 lbs), og med basisvægten på 2180 kg (4806 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
 

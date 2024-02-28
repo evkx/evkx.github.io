@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av SKODA Enyaq iV80x i avsnitt. Om du vill vän
 
 ## Prestanda
 
-SKODA Enyaq iV80x har en maximal effekt på 195 KW (265hk). Totalt vridmoment är 425 Nm. Den gör sprinten 0-100 km/h på 6,9 sekunder. Topphastigheten är 160 km/h.
+SKODA Enyaq iV80x har en maximal effekt på 195 KW (265hk). Totalt vridmoment är 425 Nm. Den gör sprinten 0-100 km/h på 6.9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.1%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 504 km. Förbrukningen är 15.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -238,7 +238,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 01.01.2020 och leveranser startade i March 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 1/1/2020 och leveranser startade i March 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

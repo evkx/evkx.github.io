@@ -29,11 +29,11 @@ Vi har opdelt vores Peugot E-3008 artikel i sektioner. Hvis du vil vente med at 
 
 ## Ydeevne
 
-Peugot E-3008 har en maksimal effekt på 157 KW (214 hk/211 hk). Det samlede drejningsmoment er 345 nm (255 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,8 sekunder. Tophastigheden er 170 km/t.
+Peugot E-3008 har en maksimal effekt på 157 KW (214 hk/211 hk). Det samlede drejningsmoment er 345 nm (255 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.8 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77kWh og en nettokapacitet på 73kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (5,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 77kWh og en nettokapacitet på 73kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (5.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 527 til 512 km (328-318 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.9kWh/100 km for basisversionen og 14.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -204,12 +204,12 @@ Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1480 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2640 kg (5820 lbs), og med basisvægten på 2008 kg (4427 lbs), kan du maksimalt laste 632 kg (1393 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1480 liter. På taget kan du laste op til 80 kg (176.4 lbs). Bilens maksimale vægt er 2640 kg (5820 lbs), og med basisvægten på 2008 kg (4427 lbs), kan du maksimalt laste 632 kg (1393 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1250, og på ubremset er den 750 kg (2756/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 12.09.2023, og leveringerne startede i February 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 9/12/2023, og leveringerne startede i February 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 3008 </strong>
 </a>

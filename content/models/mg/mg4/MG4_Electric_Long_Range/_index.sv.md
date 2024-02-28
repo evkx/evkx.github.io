@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av MG MG4 Electric Long Range i avsnitt. Om du 
 
 ## Prestanda
 
-MG MG4 Electric Long Range har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 250 Nm. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 160 km/h.
+MG MG4 Electric Long Range har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 250 Nm. Den gör sprinten 0-100 km/h på 7.9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 64kWh och en nettokapacitet på 61,7kWh, vilket innebär att du har en 2,3kWh buffert för skydd. (3,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 64kWh och en nettokapacitet på 61.7kWh, vilket innebär att du har en 2.3kWh buffert för skydd. (3.6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 435 km. Förbrukningen är 14.2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

@@ -29,11 +29,11 @@ We have separated our Lucid Gravity Dream Edition article into sections. If you 
 
 ## Performance
 
-The Lucid Gravity Dream Edition has a maximum power of 600 KW (816 hp/805 bhp). The total torque is 1000 nm (738 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 250 km/h.
+The Lucid Gravity Dream Edition has a maximum power of 600 KW (816 hp/805 bhp). The total torque is 1000 nm (738 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.5 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 124kWh and a net capacity of 122kWh, meaning you have a 2kWh buffer for protection. (1,6%).
+The battery has a gross capacity of 124kWh and a net capacity of 122kWh, meaning you have a 2kWh buffer for protection. (1.6%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km). The consumption is 3.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -218,7 +218,7 @@ With the ADAS  level 2 system, you get the following driving automation features
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 700 liters. With the rear seat down, it is 3170 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 226 liters (8,0 CU FT). The maxium weight of the car is 3280 kg (7231 lbs), and with the base weight of 2500 kg (5512 lbs), you can max load 780 kg (1720 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 700 liters. With the rear seat down, it is 3170 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 226 liters (8.0 CU FT). The maxium weight of the car is 3280 kg (7231 lbs), and with the base weight of 2500 kg (5512 lbs), you can max load 780 kg (1720 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2700, and on unbraked, it is 750 kg (5952/1653 lbs).
 
@@ -227,7 +227,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 16.11.2023, and deliveries is expected to start in December 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 11/16/2023, and deliveries is expected to start in December 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lucid Gravity </strong>
 </a>

@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim CLTC-forbruk
 			</td>
 			<td>
-				9,1 kWh/100km
+				9.1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				38,8 kWh
+				38.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				9,9 meter
+				9.9 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1058,7 +1058,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10,1
+				Ja, 10.1
 			</td>
 		</tr>
 		<tr>

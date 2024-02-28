@@ -29,11 +29,11 @@ Vi har opdelt vores Ford F150 Lightning Extended Range artikel i sektioner. Hvis
 
 ## Ydeevne
 
-Ford F150 Lightning Extended Range har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 1050 nm (775 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Tophastigheden er 180 km/t.
+Ford F150 Lightning Extended Range har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 1050 nm (775 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.2 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 150kWh og en nettokapacitet på 131kWh, hvilket betyder, at du har en 19kWh buffer til beskyttelse. (12,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 150kWh og en nettokapacitet på 131kWh, hvilket betyder, at du har en 19kWh buffer til beskyttelse. (12.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 320 til 300 miles (515-483 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 2.4mi/kWh for basisversionen og 2.3mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 49 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19.2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 49 minutter.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}
@@ -204,14 +204,14 @@ Med Ford Co-Pilot360™ Active 2.0  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1495 liter. Ladebredden er 1285 mm, og længden er 1704 mm. Den maksimale lastvægt i lad er 907 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 399 liter (14,1 CU FT). Bilens maksimale vægt er 3878 kg (8550 lbs), og med basisvægten på 2988 kg (6587 lbs), kan du maksimalt laste 890 kg (1962 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastkapaciteten i lastbilens lad er 1495 liter. Ladebredden er 1285 mm, og længden er 1704 mm. Den maksimale lastvægt i lad er 907 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 399 liter (14.1 CU FT). Bilens maksimale vægt er 3878 kg (8550 lbs), og med basisvægten på 2988 kg (6587 lbs), kan du maksimalt laste 890 kg (1962 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 19.05.2021, og leveringerne startede i December 2021.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 5/19/2021, og leveringerne startede i December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
 </a>

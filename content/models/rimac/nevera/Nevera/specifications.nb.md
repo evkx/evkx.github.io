@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rimac Nevera. Klikk
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				1,81 s
+				1.81 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				21,8 kWh/100km
+				21.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				106,8 kWh
+				106.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,3
+				0.3
 			</td>
 		</tr>
 	</tbody>
@@ -904,7 +904,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -912,7 +912,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 13,8
+				Ja, 13.8
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +920,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm fremre passasjer
 			</td>
 			<td>
-				Ja, 8,8"
+				Ja, 8.8"
 			</td>
 		</tr>
 		<tr>

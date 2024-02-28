@@ -29,11 +29,11 @@ We have separated our CUPRA BORN 58 e-BOOST article into sections. If you want t
 
 ## Performance
 
-With overboost, the CUPRA BORN 58 e-BOOST has a maximum power of 170 KW (231 hp / 228 bhp). Without overboost, it is 150 KW (204 hp / 204 bhp). The torque is 310 nm with overboost and 310 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6,6 seconds with overboost and 7,3 seconds without overboost. The top speed is 160 km/h.
+With overboost, the CUPRA BORN 58 e-BOOST has a maximum power of 170 KW (231 hp / 228 bhp). Without overboost, it is 150 KW (204 hp / 204 bhp). The torque is 310 nm with overboost and 310 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6.6 seconds with overboost and 7.3 seconds without overboost. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 62kWh and a net capacity of 58kWh, meaning you have a 4kWh buffer for protection. (6,5%).
+The battery has a gross capacity of 62kWh and a net capacity of 58kWh, meaning you have a 4kWh buffer for protection. (6.5%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 420 to 362 km (261-225 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.8kWh/100km for the basic version and 16.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -212,7 +212,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0,0 lbs). The maxium weight of the car is 2280 kg (5027 lbs), and with the base weight of 1785 kg (3935 lbs), you can max load 495 kg (1091 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2280 kg (5027 lbs), and with the base weight of 1785 kg (3935 lbs), you can max load 495 kg (1091 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

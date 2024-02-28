@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av CUPRA Tavascan VZ i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-CUPRA Tavascan VZ har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 5,6 sekunder. Topphastigheten er 180 km/t.
+CUPRA Tavascan VZ har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 5.6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.1%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 517 til 492 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.9kWh/100 km for basisversjonen og 15.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

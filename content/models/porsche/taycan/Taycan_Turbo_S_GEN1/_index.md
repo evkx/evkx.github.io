@@ -35,11 +35,11 @@ This model has been replaced by [Porsche Taycan Turbo S](/models/porsche/taycan/
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo S (GEN1) has a maximum power of 560 KW (761 hp / 751 bhp). Without overboost, it is 460 KW (625 hp / 625 bhp). The torque is 850 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2,8 seconds. The top speed is 260 km/h.
+With overboost, the Porsche Taycan Turbo S (GEN1) has a maximum power of 560 KW (761 hp / 751 bhp). Without overboost, it is 460 KW (625 hp / 625 bhp). The torque is 850 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2.8 seconds. The top speed is 260 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 93.4kWh and a net capacity of 83.7kWh, meaning you have a 9.7kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 507 to 435 km (315-270 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.5kWh/100km for the basic version and 19.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -252,7 +252,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 366 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2230 kg (4916 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 366 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2230 kg (4916 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing

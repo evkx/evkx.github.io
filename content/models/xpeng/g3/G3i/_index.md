@@ -29,11 +29,11 @@ We have separated our XPENG G3i article into sections. If you want to wait to re
 
 ## Performance
 
-The XPENG G3i has a maximum power of 145 KW (197 hp/194 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,6 seconds. The top speed is 170 km/h.
+The XPENG G3i has a maximum power of 145 KW (197 hp/194 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8.6 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 66kWh and a net capacity of 55,9kWh, meaning you have a 10,1kWh buffer for protection. (15,3%).
+The battery has a gross capacity of 66kWh and a net capacity of 55.9kWh, meaning you have a 10.1kWh buffer for protection. (15.3%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 420 km (261 mi). The consumption is 13.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 6,6 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 28 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 6.6 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 28 minutes.
 
 ### Charge port
 
@@ -166,7 +166,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 380 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1660 kg (3660 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 380 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1660 kg (3660 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

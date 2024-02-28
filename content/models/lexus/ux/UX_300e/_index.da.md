@@ -29,11 +29,11 @@ Vi har opdelt vores Lexus UX 300e artikel i sektioner. Hvis du vil vente med at 
 
 ## Ydeevne
 
-Lexus UX 300e har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder. Tophastigheden er 160 km/t.
+Lexus UX 300e har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.5 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 71,4kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 7,4kWh buffer til beskyttelse. (10,4%).
+Batteriet har en bruttokapacitet på 71.4kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 7.4kWh buffer til beskyttelse. (10.4%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 450 til 440 km (280-274 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.2kWh/100 km for basisversionen og 14.5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -209,7 +209,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 367 liter. Med sædet på tredje række nede er det 1451 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2245 kg (4949 lbs), og med basisvægten på 1810 kg (3990 lbs), kan du maksimalt laste 435 kg (959 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 367 liter. Med sædet på tredje række nede er det 1451 liter. På taget kan du laste op til 80 kg (176.4 lbs). Bilens maksimale vægt er 2245 kg (4949 lbs), og med basisvægten på 1810 kg (3990 lbs), kan du maksimalt laste 435 kg (959 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}

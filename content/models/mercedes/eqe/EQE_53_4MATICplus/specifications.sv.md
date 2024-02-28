@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-AMG EQE 53 4M
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -103,7 +103,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-AMG EQE 53 4M
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,3 s
+				3.3 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				17,2 kWh/100km
+				17.2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				20,2 kWh/100km
+				20.2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				19,7 kWh/100km
+				19.7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				22,6 kwh/100km
+				22.6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -198,7 +198,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				96,12 kWh
+				96.12 kWh
 			</td>
 		</tr>
 		<tr>
@@ -206,7 +206,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				90,6 kWh
+				90.6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,22
+				0.22
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				12,3 meter
+				12.3 meter
 			</td>
 		</tr>
 	</tbody>

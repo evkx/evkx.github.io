@@ -31,14 +31,14 @@ Vi har opdelt vores Porsche Taycan artikel i sektioner. Hvis du vil vente med at
 
 
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan en maksimal effekt på 410 KW (557 hk / 462 bhp). Uden overboost er den 340 KW (462 hk / 550 hk). Momentet er 357 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Tophastigheden er 230 km/t. Med overboost har Porsche Taycan en maksimal effekt på 360 KW (490 hk / 381 bhp). Uden overboost er den 280 KW (381 hk / 483 hk). Momentet er 345 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Tophastigheden er 230 km/t.
+Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan en maksimal effekt på 410 KW (557 hk / 462 bhp). Uden overboost er den 340 KW (462 hk / 550 hk). Momentet er 357 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4.8 sekunder. Tophastigheden er 230 km/t. Med overboost har Porsche Taycan en maksimal effekt på 360 KW (490 hk / 381 bhp). Uden overboost er den 280 KW (381 hk / 483 hk). Momentet er 345 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4.8 sekunder. Tophastigheden er 230 km/t.
 
 ## Batteri, rækkevidde og opladning
 
 Porsche Taycan har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
 ### Performance Battery Plus
 
-Batteriet har en bruttokapacitet på 105kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 105kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7.6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 678 til 503 km (421-313 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.3kWh/100 km for basisversionen og 19.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -47,7 +47,7 @@ Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % v
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21kWh/100 km, vil 1000 km tage 8 timer og 52 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 5 % til 64%. Den samlede tid, der går tabt for at oplade batteriet, vil være 33 minutter.
 ### Performance Battery
 
-Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 83,6kWh, hvilket betyder, at du har en 5,4kWh buffer til beskyttelse. (6,1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 83.6kWh, hvilket betyder, at du har en 5.4kWh buffer til beskyttelse. (6.1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 484 til 407 km (301-253 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.3kWh/100 km for basisversionen og 19.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -263,7 +263,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2795 kg (6162 lbs), og med basisvægten på 2075 kg (4575 lbs), kan du maksimalt laste 720 kg (1587 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2795 kg (6162 lbs), og med basisvægten på 2075 kg (4575 lbs), kan du maksimalt laste 720 kg (1587 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

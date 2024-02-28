@@ -33,7 +33,7 @@ BYD Seagull 38kWh har en maksimal effekt på 55 KW (75 hk/74 hk). Det samlede dr
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 38,8kWh og en nettokapacitet på 37kWh, hvilket betyder, at du har en 1,8kWh buffer til beskyttelse. (4,6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 38.8kWh og en nettokapacitet på 37kWh, hvilket betyder, at du har en 1.8kWh buffer til beskyttelse. (4.6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 405 km ( miles). Forbruget er 9.1kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 6,6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 36 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 6.6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 36 minutter.
 
 ### Ladeport
 

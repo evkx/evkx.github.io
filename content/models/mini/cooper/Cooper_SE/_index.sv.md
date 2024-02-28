@@ -33,7 +33,7 @@ Mini Cooper SE har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 3
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 54,2kWh och en nettokapacitet på 49kWh, vilket innebär att du har en 5,2kWh buffert för skydd. (9,6%).
+Batteriet har en bruttokapacitet på 54.2kWh och en nettokapacitet på 49kWh, vilket innebär att du har en 5.2kWh buffert för skydd. (9.6%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 402 till 377 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.2kWh/100 km för basversionen och 13.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

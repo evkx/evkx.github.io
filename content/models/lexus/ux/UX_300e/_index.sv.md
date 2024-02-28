@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Lexus UX 300e i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Lexus UX 300e har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 7,5 sekunder. Topphastigheten är 160 km/h.
+Lexus UX 300e har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 7.5 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 71,4kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7,4kWh buffert för skydd. (10,4%).
+Batteriet har en bruttokapacitet på 71.4kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7.4kWh buffert för skydd. (10.4%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 450 till 440 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.2kWh/100 km för basversionen och 14.5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

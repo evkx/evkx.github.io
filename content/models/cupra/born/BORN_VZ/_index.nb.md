@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av CUPRA BORN VZ i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-CUPRA BORN VZ har en maksimal effekt på 240 KW (326hk). Totalt dreiemoment er 545 nm. Den utfører sprinten 0-100 km/t på 5,7 sekunder. Topphastigheten er 200 km/t.
+CUPRA BORN VZ har en maksimal effekt på 240 KW (326hk). Totalt dreiemoment er 545 nm. Den utfører sprinten 0-100 km/t på 5.7 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3,7%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3.7%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 570 km. Forbruket er 13.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -213,7 +213,7 @@ Lastkapasiteten i bagasjerommet er 385 liter. Med baksetet nede er det 1267 lite
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 20.02.2024, og leveringene startet i August 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 2/20/2024, og leveringene startet i August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> CUPRA BORN </strong>
 </a>

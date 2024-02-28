@@ -29,17 +29,17 @@ Vi har opdelt vores Tesla Model Y Performance artikel i sektioner. Hvis du vil v
 
 ## Ydeevne
 
-Tesla Model Y Performance har en maksimal effekt på 393 KW (534 hk/527 hk). Det samlede drejningsmoment er 660 nm (487 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Tophastigheden er 250 km/t.
+Tesla Model Y Performance har en maksimal effekt på 393 KW (534 hk/527 hk). Det samlede drejningsmoment er 660 nm (487 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.7 sekunder. Tophastigheden er 250 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (8,5%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (8.5%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 514 km (320 mi). Forbruget er 14.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 46%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 109kW. Hver opladningssession ville tage 17 minutter og 55 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,5kWh/100 km, vil 1000 km tage 9 timer og 26 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 5 % til 45%. Den samlede tid, der går tabt for at oplade batteriet, vil være 66 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19.5kWh/100 km, vil 1000 km tage 9 timer og 26 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 5 % til 45%. Den samlede tid, der går tabt for at oplade batteriet, vil være 66 minutter.
 
 ### Indbygget oplader
 
@@ -229,12 +229,12 @@ Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) ti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 854 liter. Med bagsædet nede er det 2158 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2720 kg (5997 lbs), og med basisvægten på 2135 kg (4707 lbs), kan du maksimalt laste 585 kg (1290 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 854 liter. Med bagsædet nede er det 2158 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2720 kg (5997 lbs), og med basisvægten på 2135 kg (4707 lbs), kan du maksimalt laste 585 kg (1290 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 19.03.2019, og leveringerne startede i March 2020.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 3/19/2019, og leveringerne startede i March 2020.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

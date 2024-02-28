@@ -29,17 +29,17 @@ We have separated our Mercedes-AMG EQE 43 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350 KW (476 hp/469 bhp). The total torque is 858 nm (633 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 210 km/h.
+The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350 KW (476 hp/469 bhp). The total torque is 858 nm (633 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.2 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96,12kWh and a net capacity of 90,6kWh, meaning you have a 5,52kWh buffer for protection. (5,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 96.12kWh and a net capacity of 90.6kWh, meaning you have a 5.52kWh buffer for protection. (5.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 533 to 462 km (331-287 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.0kWh/100km for the basic version and 19.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 170kW. A full charge from 0 - 100% would take 55 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 64%, resulting in an actual charge speed, including time loss, of 121kW. Each charge session would take 28 minutes and 48 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,2kWh/100km, 1000km will take 9 hours and 40 minutes. This trip will require three charge session(s) charging from 2% to 62%. The total time lost for charging up the battery will be 81 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25.2kWh/100km, 1000km will take 9 hours and 40 minutes. This trip will require three charge session(s) charging from 2% to 62%. The total time lost for charging up the battery will be 81 minutes.
 
 ### Onboard charger
 
@@ -246,7 +246,7 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3095 kg (6823 lbs), and with the base weight of 2450 kg (5401 lbs), you can max load 645 kg (1422 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3095 kg (6823 lbs), and with the base weight of 2450 kg (5401 lbs), you can max load 645 kg (1422 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 

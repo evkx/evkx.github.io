@@ -29,11 +29,11 @@ We have separated our Tesla Model 3 article into sections. If you want to wait t
 
 ## Performance
 
-The Tesla Model 3 has a maximum power of 208 KW (283 hp/279 bhp). The total torque is 420 nm (310 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 225 km/h.
+The Tesla Model 3 has a maximum power of 208 KW (283 hp/279 bhp). The total torque is 420 nm (310 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.1 seconds. The top speed is 225 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 60kWh and a net capacity of 59kWh, meaning you have a 1kWh buffer for protection. (1,7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 60kWh and a net capacity of 59kWh, meaning you have a 1kWh buffer for protection. (1.7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 513 km (319 mi). The consumption is 11.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -218,12 +218,12 @@ It uses seven [cameras](../../../../technology/sensorsandcameras/cameras/) to re
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 593 liters. With the rear seat down, it is 1234 liters. On the roof, you can load up to 70 kg (154,3 lbs). The maxium weight of the car is 2149 kg (4738 lbs), and with the base weight of 1760 kg (3880 lbs), you can max load 389 kg (858 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 593 liters. With the rear seat down, it is 1234 liters. On the roof, you can load up to 70 kg (154.3 lbs). The maxium weight of the car is 2149 kg (4738 lbs), and with the base weight of 1760 kg (3880 lbs), you can max load 389 kg (858 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 01.10.2023, and deliveries started in December 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 10/1/2023, and deliveries started in December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

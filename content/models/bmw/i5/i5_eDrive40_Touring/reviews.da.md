@@ -10,7 +10,7 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The all-new BMW 5 Series Touring G61 is now a Shooting Brake! REVEAL REVIEW with i5</h3>
-<p>Autogefühl: 07.02.2024</p>
+<p>Autogefühl: 07/02/2024</p>
 
 {{< youtube PKNzAkn5SpI >}}
 

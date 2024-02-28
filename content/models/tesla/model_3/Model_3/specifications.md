@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3. Click
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				6,1 s
+				6.1 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				11,5 kWh/100km
+				11.5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				14,4 kWh/100km
+				14.4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">Basic trim EPA consumption</a>
 			</td>
 			<td>
-				4,6 mi/kWh
+				4.6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">Top trim EPA consumption</a>
 			</td>
 			<td>
-				4,2 mi/kWh
+				4.2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4694 mm (184,8")
+				4694 mm (184.8")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1443 mm (56,8")
+				1443 mm (56.8")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1849 mm (72,8")
+				1849 mm (72.8")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2088 mm (82,2")
+				2088 mm (82.2")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2875 mm (113,2")
+				2875 mm (113.2")
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1636 mm (64,4")
+				1636 mm (64.4")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1636 mm (64,4")
+				1636 mm (64.4")
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11,6 meter (456,7")
+				11.6 meter (456.7")
 			</td>
 		</tr>
 	</tbody>
@@ -508,7 +508,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm (5.5")
 			</td>
 		</tr>
 		<tr>
@@ -516,7 +516,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm (5.5")
 			</td>
 		</tr>
 		<tr>

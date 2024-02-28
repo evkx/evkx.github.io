@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av BMW i7 eDrive50 i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-BMW i7 eDrive50 har en maximal effekt på 335 KW (456hk). Totalt vridmoment är 650 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 205 km/h.
+BMW i7 eDrive50 har en maximal effekt på 335 KW (456hk). Totalt vridmoment är 650 Nm. Den gör sprinten 0-100 km/h på 5.5 sekunder. Topphastigheten är 205 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 105,7kWh och en nettokapacitet på 101,7kWh, vilket innebär att du har en 4,0kWh buffert för skydd. (3,8%).
+Batteriet har en bruttokapacitet på 105.7kWh och en nettokapacitet på 101.7kWh, vilket innebär att du har en 4.0kWh buffert för skydd. (3.8%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 611 till 575 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.6kWh/100 km för basversionen och 17.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

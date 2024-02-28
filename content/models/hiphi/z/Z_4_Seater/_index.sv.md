@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av HiPhi Z 4 Seater i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-HiPhi Z 4 Seater har en maximal effekt på 494 KW (672hk). Totalt vridmoment är 820 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder.
+HiPhi Z 4 Seater har en maximal effekt på 494 KW (672hk). Totalt vridmoment är 820 Nm. Den gör sprinten 0-100 km/h på 3.8 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 125kWh och en nettokapacitet på 120kWh, vilket innebär att du har en 5kWh buffert för skydd. (4,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 125kWh och en nettokapacitet på 120kWh, vilket innebär att du har en 5kWh buffert för skydd. (4.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 555 km. Förbrukningen är 21.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

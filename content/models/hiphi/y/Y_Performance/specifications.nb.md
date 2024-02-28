@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi Y Performance
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				4.7 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				17,6 kWh/100km
+				17.6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -250,7 +250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,24
+				0.24
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11,6 meter
+				11.6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1005,7 +1005,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>

@@ -29,11 +29,11 @@ Vi har opdelt vores Zeekr X Long Range RWD artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-Zeekr X Long Range RWD har en maksimal effekt på 200 KW (272 hk/268 hk). Det samlede drejningsmoment er 343 nm (253 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Tophastigheden er 180 km/t.
+Zeekr X Long Range RWD har en maksimal effekt på 200 KW (272 hk/268 hk). Det samlede drejningsmoment er 343 nm (253 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.6 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 440 km (274 mi). Forbruget er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -199,7 +199,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 362 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0,2 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 1960 kg (4321 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 362 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0.2 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 1960 kg (4321 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 
@@ -208,7 +208,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 12.04.2023, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 4/12/2023, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr X </strong>
 </a>

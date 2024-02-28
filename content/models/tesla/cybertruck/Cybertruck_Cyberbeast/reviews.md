@@ -10,35 +10,35 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Cybertruck Review // We Drove It Over 500 Miles...And Oh Boy</h3>
-<p>Throttle House: 01.02.2024</p>
+<p>Throttle House: 01/02/2024</p>
 
 {{< youtube xNE-NyaYBcg >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Cybertruck Full Tour! Exposing All Details - Service Mode, Wiper, Powertrain, & Much More</h3>
-<p>Out of Spec Reviews: 03.01.2024</p>
+<p>Out of Spec Reviews: 03/01/2024</p>
 
 {{< youtube 9tAq5hbIWs0 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Driving Tesla Cybertruck: Everything You Need to Know</h3>
-<p>Marques Brownlee: 01.12.2023</p>
+<p>Marques Brownlee: 01/12/2023</p>
 
 {{< youtube XxOh12Uhg08 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Exclusive 2024 Tesla Cybertruck Full Review & Drag Race w R1T & Hummer — Jason Cammisa on the ICONS</h3>
-<p>Hagerty: 01.12.2023</p>
+<p>Hagerty: 01/12/2023</p>
 
 {{< youtube L6WDq0V5oBg >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Cybertruck DRIVEN!</h3>
-<p>Top Gear: 01.12.2023</p>
+<p>Top Gear: 01/12/2023</p>
 
 {{< youtube uefydJUbRhc >}}
 

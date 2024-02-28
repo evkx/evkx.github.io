@@ -29,11 +29,11 @@ Vi har opdelt vores Fisker Ocean Sport artikel i sektioner. Hvis du vil vente me
 
 ## Ydeevne
 
-Med overboost har Fisker Ocean Sport en maksimal effekt på 209 KW (284 hk / 245 bhp). Uden overboost er den 180 KW (245 hk / 280 hk). Momentet er 386 nm med overboost og 386 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Tophastigheden er 188 km/t.
+Med overboost har Fisker Ocean Sport en maksimal effekt på 209 KW (284 hk / 245 bhp). Uden overboost er den 180 KW (245 hk / 280 hk). Momentet er 386 nm med overboost og 386 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 7.9 sekunder. Tophastigheden er 188 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 73kWh og en nettokapacitet på 70kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (4,1%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 73kWh og en nettokapacitet på 70kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (4.1%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 464 km (288 mi). Forbruget er 15.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -198,7 +198,7 @@ Med Fisker Intelligent Pilot  niveau 2-systemet får du følgende køreautomatis
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 476 liter. Med bagsædet nede er det 918 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2974 kg (6557 lbs), og med basisvægten på 2225 kg (4905 lbs), kan du maksimalt laste 749 kg (1651 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 476 liter. Med bagsædet nede er det 918 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2974 kg (6557 lbs), og med basisvægten på 2225 kg (4905 lbs), kan du maksimalt laste 749 kg (1651 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1090, og på ubremset er den 750 kg (2403/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

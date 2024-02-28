@@ -29,11 +29,11 @@ We have separated our Genesis Electrified GV70 article into sections. If you wan
 
 ## Performance
 
-With overboost, the Genesis Electrified GV70 has a maximum power of 360 KW (490 hp / 483 bhp). Without overboost, it is 320 KW (435 hp / 435 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds with overboost and 4,8 seconds without overboost. The top speed is 235 km/h.
+With overboost, the Genesis Electrified GV70 has a maximum power of 360 KW (490 hp / 483 bhp). Without overboost, it is 320 KW (435 hp / 435 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.2 seconds with overboost and 4.8 seconds without overboost. The top speed is 235 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%).
+The battery has a gross capacity of 77.4kWh and a net capacity of 74kWh, meaning you have a 3.4kWh buffer for protection. (4.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 470 km (292 mi). The consumption is 15.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -195,7 +195,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 503 liters. With the rear seat down, it is 1678 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 25 liters (0,9 CU FT). The maxium weight of the car is 2845 kg (6272 lbs), and with the base weight of 2235 kg (4927 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 503 liters. With the rear seat down, it is 1678 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 25 liters (0.9 CU FT). The maxium weight of the car is 2845 kg (6272 lbs), and with the base weight of 2235 kg (4927 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Toyota bZ4X AWD i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Toyota bZ4X AWD har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 337 nm. Den utfører sprinten 0-100 km/t på 6,9 sekunder. Topphastigheten er 160 km/t.
+Toyota bZ4X AWD har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 337 nm. Den utfører sprinten 0-100 km/t på 6.9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 71,4kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 13,4kWh-buffer for beskyttelse. (18,8%).
+Batteriet har en bruttokapasitet på 71.4kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 13.4kWh-buffer for beskyttelse. (18.8%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 470 til 415 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.3kWh/100 km for basisversjonen og 14.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 6,6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 11 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 6.6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 11 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter.
 
 ### Ladeport
 

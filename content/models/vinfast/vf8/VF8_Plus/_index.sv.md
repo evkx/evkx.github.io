@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av VinFast VF8 Plus i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-VinFast VF8 Plus har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 200 km/h.
+VinFast VF8 Plus har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 5.5 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 87,7kWh, vilket innebär att du har en 6,3kWh buffert för skydd. (6,7%).
+Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 87.7kWh, vilket innebär att du har en 6.3kWh buffert för skydd. (6.7%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 447 km. Förbrukningen är 19.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

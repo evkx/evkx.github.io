@@ -31,14 +31,14 @@ Vi har delat in vår beskrivning av Porsche Taycan i avsnitt. Om du vill vänta 
 
 
 
-Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan en maximal effekt på 410 KW (557hk). Utan overboost är det 340KW (462hp). Vridmomentet är 357 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4,8 sekunder. Topphastigheten är 230 km/h. Med overboost har Porsche Taycan en maximal effekt på 360 KW (490hk). Utan overboost är det 280KW (381hp). Vridmomentet är 345 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4,8 sekunder. Topphastigheten är 230 km/h.
+Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan en maximal effekt på 410 KW (557hk). Utan overboost är det 340KW (462hp). Vridmomentet är 357 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4.8 sekunder. Topphastigheten är 230 km/h. Med overboost har Porsche Taycan en maximal effekt på 360 KW (490hk). Utan overboost är det 280KW (381hp). Vridmomentet är 345 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4.8 sekunder. Topphastigheten är 230 km/h.
 
 ## Batteri, räckvidd och laddning
 
 Porsche Taycan har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
 ### Performance Battery Plus
 
-Batteriet har en bruttokapacitet på 105kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 105kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 678 till 503 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.3kWh/100 km för basversionen och 19.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -47,7 +47,7 @@ Maximal DC-laddningshastighet är 320 kW. En full laddning från 0 - 100 % tar 4
 För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 21kWh/100km, tar 1000km 8 timmar och 52 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 5% till 64%. Total tid som går förlorad för att ladda batteriet kommer att vara 33 minuter.
 ### Performance Battery
 
-Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 83,6kWh, vilket innebär att du har en 5,4kWh buffert för skydd. (6,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 83.6kWh, vilket innebär att du har en 5.4kWh buffert för skydd. (6.1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 484 till 407 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.3kWh/100 km för basversionen och 19.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

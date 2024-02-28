@@ -33,7 +33,7 @@ Ford Mustang Mach-E Long Range RWD har en maksimal effekt på 216 KW (294 hk/290
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 98,8kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 6,8kWh buffer til beskyttelse. (6,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 98.8kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 6.8kWh buffer til beskyttelse. (6.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 600 km (373 mi). Forbruget er 15.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -209,7 +209,7 @@ Med Ford BlueCruise  niveau 2-systemet får du følgende køreautomatiseringsfun
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 402 liter. Med bagsædet nede er det 1420 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 100 liter (3,5 CU FT). Bilens maksimale vægt er 2605 kg (5743 lbs), og med basisvægten på 2085 kg (4597 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 402 liter. Med bagsædet nede er det 1420 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 100 liter (3.5 CU FT). Bilens maksimale vægt er 2605 kg (5743 lbs), og med basisvægten på 2085 kg (4597 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

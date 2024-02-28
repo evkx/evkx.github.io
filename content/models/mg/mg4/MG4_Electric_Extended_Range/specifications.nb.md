@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG MG4 Electric Ext
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				7,9 s
+				7.9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				14,3 kWh/100km
+				14.3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				74,4 kWh
+				74.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1053,7 +1053,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10,2
+				Ja, 10.2
 			</td>
 		</tr>
 		<tr>

@@ -29,11 +29,11 @@ We have separated our Audi Q8 e-tron edition Dakar article into sections. If you
 
 ## Performance
 
-With overboost, the Audi Q8 e-tron edition Dakar has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 265 KW (360 hp / 360 bhp). The torque is 664 nm with overboost and 561 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5,8 seconds with overboost and 6,8 seconds without overboost. The top speed is 200 km/h.
+With overboost, the Audi Q8 e-tron edition Dakar has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 265 KW (360 hp / 360 bhp). The torque is 664 nm with overboost and 561 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5.8 seconds with overboost and 6.8 seconds without overboost. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 114kWh and a net capacity of 106kWh, meaning you have a 8kWh buffer for protection. (7,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 114kWh and a net capacity of 106kWh, meaning you have a 8kWh buffer for protection. (7.0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 487 km (303 mi). The consumption is 21.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -309,7 +309,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 3170 kg (6989 lbs), and with the base weight of 2520 kg (5556 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3170 kg (6989 lbs), and with the base weight of 2520 kg (5556 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 
@@ -318,7 +318,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 03.01.2024, and deliveries started in May 2024. This model is available in North America, China, Europe, and the Middle East.<div class="mt-3 mb-3">
+This model had a world premiere on 1/3/2024, and deliveries started in May 2024. This model is available in North America, China, Europe, and the Middle East.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

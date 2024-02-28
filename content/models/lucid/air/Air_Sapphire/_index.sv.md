@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Lucid Air Sapphire i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Lucid Air Sapphire har en maximal effekt på 920 KW (1251hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 1,95 sekunder. Topphastigheten är 330 km/h.
+Lucid Air Sapphire har en maximal effekt på 920 KW (1251hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 1.95 sekunder. Topphastigheten är 330 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 118kWh och en nettokapacitet på 117kWh, vilket innebär att du har en 1kWh buffert för skydd. (0,8%).
+Batteriet har en bruttokapacitet på 118kWh och en nettokapacitet på 117kWh, vilket innebär att du har en 1kWh buffert för skydd. (0.8%).
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 427 miles (687 km). Förbrukningen är 3.6mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

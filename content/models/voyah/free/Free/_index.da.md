@@ -29,11 +29,11 @@ Vi har opdelt vores VOYAH FREE artikel i sektioner. Hvis du vil vente med at læ
 
 ## Ydeevne
 
-VOYAH FREE har en maksimal effekt på 360 KW (490 hk/483 hk). Det samlede drejningsmoment er 720 nm (531 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Tophastigheden er 200 km/t.
+VOYAH FREE har en maksimal effekt på 360 KW (490 hk/483 hk). Det samlede drejningsmoment er 720 nm (531 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.4 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 106kWh og en nettokapacitet på 100kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5,7%).
+Batteriet har en bruttokapacitet på 106kWh og en nettokapacitet på 100kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5.7%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 500 km (311 mi). Forbruget er 20.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -178,7 +178,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 560 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 72 liter (2,5 CU FT). Bilens maksimale vægt er 2945 kg (6493 lbs), og med basisvægten på 2340 kg (5159 lbs), kan du maksimalt laste 605 kg (1334 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 560 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 72 liter (2.5 CU FT). Bilens maksimale vægt er 2945 kg (6493 lbs), og med basisvægten på 2340 kg (5159 lbs), kan du maksimalt laste 605 kg (1334 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 2000, og på ubremset er den 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

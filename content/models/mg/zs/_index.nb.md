@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="zs_ev_long_range/"><img src="https://media.evkx.net/multimedia/models/mg/zs/zs_ev_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ZS EV Long Range" ></a>
-<i class="bi bi-battery-full"></i> 72,6 kWh <i class="bi bi-ev-station"></i> 94 kW 
+<i class="bi bi-battery-full"></i> 72.6 kWh <i class="bi bi-ev-station"></i> 94 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="zs_ev_standard_range/"><img src="https://media.evkx.net/multimedia/models/mg/zs/zs_ev_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ZS EV Standard Range" ></a>
-<i class="bi bi-battery-full"></i> 51,1 kWh <i class="bi bi-ev-station"></i> 94 kW 
+<i class="bi bi-battery-full"></i> 51.1 kWh <i class="bi bi-ev-station"></i> 94 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

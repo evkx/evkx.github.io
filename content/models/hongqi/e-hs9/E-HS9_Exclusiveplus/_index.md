@@ -29,11 +29,11 @@ We have separated our Hongqi E-HS9 Exclusive+ article into sections. If you want
 
 ## Performance
 
-The Hongqi E-HS9 Exclusive+ has a maximum power of 405 KW (551 hp/543 bhp). The total torque is 670 nm (494 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,9 seconds. The top speed is 200 km/h.
+The Hongqi E-HS9 Exclusive+ has a maximum power of 405 KW (551 hp/543 bhp). The total torque is 670 nm (494 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.9 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 110kWh, meaning you have a 10kWh buffer for protection. (8,3%).
+The battery has a gross capacity of 120kWh and a net capacity of 110kWh, meaning you have a 10kWh buffer for protection. (8.3%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 515 km (320 mi). The consumption is 21.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -214,7 +214,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 225 liters. With the third-row seat down, it is 622 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3180 kg (7011 lbs), and with the base weight of 2630 kg (5798 lbs), you can max load 550 kg (1213 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 225 liters. With the third-row seat down, it is 622 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3180 kg (7011 lbs), and with the base weight of 2630 kg (5798 lbs), you can max load 550 kg (1213 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Kia EV6 Standard Range 2WD i avsnitt. Om du 
 
 ## Prestanda
 
-Kia EV6 Standard Range 2WD har en maximal effekt på 125 KW (170hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 8,5 sekunder. Topphastigheten är 185 km/h.
+Kia EV6 Standard Range 2WD har en maximal effekt på 125 KW (170hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 8.5 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 58kWh och en nettokapacitet på 54kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,9%).
+Batteriet har en bruttokapacitet på 58kWh och en nettokapacitet på 54kWh, vilket innebär att du har en 4kWh buffert för skydd. (6.9%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 394 km. Förbrukningen är 13.7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

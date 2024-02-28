@@ -29,11 +29,11 @@ We have separated our Opel Astra Electric article into sections. If you want to 
 
 ## Performance
 
-The Opel Astra Electric has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 10,5 seconds. The top speed is 170 km/h.
+The Opel Astra Electric has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 10.5 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 54kWh and a net capacity of 50,8kWh, meaning you have a 3,2kWh buffer for protection. (5,9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 54kWh and a net capacity of 50.8kWh, meaning you have a 3.2kWh buffer for protection. (5.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 413 km (257 mi). The consumption is 12.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -192,7 +192,7 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 352 liters. With the rear seat down, it is 1268 liters. On the roof, you can load up to 70 kg (154,3 lbs). The maxium weight of the car is 2100 kg (4630 lbs), and with the base weight of 1736 kg (3827 lbs), you can max load 364 kg (802 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 352 liters. With the rear seat down, it is 1268 liters. On the roof, you can load up to 70 kg (154.3 lbs). The maxium weight of the car is 2100 kg (4630 lbs), and with the base weight of 1736 kg (3827 lbs), you can max load 364 kg (802 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
@@ -201,7 +201,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ### Availability & Pricing
 
-This model had a world premiere on 06.07.2023, and deliveries started in November 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 7/6/2023, and deliveries started in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Opel Astra </strong>
 </a>

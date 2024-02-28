@@ -29,11 +29,11 @@ We have separated our Zeekr 009 ME Edition article into sections. If you want to
 
 ## Performance
 
-The Zeekr 009 ME Edition has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 686 nm (506 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 190 km/h.
+The Zeekr 009 ME Edition has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 686 nm (506 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds. The top speed is 190 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 140kWh and a net capacity of 134kWh, meaning you have a 6kWh buffer for protection. (4,3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 140kWh and a net capacity of 134kWh, meaning you have a 6kWh buffer for protection. (4.3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 822 km ( miles). The consumption is 16.3kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -202,12 +202,12 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 376 liters. With the third-row seat down, it is 2979 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1,1 CU FT). The maxium weight of the car is 3400 kg (7496 lbs), and with the base weight of 2830 kg (6239 lbs), you can max load 570 kg (1257 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 376 liters. With the third-row seat down, it is 2979 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1.1 CU FT). The maxium weight of the car is 3400 kg (7496 lbs), and with the base weight of 2830 kg (6239 lbs), you can max load 570 kg (1257 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 14.04.2021, and deliveries started in October 2021. This model is only available in China.<div class="mt-3 mb-3">
+This model had a world premiere on 4/14/2021, and deliveries started in October 2021. This model is only available in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 009 </strong>
 </a>

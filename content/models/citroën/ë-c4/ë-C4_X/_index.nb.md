@@ -33,7 +33,7 @@ Citroën ë-C4 X har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment e
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (5,9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50.8kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (5.9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 402 til 396 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.6kWh/100 km for basisversjonen og 12.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

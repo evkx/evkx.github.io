@@ -29,11 +29,11 @@ Vi har opdelt vores Kia Niro EV artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-Kia Niro EV har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 255 nm (188 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,8 sekunder. Tophastigheden er 167 km/t.
+Kia Niro EV har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 255 nm (188 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.8 sekunder. Tophastigheden er 167 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 68kWh og en nettokapacitet på 64,8kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (4,7%).
+Batteriet har en bruttokapacitet på 68kWh og en nettokapacitet på 64.8kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (4.7%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 463 km (288 mi). Forbruget er 14.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -194,7 +194,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 475 liter. Med bagsædet nede er det 1392 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 220 kg (485 lbs), og med basisvægten på 1557 kg (3433 lbs), kan du maksimalt laste -1337 kg (-2948 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 475 liter. Med bagsædet nede er det 1392 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0.7 CU FT). Bilens maksimale vægt er 220 kg (485 lbs), og med basisvægten på 1557 kg (3433 lbs), kan du maksimalt laste -1337 kg (-2948 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 300 kg (1653/661 lbs).
 

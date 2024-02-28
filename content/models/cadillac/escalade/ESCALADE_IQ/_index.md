@@ -29,11 +29,11 @@ We have separated our Cadillac ESCALADE IQ article into sections. If you want to
 
 ## Performance
 
-The Cadillac ESCALADE IQ has a maximum power of 560 KW (761 hp/751 bhp). The total torque is 1064 nm (785 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,7 seconds. The top speed is 200 km/h.
+The Cadillac ESCALADE IQ has a maximum power of 560 KW (761 hp/751 bhp). The total torque is 1064 nm (785 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.7 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 215kWh and a net capacity of 200kWh, meaning you have a 15kWh buffer for protection. (7,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 215kWh and a net capacity of 200kWh, meaning you have a 15kWh buffer for protection. (7.0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 450 miles (724 km). The consumption is 2.3mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 19,2 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 25 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 19.2 KW charging. As a result, you can charge the battery 0-100% from home in about 10 hours and 25 minutes.
 
 ### Charge port
 
@@ -207,7 +207,7 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 670 liters. With the rear seat down, it is 3374 liters. Under the hood, there is frunk with more storage room. This frunk is 345 liters (12,2 CU FT). The maxium weight of the car is 4717 kg (10399 lbs), and with the base weight of 4103 kg (9046 lbs), you can max load 614 kg (1354 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 670 liters. With the rear seat down, it is 3374 liters. Under the hood, there is frunk with more storage room. This frunk is 345 liters (12.2 CU FT). The maxium weight of the car is 4717 kg (10399 lbs), and with the base weight of 4103 kg (9046 lbs), you can max load 614 kg (1354 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3628, and on unbraked, it is 750 kg (7998/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

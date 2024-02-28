@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Kia EV9 Long Range RWD i avsnitt. Om du vill
 
 ## Prestanda
 
-Kia EV9 Long Range RWD har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 9,4 sekunder. Topphastigheten är 185 km/h.
+Kia EV9 Long Range RWD har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 9.4 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 99,8kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 1,8kWh buffert för skydd. (1,8%).
+Batteriet har en bruttokapacitet på 99.8kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 1.8kWh buffert för skydd. (1.8%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 563 km. Förbrukningen är 17.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Lotus Eletre R i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Lotus Eletre R har en maksimal effekt på 675 KW (918hk). Totalt dreiemoment er 985 nm. Den utfører sprinten 0-100 km/t på 2,9 sekunder. Topphastigheten er 265 km/t.
+Lotus Eletre R har en maksimal effekt på 675 KW (918hk). Totalt dreiemoment er 985 nm. Den utfører sprinten 0-100 km/t på 2.9 sekunder. Topphastigheten er 265 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 112kWh og en nettokapasitet på 109kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (2,7%).
+Batteriet har en bruttokapasitet på 112kWh og en nettokapasitet på 109kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (2.7%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 460 til 410 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 23.7kWh/100 km for basisversjonen og 26.6kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -234,7 +234,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 29.01.2021, og leveringene startet i March 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 1/29/2021, og leveringene startet i March 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lotus Eletre </strong>
 </a>

@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Rivian R1S Performance
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,6 s
+				3.6 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				2,9 mi/kWh
+				2.9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				142,3 kWh
+				142.3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1047,7 +1047,7 @@ Interior.Seatlayout.OnlySix
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1055,7 +1055,7 @@ Interior.Seatlayout.OnlySix
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15,3
+				Ja, 15.3
 			</td>
 		</tr>
 		<tr>

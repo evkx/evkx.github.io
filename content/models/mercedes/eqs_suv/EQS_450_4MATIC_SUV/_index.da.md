@@ -33,7 +33,7 @@ Mercedes-EQ EQS 450 4MATIC SUV har en maksimal effekt på 265 KW (360 hk/355 hk)
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108,4kWh, hvilket betyder, at du har en 11,6kWh buffer til beskyttelse. (9,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108.4kWh, hvilket betyder, at du har en 11.6kWh buffer til beskyttelse. (9.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 611 til 511 km (380-318 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.7kWh/100 km for basisversionen og 21.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -250,7 +250,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2730 kg (6019 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2730 kg (6019 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 

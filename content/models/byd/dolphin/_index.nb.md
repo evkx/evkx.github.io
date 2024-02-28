@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="dolphin_60.4kwh/"><img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_xst.jpg" class="img-fluid" width="400px" height="282px" alt="Dolphin 60.4kWh" ></a>
-<i class="bi bi-battery-full"></i> 60,4 kWh <i class="bi bi-ev-station"></i> 88 kW 
+<i class="bi bi-battery-full"></i> 60.4 kWh <i class="bi bi-ev-station"></i> 88 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

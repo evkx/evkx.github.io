@@ -29,17 +29,17 @@ We have separated our Tesla Model X article into sections. If you want to wait t
 
 ## Performance
 
-The Tesla Model X has a maximum power of 493 KW (670 hp/661 bhp). The total torque is 800 nm (590 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 250 km/h.
+The Tesla Model X has a maximum power of 493 KW (670 hp/661 bhp). The total torque is 800 nm (590 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.9 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 96kWh, meaning you have a 4kWh buffer for protection. (4,0%).
+The battery has a gross capacity of 100kWh and a net capacity of 96kWh, meaning you have a 4kWh buffer for protection. (4.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 543 to 528 km (338-328 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.7kWh/100km for the basic version and 18.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 80 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 47%, resulting in an actual charge speed, including time loss, of 143kW. Each charge session would take 16 minutes and 9 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,0kWh/100km, 1000km will take 9 hours and 21 minutes. This trip will require four charge session(s) charging from 8% to 46%. The total time lost for charging up the battery will be 61 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24.0kWh/100km, 1000km will take 9 hours and 21 minutes. This trip will require four charge session(s) charging from 8% to 46%. The total time lost for charging up the battery will be 61 minutes.
 
 ### Onboard charger
 
@@ -216,7 +216,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. Under the hood, there is frunk with more storage room. This frunk is 183 liters (6,5 CU FT). The maxium weight of the car is 2970 kg (6548 lbs), and with the base weight of 2464 kg (5432 lbs), you can max load 506 kg (1116 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. Under the hood, there is frunk with more storage room. This frunk is 183 liters (6.5 CU FT). The maxium weight of the car is 2970 kg (6548 lbs), and with the base weight of 2464 kg (5432 lbs), you can max load 506 kg (1116 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750 kg (4960/1653 lbs).
 

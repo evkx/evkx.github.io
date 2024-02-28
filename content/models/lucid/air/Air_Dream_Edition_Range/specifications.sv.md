@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Lucid Air Dream Editio
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				2,9 s
+				2.9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				13,3 kWh/100km
+				13.3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				15,0 kWh/100km
+				15.0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				14,1 kWh/100km
+				14.1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16,0 kwh/100km
+				16.0 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim EPA-förbrukning
 			</td>
 			<td>
-				4,0 mi/kWh
+				4.0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +155,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Top Trim EPA Consumption
 			</td>
 			<td>
-				3,8 mi/kWh
+				3.8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -338,7 +338,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,197
+				0.197
 			</td>
 		</tr>
 	</tbody>

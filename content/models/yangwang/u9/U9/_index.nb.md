@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av YangWang U9 i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-YangWang U9 har en maksimal effekt på 960 KW (1305hk). Totalt dreiemoment er 1680 nm. Den utfører sprinten 0-100 km/t på 2,36 sekunder. Topphastigheten er 309 km/t.
+YangWang U9 har en maksimal effekt på 960 KW (1305hk). Totalt dreiemoment er 1680 nm. Den utfører sprinten 0-100 km/t på 2.36 sekunder. Topphastigheten er 309 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 83kWh og en nettokapasitet på 80kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3,6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 83kWh og en nettokapasitet på 80kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3.6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 465 km ( miles). Forbruket er 17.2kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -186,7 +186,7 @@ Lastkapasiteten i bagasjerommet er 200 liter. Maksimumsvekten til bilen er 2625 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 01.04.2023, og leveringene forventes å starte om January 2025.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 4/1/2023, og leveringene forventes å starte om January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> YangWang U9 </strong>
 </a>

@@ -43,7 +43,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				566 km / 352 mi
 			</td>
 			<td>
-				23,3 kWh/100km / 2,7 mi/kWh
+				23.3 kWh/100km / 2.7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				566 km / 352 mi
 			</td>
 			<td>
-				23,3 kWh/100km / 2,7 mi/kWh
+				23.3 kWh/100km / 2.7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -90,7 +90,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				478 km / 297 mi
 			</td>
 			<td>
-				-15,5%
+				-15.5%
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				478 km / 297 mi
 			</td>
 			<td>
-				-15,5%
+				-15.5%
 			</td>
 		</tr>
 	</tbody>
@@ -135,7 +135,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				550km / 342 mi
 			</td>
 			<td>
-				24 kWh/100km / 2,6 mi/kWh
+				24 kWh/100km / 2.6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +146,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				514km /313mi
 			</td>
 			<td>
-				26,2 kWh/100km /2,4 mi/kWh 
+				26.2 kWh/100km /2.4 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -157,7 +157,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				512 km / 318 mi
 			</td>
 			<td>
-				25,8 kWh/100km / 2,4 mi/kWh
+				25.8 kWh/100km / 2.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -168,7 +168,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				479km / 298mi
 			</td>
 			<td>
-				27,6 kWh/100km / 2,3 mi/kWh  
+				27.6 kWh/100km / 2.3 mi/kWh  
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				440 km / 273 mi
 			</td>
 			<td>
-				30 kWh/100km / 2,1 mi/kWh
+				30 kWh/100km / 2.1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -190,7 +190,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				417 km /259mi
 			</td>
 			<td>
-				31,7 kWh/100km /2,0 mi/kWh
+				31.7 kWh/100km /2.0 mi/kWh
 			</td>
 		</tr>
 	</tbody>

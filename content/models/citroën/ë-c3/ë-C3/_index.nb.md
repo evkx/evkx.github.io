@@ -33,7 +33,7 @@ Citroën ë-C3 har en maksimal effekt på 83 KW (113hk). Totalt dreiemoment er  
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 44kWh og en nettokapasitet på 43kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (2,3%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 44kWh og en nettokapasitet på 43kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (2.3%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 320 km. Forbruket er 13.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -194,7 +194,7 @@ Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 17.10.2023, og leveringene forventes å starte om May 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 10/17/2023, og leveringene forventes å starte om May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Citroën ë-C3 </strong>
 </a>

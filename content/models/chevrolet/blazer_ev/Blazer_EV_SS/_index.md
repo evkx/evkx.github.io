@@ -33,7 +33,7 @@ The Chevrolet Blazer EV SS has a maximum power of 410 KW (557 hp/550 bhp). The t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning you have a 8kWh buffer for protection. (7,3%).
+The battery has a gross capacity of 110kWh and a net capacity of 102kWh, meaning you have a 8kWh buffer for protection. (7.3%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 290 miles (467 km). The consumption is 2.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes.
 
 ### Charge port
 

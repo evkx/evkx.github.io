@@ -29,17 +29,17 @@ We have separated our Mercedes-EQ EQS 450+ article into sections. If you want to
 
 ## Performance
 
-The Mercedes-EQ EQS 450+ has a maximum power of 265 KW (360 hp/355 bhp). The total torque is 800 nm (590 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,6 seconds. The top speed is 210 km/h.
+The Mercedes-EQ EQS 450+ has a maximum power of 265 KW (360 hp/355 bhp). The total torque is 800 nm (590 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.6 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 120kWh and a net capacity of 108.4kWh, meaning you have a 11.6kWh buffer for protection. (9.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 783 to 642 km (487-399 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.8kWh/100km for the basic version and 16.9kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 210kW. A full charge from 0 - 100% would take 82 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 57%, resulting in an actual charge speed, including time loss, of 142kW. Each charge session would take 26 minutes and 41 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,8kWh/100km, 1000km will take 8 hours and 59 minutes. This trip will require two charge session(s) charging from 1% to 43%. The total time lost for charging up the battery will be 40 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.8kWh/100km, 1000km will take 8 hours and 59 minutes. This trip will require two charge session(s) charging from 1% to 43%. The total time lost for charging up the battery will be 40 minutes.
 
 ### Onboard charger
 
@@ -246,7 +246,7 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3060 kg (6746 lbs), and with the base weight of 2540 kg (5600 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3060 kg (6746 lbs), and with the base weight of 2540 kg (5600 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 

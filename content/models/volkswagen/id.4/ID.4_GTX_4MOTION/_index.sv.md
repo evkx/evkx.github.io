@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Volkswagen ID.4 GTX 4MOTION i avsnitt. Om du
 
 ## Prestanda
 
-Volkswagen ID.4 GTX 4MOTION har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 180 km/h.
+Volkswagen ID.4 GTX 4MOTION har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 5.5 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.1%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 515 km. Förbrukningen är 15.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -234,7 +234,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 10.10.2023 och leveranserna startade i November 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 10/10/2023 och leveranserna startade i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
 </a>

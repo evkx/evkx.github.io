@@ -29,17 +29,17 @@ We have separated our Audi Q8 Sportback 50 e-tron article into sections. If you 
 
 ## Performance
 
-The Audi Q8 Sportback 50 e-tron has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 540 nm (399 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,8 seconds. The top speed is 200 km/h.
+The Audi Q8 Sportback 50 e-tron has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 540 nm (399 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.8 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 95kWh and a net capacity of 89kWh, meaning you have a 6kWh buffer for protection. (6,3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 95kWh and a net capacity of 89kWh, meaning you have a 6kWh buffer for protection. (6.3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 505 to 412 km (314-256 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.6kWh/100km for the basic version and 21.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 81%, resulting in an actual charge speed, including time loss, of 118kW. Each charge session would take 35 minutes and 15 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 9 hours and 42 minutes. This trip will require two charge session(s) charging from 1% to 89%. The total time lost for charging up the battery will be 82 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24.5kWh/100km, 1000km will take 9 hours and 42 minutes. This trip will require two charge session(s) charging from 1% to 89%. The total time lost for charging up the battery will be 82 minutes.
 
 ### Onboard charger
 
@@ -289,12 +289,12 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 3040 kg (6702 lbs), and with the base weight of 2370 kg (5225 lbs), you can max load 670 kg (1477 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3040 kg (6702 lbs), and with the base weight of 2370 kg (5225 lbs), you can max load 670 kg (1477 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 09.11.2022, and deliveries started in March 2023. This model is only available in Europe.<div class="mt-3 mb-3">
+This model had a world premiere on 11/9/2022, and deliveries started in March 2023. This model is only available in Europe.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

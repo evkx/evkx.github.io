@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av XPENG G9 RWD Long Range i avsnitt. Om du vil
 
 ## Prestanda
 
-XPENG G9 RWD Long Range har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 6,4 sekunder. Topphastigheten är 200 km/h.
+XPENG G9 RWD Long Range har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 6.4 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 98kWh och en nettokapacitet på 93,6kWh, vilket innebär att du har en 4,4kWh buffert för skydd. (4,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 98kWh och en nettokapacitet på 93.6kWh, vilket innebär att du har en 4.4kWh buffert för skydd. (4.5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 570 km. Förbrukningen är 16.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

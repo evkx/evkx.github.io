@@ -29,11 +29,11 @@ Vi har opdelt vores XPENG G3i artikel i sektioner. Hvis du vil vente med at læs
 
 ## Ydeevne
 
-XPENG G3i har en maksimal effekt på 145 KW (197 hk/194 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Tophastigheden er 170 km/t.
+XPENG G3i har en maksimal effekt på 145 KW (197 hk/194 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.6 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 66kWh og en nettokapacitet på 55,9kWh, hvilket betyder, at du har en 10,1kWh buffer til beskyttelse. (15,3%).
+Batteriet har en bruttokapacitet på 66kWh og en nettokapacitet på 55.9kWh, hvilket betyder, at du har en 10.1kWh buffer til beskyttelse. (15.3%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 420 km (261 mi). Forbruget er 13.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 6,6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 28 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 6.6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 28 minutter.
 
 ### Ladeport
 
@@ -166,7 +166,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 380 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2110 kg (4652 lbs), og med basisvægten på 1660 kg (3660 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 380 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2110 kg (4652 lbs), og med basisvægten på 1660 kg (3660 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

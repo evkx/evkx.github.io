@@ -33,7 +33,7 @@ Peugot E-3008 Long Range har en maksimal effekt på 157 KW (214hk). Totalt dreie
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 98kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 0kWh-buffer for beskyttelse. (0,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 98kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 0kWh-buffer for beskyttelse. (0.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 700 km. Forbruket er 14.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -209,7 +209,7 @@ Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1480 lite
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1250, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 12.09.2023, og leveringene startet i February 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 9/12/2023, og leveringene startet i February 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 3008 </strong>
 </a>

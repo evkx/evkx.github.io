@@ -10,14 +10,14 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2024 Polestar 2 refresh Long Range Dual Motor range test</h3>
-<p>Bjørn Nyland: 22.02.2024</p>
+<p>Bjørn Nyland: 22/02/2024</p>
 
 {{< youtube nKKNkBSRWQo >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 2 LR DM road trip to Hemsedal</h3>
-<p>Bjørn Nyland: 21.02.2024</p>
+<p>Bjørn Nyland: 21/02/2024</p>
 
 {{< youtube Gb0dNpn6QsY >}}
 

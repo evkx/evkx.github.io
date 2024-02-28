@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av MG MG5 Electric Standard Range i seksjoner. Hvis
 
 ## Ytelse
 
-MG MG5 Electric Standard Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t på 8,3 sekunder. Topphastigheten er 185 km/t.
+MG MG5 Electric Standard Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t på 8.3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 50,3kWh og en nettokapasitet på 46kWh, noe som betyr at du har et 4,3kWh-buffer for beskyttelse. (8,5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 50.3kWh og en nettokapasitet på 46kWh, noe som betyr at du har et 4.3kWh-buffer for beskyttelse. (8.5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 320 til 310 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.4kWh/100 km for basisversjonen og 14.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

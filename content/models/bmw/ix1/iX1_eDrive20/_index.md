@@ -29,11 +29,11 @@ We have separated our BMW iX1 eDrive20 article into sections. If you want to wai
 
 ## Performance
 
-The BMW iX1 eDrive20 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 250 nm (184 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,6 seconds. The top speed is 170 km/h.
+The BMW iX1 eDrive20 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 250 nm (184 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8.6 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 68kWh and a net capacity of 64,7kWh, meaning you have a 3,3kWh buffer for protection. (4,9%).
+The battery has a gross capacity of 68kWh and a net capacity of 64.7kWh, meaning you have a 3.3kWh buffer for protection. (4.9%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 475 to 430 km (295-267 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.6kWh/100km for the basic version and 15.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -217,7 +217,7 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 1495 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2580 kg (5688 lbs), and with the base weight of 2010 kg (4431 lbs), you can max load 570 kg (1257 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 1495 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2580 kg (5688 lbs), and with the base weight of 2010 kg (4431 lbs), you can max load 570 kg (1257 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

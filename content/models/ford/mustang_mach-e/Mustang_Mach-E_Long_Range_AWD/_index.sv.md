@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Ford Mustang Mach-E Long Range AWD i avsnitt
 
 ## Prestanda
 
-Ford Mustang Mach-E Long Range AWD har en maximal effekt på 258 KW (351hk). Totalt vridmoment är 580 Nm. Den gör sprinten 0-100 km/h på 5,8 sekunder. Topphastigheten är 180 km/h.
+Ford Mustang Mach-E Long Range AWD har en maximal effekt på 258 KW (351hk). Totalt vridmoment är 580 Nm. Den gör sprinten 0-100 km/h på 5.8 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 98,8kWh och en nettokapacitet på 92kWh, vilket innebär att du har en 6,8kWh buffert för skydd. (6,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 98.8kWh och en nettokapacitet på 92kWh, vilket innebär att du har en 6.8kWh buffert för skydd. (6.9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 550 km. Förbrukningen är 16.7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

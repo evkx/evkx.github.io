@@ -29,11 +29,11 @@ Vi har opdelt vores BYD Han artikel i sektioner. Hvis du vil vente med at læse 
 
 ## Ydeevne
 
-BYD Han har en maksimal effekt på 380 KW (517 hk/510 hk). Det samlede drejningsmoment er 700 nm (517 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Tophastigheden er 180 km/t.
+BYD Han har en maksimal effekt på 380 KW (517 hk/510 hk). Det samlede drejningsmoment er 700 nm (517 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.9 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 85,4kWh og en nettokapacitet på 83kWh, hvilket betyder, at du har en 2,4kWh buffer til beskyttelse. (2,8%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 85.4kWh og en nettokapacitet på 83kWh, hvilket betyder, at du har en 2.4kWh buffer til beskyttelse. (2.8%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 521 km (324 mi). Forbruget er 15.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 

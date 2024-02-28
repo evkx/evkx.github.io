@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="seal_awd/"><img src="https://media.evkx.net/multimedia/models/byd/seal/seal_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Seal AWD" ></a>
-<i class="bi bi-battery-full"></i> 85,4 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-battery-full"></i> 85.4 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="seal_rwd/"><img src="https://media.evkx.net/multimedia/models/byd/seal/seal_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Seal RWD" ></a>
-<i class="bi bi-battery-full"></i> 85,4 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-battery-full"></i> 85.4 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -29,17 +29,17 @@ We have separated our MG Marvel R Electric Performance article into sections. If
 
 ## Performance
 
-The MG Marvel R Electric Performance has a maximum power of 212 KW (288 hp/284 bhp). The total torque is 665 nm (491 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,9 seconds. The top speed is 200 km/h.
+The MG Marvel R Electric Performance has a maximum power of 212 KW (288 hp/284 bhp). The total torque is 665 nm (491 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.9 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 75kWh and a net capacity of 70kWh, meaning you have a 5kWh buffer for protection. (6,7%).
+The battery has a gross capacity of 75kWh and a net capacity of 70kWh, meaning you have a 5kWh buffer for protection. (6.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 370 km (230 mi). The consumption is 18.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 94kW. A full charge from 0 - 100% would take 114 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 61%, resulting in an actual charge speed, including time loss, of 63kW. Each charge session would take 35 minutes and 7 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 11 hours and 6 minutes. This trip will require five charge session(s) charging from 9% to 59%. The total time lost for charging up the battery will be 166 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24.5kWh/100km, 1000km will take 11 hours and 6 minutes. This trip will require five charge session(s) charging from 9% to 59%. The total time lost for charging up the battery will be 166 minutes.
 
 ### Onboard charger
 
@@ -184,7 +184,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 359 liters. With the rear seat down, it is 1396 liters. Under the hood, there is frunk with more storage room. This frunk is 150 liters (5,3 CU FT). The maxium weight of the car is 2373 kg (5232 lbs), and with the base weight of 1920 kg (4233 lbs), you can max load 453 kg (999 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 453kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 359 liters. With the rear seat down, it is 1396 liters. Under the hood, there is frunk with more storage room. This frunk is 150 liters (5.3 CU FT). The maxium weight of the car is 2373 kg (5232 lbs), and with the base weight of 1920 kg (4233 lbs), you can max load 453 kg (999 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 453kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 
@@ -193,7 +193,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 07.10.2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
+This model had a world premiere on 10/7/2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Marvel R </strong>
 </a>

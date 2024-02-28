@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Cadillac LYRIQ RWD i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Cadillac LYRIQ RWD har en maximal effekt på 255 KW (347hk). Totalt vridmoment är 450 Nm. Den gör sprinten 0-100 km/h på 5,7 sekunder.
+Cadillac LYRIQ RWD har en maximal effekt på 255 KW (347hk). Totalt vridmoment är 450 Nm. Den gör sprinten 0-100 km/h på 5.7 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,3%).
+Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.3%).
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 312 miles (502 km). Förbrukningen är 3.1mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 19,2 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 18 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 19.2 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 18 minuter.
 
 ### Laddningsport
 

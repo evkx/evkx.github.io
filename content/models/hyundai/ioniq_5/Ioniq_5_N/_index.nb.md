@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Hyundai Ioniq 5 N i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Med overboost har Hyundai Ioniq 5 N en maksimal effekt på 478 KW (650hk). Uten overboost er den 448KW (609hk). Dreiemomentet er 770 nm med overboost og 714 uten overboost. Den utfører sprinten 0-100 km/t på 3,4 sekunder med overboost og 3,5 sekunder uten overboost. Topphastigheten er 260 km/t.
+Med overboost har Hyundai Ioniq 5 N en maksimal effekt på 478 KW (650hk). Uten overboost er den 448KW (609hk). Dreiemomentet er 770 nm med overboost og 714 uten overboost. Den utfører sprinten 0-100 km/t på 3.4 sekunder med overboost og 3.5 sekunder uten overboost. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 84kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5,6%).
+Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 84kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5.6%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 450 km. Forbruket er 18.7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -199,7 +199,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 13.07.2023, og leveringene forventes å starte om March 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 7/13/2023, og leveringene forventes å starte om March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Hyundai Ioniq 5 </strong>
 </a>

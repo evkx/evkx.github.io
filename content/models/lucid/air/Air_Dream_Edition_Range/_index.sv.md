@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Lucid Air Dream Edition Range i avsnitt. Om 
 
 ## Prestanda
 
-Lucid Air Dream Edition Range har en maximal effekt på 696 KW (946hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 2,9 sekunder. Topphastigheten är 270 km/h.
+Lucid Air Dream Edition Range har en maximal effekt på 696 KW (946hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 2.9 sekunder. Topphastigheten är 270 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 118kWh och en nettokapacitet på 117kWh, vilket innebär att du har en 1kWh buffert för skydd. (0,8%).
+Batteriet har en bruttokapacitet på 118kWh och en nettokapacitet på 117kWh, vilket innebär att du har en 1kWh buffert för skydd. (0.8%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 883 till 828 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.3kWh/100 km för basversionen och 14.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

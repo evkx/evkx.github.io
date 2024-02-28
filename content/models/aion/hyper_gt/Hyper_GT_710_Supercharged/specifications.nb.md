@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Aion Hyper GT 710 S
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,9 s
+				4.9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim CLTC-forbruk
 			</td>
 			<td>
-				10,8 kWh/100km
+				10.8 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				80,1 kWh
+				80.1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,197
+				0.197
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11,5 meter
+				11.5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1004,7 +1004,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 14,6
+				Ja, 14.6
 			</td>
 		</tr>
 		<tr>

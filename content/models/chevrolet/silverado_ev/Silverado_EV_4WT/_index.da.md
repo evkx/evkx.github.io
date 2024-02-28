@@ -29,11 +29,11 @@ Vi har opdelt vores Chevrolet Silverado EV 4WT artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Chevrolet Silverado EV 4WT har en maksimal effekt på 380 KW (517 hk/510 hk). Det samlede drejningsmoment er 834 nm (615 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Tophastigheden er 170 km/t.
+Chevrolet Silverado EV 4WT har en maksimal effekt på 380 KW (517 hk/510 hk). Det samlede drejningsmoment er 834 nm (615 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.5 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 220kWh og en nettokapacitet på 213kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (3,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 220kWh og en nettokapacitet på 213kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (3.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruget er 2.1mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -190,7 +190,7 @@ Med Super Cruise  niveau 1-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1286 mm, og længden er 1803 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 303 liter (10,7 CU FT). Bilens maksimale vægt er 4531 kg (9989 lbs), og med basisvægten på 3882 kg (8558 lbs), kan du maksimalt laste 649 kg (1431 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1286 mm, og længden er 1803 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 303 liter (10.7 CU FT). Bilens maksimale vægt er 4531 kg (9989 lbs), og med basisvægten på 3882 kg (8558 lbs), kan du maksimalt laste 649 kg (1431 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 4536, og på ubremset er den 750 kg (10000/1653 lbs).
 
@@ -199,7 +199,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 05.01.2022, og leveringerne startede i September 2023. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 1/5/2022, og leveringerne startede i September 2023. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

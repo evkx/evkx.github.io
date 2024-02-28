@@ -63,7 +63,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Tur
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				2,4 s
+				2.4 s
 			</td>
 		</tr>
 	</tbody>
@@ -99,7 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				15,4 kWh/100km
+				15.4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				17,9 kWh/100km
+				17.9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				17,4 kWh/100km
+				17.4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				20,5 kwh/100km
+				20.5 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -360,7 +360,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4963 mm (195,4")
+				4963 mm (195.4")
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1381 mm (54,4")
+				1381 mm (54.4")
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1966 mm (77,4")
+				1966 mm (77.4")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2144 mm (84,4")
+				2144 mm (84.4")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2900 mm (114,2")
+				2900 mm (114.2")
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1710 mm (67,3")
+				1710 mm (67.3")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1694 mm (66,7")
+				1694 mm (66.7")
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0,24
+				0.24
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Frontalområde
 			</td>
 			<td>
-				2,35
+				2.35
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				OverhangAngleRear
 			</td>
 			<td>
-				16,4
+				16.4
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +448,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,2 meter (440,9")
+				11.2 meter (440.9")
 			</td>
 		</tr>
 	</tbody>
@@ -578,7 +578,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				126 mm (5,0")
+				126 mm (5.0")
 			</td>
 		</tr>
 		<tr>
@@ -586,7 +586,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				103 mm (4,1")
+				103 mm (4.1")
 			</td>
 		</tr>
 		<tr>
@@ -1488,7 +1488,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 16,8
+				Ja, 16.8
 			</td>
 		</tr>
 		<tr>
@@ -1496,7 +1496,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, to 10,9" og 8,4"
+				Ja, to 10.9" og 8.4"
 			</td>
 		</tr>
 		<tr>
@@ -1504,7 +1504,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Forreste passagerinfotainmentskærm
 			</td>
 			<td>
-				Ja, 10,9"
+				Ja, 10.9"
 			</td>
 		</tr>
 		<tr>

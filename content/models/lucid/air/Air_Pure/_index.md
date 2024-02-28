@@ -29,11 +29,11 @@ We have separated our Lucid Air Pure article into sections. If you want to wait 
 
 ## Performance
 
-The Lucid Air Pure has a maximum power of 320 KW (435 hp/429 bhp). The total torque is 400 nm (295 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 200 km/h.
+The Lucid Air Pure has a maximum power of 320 KW (435 hp/429 bhp). The total torque is 400 nm (295 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 94kWh and a net capacity of 92kWh, meaning you have a 2kWh buffer for protection. (2,1%).
+The battery has a gross capacity of 94kWh and a net capacity of 92kWh, meaning you have a 2kWh buffer for protection. (2.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 747 to 708 km (464-440 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.3kWh/100km for the basic version and 13.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -200,7 +200,7 @@ With the ADAS  level 2 system, you get the following driving automation features
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 283 liters (10,0 CU FT). The maxium weight of the car is 2850 kg (6283 lbs), and with the base weight of 2360 kg (5203 lbs), you can max load 490 kg (1080 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 283 liters (10.0 CU FT). The maxium weight of the car is 2850 kg (6283 lbs), and with the base weight of 2360 kg (5203 lbs), you can max load 490 kg (1080 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

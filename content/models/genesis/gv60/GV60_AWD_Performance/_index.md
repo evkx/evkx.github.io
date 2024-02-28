@@ -33,7 +33,7 @@ With overboost, the Genesis GV60 AWD Performance has a maximum power of 360 KW (
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%).
+The battery has a gross capacity of 77.4kWh and a net capacity of 74kWh, meaning you have a 3.4kWh buffer for protection. (4.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 470 km (292 mi). The consumption is 15.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -195,7 +195,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 432 liters. On the roof, you can load up to 80 kg (176,4 lbs). The maxium weight of the car is 2610 kg (5754 lbs), and with the base weight of 2020 kg (4453 lbs), you can max load 590 kg (1301 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 432 liters. On the roof, you can load up to 80 kg (176.4 lbs). The maxium weight of the car is 2610 kg (5754 lbs), and with the base weight of 2020 kg (4453 lbs), you can max load 590 kg (1301 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

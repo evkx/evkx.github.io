@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av GMC Hummer EV Edition 1 Pickup i seksjoner. Hvis
 
 ## Ytelse
 
-GMC Hummer EV Edition 1 Pickup har en maksimal effekt på 746 KW (1014hk). Totalt dreiemoment er 1150 nm. Den utfører sprinten 0-100 km/t på 3,5 sekunder. Topphastigheten er 170 km/t.
+GMC Hummer EV Edition 1 Pickup har en maksimal effekt på 746 KW (1014hk). Totalt dreiemoment er 1150 nm. Den utfører sprinten 0-100 km/t på 3.5 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 220kWh og en nettokapasitet på 213kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (3,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 220kWh og en nettokapasitet på 213kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (3.2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 329 miles (529 km). Forbruket er 1.5mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -187,7 +187,7 @@ Lastkapasiteten i lastebilen er 1039 liter. Bredden på lasteplanet er 1272 mm, 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3402, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 20.10.2020, og leveringene startet i December 2021. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 10/20/2020, og leveringene startet i December 2021. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> GMC Hummer EV </strong>
 </a>

@@ -29,11 +29,11 @@ Vi har opdelt vores CUPRA BORN 77 e-BOOST artikel i sektioner. Hvis du vil vente
 
 ## Ydeevne
 
-Med overboost har CUPRA BORN 77 e-BOOST en maksimal effekt på 170 KW (231 hk / 204 bhp). Uden overboost er den 150 KW (204 hk / 228 hk). Momentet er 310 nm med overboost og 310 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 7 sekunder med overboost og 7,9 sekunder uden overboost. Tophastigheden er 160 km/t.
+Med overboost har CUPRA BORN 77 e-BOOST en maksimal effekt på 170 KW (231 hk / 204 bhp). Uden overboost er den 150 KW (204 hk / 228 hk). Momentet er 310 nm med overboost og 310 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 7 sekunder med overboost og 7.9 sekunder uden overboost. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.1%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 548 til 492 km (341-306 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.1kWh/100 km for basisversionen og 15.7kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -212,7 +212,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2300 kg (5071 lbs), og med basisvægten på 1895 kg (4178 lbs), kan du maksimalt laste 405 kg (893 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0.0 lbs). Bilens maksimale vægt er 2300 kg (5071 lbs), og med basisvægten på 1895 kg (4178 lbs), kan du maksimalt laste 405 kg (893 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

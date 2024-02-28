@@ -33,7 +33,7 @@ The Mini Cooper SE has a maximum power of 160 KW (218 hp/215 bhp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 54,2kWh and a net capacity of 49kWh, meaning you have a 5,2kWh buffer for protection. (9,6%).
+The battery has a gross capacity of 54.2kWh and a net capacity of 49kWh, meaning you have a 5.2kWh buffer for protection. (9.6%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 402 to 377 km (250-234 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.2kWh/100km for the basic version and 13.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

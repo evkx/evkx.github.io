@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Honda e:Ny1. Klikk 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				7,7 s
+				7.7 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				15,0 kWh/100km
+				15.0 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				68,8 kWh
+				68.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				61,9 kWh
+				61.9 kWh
 			</td>
 		</tr>
 	</tbody>
@@ -956,7 +956,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 15,2
+				Ja, 15.2
 			</td>
 		</tr>
 		<tr>

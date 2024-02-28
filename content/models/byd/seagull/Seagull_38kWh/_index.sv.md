@@ -33,7 +33,7 @@ BYD Seagull 38kWh har en maximal effekt på 55 KW (75hk). Totalt vridmoment är 
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 38,8kWh och en nettokapacitet på 37kWh, vilket innebär att du har en 1,8kWh buffert för skydd. (4,6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 38.8kWh och en nettokapacitet på 37kWh, vilket innebär att du har en 1.8kWh buffert för skydd. (4.6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 405 km ( miles). Förbrukningen är 9.1kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 6,6KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 5 timmar och 36 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 6.6KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 5 timmar och 36 minuter.
 
 ### Laddningsport
 

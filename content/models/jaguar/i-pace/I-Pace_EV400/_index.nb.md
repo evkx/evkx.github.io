@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av Jaguar I-Pace EV400 i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Jaguar I-Pace EV400 har en maksimal effekt på 294 KW (400hk). Totalt dreiemoment er 696 nm. Den utfører sprinten 0-100 km/t på 4,8 sekunder. Topphastigheten er 200 km/t.
+Jaguar I-Pace EV400 har en maksimal effekt på 294 KW (400hk). Totalt dreiemoment er 696 nm. Den utfører sprinten 0-100 km/t på 4.8 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 90kWh og en nettokapasitet på 84,7kWh, noe som betyr at du har et 5,3kWh-buffer for beskyttelse. (5,9%).
+Batteriet har en bruttokapasitet på 90kWh og en nettokapasitet på 84.7kWh, noe som betyr at du har et 5.3kWh-buffer for beskyttelse. (5.9%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 470 til 408 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.0kWh/100 km for basisversjonen og 20.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 104 kW. En full lading fra 0 - 100 % vil ta 105 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 76kW. Hver ladeøkt vil ta 26 minutter og 2 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26,9kWh/100km, vil 1000km ta 10 timer og 47 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 6% til 50%. Totalt tapt tid for å lade opp batteriet vil være 148 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26.9kWh/100km, vil 1000km ta 10 timer og 47 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 6% til 50%. Totalt tapt tid for å lade opp batteriet vil være 148 minutter.
 
 ### Ombordlader
 
@@ -229,7 +229,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 01.03.2018, og leveringene startet i October 2018.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 3/1/2018, og leveringene startet i October 2018.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Jaguar I-Pace </strong>
 </a>

@@ -38,7 +38,7 @@ Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffro
 Porsche Taycan 4S Sport Turismo har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
 ### Performance Battery
 
-Batteriet har en bruttokapacitet på 79,2kWh och en nettokapacitet på 71kWh, vilket innebär att du har en 8,2kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 79.2kWh och en nettokapacitet på 71kWh, vilket innebär att du har en 8.2kWh buffert för skydd. (10.4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 441 till 358 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.1kWh/100 km för basversionen och 19.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -47,7 +47,7 @@ Maximal DC-laddningshastighet är 225 kW. En full laddning från 0 - 100 % tar 4
 För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 26 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 0% till 70%. Total tid som går förlorad för att ladda batteriet kommer att vara 66 minuter.
 ### Performance Battery Plus
 
-Batteriet har en bruttokapacitet på 93,4kWh och en nettokapacitet på 83,7kWh, vilket innebär att du har en 9,7kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 93.4kWh och en nettokapacitet på 83.7kWh, vilket innebär att du har en 9.7kWh buffert för skydd. (10.4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 498 till 417 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.1kWh/100 km för basversionen och 19.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

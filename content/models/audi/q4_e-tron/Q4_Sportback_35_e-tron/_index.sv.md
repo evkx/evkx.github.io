@@ -33,7 +33,7 @@ Audi Q4 Sportback 35 e-tron har en maximal effekt på 125 KW (170hk). Totalt vri
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 55kWh och en nettokapacitet på 51,5kWh, vilket innebär att du har en 3,5kWh buffert för skydd. (6,4%).
+Batteriet har en bruttokapacitet på 55kWh och en nettokapacitet på 51.5kWh, vilket innebär att du har en 3.5kWh buffert för skydd. (6.4%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 349 till 317 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.8kWh/100 km för basversionen och 16.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 7,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 9 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 7.2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 9 minuter.
 
 ### Laddningsport
 
@@ -243,7 +243,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 14.04.2021 och leveranser startade i January 2022. Denna modell har nu utgått.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 4/14/2021 och leveranser startade i January 2022. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

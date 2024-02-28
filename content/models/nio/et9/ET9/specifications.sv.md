@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Nio ET9. Klicka på bi
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,8 s
+				3.8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				15,6 kWh/100km
+				15.6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				19,0 kWh/100km
+				19.0 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -274,7 +274,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10,9 meter
+				10.9 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1042,7 +1042,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10,2
+				Ja, 10.2
 			</td>
 		</tr>
 		<tr>
@@ -1050,7 +1050,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15,6
+				Ja, 15.6
 			</td>
 		</tr>
 		<tr>
@@ -1066,7 +1066,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Bakre infotainmentskärm
 			</td>
 			<td>
-				Ja, 14,5"
+				Ja, 14.5"
 			</td>
 		</tr>
 	</tbody>

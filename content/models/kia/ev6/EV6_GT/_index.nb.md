@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av Kia EV6 GT i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-Kia EV6 GT har en maksimal effekt på 430 KW (585hk). Totalt dreiemoment er 740 nm. Den utfører sprinten 0-100 km/t på 3,5 sekunder. Topphastigheten er 260 km/t.
+Kia EV6 GT har en maksimal effekt på 430 KW (585hk). Totalt dreiemoment er 740 nm. Den utfører sprinten 0-100 km/t på 3.5 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3,4kWh-buffer for beskyttelse. (4,4%).
+Batteriet har en bruttokapasitet på 77.4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3.4kWh-buffer for beskyttelse. (4.4%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 424 km. Forbruket er 17.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 22 minutter og 59 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25,5kWh/100km, vil 1000km ta 9 timer og 32 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 83%. Totalt tapt tid for å lade opp batteriet vil være 72 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25.5kWh/100km, vil 1000km ta 9 timer og 32 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 83%. Totalt tapt tid for å lade opp batteriet vil være 72 minutter.
 
 ### Ombordlader
 

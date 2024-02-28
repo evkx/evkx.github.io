@@ -29,11 +29,11 @@ We have separated our Volkswagen ID.7 Pro article into sections. If you want to 
 
 ## Performance
 
-The Volkswagen ID.7 Pro has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 550 nm (406 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,5 seconds. The top speed is 180 km/h.
+The Volkswagen ID.7 Pro has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 550 nm (406 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.5 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 615 to 550 km (382-342 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.5kWh/100km for the basic version and 14.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -230,7 +230,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 542 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2630 kg (5798 lbs), and with the base weight of 2152 kg (4744 lbs), you can max load 478 kg (1054 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 542 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2630 kg (5798 lbs), and with the base weight of 2152 kg (4744 lbs), you can max load 478 kg (1054 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
 

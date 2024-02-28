@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av CUPRA Tavascan Endurance i avsnitt. Om du vi
 
 ## Prestanda
 
-CUPRA Tavascan Endurance har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 545 Nm. Den gör sprinten 0-100 km/h på 6,8 sekunder. Topphastigheten är 180 km/h.
+CUPRA Tavascan Endurance har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 545 Nm. Den gör sprinten 0-100 km/h på 6.8 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.1%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 547 km. Förbrukningen är 14.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

@@ -10,7 +10,7 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 3 Performance Pack Full Tour! The Spicy Cousin To Volvo EX90</h3>
-<p>Out of Spec Reviews: 11.01.2023</p>
+<p>Out of Spec Reviews: 11/01/2023</p>
 
 {{< youtube K3KrRuEgFDs >}}
 

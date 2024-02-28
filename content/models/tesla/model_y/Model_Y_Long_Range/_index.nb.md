@@ -33,13 +33,13 @@ Tesla Model Y Long Range har en maksimal effekt på 324 KW (441hk). Totalt dreie
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3,7%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3.7%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 542 til 533 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.6kWh/100 km for basisversjonen og 14.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 111kW. Hver ladeøkt vil ta 17 minutter og 8 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,5kWh/100km, vil 1000km ta 9 timer og 23 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 5% til 42%. Totalt tapt tid for å lade opp batteriet vil være 64 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19.5kWh/100km, vil 1000km ta 9 timer og 23 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 5% til 42%. Totalt tapt tid for å lade opp batteriet vil være 64 minutter.
 
 ### Ombordlader
 
@@ -236,7 +236,7 @@ Lastkapasiteten i bagasjerommet er 854 liter. Med baksetet nede er det 2158 lite
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 3/19/2019, og leveringene startet i March 2020.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

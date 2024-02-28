@@ -29,11 +29,11 @@ We have separated our XPENG G9 RWD Long Range article into sections. If you want
 
 ## Performance
 
-The XPENG G9 RWD Long Range has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,4 seconds. The top speed is 200 km/h.
+The XPENG G9 RWD Long Range has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.4 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4,5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 98kWh and a net capacity of 93.6kWh, meaning you have a 4.4kWh buffer for protection. (4.5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 570 km (354 mi). The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -213,7 +213,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2,5 CU FT). The maxium weight of the car is 2680 kg (5908 lbs), and with the base weight of 2230 kg (4916 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 450kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2.5 CU FT). The maxium weight of the car is 2680 kg (5908 lbs), and with the base weight of 2230 kg (4916 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 450kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
 

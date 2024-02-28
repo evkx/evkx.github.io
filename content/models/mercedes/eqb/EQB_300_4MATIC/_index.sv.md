@@ -33,7 +33,7 @@ Mercedes-EQ EQB 300 4MATIC har en maximal effekt på 168 KW (228hk). Totalt vrid
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 69,7kWh och en nettokapacitet på 66,5kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (4,6%).
+Batteriet har en bruttokapacitet på 69.7kWh och en nettokapacitet på 66.5kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (4.6%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 423 till 388 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.7kWh/100 km för basversionen och 17.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

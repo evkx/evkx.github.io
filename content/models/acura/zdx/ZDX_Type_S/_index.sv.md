@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Acura ZDX Type S i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-Acura ZDX Type S har en maximal effekt på 373 KW (507hk). Totalt vridmoment är 610 Nm. Den gör sprinten 0-100 km/h på 4,6 sekunder.
+Acura ZDX Type S har en maximal effekt på 373 KW (507hk). Totalt vridmoment är 610 Nm. Den gör sprinten 0-100 km/h på 4.6 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,3%).
+Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.3%).
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 288 miles (463 km). Förbrukningen är 2.8mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 19,2 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 18 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 19.2 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 18 minuter.
 
 ### Laddningsport
 

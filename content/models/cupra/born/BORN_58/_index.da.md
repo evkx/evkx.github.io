@@ -29,11 +29,11 @@ Vi har opdelt vores CUPRA BORN 58 artikel i sektioner. Hvis du vil vente med at 
 
 ## Ydeevne
 
-CUPRA BORN 58 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 160 km/t.
+CUPRA BORN 58 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.3 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 62kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (6,5%).
+Batteriet har en bruttokapacitet på 62kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (6.5%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 424 til 358 km (264-223 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.7kWh/100 km for basisversionen og 16.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -212,7 +212,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2270 kg (5004 lbs), og med basisvægten på 1765 kg (3891 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0.0 lbs). Bilens maksimale vægt er 2270 kg (5004 lbs), og med basisvægten på 1765 kg (3891 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

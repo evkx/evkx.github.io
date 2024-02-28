@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av BMW i4 M50 i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-BMW i4 M50 har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 795 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 225 km/h.
+BMW i4 M50 har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 795 Nm. Den gör sprinten 0-100 km/h på 3.9 sekunder. Topphastigheten är 225 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 83,9kWh och en nettokapacitet på 80,7kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (3,8%).
+Batteriet har en bruttokapacitet på 83.9kWh och en nettokapacitet på 80.7kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (3.8%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 521 till 416 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.5kWh/100 km för basversionen och 19.4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

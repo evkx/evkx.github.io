@@ -29,14 +29,14 @@ We have separated our Nio ES8 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio ES8 has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 725 nm (535 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,9 seconds. The top speed is 200 km/h.
+The Nio ES8 has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 725 nm (535 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.9 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
 Nio ES8 has two battery options with different specifications. Below you see how this affects range and charging.
 ### 100kWh
 
-The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%).
+The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 460 km (286 mi). The consumption is 19.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -45,7 +45,7 @@ The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 8
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 11 hours and 1 minutes. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging up the battery will be 162 minutes.
 ### 75kWh
 
-The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%).
+The battery has a gross capacity of 75kWh and a net capacity of 70.5kWh, meaning you have a 4.5kWh buffer for protection. (6.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 350 km (218 mi). The consumption is 19.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -241,7 +241,7 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1901 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 3099 kg (6832 lbs), and with the base weight of 2440 kg (5379 lbs), you can max load 659 kg (1453 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1901 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3099 kg (6832 lbs), and with the base weight of 2440 kg (5379 lbs), you can max load 659 kg (1453 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

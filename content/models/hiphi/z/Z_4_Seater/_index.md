@@ -29,11 +29,11 @@ We have separated our HiPhi Z 4 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi Z 4 Seater has a maximum power of 494 KW (672 hp/663 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds.
+The HiPhi Z 4 Seater has a maximum power of 494 KW (672 hp/663 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.8 seconds.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 125kWh and a net capacity of 120kWh, meaning you have a 5kWh buffer for protection. (4,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 125kWh and a net capacity of 120kWh, meaning you have a 5kWh buffer for protection. (4.0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 555 km (345 mi). The consumption is 21.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

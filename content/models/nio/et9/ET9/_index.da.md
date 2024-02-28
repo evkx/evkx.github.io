@@ -29,11 +29,11 @@ Vi har opdelt vores Nio ET9 artikel i sektioner. Hvis du vil vente med at læse 
 
 ## Ydeevne
 
-Nio ET9 har en maksimal effekt på 520 KW (707 hk/697 hk). Det samlede drejningsmoment er 900 nm (664 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Tophastigheden er 200 km/t.
+Nio ET9 har en maksimal effekt på 520 KW (707 hk/697 hk). Det samlede drejningsmoment er 900 nm (664 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.8 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 112kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (6,7%).
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 112kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (6.7%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 720 km (448 mi). Forbruget er 15.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -222,12 +222,12 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 363 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 363 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 23.12.2023, og leveringer forventes at starte om February 2025.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 12/23/2023, og leveringer forventes at starte om February 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Nio ET9 </strong>
 </a>

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Kia EV9 RWD i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-Kia EV9 RWD har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 9,4 sekunder. Topphastigheten er 185 km/t.
+Kia EV9 RWD har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 9.4 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 76,1kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 1,1kWh-buffer for beskyttelse. (1,4%).
+Batteriet har en bruttokapasitet på 76.1kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 1.1kWh-buffer for beskyttelse. (1.4%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 443 km. Forbruket er 16.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

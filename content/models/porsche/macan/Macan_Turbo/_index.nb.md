@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Porsche Macan Turbo i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Med overboost har Porsche Macan Turbo en maksimal effekt på 470 KW (639hk). Uten overboost er den 430KW (585hk). Dreiemomentet er 1130 nm med overboost og 1130 uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Macan Turbo en maksimal effekt på 470 KW (639hk). Uten overboost er den 430KW (585hk). Dreiemomentet er 1130 nm med overboost og 1130 uten overboost. Den utfører sprinten 0-100 km/t på 3.3 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (3,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96.8kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (3.2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 591 til 518 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.4kWh/100 km for basisversjonen og 18.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -243,7 +243,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 25.01.2024, og leveringene forventes å starte om August 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 1/25/2024, og leveringene forventes å starte om August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

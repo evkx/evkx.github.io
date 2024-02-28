@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Rivian R1S Performance Dual-Motor AWD MP i a
 
 ## Prestanda
 
-Rivian R1S Performance Dual-Motor AWD MP har en maximal effekt på 489 KW (665hk). Totalt vridmoment är 1123 Nm. Den gör sprinten 0-100 km/h på 3,6 sekunder. Topphastigheten är 201 km/h.
+Rivian R1S Performance Dual-Motor AWD MP har en maximal effekt på 489 KW (665hk). Totalt vridmoment är 1123 Nm. Den gör sprinten 0-100 km/h på 3.6 sekunder. Topphastigheten är 201 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 149kWh och en nettokapacitet på 142,3kWh, vilket innebär att du har en 6,7kWh buffert för skydd. (4,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 149kWh och en nettokapacitet på 142.3kWh, vilket innebär att du har en 6.7kWh buffert för skydd. (4.5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 410 miles (660 km). Förbrukningen är 2.9mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 12 timmar och 22 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 12 timmar och 22 minuter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}
@@ -214,7 +214,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 26.11.2018 och leveranserna startade i December 2021.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 11/26/2018 och leveranserna startade i December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Kia EV6 Long Range 2WD i avsnitt. Om du vill
 
 ## Prestanda
 
-Kia EV6 Long Range 2WD har en maximal effekt på 168 KW (228hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 185 km/h.
+Kia EV6 Long Range 2WD har en maximal effekt på 168 KW (228hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 7.3 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 77,4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3,4kWh buffert för skydd. (4,4%).
+Batteriet har en bruttokapacitet på 77.4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3.4kWh buffert för skydd. (4.4%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 528 till 504 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.0kWh/100 km för basversionen och 14.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

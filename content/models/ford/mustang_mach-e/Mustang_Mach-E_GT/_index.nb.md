@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Ford Mustang Mach-E GT i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Ford Mustang Mach-E GT har en maksimal effekt på 358 KW (487hk). Totalt dreiemoment er 860 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 200 km/t.
+Ford Mustang Mach-E GT har en maksimal effekt på 358 KW (487hk). Totalt dreiemoment er 860 nm. Den utfører sprinten 0-100 km/t på 3.7 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 98,8kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 6,8kWh-buffer for beskyttelse. (6,9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 98.8kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 6.8kWh-buffer for beskyttelse. (6.9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 490 km. Forbruket er 18.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

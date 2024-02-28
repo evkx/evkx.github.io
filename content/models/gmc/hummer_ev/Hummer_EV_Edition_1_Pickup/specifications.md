@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for GMC Hummer EV Editio
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				1,5 mi/kWh
+				1.5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5507 mm (216,8")
+				5507 mm (216.8")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				2009 mm (79,1")
+				2009 mm (79.1")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				2201 mm (86,7")
+				2201 mm (86.7")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2380 mm (93,7")
+				2380 mm (93.7")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3445 mm (135,6")
+				3445 mm (135.6")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11,3 meter (444,9")
+				11.3 meter (444.9")
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/bedcargo/">Bed length</a>
 			</td>
 			<td>
-				1524 mm (60,0")
+				1524 mm (60.0")
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/bedcargo/">Bed width</a>
 			</td>
 			<td>
-				1272 mm (50,1")
+				1272 mm (50.1")
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +460,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				406 mm (16,0")
+				406 mm (16.0")
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				257 mm (10,1")
+				257 mm (10.1")
 			</td>
 		</tr>
 		<tr>
@@ -1084,7 +1084,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12,3
+				Yes, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1092,7 +1092,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 13,4"
+				Yes, 13.4"
 			</td>
 		</tr>
 		<tr>

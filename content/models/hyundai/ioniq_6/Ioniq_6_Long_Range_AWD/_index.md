@@ -29,11 +29,11 @@ We have separated our Hyundai Ioniq 6 Long Range AWD article into sections. If y
 
 ## Performance
 
-The Hyundai Ioniq 6 Long Range AWD has a maximum power of 239 KW (325 hp/321 bhp). The total torque is 605 nm (446 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,1 seconds. The top speed is 185 km/h.
+The Hyundai Ioniq 6 Long Range AWD has a maximum power of 239 KW (325 hp/321 bhp). The total torque is 605 nm (446 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.1 seconds. The top speed is 185 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%).
+The battery has a gross capacity of 77.4kWh and a net capacity of 74kWh, meaning you have a 3.4kWh buffer for protection. (4.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 583 to 519 km (362-323 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.7kWh/100km for the basic version and 14.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -199,7 +199,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 401 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 80 kg (176,4 lbs). Under the hood, there is frunk with more storage room. This frunk is 12 liters (0,4 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 2020 kg (4453 lbs), you can max load 500 kg (1102 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 401 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 80 kg (176.4 lbs). Under the hood, there is frunk with more storage room. This frunk is 12 liters (0.4 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 2020 kg (4453 lbs), you can max load 500 kg (1102 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

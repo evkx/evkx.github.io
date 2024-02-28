@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Chevrolet Silverado EV
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				4.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				2,1 mi/kWh
+				2.1 mi/kWh
 			</td>
 		</tr>
 	</tbody>

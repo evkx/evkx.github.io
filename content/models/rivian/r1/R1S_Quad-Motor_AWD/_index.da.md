@@ -29,11 +29,11 @@ Vi har opdelt vores Rivian R1S Quad-Motor AWD artikel i sektioner. Hvis du vil v
 
 ## Ydeevne
 
-Rivian R1S Quad-Motor AWD har en maksimal effekt på 620 KW (843 hk/831 hk). Det samlede drejningsmoment er 1231 nm (908 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,1 sekunder. Tophastigheden er 201 km/t.
+Rivian R1S Quad-Motor AWD har en maksimal effekt på 620 KW (843 hk/831 hk). Det samlede drejningsmoment er 1231 nm (908 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.1 sekunder. Tophastigheden er 201 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 135kWh og en nettokapacitet på 125kWh, hvilket betyder, at du har en 10kWh buffer til beskyttelse. (7,4%).
+Batteriet har en bruttokapacitet på 135kWh og en nettokapacitet på 125kWh, hvilket betyder, at du har en 10kWh buffer til beskyttelse. (7.4%).
 
 [EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 321 til 289 miles (516-465 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 2.6mi/kWh for basisversionen og 2.3mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 10 timer og 52 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11.5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 10 timer og 52 minutter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/charging_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
@@ -205,7 +205,7 @@ Med Driver+  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 498 liter. Med bagsædet nede er det 2965 liter. På taget kan du laste op til 113 kg (249,1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11,1 CU FT).
+Lagekapaciteten i bagagerummet er 498 liter. Med bagsædet nede er det 2965 liter. På taget kan du laste op til 113 kg (249.1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11.1 CU FT).
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3500, og på ubremset er den 750 kg (7716/1653 lbs).
 
@@ -214,7 +214,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 26.11.2018, og leveringerne startede i December 2021.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 11/26/2018, og leveringerne startede i December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Kia Niro EV i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-Kia Niro EV har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7,8 sekunder. Topphastigheten er 167 km/t.
+Kia Niro EV har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7.8 sekunder. Topphastigheten er 167 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (4,7%).
+Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64.8kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (4.7%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 463 km. Forbruket er 14.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

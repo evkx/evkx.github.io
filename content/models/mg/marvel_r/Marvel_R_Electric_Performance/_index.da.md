@@ -29,17 +29,17 @@ Vi har opdelt vores MG Marvel R Electric Performance artikel i sektioner. Hvis d
 
 ## Ydeevne
 
-MG Marvel R Electric Performance har en maksimal effekt på 212 KW (288 hk/284 hk). Det samlede drejningsmoment er 665 nm (491 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,9 sekunder. Tophastigheden er 200 km/t.
+MG Marvel R Electric Performance har en maksimal effekt på 212 KW (288 hk/284 hk). Det samlede drejningsmoment er 665 nm (491 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.9 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 75kWh og en nettokapacitet på 70kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,7%).
+Batteriet har en bruttokapacitet på 75kWh og en nettokapacitet på 70kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.7%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 370 km (230 mi). Forbruget er 18.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 94kW. En fuld opladning fra 0 - 100 % ville tage 114 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 43 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 63kW. Hver opladningssession ville tage 35 minutter og 7 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24,5kWh/100 km, vil 1000 km tage 11 timer og 6 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 9 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 166 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24.5kWh/100 km, vil 1000 km tage 11 timer og 6 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 9 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 166 minutter.
 
 ### Indbygget oplader
 
@@ -184,7 +184,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 359 liter. Med bagsædet nede er det 1396 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5,3 CU FT). Bilens maksimale vægt er 2373 kg (5232 lbs), og med basisvægten på 1920 kg (4233 lbs), kan du maksimalt laste 453 kg (999 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 453kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 359 liter. Med bagsædet nede er det 1396 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5.3 CU FT). Bilens maksimale vægt er 2373 kg (5232 lbs), og med basisvægten på 1920 kg (4233 lbs), kan du maksimalt laste 453 kg (999 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 453kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 
@@ -193,7 +193,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 07.10.2021, og leveringerne startede i January 2022.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 10/7/2021, og leveringerne startede i January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Marvel R </strong>
 </a>

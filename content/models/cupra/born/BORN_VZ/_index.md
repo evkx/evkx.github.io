@@ -29,11 +29,11 @@ We have separated our CUPRA BORN VZ article into sections. If you want to wait t
 
 ## Performance
 
-The CUPRA BORN VZ has a maximum power of 240 KW (326 hp/322 bhp). The total torque is 545 nm (402 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,7 seconds. The top speed is 200 km/h.
+The CUPRA BORN VZ has a maximum power of 240 KW (326 hp/322 bhp). The total torque is 545 nm (402 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.7 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 79kWh, meaning you have a 3kWh buffer for protection. (3,7%).
+The battery has a gross capacity of 82kWh and a net capacity of 79kWh, meaning you have a 3kWh buffer for protection. (3.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 570 km (354 mi). The consumption is 13.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -208,12 +208,12 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0,0 lbs). The maxium weight of the car is 2300 kg (5071 lbs), and with the base weight of 1895 kg (4178 lbs), you can max load 405 kg (893 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2300 kg (5071 lbs), and with the base weight of 1895 kg (4178 lbs), you can max load 405 kg (893 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 20.02.2024, and deliveries started in August 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 2/20/2024, and deliveries started in August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> CUPRA BORN </strong>
 </a>

@@ -29,17 +29,17 @@ We have separated our Tesla Model S Standard Range article into sections. If you
 
 ## Performance
 
-The Tesla Model S Standard Range has a maximum power of 381 KW (518 hp/511 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 250 km/h.
+The Tesla Model S Standard Range has a maximum power of 381 KW (518 hp/511 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.9 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 75kWh, meaning you have a 25kWh buffer for protection. (25,0%).
+The battery has a gross capacity of 100kWh and a net capacity of 75kWh, meaning you have a 25kWh buffer for protection. (25.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 512 to 500 km (318-311 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.6kWh/100km for the basic version and 15.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 50%, resulting in an actual charge speed, including time loss, of 132kW. Each charge session would take 15 minutes and 20 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,7kWh/100km, 1000km will take 9 hours and 16 minutes. This trip will require four charge session(s) charging from 7% to 48%. The total time lost for charging up the battery will be 56 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.7kWh/100km, 1000km will take 9 hours and 16 minutes. This trip will require four charge session(s) charging from 7% to 48%. The total time lost for charging up the battery will be 56 minutes.
 
 ### Onboard charger
 
@@ -210,7 +210,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. On the roof, you can load up to 70 kg (154,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 89 liters (3,1 CU FT). The maxium weight of the car is 2629 kg (5796 lbs), and with the base weight of 2265 kg (4993 lbs), you can max load 364 kg (802 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. On the roof, you can load up to 70 kg (154.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 89 liters (3.1 CU FT). The maxium weight of the car is 2629 kg (5796 lbs), and with the base weight of 2265 kg (4993 lbs), you can max load 364 kg (802 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 
@@ -219,7 +219,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ### Availability & Pricing
 
-This model had a world premiere on 20.08.2023, and deliveries started in September 2023. This models has now been discontined.<div class="mt-3 mb-3">
+This model had a world premiere on 8/20/2023, and deliveries started in September 2023. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
 </a>

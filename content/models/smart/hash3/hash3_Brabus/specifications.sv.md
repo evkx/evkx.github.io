@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Smart #3 Brabus. Klick
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,7 s
+				3.7 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				14,9 kWh/100km
+				14.9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				18,3 kWh/100km
+				18.3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				4,3 mi/kWh
+				4.3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,28
+				0.28
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11,5 meter
+				11.5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1118,7 +1118,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 12,8
+				Ja, 12.8
 			</td>
 		</tr>
 		<tr>

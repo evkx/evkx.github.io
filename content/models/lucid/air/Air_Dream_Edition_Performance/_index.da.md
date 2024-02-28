@@ -29,17 +29,17 @@ Vi har opdelt vores Lucid Air Dream Edition Performance artikel i sektioner. Hvi
 
 ## Ydeevne
 
-Lucid Air Dream Edition Performance har en maksimal effekt på 828 KW (1126 hk/1110 hk). Det samlede drejningsmoment er 1390 nm (1026 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,7 sekunder. Tophastigheden er 270 km/t.
+Lucid Air Dream Edition Performance har en maksimal effekt på 828 KW (1126 hk/1110 hk). Det samlede drejningsmoment er 1390 nm (1026 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.7 sekunder. Tophastigheden er 270 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 118kWh og en nettokapacitet på 117kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (0,8%).
+Batteriet har en bruttokapacitet på 118kWh og en nettokapacitet på 117kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (0.8%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 861 til 828 km (535-515 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.6kWh/100 km for basisversionen og 14.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 77 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 46%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 174kW. Hver opladningssession ville tage 18 minutter og 7 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,5kWh/100 km, vil 1000 km tage 8 timer og 48 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 35%. Den samlede tid, der går tabt for at oplade batteriet, vil være 28 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19.5kWh/100 km, vil 1000 km tage 8 timer og 48 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 35%. Den samlede tid, der går tabt for at oplade batteriet, vil være 28 minutter.
 
 ### Indbygget oplader
 
@@ -206,7 +206,7 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10,0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10.0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

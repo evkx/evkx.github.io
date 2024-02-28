@@ -33,7 +33,7 @@ The Citroën ë-C3 has a maximum power of 83 KW (113 hp/111 bhp). The total torq
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 44kWh and a net capacity of 43kWh, meaning you have a 1kWh buffer for protection. (2,3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 44kWh and a net capacity of 43kWh, meaning you have a 1kWh buffer for protection. (2.3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 320 km (199 mi). The consumption is 13.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -194,7 +194,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ### Availability & Pricing
 
-This model had a world premiere on 17.10.2023, and deliveries is expected to start in May 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 10/17/2023, and deliveries is expected to start in May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Citroën ë-C3 </strong>
 </a>

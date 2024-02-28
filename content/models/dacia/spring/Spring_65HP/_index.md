@@ -29,11 +29,11 @@ We have separated our Dacia Spring 65HP article into sections. If you want to wa
 
 ## Performance
 
-The Dacia Spring 65HP has a maximum power of 48 KW (65 hp/64 bhp). The total torque is 113 nm (83 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 13,7 seconds. The top speed is 125 km/h.
+The Dacia Spring 65HP has a maximum power of 48 KW (65 hp/64 bhp). The total torque is 113 nm (83 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 13.7 seconds. The top speed is 125 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 26,8kWh and a net capacity of 25kWh, meaning you have a 1,8kWh buffer for protection. (6,7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 26.8kWh and a net capacity of 25kWh, meaning you have a 1.8kWh buffer for protection. (6.7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 220 km (137 mi). The consumption is 11.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -181,7 +181,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 308 liters. With the rear seat down, it is 1004 liters. Under the hood, there is frunk with more storage room. This frunk is 35 liters (1,2 CU FT). The maxium weight of the car is 1250 kg (2756 lbs), and with the base weight of 984 kg (2169 lbs), you can max load 266 kg (586 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 308 liters. With the rear seat down, it is 1004 liters. Under the hood, there is frunk with more storage room. This frunk is 35 liters (1.2 CU FT). The maxium weight of the car is 1250 kg (2756 lbs), and with the base weight of 984 kg (2169 lbs), you can max load 266 kg (586 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

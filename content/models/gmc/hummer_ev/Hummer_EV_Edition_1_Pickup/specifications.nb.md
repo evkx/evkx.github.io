@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for GMC Hummer EV Editi
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				1,5 mi/kWh
+				1.5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -290,7 +290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11,3 meter
+				11.3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1084,7 +1084,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1092,7 +1092,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 13,4
+				Ja, 13.4
 			</td>
 		</tr>
 		<tr>

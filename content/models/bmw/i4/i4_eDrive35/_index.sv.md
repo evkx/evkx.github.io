@@ -33,7 +33,7 @@ BMW i4 eDrive35 har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 70,2kWh och en nettokapacitet på 66kWh, vilket innebär att du har en 4,2kWh buffert för skydd. (6,0%).
+Batteriet har en bruttokapacitet på 70.2kWh och en nettokapacitet på 66kWh, vilket innebär att du har en 4.2kWh buffert för skydd. (6.0%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 490 till 406 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.5kWh/100 km för basversionen och 16.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

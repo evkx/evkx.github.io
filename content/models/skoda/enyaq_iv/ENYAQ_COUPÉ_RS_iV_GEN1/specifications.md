@@ -71,7 +71,7 @@ EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ R
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				6,9 s
+				6.9 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ R
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
-				6,5 s
+				6.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				15,0 kWh/100km
+				15.0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				16,9 kWh/100km
+				16.9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				15,5 kWh/100km
+				15.5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				17,4 kwh/100km
+				17.4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4653 mm (183,2")
+				4653 mm (183.2")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1607 mm (63,3")
+				1607 mm (63.3")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1879 mm (74,0")
+				1879 mm (74.0")
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2148 mm (84,6")
+				2148 mm (84.6")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2768 mm (109,0")
+				2768 mm (109.0")
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1600 mm (63,0")
+				1600 mm (63.0")
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1573 mm (61,9")
+				1573 mm (61.9")
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,248
+				0.248
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle front
 			</td>
 			<td>
-				14,3
+				14.3
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle rear
 			</td>
 			<td>
-				17,3
+				17.3
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10,8 meter (425,2")
+				10.8 meter (425.2")
 			</td>
 		</tr>
 	</tbody>
@@ -540,7 +540,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				173 mm (6,8")
+				173 mm (6.8")
 			</td>
 		</tr>
 		<tr>
@@ -548,7 +548,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				173 mm (6,8")
+				173 mm (6.8")
 			</td>
 		</tr>
 		<tr>
@@ -1162,7 +1162,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 5,3
+				Yes, 5.3
 			</td>
 		</tr>
 		<tr>

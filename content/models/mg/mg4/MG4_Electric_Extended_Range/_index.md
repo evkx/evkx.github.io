@@ -29,11 +29,11 @@ We have separated our MG MG4 Electric Extended Range article into sections. If y
 
 ## Performance
 
-The MG MG4 Electric Extended Range has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 250 nm (184 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,9 seconds. The top speed is 160 km/h.
+The MG MG4 Electric Extended Range has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 250 nm (184 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.9 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77kWh and a net capacity of 74,4kWh, meaning you have a 2,6kWh buffer for protection. (3,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 77kWh and a net capacity of 74.4kWh, meaning you have a 2.6kWh buffer for protection. (3.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

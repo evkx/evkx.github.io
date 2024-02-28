@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi Z 5 Seater. K
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3,8 s
+				3.8 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				21,6 kWh/100km
+				21.6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -242,7 +242,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,27
+				0.27
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11,4 meter
+				11.4 meter
 			</td>
 		</tr>
 	</tbody>

@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Lucid Air Sapphire. Kl
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				1,95 s
+				1.95 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				3,6 mi/kWh
+				3.6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +282,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,197
+				0.197
 			</td>
 		</tr>
 	</tbody>

@@ -29,21 +29,21 @@ We have separated our Renault Megane E-Tech Techno article into sections. If you
 
 ## Performance
 
-The Renault Megane E-Tech Techno has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,4 seconds. The top speed is 170 km/h.
+The Renault Megane E-Tech Techno has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8.4 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 65kWh and a net capacity of 60kWh, meaning you have a 5kWh buffer for protection. (7,7%).
+The battery has a gross capacity of 65kWh and a net capacity of 60kWh, meaning you have a 5kWh buffer for protection. (7.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 450 to 429 km (280-267 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.3kWh/100km for the basic version and 14.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 73 minutes, while a more common scenario of 10-80% would take 37 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 43%, resulting in an actual charge speed, including time loss, of 73kW. Each charge session would take 21 minutes and 49 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,9kWh/100km, 1000km will take 10 hours and 16 minutes. This trip will require six charge session(s) charging from 1% to 40%. The total time lost for charging up the battery will be 116 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.9kWh/100km, 1000km will take 10 hours and 16 minutes. This trip will require six charge session(s) charging from 1% to 40%. The total time lost for charging up the battery will be 116 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 20 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 7.2 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 20 minutes.
 
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/charging_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2134"  >}}
@@ -214,7 +214,7 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1332 liters. On the roof, you can load up to 80 kg (176,4 lbs). The maxium weight of the car is 2158 kg (4758 lbs), and with the base weight of 1636 kg (3607 lbs), you can max load 522 kg (1151 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1332 liters. On the roof, you can load up to 80 kg (176.4 lbs). The maxium weight of the car is 2158 kg (4758 lbs), and with the base weight of 1636 kg (3607 lbs), you can max load 522 kg (1151 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 900, and on unbraked, it is 750 kg (1984/1653 lbs).
 

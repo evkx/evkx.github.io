@@ -71,7 +71,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron S Sport
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6,6 s
+				6.6 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron S Sport
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				4,5 s
+				4.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				22,7 kWh/100km
+				22.7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				25,7 kWh/100km
+				25.7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				24,8 kWh/100km
+				24.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				28,1 kwh/100km
+				28.1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -432,7 +432,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,26
+				0.26
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Frontalområde
 			</td>
 			<td>
-				2,71
+				2.71
 			</td>
 		</tr>
 		<tr>
@@ -1693,7 +1693,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1701,7 +1701,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, to 10,1" og 8,6"
+				Ja, to 10.1" og 8.6"
 			</td>
 		</tr>
 		<tr>

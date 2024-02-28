@@ -10,7 +10,7 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The Polestar 2 has Flaws but I Like It Anyway!</h3>
-<p>Auto Focus: 26.10.2023</p>
+<p>Auto Focus: 26/10/2023</p>
 
 {{< youtube GHhInrB8sr8 >}}
 

@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				13,4 kWh/100km
+				13.4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -955,7 +955,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 10,25
+				Ja, 10.25
 			</td>
 		</tr>
 		<tr>

@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio ET9. Klik på 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3,8 s
+				3.8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				15,6 kWh/100km
+				15.6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				19,0 kWh/100km
+				19.0 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5325 mm (209,6")
+				5325 mm (209.6")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1620 mm (63,8")
+				1620 mm (63.8")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				2016 mm (79,4")
+				2016 mm (79.4")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3250 mm (128,0")
+				3250 mm (128.0")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				10,9 meter (429,1")
+				10.9 meter (429.1")
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +396,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm (7.9")
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm (5.9")
 			</td>
 		</tr>
 		<tr>
@@ -1042,7 +1042,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 10,2
+				Ja, 10.2
 			</td>
 		</tr>
 		<tr>
@@ -1050,7 +1050,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 15,6"
+				Ja, 15.6"
 			</td>
 		</tr>
 		<tr>
@@ -1066,7 +1066,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Bagstpassager Infotainmentskærm
 			</td>
 			<td>
-				Ja, 14,5"
+				Ja, 14.5"
 			</td>
 		</tr>
 	</tbody>

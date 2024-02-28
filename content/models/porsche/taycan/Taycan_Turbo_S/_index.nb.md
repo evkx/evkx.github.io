@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo S i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Med overboost har Porsche Taycan Turbo S en maksimal effekt på 700 KW (952hk). Uten overboost er den 620KW (843hk). Dreiemomentet er 1110 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,4 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Taycan Turbo S en maksimal effekt på 700 KW (952hk). Uten overboost er den 620KW (843hk). Dreiemomentet er 1110 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2.4 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7.6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 630 til 558 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.4kWh/100 km for basisversjonen og 17.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

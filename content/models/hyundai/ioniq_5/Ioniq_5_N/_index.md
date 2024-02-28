@@ -29,11 +29,11 @@ We have separated our Hyundai Ioniq 5 N article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the Hyundai Ioniq 5 N has a maximum power of 478 KW (650 hp / 641 bhp). Without overboost, it is 448 KW (609 hp / 609 bhp). The torque is 770 nm with overboost and 714 without overboost. It performs the 0-100km/h sprint (0-62mph) in 3,4 seconds with overboost and 3,5 seconds without overboost. The top speed is 260 km/h.
+With overboost, the Hyundai Ioniq 5 N has a maximum power of 478 KW (650 hp / 641 bhp). Without overboost, it is 448 KW (609 hp / 609 bhp). The torque is 770 nm with overboost and 714 without overboost. It performs the 0-100km/h sprint (0-62mph) in 3.4 seconds with overboost and 3.5 seconds without overboost. The top speed is 260 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 89kWh and a net capacity of 84kWh, meaning you have a 5kWh buffer for protection. (5,6%).
+The battery has a gross capacity of 89kWh and a net capacity of 84kWh, meaning you have a 5kWh buffer for protection. (5.6%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 450 km (280 mi). The consumption is 18.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -190,7 +190,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 527 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 80 kg (176,4 lbs). Under the hood, there is frunk with more storage room. This frunk is 24 liters (0,8 CU FT). The maxium weight of the car is 2560 kg (5644 lbs), and with the base weight of 2045 kg (4508 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 527 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 80 kg (176.4 lbs). Under the hood, there is frunk with more storage room. This frunk is 24 liters (0.8 CU FT). The maxium weight of the car is 2560 kg (5644 lbs), and with the base weight of 2045 kg (4508 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 
@@ -199,7 +199,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 13.07.2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 7/13/2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Hyundai Ioniq 5 </strong>
 </a>

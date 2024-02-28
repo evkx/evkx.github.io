@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Neta GT 580 AWD. Kl
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3,7 s
+				3.7 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim CLTC-forbruk
 			</td>
 			<td>
-				12,9 kWh/100km
+				12.9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -977,7 +977,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 10,25
+				Ja, 10.25
 			</td>
 		</tr>
 		<tr>
@@ -985,7 +985,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 17,6
+				Ja, 17.6
 			</td>
 		</tr>
 		<tr>

@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG Marvel R Electri
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,9 s
+				4.9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				18,9 kWh/100km
+				18.9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				20,9 kWh/100km
+				20.9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -274,7 +274,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11,5 meter
+				11.5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1061,7 +1061,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10,2
+				Ja, 10.2
 			</td>
 		</tr>
 		<tr>

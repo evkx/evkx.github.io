@@ -15,28 +15,28 @@ navicon: bi-battery-charging
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Average charging speed 0 - 100%</td><td>92,3 kW</td>
+<td>Average charging speed 0 - 100%</td><td>92.3 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-100%</td><td>85,6 kW</td>
+<td>Average charging speed 10-100%</td><td>85.6 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-90%</td><td>120,1 kW</td>
+<td>Average charging speed 10-90%</td><td>120.1 kW</td>
 </tr>
 <tr>
-<td>Average charging speed 10-80%</td><td>185,5 kW</td>
+<td>Average charging speed 10-80%</td><td>185.5 kW</td>
 </tr>
 <tr>
-<td>Max C-Rate</td><td>1,60</td>
+<td>Max C-Rate</td><td>1.60</td>
 </tr>
 <tr>
-<td>Average C-Rate</td><td>1,02</td>
+<td>Average C-Rate</td><td>1.02</td>
 </tr>
 <tr>
 <td>Optimum charging area</td><td>1% - 53%</td>
 </tr>
 <tr>
-<td>Optimum charging speed included 5 minutes loss</td><td>241,7kW</td>
+<td>Optimum charging speed included 5 minutes loss</td><td>241.7kW</td>
 </tr>
 <tr>
 <td>Optimum charge stop time</td><td>26m49s</td>

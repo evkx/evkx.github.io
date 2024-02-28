@@ -33,7 +33,7 @@ Fiat 600e har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 n
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (5,9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50.8kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (5.9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 409 km. Forbruket er 12.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

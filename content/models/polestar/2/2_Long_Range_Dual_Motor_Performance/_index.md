@@ -29,11 +29,11 @@ We have separated our Polestar 2 Long Range Dual Motor Performance article into 
 
 ## Performance
 
-The Polestar 2 Long Range Dual Motor Performance has a maximum power of 350 KW (476 hp/469 bhp). The total torque is 740 nm (546 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,2 seconds. The top speed is 205 km/h.
+The Polestar 2 Long Range Dual Motor Performance has a maximum power of 350 KW (476 hp/469 bhp). The total torque is 740 nm (546 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.2 seconds. The top speed is 205 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 79kWh, meaning you have a 3kWh buffer for protection. (3,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 82kWh and a net capacity of 79kWh, meaning you have a 3kWh buffer for protection. (3.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 592 to 551 km (368-342 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.3kWh/100km for the basic version and 14.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -195,7 +195,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1095 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 31 liters (1,1 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 2025 kg (4464 lbs), you can max load 495 kg (1091 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1095 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 31 liters (1.1 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 2025 kg (4464 lbs), you can max load 495 kg (1091 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

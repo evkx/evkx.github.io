@@ -29,17 +29,17 @@ Vi har opdelt vores Honda e:Ny1 artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-Honda e:Ny1 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,7 sekunder. Tophastigheden er 160 km/t.
+Honda e:Ny1 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.7 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 68,8kWh og en nettokapacitet på 61,9kWh, hvilket betyder, at du har en 6,9kWh buffer til beskyttelse. (10,0%).
+Batteriet har en bruttokapacitet på 68.8kWh og en nettokapacitet på 61.9kWh, hvilket betyder, at du har en 6.9kWh buffer til beskyttelse. (10.0%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 412 km (256 mi). Forbruget er 15.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 92%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 62kW. Hver opladningssession ville tage 51 minutter og 28 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24,5kWh/100 km, vil 1000 km tage 11 timer og 18 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 16 % til 90%. Den samlede tid, der går tabt for at oplade batteriet, vil være 179 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24.5kWh/100 km, vil 1000 km tage 11 timer og 18 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 16 % til 90%. Den samlede tid, der går tabt for at oplade batteriet, vil være 179 minutter.
 
 ### Indbygget oplader
 

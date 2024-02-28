@@ -29,11 +29,11 @@ Vi har opdelt vores Mercedes-EQ EQS 450 4MATIC artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Mercedes-EQ EQS 450 4MATIC har en maksimal effekt på 265 KW (360 hk/355 hk). Det samlede drejningsmoment er 800 nm (590 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Tophastigheden er 210 km/t.
+Mercedes-EQ EQS 450 4MATIC har en maksimal effekt på 265 KW (360 hk/355 hk). Det samlede drejningsmoment er 800 nm (590 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.6 sekunder. Tophastigheden er 210 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108,4kWh, hvilket betyder, at du har en 11,6kWh buffer til beskyttelse. (9,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108.4kWh, hvilket betyder, at du har en 11.6kWh buffer til beskyttelse. (9.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 696 til 582 km (433-362 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.6kWh/100 km for basisversionen og 18.6kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -247,7 +247,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2540 kg (5600 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2540 kg (5600 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

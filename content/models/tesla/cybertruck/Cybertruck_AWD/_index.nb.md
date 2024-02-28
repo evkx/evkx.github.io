@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Tesla Cybertruck AWD i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Tesla Cybertruck AWD har en maksimal effekt på 448 KW (609hk). Totalt dreiemoment er 671 nm. Den utfører sprinten 0-100 km/t på 4,1 sekunder. Topphastigheten er 180 km/t.
+Tesla Cybertruck AWD har en maksimal effekt på 448 KW (609hk). Totalt dreiemoment er 671 nm. Den utfører sprinten 0-100 km/t på 4.1 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 123kWh og en nettokapasitet på 122,5kWh, noe som betyr at du har et 0,5kWh-buffer for beskyttelse. (0,4%).
+Batteriet har en bruttokapasitet på 123kWh og en nettokapasitet på 122.5kWh, noe som betyr at du har et 0.5kWh-buffer for beskyttelse. (0.4%).
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 340 miles (547 km). Forbruket er 2.8mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -239,7 +239,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1897,23 liter. Bredden på lasteplanet er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4159 kg, og med basisvekten på 3025 kg kan du maksimalt laste 1134 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1897.23 liter. Bredden på lasteplanet er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4159 kg, og med basisvekten på 3025 kg kan du maksimalt laste 1134 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 4990, og på ubremset er den 750 kg.
 
@@ -248,7 +248,7 @@ Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilh
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 30.11.2023, og leveringene startet i November 2023. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 11/30/2023, og leveringene startet i November 2023. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
 </a>

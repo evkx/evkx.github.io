@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för CUPRA Tavascan Enduran
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6,8 s
+				6.8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				14,1 kWh/100km
+				14.1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				15,6 kWh/100km
+				15.6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -1066,7 +1066,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 5,3
+				Ja, 5.3
 			</td>
 		</tr>
 		<tr>

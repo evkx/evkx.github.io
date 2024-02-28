@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Volkswagen ID.5 Pro i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Volkswagen ID.5 Pro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 545 nm. Den utfører sprinten 0-100 km/t på 6,7 sekunder. Topphastigheten er 180 km/t.
+Volkswagen ID.5 Pro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 545 nm. Den utfører sprinten 0-100 km/t på 6.7 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.1%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 556 km. Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -241,7 +241,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 10.10.2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 10/10/2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.5 </strong>
 </a>

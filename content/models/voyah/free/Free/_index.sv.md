@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av VOYAH FREE i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-VOYAH FREE har en maximal effekt på 360 KW (490hk). Totalt vridmoment är 720 Nm. Den gör sprinten 0-100 km/h på 4,4 sekunder. Topphastigheten är 200 km/h.
+VOYAH FREE har en maximal effekt på 360 KW (490hk). Totalt vridmoment är 720 Nm. Den gör sprinten 0-100 km/h på 4.4 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 106kWh och en nettokapacitet på 100kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,7%).
+Batteriet har en bruttokapacitet på 106kWh och en nettokapacitet på 100kWh, vilket innebär att du har en 6kWh buffert för skydd. (5.7%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 500 km. Förbrukningen är 20.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

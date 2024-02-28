@@ -43,7 +43,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				440 km / 273 mi
 			</td>
 			<td>
-				14,09kWh/100km / 4,4 mi/kWh
+				14.09kWh/100km / 4.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				420 km / 261 mi
 			</td>
 			<td>
-				14,76 kWh/100km / 4,2 mi/kWh
+				14.76 kWh/100km / 4.2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				426 km / 265 mi
 			</td>
 			<td>
-				14,6 kWh/100km / 4,3 mi/kWh
+				14.6 kWh/100km / 4.3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -82,7 +82,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				426 km / 265 mi
 			</td>
 			<td>
-				14,6 kWh/100km / 4,3 mi/kWh
+				14.6 kWh/100km / 4.3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -116,7 +116,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				 337km / 209 mi 
 			</td>
 			<td>
-				-23,4%
+				-23.4%
 			</td>
 		</tr>
 		<tr>
@@ -127,7 +127,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				325 km / 202 mi
 			</td>
 			<td>
-				-22,6%
+				-22.6%
 			</td>
 		</tr>
 		<tr>
@@ -138,7 +138,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				329 km / 204 mi
 			</td>
 			<td>
-				-22,8%
+				-22.8%
 			</td>
 		</tr>
 		<tr>
@@ -149,7 +149,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				329 km / 204 mi
 			</td>
 			<td>
-				-22,8%
+				-22.8%
 			</td>
 		</tr>
 	</tbody>
@@ -183,7 +183,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				238 km / 148 mi
 			</td>
 			<td>
-				26 kWh/100km / 2,4 mi/kWh
+				26 kWh/100km / 2.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -194,7 +194,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				224 km /139mi
 			</td>
 			<td>
-				27,7 kWh/100km /2,2 mi/kWh
+				27.7 kWh/100km /2.2 mi/kWh
 			</td>
 		</tr>
 	</tbody>

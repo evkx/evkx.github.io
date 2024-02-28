@@ -35,11 +35,11 @@ This model has been replaced by [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45
 
 ## Performance
 
-The Audi Q4 40 e-tron has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,5 seconds. The top speed is 160 km/h.
+The Audi Q4 40 e-tron has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8.5 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6,6%).
+The battery has a gross capacity of 82kWh and a net capacity of 76.6kWh, meaning you have a 5.4kWh buffer for protection. (6.6%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 521 to 447 km (324-278 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.7kWh/100km for the basic version and 17.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -250,7 +250,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2640 kg (5820 lbs), and with the base weight of 2050 kg (4519 lbs), you can max load 590 kg (1301 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2640 kg (5820 lbs), and with the base weight of 2050 kg (4519 lbs), you can max load 590 kg (1301 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
 
@@ -259,7 +259,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 14.04.2021, and deliveries started in January 2022. This models has now been discontined. This model has been replaced by [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron).<div class="mt-3 mb-3">
+This model had a world premiere on 4/14/2021, and deliveries started in January 2022. This models has now been discontined. This model has been replaced by [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

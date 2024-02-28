@@ -33,7 +33,7 @@ The Fiat 600e has a maximum power of 115 KW (156 hp/154 bhp). The total torque i
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 54kWh and a net capacity of 50,8kWh, meaning you have a 3,2kWh buffer for protection. (5,9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 54kWh and a net capacity of 50.8kWh, meaning you have a 3.2kWh buffer for protection. (5.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 409 km (254 mi). The consumption is 12.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

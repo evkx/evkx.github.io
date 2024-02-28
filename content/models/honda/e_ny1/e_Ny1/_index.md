@@ -29,17 +29,17 @@ We have separated our Honda e:Ny1 article into sections. If you want to wait to 
 
 ## Performance
 
-The Honda e:Ny1 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,7 seconds. The top speed is 160 km/h.
+The Honda e:Ny1 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.7 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 68,8kWh and a net capacity of 61,9kWh, meaning you have a 6,9kWh buffer for protection. (10,0%).
+The battery has a gross capacity of 68.8kWh and a net capacity of 61.9kWh, meaning you have a 6.9kWh buffer for protection. (10.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 412 km (256 mi). The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 38 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 92%, resulting in an actual charge speed, including time loss, of 62kW. Each charge session would take 51 minutes and 28 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 11 hours and 18 minutes. This trip will require four charge session(s) charging from 16% to 90%. The total time lost for charging up the battery will be 179 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24.5kWh/100km, 1000km will take 11 hours and 18 minutes. This trip will require four charge session(s) charging from 16% to 90%. The total time lost for charging up the battery will be 179 minutes.
 
 ### Onboard charger
 

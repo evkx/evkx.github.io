@@ -29,17 +29,17 @@ We have separated our Tesla Model 3 Performance article into sections. If you wa
 
 ## Performance
 
-The Tesla Model 3 Performance has a maximum power of 393 KW (534 hp/527 bhp). The total torque is 660 nm (487 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,3 seconds. The top speed is 261 km/h.
+The Tesla Model 3 Performance has a maximum power of 393 KW (534 hp/527 bhp). The total torque is 660 nm (487 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.3 seconds. The top speed is 261 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 75kWh, meaning you have a 7kWh buffer for protection. (8,5%).
+The battery has a gross capacity of 82kWh and a net capacity of 75kWh, meaning you have a 7kWh buffer for protection. (8.5%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 547 km (340 mi). The consumption is 13.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 43%, resulting in an actual charge speed, including time loss, of 119kW. Each charge session would take 14 minutes and 23 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 17,5kWh/100km, 1000km will take 9 hours and 11 minutes. This trip will require four charge session(s) charging from 5% to 39%. The total time lost for charging up the battery will be 52 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 17.5kWh/100km, 1000km will take 9 hours and 11 minutes. This trip will require four charge session(s) charging from 5% to 39%. The total time lost for charging up the battery will be 52 minutes.
 
 ### Onboard charger
 
@@ -221,12 +221,12 @@ It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to re
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 561 liters. With the rear seat down, it is 1234 liters. On the roof, you can load up to 70 kg (154,3 lbs). The maxium weight of the car is 2232 kg (4921 lbs), and with the base weight of 1844 kg (4065 lbs), you can max load 388 kg (855 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 561 liters. With the rear seat down, it is 1234 liters. On the roof, you can load up to 70 kg (154.3 lbs). The maxium weight of the car is 2232 kg (4921 lbs), and with the base weight of 1844 kg (4065 lbs), you can max load 388 kg (855 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 01.04.2016, and deliveries started in July 2017. This models has now been discontined.<div class="mt-3 mb-3">
+This model had a world premiere on 4/1/2016, and deliveries started in July 2017. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

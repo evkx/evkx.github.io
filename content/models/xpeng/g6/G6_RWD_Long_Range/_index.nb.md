@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av XPENG G6 RWD Long Range i seksjoner. Hvis du vil
 
 ## Ytelse
 
-XPENG G6 RWD Long Range har en maksimal effekt på 218 KW (296hk). Totalt dreiemoment er 440 nm. Den utfører sprinten 0-100 km/t på 5,9 sekunder. Topphastigheten er 202 km/t.
+XPENG G6 RWD Long Range har en maksimal effekt på 218 KW (296hk). Totalt dreiemoment er 440 nm. Den utfører sprinten 0-100 km/t på 5.9 sekunder. Topphastigheten er 202 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 87,5kWh og en nettokapasitet på 82kWh, noe som betyr at du har et 5,5kWh-buffer for beskyttelse. (6,3%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 87.5kWh og en nettokapasitet på 82kWh, noe som betyr at du har et 5.5kWh-buffer for beskyttelse. (6.3%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 755 km ( miles). Forbruket er 10.9kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Volkswagen ID.5 GTX 4MOTION i seksjoner. Hvis du
 
 ## Ytelse
 
-Volkswagen ID.5 GTX 4MOTION har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 5,5 sekunder. Topphastigheten er 180 km/t.
+Volkswagen ID.5 GTX 4MOTION har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 5.5 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.1%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 533 km. Forbruket er 14.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -234,7 +234,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 10.10.2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 10/10/2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.5 </strong>
 </a>

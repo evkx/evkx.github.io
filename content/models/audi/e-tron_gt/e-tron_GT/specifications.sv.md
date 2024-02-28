@@ -71,7 +71,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi e-tron GT. Klicka
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,5 s
+				4.5 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi e-tron GT. Klicka
 				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
-				4,1 s
+				4.1 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				17,2 kWh/100km
+				17.2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				17,2 kWh/100km
+				17.2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				18,7 kWh/100km
+				18.7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				21,8 kwh/100km
+				21.8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -174,7 +174,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				93,4 kWh
+				93.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -182,7 +182,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				83,7 kWh
+				83.7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,24
+				0.24
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Frontalområde
 			</td>
 			<td>
-				2,35
+				2.35
 			</td>
 		</tr>
 		<tr>
@@ -456,7 +456,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre överhängsvinkel
 			</td>
 			<td>
-				16,4
+				16.4
 			</td>
 		</tr>
 		<tr>
@@ -464,7 +464,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11,6 meter
+				11.6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1561,7 +1561,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1569,7 +1569,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 10,1
+				Ja, 10.1
 			</td>
 		</tr>
 		<tr>

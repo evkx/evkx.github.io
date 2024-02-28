@@ -71,7 +71,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q8 e-tron edit
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6,8 s
+				6.8 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q8 e-tron edit
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				5,8 s
+				5.8 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				21,8 kWh/100km
+				21.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				20,6 kWh/100km
+				20.6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -408,7 +408,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,28
+				0.28
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Frontalområde
 			</td>
 			<td>
-				2,65
+				2.65
 			</td>
 		</tr>
 		<tr>
@@ -1991,7 +1991,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1999,7 +1999,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, to 10,1" og 8,6"
+				Ja, to 10.1" og 8.6"
 			</td>
 		</tr>
 		<tr>

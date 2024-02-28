@@ -29,11 +29,11 @@ Vi har opdelt vores Lucid Air Sapphire artikel i sektioner. Hvis du vil vente me
 
 ## Ydeevne
 
-Lucid Air Sapphire har en maksimal effekt på 920 KW (1251 hk/1234 hk). Det samlede drejningsmoment er 1390 nm (1026 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 1,95 sekunder. Tophastigheden er 330 km/t.
+Lucid Air Sapphire har en maksimal effekt på 920 KW (1251 hk/1234 hk). Det samlede drejningsmoment er 1390 nm (1026 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 1.95 sekunder. Tophastigheden er 330 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 118kWh og en nettokapacitet på 117kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (0,8%).
+Batteriet har en bruttokapacitet på 118kWh og en nettokapacitet på 117kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (0.8%).
 
 [EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 427 miles (687 km). Forbruget er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -205,7 +205,7 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10,0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10.0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

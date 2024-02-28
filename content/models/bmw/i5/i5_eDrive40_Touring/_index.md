@@ -29,11 +29,11 @@ We have separated our BMW i5 eDrive40 Touring article into sections. If you want
 
 ## Performance
 
-The BMW i5 eDrive40 Touring has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,1 seconds. The top speed is 193 km/h.
+The BMW i5 eDrive40 Touring has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.1 seconds. The top speed is 193 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 84,4kWh and a net capacity of 81,2kWh, meaning you have a 3,2kWh buffer for protection. (3,8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 84.4kWh and a net capacity of 81.2kWh, meaning you have a 3.2kWh buffer for protection. (3.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 560 to 483 km (348-300 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.5kWh/100km for the basic version and 16.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -237,7 +237,7 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1700 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 2790 kg (6151 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1700 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 2790 kg (6151 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
 

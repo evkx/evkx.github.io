@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Gravity Dream 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				3,6 mi/kWh
+				3.6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5034 mm (198,2")
+				5034 mm (198.2")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1656 mm (65,2")
+				1656 mm (65.2")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1999 mm (78,7")
+				1999 mm (78.7")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2198 mm (86,5")
+				2198 mm (86.5")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3035 mm (119,5")
+				3035 mm (119.5")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,24
+				0.24
 			</td>
 		</tr>
 	</tbody>
@@ -445,7 +445,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				155 mm (6,1")
+				155 mm (6.1")
 			</td>
 		</tr>
 		<tr>
@@ -453,7 +453,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				155 mm (6,1")
+				155 mm (6.1")
 			</td>
 		</tr>
 		<tr>
@@ -563,7 +563,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				220 mm (8,7")
+				220 mm (8.7")
 			</td>
 		</tr>
 		<tr>
@@ -571,7 +571,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				155 mm (6,1")
+				155 mm (6.1")
 			</td>
 		</tr>
 		<tr>

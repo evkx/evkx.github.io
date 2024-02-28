@@ -29,11 +29,11 @@ We have separated our VOYAH FREE article into sections. If you want to wait to r
 
 ## Performance
 
-The VOYAH FREE has a maximum power of 360 KW (490 hp/483 bhp). The total torque is 720 nm (531 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,4 seconds. The top speed is 200 km/h.
+The VOYAH FREE has a maximum power of 360 KW (490 hp/483 bhp). The total torque is 720 nm (531 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.4 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 106kWh and a net capacity of 100kWh, meaning you have a 6kWh buffer for protection. (5,7%).
+The battery has a gross capacity of 106kWh and a net capacity of 100kWh, meaning you have a 6kWh buffer for protection. (5.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 500 km (311 mi). The consumption is 20.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -178,7 +178,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 560 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 72 liters (2,5 CU FT). The maxium weight of the car is 2945 kg (6493 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 605 kg (1334 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 560 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 72 liters (2.5 CU FT). The maxium weight of the car is 2945 kg (6493 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 605 kg (1334 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

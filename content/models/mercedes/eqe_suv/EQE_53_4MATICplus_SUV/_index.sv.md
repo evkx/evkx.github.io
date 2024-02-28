@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Mercedes-AMG EQE 53 4MATIC+ SUV i avsnitt. O
 
 ## Prestanda
 
-Mercedes-AMG EQE 53 4MATIC+ SUV har en maximal effekt på 460 KW (625hk). Totalt vridmoment är 950 Nm. Den gör sprinten 0-100 km/h på 3,7 sekunder. Topphastigheten är 220 km/h.
+Mercedes-AMG EQE 53 4MATIC+ SUV har en maximal effekt på 460 KW (625hk). Totalt vridmoment är 950 Nm. Den gör sprinten 0-100 km/h på 3.7 sekunder. Topphastigheten är 220 km/h.
 
-Om du inte är tillräckligt nöjd med standardprestandan kan du lägga till prestandaalternativet AMG Dynamic Plus. Då förbättras siffrorna. Mercedes-AMG EQE 53 4MATIC+ SUV har en maximal effekt på 505 KW (687hk). Totalt vridmoment är 1000 Nm. Den gör sprinten 0-100 km/h på 3,5 sekunder. Topphastigheten är 240 km/h.
+Om du inte är tillräckligt nöjd med standardprestandan kan du lägga till prestandaalternativet AMG Dynamic Plus. Då förbättras siffrorna. Mercedes-AMG EQE 53 4MATIC+ SUV har en maximal effekt på 505 KW (687hk). Totalt vridmoment är 1000 Nm. Den gör sprinten 0-100 km/h på 3.5 sekunder. Topphastigheten är 240 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 96,12kWh och en nettokapacitet på 90,6kWh, vilket innebär att du har en 5,52kWh buffert för skydd. (5,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 96.12kWh och en nettokapacitet på 90.6kWh, vilket innebär att du har en 5.52kWh buffert för skydd. (5.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 470 till 375 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19.3kWh/100 km för basversionen och 24.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

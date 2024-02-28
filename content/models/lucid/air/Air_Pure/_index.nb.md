@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Lucid Air Pure i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Lucid Air Pure har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 400 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 200 km/t.
+Lucid Air Pure har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 400 nm. Den utfører sprinten 0-100 km/t på 4.5 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 94kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2,1%).
+Batteriet har en bruttokapasitet på 94kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2.1%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 747 til 708 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.3kWh/100 km for basisversjonen og 13.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

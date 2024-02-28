@@ -35,11 +35,11 @@ Denne model er blevet erstattet af [Volvo EC40 Single Motor ER](/models/volvo/ec
 
 ## Ydeevne
 
-Volvo C40 Recharge Single Motor ER har en maksimal effekt på 185 KW (252 hk/248 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 160 km/t.
+Volvo C40 Recharge Single Motor ER har en maksimal effekt på 185 KW (252 hk/248 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.3 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 581 til 566 km (361-352 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.6kWh/100 km for basisversionen og 14.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -197,7 +197,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1205 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2500 kg (5512 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1205 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1.1 CU FT). Bilens maksimale vægt er 2500 kg (5512 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
 
@@ -206,7 +206,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Volvo EC40 Single Motor ER](/models/volvo/ec40/ec40_single_motor_er).<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 5/18/2022, og leveringerne startede i August 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Volvo EC40 Single Motor ER](/models/volvo/ec40/ec40_single_motor_er).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
 </a>

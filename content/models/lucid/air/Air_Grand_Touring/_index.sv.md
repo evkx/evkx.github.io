@@ -33,7 +33,7 @@ Lucid Air Grand Touring har en maximal effekt på 597 KW (812hk). Totalt vridmom
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 112kWh och en nettokapacitet på 112kWh, vilket innebär att du har en 0kWh buffert för skydd. (0,0%).
+Batteriet har en bruttokapacitet på 112kWh och en nettokapacitet på 112kWh, vilket innebär att du har en 0kWh buffert för skydd. (0.0%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 839 till 783 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.3kWh/100 km för basversionen och 14.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

@@ -29,11 +29,11 @@ Vi har opdelt vores Volkswagen ID.7 Pro artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Volkswagen ID.7 Pro har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 550 nm (406 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder. Tophastigheden er 180 km/t.
+Volkswagen ID.7 Pro har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 550 nm (406 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.5 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.1%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 615 til 550 km (382-342 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.5kWh/100 km for basisversionen og 14.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -230,7 +230,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 542 liter. Med bagsædet nede er det 1575 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2630 kg (5798 lbs), og med basisvægten på 2152 kg (4744 lbs), kan du maksimalt laste 478 kg (1054 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 542 liter. Med bagsædet nede er det 1575 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2630 kg (5798 lbs), og med basisvægten på 2152 kg (4744 lbs), kan du maksimalt laste 478 kg (1054 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 

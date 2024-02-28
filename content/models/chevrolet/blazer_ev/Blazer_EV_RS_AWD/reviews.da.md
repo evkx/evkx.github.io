@@ -10,14 +10,14 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>TFLEV</h3>
-<p>Here’s What Is Good & Bad With The New 2024 Chevy Blazer EV RS!: 27.10.2023</p>
+<p>Here’s What Is Good & Bad With The New 2024 Chevy Blazer EV RS!: 27/10/2023</p>
 
 {{< youtube vzwmx1dRqts >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2024 Chevy Blazer EV: A Tall, All-Electric Wagon in Disguise</h3>
-<p>MotorTrend Channel: 24.10.2023</p>
+<p>MotorTrend Channel: 24/10/2023</p>
 
 {{< youtube em_TxKPGans >}}
 

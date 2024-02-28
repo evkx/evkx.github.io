@@ -29,11 +29,11 @@ We have separated our GMC Hummer EV Edition 1 Pickup article into sections. If y
 
 ## Performance
 
-The GMC Hummer EV Edition 1 Pickup has a maximum power of 746 KW (1014 hp/1000 bhp). The total torque is 1150 nm (849 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 170 km/h.
+The GMC Hummer EV Edition 1 Pickup has a maximum power of 746 KW (1014 hp/1000 bhp). The total torque is 1150 nm (849 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.5 seconds. The top speed is 170 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 220kWh and a net capacity of 213kWh, meaning you have a 7kWh buffer for protection. (3,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 220kWh and a net capacity of 213kWh, meaning you have a 7kWh buffer for protection. (3.2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 329 miles (529 km). The consumption is 1.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -182,12 +182,12 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1039 liters. The bed width is 1272 mm, and length is 1524 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 320 liters (11,3 CU FT). The maxium weight of the car is 4717 kg (10399 lbs), and with the base weight of 4103 kg (9046 lbs), you can max load 614 kg (1354 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1039 liters. The bed width is 1272 mm, and length is 1524 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 320 liters (11.3 CU FT). The maxium weight of the car is 4717 kg (10399 lbs), and with the base weight of 4103 kg (9046 lbs), you can max load 614 kg (1354 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3402, and on unbraked, it is 750 kg (7500/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 20.10.2020, and deliveries started in December 2021. This model is only available in North America.<div class="mt-3 mb-3">
+This model had a world premiere on 10/20/2020, and deliveries started in December 2021. This model is only available in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> GMC Hummer EV </strong>
 </a>

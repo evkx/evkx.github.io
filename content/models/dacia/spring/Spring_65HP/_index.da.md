@@ -29,11 +29,11 @@ Vi har opdelt vores Dacia Spring 65HP artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-Dacia Spring 65HP har en maksimal effekt på 48 KW (65 hk/64 hk). Det samlede drejningsmoment er 113 nm (83 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 13,7 sekunder. Tophastigheden er 125 km/t.
+Dacia Spring 65HP har en maksimal effekt på 48 KW (65 hk/64 hk). Det samlede drejningsmoment er 113 nm (83 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 13.7 sekunder. Tophastigheden er 125 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 26,8kWh og en nettokapacitet på 25kWh, hvilket betyder, at du har en 1,8kWh buffer til beskyttelse. (6,7%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 26.8kWh og en nettokapacitet på 25kWh, hvilket betyder, at du har en 1.8kWh buffer til beskyttelse. (6.7%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 220 km (137 mi). Forbruget er 11.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -181,7 +181,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 308 liter. Med bagsædet nede er det 1004 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 35 liter (1,2 CU FT). Bilens maksimale vægt er 1250 kg (2756 lbs), og med basisvægten på 984 kg (2169 lbs), kan du maksimalt laste 266 kg (586 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 308 liter. Med bagsædet nede er det 1004 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 35 liter (1.2 CU FT). Bilens maksimale vægt er 1250 kg (2756 lbs), og med basisvægten på 984 kg (2169 lbs), kan du maksimalt laste 266 kg (586 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

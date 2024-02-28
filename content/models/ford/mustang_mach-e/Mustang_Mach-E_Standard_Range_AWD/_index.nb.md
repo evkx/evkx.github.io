@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Ford Mustang Mach-E Standard Range AWD i seksjon
 
 ## Ytelse
 
-Ford Mustang Mach-E Standard Range AWD har en maksimal effekt på 258 KW (351hk). Totalt dreiemoment er 580 nm. Den utfører sprinten 0-100 km/t på 5,8 sekunder. Topphastigheten er 180 km/t.
+Ford Mustang Mach-E Standard Range AWD har en maksimal effekt på 258 KW (351hk). Totalt dreiemoment er 580 nm. Den utfører sprinten 0-100 km/t på 5.8 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 75,7kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 5,7kWh-buffer for beskyttelse. (7,5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 75.7kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 5.7kWh-buffer for beskyttelse. (7.5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 17.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

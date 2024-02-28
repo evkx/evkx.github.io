@@ -29,11 +29,11 @@ Vi har opdelt vores Volvo EX30 Twin Motor Performance artikel i sektioner. Hvis 
 
 ## Ydeevne
 
-Volvo EX30 Twin Motor Performance har en maksimal effekt på 315 KW (428 hk/422 hk). Det samlede drejningsmoment er 543 nm (401 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,6 sekunder. Tophastigheden er 180 km/t.
+Volvo EX30 Twin Motor Performance har en maksimal effekt på 315 KW (428 hk/422 hk). Det samlede drejningsmoment er 543 nm (401 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.6 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 460 km (286 mi). Forbruget er 13.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -199,7 +199,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 318 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0,2 CU FT). Bilens maksimale vægt er 2338 kg (5154 lbs), og med basisvægten på 1869 kg (4120 lbs), kan du maksimalt laste 469 kg (1034 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 318 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0.2 CU FT). Bilens maksimale vægt er 2338 kg (5154 lbs), og med basisvægten på 1869 kg (4120 lbs), kan du maksimalt laste 469 kg (1034 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 

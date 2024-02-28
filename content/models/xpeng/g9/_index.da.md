@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="g9_rwd_standard_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="G9 RWD Standard Range" ></a>
-<i class="bi bi-battery-full"></i> 78,2 kWh <i class="bi bi-ev-station"></i> 250 kW 
+<i class="bi bi-battery-full"></i> 78.2 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

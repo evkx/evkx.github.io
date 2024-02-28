@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA Tavascan Endu
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6,8 s
+				6.8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				14,1 kWh/100km
+				14.1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				15,6 kWh/100km
+				15.6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -1066,7 +1066,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 5,3
+				Ja, 5.3
 			</td>
 		</tr>
 		<tr>

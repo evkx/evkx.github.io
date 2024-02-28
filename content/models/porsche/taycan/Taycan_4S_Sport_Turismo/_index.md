@@ -38,7 +38,7 @@ With the optional Performance Battery Plus battery, you get other performance nu
 Porsche Taycan 4S Sport Turismo has two battery options with different specifications. Below you see how this affects range and charging.
 ### Performance Battery
 
-The battery has a gross capacity of 79,2kWh and a net capacity of 71kWh, meaning you have a 8,2kWh buffer for protection. (10,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 79.2kWh and a net capacity of 71kWh, meaning you have a 8.2kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 441 to 358 km (274-223 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.1kWh/100km for the basic version and 19.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -47,7 +47,7 @@ The maximum DC charging speed is 225kW. A full charge from 0 - 100% would take 4
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 26 minutes. This trip will require three charge session(s) charging from 0% to 70%. The total time lost for charging up the battery will be 66 minutes.
 ### Performance Battery Plus
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 93.4kWh and a net capacity of 83.7kWh, meaning you have a 9.7kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 498 to 417 km (310-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.1kWh/100km for the basic version and 19.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -272,7 +272,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2875 kg (6338 lbs), and with the base weight of 2170 kg (4784 lbs), you can max load 705 kg (1554 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2875 kg (6338 lbs), and with the base weight of 2170 kg (4784 lbs), you can max load 705 kg (1554 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

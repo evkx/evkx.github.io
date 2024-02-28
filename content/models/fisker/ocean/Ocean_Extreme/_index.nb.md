@@ -33,7 +33,7 @@ Med overboost har Fisker Ocean Extreme en maksimal effekt på 415 KW (564hk). Ut
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 113kWh og en nettokapasitet på 106,5kWh, noe som betyr at du har et 6,5kWh-buffer for beskyttelse. (5,8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 113kWh og en nettokapasitet på 106.5kWh, noe som betyr at du har et 6.5kWh-buffer for beskyttelse. (5.8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 707 til 701 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.1kWh/100 km for basisversjonen og 15.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Rivian R1T Performance Dual-Motor AWD MP i seksj
 
 ## Ytelse
 
-Rivian R1T Performance Dual-Motor AWD MP har en maksimal effekt på 495 KW (673hk). Totalt dreiemoment er 1124 nm. Den utfører sprinten 0-100 km/t på 3,5 sekunder. Topphastigheten er 201 km/t.
+Rivian R1T Performance Dual-Motor AWD MP har en maksimal effekt på 495 KW (673hk). Totalt dreiemoment er 1124 nm. Den utfører sprinten 0-100 km/t på 3.5 sekunder. Topphastigheten er 201 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 149kWh og en nettokapasitet på 143kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (4,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 149kWh og en nettokapasitet på 143kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (4.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 410 miles (660 km). Forbruket er 2.9mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11,5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 12 timer og 26 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11.5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 12 timer og 26 minutter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2048" height="1280"  >}}
@@ -212,7 +212,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 26.11.2018, og leveringene startet i September 2021.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 11/26/2018, og leveringene startet i September 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

@@ -43,7 +43,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				424 km / 263 mi
 			</td>
 			<td>
-				17,45kWh/100km / 3,6 mi/kWh
+				17.45kWh/100km / 3.6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				424 km / 263 mi
 			</td>
 			<td>
-				17,45 kWh/100km / 3,6 mi/kWh
+				17.45 kWh/100km / 3.6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -90,7 +90,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				 340km / 211 mi 
 			</td>
 			<td>
-				-19,8%
+				-19.8%
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				340 km / 211 mi
 			</td>
 			<td>
-				-19,8%
+				-19.8%
 			</td>
 		</tr>
 	</tbody>
@@ -135,7 +135,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				400km / 249 mi
 			</td>
 			<td>
-				18,5 kWh/100km / 3,4 mi/kWh
+				18.5 kWh/100km / 3.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +146,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				367km /222mi
 			</td>
 			<td>
-				20,7 kWh/100km /3,0 mi/kWh 
+				20.7 kWh/100km /3.0 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -157,7 +157,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				290 km / 180 mi
 			</td>
 			<td>
-				25,5 kWh/100km / 2,4 mi/kWh
+				25.5 kWh/100km / 2.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -168,7 +168,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				272 km /169mi
 			</td>
 			<td>
-				27,2 kWh/100km /2,3 mi/kWh
+				27.2 kWh/100km /2.3 mi/kWh
 			</td>
 		</tr>
 	</tbody>

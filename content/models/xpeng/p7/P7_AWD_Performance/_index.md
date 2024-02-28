@@ -29,11 +29,11 @@ We have separated our XPENG P7 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG P7 AWD Performance has a maximum power of 405 KW (551 hp/543 bhp). The total torque is 717 nm (529 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 205 km/h.
+The XPENG P7 AWD Performance has a maximum power of 405 KW (551 hp/543 bhp). The total torque is 717 nm (529 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.9 seconds. The top speed is 205 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 86,2kWh and a net capacity of 82,7kWh, meaning you have a 3,5kWh buffer for protection. (4,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 86.2kWh and a net capacity of 82.7kWh, meaning you have a 3.5kWh buffer for protection. (4.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 505 km (314 mi). The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -199,7 +199,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 440 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 0 liters (0,0 CU FT). The maxium weight of the car is 2570 kg (5666 lbs), and with the base weight of 2055 kg (4530 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 440 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 0 liters (0.0 CU FT). The maxium weight of the car is 2570 kg (5666 lbs), and with the base weight of 2055 kg (4530 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

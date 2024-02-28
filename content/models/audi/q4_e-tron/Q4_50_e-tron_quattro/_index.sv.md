@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Audi Q4 50 e-tron quattro i avsnitt. Om du v
 
 ## Prestanda
 
-Med overboost har Audi Q4 50 e-tron quattro en maximal effekt på 220 KW (299hk). Utan overboost är det 195KW (265hp). Vridmomentet är 460 Nm med överboost och 425 utan överboost. Den gör sprinten 0-100 km/h på 6,2 sekunder med överboost och 6,9 sekunder utan överboost. Topphastigheten är 180 km/h.
+Med overboost har Audi Q4 50 e-tron quattro en maximal effekt på 220 KW (299hk). Utan overboost är det 195KW (265hp). Vridmomentet är 460 Nm med överboost och 425 utan överboost. Den gör sprinten 0-100 km/h på 6.2 sekunder med överboost och 6.9 sekunder utan överboost. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76,6kWh, vilket innebär att du har en 5,4kWh buffert för skydd. (6,6%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76.6kWh, vilket innebär att du har en 5.4kWh buffert för skydd. (6.6%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 491 till 409 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.6kWh/100 km för basversionen och 18.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -247,7 +247,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 14.04.2021 och leveranser startade i January 2022. Denna modell har nu utgått.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 4/14/2021 och leveranser startade i January 2022. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

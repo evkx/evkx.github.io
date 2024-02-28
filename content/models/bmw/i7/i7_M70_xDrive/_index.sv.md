@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av BMW i7 M70 xDrive i avsnitt. Om du vill vän
 
 ## Prestanda
 
-BMW i7 M70 xDrive har en maximal effekt på 485 KW (659hk). Totalt vridmoment är 1015 Nm. Den gör sprinten 0-100 km/h på 3,7 sekunder. Topphastigheten är 250 km/h.
+BMW i7 M70 xDrive har en maximal effekt på 485 KW (659hk). Totalt vridmoment är 1015 Nm. Den gör sprinten 0-100 km/h på 3.7 sekunder. Topphastigheten är 250 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 105,7kWh och en nettokapacitet på 101,7kWh, vilket innebär att du har en 4,0kWh buffert för skydd. (3,8%).
+Batteriet har en bruttokapacitet på 105.7kWh och en nettokapacitet på 101.7kWh, vilket innebär att du har en 4.0kWh buffert för skydd. (3.8%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 560 till 488 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.2kWh/100 km för basversionen och 20.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

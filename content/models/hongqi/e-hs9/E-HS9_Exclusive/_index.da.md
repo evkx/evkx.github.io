@@ -29,11 +29,11 @@ Vi har opdelt vores Hongqi E-HS9 Exclusive artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-Hongqi E-HS9 Exclusive har en maksimal effekt på 405 KW (551 hk/543 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,9 sekunder. Tophastigheden er 200 km/t.
+Hongqi E-HS9 Exclusive har en maksimal effekt på 405 KW (551 hk/543 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.9 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 99kWh og en nettokapacitet på 95,3kWh, hvilket betyder, at du har en 3,7kWh buffer til beskyttelse. (3,7%).
+Batteriet har en bruttokapacitet på 99kWh og en nettokapacitet på 95.3kWh, hvilket betyder, at du har en 3.7kWh buffer til beskyttelse. (3.7%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 465 km (289 mi). Forbruget er 20.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -214,7 +214,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 225 liter. Med sædet på tredje række nede er det 622 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3180 kg (7011 lbs), og med basisvægten på 2630 kg (5798 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 225 liter. Med sædet på tredje række nede er det 622 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3180 kg (7011 lbs), og med basisvægten på 2630 kg (5798 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

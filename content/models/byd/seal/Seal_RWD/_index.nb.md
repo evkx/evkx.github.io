@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BYD Seal RWD i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-BYD Seal RWD har en maksimal effekt på 230 KW (313hk). Totalt dreiemoment er 360 nm. Den utfører sprinten 0-100 km/t på 5,9 sekunder. Topphastigheten er 180 km/t.
+BYD Seal RWD har en maksimal effekt på 230 KW (313hk). Totalt dreiemoment er 360 nm. Den utfører sprinten 0-100 km/t på 5.9 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 85,4kWh og en nettokapasitet på 82,5kWh, noe som betyr at du har et 2,9kWh-buffer for beskyttelse. (3,4%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 85.4kWh og en nettokapasitet på 82.5kWh, noe som betyr at du har et 2.9kWh-buffer for beskyttelse. (3.4%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 520 km. Forbruket er 15.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

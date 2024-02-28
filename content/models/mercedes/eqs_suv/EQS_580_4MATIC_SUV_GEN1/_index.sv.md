@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQS 580 4MATIC SUV i avsnitt. Om
 
 ## Prestanda
 
-Mercedes-EQ EQS 580 4MATIC SUV har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4,6 sekunder. Topphastigheten är 210 km/h.
+Mercedes-EQ EQS 580 4MATIC SUV har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4.6 sekunder. Topphastigheten är 210 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 108,4kWh, vilket innebär att du har en 11,6kWh buffert för skydd. (9,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 108.4kWh, vilket innebär att du har en 11.6kWh buffert för skydd. (9.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 610 till 511 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.8kWh/100 km för basversionen och 21.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 82 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 142kW. Varje laddningssession tar 26 minuter och 41 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28,5kWh/100km, tar 1000km 9 timmar och 35 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 56%. Total tid som går förlorad för att ladda batteriet kommer att vara 76 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28.5kWh/100km, tar 1000km 9 timmar och 35 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 56%. Total tid som går förlorad för att ladda batteriet kommer att vara 76 minuter.
 
 ### Inbyggd laddare
 

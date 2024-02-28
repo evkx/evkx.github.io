@@ -29,14 +29,14 @@ We have separated our Nio EL6 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio EL6 has a maximum power of 480 KW (653 hp/644 bhp). The total torque is 850 nm (627 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 200 km/h.
+The Nio EL6 has a maximum power of 480 KW (653 hp/644 bhp). The total torque is 850 nm (627 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
 Nio EL6 has two battery options with different specifications. Below you see how this affects range and charging.
 ### 100kWh
 
-The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10,0%).
+The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning you have a 10kWh buffer for protection. (10.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 513 to 486 km (319-302 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.5kWh/100km for the basic version and 18.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -45,7 +45,7 @@ The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 7
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 10 hours and 34 minutes. This trip will require four charge session(s) charging from 1% to 54%. The total time lost for charging up the battery will be 134 minutes.
 ### 75kWh
 
-The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6,0%).
+The battery has a gross capacity of 75kWh and a net capacity of 70.5kWh, meaning you have a 4.5kWh buffer for protection. (6.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 394 to 372 km (245-231 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.5kWh/100km for the basic version and 18.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -228,7 +228,7 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 668 liters. With the rear seat down, it is 1430 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 2850 kg (6283 lbs), and with the base weight of 2366 kg (5216 lbs), you can max load 484 kg (1067 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 484kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 668 liters. With the rear seat down, it is 1430 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 2850 kg (6283 lbs), and with the base weight of 2366 kg (5216 lbs), you can max load 484 kg (1067 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 484kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 

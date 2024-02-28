@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BMW iX xDrive40 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW iX xDrive40 har en maksimal effekt på 240 KW (326hk). Totalt dreiemoment er 630 nm. Den utfører sprinten 0-100 km/t på 6,1 sekunder. Topphastigheten er 200 km/t.
+BMW iX xDrive40 har en maksimal effekt på 240 KW (326hk). Totalt dreiemoment er 630 nm. Den utfører sprinten 0-100 km/t på 6.1 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 76,6kWh og en nettokapasitet på 71kWh, noe som betyr at du har et 5,6kWh-buffer for beskyttelse. (7,3%).
+Batteriet har en bruttokapasitet på 76.6kWh og en nettokapasitet på 71kWh, noe som betyr at du har et 5.6kWh-buffer for beskyttelse. (7.3%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 425 til 372 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.7kWh/100 km for basisversjonen og 19.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

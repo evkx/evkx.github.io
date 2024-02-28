@@ -29,11 +29,11 @@ Vi har opdelt vores BMW iX1 eDrive20 artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-BMW iX1 eDrive20 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 250 nm (184 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Tophastigheden er 170 km/t.
+BMW iX1 eDrive20 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 250 nm (184 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.6 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 68kWh og en nettokapacitet på 64,7kWh, hvilket betyder, at du har en 3,3kWh buffer til beskyttelse. (4,9%).
+Batteriet har en bruttokapacitet på 68kWh og en nettokapacitet på 64.7kWh, hvilket betyder, at du har en 3.3kWh buffer til beskyttelse. (4.9%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 475 til 430 km (295-267 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.6kWh/100 km for basisversionen og 15.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -217,7 +217,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1495 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2580 kg (5688 lbs), og med basisvægten på 2010 kg (4431 lbs), kan du maksimalt laste 570 kg (1257 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1495 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2580 kg (5688 lbs), og med basisvægten på 2010 kg (4431 lbs), kan du maksimalt laste 570 kg (1257 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

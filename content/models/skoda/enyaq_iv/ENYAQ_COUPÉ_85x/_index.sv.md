@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av SKODA ENYAQ COUPÉ 85x i avsnitt. Om du vill
 
 ## Prestanda
 
-SKODA ENYAQ COUPÉ 85x har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 6,6 sekunder. Topphastigheten är 180 km/h.
+SKODA ENYAQ COUPÉ 85x har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 6.6 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.1%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 545 till 527 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.1kWh/100 km för basversionen och 14.6kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

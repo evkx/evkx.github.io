@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av MG Cyberster AWD Long Range i seksjoner. Hvis du
 
 ## Ytelse
 
-MG Cyberster AWD Long Range har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 725 nm. Den utfører sprinten 0-100 km/t på 3,2 sekunder. Topphastigheten er 200 km/t.
+MG Cyberster AWD Long Range har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 725 nm. Den utfører sprinten 0-100 km/t på 3.2 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77kWh og en nettokapasitet på 74,4kWh, noe som betyr at du har et 2,6kWh-buffer for beskyttelse. (3,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 77kWh og en nettokapasitet på 74.4kWh, noe som betyr at du har et 2.6kWh-buffer for beskyttelse. (3.4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 520 km ( miles). Forbruket er 14.3kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -175,7 +175,7 @@ Lastkapasiteten i bagasjerommet er 240 liter. Maksimumsvekten til bilen er 2250 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 13.07.2023, og leveringene startet i December 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 7/13/2023, og leveringene startet i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Cyberster </strong>
 </a>

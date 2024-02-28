@@ -29,11 +29,11 @@ Vi har opdelt vores Mercedes-EQ EQB 250 artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Mercedes-EQ EQB 250 har en maksimal effekt på 140 KW (190 hk/188 hk). Det samlede drejningsmoment er 385 nm (284 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,9 sekunder. Tophastigheden er 160 km/t.
+Mercedes-EQ EQB 250 har en maksimal effekt på 140 KW (190 hk/188 hk). Det samlede drejningsmoment er 385 nm (284 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.9 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69,7kWh og en nettokapacitet på 66,5kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (4,6%).
+Batteriet har en bruttokapacitet på 69.7kWh og en nettokapacitet på 66.5kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (4.6%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 474 til 423 km (295-263 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.0kWh/100 km for basisversionen og 15.7kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -227,7 +227,7 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 495 liter. Med bagsædet nede er det 1410 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2035 kg (4486 lbs), kan du maksimalt laste 485 kg (1069 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 485kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 495 liter. Med bagsædet nede er det 1410 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2035 kg (4486 lbs), kan du maksimalt laste 485 kg (1069 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 485kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

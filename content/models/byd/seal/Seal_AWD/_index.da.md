@@ -29,11 +29,11 @@ Vi har opdelt vores BYD Seal AWD artikel i sektioner. Hvis du vil vente med at l
 
 ## Ydeevne
 
-BYD Seal AWD har en maksimal effekt på 390 KW (530 hk/523 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Tophastigheden er 180 km/t.
+BYD Seal AWD har en maksimal effekt på 390 KW (530 hk/523 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.8 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 85,4kWh og en nettokapacitet på 82,5kWh, hvilket betyder, at du har en 2,9kWh buffer til beskyttelse. (3,4%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 85.4kWh og en nettokapacitet på 82.5kWh, hvilket betyder, at du har en 2.9kWh buffer til beskyttelse. (3.4%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 520 km (323 mi). Forbruget er 15.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -210,7 +210,7 @@ Med Smart Pilot  niveau 2-systemet får du følgende køreautomatiseringsfunktio
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 402 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 53 liter (1,9 CU FT). Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 475 kg (1047 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 402 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 53 liter (1.9 CU FT). Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 475 kg (1047 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

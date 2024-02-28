@@ -29,38 +29,38 @@ We have separated our Tesla Model Y Standard Range article into sections. If you
 
 ## Performance
 
-The Tesla Model Y Standard Range has a maximum power of 255 KW (347 hp/342 bhp). The total torque is 420 nm (310 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,9 seconds. The top speed is 217 km/h.
+The Tesla Model Y Standard Range has a maximum power of 255 KW (347 hp/342 bhp). The total torque is 420 nm (310 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.9 seconds. The top speed is 217 km/h.
 
 ## Battery, range, and charging
 
 Tesla Model Y Standard Range has three battery options with different specifications. Below you see how this affects range and charging.
 ### CATL LFP Europa/China market
 
-The battery has a gross capacity of 60kWh and a net capacity of 55kWh, meaning you have a 5kWh buffer for protection. (8,3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 60kWh and a net capacity of 55kWh, meaning you have a 5kWh buffer for protection. (8.3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 430 km (267 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 52 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 47%, resulting in an actual charge speed, including time loss, of 89kW. Each charge session would take 17 minutes and 30 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 55 minutes. This trip will require five charge session(s) charging from 0% to 51%. The total time lost for charging up the battery will be 95 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.5kWh/100km, 1000km will take 9 hours and 55 minutes. This trip will require five charge session(s) charging from 0% to 51%. The total time lost for charging up the battery will be 95 minutes.
 ### BYD LFP Europa/China market
 
-The battery has a gross capacity of 60kWh and a net capacity of 55kWh, meaning you have a 5kWh buffer for protection. (8,3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 60kWh and a net capacity of 55kWh, meaning you have a 5kWh buffer for protection. (8.3%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 430 km (267 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 37 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 63%, resulting in an actual charge speed, including time loss, of 113kW. Each charge session would take 18 minutes and 28 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 35 minutes. This trip will require four charge session(s) charging from 0% to 64%. The total time lost for charging up the battery will be 75 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.5kWh/100km, 1000km will take 9 hours and 35 minutes. This trip will require four charge session(s) charging from 0% to 64%. The total time lost for charging up the battery will be 75 minutes.
 ### NMC 4850 US Market
 
-The battery has a gross capacity of 70kWh and a net capacity of 68,5kWh, meaning you have a 1,5kWh buffer for protection. (2,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 70kWh and a net capacity of 68.5kWh, meaning you have a 1.5kWh buffer for protection. (2.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 430 km (267 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 84 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 36%, resulting in an actual charge speed, including time loss, of 82kW. Each charge session would take 18 minutes and 60 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,5kWh/100km, 1000km will take 9 hours and 52 minutes. This trip will require five charge session(s) charging from 0% to 37%. The total time lost for charging up the battery will be 93 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.5kWh/100km, 1000km will take 9 hours and 52 minutes. This trip will require five charge session(s) charging from 0% to 37%. The total time lost for charging up the battery will be 93 minutes.
 
 ### Onboard charger
 
@@ -250,12 +250,12 @@ It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to re
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2720 kg (5997 lbs), and with the base weight of 2135 kg (4707 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2720 kg (5997 lbs), and with the base weight of 2135 kg (4707 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 19.03.2019, and deliveries started in March 2020.<div class="mt-3 mb-3">
+This model had a world premiere on 3/19/2019, and deliveries started in March 2020.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

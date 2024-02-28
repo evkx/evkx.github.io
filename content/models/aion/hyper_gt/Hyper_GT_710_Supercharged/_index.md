@@ -29,11 +29,11 @@ We have separated our Aion Hyper GT 710 Supercharged article into sections. If y
 
 ## Performance
 
-The Aion Hyper GT 710 Supercharged has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,9 seconds. The top speed is 257 km/h.
+The Aion Hyper GT 710 Supercharged has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 430 nm (317 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.9 seconds. The top speed is 257 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 80,1kWh and a net capacity of 77kWh, meaning you have a 3,1kWh buffer for protection. (3,9%).
+The battery has a gross capacity of 80.1kWh and a net capacity of 77kWh, meaning you have a 3.1kWh buffer for protection. (3.9%).
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 710 km ( miles). The consumption is 10.8kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -195,12 +195,12 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1100 liters. Under the hood, there is frunk with more storage room. This frunk is 60 liters (2,1 CU FT).
+The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1100 liters. Under the hood, there is frunk with more storage room. This frunk is 60 liters (2.1 CU FT).
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 31.12.2022, and deliveries started in October 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 12/31/2022, and deliveries started in October 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Aion Hyper GT </strong>
 </a>

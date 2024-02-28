@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BYD Atto 3 i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-BYD Atto 3 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 160 km/t.
+BYD Atto 3 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7.3 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60,5kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 2,5kWh-buffer for beskyttelse. (4,1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 60.5kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 2.5kWh-buffer for beskyttelse. (4.1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 420 km. Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

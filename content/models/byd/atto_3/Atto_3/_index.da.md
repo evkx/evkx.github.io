@@ -29,11 +29,11 @@ Vi har opdelt vores BYD Atto 3 artikel i sektioner. Hvis du vil vente med at læ
 
 ## Ydeevne
 
-BYD Atto 3 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 160 km/t.
+BYD Atto 3 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.3 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 60,5kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 2,5kWh buffer til beskyttelse. (4,1%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 60.5kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 2.5kWh buffer til beskyttelse. (4.1%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 420 km (261 mi). Forbruget er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -215,7 +215,7 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1338 liter. På taget kan du laste op til 50 kg (110,2 lbs). Bilens maksimale vægt er 2160 kg (4762 lbs), og med basisvægten på 1750 kg (3858 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1338 liter. På taget kan du laste op til 50 kg (110.2 lbs). Bilens maksimale vægt er 2160 kg (4762 lbs), og med basisvægten på 1750 kg (3858 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

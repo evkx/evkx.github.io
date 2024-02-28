@@ -71,7 +71,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan 4. Cli
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,2 s
+				5.2 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				15,8 kWh/100km
+				15.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				17,9 kWh/100km
+				17.9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				18,8 kWh/100km
+				18.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				21,1 kwh/100km
+				21.1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -174,7 +174,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				96,8 kWh
+				96.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4784 mm (188,3")
+				4784 mm (188.3")
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1622 mm (63,9")
+				1622 mm (63.9")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1938 mm (76,3")
+				1938 mm (76.3")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2152 mm (84,7")
+				2152 mm (84.7")
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2893 mm (113,9")
+				2893 mm (113.9")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,25
+				0.25
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11,1 meter (437,0")
+				11.1 meter (437.0")
 			</td>
 		</tr>
 	</tbody>
@@ -574,7 +574,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm (7.2")
 			</td>
 		</tr>
 		<tr>
@@ -582,7 +582,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm (7.2")
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +695,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				224 mm (8,8")
+				224 mm (8.8")
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				185 mm (7,3")
+				185 mm (7.3")
 			</td>
 		</tr>
 		<tr>
@@ -1669,7 +1669,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12,6
+				Yes, 12.6
 			</td>
 		</tr>
 		<tr>
@@ -1677,7 +1677,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10,9"
+				Yes, 10.9"
 			</td>
 		</tr>
 		<tr>
@@ -1685,7 +1685,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10,9"
+				Yes, 10.9"
 			</td>
 		</tr>
 		<tr>

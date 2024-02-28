@@ -33,7 +33,7 @@ Ford Mustang Mach-E Long Range RWD har en maximal effekt på 216 KW (294hk). Tot
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 98,8kWh och en nettokapacitet på 92kWh, vilket innebär att du har en 6,8kWh buffert för skydd. (6,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 98.8kWh och en nettokapacitet på 92kWh, vilket innebär att du har en 6.8kWh buffert för skydd. (6.9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 600 km. Förbrukningen är 15.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

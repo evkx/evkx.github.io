@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Ford F150 Lightning Ex
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,2 s
+				4.2 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim EPA-förbrukning
 			</td>
 			<td>
-				2,4 mi/kWh
+				2.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Top Trim EPA Consumption
 			</td>
 			<td>
-				2,3 mi/kWh
+				2.3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				14,5 meter
+				14.5 meter
 			</td>
 		</tr>
 	</tbody>

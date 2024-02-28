@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Honda Prologue FWD i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Honda Prologue FWD har en maksimal effekt på 158 KW (215hk). Totalt dreiemoment er 320 nm. Den utfører sprinten 0-100 km/t på 7,5 sekunder.
+Honda Prologue FWD har en maksimal effekt på 158 KW (215hk). Totalt dreiemoment er 320 nm. Den utfører sprinten 0-100 km/t på 7.5 sekunder.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 85kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,5%).
+Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 85kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4.5%).
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 296 miles (476 km). Forbruket er 3.5mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11,5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 23 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11.5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 23 minutter.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}

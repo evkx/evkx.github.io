@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Kia EV9 GT-Line AWD i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Kia EV9 GT-Line AWD har en maximal effekt på 283 KW (385hk). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 5,3 sekunder. Topphastigheten är 200 km/h.
+Kia EV9 GT-Line AWD har en maximal effekt på 283 KW (385hk). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 5.3 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 99,8kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 1,8kWh buffert för skydd. (1,8%).
+Batteriet har en bruttokapacitet på 99.8kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 1.8kWh buffert för skydd. (1.8%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 512 till 505 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19.1kWh/100 km för basversionen och 19.4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

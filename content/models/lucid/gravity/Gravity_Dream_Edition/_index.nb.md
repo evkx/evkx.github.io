@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Lucid Gravity Dream Edition i seksjoner. Hvis du
 
 ## Ytelse
 
-Lucid Gravity Dream Edition har en maksimal effekt på 600 KW (816hk). Totalt dreiemoment er 1000 nm. Den utfører sprinten 0-100 km/t på 3,5 sekunder. Topphastigheten er 250 km/t.
+Lucid Gravity Dream Edition har en maksimal effekt på 600 KW (816hk). Totalt dreiemoment er 1000 nm. Den utfører sprinten 0-100 km/t på 3.5 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 124kWh og en nettokapasitet på 122kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (1,6%).
+Batteriet har en bruttokapasitet på 124kWh og en nettokapasitet på 122kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (1.6%).
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -227,7 +227,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 16.11.2023, og leveringene forventes å starte om December 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 11/16/2023, og leveringene forventes å starte om December 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lucid Gravity </strong>
 </a>

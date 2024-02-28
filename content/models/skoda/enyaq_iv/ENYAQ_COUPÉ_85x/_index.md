@@ -29,11 +29,11 @@ We have separated our SKODA ENYAQ COUPÉ 85x article into sections. If you want 
 
 ## Performance
 
-The SKODA ENYAQ COUPÉ 85x has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 679 nm (501 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6,6 seconds. The top speed is 180 km/h.
+The SKODA ENYAQ COUPÉ 85x has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 679 nm (501 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.6 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 545 to 527 km (339-328 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.1kWh/100km for the basic version and 14.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -209,7 +209,7 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1610 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1610 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 

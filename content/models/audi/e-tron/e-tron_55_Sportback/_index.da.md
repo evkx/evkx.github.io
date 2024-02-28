@@ -35,11 +35,11 @@ Denne model er blevet erstattet af [Audi Q8 Sportback 55 e-tron](/models/audi/q8
 
 ## Ydeevne
 
-Med overboost har Audi e-tron 55 Sportback en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder med overboost og 6,6 sekunder uden overboost. Tophastigheden er 200 km/t.
+Med overboost har Audi e-tron 55 Sportback en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5.7 sekunder med overboost og 6.6 sekunder uden overboost. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 95kWh og en nettokapacitet på 86kWh, hvilket betyder, at du har en 9kWh buffer til beskyttelse. (9,5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 95kWh og en nettokapacitet på 86kWh, hvilket betyder, at du har en 9kWh buffer til beskyttelse. (9.5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 452 til 373 km (281-232 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19.0kWh/100 km for basisversionen og 23.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -305,7 +305,7 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 
@@ -314,7 +314,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 19.11.2019, og leveringerne startede i May 2020. Denne model er nu udgået. Denne model er blevet erstattet af [Audi Q8 Sportback 55 e-tron](/models/audi/q8_e-tron/q8_sportback_55_e-tron).<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 11/19/2019, og leveringerne startede i May 2020. Denne model er nu udgået. Denne model er blevet erstattet af [Audi Q8 Sportback 55 e-tron](/models/audi/q8_e-tron/q8_sportback_55_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

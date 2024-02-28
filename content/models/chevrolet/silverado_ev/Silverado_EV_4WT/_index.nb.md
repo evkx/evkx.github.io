@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Chevrolet Silverado EV 4WT i seksjoner. Hvis du 
 
 ## Ytelse
 
-Chevrolet Silverado EV 4WT har en maksimal effekt på 380 KW (517hk). Totalt dreiemoment er 834 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 170 km/t.
+Chevrolet Silverado EV 4WT har en maksimal effekt på 380 KW (517hk). Totalt dreiemoment er 834 nm. Den utfører sprinten 0-100 km/t på 4.5 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 220kWh og en nettokapasitet på 213kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (3,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 220kWh og en nettokapasitet på 213kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (3.2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruket er 2.1mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -199,7 +199,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 05.01.2022, og leveringene startet i September 2023. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 1/5/2022, og leveringene startet i September 2023. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

@@ -35,17 +35,17 @@ Denna modell har ersatts av [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-t
 
 ## Prestanda
 
-Med overboost har Audi e-tron 55 en maximal effekt på 300 KW (408hk). Utan overboost är det 265KW (360hp). Vridmomentet är 664 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 5,7 sekunder med överboost och 6,6 sekunder utan överboost. Topphastigheten är 200 km/h.
+Med overboost har Audi e-tron 55 en maximal effekt på 300 KW (408hk). Utan overboost är det 265KW (360hp). Vridmomentet är 664 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 5.7 sekunder med överboost och 6.6 sekunder utan överboost. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 95kWh och en nettokapacitet på 86kWh, vilket innebär att du har en 9kWh buffert för skydd. (9,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 95kWh och en nettokapacitet på 86kWh, vilket innebär att du har en 9kWh buffert för skydd. (9.5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 441 till 369 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19.5kWh/100 km för basversionen och 23.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 44 minuter, medan ett vanligare scenario på 10-80 % tar 26 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 81%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 118kW. Varje laddningssession tar 34 minuter och 14 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 27,5kWh/100km, tar 1000km 9 timmar och 57 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 6% till 80%. Total tid som går förlorad för att ladda batteriet kommer att vara 98 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 27.5kWh/100km, tar 1000km 9 timmar och 57 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 6% till 80%. Total tid som går förlorad för att ladda batteriet kommer att vara 98 minuter.
 
 ### Inbyggd laddare
 
@@ -310,7 +310,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 17.10.2018 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron).<div class="mt-3 mb-3">
+Denna modell hade världspremiär 10/17/2018 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

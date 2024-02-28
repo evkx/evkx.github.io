@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Zeekr 001 Privilege AWD i avsnitt. Om du vil
 
 ## Prestanda
 
-Zeekr 001 Privilege AWD har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder. Topphastigheten är 200 km/h.
+Zeekr 001 Privilege AWD har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 3.8 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 580 km. Förbrukningen är 16.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -206,7 +206,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 14.04.2021 och leveranserna startade i October 2021.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 4/14/2021 och leveranserna startade i October 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 001 </strong>
 </a>

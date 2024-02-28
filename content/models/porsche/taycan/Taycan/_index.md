@@ -31,14 +31,14 @@ We have separated our Porsche Taycan article into sections. If you want to wait 
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 410 KW (557 hp / 550 bhp). Without overboost, it is 340 KW (462 hp / 462 bhp). The torque is 357 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4,8 seconds. The top speed is 230 km/h. With overboost, the Porsche Taycan has a maximum power of 360 KW (490 hp / 483 bhp). Without overboost, it is 280 KW (381 hp / 381 bhp). The torque is 345 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4,8 seconds. The top speed is 230 km/h.
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 410 KW (557 hp / 550 bhp). Without overboost, it is 340 KW (462 hp / 462 bhp). The torque is 357 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.8 seconds. The top speed is 230 km/h. With overboost, the Porsche Taycan has a maximum power of 360 KW (490 hp / 483 bhp). Without overboost, it is 280 KW (381 hp / 381 bhp). The torque is 345 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.8 seconds. The top speed is 230 km/h.
 
 ## Battery, range, and charging
 
 Porsche Taycan has two battery options with different specifications. Below you see how this affects range and charging.
 ### Performance Battery Plus
 
-The battery has a gross capacity of 105kWh and a net capacity of 97kWh, meaning you have a 8kWh buffer for protection. (7,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 105kWh and a net capacity of 97kWh, meaning you have a 8kWh buffer for protection. (7.6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 678 to 503 km (421-313 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.3kWh/100km for the basic version and 19.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -47,7 +47,7 @@ The maximum DC charging speed is 320kW. A full charge from 0 - 100% would take 4
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 8 hours and 52 minutes. This trip will require two charge session(s) charging from 5% to 64%. The total time lost for charging up the battery will be 33 minutes.
 ### Performance Battery
 
-The battery has a gross capacity of 89kWh and a net capacity of 83,6kWh, meaning you have a 5,4kWh buffer for protection. (6,1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 89kWh and a net capacity of 83.6kWh, meaning you have a 5.4kWh buffer for protection. (6.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 484 to 407 km (301-253 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.3kWh/100km for the basic version and 19.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -272,7 +272,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 407 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2795 kg (6162 lbs), and with the base weight of 2075 kg (4575 lbs), you can max load 720 kg (1587 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 407 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2795 kg (6162 lbs), and with the base weight of 2075 kg (4575 lbs), you can max load 720 kg (1587 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

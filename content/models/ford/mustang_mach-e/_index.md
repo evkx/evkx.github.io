@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="mustang_mach-e_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="223px" alt="Mustang Mach-E Long Range AWD" ></a>
-<i class="bi bi-battery-full"></i> 98,8 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-battery-full"></i> 98.8 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="mustang_mach-e_long_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="223px" alt="Mustang Mach-E Long Range RWD" ></a>
-<i class="bi bi-battery-full"></i> 98,8 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-battery-full"></i> 98.8 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="mustang_mach-e_gt/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_gt/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Mustang Mach-E GT" ></a>
-<i class="bi bi-battery-full"></i> 98,8 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-battery-full"></i> 98.8 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="mustang_mach-e_standard_range_awd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="223px" alt="Mustang Mach-E Standard Range AWD" ></a>
-<i class="bi bi-battery-full"></i> 75,7 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-battery-full"></i> 75.7 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -87,7 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="mustang_mach-e_standard_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="223px" alt="Mustang Mach-E Standard Range RWD" ></a>
-<i class="bi bi-battery-full"></i> 75,7 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-battery-full"></i> 75.7 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

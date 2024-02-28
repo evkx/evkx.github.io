@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Audi Q8 Sportback 55 e-tron i seksjoner. Hvis du
 
 ## Ytelse
 
-Med overboost har Audi Q8 Sportback 55 e-tron en maksimal effekt på 300 KW (408hk). Uten overboost er den 265KW (360hk). Dreiemomentet er 664 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 5,6 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
+Med overboost har Audi Q8 Sportback 55 e-tron en maksimal effekt på 300 KW (408hk). Uten overboost er den 265KW (360hk). Dreiemomentet er 664 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 5.6 sekunder med overboost og 6.6 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 114kWh og en nettokapasitet på 104kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (8,8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 114kWh og en nettokapasitet på 104kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (8.8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 600 til 495 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17.3kWh/100 km for basisversjonen og 21.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -288,7 +288,7 @@ Lastkapasiteten i bagasjerommet er 660 liter. Med baksetet nede er det 1725 lite
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 09.11.2022, og leveringene startet i March 2023. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 11/9/2022, og leveringene startet i March 2023. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

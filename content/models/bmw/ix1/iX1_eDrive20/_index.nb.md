@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BMW iX1 eDrive20 i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-BMW iX1 eDrive20 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 250 nm. Den utfører sprinten 0-100 km/t på 8,6 sekunder. Topphastigheten er 170 km/t.
+BMW iX1 eDrive20 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 250 nm. Den utfører sprinten 0-100 km/t på 8.6 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64,7kWh, noe som betyr at du har et 3,3kWh-buffer for beskyttelse. (4,9%).
+Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64.7kWh, noe som betyr at du har et 3.3kWh-buffer for beskyttelse. (4.9%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 475 til 430 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.6kWh/100 km for basisversjonen og 15.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

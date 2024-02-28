@@ -29,21 +29,21 @@ Vi har delat in vår beskrivning av Renault Megane E-Tech Techno i avsnitt. Om d
 
 ## Prestanda
 
-Renault Megane E-Tech Techno har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 8,4 sekunder. Topphastigheten är 170 km/h.
+Renault Megane E-Tech Techno har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 8.4 sekunder. Topphastigheten är 170 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 65kWh och en nettokapacitet på 60kWh, vilket innebär att du har en 5kWh buffert för skydd. (7,7%).
+Batteriet har en bruttokapacitet på 65kWh och en nettokapacitet på 60kWh, vilket innebär att du har en 5kWh buffert för skydd. (7.7%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 450 till 429 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.3kWh/100 km för basversionen och 14.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 130 kW. En full laddning från 0 - 100 % tar 73 minuter, medan ett vanligare scenario på 10-80 % tar 37 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 73kW. Varje laddningssession tar 21 minuter och 49 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19,9kWh/100km, tar 1000km 10 timmar och 16 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 1% till 40%. Total tid som går förlorad för att ladda batteriet kommer att vara 116 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19.9kWh/100km, tar 1000km 10 timmar och 16 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 1% till 40%. Total tid som går förlorad för att ladda batteriet kommer att vara 116 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 20 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7.2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 20 minuter.
 
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/charging_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2134"  >}}

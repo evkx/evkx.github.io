@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av MG MG5 Electric Standard Range i avsnitt. Om
 
 ## Prestanda
 
-MG MG5 Electric Standard Range har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 280 Nm. Den gör sprinten 0-100 km/h på 8,3 sekunder. Topphastigheten är 185 km/h.
+MG MG5 Electric Standard Range har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 280 Nm. Den gör sprinten 0-100 km/h på 8.3 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 50,3kWh och en nettokapacitet på 46kWh, vilket innebär att du har en 4,3kWh buffert för skydd. (8,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 50.3kWh och en nettokapacitet på 46kWh, vilket innebär att du har en 4.3kWh buffert för skydd. (8.5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 320 till 310 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.4kWh/100 km för basversionen och 14.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

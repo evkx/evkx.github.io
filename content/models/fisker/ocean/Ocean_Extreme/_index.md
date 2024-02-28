@@ -33,7 +33,7 @@ With overboost, the Fisker Ocean Extreme has a maximum power of 415 KW (564 hp /
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 113kWh and a net capacity of 106,5kWh, meaning you have a 6,5kWh buffer for protection. (5,8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 113kWh and a net capacity of 106.5kWh, meaning you have a 6.5kWh buffer for protection. (5.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 707 to 701 km (439-436 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.1kWh/100km for the basic version and 15.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -214,7 +214,7 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 476 liters. With the rear seat down, it is 918 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2974 kg (6557 lbs), and with the base weight of 2433 kg (5364 lbs), you can max load 541 kg (1193 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 476 liters. With the rear seat down, it is 918 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2974 kg (6557 lbs), and with the base weight of 2433 kg (5364 lbs), you can max load 541 kg (1193 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1820, and on unbraked, it is 750 kg (4012/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

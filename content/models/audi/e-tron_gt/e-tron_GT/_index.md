@@ -29,11 +29,11 @@ We have separated our Audi e-tron GT article into sections. If you want to wait 
 
 ## Performance
 
-With overboost, the Audi e-tron GT has a maximum power of 390 KW (530 hp / 523 bhp). Without overboost, it is 350 KW (476 hp / 476 bhp). The torque is 640 nm with overboost and 630 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4,1 seconds with overboost and 4,5 seconds without overboost. The top speed is 245 km/h.
+With overboost, the Audi e-tron GT has a maximum power of 390 KW (530 hp / 523 bhp). Without overboost, it is 350 KW (476 hp / 476 bhp). The torque is 640 nm with overboost and 630 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.1 seconds with overboost and 4.5 seconds without overboost. The top speed is 245 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10,4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 93.4kWh and a net capacity of 83.7kWh, meaning you have a 9.7kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 488 to 448 km (303-278 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 17.2kWh/100km for the basic version and 18.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -241,7 +241,7 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 85 liters (3,0 CU FT). The maxium weight of the car is 2860 kg (6305 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 85 liters (3.0 CU FT). The maxium weight of the car is 2860 kg (6305 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
@@ -250,7 +250,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ### Availability & Pricing
 
-This model had a world premiere on 09.02.2021, and deliveries started in May 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 2/9/2021, and deliveries started in May 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

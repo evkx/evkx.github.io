@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BMW i5 xDrive40 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW i5 xDrive40 har en maksimal effekt på 290 KW (394hk). Totalt dreiemoment er 590 nm. Den utfører sprinten 0-100 km/t på 5,4 sekunder. Topphastigheten er 230 km/t.
+BMW i5 xDrive40 har en maksimal effekt på 290 KW (394hk). Totalt dreiemoment er 590 nm. Den utfører sprinten 0-100 km/t på 5.4 sekunder. Topphastigheten er 230 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 84,4kWh og en nettokapasitet på 81,2kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (3,8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 84.4kWh og en nettokapasitet på 81.2kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (3.8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 538 til 463 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.1kWh/100 km for basisversjonen og 17.5kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

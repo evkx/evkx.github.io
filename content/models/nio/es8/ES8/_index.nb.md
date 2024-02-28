@@ -29,14 +29,14 @@ Vi har delt vår beskrivelse av Nio ES8 i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-Nio ES8 har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 725 nm. Den utfører sprinten 0-100 km/t på 4,9 sekunder. Topphastigheten er 200 km/t.
+Nio ES8 har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 725 nm. Den utfører sprinten 0-100 km/t på 4.9 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Nio ES8 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
 ### 100kWh
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (10,0%).
+Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (10.0%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 460 km. Forbruket er 19.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -45,7 +45,7 @@ Maksimal DC-ladehastighet er 126 kW. En full lading fra 0 - 100 % vil ta 83 minu
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 30kWh/100km, vil 1000km ta 11 timer og 1 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 8% til 67%. Totalt tapt tid for å lade opp batteriet vil være 162 minutter.
 ### 75kWh
 
-Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70,5kWh, noe som betyr at du har et 4,5kWh-buffer for beskyttelse. (6,0%).
+Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70.5kWh, noe som betyr at du har et 4.5kWh-buffer for beskyttelse. (6.0%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 350 km. Forbruket er 19.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

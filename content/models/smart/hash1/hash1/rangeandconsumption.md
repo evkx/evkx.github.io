@@ -43,7 +43,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				440 km / 273 mi
 			</td>
 			<td>
-				14,09kWh/100km / 4,4 mi/kWh
+				14.09kWh/100km / 4.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				420 km / 261 mi
 			</td>
 			<td>
-				14,76 kWh/100km / 4,2 mi/kWh
+				14.76 kWh/100km / 4.2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				426 km / 265 mi
 			</td>
 			<td>
-				14,6 kWh/100km / 4,3 mi/kWh
+				14.6 kWh/100km / 4.3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -82,7 +82,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				426 km / 265 mi
 			</td>
 			<td>
-				14,6 kWh/100km / 4,3 mi/kWh
+				14.6 kWh/100km / 4.3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -116,7 +116,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				 337km / 209 mi 
 			</td>
 			<td>
-				-23,4%
+				-23.4%
 			</td>
 		</tr>
 		<tr>
@@ -127,7 +127,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				325 km / 202 mi
 			</td>
 			<td>
-				-22,6%
+				-22.6%
 			</td>
 		</tr>
 		<tr>
@@ -138,7 +138,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				329 km / 204 mi
 			</td>
 			<td>
-				-22,8%
+				-22.8%
 			</td>
 		</tr>
 		<tr>
@@ -149,7 +149,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				329 km / 204 mi
 			</td>
 			<td>
-				-22,8%
+				-22.8%
 			</td>
 		</tr>
 	</tbody>
@@ -183,7 +183,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				238 km / 148 mi
 			</td>
 			<td>
-				26 kWh/100km / 2,4 mi/kWh
+				26 kWh/100km / 2.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -194,7 +194,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				224 km /139mi
 			</td>
 			<td>
-				27,7 kWh/100km /2,2 mi/kWh
+				27.7 kWh/100km /2.2 mi/kWh
 			</td>
 		</tr>
 	</tbody>

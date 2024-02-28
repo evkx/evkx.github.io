@@ -29,11 +29,11 @@ We have separated our Volvo EX90 Twin Motor article into sections. If you want t
 
 ## Performance
 
-The Volvo EX90 Twin Motor has a maximum power of 300 KW (408 hp/402 bhp). The total torque is 770 nm (568 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,9 seconds. The top speed is 180 km/h.
+The Volvo EX90 Twin Motor has a maximum power of 300 KW (408 hp/402 bhp). The total torque is 770 nm (568 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.9 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 111kWh and a net capacity of 107kWh, meaning you have a 4kWh buffer for protection. (3,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 111kWh and a net capacity of 107kWh, meaning you have a 4kWh buffer for protection. (3.6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 580 km (361 mi). The consumption is 18.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -208,7 +208,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 311 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 37 liters (1,3 CU FT). The maxium weight of the car is 3380 kg (7452 lbs), and with the base weight of 2748 kg (6058 lbs), you can max load 632 kg (1393 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 311 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 37 liters (1.3 CU FT). The maxium weight of the car is 3380 kg (7452 lbs), and with the base weight of 2748 kg (6058 lbs), you can max load 632 kg (1393 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, it is 750 kg (4850/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

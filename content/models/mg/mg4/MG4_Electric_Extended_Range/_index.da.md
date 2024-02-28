@@ -29,11 +29,11 @@ Vi har opdelt vores MG MG4 Electric Extended Range artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-MG MG4 Electric Extended Range har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 250 nm (184 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Tophastigheden er 160 km/t.
+MG MG4 Electric Extended Range har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 250 nm (184 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.9 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77kWh og en nettokapacitet på 74,4kWh, hvilket betyder, at du har en 2,6kWh buffer til beskyttelse. (3,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 77kWh og en nettokapacitet på 74.4kWh, hvilket betyder, at du har en 2.6kWh buffer til beskyttelse. (3.4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 520 km (323 mi). Forbruget er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 

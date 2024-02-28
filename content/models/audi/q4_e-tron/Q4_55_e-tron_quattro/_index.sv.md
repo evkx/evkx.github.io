@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Audi Q4 55 e-tron quattro i avsnitt. Om du v
 
 ## Prestanda
 
-Audi Q4 55 e-tron quattro har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 5,4 sekunder. Topphastigheten är 180 km/h.
+Audi Q4 55 e-tron quattro har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 5.4 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76,6kWh, vilket innebär att du har en 5,4kWh buffert för skydd. (6,6%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76.6kWh, vilket innebär att du har en 5.4kWh buffert för skydd. (6.6%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 523 till 450 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.6kWh/100 km för basversionen och 17.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -247,7 +247,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 21.09.2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 9/21/2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

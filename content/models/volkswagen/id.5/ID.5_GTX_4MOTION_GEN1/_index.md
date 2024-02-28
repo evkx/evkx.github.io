@@ -35,11 +35,11 @@ This model has been replaced by [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen
 
 ## Performance
 
-With overboost, the Volkswagen ID.5 GTX 4MOTION (GEN1) has a maximum power of 220 KW (299 hp / 295 bhp). Without overboost, it is 195 KW (265 hp / 265 bhp). The torque is 460 nm with overboost and 425 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6,3 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h.
+With overboost, the Volkswagen ID.5 GTX 4MOTION (GEN1) has a maximum power of 220 KW (299 hp / 295 bhp). Without overboost, it is 195 KW (265 hp / 265 bhp). The torque is 460 nm with overboost and 425 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6.3 seconds with overboost and 6.9 seconds without overboost. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 496 to 409 km (308-254 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.5kWh/100km for the basic version and 18.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -235,7 +235,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 549 liters. With the rear seat down, it is 1561 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2167 kg (4777 lbs), you can max load 583 kg (1285 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 549 liters. With the rear seat down, it is 1561 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2167 kg (4777 lbs), you can max load 583 kg (1285 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 

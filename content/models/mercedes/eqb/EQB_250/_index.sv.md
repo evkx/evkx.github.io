@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQB 250 i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Mercedes-EQ EQB 250 har en maximal effekt på 140 KW (190hk). Totalt vridmoment är 385 Nm. Den gör sprinten 0-100 km/h på 8,9 sekunder. Topphastigheten är 160 km/h.
+Mercedes-EQ EQB 250 har en maximal effekt på 140 KW (190hk). Totalt vridmoment är 385 Nm. Den gör sprinten 0-100 km/h på 8.9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 69,7kWh och en nettokapacitet på 66,5kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (4,6%).
+Batteriet har en bruttokapacitet på 69.7kWh och en nettokapacitet på 66.5kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (4.6%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 474 till 423 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.0kWh/100 km för basversionen och 15.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

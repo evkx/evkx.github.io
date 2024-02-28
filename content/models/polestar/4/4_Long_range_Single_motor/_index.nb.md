@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Polestar 4 Long range Single motor i seksjoner. 
 
 ## Ytelse
 
-Polestar 4 Long range Single motor har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 7,4 sekunder. Topphastigheten er 180 km/t.
+Polestar 4 Long range Single motor har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 7.4 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 94kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (6,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 94kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (6.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 610 km. Forbruket er 15.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

@@ -10,7 +10,7 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mustang Mach E Standard Range AWD 70-MPH Range Test</h3>
-<p>InsideEVs: 15.07.2021</p>
+<p>InsideEVs: 15/07/2021</p>
 
 {{< youtube v1VGe1KmF18 >}}
 

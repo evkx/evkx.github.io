@@ -33,7 +33,7 @@ Seres 5 4WD Premium har en maksimal effekt på 430 KW (585 hk/577 hk). Det samle
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 80kWh og en nettokapacitet på 78kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2,5%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 80kWh og en nettokapacitet på 78kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2.5%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 483 km (300 mi). Forbruget er 16.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -200,7 +200,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 367 liter. Med bagsædet nede er det 723 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 67 liter (2,4 CU FT). Bilens maksimale vægt er 2735 kg (6030 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 375 kg (827 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 375kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 367 liter. Med bagsædet nede er det 723 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 67 liter (2.4 CU FT). Bilens maksimale vægt er 2735 kg (6030 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 375 kg (827 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 375kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

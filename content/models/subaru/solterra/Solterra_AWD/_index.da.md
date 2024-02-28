@@ -29,11 +29,11 @@ Vi har opdelt vores Subaru Solterra AWD artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Subaru Solterra AWD har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 337 nm (249 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,9 sekunder. Tophastigheden er 160 km/t.
+Subaru Solterra AWD har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 337 nm (249 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.9 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 71,4kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 13,4kWh buffer til beskyttelse. (18,8%).
+Batteriet har en bruttokapacitet på 71.4kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 13.4kWh buffer til beskyttelse. (18.8%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 466 til 416 km (290-259 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.4kWh/100 km for basisversionen og 13.9kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 6,6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 6.6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter.
 
 ### Ladeport
 
@@ -193,7 +193,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 441 liter. Med bagsædet nede er det 784 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2550 kg (5622 lbs), og med basisvægten på 2010 kg (4431 lbs), kan du maksimalt laste 540 kg (1190 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 441 liter. Med bagsædet nede er det 784 liter. På taget kan du laste op til 80 kg (176.4 lbs). Bilens maksimale vægt er 2550 kg (5622 lbs), og med basisvægten på 2010 kg (4431 lbs), kan du maksimalt laste 540 kg (1190 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BMW iX M60 i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-BMW iX M60 har en maksimal effekt på 455 KW (619hk). Totalt dreiemoment er 765 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 250 km/t.
+BMW iX M60 har en maksimal effekt på 455 KW (619hk). Totalt dreiemoment er 765 nm. Den utfører sprinten 0-100 km/t på 3.8 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 111kWh og en nettokapasitet på 105,2kWh, noe som betyr at du har et 5,8kWh-buffer for beskyttelse. (5,2%).
+Batteriet har en bruttokapasitet på 111kWh og en nettokapasitet på 105.2kWh, noe som betyr at du har et 5.8kWh-buffer for beskyttelse. (5.2%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 561 til 502 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.8kWh/100 km for basisversjonen og 21.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

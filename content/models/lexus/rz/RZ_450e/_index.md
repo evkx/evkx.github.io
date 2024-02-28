@@ -29,11 +29,11 @@ We have separated our Lexus RZ 450e article into sections. If you want to wait t
 
 ## Performance
 
-The Lexus RZ 450e has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 435 nm (321 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,3 seconds. The top speed is 160 km/h.
+The Lexus RZ 450e has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 435 nm (321 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.3 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71,4kWh and a net capacity of 64kWh, meaning you have a 7,4kWh buffer for protection. (10,4%).
+The battery has a gross capacity of 71.4kWh and a net capacity of 64kWh, meaning you have a 7.4kWh buffer for protection. (10.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 440 to 395 km (274-246 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.5kWh/100km for the basic version and 16.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 6,6 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 6.6 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 41 minutes. You can also select an optional onboard charger that supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 49 minutes.
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
@@ -198,7 +198,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 522 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176,4 lbs). The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 1980 kg (4365 lbs), you can max load 550 kg (1213 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 522 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176.4 lbs). The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 1980 kg (4365 lbs), you can max load 550 kg (1213 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 

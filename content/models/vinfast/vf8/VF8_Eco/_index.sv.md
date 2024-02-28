@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av VinFast VF8 Eco i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-VinFast VF8 Eco har en maximal effekt på 260 KW (354hk). Totalt vridmoment är 500 Nm. Den gör sprinten 0-100 km/h på 5,9 sekunder. Topphastigheten är 200 km/h.
+VinFast VF8 Eco har en maximal effekt på 260 KW (354hk). Totalt vridmoment är 500 Nm. Den gör sprinten 0-100 km/h på 5.9 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 87,7kWh, vilket innebär att du har en 6,3kWh buffert för skydd. (6,7%).
+Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 87.7kWh, vilket innebär att du har en 6.3kWh buffert för skydd. (6.7%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 471 km. Förbrukningen är 18.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

@@ -29,11 +29,11 @@ We have separated our BYD Seal AWD article into sections. If you want to wait to
 
 ## Performance
 
-The BYD Seal AWD has a maximum power of 390 KW (530 hp/523 bhp). The total torque is 670 nm (494 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 180 km/h.
+The BYD Seal AWD has a maximum power of 390 KW (530 hp/523 bhp). The total torque is 670 nm (494 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.8 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 85,4kWh and a net capacity of 82,5kWh, meaning you have a 2,9kWh buffer for protection. (3,4%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 85.4kWh and a net capacity of 82.5kWh, meaning you have a 2.9kWh buffer for protection. (3.4%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi). The consumption is 15.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -210,7 +210,7 @@ With the Smart Pilot  level 2 system, you get the following driving automation f
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 402 liters. Under the hood, there is frunk with more storage room. This frunk is 53 liters (1,9 CU FT). The maxium weight of the car is 2660 kg (5864 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 475 kg (1047 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 402 liters. Under the hood, there is frunk with more storage room. This frunk is 53 liters (1.9 CU FT). The maxium weight of the car is 2660 kg (5864 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 475 kg (1047 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

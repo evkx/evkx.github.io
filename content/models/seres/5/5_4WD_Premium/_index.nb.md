@@ -33,7 +33,7 @@ Seres 5 4WD Premium har en maksimal effekt på 430 KW (585hk). Totalt dreiemomen
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 80kWh og en nettokapasitet på 78kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2,5%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 80kWh og en nettokapasitet på 78kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2.5%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 483 km. Forbruket er 16.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

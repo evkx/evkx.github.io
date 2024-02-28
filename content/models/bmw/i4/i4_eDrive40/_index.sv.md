@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av BMW i4 eDrive40 i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-BMW i4 eDrive40 har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 5,7 sekunder. Topphastigheten är 190 km/h.
+BMW i4 eDrive40 har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 5.7 sekunder. Topphastigheten är 190 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 83,9kWh och en nettokapacitet på 80,7kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (3,8%).
+Batteriet har en bruttokapacitet på 83.9kWh och en nettokapacitet på 80.7kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (3.8%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 590 till 493 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.7kWh/100 km för basversionen och 16.4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

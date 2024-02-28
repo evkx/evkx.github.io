@@ -29,11 +29,11 @@ We have separated our SKODA ENYAQ RS iV article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the SKODA ENYAQ RS iV has a maximum power of 220 KW (299 hp / 295 bhp). Without overboost, it is 195 KW (265 hp / 265 bhp). The torque is 460 nm with overboost and 425 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6,5 seconds with overboost and 6,9 seconds without overboost. The top speed is 180 km/h.
+With overboost, the SKODA ENYAQ RS iV has a maximum power of 220 KW (299 hp / 295 bhp). Without overboost, it is 195 KW (265 hp / 265 bhp). The torque is 460 nm with overboost and 425 without overboost. It performs the 0-100km/h sprint (0-62mph) in 6.5 seconds with overboost and 6.9 seconds without overboost. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 514 to 496 km (320-308 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.0kWh/100km for the basic version and 15.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -193,12 +193,12 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2117 kg (4667 lbs), you can max load 633 kg (1396 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2117 kg (4667 lbs), you can max load 633 kg (1396 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined.<div class="mt-3 mb-3">
+This model had a world premiere on 1/1/2020, and deliveries started in March 2021. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Polestar 2 Long Range Dual Motor i seksjoner. Hv
 
 ## Ytelse
 
-Polestar 2 Long Range Dual Motor har en maksimal effekt på 310 KW (422hk). Totalt dreiemoment er 740 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 205 km/t.
+Polestar 2 Long Range Dual Motor har en maksimal effekt på 310 KW (422hk). Totalt dreiemoment er 740 nm. Den utfører sprinten 0-100 km/t på 4.5 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3.7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 592 til 551 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.3kWh/100 km for basisversjonen og 14.3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

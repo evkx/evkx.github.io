@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Porsche Macan Turbo i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Med overboost har Porsche Macan Turbo en maximal effekt på 470 KW (639hk). Utan overboost är det 430KW (585hp). Vridmomentet är 1130 Nm med överboost och 1130 utan överboost. Den gör sprinten 0-100 km/h på 3,3 sekunder. Topphastigheten är 260 km/h.
+Med overboost har Porsche Macan Turbo en maximal effekt på 470 KW (639hk). Utan overboost är det 430KW (585hp). Vridmomentet är 1130 Nm med överboost och 1130 utan överboost. Den gör sprinten 0-100 km/h på 3.3 sekunder. Topphastigheten är 260 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 96,8kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (3,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 96.8kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (3.2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 591 till 518 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.4kWh/100 km för basversionen och 18.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -243,7 +243,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 25.01.2024 och leveranser förväntas starta om August 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 1/25/2024 och leveranser förväntas starta om August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

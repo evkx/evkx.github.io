@@ -29,11 +29,11 @@ Vi har opdelt vores Volkswagen ID. Buzz Pro LWB artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Volkswagen ID. Buzz Pro LWB har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 550 nm (406 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,9 sekunder. Tophastigheden er 160 km/t.
+Volkswagen ID. Buzz Pro LWB har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 550 nm (406 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.9 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 91kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (6,6%).
+Batteriet har en bruttokapacitet på 91kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (6.6%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 461 til 452 km (287-281 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 18.4kWh/100 km for basisversionen og 18.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -241,7 +241,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 306 liter. Med bagsædet nede er det 2469 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3000 kg (6614 lbs), og med basisvægten på 2416 kg (5326 lbs), kan du maksimalt laste 584 kg (1287 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 306 liter. Med bagsædet nede er det 2469 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3000 kg (6614 lbs), og med basisvægten på 2416 kg (5326 lbs), kan du maksimalt laste 584 kg (1287 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 

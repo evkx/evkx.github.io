@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G3i. Click on 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				8,6 s
+				8.6 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				13,3 kWh/100km
+				13.3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				55,9 kWh
+				55.9 kWh
 			</td>
 		</tr>
 	</tbody>
@@ -210,7 +210,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4495 mm (177,0")
+				4495 mm (177.0")
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1610 mm (63,4")
+				1610 mm (63.4")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1820 mm (71,7")
+				1820 mm (71.7")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2625 mm (103,3")
+				2625 mm (103.3")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1546 mm (60,9")
+				1546 mm (60.9")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1551 mm (61,1")
+				1551 mm (61.1")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10,7 meter (421,3")
+				10.7 meter (421.3")
 			</td>
 		</tr>
 	</tbody>
@@ -380,7 +380,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm (5.1")
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +388,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm (5.1")
 			</td>
 		</tr>
 		<tr>
@@ -978,7 +978,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12,3
+				Yes, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +986,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 15,6"
+				Yes, 15.6"
 			</td>
 		</tr>
 		<tr>

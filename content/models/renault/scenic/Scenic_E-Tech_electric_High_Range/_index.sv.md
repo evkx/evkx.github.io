@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Renault Scenic E-Tech electric High Range i 
 
 ## Prestanda
 
-Renault Scenic E-Tech electric High Range har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 8,4 sekunder. Topphastigheten är 170 km/h.
+Renault Scenic E-Tech electric High Range har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 8.4 sekunder. Topphastigheten är 170 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 87kWh, vilket innebär att du har en 4kWh buffert för skydd. (4,4%).
+Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 87kWh, vilket innebär att du har en 4kWh buffert för skydd. (4.4%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 625 till 622 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.9kWh/100 km för basversionen och 14.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 12 timmar och 4 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7.2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 12 timmar och 4 minuter.
 
 ### Laddningsport
 

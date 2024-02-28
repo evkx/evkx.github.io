@@ -29,11 +29,11 @@ Vi har opdelt vores Audi Q8 e-tron edition Dakar artikel i sektioner. Hvis du vi
 
 ## Ydeevne
 
-Med overboost har Audi Q8 e-tron edition Dakar en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,8 sekunder med overboost og 6,8 sekunder uden overboost. Tophastigheden er 200 km/t.
+Med overboost har Audi Q8 e-tron edition Dakar en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5.8 sekunder med overboost og 6.8 sekunder uden overboost. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 114kWh og en nettokapacitet på 106kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 114kWh og en nettokapacitet på 106kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 487 km (303 mi). Forbruget er 21.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -303,7 +303,7 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 
@@ -312,7 +312,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 03.01.2024, og leveringerne startede i May 2024. Denne model er tilgængelig i Nordamerika, Kina, Europa og Mellemøsten.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 1/3/2024, og leveringerne startede i May 2024. Denne model er tilgængelig i Nordamerika, Kina, Europa og Mellemøsten.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

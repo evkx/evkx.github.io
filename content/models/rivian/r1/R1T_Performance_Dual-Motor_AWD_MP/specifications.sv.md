@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Rivian R1T Performance
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				2,9 mi/kWh
+				2.9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -1079,7 +1079,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1087,7 +1087,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15,3
+				Ja, 15.3
 			</td>
 		</tr>
 		<tr>

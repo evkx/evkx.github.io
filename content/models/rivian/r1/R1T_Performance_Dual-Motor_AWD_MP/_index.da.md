@@ -29,11 +29,11 @@ Vi har opdelt vores Rivian R1T Performance Dual-Motor AWD MP artikel i sektioner
 
 ## Ydeevne
 
-Rivian R1T Performance Dual-Motor AWD MP har en maksimal effekt på 495 KW (673 hk/664 hk). Det samlede drejningsmoment er 1124 nm (830 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Tophastigheden er 201 km/t.
+Rivian R1T Performance Dual-Motor AWD MP har en maksimal effekt på 495 KW (673 hk/664 hk). Det samlede drejningsmoment er 1124 nm (830 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.5 sekunder. Tophastigheden er 201 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 149kWh og en nettokapacitet på 143kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (4,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 149kWh og en nettokapacitet på 143kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (4.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 410 miles (660 km). Forbruget er 2.9mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 12 timer og 26 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11.5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 12 timer og 26 minutter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2048" height="1280"  >}}
@@ -203,7 +203,7 @@ Med Driver+  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1925 liter. Ladebredden er 1275 mm, og længden er 1371 mm. Den maksimale lastvægt i lad er 800 kg. På taget kan du laste op til 113 kg (249,1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11,1 CU FT). Bilens maksimale vægt er 3870 kg (8532 lbs), og med basisvægten på 2858 kg (6301 lbs), kan du maksimalt laste 1012 kg (2231 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastkapaciteten i lastbilens lad er 1925 liter. Ladebredden er 1275 mm, og længden er 1371 mm. Den maksimale lastvægt i lad er 800 kg. På taget kan du laste op til 113 kg (249.1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11.1 CU FT). Bilens maksimale vægt er 3870 kg (8532 lbs), og med basisvægten på 2858 kg (6301 lbs), kan du maksimalt laste 1012 kg (2231 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 5000, og på ubremset er den 750 kg (11023/1653 lbs).
 
@@ -212,7 +212,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 26.11.2018, og leveringerne startede i September 2021.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 11/26/2018, og leveringerne startede i September 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

@@ -71,7 +71,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan 4. K
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,2 s
+				5.2 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				15,8 kWh/100km
+				15.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				17,9 kWh/100km
+				17.9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				18,8 kWh/100km
+				18.8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				21,1 kwh/100km
+				21.1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -174,7 +174,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				96,8 kWh
+				96.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4784 mm (188,3")
+				4784 mm (188.3")
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1622 mm (63,9")
+				1622 mm (63.9")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1938 mm (76,3")
+				1938 mm (76.3")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2152 mm (84,7")
+				2152 mm (84.7")
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2893 mm (113,9")
+				2893 mm (113.9")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0,25
+				0.25
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,1 meter (437,0")
+				11.1 meter (437.0")
 			</td>
 		</tr>
 	</tbody>
@@ -574,7 +574,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm (7.2")
 			</td>
 		</tr>
 		<tr>
@@ -582,7 +582,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm (7.2")
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +695,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				224 mm (8,8")
+				224 mm (8.8")
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				185 mm (7,3")
+				185 mm (7.3")
 			</td>
 		</tr>
 		<tr>
@@ -1669,7 +1669,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 12,6
+				Ja, 12.6
 			</td>
 		</tr>
 		<tr>
@@ -1677,7 +1677,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 10,9"
+				Ja, 10.9"
 			</td>
 		</tr>
 		<tr>
@@ -1685,7 +1685,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Forreste passagerinfotainmentskærm
 			</td>
 			<td>
-				Ja, 10,9"
+				Ja, 10.9"
 			</td>
 		</tr>
 		<tr>

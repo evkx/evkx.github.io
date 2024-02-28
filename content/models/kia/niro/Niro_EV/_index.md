@@ -29,11 +29,11 @@ We have separated our Kia Niro EV article into sections. If you want to wait to 
 
 ## Performance
 
-The Kia Niro EV has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 255 nm (188 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,8 seconds. The top speed is 167 km/h.
+The Kia Niro EV has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 255 nm (188 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.8 seconds. The top speed is 167 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 68kWh and a net capacity of 64,8kWh, meaning you have a 3,2kWh buffer for protection. (4,7%).
+The battery has a gross capacity of 68kWh and a net capacity of 64.8kWh, meaning you have a 3.2kWh buffer for protection. (4.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 463 km (288 mi). The consumption is 14.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -194,7 +194,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 475 liters. With the rear seat down, it is 1392 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 20 liters (0,7 CU FT). The maxium weight of the car is 220 kg (485 lbs), and with the base weight of 1557 kg (3433 lbs), you can max load -1337 kg (-2948 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 475 liters. With the rear seat down, it is 1392 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 20 liters (0.7 CU FT). The maxium weight of the car is 220 kg (485 lbs), and with the base weight of 1557 kg (3433 lbs), you can max load -1337 kg (-2948 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 300 kg (1653/661 lbs).
 

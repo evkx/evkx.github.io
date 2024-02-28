@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av MG ZS EV Long Range i avsnitt. Om du vill v�
 
 ## Prestanda
 
-MG ZS EV Long Range har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 280 Nm. Den gör sprinten 0-100 km/h på 8,6 sekunder. Topphastigheten är 175 km/h.
+MG ZS EV Long Range har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 280 Nm. Den gör sprinten 0-100 km/h på 8.6 sekunder. Topphastigheten är 175 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 72,6kWh och en nettokapacitet på 68,3kWh, vilket innebär att du har en 4,3kWh buffert för skydd. (5,9%).
+Batteriet har en bruttokapacitet på 72.6kWh och en nettokapacitet på 68.3kWh, vilket innebär att du har en 4.3kWh buffert för skydd. (5.9%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 440 km. Förbrukningen är 15.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -204,7 +204,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 07.10.2021 och leveranserna startade i January 2022.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 10/7/2021 och leveranserna startade i January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG ZS </strong>
 </a>

@@ -10,28 +10,28 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Full Tour Of The Porsche Macan EV! Impressive Range, Charging & Performance Leads To A Great Package</h3>
-<p>Out of Spec Reviews: 25.01.2024</p>
+<p>Out of Spec Reviews: 25/01/2024</p>
 
 {{< youtube Jc_hW7exuNE >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>all-new Porsche Macan electric REVEAL REVIEW Macan 4 vs Turbo</h3>
-<p>Autogefühl: 25.01.2024</p>
+<p>Autogefühl: 25/01/2024</p>
 
 {{< youtube J1qXh8RpaEY >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST LOOK: 2024 Porsche Macan – £95k, 635bhp SUV With A BIG Change</h3>
-<p>Top Gear: 25.01.2024</p>
+<p>Top Gear: 25/01/2024</p>
 
 {{< youtube K8OrzVtz2QM >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Porsche Macan EV Highway Range Test | Behind the Wheels of Porsche’s First Electric SUV</h3>
-<p>Edmund Cars: 11.01.2024</p>
+<p>Edmund Cars: 11/01/2024</p>
 
 {{< youtube q6kogzNMcuo >}}
 

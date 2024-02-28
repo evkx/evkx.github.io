@@ -29,19 +29,19 @@ Vi har opdelt vores Mercedes-AMG EQS 53 4MATIC+ artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Mercedes-AMG EQS 53 4MATIC+ har en maksimal effekt på 484 KW (658 hk/649 hk). Det samlede drejningsmoment er 858 nm (633 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Tophastigheden er 220 km/t.
+Mercedes-AMG EQS 53 4MATIC+ har en maksimal effekt på 484 KW (658 hk/649 hk). Det samlede drejningsmoment er 858 nm (633 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.8 sekunder. Tophastigheden er 220 km/t.
 
-Hvis du ikke er tilfreds nok med standardydelsen, kan du tilføje ydelsesmuligheden AMG Dynamic Plus. Så er tallene forbedret. Mercedes-AMG EQS 53 4MATIC+ har en maksimal effekt på 560 KW (761 hk/751 hk). Det samlede drejningsmoment er 1020 nm (753 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,4 sekunder. Tophastigheden er 250 km/t.
+Hvis du ikke er tilfreds nok med standardydelsen, kan du tilføje ydelsesmuligheden AMG Dynamic Plus. Så er tallene forbedret. Mercedes-AMG EQS 53 4MATIC+ har en maksimal effekt på 560 KW (761 hk/751 hk). Det samlede drejningsmoment er 1020 nm (753 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.4 sekunder. Tophastigheden er 250 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 107,8kWh, hvilket betyder, at du har en 12,2kWh buffer til beskyttelse. (10,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 107.8kWh, hvilket betyder, at du har en 12.2kWh buffer til beskyttelse. (10.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 570 til 513 km (354-319 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 18.9kWh/100 km for basisversionen og 21.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 210kW. En fuld opladning fra 0 - 100 % ville tage 82 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 142kW. Hver opladningssession ville tage 26 minutter og 34 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25,2kWh/100 km, vil 1000 km tage 9 timer og 21 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 68%. Den samlede tid, der går tabt for at oplade batteriet, vil være 62 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25.2kWh/100 km, vil 1000 km tage 9 timer og 21 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 68%. Den samlede tid, der går tabt for at oplade batteriet, vil være 62 minutter.
 
 ### Indbygget oplader
 
@@ -243,7 +243,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3225 kg (7110 lbs), og med basisvægten på 2580 kg (5688 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3225 kg (7110 lbs), og med basisvægten på 2580 kg (5688 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

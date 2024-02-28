@@ -29,11 +29,11 @@ We have separated our Polestar 4 Long range Dual motor article into sections. If
 
 ## Performance
 
-The Polestar 4 Long range Dual motor has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 686 nm (506 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 210 km/h.
+The Polestar 4 Long range Dual motor has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 686 nm (506 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.8 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 100kWh and a net capacity of 94kWh, meaning you have a 6kWh buffer for protection. (6,0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 100kWh and a net capacity of 94kWh, meaning you have a 6kWh buffer for protection. (6.0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 580 km (361 mi). The consumption is 16.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -184,7 +184,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1536 liters. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0,5 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2351 kg (5183 lbs), you can max load 729 kg (1607 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1536 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0.5 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2351 kg (5183 lbs), you can max load 729 kg (1607 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

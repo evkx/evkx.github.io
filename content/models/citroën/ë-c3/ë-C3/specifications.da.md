@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				13,4 kWh/100km
+				13.4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4010 mm (157,9")
+				4010 mm (157.9")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1570 mm (61,8")
+				1570 mm (61.8")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1760 mm (69,3")
+				1760 mm (69.3")
 			</td>
 		</tr>
 	</tbody>
@@ -332,7 +332,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				163 mm (6,4")
+				163 mm (6.4")
 			</td>
 		</tr>
 		<tr>
@@ -340,7 +340,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				163 mm (6,4")
+				163 mm (6.4")
 			</td>
 		</tr>
 		<tr>
@@ -955,7 +955,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 10,25"
+				Ja, 10.25"
 			</td>
 		</tr>
 		<tr>

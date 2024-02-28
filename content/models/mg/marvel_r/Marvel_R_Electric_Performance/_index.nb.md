@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av MG Marvel R Electric Performance i seksjoner. Hv
 
 ## Ytelse
 
-MG Marvel R Electric Performance har en maksimal effekt på 212 KW (288hk). Totalt dreiemoment er 665 nm. Den utfører sprinten 0-100 km/t på 4,9 sekunder. Topphastigheten er 200 km/t.
+MG Marvel R Electric Performance har en maksimal effekt på 212 KW (288hk). Totalt dreiemoment er 665 nm. Den utfører sprinten 0-100 km/t på 4.9 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,7%).
+Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.7%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 370 km. Forbruket er 18.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 94 kW. En full lading fra 0 - 100 % vil ta 114 minutter, mens et mer vanlig scenario på 10-80 % vil ta 43 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 63kW. Hver ladeøkt vil ta 35 minutter og 7 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24,5kWh/100km, vil 1000km ta 11 timer og 6 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 9% til 59%. Totalt tapt tid for å lade opp batteriet vil være 166 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24.5kWh/100km, vil 1000km ta 11 timer og 6 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 9% til 59%. Totalt tapt tid for å lade opp batteriet vil være 166 minutter.
 
 ### Ombordlader
 
@@ -193,7 +193,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 07.10.2021, og leveringene startet i January 2022.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 10/7/2021, og leveringene startet i January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Marvel R </strong>
 </a>

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Nissan Ariya 63kWh i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Nissan Ariya 63kWh har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t på 7,5 sekunder. Topphastigheten er 160 km/t.
+Nissan Ariya 63kWh har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t på 7.5 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 63kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (4,5%).
+Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 63kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (4.5%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 403 til 359 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.6kWh/100 km for basisversjonen og 17.5kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 7,2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 45 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 7.2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 45 minutter.
 
 ### Ladeport
 

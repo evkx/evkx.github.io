@@ -33,13 +33,13 @@ Jeep Avenger har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 54kWh och en nettokapacitet på 50,8kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (5,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh och en nettokapacitet på 50.8kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (5.9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 404 till 385 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.6kWh/100 km för basversionen och 13.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 53 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 61%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 69kW. Varje laddningssession tar 26 minuter och 10 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22,0kWh/100km, tar 1000km 10 timmar och 49 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 2% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 149 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22.0kWh/100km, tar 1000km 10 timmar och 49 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 2% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 149 minuter.
 
 ### Inbyggd laddare
 

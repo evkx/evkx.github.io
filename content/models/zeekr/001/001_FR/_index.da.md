@@ -29,11 +29,11 @@ Vi har opdelt vores Zeekr 001 FR artikel i sektioner. Hvis du vil vente med at l
 
 ## Ydeevne
 
-Zeekr 001 FR har en maksimal effekt på 930 KW (1264 hk/1247 hk). Det samlede drejningsmoment er 1200 nm (886 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,02 sekunder. Tophastigheden er 280 km/t.
+Zeekr 001 FR har en maksimal effekt på 930 KW (1264 hk/1247 hk). Det samlede drejningsmoment er 1200 nm (886 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.02 sekunder. Tophastigheden er 280 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 95kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 95kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 580 km (361 mi). Forbruget er 16.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -193,12 +193,12 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 539 liter. Med bagsædet nede er det 1411 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1,1 CU FT). Bilens maksimale vægt er 3080 kg (6790 lbs), og med basisvægten på 2350 kg (5181 lbs), kan du maksimalt laste 730 kg (1609 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 539 liter. Med bagsædet nede er det 1411 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1.1 CU FT). Bilens maksimale vægt er 3080 kg (6790 lbs), og med basisvægten på 2350 kg (5181 lbs), kan du maksimalt laste 730 kg (1609 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 30.10.2023, og leveringerne startede i January 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 10/30/2023, og leveringerne startede i January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 001 </strong>
 </a>

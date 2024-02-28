@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				9,1 kWh/100km
+				9.1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				38,8 kWh
+				38.8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				9,9 meter
+				9.9 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1058,7 +1058,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 10,1
+				Ja, 10.1
 			</td>
 		</tr>
 		<tr>

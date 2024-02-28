@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Nio ET9 i avsnitt. Om du vill vänta med att
 
 ## Prestanda
 
-Nio ET9 har en maximal effekt på 520 KW (707hk). Totalt vridmoment är 900 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder. Topphastigheten är 200 km/h.
+Nio ET9 har en maximal effekt på 520 KW (707hk). Totalt vridmoment är 900 Nm. Den gör sprinten 0-100 km/h på 3.8 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 112kWh, vilket innebär att du har en 8kWh buffert för skydd. (6,7%).
+Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 112kWh, vilket innebär att du har en 8kWh buffert för skydd. (6.7%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 720 km. Förbrukningen är 15.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -227,7 +227,7 @@ Lastutrymmets kapacitet är 363 liter. På taket kan du lasta upp till 100 kg. B
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 23.12.2023 och leveranser förväntas starta om February 2025.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 12/23/2023 och leveranser förväntas starta om February 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Nio ET9 </strong>
 </a>

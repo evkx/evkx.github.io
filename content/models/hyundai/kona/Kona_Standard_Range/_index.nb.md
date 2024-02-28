@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Hyundai Kona Standard Range i seksjoner. Hvis du
 
 ## Ytelse
 
-Hyundai Kona Standard Range har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 185 km/t.
+Hyundai Kona Standard Range har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7.3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48,4kWh, noe som betyr at du har et 2,6kWh-buffer for beskyttelse. (5,1%).
+Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48.4kWh, noe som betyr at du har et 2.6kWh-buffer for beskyttelse. (5.1%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 377 km. Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

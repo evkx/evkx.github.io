@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Honda Prologue FWD. Kl
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7,5 s
+				7.5 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				3,5 mi/kWh
+				3.5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -266,7 +266,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				12,1 meter
+				12.1 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1025,7 +1025,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 11,3
+				Ja, 11.3
 			</td>
 		</tr>
 		<tr>

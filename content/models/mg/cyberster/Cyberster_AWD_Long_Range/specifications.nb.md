@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for MG Cyberster AWD Lo
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3,2 s
+				3.2 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim CLTC-forbruk
 			</td>
 			<td>
-				14,3 kWh/100km
+				14.3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				74,4 kWh
+				74.4 kWh
 			</td>
 		</tr>
 		<tr>

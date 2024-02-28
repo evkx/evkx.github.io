@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Smart #1 i avsnitt. Om du vill vänta med at
 
 ## Prestanda
 
-Smart #1 har en maximal effekt på 315 KW (428hk). Totalt vridmoment är 584 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 180 km/h.
+Smart #1 har en maximal effekt på 315 KW (428hk). Totalt vridmoment är 584 Nm. Den gör sprinten 0-100 km/h på 3.9 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 62kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 62kWh, vilket innebär att du har en 4kWh buffert för skydd. (6.1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 440 till 420 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.1kWh/100 km för basversionen och 14.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -212,7 +212,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 07.04.2022 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 4/7/2022 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #1 </strong>
 </a>

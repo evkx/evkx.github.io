@@ -29,11 +29,11 @@ We have separated our Nio ET9 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio ET9 has a maximum power of 520 KW (707 hp/697 bhp). The total torque is 900 nm (664 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 200 km/h.
+The Nio ET9 has a maximum power of 520 KW (707 hp/697 bhp). The total torque is 900 nm (664 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.8 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 112kWh, meaning you have a 8kWh buffer for protection. (6,7%).
+The battery has a gross capacity of 120kWh and a net capacity of 112kWh, meaning you have a 8kWh buffer for protection. (6.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 720 km (448 mi). The consumption is 15.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -222,12 +222,12 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 363 liters. On the roof, you can load up to 100 kg (220,5 lbs). The maxium weight of the car is 2900 kg (6393 lbs), and with the base weight of 2379 kg (5245 lbs), you can max load 521 kg (1149 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 363 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 2900 kg (6393 lbs), and with the base weight of 2379 kg (5245 lbs), you can max load 521 kg (1149 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 23.12.2023, and deliveries is expected to start in February 2025.<div class="mt-3 mb-3">
+This model had a world premiere on 12/23/2023, and deliveries is expected to start in February 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Nio ET9 </strong>
 </a>

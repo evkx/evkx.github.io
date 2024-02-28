@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Volkswagen ID.3 Pro i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Volkswagen ID.3 Pro har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 160 km/h.
+Volkswagen ID.3 Pro har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 7.3 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 62kWh och en nettokapacitet på 58kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,5%).
+Batteriet har en bruttokapacitet på 62kWh och en nettokapacitet på 58kWh, vilket innebär att du har en 4kWh buffert för skydd. (6.5%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 427 till 414 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.6kWh/100 km för basversionen och 14.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

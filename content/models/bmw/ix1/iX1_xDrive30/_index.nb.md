@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BMW iX1 xDrive30 i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-BMW iX1 xDrive30 har en maksimal effekt på 230 KW (313hk). Totalt dreiemoment er 494 nm. Den utfører sprinten 0-100 km/t på 5,6 sekunder. Topphastigheten er 180 km/t.
+BMW iX1 xDrive30 har en maksimal effekt på 230 KW (313hk). Totalt dreiemoment er 494 nm. Den utfører sprinten 0-100 km/t på 5.6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64,7kWh, noe som betyr at du har et 3,3kWh-buffer for beskyttelse. (4,9%).
+Batteriet har en bruttokapasitet på 68kWh og en nettokapasitet på 64.7kWh, noe som betyr at du har et 3.3kWh-buffer for beskyttelse. (4.9%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 440 til 417 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.7kWh/100 km for basisversjonen og 15.5kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

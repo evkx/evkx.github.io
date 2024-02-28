@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av BMW i5 eDrive40 Touring i seksjoner. Hvis du vil
 
 ## Ytelse
 
-BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 6,1 sekunder. Topphastigheten er 193 km/t.
+BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 6.1 sekunder. Topphastigheten er 193 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 84,4kWh og en nettokapasitet på 81,2kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (3,8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 84.4kWh og en nettokapasitet på 81.2kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (3.8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 560 til 483 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.5kWh/100 km for basisversjonen og 16.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

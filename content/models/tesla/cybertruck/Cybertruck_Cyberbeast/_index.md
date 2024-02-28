@@ -29,17 +29,17 @@ We have separated our Tesla Cybertruck Cyberbeast article into sections. If you 
 
 ## Performance
 
-The Tesla Cybertruck Cyberbeast has a maximum power of 630 KW (857 hp/845 bhp). The total torque is 930 nm (686 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2,7 seconds. The top speed is 209 km/h.
+The Tesla Cybertruck Cyberbeast has a maximum power of 630 KW (857 hp/845 bhp). The total torque is 930 nm (686 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2.7 seconds. The top speed is 209 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 123kWh and a net capacity of 122,5kWh, meaning you have a 0,5kWh buffer for protection. (0,4%).
+The battery has a gross capacity of 123kWh and a net capacity of 122.5kWh, meaning you have a 0.5kWh buffer for protection. (0.4%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 320 miles (515 km). The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 77 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 37%, resulting in an actual charge speed, including time loss, of 157kW. Each charge session would take 17 minutes and 22 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32,5kWh/100km, 1000km will take 9 hours and 39 minutes. This trip will require four charge session(s) charging from 0% to 42%. The total time lost for charging up the battery will be 79 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32.5kWh/100km, 1000km will take 9 hours and 39 minutes. This trip will require four charge session(s) charging from 0% to 42%. The total time lost for charging up the battery will be 79 minutes.
 
 ### Onboard charger
 
@@ -221,7 +221,7 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1897,23 liters. The bed width is 1295 mm, and length is 1849 mm. The max load weight in bed is 1134 kg. On the roof, you can load up to 100 kg (220,5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7,1 CU FT). The maxium weight of the car is 4159 kg (9169 lbs), and with the base weight of 3104 kg (6843 lbs), you can max load 1055 kg (2326 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1897.23 liters. The bed width is 1295 mm, and length is 1849 mm. The max load weight in bed is 1134 kg. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7.1 CU FT). The maxium weight of the car is 4159 kg (9169 lbs), and with the base weight of 3104 kg (6843 lbs), you can max load 1055 kg (2326 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 4990, and on unbraked, it is 750 kg (11000/1653 lbs).
 
@@ -230,7 +230,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ### Availability & Pricing
 
-This model had a world premiere on 30.11.2023, and deliveries started in November 2023. This model is only available in North America.<div class="mt-3 mb-3">
+This model had a world premiere on 11/30/2023, and deliveries started in November 2023. This model is only available in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
 </a>

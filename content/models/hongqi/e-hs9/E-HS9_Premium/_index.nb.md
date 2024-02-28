@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Hongqi E-HS9 Premium i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Hongqi E-HS9 Premium har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 670 nm. Den utfører sprinten 0-100 km/t på 4,9 sekunder. Topphastigheten er 200 km/t.
+Hongqi E-HS9 Premium har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 670 nm. Den utfører sprinten 0-100 km/t på 4.9 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 99kWh og en nettokapasitet på 95,3kWh, noe som betyr at du har et 3,7kWh-buffer for beskyttelse. (3,7%).
+Batteriet har en bruttokapasitet på 99kWh og en nettokapasitet på 95.3kWh, noe som betyr at du har et 3.7kWh-buffer for beskyttelse. (3.7%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 465 km. Forbruket er 20.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

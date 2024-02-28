@@ -29,11 +29,11 @@ Vi har opdelt vores Kia EV6 Long Range 2WD artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-Kia EV6 Long Range 2WD har en maksimal effekt på 168 KW (228 hk/225 hk). Det samlede drejningsmoment er 350 nm (258 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 185 km/t.
+Kia EV6 Long Range 2WD har en maksimal effekt på 168 KW (228 hk/225 hk). Det samlede drejningsmoment er 350 nm (258 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.3 sekunder. Tophastigheden er 185 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77,4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3,4kWh buffer til beskyttelse. (4,4%).
+Batteriet har en bruttokapacitet på 77.4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3.4kWh buffer til beskyttelse. (4.4%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 528 til 504 km (328-313 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.0kWh/100 km for basisversionen og 14.7kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -202,7 +202,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1260 liter. På taget kan du laste op til 80 kg (176,4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 2015 kg (4442 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1260 liter. På taget kan du laste op til 80 kg (176.4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0.7 CU FT). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 2015 kg (4442 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 

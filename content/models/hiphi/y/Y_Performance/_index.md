@@ -29,11 +29,11 @@ We have separated our HiPhi Y Performance article into sections. If you want to 
 
 ## Performance
 
-The HiPhi Y Performance has a maximum power of 371 KW (504 hp/498 bhp). The total torque is 620 nm (458 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,7 seconds.
+The HiPhi Y Performance has a maximum power of 371 KW (504 hp/498 bhp). The total torque is 620 nm (458 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.7 seconds.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 115kWh and a net capacity of 109kWh, meaning you have a 6kWh buffer for protection. (5,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 115kWh and a net capacity of 109kWh, meaning you have a 6kWh buffer for protection. (5.2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 620 km (385 mi). The consumption is 17.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -213,12 +213,12 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 692 liters. With the rear seat down, it is 1848 liters. Under the hood, there is frunk with more storage room. This frunk is 85 liters (3,0 CU FT).
+The cargo capacity in the trunk is 692 liters. With the rear seat down, it is 1848 liters. Under the hood, there is frunk with more storage room. This frunk is 85 liters (3.0 CU FT).
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 18.04.2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 4/18/2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Y </strong>
 </a>

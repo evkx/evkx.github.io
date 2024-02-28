@@ -29,11 +29,11 @@ We have separated our VinFast VF8 Eco article into sections. If you want to wait
 
 ## Performance
 
-The VinFast VF8 Eco has a maximum power of 260 KW (354 hp/349 bhp). The total torque is 500 nm (369 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,9 seconds. The top speed is 200 km/h.
+The VinFast VF8 Eco has a maximum power of 260 KW (354 hp/349 bhp). The total torque is 500 nm (369 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.9 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 94kWh and a net capacity of 87,7kWh, meaning you have a 6,3kWh buffer for protection. (6,7%).
+The battery has a gross capacity of 94kWh and a net capacity of 87.7kWh, meaning you have a 6.3kWh buffer for protection. (6.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 471 km (293 mi). The consumption is 18.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -208,7 +208,7 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 376 liters. With the rear seat down, it is 1373 liters. Under the hood, there is frunk with more storage room. This frunk is 78 liters (2,8 CU FT). The maxium weight of the car is 3075 kg (6779 lbs), and with the base weight of 2600 kg (5732 lbs), you can max load 475 kg (1047 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 475kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 376 liters. With the rear seat down, it is 1373 liters. Under the hood, there is frunk with more storage room. This frunk is 78 liters (2.8 CU FT). The maxium weight of the car is 3075 kg (6779 lbs), and with the base weight of 2600 kg (5732 lbs), you can max load 475 kg (1047 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 475kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

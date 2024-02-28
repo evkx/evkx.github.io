@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="kona_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/kona/kona_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Kona Long Range" ></a>
-<i class="bi bi-battery-full"></i> 68,5 kWh <i class="bi bi-ev-station"></i> 100 kW 
+<i class="bi bi-battery-full"></i> 68.5 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

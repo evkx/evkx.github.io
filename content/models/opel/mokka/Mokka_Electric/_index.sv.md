@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Opel Mokka Electric i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Opel Mokka Electric har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260 Nm. Den gör sprinten 0-100 km/h på 9,1 sekunder. Topphastigheten är 150 km/h.
+Opel Mokka Electric har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260 Nm. Den gör sprinten 0-100 km/h på 9.1 sekunder. Topphastigheten är 150 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 54kWh och en nettokapacitet på 50,8kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (5,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh och en nettokapacitet på 50.8kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (5.9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 406 km. Förbrukningen är 12.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

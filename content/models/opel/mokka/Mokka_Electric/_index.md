@@ -29,11 +29,11 @@ We have separated our Opel Mokka Electric article into sections. If you want to 
 
 ## Performance
 
-The Opel Mokka Electric has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9,1 seconds. The top speed is 150 km/h.
+The Opel Mokka Electric has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9.1 seconds. The top speed is 150 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 54kWh and a net capacity of 50,8kWh, meaning you have a 3,2kWh buffer for protection. (5,9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 54kWh and a net capacity of 50.8kWh, meaning you have a 3.2kWh buffer for protection. (5.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 406 km (252 mi). The consumption is 12.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

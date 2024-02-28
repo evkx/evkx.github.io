@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av GMC Hummer EV Edition 1 Pickup i avsnitt. Om
 
 ## Prestanda
 
-GMC Hummer EV Edition 1 Pickup har en maximal effekt på 746 KW (1014hk). Totalt vridmoment är 1150 Nm. Den gör sprinten 0-100 km/h på 3,5 sekunder. Topphastigheten är 170 km/h.
+GMC Hummer EV Edition 1 Pickup har en maximal effekt på 746 KW (1014hk). Totalt vridmoment är 1150 Nm. Den gör sprinten 0-100 km/h på 3.5 sekunder. Topphastigheten är 170 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 220kWh och en nettokapacitet på 213kWh, vilket innebär att du har en 7kWh buffert för skydd. (3,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 220kWh och en nettokapacitet på 213kWh, vilket innebär att du har en 7kWh buffert för skydd. (3.2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 329 miles (529 km). Förbrukningen är 1.5mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -187,7 +187,7 @@ Lastkapaciteten för lastbilen är 1039 liter. Bredden på lastflaket är 1272 m
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3402, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 20.10.2020 och leveranserna startade i December 2021. Denna modell är endast tillgänglig i Nordamerika.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 10/20/2020 och leveranserna startade i December 2021. Denna modell är endast tillgänglig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> GMC Hummer EV </strong>
 </a>

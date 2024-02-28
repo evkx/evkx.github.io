@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Performa
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3,6 s
+				3.6 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				2,6 mi/kWh
+				2.6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -1031,7 +1031,7 @@ Interior.Seatlayout.OnlySix
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1039,7 +1039,7 @@ Interior.Seatlayout.OnlySix
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 15,3
+				Ja, 15.3
 			</td>
 		</tr>
 		<tr>

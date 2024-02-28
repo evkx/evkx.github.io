@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 xDrive40. K
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				5.4 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				15,1 kWh/100km
+				15.1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				17,2 kWh/100km
+				17.2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				17,5 kWh/100km
+				17.5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				20,0 kwh/100km
+				20.0 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				84,4 kWh
+				84.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				81,2 kWh
+				81.2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5060 mm (199,2")
+				5060 mm (199.2")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1505 mm (59,3")
+				1505 mm (59.3")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1900 mm (74,8")
+				1900 mm (74.8")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2995 mm (117,9")
+				2995 mm (117.9")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1692 mm (66,6")
+				1692 mm (66.6")
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1716 mm (67,6")
+				1716 mm (67.6")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0,25
+				0.25
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Frontalområde
 			</td>
 			<td>
-				2,49
+				2.49
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,9 meter (468,5")
+				11.9 meter (468.5")
 			</td>
 		</tr>
 	</tbody>
@@ -512,7 +512,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				144 mm (5,7")
+				144 mm (5.7")
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +520,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				144 mm (5,7")
+				144 mm (5.7")
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +633,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				136 mm (5,4")
+				136 mm (5.4")
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +641,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				136 mm (5,4")
+				136 mm (5.4")
 			</td>
 		</tr>
 		<tr>
@@ -754,7 +754,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm (5.5")
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm (5.5")
 			</td>
 		</tr>
 		<tr>
@@ -1551,7 +1551,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1559,7 +1559,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 14,9"
+				Ja, 14.9"
 			</td>
 		</tr>
 		<tr>

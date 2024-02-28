@@ -35,11 +35,11 @@ Denne modellen er erstattet av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_t
 
 ## Ytelse
 
-Volvo C40 Recharge Twin Motor har en maksimal effekt på 300 KW (408hk). Totalt dreiemoment er 670 nm. Den utfører sprinten 0-100 km/t på 4,7 sekunder. Topphastigheten er 180 km/t.
+Volvo C40 Recharge Twin Motor har en maksimal effekt på 300 KW (408hk). Totalt dreiemoment er 670 nm. Den utfører sprinten 0-100 km/t på 4.7 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 79kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3.7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 548 til 536 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.4kWh/100 km for basisversjonen og 14.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -206,7 +206,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 18.05.2022, og leveringene startet i August 2022. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 5/18/2022, og leveringene startet i August 2022. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
 </a>

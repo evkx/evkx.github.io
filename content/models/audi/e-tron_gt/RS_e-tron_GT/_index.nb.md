@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Audi RS e-tron GT i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Med overboost har Audi RS e-tron GT en maksimal effekt på 475 KW (646hk). Uten overboost er den 440KW (598hk). Dreiemomentet er 830 nm med overboost og 830 uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder med overboost og 4,5 sekunder uten overboost. Topphastigheten er 250 km/t.
+Med overboost har Audi RS e-tron GT en maksimal effekt på 475 KW (646hk). Uten overboost er den 440KW (598hk). Dreiemomentet er 830 nm med overboost og 830 uten overboost. Den utfører sprinten 0-100 km/t på 3.3 sekunder med overboost og 4.5 sekunder uten overboost. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 93,4kWh og en nettokapasitet på 83,7kWh, noe som betyr at du har et 9,7kWh-buffer for beskyttelse. (10,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 93.4kWh og en nettokapasitet på 83.7kWh, noe som betyr at du har et 9.7kWh-buffer for beskyttelse. (10.4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 495 til 447 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.9kWh/100 km for basisversjonen og 18.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -248,7 +248,7 @@ Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 09.02.2021, og leveringene startet i May 2021.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 2/9/2021, og leveringene startet i May 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

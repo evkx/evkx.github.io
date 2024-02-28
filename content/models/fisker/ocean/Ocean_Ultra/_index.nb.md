@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Fisker Ocean Ultra i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Med overboost har Fisker Ocean Ultra en maksimal effekt på 400 KW (544hk). Uten overboost er den 344KW (468hk). Dreiemomentet er 737 nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t på 4,2 sekunder. Topphastigheten er 205 km/t.
+Med overboost har Fisker Ocean Ultra en maksimal effekt på 400 KW (544hk). Uten overboost er den 344KW (468hk). Dreiemomentet er 737 nm med overboost og 696 uten overboost. Den utfører sprinten 0-100 km/t på 4.2 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 113kWh og en nettokapasitet på 106,5kWh, noe som betyr at du har et 6,5kWh-buffer for beskyttelse. (5,8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 113kWh og en nettokapasitet på 106.5kWh, noe som betyr at du har et 6.5kWh-buffer for beskyttelse. (5.8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 690 km. Forbruket er 15.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

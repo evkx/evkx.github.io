@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Smart #1 Brabus i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Smart #1 Brabus har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 584 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 180 km/t.
+Smart #1 Brabus har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 584 nm. Den utfører sprinten 0-100 km/t på 3.9 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 62kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6,1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 62kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6.1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 15.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -208,7 +208,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 07.04.2022, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 4/7/2022, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #1 </strong>
 </a>

@@ -29,11 +29,11 @@ We have separated our Peugot E-208 article into sections. If you want to wait to
 
 ## Performance
 
-The Peugot E-208 has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8,1 seconds. The top speed is 150 km/h.
+The Peugot E-208 has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8.1 seconds. The top speed is 150 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 51kWh and a net capacity of 48,1kWh, meaning you have a 2,9kWh buffer for protection. (5,7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 51kWh and a net capacity of 48.1kWh, meaning you have a 2.9kWh buffer for protection. (5.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 12.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -190,7 +190,7 @@ The cargo capacity in the trunk is 265 liters. With the rear seat down, it is 11
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 06.07.2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 7/6/2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 208 </strong>
 </a>

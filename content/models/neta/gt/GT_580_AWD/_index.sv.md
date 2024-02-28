@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Neta GT 580 AWD i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-Neta GT 580 AWD har en maximal effekt på 340 KW (462hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 3,7 sekunder.
+Neta GT 580 AWD har en maximal effekt på 340 KW (462hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 3.7 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 78kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 3kWh buffert för skydd. (3,8%).
+Batteriet har en bruttokapacitet på 78kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 3kWh buffert för skydd. (3.8%).
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 580 km ( miles). Förbrukningen är 12.9kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -200,7 +200,7 @@ Lastutrymmets kapacitet är 297 liter. Under huven finns en frunk med mer lagrin
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 13.07.2023 och leveranserna startade i December 2023. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 7/13/2023 och leveranserna startade i December 2023. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Neta GT </strong>
 </a>

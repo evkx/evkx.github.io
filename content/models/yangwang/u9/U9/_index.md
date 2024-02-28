@@ -29,11 +29,11 @@ We have separated our YangWang U9 article into sections. If you want to wait to 
 
 ## Performance
 
-The YangWang U9 has a maximum power of 960 KW (1305 hp/1287 bhp). The total torque is 1680 nm (1240 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2,36 seconds. The top speed is 309 km/h.
+The YangWang U9 has a maximum power of 960 KW (1305 hp/1287 bhp). The total torque is 1680 nm (1240 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2.36 seconds. The top speed is 309 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 83kWh and a net capacity of 80kWh, meaning you have a 3kWh buffer for protection. (3,6%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 83kWh and a net capacity of 80kWh, meaning you have a 3kWh buffer for protection. (3.6%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 465 km ( miles). The consumption is 17.2kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -186,7 +186,7 @@ The cargo capacity in the trunk is 200 liters. The maxium weight of the car is 2
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 01.04.2023, and deliveries is expected to start in January 2025.<div class="mt-3 mb-3">
+This model had a world premiere on 4/1/2023, and deliveries is expected to start in January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> YangWang U9 </strong>
 </a>

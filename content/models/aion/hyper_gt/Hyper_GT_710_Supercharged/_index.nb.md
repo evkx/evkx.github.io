@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Aion Hyper GT 710 Supercharged i seksjoner. Hvis
 
 ## Ytelse
 
-Aion Hyper GT 710 Supercharged har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 4,9 sekunder. Topphastigheten er 257 km/t.
+Aion Hyper GT 710 Supercharged har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 4.9 sekunder. Topphastigheten er 257 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 80,1kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 3,1kWh-buffer for beskyttelse. (3,9%).
+Batteriet har en bruttokapasitet på 80.1kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 3.1kWh-buffer for beskyttelse. (3.9%).
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruket er 10.8kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -200,7 +200,7 @@ Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1100 lite
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 31.12.2022, og leveringene startet i October 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 12/31/2022, og leveringene startet i October 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Aion Hyper GT </strong>
 </a>

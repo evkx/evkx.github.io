@@ -29,11 +29,11 @@ Vi har opdelt vores Rimac Nevera artikel i sektioner. Hvis du vil vente med at l
 
 ## Ydeevne
 
-Rimac Nevera har en maksimal effekt på 1400 KW (1904 hk/1877 hk). Det samlede drejningsmoment er 2340 nm (1727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 1,81 sekunder. Tophastigheden er 412 km/t.
+Rimac Nevera har en maksimal effekt på 1400 KW (1904 hk/1877 hk). Det samlede drejningsmoment er 2340 nm (1727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 1.81 sekunder. Tophastigheden er 412 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 106,8kWh, hvilket betyder, at du har en 13,2kWh buffer til beskyttelse. (11,0%).
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 106.8kWh, hvilket betyder, at du har en 13.2kWh buffer til beskyttelse. (11.0%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 21.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -190,7 +190,7 @@ Lagekapaciteten i bagagerummet er 100 liter. Bilens maksimale vægt er 2550 kg (
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 01.06.2021, og leveringerne startede i January 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 6/1/2021, og leveringerne startede i January 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rimac Nevera </strong>
 </a>

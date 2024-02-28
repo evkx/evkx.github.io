@@ -29,11 +29,11 @@ We have separated our Rivian R1T Performance Dual-Motor AWD LP article into sect
 
 ## Performance
 
-The Rivian R1T Performance Dual-Motor AWD LP has a maximum power of 495 KW (673 hp/664 bhp). The total torque is 1124 nm (830 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 201 km/h.
+The Rivian R1T Performance Dual-Motor AWD LP has a maximum power of 495 KW (673 hp/664 bhp). The total torque is 1124 nm (830 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.5 seconds. The top speed is 201 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 135kWh and a net capacity of 132kWh, meaning you have a 3kWh buffer for protection. (2,2%).
+The battery has a gross capacity of 135kWh and a net capacity of 132kWh, meaning you have a 3kWh buffer for protection. (2.2%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 352 miles (566 km). The consumption is 2.7mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 28 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 28 minutes.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}
@@ -203,7 +203,7 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, and length is 1371 mm. The max load weight in bed is 800 kg. On the roof, you can load up to 113 kg (249,1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11,1 CU FT). The maxium weight of the car is 3870 kg (8532 lbs), and with the base weight of 2858 kg (6301 lbs), you can max load 1012 kg (2231 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, and length is 1371 mm. The max load weight in bed is 800 kg. On the roof, you can load up to 113 kg (249.1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11.1 CU FT). The maxium weight of the car is 3870 kg (8532 lbs), and with the base weight of 2858 kg (6301 lbs), you can max load 1012 kg (2231 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, it is 750 kg (11023/1653 lbs).
 
@@ -212,7 +212,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 26.11.2018, and deliveries started in September 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 11/26/2018, and deliveries started in September 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

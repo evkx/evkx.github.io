@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av Tesla Model Y Performance i avsnitt. Om du v
 
 ## Prestanda
 
-Tesla Model Y Performance har en maximal effekt på 393 KW (534hk). Totalt vridmoment är 660 Nm. Den gör sprinten 0-100 km/h på 3,7 sekunder. Topphastigheten är 250 km/h.
+Tesla Model Y Performance har en maximal effekt på 393 KW (534hk). Totalt vridmoment är 660 Nm. Den gör sprinten 0-100 km/h på 3.7 sekunder. Topphastigheten är 250 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 7kWh buffert för skydd. (8,5%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 7kWh buffert för skydd. (8.5%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 514 km. Förbrukningen är 14.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 109kW. Varje laddningssession tar 17 minuter och 55 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19,5kWh/100km, tar 1000km 9 timmar och 26 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 5% till 45%. Total tid som går förlorad för att ladda batteriet kommer att vara 66 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19.5kWh/100km, tar 1000km 9 timmar och 26 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 5% till 45%. Total tid som går förlorad för att ladda batteriet kommer att vara 66 minuter.
 
 ### Inbyggd laddare
 
@@ -234,7 +234,7 @@ Lastkapaciteten i bagageutrymmet är 854 liter. Med baksätet nedfällt är det 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1600, och på obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2020.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 3/19/2019 och leveranserna startade i March 2020.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

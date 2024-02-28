@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQE 500 4MATIC SUV i seksjoner. Hvis
 
 ## Ytelse
 
-Mercedes-EQ EQE 500 4MATIC SUV har en maksimal effekt på 300 KW (408hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t på 4,9 sekunder. Topphastigheten er 210 km/t.
+Mercedes-EQ EQE 500 4MATIC SUV har en maksimal effekt på 300 KW (408hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t på 4.9 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 96,12kWh og en nettokapasitet på 90,6kWh, noe som betyr at du har et 5,52kWh-buffer for beskyttelse. (5,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 96.12kWh og en nettokapasitet på 90.6kWh, noe som betyr at du har et 5.52kWh-buffer for beskyttelse. (5.7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 547 til 460 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.6kWh/100 km for basisversjonen og 19.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

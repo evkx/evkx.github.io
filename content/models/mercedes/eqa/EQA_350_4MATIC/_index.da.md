@@ -33,7 +33,7 @@ Mercedes-EQ EQA 350 4MATIC har en maksimal effekt på 215 KW (292 hk/288 hk). De
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69,7kWh og en nettokapacitet på 66,5kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (4,6%).
+Batteriet har en bruttokapacitet på 69.7kWh og en nettokapacitet på 66.5kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (4.6%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 438 til 411 km (272-255 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.2kWh/100 km for basisversionen og 16.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -225,7 +225,7 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 340 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2535 kg (5589 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 340 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2535 kg (5589 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -33,7 +33,7 @@ BYD Dolphin 60.4kWh har en maksimal effekt på 150 KW (204hk). Totalt dreiemomen
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60,4kWh og en nettokapasitet på 62kWh, noe som betyr at du har et -1,6kWh-buffer for beskyttelse. (-2,6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 60.4kWh og en nettokapasitet på 62kWh, noe som betyr at du har et -1.6kWh-buffer for beskyttelse. (-2.6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 427 km. Forbruket er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

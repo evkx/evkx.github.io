@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Opel Astra Electric i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Opel Astra Electric har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 10,5 sekunder. Topphastigheten er 170 km/t.
+Opel Astra Electric har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 10.5 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (5,9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50.8kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (5.9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 413 km. Forbruket er 12.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -201,7 +201,7 @@ Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 06.07.2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 7/6/2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Opel Astra </strong>
 </a>

@@ -33,7 +33,7 @@ BMW i4 eDrive35 har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede d
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 70,2kWh og en nettokapacitet på 66kWh, hvilket betyder, at du har en 4,2kWh buffer til beskyttelse. (6,0%).
+Batteriet har en bruttokapacitet på 70.2kWh og en nettokapacitet på 66kWh, hvilket betyder, at du har en 4.2kWh buffer til beskyttelse. (6.0%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 490 til 406 km (305-252 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.5kWh/100 km for basisversionen og 16.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -222,7 +222,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2545 kg (5611 lbs), og med basisvægten på 1990 kg (4387 lbs), kan du maksimalt laste 555 kg (1224 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2545 kg (5611 lbs), og med basisvægten på 1990 kg (4387 lbs), kan du maksimalt laste 555 kg (1224 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 

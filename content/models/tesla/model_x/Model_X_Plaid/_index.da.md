@@ -29,17 +29,17 @@ Vi har opdelt vores Tesla Model X Plaid artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Tesla Model X Plaid har en maksimal effekt på 760 KW (1033 hk/1019 hk). Det samlede drejningsmoment er 1020 nm (753 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,6 sekunder. Tophastigheden er 262 km/t.
+Tesla Model X Plaid har en maksimal effekt på 760 KW (1033 hk/1019 hk). Det samlede drejningsmoment er 1020 nm (753 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.6 sekunder. Tophastigheden er 262 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 96kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,0%).
+Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 96kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4.0%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (338-328 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.7kWh/100 km for basisversionen og 18.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 80 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 47%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 143kW. Hver opladningssession ville tage 16 minutter og 9 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24,0kWh/100 km, vil 1000 km tage 9 timer og 21 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 8 % til 46%. Den samlede tid, der går tabt for at oplade batteriet, vil være 61 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24.0kWh/100 km, vil 1000 km tage 9 timer og 21 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 8 % til 46%. Den samlede tid, der går tabt for at oplade batteriet, vil være 61 minutter.
 
 ### Indbygget oplader
 
@@ -216,7 +216,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 709 liter. Med bagsædet nede er det 1828 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 183 liter (6,5 CU FT). Bilens maksimale vægt er 2970 kg (6548 lbs), og med basisvægten på 2464 kg (5432 lbs), kan du maksimalt laste 506 kg (1116 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 709 liter. Med bagsædet nede er det 1828 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 183 liter (6.5 CU FT). Bilens maksimale vægt er 2970 kg (6548 lbs), og med basisvægten på 2464 kg (5432 lbs), kan du maksimalt laste 506 kg (1116 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 2250, og på ubremset er den 750 kg (4960/1653 lbs).
 

@@ -29,11 +29,11 @@ Vi har opdelt vores Lotus Eletre R artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Lotus Eletre R har en maksimal effekt på 675 KW (918 hk/905 hk). Det samlede drejningsmoment er 985 nm (727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,9 sekunder. Tophastigheden er 265 km/t.
+Lotus Eletre R har en maksimal effekt på 675 KW (918 hk/905 hk). Det samlede drejningsmoment er 985 nm (727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.9 sekunder. Tophastigheden er 265 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 112kWh og en nettokapacitet på 109kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (2,7%).
+Batteriet har en bruttokapacitet på 112kWh og en nettokapacitet på 109kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (2.7%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 460 til 410 km (286-255 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 23.7kWh/100 km for basisversionen og 26.6kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -225,7 +225,7 @@ Op til fire [LiDAR sensorer](../../../../technology/sensorsandcameras/lidar/), f
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 688 liter. Med bagsædet nede er det 1532 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 46 liter (1,6 CU FT). Bilens maksimale vægt er 3100 kg (6834 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 580 kg (1279 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 688 liter. Med bagsædet nede er det 1532 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 46 liter (1.6 CU FT). Bilens maksimale vægt er 3100 kg (6834 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 580 kg (1279 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2250, og på ubremset er den 750 kg (4960/1653 lbs).
 
@@ -234,7 +234,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 29.01.2021, og leveringerne startede i March 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 1/29/2021, og leveringerne startede i March 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lotus Eletre </strong>
 </a>

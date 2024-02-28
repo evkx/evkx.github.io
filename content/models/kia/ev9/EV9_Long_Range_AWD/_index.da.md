@@ -33,7 +33,7 @@ Kia EV9 Long Range AWD har en maksimal effekt på 283 KW (385 hk/380 hk). Det sa
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 99,8kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 1,8kWh buffer til beskyttelse. (1,8%).
+Batteriet har en bruttokapacitet på 99.8kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 1.8kWh buffer til beskyttelse. (1.8%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 512 til 505 km (318-314 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19.1kWh/100 km for basisversionen og 19.4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -227,7 +227,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 333 liter. Med bagsædet nede er det 2393 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 55 liter (1,9 CU FT). Bilens maksimale vægt er 3190 kg (7033 lbs), og med basisvægten på 2637 kg (5814 lbs), kan du maksimalt laste 553 kg (1219 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 333 liter. Med bagsædet nede er det 2393 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 55 liter (1.9 CU FT). Bilens maksimale vægt er 3190 kg (7033 lbs), og med basisvægten på 2637 kg (5814 lbs), kan du maksimalt laste 553 kg (1219 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2500, og på ubremset er den 750 kg (5512/1653 lbs).
 

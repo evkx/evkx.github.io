@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av Tesla Model S Standard Range i seksjoner. Hvis d
 
 ## Ytelse
 
-Tesla Model S Standard Range har en maksimal effekt på 381 KW (518hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 250 km/t.
+Tesla Model S Standard Range har en maksimal effekt på 381 KW (518hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 3.9 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 25kWh-buffer for beskyttelse. (25,0%).
+Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 25kWh-buffer for beskyttelse. (25.0%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 512 til 500 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.6kWh/100 km for basisversjonen og 15.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 132kW. Hver ladeøkt vil ta 15 minutter og 20 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,7kWh/100km, vil 1000km ta 9 timer og 16 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 7% til 48%. Totalt tapt tid for å lade opp batteriet vil være 56 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19.7kWh/100km, vil 1000km ta 9 timer og 16 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 7% til 48%. Totalt tapt tid for å lade opp batteriet vil være 56 minutter.
 
 ### Ombordlader
 
@@ -219,7 +219,7 @@ Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilh
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 20.08.2023, og leveringene startet i September 2023. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 8/20/2023, og leveringene startet i September 2023. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
 </a>

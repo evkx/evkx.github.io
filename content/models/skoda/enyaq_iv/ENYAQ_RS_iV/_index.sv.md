@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av SKODA ENYAQ RS iV i avsnitt. Om du vill vän
 
 ## Prestanda
 
-Med overboost har SKODA ENYAQ RS iV en maximal effekt på 220 KW (299hk). Utan overboost är det 195KW (265hp). Vridmomentet är 460 Nm med överboost och 425 utan överboost. Den gör sprinten 0-100 km/h på 6,5 sekunder med överboost och 6,9 sekunder utan överboost. Topphastigheten är 180 km/h.
+Med overboost har SKODA ENYAQ RS iV en maximal effekt på 220 KW (299hk). Utan overboost är det 195KW (265hp). Vridmomentet är 460 Nm med överboost och 425 utan överboost. Den gör sprinten 0-100 km/h på 6.5 sekunder med överboost och 6.9 sekunder utan överboost. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.1%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 514 till 496 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.0kWh/100 km för basversionen och 15.5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -198,7 +198,7 @@ Lastkapaciteten i bagageutrymmet är 585 liter. Med baksätet nedfällt är det 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 01.01.2020 och leveranser startade i March 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 1/1/2020 och leveranser startade i March 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för HiPhi X 6 Seater. Klic
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,9 s
+				3.9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				21,1 kWh/100km
+				21.1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -234,7 +234,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,27
+				0.27
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11,6 meter
+				11.6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -989,7 +989,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 16,9
+				Ja, 16.9
 			</td>
 		</tr>
 		<tr>
@@ -997,7 +997,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Ja, 19,9"
+				Ja, 19.9"
 			</td>
 		</tr>
 		<tr>

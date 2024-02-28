@@ -29,11 +29,11 @@ Vi har opdelt vores HiPhi X 4 Seater artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-HiPhi X 4 Seater har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 820 nm (605 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder.
+HiPhi X 4 Seater har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 820 nm (605 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.9 sekunder.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 101kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 101kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 460 km (286 mi). Forbruget er 21.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 

@@ -29,17 +29,17 @@ We have separated our Kia EV6 GT article into sections. If you want to wait to r
 
 ## Performance
 
-The Kia EV6 GT has a maximum power of 430 KW (585 hp/577 bhp). The total torque is 740 nm (546 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,5 seconds. The top speed is 260 km/h.
+The Kia EV6 GT has a maximum power of 430 KW (585 hp/577 bhp). The total torque is 740 nm (546 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.5 seconds. The top speed is 260 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%).
+The battery has a gross capacity of 77.4kWh and a net capacity of 74kWh, meaning you have a 3.4kWh buffer for protection. (4.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 424 km (264 mi). The consumption is 17.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 38 minutes, while a more common scenario of 10-80% would take 16 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76%, resulting in an actual charge speed, including time loss, of 152kW. Each charge session would take 22 minutes and 59 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25,5kWh/100km, 1000km will take 9 hours and 32 minutes. This trip will require three charge session(s) charging from 1% to 83%. The total time lost for charging up the battery will be 72 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25.5kWh/100km, 1000km will take 9 hours and 32 minutes. This trip will require three charge session(s) charging from 1% to 83%. The total time lost for charging up the battery will be 72 minutes.
 
 ### Onboard charger
 
@@ -201,7 +201,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80 kg (176,4 lbs). Under the hood, there is frunk with more storage room. This frunk is 20 liters (0,7 CU FT). The maxium weight of the car is 2610 kg (5754 lbs), and with the base weight of 2125 kg (4685 lbs), you can max load 485 kg (1069 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 485kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80 kg (176.4 lbs). Under the hood, there is frunk with more storage room. This frunk is 20 liters (0.7 CU FT). The maxium weight of the car is 2610 kg (5754 lbs), and with the base weight of 2125 kg (4685 lbs), you can max load 485 kg (1069 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 485kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 

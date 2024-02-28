@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volvo EM90. Klicka på
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				8,3 s
+				8.3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				14,9 kWh/100km
+				14.9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -290,7 +290,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,27
+				0.27
 			</td>
 		</tr>
 	</tbody>
@@ -1053,7 +1053,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10,2
+				Ja, 10.2
 			</td>
 		</tr>
 		<tr>
@@ -1061,7 +1061,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15,4
+				Ja, 15.4
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Bakre infotainmentskärm
 			</td>
 			<td>
-				Ja, 15,4"
+				Ja, 15.4"
 			</td>
 		</tr>
 	</tbody>

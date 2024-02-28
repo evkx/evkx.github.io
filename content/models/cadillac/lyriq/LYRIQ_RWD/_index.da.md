@@ -29,11 +29,11 @@ Vi har opdelt vores Cadillac LYRIQ RWD artikel i sektioner. Hvis du vil vente me
 
 ## Ydeevne
 
-Cadillac LYRIQ RWD har en maksimal effekt på 255 KW (347 hk/342 hk). Det samlede drejningsmoment er 450 nm (332 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder.
+Cadillac LYRIQ RWD har en maksimal effekt på 255 KW (347 hk/342 hk). Det samlede drejningsmoment er 450 nm (332 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.7 sekunder.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 110kWh og en nettokapacitet på 102kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,3%).
+Batteriet har en bruttokapacitet på 110kWh og en nettokapacitet på 102kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7.3%).
 
 [EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 312 miles (502 km). Forbruget er 3.1mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 52 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 19,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 18 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11.5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 52 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 19.2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 18 minutter.
 
 ### Ladeport
 

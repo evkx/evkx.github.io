@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Porsche Taycan 4 Cross Turismo i avsnitt. Om
 
 ## Prestanda
 
-Med overboost har Porsche Taycan 4 Cross Turismo en maximal effekt på 350 KW (476hk). Utan overboost är det 280KW (381hp). Vridmomentet är 500 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 5,1 sekunder. Topphastigheten är 220 km/h.
+Med overboost har Porsche Taycan 4 Cross Turismo en maximal effekt på 350 KW (476hk). Utan overboost är det 280KW (381hp). Vridmomentet är 500 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 5.1 sekunder. Topphastigheten är 220 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 93,4kWh och en nettokapacitet på 83,7kWh, vilket innebär att du har en 9,7kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 93.4kWh och en nettokapacitet på 83.7kWh, vilket innebär att du har en 9.7kWh buffert för skydd. (10.4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 490 till 416 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.1kWh/100 km för basversionen och 20.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

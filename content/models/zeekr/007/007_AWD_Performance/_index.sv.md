@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Zeekr 007 AWD Performance i avsnitt. Om du v
 
 ## Prestanda
 
-Zeekr 007 AWD Performance har en maximal effekt på 475 KW (646hk). Totalt vridmoment är 710 Nm. Den gör sprinten 0-100 km/h på 2,84 sekunder. Topphastigheten är 200 km/h.
+Zeekr 007 AWD Performance har en maximal effekt på 475 KW (646hk). Totalt vridmoment är 710 Nm. Den gör sprinten 0-100 km/h på 2.84 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 660 km ( miles). Förbrukningen är 14.4kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -202,7 +202,7 @@ Lastkapaciteten i bagageutrymmet är 462 liter. Med baksätet nedfällt är det 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 27.12.2023 och leveranserna startade i January 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 12/27/2023 och leveranserna startade i January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 007 </strong>
 </a>

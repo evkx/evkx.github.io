@@ -29,11 +29,11 @@ Vi har opdelt vores BMW i7 xDrive60 artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-BMW i7 xDrive60 har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 745 nm (550 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,7 sekunder. Tophastigheden er 240 km/t.
+BMW i7 xDrive60 har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 745 nm (550 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.7 sekunder. Tophastigheden er 240 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 105,7kWh og en nettokapacitet på 101,7kWh, hvilket betyder, at du har en 4,0kWh buffer til beskyttelse. (3,8%).
+Batteriet har en bruttokapacitet på 105.7kWh og en nettokapacitet på 101.7kWh, hvilket betyder, at du har en 4.0kWh buffer til beskyttelse. (3.8%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 625 til 591 km (388-367 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.3kWh/100 km for basisversionen og 17.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 

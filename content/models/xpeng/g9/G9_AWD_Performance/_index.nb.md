@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av XPENG G9 AWD Performance i seksjoner. Hvis du vi
 
 ## Ytelse
 
-XPENG G9 AWD Performance har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 717 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 205 km/t.
+XPENG G9 AWD Performance har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 717 nm. Den utfører sprinten 0-100 km/t på 3.9 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 98kWh og en nettokapasitet på 93,6kWh, noe som betyr at du har et 4,4kWh-buffer for beskyttelse. (4,5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 98kWh og en nettokapasitet på 93.6kWh, noe som betyr at du har et 4.4kWh-buffer for beskyttelse. (4.5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 520 km. Forbruket er 18.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

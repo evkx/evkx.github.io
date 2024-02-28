@@ -29,14 +29,14 @@ Vi har opdelt vores Nio ET7 artikel i sektioner. Hvis du vil vente med at læse 
 
 ## Ydeevne
 
-Nio ET7 har en maksimal effekt på 360 KW (490 hk/483 hk). Det samlede drejningsmoment er 700 nm (517 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Tophastigheden er 200 km/t.
+Nio ET7 har en maksimal effekt på 360 KW (490 hk/483 hk). Det samlede drejningsmoment er 700 nm (517 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.8 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
 Nio ET7 har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
 ### 100kWh
 
-Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 90kWh, hvilket betyder, at du har en 10kWh buffer til beskyttelse. (10,0%).
+Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 90kWh, hvilket betyder, at du har en 10kWh buffer til beskyttelse. (10.0%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 580 til 505 km (361-314 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.5kWh/100 km for basisversionen og 17.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -45,7 +45,7 @@ Den maksimale DC-opladningshastighed er 126kW. En fuld opladning fra 0 - 100 % v
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 52 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 50%. Den samlede tid, der går tabt for at oplade batteriet, vil være 93 minutter.
 ### 75kWh
 
-Batteriet har en bruttokapacitet på 75kWh og en nettokapacitet på 70,5kWh, hvilket betyder, at du har en 4,5kWh buffer til beskyttelse. (6,0%).
+Batteriet har en bruttokapacitet på 75kWh og en nettokapacitet på 70.5kWh, hvilket betyder, at du har en 4.5kWh buffer til beskyttelse. (6.0%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 445 til 385 km (277-239 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.5kWh/100 km for basisversionen og 17.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -228,7 +228,7 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 363 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 363 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

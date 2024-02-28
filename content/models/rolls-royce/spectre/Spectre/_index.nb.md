@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Rolls-Royce Spectre i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Rolls-Royce Spectre har en maksimal effekt på 430 KW (585hk). Totalt dreiemoment er 900 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 250 km/t.
+Rolls-Royce Spectre har en maksimal effekt på 430 KW (585hk). Totalt dreiemoment er 900 nm. Den utfører sprinten 0-100 km/t på 4.5 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 105,7kWh og en nettokapasitet på 102kWh, noe som betyr at du har et 3,7kWh-buffer for beskyttelse. (3,5%).
+Batteriet har en bruttokapasitet på 105.7kWh og en nettokapasitet på 102kWh, noe som betyr at du har et 3.7kWh-buffer for beskyttelse. (3.5%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 530 km. Forbruket er 19.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -226,7 +226,7 @@ Lastkapasiteten i bagasjerommet er 500 liter. Maksimumsvekten til bilen er 3400 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 18.10.2022, og leveringene startet i December 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 10/18/2022, og leveringene startet i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rolls-Royce Spectre </strong>
 </a>

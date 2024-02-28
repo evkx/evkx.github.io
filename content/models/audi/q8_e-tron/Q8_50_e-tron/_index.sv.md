@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Audi Q8 50 e-tron i avsnitt. Om du vill vän
 
 ## Prestanda
 
-Audi Q8 50 e-tron har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 540 Nm. Den gör sprinten 0-100 km/h på 6,8 sekunder. Topphastigheten är 200 km/h.
+Audi Q8 50 e-tron har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 540 Nm. Den gör sprinten 0-100 km/h på 6.8 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 95kWh och en nettokapacitet på 89kWh, vilket innebär att du har en 6kWh buffert för skydd. (6,3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 95kWh och en nettokapacitet på 89kWh, vilket innebär att du har en 6kWh buffert för skydd. (6.3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 491 till 406 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.1kWh/100 km för basversionen och 21.9kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -308,7 +308,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 09.11.2022 och leveranserna startade i March 2023. Denna modell är endast tillgänglig i Europa.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 11/9/2022 och leveranserna startade i March 2023. Denna modell är endast tillgänglig i Europa.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

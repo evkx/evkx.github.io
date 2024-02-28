@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Cadillac LYRIQ AWD.
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,6 s
+				4.6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				3,0 mi/kWh
+				3.0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -242,7 +242,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				12,1 meter
+				12.1 meter
 			</td>
 		</tr>
 	</tbody>

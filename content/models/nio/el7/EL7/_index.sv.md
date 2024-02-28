@@ -29,29 +29,29 @@ Vi har delat in vår beskrivning av Nio EL7 i avsnitt. Om du vill vänta med att
 
 ## Prestanda
 
-Nio EL7 har en maximal effekt på 480 KW (653hk). Totalt vridmoment är 850 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 200 km/h.
+Nio EL7 har en maximal effekt på 480 KW (653hk). Totalt vridmoment är 850 Nm. Den gör sprinten 0-100 km/h på 3.9 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
 Nio EL7 har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
 ### 100kWh
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 90kWh, vilket innebär att du har en 10kWh buffert för skydd. (10,0%).
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 90kWh, vilket innebär att du har en 10kWh buffert för skydd. (10.0%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 513 till 486 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.5kWh/100 km för basversionen och 18.5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 75 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 44%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 86kW. Varje laddningssession tar 27 minuter och 2 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25,5kWh/100km, tar 1000km 10 timmar och 15 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 1% till 47%. Total tid som går förlorad för att ladda batteriet kommer att vara 116 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25.5kWh/100km, tar 1000km 10 timmar och 15 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 1% till 47%. Total tid som går förlorad för att ladda batteriet kommer att vara 116 minuter.
 ### 75kWh
 
-Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70,5kWh, vilket innebär att du har en 4,5kWh buffert för skydd. (6,0%).
+Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70.5kWh, vilket innebär att du har en 4.5kWh buffert för skydd. (6.0%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 394 till 372 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.5kWh/100 km för basversionen och 18.5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 140 kW. En full laddning från 0 - 100 % tar 65 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 37 minuter och 57 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25,5kWh/100km, tar 1000km 10 timmar och 45 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 7% till 73%. Total tid som går förlorad för att ladda batteriet kommer att vara 146 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25.5kWh/100km, tar 1000km 10 timmar och 45 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 7% till 73%. Total tid som går förlorad för att ladda batteriet kommer att vara 146 minuter.
 
 ### Inbyggd laddare
 

@@ -29,11 +29,11 @@ We have separated our Honda Prologue FWD article into sections. If you want to w
 
 ## Performance
 
-The Honda Prologue FWD has a maximum power of 158 KW (215 hp/212 bhp). The total torque is 320 nm (236 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,5 seconds.
+The Honda Prologue FWD has a maximum power of 158 KW (215 hp/212 bhp). The total torque is 320 nm (236 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.5 seconds.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 89kWh and a net capacity of 85kWh, meaning you have a 4kWh buffer for protection. (4,5%).
+The battery has a gross capacity of 89kWh and a net capacity of 85kWh, meaning you have a 4kWh buffer for protection. (4.5%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 296 miles (476 km). The consumption is 3.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 23 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 23 minutes.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}

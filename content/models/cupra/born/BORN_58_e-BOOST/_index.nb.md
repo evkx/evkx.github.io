@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av CUPRA BORN 58 e-BOOST i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Med overboost har CUPRA BORN 58 e-BOOST en maksimal effekt på 170 KW (231hk). Uten overboost er den 150KW (204hk). Dreiemomentet er 310 nm med overboost og 310 uten overboost. Den utfører sprinten 0-100 km/t på 6,6 sekunder med overboost og 7,3 sekunder uten overboost. Topphastigheten er 160 km/t.
+Med overboost har CUPRA BORN 58 e-BOOST en maksimal effekt på 170 KW (231hk). Uten overboost er den 150KW (204hk). Dreiemomentet er 310 nm med overboost og 310 uten overboost. Den utfører sprinten 0-100 km/t på 6.6 sekunder med overboost og 7.3 sekunder uten overboost. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 62kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6,5%).
+Batteriet har en bruttokapasitet på 62kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6.5%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 420 til 362 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.8kWh/100 km for basisversjonen og 16.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

@@ -33,7 +33,7 @@ Mercedes-EQ EQA 350 4MATIC har en maksimal effekt på 215 KW (292hk). Totalt dre
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 69,7kWh og en nettokapasitet på 66,5kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (4,6%).
+Batteriet har en bruttokapasitet på 69.7kWh og en nettokapasitet på 66.5kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (4.6%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 438 til 411 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.2kWh/100 km for basisversjonen og 16.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

@@ -29,11 +29,11 @@ Vi har opdelt vores BMW i4 M50 artikel i sektioner. Hvis du vil vente med at læ
 
 ## Ydeevne
 
-BMW i4 M50 har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 795 nm (587 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Tophastigheden er 225 km/t.
+BMW i4 M50 har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 795 nm (587 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.9 sekunder. Tophastigheden er 225 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 83,9kWh og en nettokapacitet på 80,7kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (3,8%).
+Batteriet har en bruttokapacitet på 83.9kWh og en nettokapacitet på 80.7kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (3.8%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 521 til 416 km (324-259 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.5kWh/100 km for basisversionen og 19.4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -226,7 +226,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2735 kg (6030 lbs), og med basisvægten på 2215 kg (4883 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2735 kg (6030 lbs), og med basisvægten på 2215 kg (4883 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -10,7 +10,7 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Nye Lexus UX 300e med 40% større batteri testet i minus 29 grader</h3>
-<p>Nybiltester: 08.02.2024</p>
+<p>Nybiltester: 08/02/2024</p>
 
 {{< youtube ymVO0SVExY8 >}}
 

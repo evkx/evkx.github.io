@@ -29,11 +29,11 @@ Vi har opdelt vores VinFast VF8 Eco artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-VinFast VF8 Eco har en maksimal effekt på 260 KW (354 hk/349 hk). Det samlede drejningsmoment er 500 nm (369 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,9 sekunder. Tophastigheden er 200 km/t.
+VinFast VF8 Eco har en maksimal effekt på 260 KW (354 hk/349 hk). Det samlede drejningsmoment er 500 nm (369 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.9 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 94kWh og en nettokapacitet på 87,7kWh, hvilket betyder, at du har en 6,3kWh buffer til beskyttelse. (6,7%).
+Batteriet har en bruttokapacitet på 94kWh og en nettokapacitet på 87.7kWh, hvilket betyder, at du har en 6.3kWh buffer til beskyttelse. (6.7%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 471 km (293 mi). Forbruget er 18.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -208,7 +208,7 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 376 liter. Med bagsædet nede er det 1373 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 78 liter (2,8 CU FT). Bilens maksimale vægt er 3075 kg (6779 lbs), og med basisvægten på 2600 kg (5732 lbs), kan du maksimalt laste 475 kg (1047 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 475kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 376 liter. Med bagsædet nede er det 1373 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 78 liter (2.8 CU FT). Bilens maksimale vægt er 3075 kg (6779 lbs), og med basisvægten på 2600 kg (5732 lbs), kan du maksimalt laste 475 kg (1047 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 475kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Volkswagen ID.7 Pro S i avsnitt. Om du vill 
 
 ## Prestanda
 
-Volkswagen ID.7 Pro S har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 550 Nm. Den gör sprinten 0-100 km/h på 6,5 sekunder. Topphastigheten är 180 km/h.
+Volkswagen ID.7 Pro S har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 550 Nm. Den gör sprinten 0-100 km/h på 6.5 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 86kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,5%).
+Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 86kWh, vilket innebär att du har en 5kWh buffert för skydd. (5.5%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 700 till 622 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.3kWh/100 km för basversionen och 13.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

@@ -29,11 +29,11 @@ We have separated our Kia EV6 Long Range AWD article into sections. If you want 
 
 ## Performance
 
-The Kia EV6 Long Range AWD has a maximum power of 239 KW (325 hp/321 bhp). The total torque is 605 nm (446 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,2 seconds. The top speed is 185 km/h.
+The Kia EV6 Long Range AWD has a maximum power of 239 KW (325 hp/321 bhp). The total torque is 605 nm (446 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.2 seconds. The top speed is 185 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4,4%).
+The battery has a gross capacity of 77.4kWh and a net capacity of 74kWh, meaning you have a 3.4kWh buffer for protection. (4.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 506 to 484 km (315-301 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.6kWh/100km for the basic version and 15.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -202,7 +202,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80 kg (176,4 lbs). Under the hood, there is frunk with more storage room. This frunk is 20 liters (0,7 CU FT). The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 2015 kg (4442 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80 kg (176.4 lbs). Under the hood, there is frunk with more storage room. This frunk is 20 liters (0.7 CU FT). The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 2015 kg (4442 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 

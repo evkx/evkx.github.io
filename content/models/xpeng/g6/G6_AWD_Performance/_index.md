@@ -29,11 +29,11 @@ We have separated our XPENG G6 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG G6 AWD Performance has a maximum power of 358 KW (487 hp/480 bhp). The total torque is 660 nm (487 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,9 seconds. The top speed is 202 km/h.
+The XPENG G6 AWD Performance has a maximum power of 358 KW (487 hp/480 bhp). The total torque is 660 nm (487 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.9 seconds. The top speed is 202 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 87,5kWh and a net capacity of 82kWh, meaning you have a 5,5kWh buffer for protection. (6,3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 87.5kWh and a net capacity of 82kWh, meaning you have a 5.5kWh buffer for protection. (6.3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 11.7kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -201,7 +201,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 571 liters. With the rear seat down, it is 1374 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2,5 CU FT). The maxium weight of the car is 2600 kg (5732 lbs), and with the base weight of 2095 kg (4619 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 571 liters. With the rear seat down, it is 1374 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2.5 CU FT). The maxium weight of the car is 2600 kg (5732 lbs), and with the base weight of 2095 kg (4619 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

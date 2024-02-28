@@ -35,11 +35,11 @@ Denne modellen er erstattet av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tro
 
 ## Ytelse
 
-Med overboost har Audi e-tron S Sportback en maksimal effekt på 370 KW (503hk). Uten overboost er den 320KW (435hk). Dreiemomentet er 973 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 4,5 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
+Med overboost har Audi e-tron S Sportback en maksimal effekt på 370 KW (503hk). Uten overboost er den 320KW (435hk). Dreiemomentet er 973 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 4.5 sekunder med overboost og 6.6 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 95kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 9kWh-buffer for beskyttelse. (9,5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 95kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 9kWh-buffer for beskyttelse. (9.5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 379 til 347 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 22.7kWh/100 km for basisversjonen og 24.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -278,7 +278,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.11.2019, og leveringene startet i May 2020. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 11/19/2019, og leveringene startet i May 2020. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

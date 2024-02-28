@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Fisker Ocean Sport i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Med overboost har Fisker Ocean Sport en maximal effekt på 209 KW (284hk). Utan overboost är det 180KW (245hp). Vridmomentet är 386 Nm med överboost och 386 utan överboost. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 188 km/h.
+Med overboost har Fisker Ocean Sport en maximal effekt på 209 KW (284hk). Utan overboost är det 180KW (245hp). Vridmomentet är 386 Nm med överboost och 386 utan överboost. Den gör sprinten 0-100 km/h på 7.9 sekunder. Topphastigheten är 188 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 73kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 3kWh buffert för skydd. (4,1%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 73kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 3kWh buffert för skydd. (4.1%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 464 km. Förbrukningen är 15.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

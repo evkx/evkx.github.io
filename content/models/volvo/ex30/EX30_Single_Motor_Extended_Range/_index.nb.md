@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Volvo EX30 Single Motor Extended Range i seksjon
 
 ## Ytelse
 
-Volvo EX30 Single Motor Extended Range har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 5,3 sekunder. Topphastigheten er 180 km/t.
+Volvo EX30 Single Motor Extended Range har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 5.3 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (7,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (7.2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 460 km. Forbruket er 13.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

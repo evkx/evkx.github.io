@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-Maybach EQS 6
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,4 s
+				4.4 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				18,1 kWh/100km
+				18.1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				22,5 kWh/100km
+				22.5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				21,6 kWh/100km
+				21.6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				24,4 kwh/100km
+				24.4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				108,4 kWh
+				108.4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,288
+				0.288
 			</td>
 		</tr>
 		<tr>
@@ -1114,7 +1114,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12.3
 			</td>
 		</tr>
 		<tr>
@@ -1122,7 +1122,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 17,7
+				Ja, 17.7
 			</td>
 		</tr>
 		<tr>
@@ -1130,7 +1130,7 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Ja, 12,3"
+				Ja, 12.3"
 			</td>
 		</tr>
 		<tr>

@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av XPENG P7 AWD Performance i seksjoner. Hvis du vi
 
 ## Ytelse
 
-XPENG P7 AWD Performance har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 717 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 205 km/t.
+XPENG P7 AWD Performance har en maksimal effekt på 405 KW (551hk). Totalt dreiemoment er 717 nm. Den utfører sprinten 0-100 km/t på 3.9 sekunder. Topphastigheten er 205 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 86,2kWh og en nettokapasitet på 82,7kWh, noe som betyr at du har et 3,5kWh-buffer for beskyttelse. (4,1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 86.2kWh og en nettokapasitet på 82.7kWh, noe som betyr at du har et 3.5kWh-buffer for beskyttelse. (4.1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 505 km. Forbruket er 16.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

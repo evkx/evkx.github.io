@@ -29,11 +29,11 @@ Vi har opdelt vores Volvo EX40 Twin Motor artikel i sektioner. Hvis du vil vente
 
 ## Ydeevne
 
-Volvo EX40 Twin Motor har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Tophastigheden er 180 km/t.
+Volvo EX40 Twin Motor har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.8 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 535 til 522 km (333-324 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.8kWh/100 km for basisversionen og 15.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -183,7 +183,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1295 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1295 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1.1 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
 
@@ -192,7 +192,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 20.02.2024, og leveringerne startede i April 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 2/20/2024, og leveringerne startede i April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EX40 </strong>
 </a>

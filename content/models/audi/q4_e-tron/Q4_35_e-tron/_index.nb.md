@@ -33,7 +33,7 @@ Audi Q4 35 e-tron har en maksimal effekt på 125 KW (170hk). Totalt dreiemoment 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 55kWh og en nettokapasitet på 51,5kWh, noe som betyr at du har et 3,5kWh-buffer for beskyttelse. (6,4%).
+Batteriet har en bruttokapasitet på 55kWh og en nettokapasitet på 51.5kWh, noe som betyr at du har et 3.5kWh-buffer for beskyttelse. (6.4%).
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 357 til 323 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.4kWh/100 km for basisversjonen og 15.9kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 7,2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 9 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 7.2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 9 minutter.
 
 ### Ladeport
 
@@ -247,7 +247,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i January 2022. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 4/14/2021, og leveringene startet i January 2022. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

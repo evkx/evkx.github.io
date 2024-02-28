@@ -29,21 +29,21 @@ We have separated our Nissan Ariya 87kWh article into sections. If you want to w
 
 ## Performance
 
-The Nissan Ariya 87kWh has a maximum power of 178 KW (242 hp/239 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,5 seconds. The top speed is 160 km/h.
+The Nissan Ariya 87kWh has a maximum power of 178 KW (242 hp/239 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.5 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4,4%).
+The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 533 to 475 km (331-295 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.3kWh/100km for the basic version and 18.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 59%, resulting in an actual charge speed, including time loss, of 98kW. Each charge session would take 28 minutes and 18 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24,5kWh/100km, 1000km will take 9 hours and 58 minutes. This trip will require three charge session(s) charging from 6% to 67%. The total time lost for charging up the battery will be 98 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24.5kWh/100km, 1000km will take 9 hours and 58 minutes. This trip will require three charge session(s) charging from 6% to 67%. The total time lost for charging up the battery will be 98 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2 KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 4 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 7.2 KW charging. As a result, you can charge the battery 0-100% from home in about 12 hours and 4 minutes.
 
 ### Charge port
 
@@ -197,7 +197,7 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 468 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165,3 lbs). The maxium weight of the car is 2400 kg (5291 lbs), and with the base weight of 1875 kg (4134 lbs), you can max load 525 kg (1157 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 468 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2400 kg (5291 lbs), and with the base weight of 1875 kg (4134 lbs), you can max load 525 kg (1157 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 

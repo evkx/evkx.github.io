@@ -29,11 +29,11 @@ Vi har opdelt vores Peugot E-308 SW artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-Peugot E-308 SW har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 10,5 sekunder. Tophastigheden er 170 km/t.
+Peugot E-308 SW har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 10.5 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50,8kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (5,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50.8kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (5.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 410 km (255 mi). Forbruget er 12.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -188,12 +188,12 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 548 liter. Med bagsædet nede er det 1574 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2175 kg (4795 lbs), og med basisvægten på 1716 kg (3783 lbs), kan du maksimalt laste 459 kg (1012 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 548 liter. Med bagsædet nede er det 1574 liter. På taget kan du laste op til 70 kg (154.3 lbs). Bilens maksimale vægt er 2175 kg (4795 lbs), og med basisvægten på 1716 kg (3783 lbs), kan du maksimalt laste 459 kg (1012 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 06.07.2023, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 7/6/2023, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 308 </strong>
 </a>

@@ -29,11 +29,11 @@ We have separated our MG MG4 Electric XPOWER article into sections. If you want 
 
 ## Performance
 
-The MG MG4 Electric XPOWER has a maximum power of 320 KW (435 hp/429 bhp). The total torque is 600 nm (443 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 160 km/h.
+The MG MG4 Electric XPOWER has a maximum power of 320 KW (435 hp/429 bhp). The total torque is 600 nm (443 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.8 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 64kWh and a net capacity of 61,7kWh, meaning you have a 2,3kWh buffer for protection. (3,6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 64kWh and a net capacity of 61.7kWh, meaning you have a 2.3kWh buffer for protection. (3.6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 435 km (270 mi). The consumption is 14.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

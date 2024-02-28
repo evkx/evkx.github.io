@@ -35,11 +35,11 @@ Denna modell har ersatts av [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.
 
 ## Prestanda
 
-Med overboost har Volkswagen ID.4 GTX 4MOTION (GEN1) en maximal effekt på 220 KW (299hk). Utan overboost är det 195KW (265hp). Vridmomentet är 460 Nm med överboost och 425 utan överboost. Den gör sprinten 0-100 km/h på 6,3 sekunder med överboost och 6,9 sekunder utan överboost. Topphastigheten är 180 km/h.
+Med overboost har Volkswagen ID.4 GTX 4MOTION (GEN1) en maximal effekt på 220 KW (299hk). Utan overboost är det 195KW (265hp). Vridmomentet är 460 Nm med överboost och 425 utan överboost. Den gör sprinten 0-100 km/h på 6.3 sekunder med överboost och 6.9 sekunder utan överboost. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.1%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 496 till 409 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.5kWh/100 km för basversionen och 18.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

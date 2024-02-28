@@ -29,11 +29,11 @@ Vi har opdelt vores BYD Seal U Design artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-BYD Seal U Design har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9,3 sekunder. Tophastigheden er 175 km/t.
+BYD Seal U Design har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9.3 sekunder. Tophastigheden er 175 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 87kWh og en nettokapacitet på 87kWh, hvilket betyder, at du har en 0kWh buffer til beskyttelse. (0,0%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 87kWh og en nettokapacitet på 87kWh, hvilket betyder, at du har en 0kWh buffer til beskyttelse. (0.0%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 500 km (311 mi). Forbruget er 17.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 

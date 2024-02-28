@@ -29,21 +29,21 @@ We have separated our Renault 5 E-Tech 52kWh 150hp article into sections. If you
 
 ## Performance
 
-The Renault 5 E-Tech 52kWh 150hp has a maximum power of 110 KW (150 hp/148 bhp). The total torque is 245 nm (181 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7,9 seconds. The top speed is 150 km/h.
+The Renault 5 E-Tech 52kWh 150hp has a maximum power of 110 KW (150 hp/148 bhp). The total torque is 245 nm (181 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.9 seconds. The top speed is 150 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 55kWh and a net capacity of 52kWh, meaning you have a 3kWh buffer for protection. (5,5%).
+The battery has a gross capacity of 55kWh and a net capacity of 52kWh, meaning you have a 3kWh buffer for protection. (5.5%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 13.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 58%, resulting in an actual charge speed, including time loss, of 69kW. Each charge session would take 24 minutes and 2 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19,9kWh/100km, 1000km will take 10 hours and 29 minutes. This trip will require five charge session(s) charging from 4% to 61%. The total time lost for charging up the battery will be 130 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.9kWh/100km, 1000km will take 10 hours and 29 minutes. This trip will require five charge session(s) charging from 4% to 61%. The total time lost for charging up the battery will be 130 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 7,2 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 13 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 7.2 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 13 minutes.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
@@ -99,11 +99,8 @@ Only one front seat type is available in the Renault 5 E-Tech 52kWh 150hp.
 
 The following functionalities are available on the **standard** seat.
 
-- electric adjustment (optional)
 - height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
 
@@ -119,7 +116,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 There is only one type of steering wheel available.
 

@@ -29,11 +29,11 @@ Vi har opdelt vores Polestar 2 Long Range Dual Motor artikel i sektioner. Hvis d
 
 ## Ydeevne
 
-Polestar 2 Long Range Dual Motor har en maksimal effekt på 310 KW (422 hk/416 hk). Det samlede drejningsmoment er 740 nm (546 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Tophastigheden er 205 km/t.
+Polestar 2 Long Range Dual Motor har en maksimal effekt på 310 KW (422 hk/416 hk). Det samlede drejningsmoment er 740 nm (546 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.5 sekunder. Tophastigheden er 205 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 592 til 551 km (368-342 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.3kWh/100 km for basisversionen og 14.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -191,7 +191,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1095 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2025 kg (4464 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1095 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1.1 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2025 kg (4464 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -33,7 +33,7 @@ The Honda Prologue AWD has a maximum power of 214 KW (291 hp/287 bhp). The total
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 89kWh and a net capacity of 85kWh, meaning you have a 4kWh buffer for protection. (4,5%).
+The battery has a gross capacity of 89kWh and a net capacity of 85kWh, meaning you have a 4kWh buffer for protection. (4.5%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) varies from 281 to 273 miles (452-439 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 3.3mi/kWh for the basic version and 3.2mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11,5 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 23 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 23 minutes.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}

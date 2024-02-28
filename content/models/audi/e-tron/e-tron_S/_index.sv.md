@@ -35,11 +35,11 @@ Denna modell har ersatts av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/
 
 ## Prestanda
 
-Med overboost har Audi e-tron S en maximal effekt på 370 KW (503hk). Utan overboost är det 320KW (435hp). Vridmomentet är 973 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 4,5 sekunder med överboost och 6,6 sekunder utan överboost. Topphastigheten är 200 km/h.
+Med overboost har Audi e-tron S en maximal effekt på 370 KW (503hk). Utan overboost är det 320KW (435hp). Vridmomentet är 973 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 4.5 sekunder med överboost och 6.6 sekunder utan överboost. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 95kWh och en nettokapacitet på 86kWh, vilket innebär att du har en 9kWh buffert för skydd. (9,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 95kWh och en nettokapacitet på 86kWh, vilket innebär att du har en 9kWh buffert för skydd. (9.5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 374 till 344 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 23.0kWh/100 km för basversionen och 25.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -282,7 +282,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 19.11.2019 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).<div class="mt-3 mb-3">
+Denna modell hade världspremiär 11/19/2019 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

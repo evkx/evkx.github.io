@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Volvo EC40 Twin Motor i avsnitt. Om du vill 
 
 ## Prestanda
 
-Volvo EC40 Twin Motor har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 670 Nm. Den gör sprinten 0-100 km/h på 4,7 sekunder. Topphastigheten är 180 km/h.
+Volvo EC40 Twin Motor har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 670 Nm. Den gör sprinten 0-100 km/h på 4.7 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 79kWh, vilket innebär att du har en 3kWh buffert för skydd. (3,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 79kWh, vilket innebär att du har en 3kWh buffert för skydd. (3.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 548 till 536 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.4kWh/100 km för basversionen och 14.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -200,7 +200,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 20.02.2024 och leveranserna startade i April 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 2/20/2024 och leveranserna startade i April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EC40 </strong>
 </a>

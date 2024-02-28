@@ -29,11 +29,11 @@ We have separated our CUPRA Tavascan VZ article into sections. If you want to wa
 
 ## Performance
 
-The CUPRA Tavascan VZ has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 679 nm (501 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5,6 seconds. The top speed is 180 km/h.
+The CUPRA Tavascan VZ has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 679 nm (501 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.6 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6,1%).
+The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 517 to 492 km (321-306 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.9kWh/100km for the basic version and 15.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -214,7 +214,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0,0 lbs). The maxium weight of the car is 2650 kg (5842 lbs), and with the base weight of 2042 kg (4502 lbs), you can max load 608 kg (1340 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2650 kg (5842 lbs), and with the base weight of 2042 kg (4502 lbs), you can max load 608 kg (1340 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -33,7 +33,7 @@ Med overboost har Genesis GV60 AWD Performance en maksimal effekt på 360 KW (49
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77,4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3,4kWh buffer til beskyttelse. (4,4%).
+Batteriet har en bruttokapacitet på 77.4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3.4kWh buffer til beskyttelse. (4.4%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 470 km (292 mi). Forbruget er 15.7kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -195,7 +195,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 432 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 432 liter. På taget kan du laste op til 80 kg (176.4 lbs). Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

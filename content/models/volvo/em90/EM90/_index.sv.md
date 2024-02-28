@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Volvo EM90 i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-Volvo EM90 har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 8,3 sekunder. Topphastigheten är 190 km/h.
+Volvo EM90 har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 8.3 sekunder. Topphastigheten är 190 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 116kWh och en nettokapacitet på 110kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 116kWh och en nettokapacitet på 110kWh, vilket innebär att du har en 6kWh buffert för skydd. (5.2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 738 km ( miles). Förbrukningen är 14.9kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -216,7 +216,7 @@ Lastkapaciteten i bagageutrymmet är 376 liter. Med den tredje sätesraden nere 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 12.11.2023 och leveranser förväntas starta om March 2025. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 11/12/2023 och leveranser förväntas starta om March 2025. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EM90 </strong>
 </a>

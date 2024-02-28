@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Zeekr X Privilege AWD i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Zeekr X Privilege AWD har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 543 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 180 km/t.
+Zeekr X Privilege AWD har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 543 nm. Den utfører sprinten 0-100 km/t på 3.8 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (7,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (7.2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 16.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -208,7 +208,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 12.04.2023, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 4/12/2023, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr X </strong>
 </a>

@@ -29,11 +29,11 @@ We have separated our Zeekr X Privilege AWD article into sections. If you want t
 
 ## Performance
 
-The Zeekr X Privilege AWD has a maximum power of 315 KW (428 hp/422 bhp). The total torque is 543 nm (401 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,8 seconds. The top speed is 180 km/h.
+The Zeekr X Privilege AWD has a maximum power of 315 KW (428 hp/422 bhp). The total torque is 543 nm (401 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.8 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 69kWh and a net capacity of 64kWh, meaning you have a 5kWh buffer for protection. (7,2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 69kWh and a net capacity of 64kWh, meaning you have a 5kWh buffer for protection. (7.2%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 16.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -199,7 +199,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 362 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 7 liters (0,2 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 1960 kg (4321 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 362 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 7 liters (0.2 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 1960 kg (4321 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 
@@ -208,7 +208,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 12.04.2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 4/12/2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr X </strong>
 </a>

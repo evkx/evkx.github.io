@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Rivian R1T Quad-Motor AWD i avsnitt. Om du v
 
 ## Prestanda
 
-Rivian R1T Quad-Motor AWD har en maximal effekt på 620 KW (843hk). Totalt vridmoment är 1231 Nm. Den gör sprinten 0-100 km/h på 3,1 sekunder. Topphastigheten är 201 km/h.
+Rivian R1T Quad-Motor AWD har en maximal effekt på 620 KW (843hk). Totalt vridmoment är 1231 Nm. Den gör sprinten 0-100 km/h på 3.1 sekunder. Topphastigheten är 201 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 135kWh och en nettokapacitet på 125kWh, vilket innebär att du har en 10kWh buffert för skydd. (7,4%).
+Batteriet har en bruttokapacitet på 135kWh och en nettokapacitet på 125kWh, vilket innebär att du har en 10kWh buffert för skydd. (7.4%).
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 321 till 289 miles (516-465 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2.6mi/kWh för basversionen och 2.3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 10 timmar och 52 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 10 timmar och 52 minuter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2048" height="1280"  >}}
@@ -212,7 +212,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 26.11.2018 och leveranserna startade i September 2021.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 11/26/2018 och leveranserna startade i September 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

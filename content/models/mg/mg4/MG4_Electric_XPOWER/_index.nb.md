@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av MG MG4 Electric XPOWER i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-MG MG4 Electric XPOWER har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 600 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 160 km/t.
+MG MG4 Electric XPOWER har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 600 nm. Den utfører sprinten 0-100 km/t på 3.8 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 64kWh og en nettokapasitet på 61,7kWh, noe som betyr at du har et 2,3kWh-buffer for beskyttelse. (3,6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 64kWh og en nettokapasitet på 61.7kWh, noe som betyr at du har et 2.3kWh-buffer for beskyttelse. (3.6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 435 km. Forbruket er 14.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 

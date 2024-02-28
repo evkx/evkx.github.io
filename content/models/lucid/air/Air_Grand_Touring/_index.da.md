@@ -33,7 +33,7 @@ Lucid Air Grand Touring har en maksimal effekt på 597 KW (812 hk/801 hk). Det s
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 112kWh og en nettokapacitet på 112kWh, hvilket betyder, at du har en 0kWh buffer til beskyttelse. (0,0%).
+Batteriet har en bruttokapacitet på 112kWh og en nettokapacitet på 112kWh, hvilket betyder, at du har en 0kWh buffer til beskyttelse. (0.0%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 839 til 783 km (521-487 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.3kWh/100 km for basisversionen og 14.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -206,7 +206,7 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10,0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10.0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Tesla Cybertruck AWD i avsnitt. Om du vill v
 
 ## Prestanda
 
-Tesla Cybertruck AWD har en maximal effekt på 448 KW (609hk). Totalt vridmoment är 671 Nm. Den gör sprinten 0-100 km/h på 4,1 sekunder. Topphastigheten är 180 km/h.
+Tesla Cybertruck AWD har en maximal effekt på 448 KW (609hk). Totalt vridmoment är 671 Nm. Den gör sprinten 0-100 km/h på 4.1 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 123kWh och en nettokapacitet på 122,5kWh, vilket innebär att du har en 0,5kWh buffert för skydd. (0,4%).
+Batteriet har en bruttokapacitet på 123kWh och en nettokapacitet på 122.5kWh, vilket innebär att du har en 0.5kWh buffert för skydd. (0.4%).
 
 [EPA-räckvidd](../../../../guides/understandingrange/epa/) är 340 miles (547 km). Förbrukningen är 2.8mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -239,7 +239,7 @@ Med Full Self-Driving Capability  nivå 3-systemet får du fler körautomationsf
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten för lastbilen är 1897,23 liter. Bredden på lastflaket är 1295 mm och längden är 1849 mm. Den maximala lastvikten i lastflaket är 1134 kg. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 201 liter. Bilens maximala vikt är 4159 kg, och med basvikten på 3025 kg kan du lasta maximalt 1134 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten för lastbilen är 1897.23 liter. Bredden på lastflaket är 1295 mm och längden är 1849 mm. Den maximala lastvikten i lastflaket är 1134 kg. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 201 liter. Bilens maximala vikt är 4159 kg, och med basvikten på 3025 kg kan du lasta maximalt 1134 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 4990, och på obromsad är den 750 kg.
 
@@ -248,7 +248,7 @@ Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släp
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 30.11.2023 och leveranserna startade i November 2023. Denna modell är endast tillgänglig i Nordamerika.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 11/30/2023 och leveranserna startade i November 2023. Denna modell är endast tillgänglig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
 </a>

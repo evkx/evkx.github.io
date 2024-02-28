@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Peugot E-308 SW i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-Peugot E-308 SW har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260 Nm. Den gör sprinten 0-100 km/h på 10,5 sekunder. Topphastigheten är 170 km/h.
+Peugot E-308 SW har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260 Nm. Den gör sprinten 0-100 km/h på 10.5 sekunder. Topphastigheten är 170 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 54kWh och en nettokapacitet på 50,8kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (5,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh och en nettokapacitet på 50.8kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (5.9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 410 km. Förbrukningen är 12.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -193,7 +193,7 @@ Lastkapaciteten i bagageutrymmet är 548 liter. Med baksätet nedfällt är det 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 06.07.2023 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 7/6/2023 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 308 </strong>
 </a>

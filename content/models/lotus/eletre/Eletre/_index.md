@@ -29,11 +29,11 @@ We have separated our Lotus Eletre article into sections. If you want to wait to
 
 ## Performance
 
-The Lotus Eletre has a maximum power of 450 KW (612 hp/604 bhp). The total torque is 710 nm (524 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4,5 seconds. The top speed is 258 km/h.
+The Lotus Eletre has a maximum power of 450 KW (612 hp/604 bhp). The total torque is 710 nm (524 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds. The top speed is 258 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 112kWh and a net capacity of 109kWh, meaning you have a 3kWh buffer for protection. (2,7%).
+The battery has a gross capacity of 112kWh and a net capacity of 109kWh, meaning you have a 3kWh buffer for protection. (2.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 600 to 535 km (373-333 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 18.2kWh/100km for the basic version and 20.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -223,7 +223,7 @@ Up to four [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 46 liters (1,6 CU FT). The maxium weight of the car is 3100 kg (6834 lbs), and with the base weight of 2640 kg (5820 lbs), you can max load 460 kg (1014 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 460kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 46 liters (1.6 CU FT). The maxium weight of the car is 3100 kg (6834 lbs), and with the base weight of 2640 kg (5820 lbs), you can max load 460 kg (1014 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 460kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750 kg (4960/1653 lbs).
 
@@ -232,7 +232,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 29.01.2021, and deliveries started in March 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 1/29/2021, and deliveries started in March 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lotus Eletre </strong>
 </a>

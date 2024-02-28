@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Volvo EC40 Single Motor i seksjoner. Hvis du vil
 
 ## Ytelse
 
-Volvo EC40 Single Motor har en maksimal effekt på 175 KW (238hk). Totalt dreiemoment er 420 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 180 km/t.
+Volvo EC40 Single Motor har en maksimal effekt på 175 KW (238hk). Totalt dreiemoment er 420 nm. Den utfører sprinten 0-100 km/t på 7.3 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 66kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (4,3%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 66kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (4.3%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 478 til 466 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.8kWh/100 km for basisversjonen og 14.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -200,7 +200,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 20.02.2024, og leveringene startet i April 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 2/20/2024, og leveringene startet i April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EC40 </strong>
 </a>

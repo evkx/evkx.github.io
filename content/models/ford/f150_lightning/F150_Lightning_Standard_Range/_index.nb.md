@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Ford F150 Lightning Standard Range i seksjoner. 
 
 ## Ytelse
 
-Ford F150 Lightning Standard Range har en maksimal effekt på 433 KW (589hk). Totalt dreiemoment er 1050 nm. Den utfører sprinten 0-100 km/t på 4,2 sekunder. Topphastigheten er 180 km/t.
+Ford F150 Lightning Standard Range har en maksimal effekt på 433 KW (589hk). Totalt dreiemoment er 1050 nm. Den utfører sprinten 0-100 km/t på 4.2 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 12kWh-buffer for beskyttelse. (10,9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 12kWh-buffer for beskyttelse. (10.9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 427 km. Forbruket er 23.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 19,2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 6 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 19.2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 6 minutter.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}
@@ -213,7 +213,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.05.2021, og leveringene startet i December 2021.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 5/19/2021, og leveringene startet i December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
 </a>

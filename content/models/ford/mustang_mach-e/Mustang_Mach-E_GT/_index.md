@@ -29,11 +29,11 @@ We have separated our Ford Mustang Mach-E GT article into sections. If you want 
 
 ## Performance
 
-The Ford Mustang Mach-E GT has a maximum power of 358 KW (487 hp/480 bhp). The total torque is 860 nm (635 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3,7 seconds. The top speed is 200 km/h.
+The Ford Mustang Mach-E GT has a maximum power of 358 KW (487 hp/480 bhp). The total torque is 860 nm (635 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.7 seconds. The top speed is 200 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98,8kWh and a net capacity of 92kWh, meaning you have a 6,8kWh buffer for protection. (6,9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 98.8kWh and a net capacity of 92kWh, meaning you have a 6.8kWh buffer for protection. (6.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 490 km (305 mi). The consumption is 18.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -209,7 +209,7 @@ With the Ford BlueCruise  level 2 system, you get the following driving automati
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 1420 liters. On the roof, you can load up to 75 kg (165,3 lbs). Under the hood, there is frunk with more storage room. This frunk is 100 liters (3,5 CU FT). The maxium weight of the car is 2690 kg (5930 lbs), and with the base weight of 2218 kg (4890 lbs), you can max load 472 kg (1041 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 472kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 1420 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 100 liters (3.5 CU FT). The maxium weight of the car is 2690 kg (5930 lbs), and with the base weight of 2218 kg (4890 lbs), you can max load 472 kg (1041 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 472kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
 

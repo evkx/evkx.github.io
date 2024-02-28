@@ -29,11 +29,11 @@ Vi har opdelt vores Lotus Emeya artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-Lotus Emeya har en maksimal effekt på 675 KW (918 hk/905 hk). Det samlede drejningsmoment er 985 nm (727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,78 sekunder. Tophastigheden er 256 km/t.
+Lotus Emeya har en maksimal effekt på 675 KW (918 hk/905 hk). Det samlede drejningsmoment er 985 nm (727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.78 sekunder. Tophastigheden er 256 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 108kWh og en nettokapacitet på 102kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5,6%).
+Batteriet har en bruttokapacitet på 108kWh og en nettokapacitet på 102kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5.6%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 535 til 490 km (333-305 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19.1kWh/100 km for basisversionen og 20.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -220,12 +220,12 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 688 liter. Med bagsædet nede er det 1532 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 46 liter (1,6 CU FT). Bilens maksimale vægt er 3100 kg (6834 lbs), og med basisvægten på 2565 kg (5655 lbs), kan du maksimalt laste 535 kg (1179 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 688 liter. Med bagsædet nede er det 1532 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 46 liter (1.6 CU FT). Bilens maksimale vægt er 3100 kg (6834 lbs), og med basisvægten på 2565 kg (5655 lbs), kan du maksimalt laste 535 kg (1179 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1225, og på ubremset er den 750 kg (2701/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 12.10.2023, og leveringer forventes at starte om March 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 10/12/2023, og leveringer forventes at starte om March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lotus Emeya </strong>
 </a>

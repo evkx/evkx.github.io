@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av XPENG X9 AWD Performance i avsnitt. Om du vi
 
 ## Prestanda
 
-XPENG X9 AWD Performance har en maximal effekt på 370 KW (503hk). Totalt vridmoment är 640 Nm. Den gör sprinten 0-100 km/h på 5,7 sekunder. Topphastigheten är 200 km/h.
+XPENG X9 AWD Performance har en maximal effekt på 370 KW (503hk). Totalt vridmoment är 640 Nm. Den gör sprinten 0-100 km/h på 5.7 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 101,5kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 3,5kWh buffert för skydd. (3,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 101.5kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 3.5kWh buffert för skydd. (3.4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 640 km ( miles). Förbrukningen är 15.3kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 

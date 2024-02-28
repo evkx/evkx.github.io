@@ -43,7 +43,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				610 km / 379 mi
 			</td>
 			<td>
-				17,77kWh/100km / 3,5 mi/kWh
+				17.77kWh/100km / 3.5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				511 km / 318 mi
 			</td>
 			<td>
-				21,21 kWh/100km / 2,9 mi/kWh
+				21.21 kWh/100km / 2.9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -90,7 +90,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				 491km / 305 mi 
 			</td>
 			<td>
-				-19,5%
+				-19.5%
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				425 km / 264 mi
 			</td>
 			<td>
-				-16,8%
+				-16.8%
 			</td>
 		</tr>
 	</tbody>
@@ -135,7 +135,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				493km / 306 mi
 			</td>
 			<td>
-				22 kWh/100km / 2,8 mi/kWh
+				22 kWh/100km / 2.8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +146,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				458km /278mi
 			</td>
 			<td>
-				24,2 kWh/100km /2,6 mi/kWh 
+				24.2 kWh/100km /2.6 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -157,7 +157,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				417 km / 259 mi
 			</td>
 			<td>
-				26 kWh/100km / 2,4 mi/kWh
+				26 kWh/100km / 2.4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -168,7 +168,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				390km / 242mi
 			</td>
 			<td>
-				27,8 kWh/100km / 2,2 mi/kWh  
+				27.8 kWh/100km / 2.2 mi/kWh  
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				380 km / 236 mi
 			</td>
 			<td>
-				28,5 kWh/100km / 2,2 mi/kWh
+				28.5 kWh/100km / 2.2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -190,7 +190,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				359 km /223mi
 			</td>
 			<td>
-				30,2 kWh/100km /2,1 mi/kWh
+				30.2 kWh/100km /2.1 mi/kWh
 			</td>
 		</tr>
 	</tbody>

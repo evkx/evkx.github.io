@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e_ny1/"><img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="e:Ny1" ></a>
-<i class="bi bi-battery-full"></i> 68,8 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-battery-full"></i> 68.8 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

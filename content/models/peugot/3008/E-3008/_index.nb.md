@@ -29,11 +29,11 @@ Vi har delt vår beskrivelse av Peugot E-3008 i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Peugot E-3008 har en maksimal effekt på 157 KW (214hk). Totalt dreiemoment er 345 nm. Den utfører sprinten 0-100 km/t på 8,8 sekunder. Topphastigheten er 170 km/t.
+Peugot E-3008 har en maksimal effekt på 157 KW (214hk). Totalt dreiemoment er 345 nm. Den utfører sprinten 0-100 km/t på 8.8 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77kWh og en nettokapasitet på 73kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (5,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 77kWh og en nettokapasitet på 73kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (5.2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 527 til 512 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.9kWh/100 km for basisversjonen og 14.3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
@@ -209,7 +209,7 @@ Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1480 lite
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1250, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 12.09.2023, og leveringene startet i February 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 9/12/2023, og leveringene startet i February 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 3008 </strong>
 </a>

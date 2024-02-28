@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Audi Q8 55 e-tron i avsnitt. Om du vill vän
 
 ## Prestanda
 
-Med overboost har Audi Q8 55 e-tron en maximal effekt på 300 KW (408hk). Utan overboost är det 265KW (360hp). Vridmomentet är 664 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 5,6 sekunder med överboost och 6,6 sekunder utan överboost. Topphastigheten är 200 km/h.
+Med overboost har Audi Q8 55 e-tron en maximal effekt på 300 KW (408hk). Utan overboost är det 265KW (360hp). Vridmomentet är 664 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 5.6 sekunder med överboost och 6.6 sekunder utan överboost. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 114kWh och en nettokapacitet på 106kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 114kWh och en nettokapacitet på 106kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 582 till 487 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.2kWh/100 km för basversionen och 21.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
@@ -308,7 +308,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 09.11.2022 och leveranserna startade i March 2023. Denna modell är tillgänglig i Nordamerika, Kina, Europa och Mellanöstern.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 11/9/2022 och leveranserna startade i March 2023. Denna modell är tillgänglig i Nordamerika, Kina, Europa och Mellanöstern.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

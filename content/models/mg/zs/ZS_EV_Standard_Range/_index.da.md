@@ -29,11 +29,11 @@ Vi har opdelt vores MG ZS EV Standard Range artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-MG ZS EV Standard Range har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 280 nm (207 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Tophastigheden er 175 km/t.
+MG ZS EV Standard Range har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 280 nm (207 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.6 sekunder. Tophastigheden er 175 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 51,1kWh og en nettokapacitet på 49kWh, hvilket betyder, at du har en 2,1kWh buffer til beskyttelse. (4,1%).
+Batteriet har en bruttokapacitet på 51.1kWh og en nettokapacitet på 49kWh, hvilket betyder, at du har en 2.1kWh buffer til beskyttelse. (4.1%).
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 320 km (199 mi). Forbruget er 15.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -195,7 +195,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 448 liter. Med bagsædet nede er det 1166 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5,3 CU FT). Bilens maksimale vægt er 2070 kg (4564 lbs), og med basisvægten på 1620 kg (3571 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 450kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 448 liter. Med bagsædet nede er det 1166 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5.3 CU FT). Bilens maksimale vægt er 2070 kg (4564 lbs), og med basisvægten på 1620 kg (3571 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 450kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 500, og på ubremset er den 500 kg (1102/1102 lbs).
 
@@ -204,7 +204,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 07.10.2021, og leveringerne startede i January 2022.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 10/7/2021, og leveringerne startede i January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG ZS </strong>
 </a>

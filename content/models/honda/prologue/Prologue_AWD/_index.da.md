@@ -33,7 +33,7 @@ Honda Prologue AWD har en maksimal effekt på 214 KW (291 hk/287 hk). Det samled
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,5%).
+Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4.5%).
 
 [EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 281 til 273 miles (452-439 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 3.3mi/kWh for basisversionen og 3.2mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 23 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11.5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 23 minutter.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}

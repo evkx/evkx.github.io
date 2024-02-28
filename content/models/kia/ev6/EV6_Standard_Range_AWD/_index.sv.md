@@ -29,11 +29,11 @@ Vi har delat in vår beskrivning av Kia EV6 Standard Range AWD i avsnitt. Om du 
 
 ## Prestanda
 
-Kia EV6 Standard Range AWD har en maximal effekt på 173 KW (235hk). Totalt vridmoment är 605 Nm. Den gör sprinten 0-100 km/h på 6,2 sekunder. Topphastigheten är 185 km/h.
+Kia EV6 Standard Range AWD har en maximal effekt på 173 KW (235hk). Totalt vridmoment är 605 Nm. Den gör sprinten 0-100 km/h på 6.2 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 58kWh och en nettokapacitet på 54kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,9%).
+Batteriet har en bruttokapacitet på 58kWh och en nettokapacitet på 54kWh, vilket innebär att du har en 4kWh buffert för skydd. (6.9%).
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 371 km. Förbrukningen är 14.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
