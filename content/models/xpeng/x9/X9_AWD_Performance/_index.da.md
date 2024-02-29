@@ -29,13 +29,13 @@ Vi har opdelt vores XPENG X9 AWD Performance artikel i sektioner. Hvis du vil ve
 
 ## Ydeevne
 
-XPENG X9 AWD Performance har en maksimal effekt på 370 KW (503 hk/496 hk). Det samlede drejningsmoment er 640 nm (472 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.7 sekunder. Tophastigheden er 200 km/t.
+XPENG X9 AWD Performance har en maksimal effekt på 370 KW (503 hk/496 hk). Det samlede drejningsmoment er 640 nm (472 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 101.5kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 3.5kWh buffer til beskyttelse. (3.4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 101,5kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 3,5kWh buffer til beskyttelse. (3,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 640 km ( miles). Forbruget er 15.3kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 640 km ( miles). Forbruget er 15,3kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 52 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 171kW. Hver opladningssession ville tage 18 minutter og 12 sekunder.
 
@@ -151,7 +151,7 @@ XPENG X9 AWD Performance har flere funktioner til at gøre dit liv som chauffør
 
 ## Brugergrænseflade og kontrol
 
-XPENG X9 AWD Performance har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 10.3 tommer stor. Skærmen touch i dashboardets midte er 15.0 tommer stor.
+XPENG X9 AWD Performance har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 15,0 tommer stor.
 Modellen har ikke et head-up display.
 
 

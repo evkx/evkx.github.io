@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Lexus UX 300e. Click
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7.5 s
+				7,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				14.2 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				16.0 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				14.5 kWh/100km
+				14,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				17.0 kwh/100km
+				17,0 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				3.1 mi/kWh
+				3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +166,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				71.4 kWh
+				71,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -206,7 +206,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				355.2
+				355,2
 			</td>
 		</tr>
 	</tbody>
@@ -360,7 +360,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4495 mm (177.0")
+				4495 mm (177,0")
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1545 mm (60.8")
+				1545 mm (60,8")
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1840 mm (72.4")
+				1840 mm (72,4")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2078 mm (81.8")
+				2078 mm (81,8")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2640 mm (103.9")
+				2640 mm (103,9")
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.4 meter (448.8")
+				11,4 meter (448,8")
 			</td>
 		</tr>
 	</tbody>
@@ -530,7 +530,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				177 mm (7.0")
+				177 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -538,7 +538,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				177 mm (7.0")
+				177 mm (7,0")
 			</td>
 		</tr>
 		<tr>

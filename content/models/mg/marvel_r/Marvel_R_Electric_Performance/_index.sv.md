@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av MG Marvel R Electric Performance i avsnitt. 
 
 ## Prestanda
 
-MG Marvel R Electric Performance har en maximal effekt på 212 KW (288hk). Totalt vridmoment är 665 Nm. Den gör sprinten 0-100 km/h på 4.9 sekunder. Topphastigheten är 200 km/h.
+MG Marvel R Electric Performance har en maximal effekt på 212 KW (288hk). Totalt vridmoment är 665 Nm. Den gör sprinten 0-100 km/h på 4,9 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.7%).
+Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 370 km. Förbrukningen är 18.9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 370 km. Förbrukningen är 18,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 94 kW. En full laddning från 0 - 100 % tar 114 minuter, medan ett vanligare scenario på 10-80 % tar 43 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 61%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 63kW. Varje laddningssession tar 35 minuter och 7 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24.5kWh/100km, tar 1000km 11 timmar och 6 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 9% till 59%. Total tid som går förlorad för att ladda batteriet kommer att vara 166 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24,5kWh/100km, tar 1000km 11 timmar och 6 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 9% till 59%. Total tid som går förlorad för att ladda batteriet kommer att vara 166 minuter.
 
 ### Inbyggd laddare
 
@@ -137,7 +137,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 10.2 tum.
+Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 10,2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -193,7 +193,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 10/7/2021 och leveranserna startade i January 2022.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 07.10.2021 och leveranserna startade i January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Marvel R </strong>
 </a>

@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Fisker Ocean Sport i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Med overboost har Fisker Ocean Sport en maksimal effekt på 209 KW (284hk). Uten overboost er den 180KW (245hk). Dreiemomentet er 386 nm med overboost og 386 uten overboost. Den utfører sprinten 0-100 km/t på 7.9 sekunder. Topphastigheten er 188 km/t.
+Med overboost har Fisker Ocean Sport en maksimal effekt på 209 KW (284hk). Uten overboost er den 180KW (245hk). Dreiemomentet er 386 nm med overboost og 386 uten overboost. Den utfører sprinten 0-100 km/t på 7,9 sekunder. Topphastigheten er 188 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 73kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (4.1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 73kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (4,1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 464 km. Forbruket er 15.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 464 km. Forbruket er 15,1kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 125 kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 86kW. Hver ladeøkt vil ta 30 minutter og 40 sekunder.
 
@@ -141,7 +141,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Fisker Ocean Sport har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor. touch-skjermen i midten av midtkonsollen er 17.1 tommer stor.
+Fisker Ocean Sport har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10,2 tommer stor. touch-skjermen i midten av midtkonsollen er 17,1 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

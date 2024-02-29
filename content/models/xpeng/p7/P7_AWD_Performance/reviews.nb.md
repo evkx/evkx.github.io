@@ -10,7 +10,7 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Xpeng P7 refresh pre-production first drive</h3>
-<p>Bjørn Nyland: 28/04/2023</p>
+<p>Bjørn Nyland: 28.04.2023</p>
 
 {{< youtube _zGqgJUdBQk >}}
 

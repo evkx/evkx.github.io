@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV Edition 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3.5 s
+				3,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				1.5 mi/kWh
+				1,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -290,7 +290,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11.3 meter
+				11,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1084,7 +1084,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1092,7 +1092,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 13.4
+				Ja, 13,4
 			</td>
 		</tr>
 		<tr>

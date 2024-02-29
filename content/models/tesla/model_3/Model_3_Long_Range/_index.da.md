@@ -29,17 +29,17 @@ Vi har opdelt vores Tesla Model 3 Long Range artikel i sektioner. Hvis du vil ve
 
 ## Ydeevne
 
-Tesla Model 3 Long Range har en maksimal effekt på 324 KW (441 hk/435 hk). Det samlede drejningsmoment er 493 nm (364 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.4 sekunder. Tophastigheden er 201 km/t.
+Tesla Model 3 Long Range har en maksimal effekt på 324 KW (441 hk/435 hk). Det samlede drejningsmoment er 493 nm (364 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,4 sekunder. Tophastigheden er 201 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (8.5%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (8,5%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 629 km (391 mi). Forbruget er 11.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 629 km (391 mi). Forbruget er 11,9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 119kW. Hver opladningssession ville tage 14 minutter og 23 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 17.3kWh/100 km, vil 1000 km tage 9 timer og 10 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 5 % til 38%. Den samlede tid, der går tabt for at oplade batteriet, vil være 51 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 17,3kWh/100 km, vil 1000 km tage 9 timer og 10 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 5 % til 38%. Den samlede tid, der går tabt for at oplade batteriet, vil være 51 minutter.
 
 ### Indbygget oplader
 
@@ -144,7 +144,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Tesla Model 3 Long Range har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen  i dashboardets midte er 15.0 tommer stor og har en opløsning på 2200 x 1300 pixels.
+Tesla Model 3 Long Range har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen  i dashboardets midte er 15,0 tommer stor og har en opløsning på 2200 x 1300 pixels.
 Modellen har ikke et head-up display.
 
 
@@ -218,12 +218,12 @@ Den bruger syv [kameraer](../../../../technology/sensorsandcameras/cameras/) til
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 594 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154.3 lbs). Bilens maksimale vægt er 2232 kg (4921 lbs), og med basisvægten på 1844 kg (4065 lbs), kan du maksimalt laste 388 kg (855 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 594 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2232 kg (4921 lbs), og med basisvægten på 1844 kg (4065 lbs), kan du maksimalt laste 388 kg (855 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 10/1/2023, og leveringerne startede i December 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 01.10.2023, og leveringerne startede i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

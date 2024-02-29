@@ -29,21 +29,21 @@ Vi har opdelt vores Renault Megane E-Tech Techno artikel i sektioner. Hvis du vi
 
 ## Ydeevne
 
-Renault Megane E-Tech Techno har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.4 sekunder. Tophastigheden er 170 km/t.
+Renault Megane E-Tech Techno har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,4 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 65kWh og en nettokapacitet på 60kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7.7%).
+Batteriet har en bruttokapacitet på 65kWh og en nettokapacitet på 60kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7,7%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 450 til 429 km (280-267 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.3kWh/100 km for basisversionen og 14.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 450 til 429 km (280-267 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13,3kWh/100 km for basisversionen og 14,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 130kW. En fuld opladning fra 0 - 100 % ville tage 73 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 37 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 73kW. Hver opladningssession ville tage 21 minutter og 49 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19.9kWh/100 km, vil 1000 km tage 10 timer og 16 minutter. Denne tur vil kræve seks opladningssession(er) opladning fra 1 % til 40%. Den samlede tid, der går tabt for at oplade batteriet, vil være 116 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,9kWh/100 km, vil 1000 km tage 10 timer og 16 minutter. Denne tur vil kræve seks opladningssession(er) opladning fra 1 % til 40%. Den samlede tid, der går tabt for at oplade batteriet, vil være 116 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 7.2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 20 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 7,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 20 minutter.
 
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/charging_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2134"  >}}
@@ -154,7 +154,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Renault Megane E-Tech Techno har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 12.3 tommer stor. Skærmen touch i dashboardets midte er 12.0 tommer stor.
+Renault Megane E-Tech Techno har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor. Skærmen touch i dashboardets midte er 12,0 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -214,7 +214,7 @@ Med ProPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1332 liter. På taget kan du laste op til 80 kg (176.4 lbs). Bilens maksimale vægt er 2158 kg (4758 lbs), og med basisvægten på 1636 kg (3607 lbs), kan du maksimalt laste 522 kg (1151 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1332 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2158 kg (4758 lbs), og med basisvægten på 1636 kg (3607 lbs), kan du maksimalt laste 522 kg (1151 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 900, og på ubremset er den 750 kg (1984/1653 lbs).
 

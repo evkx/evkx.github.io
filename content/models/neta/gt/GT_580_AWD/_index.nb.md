@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Neta GT 580 AWD i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Neta GT 580 AWD har en maksimal effekt på 340 KW (462hk). Totalt dreiemoment er 620 nm. Den utfører sprinten 0-100 km/t på 3.7 sekunder.
+Neta GT 580 AWD har en maksimal effekt på 340 KW (462hk). Totalt dreiemoment er 620 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 78kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3.8%).
+Batteriet har en bruttokapasitet på 78kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (3,8%).
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 580 km ( miles). Forbruket er 12.9kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 580 km ( miles). Forbruket er 12,9kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 120 kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 36 minutter og 6 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Neta GT 580 AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.3 tommer stor. touch-skjermen øverst på midtkonsollen er 17.6 tommer stor.
+Neta GT 580 AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10,3 tommer stor. touch-skjermen øverst på midtkonsollen er 17,6 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -200,7 +200,7 @@ Lastkapasiteten i bagasjerommet er 297 liter. Under panseret er det frunk med me
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 7/13/2023, og leveringene startet i December 2023. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 13.07.2023, og leveringene startet i December 2023. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Neta GT </strong>
 </a>

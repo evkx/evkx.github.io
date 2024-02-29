@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for VinFast VF8 Eco. Cli
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5.9 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				18.6 kWh/100km
+				18,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				20.6 kWh/100km
+				20,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				4.8 mi/kWh
+				4,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				87.7 kWh
+				87,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4750 mm (187.0")
+				4750 mm (187,0")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1667 mm (65.6")
+				1667 mm (65,6")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1934 mm (76.1")
+				1934 mm (76,1")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2221 mm (87.4")
+				2221 mm (87,4")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2950 mm (116.1")
+				2950 mm (116,1")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1654 mm (65.1")
+				1654 mm (65,1")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1667 mm (65.6")
+				1667 mm (65,6")
 			</td>
 		</tr>
 	</tbody>
@@ -460,7 +460,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				175 mm (6.9")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				175 mm (6.9")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1094,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 15.6"
+				Yes, 15,6"
 			</td>
 		</tr>
 		<tr>

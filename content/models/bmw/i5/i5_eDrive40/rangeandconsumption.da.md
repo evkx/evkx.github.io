@@ -43,7 +43,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				581 km / 361 mi
 			</td>
 			<td>
-				13.98kWh/100km / 4.4 mi/kWh
+				13,98kWh/100km / 4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				498 km / 309 mi
 			</td>
 			<td>
-				16.31 kWh/100km / 3.8 mi/kWh
+				16,31 kWh/100km / 3,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -90,7 +90,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				 444km / 276 mi 
 			</td>
 			<td>
-				-23.6%
+				-23,6%
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				394 km / 245 mi
 			</td>
 			<td>
-				-20.9%
+				-20,9%
 			</td>
 		</tr>
 	</tbody>
@@ -135,7 +135,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				427km / 265 mi
 			</td>
 			<td>
-				19 kWh/100km / 3.3 mi/kWh
+				19 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +146,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				393km /237mi
 			</td>
 			<td>
-				21.2 kWh/100km /2.9 mi/kWh 
+				21,2 kWh/100km /2,9 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -157,7 +157,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				369 km / 229 mi
 			</td>
 			<td>
-				22 kWh/100km / 2.8 mi/kWh
+				22 kWh/100km / 2,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -168,7 +168,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				343 km /213mi
 			</td>
 			<td>
-				23.7 kWh/100km /2.6 mi/kWh
+				23,7 kWh/100km /2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>

@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				16.1 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				17.3 kWh/100km
+				17,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -1057,7 +1057,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1065,7 +1065,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15.6
+				Ja, 15,6
 			</td>
 		</tr>
 		<tr>

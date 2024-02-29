@@ -43,7 +43,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				580 km / 360 mi 
 			</td>
 			<td>
-				12.93kWh/100km /  mi/kWh
+				12,93kWh/100km /  mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -100,7 +100,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				326 km / 203 mi
 			</td>
 			<td>
-				23 kWh/100km / 2.7 mi/kWh
+				23 kWh/100km / 2,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				304 km /189mi
 			</td>
 			<td>
-				24.7 kWh/100km /2.5 mi/kWh
+				24,7 kWh/100km /2,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>

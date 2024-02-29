@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Peugot E-3008. Klicka 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				8.8 s
+				8,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				13.9 kWh/100km
+				13,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16.7 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				14.3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				17.4 kwh/100km
+				17,4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -338,7 +338,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.28
+				0,28
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10.6 meter
+				10,6 meter
 			</td>
 		</tr>
 	</tbody>

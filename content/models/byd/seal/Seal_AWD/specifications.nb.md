@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Seal AWD. Klikk
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.8 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				15.9 kWh/100km
+				15,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				18.5 kWh/100km
+				18,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				85.4 kWh
+				85,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				82.5 kWh
+				82,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.219
+				0,219
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				12.3 meter
+				12,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1106,7 +1106,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 10.25
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -1114,7 +1114,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 15.6
+				Ja, 15,6
 			</td>
 		</tr>
 		<tr>

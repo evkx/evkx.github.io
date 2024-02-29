@@ -29,13 +29,13 @@ Vi har opdelt vores Volvo EM90 artikel i sektioner. Hvis du vil vente med at læ
 
 ## Ydeevne
 
-Volvo EM90 har en maksimal effekt på 200 KW (272 hk/268 hk). Det samlede drejningsmoment er 686 nm (506 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.3 sekunder. Tophastigheden er 190 km/t.
+Volvo EM90 har en maksimal effekt på 200 KW (272 hk/268 hk). Det samlede drejningsmoment er 686 nm (506 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,3 sekunder. Tophastigheden er 190 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 116kWh og en nettokapacitet på 110kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 116kWh og en nettokapacitet på 110kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 738 km ( miles). Forbruget er 14.9kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 738 km ( miles). Forbruget er 14,9kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 66 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 55%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 139kW. Hver opladningssession ville tage 24 minutter og 48 sekunder.
 
@@ -154,7 +154,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Volvo EM90 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 10.2 tommer stor. Skærmen touch øverst på midterkonsollen er 15.4 tommer stor. For bagsædepassagererne er der en infotainmentskærm i taget bag sæderne på første række.
+Volvo EM90 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor. Skærmen touch øverst på midterkonsollen er 15,4 tommer stor. For bagsædepassagererne er der en infotainmentskærm i taget bag sæderne på første række.
 Modellen har ikke et head-up display.
 
 
@@ -211,12 +211,12 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 376 liter. Med sædet på tredje række nede er det 2979 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1.1 CU FT). Bilens maksimale vægt er 3400 kg (7496 lbs), og med basisvægten på 2763 kg (6091 lbs), kan du maksimalt laste 637 kg (1404 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 376 liter. Med sædet på tredje række nede er det 2979 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1,1 CU FT). Bilens maksimale vægt er 3400 kg (7496 lbs), og med basisvægten på 2763 kg (6091 lbs), kan du maksimalt laste 637 kg (1404 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 11/12/2023, og leveringer forventes at starte om March 2025. Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 12.11.2023, og leveringer forventes at starte om March 2025. Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EM90 </strong>
 </a>

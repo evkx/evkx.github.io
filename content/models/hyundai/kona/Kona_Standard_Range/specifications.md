@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Kona Standar
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7.3 s
+				7,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				12.8 kWh/100km
+				12,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				14.6 kWh/100km
+				14,6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				48.4 kWh
+				48,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4355 mm (171.5")
+				4355 mm (171,5")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1575 mm (62.0")
+				1575 mm (62,0")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1825 mm (71.9")
+				1825 mm (71,9")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2660 mm (104.7")
+				2660 mm (104,7")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10.6 meter (417.3")
+				10,6 meter (417,3")
 			</td>
 		</tr>
 	</tbody>
@@ -436,7 +436,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				178 mm (7.0")
+				178 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +444,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				178 mm (7.0")
+				178 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -1046,7 +1046,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12.3
+				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1054,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12.3"
+				Yes, 12,3"
 			</td>
 		</tr>
 		<tr>

@@ -33,7 +33,7 @@ The Aion Hyper GT 710 Supercharged has a maximum power of 250 KW (340 hp/335 bhp
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 80.1kWh and a net capacity of 77kWh, meaning you have a 3.1kWh buffer for protection. (3.9%).
+The battery has a gross capacity of 80,1kWh and a net capacity of 77kWh, meaning you have a 3,1kWh buffer for protection. (3.9%).
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 710 km ( miles). The consumption is 10.8kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -200,7 +200,7 @@ The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 11
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 12/31/2022, and deliveries started in October 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 31.12.2022, and deliveries started in October 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Aion Hyper GT </strong>
 </a>

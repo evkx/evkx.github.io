@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hongqi E-HS9 Exclu
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.9 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				20.5 kWh/100km
+				20,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				95.3 kWh
+				95,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5209 mm (205.1")
+				5209 mm (205,1")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1713 mm (67.4")
+				1713 mm (67,4")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				2010 mm (79.1")
+				2010 mm (79,1")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3110 mm (122.4")
+				3110 mm (122,4")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1708 mm (67.2")
+				1708 mm (67,2")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1709 mm (67.3")
+				1709 mm (67,3")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0.345
+				0,345
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Overhængsvinkel foran
 			</td>
 			<td>
-				21.3
+				21,3
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				OverhangAngleRear
 			</td>
 			<td>
-				21.4
+				21,4
 			</td>
 		</tr>
 	</tbody>
@@ -460,7 +460,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				260 mm (10.2")
+				260 mm (10,2")
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				170 mm (6.7")
+				170 mm (6,7")
 			</td>
 		</tr>
 		<tr>
@@ -1082,7 +1082,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 16.2
+				Ja, 16,2
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1090,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, to 16.2" og 10.2"
+				Ja, to 16,2" og 10,2"
 			</td>
 		</tr>
 		<tr>
@@ -1098,7 +1098,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Forreste passagerinfotainmentskærm
 			</td>
 			<td>
-				Ja, 16.2"
+				Ja, 16,2"
 			</td>
 		</tr>
 		<tr>

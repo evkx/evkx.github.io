@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 45 e-tron q
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6.9 s
+				6,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				15.0 kWh/100km
+				15,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				17.1 kWh/100km
+				17,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				17.6 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				20.2 kwh/100km
+				20,2 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				76.6 kWh
+				76,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.28
+				0,28
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Frontalområde
 			</td>
 			<td>
-				2.56
+				2,56
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel foran
 			</td>
 			<td>
-				16.9
+				16,9
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel bak
 			</td>
 			<td>
-				19.4
+				19,4
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.5 meter
+				11,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1577,7 +1577,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1585,7 +1585,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10.1
+				Ja, 10,1
 			</td>
 		</tr>
 		<tr>

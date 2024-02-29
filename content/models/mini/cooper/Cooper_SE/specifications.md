@@ -75,7 +75,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				12.2 kWh/100km
+				12,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				13.0 kWh/100km
+				13,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				54.2 kWh
+				54,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				3900 mm (153.5")
+				3900 mm (153,5")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1450 mm (57.1")
+				1450 mm (57,1")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1750 mm (68.9")
+				1750 mm (68,9")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2495 mm (98.2")
+				2495 mm (98,2")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.28
+				0,28
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10.7 meter (421.3")
+				10,7 meter (421,3")
 			</td>
 		</tr>
 	</tbody>
@@ -388,7 +388,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				128 mm (5.0")
+				128 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -396,7 +396,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				128 mm (5.0")
+				128 mm (5,0")
 			</td>
 		</tr>
 		<tr>

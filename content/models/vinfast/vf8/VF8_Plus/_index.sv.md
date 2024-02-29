@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av VinFast VF8 Plus i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-VinFast VF8 Plus har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 5.5 sekunder. Topphastigheten är 200 km/h.
+VinFast VF8 Plus har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 87.7kWh, vilket innebär att du har en 6.3kWh buffert för skydd. (6.7%).
+Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 87,7kWh, vilket innebär att du har en 6,3kWh buffert för skydd. (6,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 447 km. Förbrukningen är 19.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 447 km. Förbrukningen är 19,6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 105 minuter, medan ett vanligare scenario på 10-80 % tar 44 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 11% till 70%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 40 minuter och 4 sekunder.
 
@@ -151,7 +151,7 @@ Ratten är elektriskt justerbar.
 
 ## Användargränssnitt och kontroll
 
-VinFast VF8 Plus har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 15.6 tum.
+VinFast VF8 Plus har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 15,6 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

@@ -33,7 +33,7 @@ The Mercedes-EQ EQA 350 4MATIC has a maximum power of 215 KW (292 hp/288 bhp). T
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 69.7kWh and a net capacity of 66.5kWh, meaning you have a 3.2kWh buffer for protection. (4.6%).
+The battery has a gross capacity of 69,7kWh and a net capacity of 66,5kWh, meaning you have a 3,2kWh buffer for protection. (4.6%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 438 to 411 km (272-255 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.2kWh/100km for the basic version and 16.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

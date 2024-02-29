@@ -35,13 +35,13 @@ Denne modellen er erstattet av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tr
 
 ## Ytelse
 
-Med overboost har Audi e-tron S en maksimal effekt på 370 KW (503hk). Uten overboost er den 320KW (435hk). Dreiemomentet er 973 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 4.5 sekunder med overboost og 6.6 sekunder uten overboost. Topphastigheten er 200 km/t.
+Med overboost har Audi e-tron S en maksimal effekt på 370 KW (503hk). Uten overboost er den 320KW (435hk). Dreiemomentet er 973 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 4,5 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 95kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 9kWh-buffer for beskyttelse. (9.5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 95kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 9kWh-buffer for beskyttelse. (9,5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 374 til 344 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 23.0kWh/100 km for basisversjonen og 25.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 374 til 344 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 23,0kWh/100 km for basisversjonen og 25,0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 44 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 81%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 118kW. Hver ladeøkt vil ta 34 minutter og 14 sekunder.
 
@@ -205,7 +205,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Audi e-tron S har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen). -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10.1 tommer stor og har en oppløsning på 1540 x 720 piksler. touch-skjermen nederst på midtkonsollen er 8.6 tommer stor og har en oppløsning på 1280 x 660 piksler.
+Audi e-tron S har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen). -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10,1 tommer stor og har en oppløsning på 1540 x 720 piksler. touch-skjermen nederst på midtkonsollen er 8,6 tommer stor og har en oppløsning på 1280 x 660 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment
@@ -282,7 +282,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 11/19/2019, og leveringene startet i May 2020. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 19.11.2019, og leveringene startet i May 2020. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

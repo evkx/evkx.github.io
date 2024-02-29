@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Nio ES8. Click on im
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.9 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				19.6 kWh/100km
+				19,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				19.6 kWh/100km
+				19,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -230,7 +230,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				70.5 kWh
+				70,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5022 mm (197.7")
+				5022 mm (197,7")
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1756 mm (69.1")
+				1756 mm (69,1")
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1962 mm (77.2")
+				1962 mm (77,2")
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3010 mm (118.5")
+				3010 mm (118,5")
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1668 mm (65.7")
+				1668 mm (65,7")
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1672 mm (65.8")
+				1672 mm (65,8")
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.29
+				0,29
 			</td>
 		</tr>
 	</tbody>
@@ -556,7 +556,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				161 mm (6.3")
+				161 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				111 mm (4.4")
+				111 mm (4,4")
 			</td>
 		</tr>
 		<tr>
@@ -1307,7 +1307,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 9.8
+				Yes, 9,8
 			</td>
 		</tr>
 		<tr>
@@ -1315,7 +1315,7 @@ This model is available with a seat configuration with six or seven seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 11.3"
+				Yes, 11,3"
 			</td>
 		</tr>
 		<tr>

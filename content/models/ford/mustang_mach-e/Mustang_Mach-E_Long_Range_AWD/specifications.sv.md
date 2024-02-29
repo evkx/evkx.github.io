@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Ford Mustang Mach-E Lo
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5.8 s
+				5,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				16.7 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				98.8 kWh
+				98,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11.6 meter
+				11,6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1113,7 +1113,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1121,7 +1121,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15.5
+				Ja, 15,5
 			</td>
 		</tr>
 		<tr>

@@ -33,9 +33,9 @@ BYD Dolphin 60.4kWh har en maksimal effekt på 150 KW (204 hk/201 hk). Det samle
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 60.4kWh og en nettokapacitet på 62kWh, hvilket betyder, at du har en -1.6kWh buffer til beskyttelse. (-2.6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 60,4kWh og en nettokapacitet på 62kWh, hvilket betyder, at du har en -1,6kWh buffer til beskyttelse. (-2,6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 427 km (265 mi). Forbruget er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 427 km (265 mi). Forbruget er 14,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 88kW. En fuld opladning fra 0 - 100 % ville tage 48 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 88kW. Hver opladningssession ville tage 24 minutter og 12 sekunder.
 
@@ -153,9 +153,9 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på BYD Dolphin 60.4kWh.
 
-Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5.0 tommer stor. Skærmen touch i dashboardets midte er 12.8 tommer stor.
+Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,8 tommer stor.
 
-Det valgfri Design-layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5.0 tommer stor. Skærmen touch i dashboardets midte er 15.6 tommer stor.
+Det valgfri Design-layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor. Skærmen touch i dashboardets midte er 15,6 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -215,7 +215,7 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 345 liter. Med bagsædet nede er det 1310 liter. På taget kan du laste op til 50 kg (110.2 lbs). Bilens maksimale vægt er 2068 kg (4559 lbs), og med basisvægten på 1683 kg (3710 lbs), kan du maksimalt laste 385 kg (849 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 345 liter. Med bagsædet nede er det 1310 liter. På taget kan du laste op til 50 kg (110,2 lbs). Bilens maksimale vægt er 2068 kg (4559 lbs), og med basisvægten på 1683 kg (3710 lbs), kan du maksimalt laste 385 kg (849 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 0, og på ubremset er den 0 kg (0/0 lbs).
 

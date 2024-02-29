@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis Electrified
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.8 s
+				4,8 s
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis Electrified
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				4.2 s
+				4,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				15.7 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				18.8 kWh/100km
+				18,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				3.2 mi/kWh
+				3,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				77.4 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.5 meter
+				11,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1111,7 +1111,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, to 14.9" og 5"
+				Ja, to 14,9" og 5"
 			</td>
 		</tr>
 		<tr>

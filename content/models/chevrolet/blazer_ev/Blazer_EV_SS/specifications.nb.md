@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				2.8 mi/kWh
+				2,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -250,7 +250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				12.1 meter
+				12,1 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1002,7 +1002,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 17.7
+				Ja, 17,7
 			</td>
 		</tr>
 		<tr>

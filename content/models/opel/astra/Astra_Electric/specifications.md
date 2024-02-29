@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Opel Astra Electric.
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				10.5 s
+				10,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				12.3 kWh/100km
+				12,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				14.8 kWh/100km
+				14,8 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				50.8 kWh
+				50,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4374 mm (172.2")
+				4374 mm (172,2")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1470 mm (57.9")
+				1470 mm (57,9")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1860 mm (73.2")
+				1860 mm (73,2")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2062 mm (81.2")
+				2062 mm (81,2")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2675 mm (105.3")
+				2675 mm (105,3")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1559 mm (61.4")
+				1559 mm (61,4")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1554 mm (61.2")
+				1554 mm (61,2")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10.95 meter (431.1")
+				10,95 meter (431,1")
 			</td>
 		</tr>
 	</tbody>
@@ -444,7 +444,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				140 mm (5.5")
+				140 mm (5,5")
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +452,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				140 mm (5.5")
+				140 mm (5,5")
 			</td>
 		</tr>
 		<tr>

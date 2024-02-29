@@ -29,13 +29,13 @@ Vi har opdelt vores Audi Q8 Sportback 55 e-tron artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Med overboost har Audi Q8 Sportback 55 e-tron en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5.6 sekunder med overboost og 6.6 sekunder uden overboost. Tophastigheden er 200 km/t.
+Med overboost har Audi Q8 Sportback 55 e-tron en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder med overboost og 6,6 sekunder uden overboost. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 114kWh og en nettokapacitet på 104kWh, hvilket betyder, at du har en 10kWh buffer til beskyttelse. (8.8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 114kWh og en nettokapacitet på 104kWh, hvilket betyder, at du har en 10kWh buffer til beskyttelse. (8,8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 600 til 495 km (373-308 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.3kWh/100 km for basisversionen og 21.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 600 til 495 km (373-308 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17,3kWh/100 km for basisversionen og 21,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 170kW. En fuld opladning fra 0 - 100 % ville tage 65 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 74%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 122kW. Hver opladningssession ville tage 36 minutter og 22 sekunder.
 
@@ -219,7 +219,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Audi Q8 Sportback 55 e-tron har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch øverst på midterkonsollen er 10.1 tommer stor og har en opløsning på 1540 x 720 pixels. Skærmen touch i bunden af midterkonsollen er 8.6 tommer stor og har en opløsning på 1280 x 660 pixels.
+Audi Q8 Sportback 55 e-tron har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch øverst på midterkonsollen er 10,1 tommer stor og har en opløsning på 1540 x 720 pixels. Skærmen touch i bunden af midterkonsollen er 8,6 tommer stor og har en opløsning på 1280 x 660 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 ## Infotainment
@@ -283,12 +283,12 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 11/9/2022, og leveringerne startede i March 2023. Denne model er tilgængelig i Nordamerika, Kina, Europa og Mellemøsten.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 09.11.2022, og leveringerne startede i March 2023. Denne model er tilgængelig i Nordamerika, Kina, Europa og Mellemøsten.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

@@ -33,7 +33,7 @@ The MG MG5 Electric Long Range has a maximum power of 115 KW (156 hp/154 bhp). T
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 61.1kWh and a net capacity of 57.4kWh, meaning you have a 3.7kWh buffer for protection. (6.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 61,1kWh and a net capacity of 57,4kWh, meaning you have a 3,7kWh buffer for protection. (6.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 400 to 380 km (249-236 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.4kWh/100km for the basic version and 15.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

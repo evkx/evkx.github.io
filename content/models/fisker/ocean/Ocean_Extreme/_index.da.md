@@ -33,9 +33,9 @@ Med overboost har Fisker Ocean Extreme en maksimal effekt på 415 KW (564 hk / 4
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 113kWh og en nettokapacitet på 106.5kWh, hvilket betyder, at du har en 6.5kWh buffer til beskyttelse. (5.8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 113kWh og en nettokapacitet på 106,5kWh, hvilket betyder, at du har en 6,5kWh buffer til beskyttelse. (5,8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 707 til 701 km (439-436 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.1kWh/100 km for basisversionen og 15.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 707 til 701 km (439-436 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,1kWh/100 km for basisversionen og 15,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 170kW. En fuld opladning fra 0 - 100 % ville tage 72 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 126kW. Hver opladningssession ville tage 28 minutter og 49 sekunder.
 
@@ -156,7 +156,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Fisker Ocean Extreme har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 10.2 tommer stor. Skærmen touch i midten af midterkonsollen er 17.1 tommer stor.
+Fisker Ocean Extreme har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor. Skærmen touch i midten af midterkonsollen er 17,1 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -214,7 +214,7 @@ Med Fisker Intelligent Pilot  niveau 2-systemet får du følgende køreautomatis
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 476 liter. Med bagsædet nede er det 918 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2974 kg (6557 lbs), og med basisvægten på 2433 kg (5364 lbs), kan du maksimalt laste 541 kg (1193 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 476 liter. Med bagsædet nede er det 918 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2974 kg (6557 lbs), og med basisvægten på 2433 kg (5364 lbs), kan du maksimalt laste 541 kg (1193 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1820, og på ubremset er den 750 kg (4012/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

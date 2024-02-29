@@ -33,7 +33,7 @@ The BMW iX2 eDrive20 has a maximum power of 150 KW (204 hp/201 bhp). The total t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 68kWh and a net capacity of 64.7kWh, meaning you have a 3.3kWh buffer for protection. (4.9%).
+The battery has a gross capacity of 68kWh and a net capacity of 64,7kWh, meaning you have a 3,3kWh buffer for protection. (4.9%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 449 to 417 km (279-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.4kWh/100km for the basic version and 15.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Lucid Air Sapphire.
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				1.95 s
+				1,95 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				3.6 mi/kWh
+				3,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -282,7 +282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.197
+				0,197
 			</td>
 		</tr>
 	</tbody>

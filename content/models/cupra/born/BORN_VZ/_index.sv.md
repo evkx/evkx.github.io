@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av CUPRA BORN VZ i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-CUPRA BORN VZ har en maximal effekt på 240 KW (326hk). Totalt vridmoment är 545 Nm. Den gör sprinten 0-100 km/h på 5.7 sekunder. Topphastigheten är 200 km/h.
+CUPRA BORN VZ har en maximal effekt på 240 KW (326hk). Totalt vridmoment är 545 Nm. Den gör sprinten 0-100 km/h på 5,7 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 79kWh, vilket innebär att du har en 3kWh buffert för skydd. (3.7%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 79kWh, vilket innebär att du har en 3kWh buffert för skydd. (3,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 570 km. Förbrukningen är 13.9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 570 km. Förbrukningen är 13,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 175 kW. En full laddning från 0 - 100 % tar 64 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 102kW. Varje laddningssession tar 19 minuter och 4 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-CUPRA BORN VZ har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 12.9 tum och har en upplösning på 1920 x 869 pixlar.
+CUPRA BORN VZ har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 12,9 tum och har en upplösning på 1920 x 869 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -213,7 +213,7 @@ Lastkapaciteten i bagageutrymmet är 385 liter. Med baksätet nedfällt är det 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 2/20/2024 och leveranserna startade i August 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 20.02.2024 och leveranserna startade i August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> CUPRA BORN </strong>
 </a>

@@ -35,13 +35,13 @@ Denna modell har ersatts av [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin
 
 ## Prestanda
 
-Volvo XC40 Recharge Twin Motor har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 670 Nm. Den gör sprinten 0-100 km/h på 4.8 sekunder. Topphastigheten är 180 km/h.
+Volvo XC40 Recharge Twin Motor har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 670 Nm. Den gör sprinten 0-100 km/h på 4,8 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 79kWh, vilket innebär att du har en 3kWh buffert för skydd. (3.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 79kWh, vilket innebär att du har en 3kWh buffert för skydd. (3,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 535 till 522 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.8kWh/100 km för basversionen och 15.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 535 till 522 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,8kWh/100 km för basversionen och 15,1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 205 kW. En full laddning från 0 - 100 % tar 65 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 50%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 119kW. Varje laddningssession tar 19 minuter och 27 sekunder.
 
@@ -136,7 +136,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volvo XC40 Recharge Twin Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum. Skärmen touch översta mittkonsolen är 9.0 tum.
+Volvo XC40 Recharge Twin Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum. Skärmen touch översta mittkonsolen är 9,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -198,7 +198,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 5/18/2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor).<div class="mt-3 mb-3">
+Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>
 </a>

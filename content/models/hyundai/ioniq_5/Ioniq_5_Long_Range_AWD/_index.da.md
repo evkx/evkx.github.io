@@ -29,13 +29,13 @@ Vi har opdelt vores Hyundai Ioniq 5 Long Range AWD artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-Hyundai Ioniq 5 Long Range AWD har en maksimal effekt på 239 KW (325 hk/321 hk). Det samlede drejningsmoment er 605 nm (446 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.1 sekunder. Tophastigheden er 185 km/t.
+Hyundai Ioniq 5 Long Range AWD har en maksimal effekt på 239 KW (325 hk/321 hk). Det samlede drejningsmoment er 605 nm (446 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,1 sekunder. Tophastigheden er 185 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77.4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3.4kWh buffer til beskyttelse. (4.4%).
+Batteriet har en bruttokapacitet på 77,4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3,4kWh buffer til beskyttelse. (4,4%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 481 til 454 km (299-282 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.4kWh/100 km for basisversionen og 16.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 481 til 454 km (299-282 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,4kWh/100 km for basisversionen og 16,3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 22 minutter og 59 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Hyundai Ioniq 5 Long Range AWD har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12.3 tommer stor og har en opløsning på 2880 x 1080 pixels.
+Hyundai Ioniq 5 Long Range AWD har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -203,7 +203,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 527 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 80 kg (176.4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 24 liter (0.8 CU FT). Bilens maksimale vægt er 2560 kg (5644 lbs), og med basisvægten på 2045 kg (4508 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 527 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 80 kg (176,4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 24 liter (0,8 CU FT). Bilens maksimale vægt er 2560 kg (5644 lbs), og med basisvægten på 2045 kg (4508 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 

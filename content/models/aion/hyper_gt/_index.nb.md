@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="hyper_gt_710_supercharged/"><img src="https://media.evkx.net/multimedia/models/aion/hyper_gt/hyper_gt_710_supercharged/main_1_xst.jpg" class="img-fluid" width="400px" height="205px" alt="Hyper GT 710 Supercharged" ></a>
-<i class="bi bi-battery-full"></i> 80.1 kWh <i class="bi bi-ev-station"></i> 270 kW 
+<i class="bi bi-battery-full"></i> 80,1 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

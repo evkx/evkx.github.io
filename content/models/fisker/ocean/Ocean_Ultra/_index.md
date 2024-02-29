@@ -33,7 +33,7 @@ With overboost, the Fisker Ocean Ultra has a maximum power of 400 KW (544 hp / 5
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 113kWh and a net capacity of 106.5kWh, meaning you have a 6.5kWh buffer for protection. (5.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 113kWh and a net capacity of 106,5kWh, meaning you have a 6,5kWh buffer for protection. (5.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 690 km (429 mi). The consumption is 15.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

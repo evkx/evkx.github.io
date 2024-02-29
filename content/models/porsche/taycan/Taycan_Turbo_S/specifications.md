@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				2.4 s
+				2,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				15.4 kWh/100km
+				15,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				17.9 kWh/100km
+				17,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				17.4 kWh/100km
+				17,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				20.5 kwh/100km
+				20,5 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -360,7 +360,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4963 mm (195.4")
+				4963 mm (195,4")
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1381 mm (54.4")
+				1381 mm (54,4")
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1966 mm (77.4")
+				1966 mm (77,4")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2144 mm (84.4")
+				2144 mm (84,4")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2900 mm (114.2")
+				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1710 mm (67.3")
+				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1694 mm (66.7")
+				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.24
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2.35
+				2,35
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle rear
 			</td>
 			<td>
-				16.4
+				16,4
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +448,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.2 meter (440.9")
+				11,2 meter (440,9")
 			</td>
 		</tr>
 	</tbody>
@@ -578,7 +578,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				126 mm (5.0")
+				126 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -586,7 +586,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				103 mm (4.1")
+				103 mm (4,1")
 			</td>
 		</tr>
 		<tr>
@@ -1488,7 +1488,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 16.8
+				Yes, 16,8
 			</td>
 		</tr>
 		<tr>
@@ -1496,7 +1496,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, two 10.9" and 8.4"
+				Yes, two 10,9" and 8,4"
 			</td>
 		</tr>
 		<tr>
@@ -1504,7 +1504,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10.9"
+				Yes, 10,9"
 			</td>
 		</tr>
 		<tr>

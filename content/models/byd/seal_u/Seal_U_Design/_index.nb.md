@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av BYD Seal U Design i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-BYD Seal U Design har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 9.3 sekunder. Topphastigheten er 175 km/t.
+BYD Seal U Design har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 9,3 sekunder. Topphastigheten er 175 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 87kWh og en nettokapasitet på 87kWh, noe som betyr at du har et 0kWh-buffer for beskyttelse. (0.0%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 87kWh og en nettokapasitet på 87kWh, noe som betyr at du har et 0kWh-buffer for beskyttelse. (0,0%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 500 km. Forbruket er 17.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 500 km. Forbruket er 17,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 140 kW. En full lading fra 0 - 100 % vil ta 68 minutter, mens et mer vanlig scenario på 10-80 % vil ta 37 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 93kW. Hver ladeøkt vil ta 31 minutter og 47 sekunder.
 
@@ -145,7 +145,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-BYD Seal U Design har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum er 15.6 tommer stor.
+BYD Seal U Design har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10,3 tommer stor. touch-skjermen i dashbordets sentrum er 15,6 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ## Infotainment

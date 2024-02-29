@@ -71,7 +71,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi RS e-tron GT. 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.5 s
+				4,5 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi RS e-tron GT. 
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				3.3 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				16.9 kWh/100km
+				16,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				19.8 kWh/100km
+				19,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				18.7 kWh/100km
+				18,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				22.1 kwh/100km
+				22,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -174,7 +174,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				93.4 kWh
+				93,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -182,7 +182,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				83.7 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.24
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Frontalområde
 			</td>
 			<td>
-				2.35
+				2,35
 			</td>
 		</tr>
 		<tr>
@@ -456,7 +456,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel bak
 			</td>
 			<td>
-				16.4
+				16,4
 			</td>
 		</tr>
 		<tr>
@@ -464,7 +464,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.6 meter
+				11,6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1561,7 +1561,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1569,7 +1569,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10.1
+				Ja, 10,1
 			</td>
 		</tr>
 		<tr>

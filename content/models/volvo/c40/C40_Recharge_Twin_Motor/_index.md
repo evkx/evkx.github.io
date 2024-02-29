@@ -206,7 +206,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 5/18/2022, and deliveries started in August 2022. This models has now been discontined. This model has been replaced by [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).<div class="mt-3 mb-3">
+This model had a world premiere on 18.05.2022, and deliveries started in August 2022. This models has now been discontined. This model has been replaced by [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
 </a>

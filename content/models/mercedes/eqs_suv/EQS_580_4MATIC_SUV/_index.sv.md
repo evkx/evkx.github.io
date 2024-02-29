@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQS 580 4MATIC SUV i avsnitt. Om
 
 ## Prestanda
 
-Mercedes-EQ EQS 580 4MATIC SUV har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4.6 sekunder. Topphastigheten är 210 km/h.
+Mercedes-EQ EQS 580 4MATIC SUV har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4,6 sekunder. Topphastigheten är 210 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 125kWh och en nettokapacitet på 118kWh, vilket innebär att du har en 7kWh buffert för skydd. (5.6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 125kWh och en nettokapacitet på 118kWh, vilket innebär att du har en 7kWh buffert för skydd. (5,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 673 till 594 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.5kWh/100 km för basversionen och 19.9kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 673 till 594 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17,5kWh/100 km för basversionen och 19,9kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 89 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 144kW. Varje laddningssession tar 27 minuter och 31 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28.5kWh/100km, tar 1000km 9 timmar och 31 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 49%. Total tid som går förlorad för att ladda batteriet kommer att vara 71 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28,5kWh/100km, tar 1000km 9 timmar och 31 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 49%. Total tid som går förlorad för att ladda batteriet kommer att vara 71 minuter.
 
 ### Inbyggd laddare
 
@@ -181,9 +181,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på Mercedes-EQ EQS 580 4MATIC SUV.
 
-Standardlayouten har följande konfiguration. Skärmen  bakom ratten monterad i instrumentbrädan är 12.3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch i mitten av mittkonsolen är 12.8 tum och har en upplösning på 1888x1728 pixlar.
+Standardlayouten har följande konfiguration. Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch i mitten av mittkonsolen är 12,8 tum och har en upplösning på 1888x1728 pixlar.
 
-Den valfria MBUX Hyperscreen-layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch översta mittkonsolen är 17.7 tum och har en upplösning på 3088x1728 pixlar. Skärmen  framför passageraren i instrumentbrädan är 12.3 tum och har en upplösning på 2400x900 pixlar.
+Den valfria MBUX Hyperscreen-layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch översta mittkonsolen är 17,7 tum och har en upplösning på 3088x1728 pixlar. Skärmen  framför passageraren i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

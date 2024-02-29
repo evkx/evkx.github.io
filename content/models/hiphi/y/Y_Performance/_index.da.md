@@ -29,13 +29,13 @@ Vi har opdelt vores HiPhi Y Performance artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-HiPhi Y Performance har en maksimal effekt på 371 KW (504 hk/498 hk). Det samlede drejningsmoment er 620 nm (458 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.7 sekunder.
+HiPhi Y Performance har en maksimal effekt på 371 KW (504 hk/498 hk). Det samlede drejningsmoment er 620 nm (458 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,7 sekunder.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 115kWh og en nettokapacitet på 109kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 115kWh og en nettokapacitet på 109kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 620 km (385 mi). Forbruget er 17.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 620 km (385 mi). Forbruget er 17,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 91 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 47 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 98kW. Hver opladningssession ville tage 30 minutter og 56 sekunder.
 
@@ -151,7 +151,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-HiPhi Y Performance har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor. Skærmen touch øverst på midterkonsollen er 17.0 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 15.0 tommer stor.
+HiPhi Y Performance har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch øverst på midterkonsollen er 17,0 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 15,0 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -213,12 +213,12 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 692 liter. Med bagsædet nede er det 1848 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 85 liter (3.0 CU FT).
+Lagekapaciteten i bagagerummet er 692 liter. Med bagsædet nede er det 1848 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 85 liter (3,0 CU FT).
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 4/18/2023, og leveringer forventes at starte om March 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 18.04.2023, og leveringer forventes at starte om March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Y </strong>
 </a>

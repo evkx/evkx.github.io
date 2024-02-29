@@ -29,13 +29,13 @@ Vi har opdelt vores HiPhi Z 5 Seater artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-HiPhi Z 5 Seater har en maksimal effekt på 494 KW (672 hk/663 hk). Det samlede drejningsmoment er 820 nm (605 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.8 sekunder.
+HiPhi Z 5 Seater har en maksimal effekt på 494 KW (672 hk/663 hk). Det samlede drejningsmoment er 820 nm (605 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 125kWh og en nettokapacitet på 120kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (4.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 125kWh og en nettokapacitet på 120kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (4,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 555 km (345 mi). Forbruget er 21.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 555 km (345 mi). Forbruget er 21,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 98 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 50 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 47%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 104kW. Hver opladningssession ville tage 30 minutter og 46 sekunder.
 
@@ -155,7 +155,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-HiPhi Z 5 Seater har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 15.0 tommer stor.
+HiPhi Z 5 Seater har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 15,0 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -215,7 +215,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 316 liter. Med bagsædet nede er det 684 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 40 liter (1.4 CU FT). Bilens maksimale vægt er 2950 kg (6504 lbs), og med basisvægten på 2548 kg (5617 lbs), kan du maksimalt laste 402 kg (886 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 316 liter. Med bagsædet nede er det 684 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 40 liter (1,4 CU FT). Bilens maksimale vægt er 2950 kg (6504 lbs), og med basisvægten på 2548 kg (5617 lbs), kan du maksimalt laste 402 kg (886 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

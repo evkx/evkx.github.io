@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Genesis Electrified 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.8 s
+				4,8 s
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ EVKX.net seeks to have the most complete specifications for Genesis Electrified 
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
-				4.2 s
+				4,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				15.7 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				18.8 kWh/100km
+				18,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				3.2 mi/kWh
+				3,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				77.4 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4715 mm (185.6")
+				4715 mm (185,6")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1630 mm (64.2")
+				1630 mm (64,2")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1910 mm (75.2")
+				1910 mm (75,2")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2165 mm (85.2")
+				2165 mm (85,2")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2875 mm (113.2")
+				2875 mm (113,2")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.5 meter (452.8")
+				11,5 meter (452,8")
 			</td>
 		</tr>
 	</tbody>
@@ -484,7 +484,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				175 mm (6.9")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +492,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				175 mm (6.9")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -1111,7 +1111,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, two 14.9" and 5"
+				Yes, two 14,9" and 5"
 			</td>
 		</tr>
 		<tr>

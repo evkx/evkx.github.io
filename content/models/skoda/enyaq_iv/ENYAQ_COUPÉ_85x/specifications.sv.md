@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för SKODA ENYAQ COUPÉ 85x
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6.6 s
+				6,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				14.1 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				15.7 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				14.6 kWh/100km
+				14,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16.1 kwh/100km
+				16,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -338,7 +338,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.248
+				0,248
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre överhängsvinkel
 			</td>
 			<td>
-				14.3
+				14,3
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre överhängsvinkel
 			</td>
 			<td>
-				17.3
+				17,3
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10.8 meter
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1138,7 +1138,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 5.3
+				Ja, 5,3
 			</td>
 		</tr>
 		<tr>

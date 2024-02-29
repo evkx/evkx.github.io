@@ -33,7 +33,7 @@ The BMW iX xDrive40 has a maximum power of 240 KW (326 hp/322 bhp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 76.6kWh and a net capacity of 71kWh, meaning you have a 5.6kWh buffer for protection. (7.3%).
+The battery has a gross capacity of 76,6kWh and a net capacity of 71kWh, meaning you have a 5,6kWh buffer for protection. (7.3%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 425 to 372 km (264-231 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.7kWh/100km for the basic version and 19.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

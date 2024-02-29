@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-forbrug
 			</td>
 			<td>
-				2.8 mi/kWh
+				2,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -218,7 +218,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5067 mm (199.5")
+				5067 mm (199,5")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1725 mm (67.9")
+				1725 mm (67,9")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1963 mm (77.3")
+				1963 mm (77,3")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3094 mm (121.8")
+				3094 mm (121,8")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				12.1 meter (476.4")
+				12,1 meter (476,4")
 			</td>
 		</tr>
 	</tbody>
@@ -372,7 +372,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				178 mm (7.0")
+				178 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -380,7 +380,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				178 mm (7.0")
+				178 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -1002,7 +1002,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 17.7"
+				Ja, 17,7"
 			</td>
 		</tr>
 		<tr>

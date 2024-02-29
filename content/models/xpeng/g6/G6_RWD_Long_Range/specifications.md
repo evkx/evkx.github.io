@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G6 RWD Long Ra
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5.9 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				10.9 kWh/100km
+				10,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				87.5 kWh
+				87,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4753 mm (187.1")
+				4753 mm (187,1")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1650 mm (65.0")
+				1650 mm (65,0")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1920 mm (75.6")
+				1920 mm (75,6")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2890 mm (113.8")
+				2890 mm (113,8")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.238
+				0,238
 			</td>
 		</tr>
 	</tbody>
@@ -412,7 +412,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				160 mm (6.3")
+				160 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +420,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				160 mm (6.3")
+				160 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -1044,7 +1044,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 10.2
+				Yes, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1052,7 +1052,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 14.96"
+				Yes, 14,96"
 			</td>
 		</tr>
 		<tr>

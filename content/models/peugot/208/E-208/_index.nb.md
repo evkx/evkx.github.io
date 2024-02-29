@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Peugot E-208 i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Peugot E-208 har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 8.1 sekunder. Topphastigheten er 150 km/t.
+Peugot E-208 har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 8,1 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48.1kWh, noe som betyr at du har et 2.9kWh-buffer for beskyttelse. (5.7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48,1kWh, noe som betyr at du har et 2,9kWh-buffer for beskyttelse. (5,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 12.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 12,0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 54 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 23 minutter og 23 sekunder.
 
@@ -137,7 +137,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum er 10.3 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 10,3 tommer stor. touch-skjermen i dashbordets sentrum er 10,3 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -190,7 +190,7 @@ Lastkapasiteten i bagasjerommet er 265 liter. Med baksetet nede er det 1106 lite
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 7/6/2023, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 06.07.2023, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 208 </strong>
 </a>

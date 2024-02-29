@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				12.6 kWh/100km
+				12,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				15.3 kWh/100km
+				15,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				13.2 kWh/100km
+				13,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				15.9 kwh/100km
+				15,9 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				50.8 kWh
+				50,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4084 mm (160.8")
+				4084 mm (160,8")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1528 mm (60.2")
+				1528 mm (60,2")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1776 mm (69.9")
+				1776 mm (69,9")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2562 mm (100.9")
+				2562 mm (100,9")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.33
+				0,33
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2.25
+				2,25
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10.5 meter (413.4")
+				10,5 meter (413,4")
 			</td>
 		</tr>
 	</tbody>
@@ -452,7 +452,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +460,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -1079,7 +1079,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 10.25
+				Yes, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -1087,7 +1087,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10.25"
+				Yes, 10,25"
 			</td>
 		</tr>
 		<tr>

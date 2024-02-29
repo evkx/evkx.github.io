@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for GMC Hummer EV Edit
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.5 s
+				3,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-forbrug
 			</td>
 			<td>
-				1.5 mi/kWh
+				1,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5507 mm (216.8")
+				5507 mm (216,8")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				2009 mm (79.1")
+				2009 mm (79,1")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				2201 mm (86.7")
+				2201 mm (86,7")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2380 mm (93.7")
+				2380 mm (93,7")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3445 mm (135.6")
+				3445 mm (135,6")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11.3 meter (444.9")
+				11,3 meter (444,9")
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sengelængde
 			</td>
 			<td>
-				1524 mm (60.0")
+				1524 mm (60,0")
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sengebredde
 			</td>
 			<td>
-				1272 mm (50.1")
+				1272 mm (50,1")
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +460,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				406 mm (16.0")
+				406 mm (16,0")
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				257 mm (10.1")
+				257 mm (10,1")
 			</td>
 		</tr>
 		<tr>
@@ -1084,7 +1084,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1092,7 +1092,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 13.4"
+				Ja, 13,4"
 			</td>
 		</tr>
 		<tr>

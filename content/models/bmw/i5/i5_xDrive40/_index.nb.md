@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av BMW i5 xDrive40 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW i5 xDrive40 har en maksimal effekt på 290 KW (394hk). Totalt dreiemoment er 590 nm. Den utfører sprinten 0-100 km/t på 5.4 sekunder. Topphastigheten er 230 km/t.
+BMW i5 xDrive40 har en maksimal effekt på 290 KW (394hk). Totalt dreiemoment er 590 nm. Den utfører sprinten 0-100 km/t på 5,4 sekunder. Topphastigheten er 230 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 84.4kWh og en nettokapasitet på 81.2kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (3.8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 84,4kWh og en nettokapasitet på 81,2kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (3,8%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 538 til 463 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.1kWh/100 km for basisversjonen og 17.5kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 538 til 463 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15,1kWh/100 km for basisversjonen og 17,5kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 205 kW. En full lading fra 0 - 100 % vil ta 56 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 118kW. Hver ladeøkt vil ta 19 minutter og 26 sekunder.
 
@@ -175,7 +175,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-BMW i5 xDrive40 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 14.9 tommer stor og har en oppløsning på 2880 x 1080 piksler.
+BMW i5 xDrive40 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 14,9 tommer stor og har en oppløsning på 2880 x 1080 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

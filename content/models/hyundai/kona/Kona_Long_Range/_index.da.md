@@ -29,13 +29,13 @@ Vi har opdelt vores Hyundai Kona Long Range artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-Hyundai Kona Long Range har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 255 nm (188 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.3 sekunder. Tophastigheden er 185 km/t.
+Hyundai Kona Long Range har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 255 nm (188 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 185 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 68.5kWh og en nettokapacitet på 65.4kWh, hvilket betyder, at du har en 3.1kWh buffer til beskyttelse. (4.5%).
+Batteriet har en bruttokapacitet på 68,5kWh og en nettokapacitet på 65,4kWh, hvilket betyder, at du har en 3,1kWh buffer til beskyttelse. (4,5%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 514 til 454 km (320-282 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.7kWh/100 km for basisversionen og 14.4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 514 til 454 km (320-282 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12,7kWh/100 km for basisversionen og 14,4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 84 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 74kW. Hver opladningssession ville tage 30 minutter og 34 sekunder.
 
@@ -149,7 +149,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Hyundai Kona Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor. Skærmen touch i højre del af den delte ramme er 12.3 tommer stor.
+Hyundai Kona Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -212,7 +212,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 466 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1.0 CU FT). Bilens maksimale vægt er 2220 kg (4894 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 460 kg (1014 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 466 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT). Bilens maksimale vægt er 2220 kg (4894 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 460 kg (1014 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

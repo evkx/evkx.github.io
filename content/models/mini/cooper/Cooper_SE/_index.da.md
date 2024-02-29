@@ -33,9 +33,9 @@ Mini Cooper SE har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede dr
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 54.2kWh og en nettokapacitet på 49kWh, hvilket betyder, at du har en 5.2kWh buffer til beskyttelse. (9.6%).
+Batteriet har en bruttokapacitet på 54,2kWh og en nettokapacitet på 49kWh, hvilket betyder, at du har en 5,2kWh buffer til beskyttelse. (9,6%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 402 til 377 km (250-234 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.2kWh/100 km for basisversionen og 13.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 402 til 377 km (250-234 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12,2kWh/100 km for basisversionen og 13,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 95kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 58%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 62kW. Hver opladningssession ville tage 24 minutter og 12 sekunder.
 

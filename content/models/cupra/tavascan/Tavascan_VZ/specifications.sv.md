@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för CUPRA Tavascan VZ. Kli
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5.6 s
+				5,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				14.9 kWh/100km
+				14,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				15.8 kWh/100km
+				15,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				15.7 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				17.6 kwh/100km
+				17,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -1090,7 +1090,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 5.3
+				Ja, 5,3
 			</td>
 		</tr>
 		<tr>

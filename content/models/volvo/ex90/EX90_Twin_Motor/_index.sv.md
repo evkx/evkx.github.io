@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Volvo EX90 Twin Motor i avsnitt. Om du vill 
 
 ## Prestanda
 
-Volvo EX90 Twin Motor har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 770 Nm. Den gör sprinten 0-100 km/h på 5.9 sekunder. Topphastigheten är 180 km/h.
+Volvo EX90 Twin Motor har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 770 Nm. Den gör sprinten 0-100 km/h på 5,9 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 111kWh och en nettokapacitet på 107kWh, vilket innebär att du har en 4kWh buffert för skydd. (3.6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 111kWh och en nettokapacitet på 107kWh, vilket innebär att du har en 4kWh buffert för skydd. (3,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 580 km. Förbrukningen är 18.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 580 km. Förbrukningen är 18,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 68 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 136kW. Varje laddningssession tar 24 minuter och 31 sekunder.
 
@@ -155,7 +155,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volvo EX90 Twin Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 9.0 tum. Skärmen touch översta mittkonsolen är 14.5 tum.
+Volvo EX90 Twin Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 9,0 tum. Skärmen touch översta mittkonsolen är 14,5 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

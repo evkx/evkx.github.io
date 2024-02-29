@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Volkswagen ID.5 Pro i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Volkswagen ID.5 Pro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 545 nm. Den utfører sprinten 0-100 km/t på 6.7 sekunder. Topphastigheten er 180 km/t.
+Volkswagen ID.5 Pro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 545 nm. Den utfører sprinten 0-100 km/t på 6,7 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 556 km. Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 556 km. Forbruket er 13,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
 
@@ -167,7 +167,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Volkswagen ID.5 Pro har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 12.9 tommer stor.
+Volkswagen ID.5 Pro har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 12,9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -241,7 +241,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 10/10/2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 10.10.2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.5 </strong>
 </a>

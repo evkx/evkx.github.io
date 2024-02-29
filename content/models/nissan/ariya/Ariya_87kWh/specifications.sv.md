@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Nissan Ariya 87kWh. Kl
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7.5 s
+				7,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				16.3 kWh/100km
+				16,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				18.1 kWh/100km
+				18,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				18.3 kWh/100km
+				18,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				18.5 kwh/100km
+				18,5 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -322,7 +322,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.297
+				0,297
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10.8 meter
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1106,7 +1106,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1114,7 +1114,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>

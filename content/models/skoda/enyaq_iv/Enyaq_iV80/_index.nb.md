@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av SKODA Enyaq iV80 i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-SKODA Enyaq iV80 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 8.6 sekunder. Topphastigheten er 160 km/t.
+SKODA Enyaq iV80 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 8,6 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 534 til 510 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.4kWh/100 km for basisversjonen og 15.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 534 til 510 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,4kWh/100 km for basisversjonen og 15,1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 24 minutter og 17 sekunder.
 
@@ -167,7 +167,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-SKODA Enyaq iV80 har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.3 tommer stor. touch-skjermen i dashbordets sentrum er 13.0 tommer stor.
+SKODA Enyaq iV80 har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,3 tommer stor. touch-skjermen i dashbordets sentrum er 13,0 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -238,7 +238,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 1/1/2020, og leveringene startet i March 2021. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 01.01.2020, og leveringene startet i March 2021. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

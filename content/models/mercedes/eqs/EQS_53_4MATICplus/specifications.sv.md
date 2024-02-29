@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-AMG EQS 53 4M
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3.8 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -103,7 +103,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Mercedes-AMG EQS 53 4M
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3.4 s
+				3,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				18.9 kWh/100km
+				18,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				21.8 kWh/100km
+				21,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				21.0 kWh/100km
+				21,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				24.3 kwh/100km
+				24,3 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -206,7 +206,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				107.8 kWh
+				107,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.241
+				0,241
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11.5 meter
+				11,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1444,7 +1444,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1452,7 +1452,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 17.7
+				Ja, 17,7
 			</td>
 		</tr>
 		<tr>
@@ -1460,7 +1460,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Ja, 12.3"
+				Ja, 12,3"
 			</td>
 		</tr>
 		<tr>

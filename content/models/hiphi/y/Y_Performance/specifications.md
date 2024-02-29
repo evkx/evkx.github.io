@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi Y Performance.
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.7 s
+				4,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				17.6 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -218,7 +218,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4938 mm (194.4")
+				4938 mm (194,4")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1658 mm (65.3")
+				1658 mm (65,3")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1958 mm (77.1")
+				1958 mm (77,1")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2950 mm (116.1")
+				2950 mm (116,1")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.24
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.6 meter (456.7")
+				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
@@ -372,7 +372,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -380,7 +380,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -1005,7 +1005,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12.3
+				Yes, 12,3
 			</td>
 		</tr>
 		<tr>

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Nissan Ariya 63kWh i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Nissan Ariya 63kWh har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 7.5 sekunder. Topphastigheten är 160 km/h.
+Nissan Ariya 63kWh har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 7,5 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 63kWh, vilket innebär att du har en 3kWh buffert för skydd. (4.5%).
+Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 63kWh, vilket innebär att du har en 3kWh buffert för skydd. (4,5%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 403 till 359 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.6kWh/100 km för basversionen och 17.5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 403 till 359 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15,6kWh/100 km för basversionen och 17,5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 130 kW. En full laddning från 0 - 100 % tar 52 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 80kW. Varje laddningssession tar 26 minuter och 52 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7.2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 45 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 45 minuter.
 
 ### Laddningsport
 
@@ -141,7 +141,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Nissan Ariya 63kWh har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum. Skärmen touch på höger sida av den delade ramen är 12.3 tum.
+Nissan Ariya 63kWh har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum. Skärmen touch på höger sida av den delade ramen är 12,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

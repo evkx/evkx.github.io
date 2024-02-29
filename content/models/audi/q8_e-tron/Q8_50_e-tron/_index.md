@@ -314,7 +314,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 11/9/2022, and deliveries started in March 2023. This model is only available in Europe.<div class="mt-3 mb-3">
+This model had a world premiere on 09.11.2022, and deliveries started in March 2023. This model is only available in Europe.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

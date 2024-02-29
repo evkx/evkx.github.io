@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Lucid Air Pure i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Lucid Air Pure har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 400 nm. Den utfører sprinten 0-100 km/t på 4.5 sekunder. Topphastigheten er 200 km/t.
+Lucid Air Pure har en maksimal effekt på 320 KW (435hk). Totalt dreiemoment er 400 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 94kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2.1%).
+Batteriet har en bruttokapasitet på 94kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 747 til 708 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.3kWh/100 km for basisversjonen og 13.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 747 til 708 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12,3kWh/100 km for basisversjonen og 13,0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 163kW. Hver ladeøkt vil ta 16 minutter og 18 sekunder.
 
@@ -145,7 +145,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen er 8.0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 14.0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12.0 tommer stor. touch-skjermen i midten av midtkonsollen er 12.0 tommer stor.
+På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen er 8,0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 14,0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12,0 tommer stor. touch-skjermen i midten av midtkonsollen er 12,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

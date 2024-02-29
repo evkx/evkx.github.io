@@ -33,9 +33,9 @@ Peugot E-3008 Long Range har en maksimal effekt på 157 KW (214 hk/211 hk). Det 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 98kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 0kWh buffer til beskyttelse. (0.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 98kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 0kWh buffer til beskyttelse. (0,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 700 km (435 mi). Forbruget er 14.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 700 km (435 mi). Forbruget er 14,0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 160kW. En fuld opladning fra 0 - 100 % ville tage 110 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 56 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 74kW. Hver opladningssession ville tage 41 minutter og 45 sekunder.
 
@@ -144,7 +144,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Peugot E-3008 Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10.0 tommer stor. Skærmen touch i højre del af den delte ramme er 10.0 tommer stor.
+Peugot E-3008 Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10,0 tommer stor. Skærmen touch i højre del af den delte ramme er 10,0 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -204,12 +204,12 @@ Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1480 liter. På taget kan du laste op til 80 kg (176.4 lbs). Bilens maksimale vægt er 2640 kg (5820 lbs), og med basisvægten på 2108 kg (4647 lbs), kan du maksimalt laste 532 kg (1173 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1480 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2640 kg (5820 lbs), og med basisvægten på 2108 kg (4647 lbs), kan du maksimalt laste 532 kg (1173 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1250, og på ubremset er den 750 kg (2756/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 9/12/2023, og leveringerne startede i February 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 12.09.2023, og leveringerne startede i February 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 3008 </strong>
 </a>

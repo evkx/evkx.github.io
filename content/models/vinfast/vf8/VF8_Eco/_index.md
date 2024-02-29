@@ -33,7 +33,7 @@ The VinFast VF8 Eco has a maximum power of 260 KW (354 hp/349 bhp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 94kWh and a net capacity of 87.7kWh, meaning you have a 6.3kWh buffer for protection. (6.7%).
+The battery has a gross capacity of 94kWh and a net capacity of 87,7kWh, meaning you have a 6,3kWh buffer for protection. (6.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 471 km (293 mi). The consumption is 18.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

@@ -29,13 +29,13 @@ Vi har opdelt vores CUPRA Tavascan VZ artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-CUPRA Tavascan VZ har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 679 nm (501 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.6 sekunder. Tophastigheden er 180 km/t.
+CUPRA Tavascan VZ har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 679 nm (501 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.1%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 517 til 492 km (321-306 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.9kWh/100 km for basisversionen og 15.7kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 517 til 492 km (321-306 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,9kWh/100 km for basisversionen og 15,7kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-CUPRA Tavascan VZ har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.3 tommer stor. Skærmen touch i dashboardets midte er 15.0 tommer stor og har en opløsning på 1920 x 869 pixels.
+CUPRA Tavascan VZ har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,3 tommer stor. Skærmen touch i dashboardets midte er 15,0 tommer stor og har en opløsning på 1920 x 869 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -214,7 +214,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 540 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0.0 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 540 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

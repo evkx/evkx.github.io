@@ -45,7 +45,7 @@ The maximum DC charging speed is 126kW. A full charge from 0 - 100% would take 8
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 11 hours and 1 minutes. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging up the battery will be 162 minutes.
 ### 75kWh
 
-The battery has a gross capacity of 75kWh and a net capacity of 70.5kWh, meaning you have a 4.5kWh buffer for protection. (6.0%).
+The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 350 km (218 mi). The consumption is 19.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

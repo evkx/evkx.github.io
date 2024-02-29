@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Honda e:Ny1. Click o
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7.7 s
+				7,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				15.0 kWh/100km
+				15,0 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				68.8 kWh
+				68,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				61.9 kWh
+				61,9 kWh
 			</td>
 		</tr>
 	</tbody>
@@ -218,7 +218,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4390 mm (172.8")
+				4390 mm (172,8")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1790 mm (70.5")
+				1790 mm (70,5")
 			</td>
 		</tr>
 	</tbody>
@@ -340,7 +340,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				140 mm (5.5")
+				140 mm (5,5")
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				140 mm (5.5")
+				140 mm (5,5")
 			</td>
 		</tr>
 		<tr>
@@ -956,7 +956,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 15.2"
+				Yes, 15,2"
 			</td>
 		</tr>
 		<tr>

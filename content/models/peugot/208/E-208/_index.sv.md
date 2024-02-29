@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Peugot E-208 i avsnitt. Om du vill vänta me
 
 ## Prestanda
 
-Peugot E-208 har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260 Nm. Den gör sprinten 0-100 km/h på 8.1 sekunder. Topphastigheten är 150 km/h.
+Peugot E-208 har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260 Nm. Den gör sprinten 0-100 km/h på 8,1 sekunder. Topphastigheten är 150 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 48.1kWh, vilket innebär att du har en 2.9kWh buffert för skydd. (5.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 48,1kWh, vilket innebär att du har en 2,9kWh buffert för skydd. (5,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 12.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 12,0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 54 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 65kW. Varje laddningssession tar 23 minuter och 23 sekunder.
 
@@ -137,7 +137,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 10.3 tum. Skärmen touch i mitten av instrumentbrädan är 10.3 tum.
+Skärmen  bakom ratten integrerad i instrumentbrädan är 10,3 tum. Skärmen touch i mitten av instrumentbrädan är 10,3 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -190,7 +190,7 @@ Lastkapaciteten i bagageutrymmet är 265 liter. Med baksätet nedfällt är det 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 7/6/2023 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 06.07.2023 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 208 </strong>
 </a>

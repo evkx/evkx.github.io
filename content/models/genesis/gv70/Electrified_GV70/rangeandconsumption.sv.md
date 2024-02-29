@@ -43,7 +43,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				470 km / 292 mi
 			</td>
 			<td>
-				15.74kWh/100km / 3.9 mi/kWh
+				15,74kWh/100km / 3,9 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				470 km / 292 mi
 			</td>
 			<td>
-				15.74 kWh/100km / 3.9 mi/kWh
+				15,74 kWh/100km / 3,9 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -69,7 +69,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				380 km / 236 mi
 			</td>
 			<td>
-				19.5 kWh/100km / 3.2 mi/kWh
+				19,5 kWh/100km / 3,2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -82,7 +82,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				380 km / 236 mi
 			</td>
 			<td>
-				19.5 kWh/100km / 3.2 mi/kWh
+				19,5 kWh/100km / 3,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -116,7 +116,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				 369km / 229 mi 
 			</td>
 			<td>
-				-21.5%
+				-21,5%
 			</td>
 		</tr>
 		<tr>
@@ -127,7 +127,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				369 km / 229 mi
 			</td>
 			<td>
-				-21.5%
+				-21,5%
 			</td>
 		</tr>
 		<tr>
@@ -138,7 +138,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				311 km / 193 mi
 			</td>
 			<td>
-				-18.2%
+				-18,2%
 			</td>
 		</tr>
 		<tr>
@@ -149,7 +149,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				311 km / 193 mi
 			</td>
 			<td>
-				-18.2%
+				-18,2%
 			</td>
 		</tr>
 	</tbody>
@@ -183,7 +183,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				308 km / 191 mi
 			</td>
 			<td>
-				24 kWh/100km / 2.6 mi/kWh
+				24 kWh/100km / 2,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -194,7 +194,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				288 km /179mi
 			</td>
 			<td>
-				25.7 kWh/100km /2.4 mi/kWh
+				25,7 kWh/100km /2,4 mi/kWh
 			</td>
 		</tr>
 	</tbody>

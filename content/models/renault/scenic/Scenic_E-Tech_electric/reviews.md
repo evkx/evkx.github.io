@@ -10,7 +10,7 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The New Renault Scenic Has Some Amazing Tricks!</h3>
-<p>Fully Charged Show: 19/09/2023</p>
+<p>Fully Charged Show: 19.09.2023</p>
 
 {{< youtube msrKf6CDsRg >}}
 

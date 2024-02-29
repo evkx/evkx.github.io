@@ -33,7 +33,7 @@ The BMW i5 eDrive40 has a maximum power of 250 KW (340 hp/335 bhp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 84.4kWh and a net capacity of 81.2kWh, meaning you have a 3.2kWh buffer for protection. (3.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 84,4kWh and a net capacity of 81,2kWh, meaning you have a 3,2kWh buffer for protection. (3.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 581 to 498 km (361-310 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.0kWh/100km for the basic version and 16.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

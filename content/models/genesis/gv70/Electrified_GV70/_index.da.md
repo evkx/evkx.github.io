@@ -29,13 +29,13 @@ Vi har opdelt vores Genesis Electrified GV70 artikel i sektioner. Hvis du vil ve
 
 ## Ydeevne
 
-Med overboost har Genesis Electrified GV70 en maksimal effekt på 360 KW (490 hk / 435 bhp). Uden overboost er den 320 KW (435 hk / 483 hk). Det samlede drejningsmoment er 700 nm (517 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.2 sekunder med overboost og 4.8 sekunder uden overboost. Tophastigheden er 235 km/t.
+Med overboost har Genesis Electrified GV70 en maksimal effekt på 360 KW (490 hk / 435 bhp). Uden overboost er den 320 KW (435 hk / 483 hk). Det samlede drejningsmoment er 700 nm (517 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder med overboost og 4,8 sekunder uden overboost. Tophastigheden er 235 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77.4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3.4kWh buffer til beskyttelse. (4.4%).
+Batteriet har en bruttokapacitet på 77,4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3,4kWh buffer til beskyttelse. (4,4%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 470 km (292 mi). Forbruget er 15.7kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 470 km (292 mi). Forbruget er 15,7kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 22 minutter og 59 sekunder.
 
@@ -139,7 +139,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 8.0 tommer stor. Skærmen touch i dashboardets midte er 14.9 tommer stor. Skærmen touch i bunden af midterkonsollen er 5.0 tommer stor.
+Skærmen  bag rattet integreret i instrumentbrættet er 8,0 tommer stor. Skærmen touch i dashboardets midte er 14,9 tommer stor. Skærmen touch i bunden af midterkonsollen er 5,0 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -195,7 +195,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 503 liter. Med bagsædet nede er det 1678 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 25 liter (0.9 CU FT). Bilens maksimale vægt er 2845 kg (6272 lbs), og med basisvægten på 2235 kg (4927 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 503 liter. Med bagsædet nede er det 1678 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 25 liter (0,9 CU FT). Bilens maksimale vægt er 2845 kg (6272 lbs), og med basisvægten på 2235 kg (4927 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av MG MG4 Electric Extended Range i avsnitt. Om
 
 ## Prestanda
 
-MG MG4 Electric Extended Range har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 250 Nm. Den gör sprinten 0-100 km/h på 7.9 sekunder. Topphastigheten är 160 km/h.
+MG MG4 Electric Extended Range har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 250 Nm. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 77kWh och en nettokapacitet på 74.4kWh, vilket innebär att du har en 2.6kWh buffert för skydd. (3.4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 77kWh och en nettokapacitet på 74,4kWh, vilket innebär att du har en 2,6kWh buffert för skydd. (3,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 520 km. Förbrukningen är 14.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 520 km. Förbrukningen är 14,3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 101 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 100kW. Varje laddningssession tar 25 minuter och 33 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 10.2 tum.
+Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 10,2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

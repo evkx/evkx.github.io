@@ -33,7 +33,7 @@ The Ford Mustang Mach-E GT has a maximum power of 358 KW (487 hp/480 bhp). The t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98.8kWh and a net capacity of 92kWh, meaning you have a 6.8kWh buffer for protection. (6.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 98,8kWh and a net capacity of 92kWh, meaning you have a 6,8kWh buffer for protection. (6.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 490 km (305 mi). The consumption is 18.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

@@ -33,7 +33,7 @@ The XPENG G6 AWD Performance has a maximum power of 358 KW (487 hp/480 bhp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 87.5kWh and a net capacity of 82kWh, meaning you have a 5.5kWh buffer for protection. (6.3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 87,5kWh and a net capacity of 82kWh, meaning you have a 5,5kWh buffer for protection. (6.3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 11.7kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Cadillac LYRIQ RWD i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Cadillac LYRIQ RWD har en maximal effekt på 255 KW (347hk). Totalt vridmoment är 450 Nm. Den gör sprinten 0-100 km/h på 5.7 sekunder.
+Cadillac LYRIQ RWD har en maximal effekt på 255 KW (347hk). Totalt vridmoment är 450 Nm. Den gör sprinten 0-100 km/h på 5,7 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.3%).
+Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,3%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 312 miles (502 km). Förbrukningen är 3.1mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 312 miles (502 km). Förbrukningen är 3,1mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 176 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 120kW. Varje laddningssession tar 29 minuter och 59 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 19.2 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 18 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 19,2 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 18 minuter.
 
 ### Laddningsport
 
@@ -140,7 +140,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Cadillac LYRIQ RWD har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch bakom ratten över mitten av instrumentbrädan är 33.0 tum.
+Cadillac LYRIQ RWD har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch bakom ratten över mitten av instrumentbrädan är 33,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

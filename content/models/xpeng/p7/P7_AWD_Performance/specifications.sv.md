@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för XPENG P7 AWD Performan
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3.9 s
+				3,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				16.4 kWh/100km
+				16,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				19.2 kWh/100km
+				19,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				86.2 kWh
+				86,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				82.7 kWh
+				82,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1027,7 +1027,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10.25
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -1035,7 +1035,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 14.96
+				Ja, 14,96
 			</td>
 		</tr>
 		<tr>

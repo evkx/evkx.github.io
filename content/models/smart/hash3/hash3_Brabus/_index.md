@@ -204,7 +204,7 @@ The cargo capacity in the trunk is 370 liters. With the rear seat down, it is 11
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 9/3/2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 03.09.2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #3 </strong>
 </a>

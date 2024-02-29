@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Mercedes-AMG EQE 43 4MATIC SUV i seksjoner. Hvis
 
 ## Ytelse
 
-Mercedes-AMG EQE 43 4MATIC SUV har en maksimal effekt på 350 KW (476hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t på 4.3 sekunder. Topphastigheten er 210 km/t.
+Mercedes-AMG EQE 43 4MATIC SUV har en maksimal effekt på 350 KW (476hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t på 4,3 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 96.12kWh og en nettokapasitet på 90.6kWh, noe som betyr at du har et 5.52kWh-buffer for beskyttelse. (5.7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 96,12kWh og en nettokapasitet på 90,6kWh, noe som betyr at du har et 5,52kWh-buffer for beskyttelse. (5,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 488 til 431 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18.6kWh/100 km for basisversjonen og 21.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 488 til 431 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 18,6kWh/100 km for basisversjonen og 21,0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 55 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 121kW. Hver ladeøkt vil ta 28 minutter og 48 sekunder.
 
@@ -169,9 +169,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på Mercedes-AMG EQE 43 4MATIC SUV.
 
-Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet montert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i midten av midtkonsollen er 12.8 tommer stor og har en oppløsning på 1888x1728 piksler.
+Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet montert i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i midten av midtkonsollen er 12,8 tommer stor og har en oppløsning på 1888x1728 piksler.
 
-Det valgfrie MBUX Hyperscreen-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17.7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler.
+Det valgfrie MBUX Hyperscreen-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17,7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

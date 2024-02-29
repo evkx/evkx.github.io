@@ -10,21 +10,21 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3></h3>
-<p>Wheelsboy: 23/12/2023</p>
+<p>Wheelsboy: 23.12.2023</p>
 
 {{< youtube FRiHvA20WtY >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3></h3>
-<p>Telescope: 23/12/2023</p>
+<p>Telescope: 23.12.2023</p>
 
 {{< youtube bJNtI19qoNI >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3></h3>
-<p>MAD EV: 23/12/2023</p>
+<p>MAD EV: 23.12.2023</p>
 
 {{< youtube Y_t7Ar8vKgs >}}
 

@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="han/"><img src="https://media.evkx.net/multimedia/models/byd/han/han/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="Han" ></a>
-<i class="bi bi-battery-full"></i> 85.4 kWh <i class="bi bi-ev-station"></i> 120 kW 
+<i class="bi bi-battery-full"></i> 85,4 kWh <i class="bi bi-ev-station"></i> 120 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi Z 4 Seater. Cl
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3.8 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				21.6 kWh/100km
+				21,6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -210,7 +210,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5036 mm (198.3")
+				5036 mm (198,3")
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1439 mm (56.7")
+				1439 mm (56,7")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				2018 mm (79.4")
+				2018 mm (79,4")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3150 mm (124.0")
+				3150 mm (124,0")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.4 meter (448.8")
+				11,4 meter (448,8")
 			</td>
 		</tr>
 	</tbody>
@@ -356,7 +356,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				150 mm (5.9")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>

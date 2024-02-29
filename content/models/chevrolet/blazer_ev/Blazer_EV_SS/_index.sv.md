@@ -33,9 +33,9 @@ Chevrolet Blazer EV SS har en maximal effekt på 410 KW (557hk). Totalt vridmome
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.3%).
+Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,3%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 290 miles (467 km). Förbrukningen är 2.8mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 290 miles (467 km). Förbrukningen är 2,8mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 190 kW. En full laddning från 0 - 100 % tar 176 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 120kW. Varje laddningssession tar 29 minuter och 59 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter.
 
 ### Laddningsport
 
@@ -135,7 +135,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Chevrolet Blazer EV SS har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 11.0 tum. Skärmen touch på höger sida av den delade ramen är 17.7 tum.
+Chevrolet Blazer EV SS har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 11,0 tum. Skärmen touch på höger sida av den delade ramen är 17,7 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

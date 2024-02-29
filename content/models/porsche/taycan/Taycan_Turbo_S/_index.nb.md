@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo S i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Med overboost har Porsche Taycan Turbo S en maksimal effekt på 700 KW (952hk). Uten overboost er den 620KW (843hk). Dreiemomentet er 1110 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2.4 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Taycan Turbo S en maksimal effekt på 700 KW (952hk). Uten overboost er den 620KW (843hk). Dreiemomentet er 1110 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,4 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7.6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 630 til 558 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.4kWh/100 km for basisversjonen og 17.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 630 til 558 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15,4kWh/100 km for basisversjonen og 17,4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 320 kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 15 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 212kW. Hver ladeøkt vil ta 18 minutter og 32 sekunder.
 
@@ -174,7 +174,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-Porsche Taycan Turbo S har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16.8 tommer stor. touch-skjermen øverst på midtkonsollen er 10.9 tommer stor. touch-skjermen nederst på midtkonsollen er 8.4 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10.9 tommer stor.
+Porsche Taycan Turbo S har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16,8 tommer stor. touch-skjermen øverst på midtkonsollen er 10,9 tommer stor. touch-skjermen nederst på midtkonsollen er 8,4 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

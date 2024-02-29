@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="g6_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_awd_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="234px" alt="G6 AWD Performance" ></a>
-<i class="bi bi-battery-full"></i> 87.5 kWh <i class="bi bi-ev-station"></i> 300 kW 
+<i class="bi bi-battery-full"></i> 87,5 kWh <i class="bi bi-ev-station"></i> 300 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="g6_rwd_long_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g6/g6_rwd_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="234px" alt="G6 RWD Long Range" ></a>
-<i class="bi bi-battery-full"></i> 87.5 kWh <i class="bi bi-ev-station"></i> 300 kW 
+<i class="bi bi-battery-full"></i> 87,5 kWh <i class="bi bi-ev-station"></i> 300 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

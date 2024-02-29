@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				13.4 kWh/100km
+				13,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4010 mm (157.9")
+				4010 mm (157,9")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1570 mm (61.8")
+				1570 mm (61,8")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1760 mm (69.3")
+				1760 mm (69,3")
 			</td>
 		</tr>
 	</tbody>
@@ -332,7 +332,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				163 mm (6.4")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -340,7 +340,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				163 mm (6.4")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -955,7 +955,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10.25"
+				Yes, 10,25"
 			</td>
 		</tr>
 		<tr>

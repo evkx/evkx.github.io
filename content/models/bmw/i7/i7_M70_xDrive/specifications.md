@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for BMW i7 M70 xDrive. C
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3.7 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				18.2 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				20.8 kWh/100km
+				20,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				20.8 kWh/100km
+				20,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				23.8 kwh/100km
+				23,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				105.7 kWh
+				105,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				101.7 kWh
+				101,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +174,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				376.4
+				376,4
 			</td>
 		</tr>
 	</tbody>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5391 mm (212.2")
+				5391 mm (212,2")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1544 mm (60.8")
+				1544 mm (60,8")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1950 mm (76.8")
+				1950 mm (76,8")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3215 mm (126.6")
+				3215 mm (126,6")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1714 mm (67.5")
+				1714 mm (67,5")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1735 mm (68.3")
+				1735 mm (68,3")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.26
+				0,26
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2.60
+				2,60
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle front
 			</td>
 			<td>
-				18.8
+				18,8
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle rear
 			</td>
 			<td>
-				20.8
+				20,8
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				13.1 meter (515.7")
+				13,1 meter (515,7")
 			</td>
 		</tr>
 	</tbody>
@@ -492,7 +492,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				223 mm (8.8")
+				223 mm (8,8")
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +500,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				193 mm (7.6")
+				193 mm (7,6")
 			</td>
 		</tr>
 		<tr>
@@ -1225,7 +1225,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12.3
+				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1233,7 +1233,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 14.9"
+				Yes, 14,9"
 			</td>
 		</tr>
 		<tr>

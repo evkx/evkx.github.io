@@ -29,13 +29,13 @@ Vi har opdelt vores Opel Astra Electric artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Opel Astra Electric har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 10.5 sekunder. Tophastigheden er 170 km/t.
+Opel Astra Electric har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 10,5 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50.8kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (5.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50,8kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (5,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 413 km (257 mi). Forbruget er 12.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 413 km (257 mi). Forbruget er 12,3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 57 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 66kW. Hver opladningssession ville tage 24 minutter og 25 sekunder.
 
@@ -142,7 +142,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Opel Astra Electric har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10.0 tommer stor. Skærmen touch i højre del af den delte ramme er 10.0 tommer stor.
+Opel Astra Electric har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10,0 tommer stor. Skærmen touch i højre del af den delte ramme er 10,0 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -192,7 +192,7 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 352 liter. Med bagsædet nede er det 1268 liter. På taget kan du laste op til 70 kg (154.3 lbs). Bilens maksimale vægt er 2100 kg (4630 lbs), og med basisvægten på 1736 kg (3827 lbs), kan du maksimalt laste 364 kg (802 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 352 liter. Med bagsædet nede er det 1268 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2100 kg (4630 lbs), og med basisvægten på 1736 kg (3827 lbs), kan du maksimalt laste 364 kg (802 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 
@@ -201,7 +201,7 @@ Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du 
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 7/6/2023, og leveringerne startede i November 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 06.07.2023, og leveringerne startede i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Opel Astra </strong>
 </a>

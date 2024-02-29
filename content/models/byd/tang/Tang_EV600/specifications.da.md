@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Tang EV600. Kl
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.6 s
+				4,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				21.6 kWh/100km
+				21,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				86.4 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4870 mm (191.7")
+				4870 mm (191,7")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1725 mm (67.9")
+				1725 mm (67,9")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1950 mm (76.8")
+				1950 mm (76,8")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2820 mm (111.0")
+				2820 mm (111,0")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11.8 meter (464.6")
+				11,8 meter (464,6")
 			</td>
 		</tr>
 	</tbody>
@@ -444,7 +444,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				190 mm (7.5")
+				190 mm (7,5")
 			</td>
 		</tr>
 		<tr>
@@ -452,7 +452,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				190 mm (7.5")
+				190 mm (7,5")
 			</td>
 		</tr>
 		<tr>
@@ -1066,7 +1066,7 @@ Interior.Seatlayout.OnlySix
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1074,7 +1074,7 @@ Interior.Seatlayout.OnlySix
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 12.8"
+				Ja, 12,8"
 			</td>
 		</tr>
 		<tr>

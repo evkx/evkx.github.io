@@ -63,7 +63,7 @@ EVKX.net søger at have de mest komplette specifikationer for Genesis Electrifie
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.8 s
+				4,8 s
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +71,7 @@ EVKX.net søger at have de mest komplette specifikationer for Genesis Electrifie
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				4.2 s
+				4,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				15.7 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				18.8 kWh/100km
+				18,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-forbrug
 			</td>
 			<td>
-				3.2 mi/kWh
+				3,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				77.4 kWh
+				77,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4715 mm (185.6")
+				4715 mm (185,6")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1630 mm (64.2")
+				1630 mm (64,2")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1910 mm (75.2")
+				1910 mm (75,2")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2165 mm (85.2")
+				2165 mm (85,2")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2875 mm (113.2")
+				2875 mm (113,2")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11.5 meter (452.8")
+				11,5 meter (452,8")
 			</td>
 		</tr>
 	</tbody>
@@ -484,7 +484,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				175 mm (6.9")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +492,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				175 mm (6.9")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -1111,7 +1111,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, to 14.9" og 5"
+				Ja, to 14,9" og 5"
 			</td>
 		</tr>
 		<tr>

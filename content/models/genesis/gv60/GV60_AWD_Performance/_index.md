@@ -33,7 +33,7 @@ With overboost, the Genesis GV60 AWD Performance has a maximum power of 360 KW (
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77.4kWh and a net capacity of 74kWh, meaning you have a 3.4kWh buffer for protection. (4.4%).
+The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 470 km (292 mi). The consumption is 15.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

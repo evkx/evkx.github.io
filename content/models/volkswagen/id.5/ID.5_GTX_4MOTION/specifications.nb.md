@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.5 GTX
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5.5 s
+				5,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				14.4 kWh/100km
+				14,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				17.9 kWh/100km
+				17,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -314,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel foran
 			</td>
 			<td>
-				16.9
+				16,9
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel bak
 			</td>
 			<td>
-				19.4
+				19,4
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.57 meter
+				11,57 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1424,7 +1424,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 12.9
+				Ja, 12,9
 			</td>
 		</tr>
 		<tr>

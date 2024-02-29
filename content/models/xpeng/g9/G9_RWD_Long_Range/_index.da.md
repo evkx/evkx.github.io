@@ -29,13 +29,13 @@ Vi har opdelt vores XPENG G9 RWD Long Range artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-XPENG G9 RWD Long Range har en maksimal effekt på 230 KW (313 hk/308 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.4 sekunder. Tophastigheden er 200 km/t.
+XPENG G9 RWD Long Range har en maksimal effekt på 230 KW (313 hk/308 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,4 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 98kWh og en nettokapacitet på 93.6kWh, hvilket betyder, at du har en 4.4kWh buffer til beskyttelse. (4.5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 98kWh og en nettokapacitet på 93,6kWh, hvilket betyder, at du har en 4,4kWh buffer til beskyttelse. (4,5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 570 km (354 mi). Forbruget er 16.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 570 km (354 mi). Forbruget er 16,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 169kW. Hver opladningssession ville tage 18 minutter og 36 sekunder.
 
@@ -155,7 +155,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-XPENG G9 RWD Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet monteret i instrumentbrættet er 10.3 tommer stor. Skærmen touch i dashboardets midte er 15.0 tommer stor. Skærmen touch foran passageren på instrumentbrættet er 15.0 tommer stor.
+XPENG G9 RWD Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet monteret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 15,0 tommer stor. Skærmen touch foran passageren på instrumentbrættet er 15,0 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -213,7 +213,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1576 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2.5 CU FT). Bilens maksimale vægt er 2680 kg (5908 lbs), og med basisvægten på 2230 kg (4916 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 450kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1576 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2,5 CU FT). Bilens maksimale vægt er 2680 kg (5908 lbs), og med basisvægten på 2230 kg (4916 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 450kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
 

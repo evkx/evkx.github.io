@@ -202,7 +202,7 @@ The cargo capacity in the trunk is 462 liters. With the rear seat down, it is 13
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 12/27/2023, and deliveries started in January 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 27.12.2023, and deliveries started in January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 007 </strong>
 </a>

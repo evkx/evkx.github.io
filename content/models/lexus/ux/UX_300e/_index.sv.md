@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Lexus UX 300e i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Lexus UX 300e har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 7.5 sekunder. Topphastigheten är 160 km/h.
+Lexus UX 300e har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 7,5 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 71.4kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7.4kWh buffert för skydd. (10.4%).
+Batteriet har en bruttokapacitet på 71,4kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7,4kWh buffert för skydd. (10,4%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 450 till 440 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.2kWh/100 km för basversionen och 14.5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 450 till 440 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,2kWh/100 km för basversionen och 14,5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 50 kW. En full laddning från 0 - 100 % tar 204 minuter, medan ett vanligare scenario på 10-80 % tar 90 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 35%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 34kW. Varje laddningssession tar 36 minuter och 14 sekunder.
 
@@ -151,9 +151,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på Lexus UX 300e.
 
-Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 7.0 tum.
+Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 7,0 tum.
 
-Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 8.0 tum. Skärmen touch översta mittkonsolen är 12.3 tum.
+Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 8,0 tum. Skärmen touch översta mittkonsolen är 12,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

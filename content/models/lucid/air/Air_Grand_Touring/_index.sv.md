@@ -33,9 +33,9 @@ Lucid Air Grand Touring har en maximal effekt på 597 KW (812hk). Totalt vridmom
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 112kWh och en nettokapacitet på 112kWh, vilket innebär att du har en 0kWh buffert för skydd. (0.0%).
+Batteriet har en bruttokapacitet på 112kWh och en nettokapacitet på 112kWh, vilket innebär att du har en 0kWh buffert för skydd. (0,0%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 839 till 783 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.3kWh/100 km för basversionen och 14.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 839 till 783 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13,3kWh/100 km för basversionen och 14,3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 74 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 172kW. Varje laddningssession tar 18 minuter och 34 sekunder.
 
@@ -151,7 +151,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8.0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 14.0 tum. Skärmen touch på höger sida av den delade ramen är 12.0 tum. Skärmen touch i mitten av mittkonsolen är 12.0 tum.
+Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8,0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 14,0 tum. Skärmen touch på höger sida av den delade ramen är 12,0 tum. Skärmen touch i mitten av mittkonsolen är 12,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -33,7 +33,7 @@ The XPENG G3i has a maximum power of 145 KW (197 hp/194 bhp). The total torque i
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 66kWh and a net capacity of 55.9kWh, meaning you have a 10.1kWh buffer for protection. (15.3%).
+The battery has a gross capacity of 66kWh and a net capacity of 55,9kWh, meaning you have a 10,1kWh buffer for protection. (15.3%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 420 km (261 mi). The consumption is 13.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

@@ -29,13 +29,13 @@ Vi har opdelt vores Tesla Cybertruck AWD artikel i sektioner. Hvis du vil vente 
 
 ## Ydeevne
 
-Tesla Cybertruck AWD har en maksimal effekt på 448 KW (609 hk/601 hk). Det samlede drejningsmoment er 671 nm (495 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.1 sekunder. Tophastigheden er 180 km/t.
+Tesla Cybertruck AWD har en maksimal effekt på 448 KW (609 hk/601 hk). Det samlede drejningsmoment er 671 nm (495 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,1 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 123kWh og en nettokapacitet på 122.5kWh, hvilket betyder, at du har en 0.5kWh buffer til beskyttelse. (0.4%).
+Batteriet har en bruttokapacitet på 123kWh og en nettokapacitet på 122,5kWh, hvilket betyder, at du har en 0,5kWh buffer til beskyttelse. (0,4%).
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 340 miles (547 km). Forbruget er 2.8mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 340 miles (547 km). Forbruget er 2,8mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 77 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 37%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 157kW. Hver opladningssession ville tage 17 minutter og 22 sekunder.
 
@@ -55,7 +55,7 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 
 ### V2L - Køretøj der skal indlæses
 
-Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 11.5 kW effekt, inklusive opladning af andre køretøjer. Der er tilgængelige stikkontakter både på ladet og i kabinen.
+Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 11,5 kW effekt, inklusive opladning af andre køretøjer. Der er tilgængelige stikkontakter både på ladet og i kabinen.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
@@ -169,7 +169,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Tesla Cybertruck AWD har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 18.5 tommer stor. For bagsædepassagererne er der en infotainmentskærm i midterkonsollen på anden række.
+Tesla Cybertruck AWD har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 18,5 tommer stor. For bagsædepassagererne er der en infotainmentskærm i midterkonsollen på anden række.
 Modellen har ikke et head-up display.
 
 
@@ -239,7 +239,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1897.23 liter. Ladebredden er 1295 mm, og længden er 1849 mm. Den maksimale lastvægt i lad er 1134 kg. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 201 liter (7.1 CU FT). Bilens maksimale vægt er 4159 kg (9169 lbs), og med basisvægten på 3025 kg (6669 lbs), kan du maksimalt laste 1134 kg (2500 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastkapaciteten i lastbilens lad er 1897,23 liter. Ladebredden er 1295 mm, og længden er 1849 mm. Den maksimale lastvægt i lad er 1134 kg. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 201 liter (7,1 CU FT). Bilens maksimale vægt er 4159 kg (9169 lbs), og med basisvægten på 3025 kg (6669 lbs), kan du maksimalt laste 1134 kg (2500 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 4990, og på ubremset er den 750 kg (11000/1653 lbs).
 
@@ -248,7 +248,7 @@ Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt p�
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 11/30/2023, og leveringerne startede i November 2023. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 30.11.2023, og leveringerne startede i November 2023. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
 </a>

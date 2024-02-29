@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 007 AWD Perfor
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				2.84 s
+				2,84 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				14.4 kWh/100km
+				14,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4865 mm (191.5")
+				4865 mm (191,5")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1450 mm (57.1")
+				1450 mm (57,1")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1900 mm (74.8")
+				1900 mm (74,8")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2928 mm (115.3")
+				2928 mm (115,3")
 			</td>
 		</tr>
 	</tbody>
@@ -420,7 +420,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				192 mm (7.6")
+				192 mm (7,6")
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +428,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				162 mm (6.4")
+				162 mm (6,4")
 			</td>
 		</tr>
 		<tr>

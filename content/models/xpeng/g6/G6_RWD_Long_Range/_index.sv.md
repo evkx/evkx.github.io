@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av XPENG G6 RWD Long Range i avsnitt. Om du vil
 
 ## Prestanda
 
-XPENG G6 RWD Long Range har en maximal effekt på 218 KW (296hk). Totalt vridmoment är 440 Nm. Den gör sprinten 0-100 km/h på 5.9 sekunder. Topphastigheten är 202 km/h.
+XPENG G6 RWD Long Range har en maximal effekt på 218 KW (296hk). Totalt vridmoment är 440 Nm. Den gör sprinten 0-100 km/h på 5,9 sekunder. Topphastigheten är 202 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 87.5kWh och en nettokapacitet på 82kWh, vilket innebär att du har en 5.5kWh buffert för skydd. (6.3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 87,5kWh och en nettokapacitet på 82kWh, vilket innebär att du har en 5,5kWh buffert för skydd. (6,3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 755 km ( miles). Förbrukningen är 10.9kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 755 km ( miles). Förbrukningen är 10,9kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 147kW. Varje laddningssession tar 18 minuter och 43 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-XPENG G6 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10.2 tum. Skärmen touch i mitten av instrumentbrädan är 15.0 tum.
+XPENG G6 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

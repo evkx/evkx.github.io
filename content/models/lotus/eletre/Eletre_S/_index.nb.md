@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Lotus Eletre S i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Lotus Eletre S har en maksimal effekt på 450 KW (612hk). Totalt dreiemoment er 710 nm. Den utfører sprinten 0-100 km/t på 4.5 sekunder. Topphastigheten er 258 km/t.
+Lotus Eletre S har en maksimal effekt på 450 KW (612hk). Totalt dreiemoment er 710 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 258 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 112kWh og en nettokapasitet på 109kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (2.7%).
+Batteriet har en bruttokapasitet på 112kWh og en nettokapasitet på 109kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (2,7%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 535 til 490 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 20.4kWh/100 km for basisversjonen og 22.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 535 til 490 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 20,4kWh/100 km for basisversjonen og 22,2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 68%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 193kW. Hver ladeøkt vil ta 23 minutter og 45 sekunder.
 
@@ -157,7 +157,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum er 15.1 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 12,3 tommer stor. touch-skjermen i dashbordets sentrum er 15,1 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -237,7 +237,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 1/29/2021, og leveringene startet i March 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 29.01.2021, og leveringene startet i March 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lotus Eletre </strong>
 </a>

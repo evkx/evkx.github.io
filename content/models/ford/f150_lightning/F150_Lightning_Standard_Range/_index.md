@@ -213,7 +213,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 5/19/2021, and deliveries started in December 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 19.05.2021, and deliveries started in December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
 </a>

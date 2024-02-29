@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Kia Niro EV. Click o
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7.8 s
+				7,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				14.0 kWh/100km
+				14,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				16.4 kWh/100km
+				16,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				64.8 kWh
+				64,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4420 mm (174.0")
+				4420 mm (174,0")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1545 mm (60.8")
+				1545 mm (60,8")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1825 mm (71.9")
+				1825 mm (71,9")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2720 mm (107.1")
+				2720 mm (107,1")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1573 mm (61.9")
+				1573 mm (61,9")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1585 mm (62.4")
+				1585 mm (62,4")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10.2 meter (401.6")
+				10,2 meter (401,6")
 			</td>
 		</tr>
 	</tbody>
@@ -460,7 +460,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				160 mm (6.3")
+				160 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				160 mm (6.3")
+				160 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -1063,7 +1063,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 10.25
+				Yes, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -1071,7 +1071,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10.25"
+				Yes, 10,25"
 			</td>
 		</tr>
 		<tr>

@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for HiPhi Z 4 Seater. 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.8 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				21.6 kWh/100km
+				21,6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -210,7 +210,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5036 mm (198.3")
+				5036 mm (198,3")
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1439 mm (56.7")
+				1439 mm (56,7")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				2018 mm (79.4")
+				2018 mm (79,4")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3150 mm (124.0")
+				3150 mm (124,0")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11.4 meter (448.8")
+				11,4 meter (448,8")
 			</td>
 		</tr>
 	</tbody>
@@ -356,7 +356,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				150 mm (5.9")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>

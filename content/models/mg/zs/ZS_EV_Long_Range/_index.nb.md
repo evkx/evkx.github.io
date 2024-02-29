@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av MG ZS EV Long Range i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-MG ZS EV Long Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t på 8.6 sekunder. Topphastigheten er 175 km/t.
+MG ZS EV Long Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t på 8,6 sekunder. Topphastigheten er 175 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 72.6kWh og en nettokapasitet på 68.3kWh, noe som betyr at du har et 4.3kWh-buffer for beskyttelse. (5.9%).
+Batteriet har en bruttokapasitet på 72,6kWh og en nettokapasitet på 68,3kWh, noe som betyr at du har et 4,3kWh-buffer for beskyttelse. (5,9%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 440 km. Forbruket er 15.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 440 km. Forbruket er 15,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 94 kW. En full lading fra 0 - 100 % vil ta 112 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 63kW. Hver ladeøkt vil ta 34 minutter og 23 sekunder.
 
@@ -142,7 +142,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 7.0 tommer stor. touch-skjermen øverst på midtkonsollen er 10.2 tommer stor.
+-skjermen bak rattet montert i dashbordet er 7,0 tommer stor. touch-skjermen øverst på midtkonsollen er 10,2 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -204,7 +204,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 10/7/2021, og leveringene startet i January 2022.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 07.10.2021, og leveringene startet i January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG ZS </strong>
 </a>

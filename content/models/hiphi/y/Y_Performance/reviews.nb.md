@@ -10,21 +10,21 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>HiPhi Y first impressions</h3>
-<p>Bjørn Nyland: 31/01/2024</p>
+<p>Bjørn Nyland: 31.01.2024</p>
 
 {{< youtube JXKLBRjGjjo >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Move Over Germans! - The HiPhi Y Crams The Tech and Madness of the X and Z Into A Smaller Package</h3>
-<p>Inside China Auto: 15/07/2023</p>
+<p>Inside China Auto: 15.07.2023</p>
 
 {{< youtube 9PSSnwIkQNI >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The HiPhi Y Is Restrained Insanity</h3>
-<p>Wheelsboy: 15/07/2023</p>
+<p>Wheelsboy: 15.07.2023</p>
 
 {{< youtube 41NsrzQjT3I >}}
 

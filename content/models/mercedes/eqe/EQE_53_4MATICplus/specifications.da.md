@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQE 5
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.5 s
+				3,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -103,7 +103,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQE 5
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.3 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,7 +139,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				17.2 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				20.2 kWh/100km
+				20,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				19.7 kWh/100km
+				19,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				22.6 kwh/100km
+				22,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -198,7 +198,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				96.12 kWh
+				96,12 kWh
 			</td>
 		</tr>
 		<tr>
@@ -206,7 +206,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				90.6 kWh
+				90,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4964 mm (195.4")
+				4964 mm (195,4")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1492 mm (58.7")
+				1492 mm (58,7")
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1961 mm (77.2")
+				1961 mm (77,2")
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2103 mm (82.8")
+				2103 mm (82,8")
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3104 mm (122.2")
+				3104 mm (122,2")
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1648 mm (64.9")
+				1648 mm (64,9")
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1610 mm (63.4")
+				1610 mm (63,4")
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0.22
+				0,22
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				12.3 meter (484.3")
+				12,3 meter (484,3")
 			</td>
 		</tr>
 	</tbody>
@@ -548,7 +548,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				127 mm (5.0")
+				127 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +556,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				82 mm (3.2")
+				82 mm (3,2")
 			</td>
 		</tr>
 		<tr>

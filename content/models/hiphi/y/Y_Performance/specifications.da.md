@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for HiPhi Y Performanc
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.7 s
+				4,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				17.6 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -218,7 +218,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4938 mm (194.4")
+				4938 mm (194,4")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1658 mm (65.3")
+				1658 mm (65,3")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1958 mm (77.1")
+				1958 mm (77,1")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2950 mm (116.1")
+				2950 mm (116,1")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0.24
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11.6 meter (456.7")
+				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
@@ -372,7 +372,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -380,7 +380,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -1005,7 +1005,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>

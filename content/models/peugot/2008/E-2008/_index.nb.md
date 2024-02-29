@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Peugot E-2008 i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Peugot E-2008 har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 9.1 sekunder. Topphastigheten er 150 km/t.
+Peugot E-2008 har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 9,1 sekunder. Topphastigheten er 150 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50.8kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (5.9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 54kWh og en nettokapasitet på 50,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (5,9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 406 km. Forbruket er 12.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 406 km. Forbruket er 12,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 66kW. Hver ladeøkt vil ta 24 minutter og 25 sekunder.
 
@@ -133,7 +133,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum er 10.3 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 10,3 tommer stor. touch-skjermen i dashbordets sentrum er 10,3 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

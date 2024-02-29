@@ -35,13 +35,13 @@ Denne modellen er erstattet av [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/
 
 ## Ytelse
 
-Med overboost har Volkswagen ID.5 GTX 4MOTION (GEN1) en maksimal effekt på 220 KW (299hk). Uten overboost er den 195KW (265hk). Dreiemomentet er 460 nm med overboost og 425 uten overboost. Den utfører sprinten 0-100 km/t på 6.3 sekunder med overboost og 6.9 sekunder uten overboost. Topphastigheten er 180 km/t.
+Med overboost har Volkswagen ID.5 GTX 4MOTION (GEN1) en maksimal effekt på 220 KW (299hk). Uten overboost er den 195KW (265hk). Dreiemomentet er 460 nm med overboost og 425 uten overboost. Den utfører sprinten 0-100 km/t på 6,3 sekunder med overboost og 6,9 sekunder uten overboost. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 496 til 409 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.5kWh/100 km for basisversjonen og 18.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 496 til 409 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15,5kWh/100 km for basisversjonen og 18,8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
 
@@ -168,9 +168,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på Volkswagen ID.5 GTX 4MOTION (GEN1).
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 10.0 tommer stor.
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 10,0 tommer stor.
 
-Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 12.0 tommer stor og har en oppløsning på 1920 x 869 piksler.
+Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 12,0 tommer stor og har en oppløsning på 1920 x 869 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

@@ -71,7 +71,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.5 GT
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6.9 s
+				6,9 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.5 GT
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				6.3 s
+				6,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				15.5 kWh/100km
+				15,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				17.9 kWh/100km
+				17,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				18.8 kWh/100km
+				18,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				21.4 kwh/100km
+				21,4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4599 mm (181.1")
+				4599 mm (181,1")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1615 mm (63.6")
+				1615 mm (63,6")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1852 mm (72.9")
+				1852 mm (72,9")
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2108 mm (83.0")
+				2108 mm (83,0")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2771 mm (109.1")
+				2771 mm (109,1")
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1587 mm (62.5")
+				1587 mm (62,5")
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1567 mm (61.7")
+				1567 mm (61,7")
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Overhængsvinkel foran
 			</td>
 			<td>
-				16.9
+				16,9
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				OverhangAngleRear
 			</td>
 			<td>
-				19.4
+				19,4
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11.57 meter (455.5")
+				11,57 meter (455,5")
 			</td>
 		</tr>
 	</tbody>
@@ -544,7 +544,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				170 mm (6.7")
+				170 mm (6,7")
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +552,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				170 mm (6.7")
+				170 mm (6,7")
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +665,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				153 mm (6.0")
+				153 mm (6,0")
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +673,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				153 mm (6.0")
+				153 mm (6,0")
 			</td>
 		</tr>
 		<tr>

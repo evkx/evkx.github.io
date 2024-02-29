@@ -29,13 +29,13 @@ Vi har opdelt vores Hongqi E-HS9 Exclusive artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-Hongqi E-HS9 Exclusive har en maksimal effekt på 405 KW (551 hk/543 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.9 sekunder. Tophastigheden er 200 km/t.
+Hongqi E-HS9 Exclusive har en maksimal effekt på 405 KW (551 hk/543 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,9 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 99kWh og en nettokapacitet på 95.3kWh, hvilket betyder, at du har en 3.7kWh buffer til beskyttelse. (3.7%).
+Batteriet har en bruttokapacitet på 99kWh og en nettokapacitet på 95,3kWh, hvilket betyder, at du har en 3,7kWh buffer til beskyttelse. (3,7%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 465 km (289 mi). Forbruget er 20.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 465 km (289 mi). Forbruget er 20,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 78 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 37 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 68%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 96kW. Hver opladningssession ville tage 36 minutter og 50 sekunder.
 
@@ -150,7 +150,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Hongqi E-HS9 Exclusive har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten af instrumentbrættet er en infotainmentskærm, og i midterkonsollen er en skærm til klimaanlægget. Til passageren er der en infotainmentskærm. Skærmen  bag rattet integreret i instrumentbrættet er 16.2 tommer stor. Skærmen touch i dashboardets centrum er 16.2 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 16.2 tommer stor. Skærmen touch i midten af midterkonsollen er 10.2 tommer stor.
+Hongqi E-HS9 Exclusive har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten af instrumentbrættet er en infotainmentskærm, og i midterkonsollen er en skærm til klimaanlægget. Til passageren er der en infotainmentskærm. Skærmen  bag rattet integreret i instrumentbrættet er 16,2 tommer stor. Skærmen touch i dashboardets centrum er 16,2 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 16,2 tommer stor. Skærmen touch i midten af midterkonsollen er 10,2 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -214,7 +214,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 225 liter. Med sædet på tredje række nede er det 622 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3180 kg (7011 lbs), og med basisvægten på 2630 kg (5798 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 225 liter. Med sædet på tredje række nede er det 622 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3180 kg (7011 lbs), og med basisvægten på 2630 kg (5798 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

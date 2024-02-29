@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Ford F150 Lightning 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.2 s
+				4,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				23.0 kWh/100km
+				23,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				2.3 mi/kWh
+				2,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5915 mm (232.9")
+				5915 mm (232,9")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				2004 mm (78.9")
+				2004 mm (78,9")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2032 mm (80.0")
+				2032 mm (80,0")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3696 mm (145.5")
+				3696 mm (145,5")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1730 mm (68.1")
+				1730 mm (68,1")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1735 mm (68.3")
+				1735 mm (68,3")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				14.5 meter (570.9")
+				14,5 meter (570,9")
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/bedcargo/">Bed length</a>
 			</td>
 			<td>
-				1704 mm (67.1")
+				1704 mm (67,1")
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/bedcargo/">Bed width</a>
 			</td>
 			<td>
-				1285 mm (50.6")
+				1285 mm (50,6")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				226 mm (8.9")
+				226 mm (8,9")
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +484,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				226 mm (8.9")
+				226 mm (8,9")
 			</td>
 		</tr>
 		<tr>

@@ -33,9 +33,9 @@ Audi Q4 Sportback 35 e-tron har en maksimal effekt på 125 KW (170hk). Totalt dr
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 55kWh og en nettokapasitet på 51.5kWh, noe som betyr at du har et 3.5kWh-buffer for beskyttelse. (6.4%).
+Batteriet har en bruttokapasitet på 55kWh og en nettokapasitet på 51,5kWh, noe som betyr at du har et 3,5kWh-buffer for beskyttelse. (6,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 349 til 317 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.8kWh/100 km for basisversjonen og 16.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 349 til 317 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,8kWh/100 km for basisversjonen og 16,2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 125 kW. En full lading fra 0 - 100 % vil ta 44 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 81kW. Hver ladeøkt vil ta 19 minutter og 21 sekunder.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 7.2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 9 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 7,2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 9 minutter.
 
 ### Ladeport
 
@@ -166,7 +166,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Audi Q4 Sportback 35 e-tron har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10.1 tommer stor og har en oppløsning på 1540 x 720 piksler.
+Audi Q4 Sportback 35 e-tron har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10,2 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10,1 tommer stor og har en oppløsning på 1540 x 720 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -243,7 +243,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 4/14/2021, og leveringene startet i January 2022. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i January 2022. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

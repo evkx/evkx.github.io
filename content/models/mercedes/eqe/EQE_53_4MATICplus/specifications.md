@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 53 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3.5 s
+				3,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -103,7 +103,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQE 53 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3.3 s
+				3,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,7 +139,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				17.2 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				20.2 kWh/100km
+				20,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				19.7 kWh/100km
+				19,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				22.6 kwh/100km
+				22,6 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -198,7 +198,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				96.12 kWh
+				96,12 kWh
 			</td>
 		</tr>
 		<tr>
@@ -206,7 +206,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				90.6 kWh
+				90,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4964 mm (195.4")
+				4964 mm (195,4")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1492 mm (58.7")
+				1492 mm (58,7")
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1961 mm (77.2")
+				1961 mm (77,2")
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2103 mm (82.8")
+				2103 mm (82,8")
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3104 mm (122.2")
+				3104 mm (122,2")
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1648 mm (64.9")
+				1648 mm (64,9")
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1610 mm (63.4")
+				1610 mm (63,4")
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.22
+				0,22
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12.3 meter (484.3")
+				12,3 meter (484,3")
 			</td>
 		</tr>
 	</tbody>
@@ -548,7 +548,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				127 mm (5.0")
+				127 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +556,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				82 mm (3.2")
+				82 mm (3,2")
 			</td>
 		</tr>
 		<tr>

@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW iX M60. Klicka på
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3.8 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				18.8 kWh/100km
+				18,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				21.9 kWh/100km
+				21,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				21.0 kWh/100km
+				21,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				24.5 kwh/100km
+				24,5 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				105.2 kWh
+				105,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.26
+				0,26
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Frontalområde
 			</td>
 			<td>
-				2.82
+				2,82
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre överhängsvinkel
 			</td>
 			<td>
-				18.8
+				18,8
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre överhängsvinkel
 			</td>
 			<td>
-				20.8
+				20,8
 			</td>
 		</tr>
 		<tr>
@@ -1112,7 +1112,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1120,7 +1120,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 14.9
+				Ja, 14,9
 			</td>
 		</tr>
 		<tr>

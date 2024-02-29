@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av CUPRA BORN 77 e-BOOST i avsnitt. Om du vill 
 
 ## Prestanda
 
-Med overboost har CUPRA BORN 77 e-BOOST en maximal effekt på 170 KW (231hk). Utan overboost är det 150KW (204hp). Vridmomentet är 310 Nm med överboost och 310 utan överboost. Den gör sprinten 0-100 km/h på 7 sekunder med överboost och 7.9 sekunder utan överboost. Topphastigheten är 160 km/h.
+Med overboost har CUPRA BORN 77 e-BOOST en maximal effekt på 170 KW (231hk). Utan overboost är det 150KW (204hp). Vridmomentet är 310 Nm med överboost och 310 utan överboost. Den gör sprinten 0-100 km/h på 7 sekunder med överboost och 7,9 sekunder utan överboost. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.1%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,1%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 548 till 492 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.1kWh/100 km för basversionen och 15.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 548 till 492 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,1kWh/100 km för basversionen och 15,7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 89kW. Varje laddningssession tar 24 minuter och 17 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-CUPRA BORN 77 e-BOOST har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 12.0 tum och har en upplösning på 1920 x 869 pixlar.
+CUPRA BORN 77 e-BOOST har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 12,0 tum och har en upplösning på 1920 x 869 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

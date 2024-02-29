@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 580 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.3 s
+				4,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				15.7 kWh/100km
+				15,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				17.7 kWh/100km
+				17,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				18.6 kWh/100km
+				18,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				21.2 kwh/100km
+				21,2 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				108.4 kWh
+				108,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5216 mm (205.4")
+				5216 mm (205,4")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1512 mm (59.5")
+				1512 mm (59,5")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1926 mm (75.8")
+				1926 mm (75,8")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2125 mm (83.7")
+				2125 mm (83,7")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3210 mm (126.4")
+				3210 mm (126,4")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1667 mm (65.6")
+				1667 mm (65,6")
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1682 mm (66.2")
+				1682 mm (66,2")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.23
+				0,23
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.9 meter (468.5")
+				11,9 meter (468,5")
 			</td>
 		</tr>
 	</tbody>
@@ -500,7 +500,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				127 mm (5.0")
+				127 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -508,7 +508,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				82 mm (3.2")
+				82 mm (3,2")
 			</td>
 		</tr>
 		<tr>
@@ -1396,7 +1396,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12.3
+				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1404,7 +1404,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 17.7"
+				Yes, 17,7"
 			</td>
 		</tr>
 		<tr>
@@ -1412,7 +1412,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12.3"
+				Yes, 12,3"
 			</td>
 		</tr>
 		<tr>

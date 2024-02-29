@@ -29,21 +29,21 @@ Vi har opdelt vores Nissan Ariya 87kWh artikel i sektioner. Hvis du vil vente me
 
 ## Ydeevne
 
-Nissan Ariya 87kWh har en maksimal effekt på 178 KW (242 hk/239 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.5 sekunder. Tophastigheden er 160 km/t.
+Nissan Ariya 87kWh har en maksimal effekt på 178 KW (242 hk/239 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 91kWh og en nettokapacitet på 87kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4.4%).
+Batteriet har en bruttokapacitet på 91kWh og en nettokapacitet på 87kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,4%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 533 til 475 km (331-295 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.3kWh/100 km for basisversionen og 18.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 533 til 475 km (331-295 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,3kWh/100 km for basisversionen og 18,3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 130kW. En fuld opladning fra 0 - 100 % ville tage 63 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 98kW. Hver opladningssession ville tage 28 minutter og 18 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24.5kWh/100 km, vil 1000 km tage 9 timer og 58 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 6 % til 67%. Den samlede tid, der går tabt for at oplade batteriet, vil være 98 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24,5kWh/100 km, vil 1000 km tage 9 timer og 58 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 6 % til 67%. Den samlede tid, der går tabt for at oplade batteriet, vil være 98 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 7.2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 12 timer og 4 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 7,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 12 timer og 4 minutter.
 
 ### Ladeport
 
@@ -141,7 +141,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Nissan Ariya 87kWh har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor. Skærmen touch i højre del af den delte ramme er 12.3 tommer stor.
+Nissan Ariya 87kWh har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -197,7 +197,7 @@ Med ProPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 468 liter. Med bagsædet nede er det 1490 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2400 kg (5291 lbs), og med basisvægten på 1875 kg (4134 lbs), kan du maksimalt laste 525 kg (1157 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 468 liter. Med bagsædet nede er det 1490 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2400 kg (5291 lbs), og med basisvægten på 1875 kg (4134 lbs), kan du maksimalt laste 525 kg (1157 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

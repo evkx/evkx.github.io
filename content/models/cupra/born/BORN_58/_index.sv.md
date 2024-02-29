@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av CUPRA BORN 58 i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-CUPRA BORN 58 har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 7.3 sekunder. Topphastigheten är 160 km/h.
+CUPRA BORN 58 har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 62kWh och en nettokapacitet på 58kWh, vilket innebär att du har en 4kWh buffert för skydd. (6.5%).
+Batteriet har en bruttokapacitet på 62kWh och en nettokapacitet på 58kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,5%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 424 till 358 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.7kWh/100 km för basversionen och 16.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 424 till 358 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13,7kWh/100 km för basversionen och 16,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 19 minuter och 28 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-CUPRA BORN 58 har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 12.0 tum och har en upplösning på 1920 x 869 pixlar.
+CUPRA BORN 58 har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 12,0 tum och har en upplösning på 1920 x 869 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

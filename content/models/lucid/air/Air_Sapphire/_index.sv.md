@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Lucid Air Sapphire i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Lucid Air Sapphire har en maximal effekt på 920 KW (1251hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 1.95 sekunder. Topphastigheten är 330 km/h.
+Lucid Air Sapphire har en maximal effekt på 920 KW (1251hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 1,95 sekunder. Topphastigheten är 330 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 118kWh och en nettokapacitet på 117kWh, vilket innebär att du har en 1kWh buffert för skydd. (0.8%).
+Batteriet har en bruttokapacitet på 118kWh och en nettokapacitet på 117kWh, vilket innebär att du har en 1kWh buffert för skydd. (0,8%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 427 miles (687 km). Förbrukningen är 3.6mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 427 miles (687 km). Förbrukningen är 3,6mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 174kW. Varje laddningssession tar 18 minuter och 7 sekunder.
 
@@ -150,7 +150,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8.0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 14.0 tum. Skärmen touch på höger sida av den delade ramen är 12.0 tum. Skärmen touch i mitten av mittkonsolen är 12.0 tum.
+Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8,0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 14,0 tum. Skärmen touch på höger sida av den delade ramen är 12,0 tum. Skärmen touch i mitten av mittkonsolen är 12,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

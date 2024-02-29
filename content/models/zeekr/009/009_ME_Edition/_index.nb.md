@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Zeekr 009 ME Edition i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Zeekr 009 ME Edition har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 686 nm. Den utfører sprinten 0-100 km/t på 4.5 sekunder. Topphastigheten er 190 km/t.
+Zeekr 009 ME Edition har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 686 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 190 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 140kWh og en nettokapasitet på 134kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (4.3%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 140kWh og en nettokapasitet på 134kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (4,3%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 822 km ( miles). Forbruket er 16.3kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 822 km ( miles). Forbruket er 16,3kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 81 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 144kW. Hver ladeøkt vil ta 26 minutter og 11 sekunder.
 
@@ -149,7 +149,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Zeekr 009 ME Edition har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor. touch-skjermen øverst på midtkonsollen er 15.4 tommer stor.
+Zeekr 009 ME Edition har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10,2 tommer stor. touch-skjermen øverst på midtkonsollen er 15,4 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -207,7 +207,7 @@ Lastkapasiteten i bagasjerommet er 376 liter. Med setet på tredje rad nede er d
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 4/14/2021, og leveringene startet i October 2021. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 009 </strong>
 </a>

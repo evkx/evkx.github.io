@@ -35,13 +35,13 @@ Denna modell har ersatts av [Audi Q4 Sportback 45 e-tron quattro](/models/audi/q
 
 ## Prestanda
 
-Audi Q4 Sportback 45 e-tron quattro (GEN1) har en maximal effekt på 195 KW (265hk). Totalt vridmoment är 425 Nm. Den gör sprinten 0-100 km/h på 6.9 sekunder. Topphastigheten är 180 km/h.
+Audi Q4 Sportback 45 e-tron quattro (GEN1) har en maximal effekt på 195 KW (265hk). Totalt vridmoment är 425 Nm. Den gör sprinten 0-100 km/h på 6,9 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76.6kWh, vilket innebär att du har en 5.4kWh buffert för skydd. (6.6%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76,6kWh, vilket innebär att du har en 5,4kWh buffert för skydd. (6,6%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 524 till 446 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.6kWh/100 km för basversionen och 17.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 524 till 446 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,6kWh/100 km för basversionen och 17,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 125 kW. En full laddning från 0 - 100 % tar 65 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 89kW. Varje laddningssession tar 24 minuter och 11 sekunder.
 
@@ -172,7 +172,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Audi Q4 Sportback 45 e-tron quattro (GEN1) har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10.1 tum och har en upplösning på 1540 x 720 pixlar.
+Audi Q4 Sportback 45 e-tron quattro (GEN1) har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10,2 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10,1 tum och har en upplösning på 1540 x 720 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -249,7 +249,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 4/14/2021 och leveranser startade i January 2022. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q4 Sportback 45 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro).<div class="mt-3 mb-3">
+Denna modell hade världspremiär 14.04.2021 och leveranser startade i January 2022. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q4 Sportback 45 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

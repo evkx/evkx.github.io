@@ -33,7 +33,7 @@ The XPENG X9 AWD Performance has a maximum power of 370 KW (503 hp/496 bhp). The
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 101.5kWh and a net capacity of 98kWh, meaning you have a 3.5kWh buffer for protection. (3.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 101,5kWh and a net capacity of 98kWh, meaning you have a 3,5kWh buffer for protection. (3.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 640 km ( miles). The consumption is 15.3kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

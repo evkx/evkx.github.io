@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Zeekr X Privilege AWD i avsnitt. Om du vill 
 
 ## Prestanda
 
-Zeekr X Privilege AWD har en maximal effekt på 315 KW (428hk). Totalt vridmoment är 543 Nm. Den gör sprinten 0-100 km/h på 3.8 sekunder. Topphastigheten är 180 km/h.
+Zeekr X Privilege AWD har en maximal effekt på 315 KW (428hk). Totalt vridmoment är 543 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 5kWh buffert för skydd. (7.2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 5kWh buffert för skydd. (7,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 16.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 16,0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 82 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 90kW. Varje laddningssession tar 21 minuter och 58 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  på rattstången är 8.0 tum. Skärmen touch översta mittkonsolen är 14.6 tum.
+Skärmen  på rattstången är 8,0 tum. Skärmen touch översta mittkonsolen är 14,6 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -208,7 +208,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 4/12/2023 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 12.04.2023 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr X </strong>
 </a>

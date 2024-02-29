@@ -29,13 +29,13 @@ Vi har opdelt vores Hyundai Kona Standard Range artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Hyundai Kona Standard Range har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 255 nm (188 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.3 sekunder. Tophastigheden er 185 km/t.
+Hyundai Kona Standard Range har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 255 nm (188 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 185 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 51kWh og en nettokapacitet på 48.4kWh, hvilket betyder, at du har en 2.6kWh buffer til beskyttelse. (5.1%).
+Batteriet har en bruttokapacitet på 51kWh og en nettokapacitet på 48,4kWh, hvilket betyder, at du har en 2,6kWh buffer til beskyttelse. (5,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 377 km (234 mi). Forbruget er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 377 km (234 mi). Forbruget er 12,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 53 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 27 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 66%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 65kW. Hver opladningssession ville tage 28 minutter og 49 sekunder.
 
@@ -149,7 +149,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Hyundai Kona Standard Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor. Skærmen touch i højre del af den delte ramme er 12.3 tommer stor.
+Hyundai Kona Standard Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -212,7 +212,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 466 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1.0 CU FT). Bilens maksimale vægt er 2110 kg (4652 lbs), og med basisvægten på 1640 kg (3616 lbs), kan du maksimalt laste 470 kg (1036 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 466 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT). Bilens maksimale vægt er 2110 kg (4652 lbs), og med basisvægten på 1640 kg (3616 lbs), kan du maksimalt laste 470 kg (1036 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

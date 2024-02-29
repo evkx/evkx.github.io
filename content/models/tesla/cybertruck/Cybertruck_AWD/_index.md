@@ -33,7 +33,7 @@ The Tesla Cybertruck AWD has a maximum power of 448 KW (609 hp/601 bhp). The tot
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 123kWh and a net capacity of 122.5kWh, meaning you have a 0.5kWh buffer for protection. (0.4%).
+The battery has a gross capacity of 123kWh and a net capacity of 122,5kWh, meaning you have a 0,5kWh buffer for protection. (0.4%).
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 340 miles (547 km). The consumption is 2.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -248,7 +248,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ### Availability & Pricing
 
-This model had a world premiere on 11/30/2023, and deliveries started in November 2023. This model is only available in North America.<div class="mt-3 mb-3">
+This model had a world premiere on 30.11.2023, and deliveries started in November 2023. This model is only available in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
 </a>

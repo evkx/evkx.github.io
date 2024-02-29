@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för MG MG4 Electric XPOWER
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3.8 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				14.2 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				61.7 kWh
+				61,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1045,7 +1045,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>

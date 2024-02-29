@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av MG Marvel R Electric i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-MG Marvel R Electric har en maksimal effekt på 132 KW (180hk). Totalt dreiemoment er 410 nm. Den utfører sprinten 0-100 km/t på 7.9 sekunder. Topphastigheten er 160 km/t.
+MG Marvel R Electric har en maksimal effekt på 132 KW (180hk). Totalt dreiemoment er 410 nm. Den utfører sprinten 0-100 km/t på 7,9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.7%).
+Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,7%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 402 km. Forbruket er 17.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 402 km. Forbruket er 17,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 94 kW. En full lading fra 0 - 100 % vil ta 114 minutter, mens et mer vanlig scenario på 10-80 % vil ta 43 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 63kW. Hver ladeøkt vil ta 35 minutter og 7 sekunder.
 
@@ -137,7 +137,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 7.0 tommer stor. touch-skjermen øverst på midtkonsollen er 10.2 tommer stor.
+-skjermen bak rattet montert i dashbordet er 7,0 tommer stor. touch-skjermen øverst på midtkonsollen er 10,2 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -193,7 +193,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 10/7/2021, og leveringene startet i January 2022.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 07.10.2021, og leveringene startet i January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Marvel R </strong>
 </a>

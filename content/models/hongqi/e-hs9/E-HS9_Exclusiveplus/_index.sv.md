@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Hongqi E-HS9 Exclusive+ i avsnitt. Om du vil
 
 ## Prestanda
 
-Hongqi E-HS9 Exclusive+ har en maximal effekt på 405 KW (551hk). Totalt vridmoment är 670 Nm. Den gör sprinten 0-100 km/h på 4.9 sekunder. Topphastigheten är 200 km/h.
+Hongqi E-HS9 Exclusive+ har en maximal effekt på 405 KW (551hk). Totalt vridmoment är 670 Nm. Den gör sprinten 0-100 km/h på 4,9 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 110kWh, vilket innebär att du har en 10kWh buffert för skydd. (8.3%).
+Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 110kWh, vilket innebär att du har en 10kWh buffert för skydd. (8,3%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 515 km. Förbrukningen är 21.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 515 km. Förbrukningen är 21,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 114 minuter, medan ett vanligare scenario på 10-80 % tar 62 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 39%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 87kW. Varje laddningssession tar 30 minuter och 35 sekunder.
 
@@ -150,7 +150,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Hongqi E-HS9 Exclusive+ har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm. Skärmen  bakom ratten integrerad i instrumentbrädan är 16.2 tum. Skärmen touch i mitten av bindestrecket är 16.2 tum. Skärmen touch framför passageraren i instrumentbrädan är 16.2 tum. Skärmen touch i mitten av mittkonsolen är 10.2 tum.
+Hongqi E-HS9 Exclusive+ har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm. Skärmen  bakom ratten integrerad i instrumentbrädan är 16,2 tum. Skärmen touch i mitten av bindestrecket är 16,2 tum. Skärmen touch framför passageraren i instrumentbrädan är 16,2 tum. Skärmen touch i mitten av mittkonsolen är 10,2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

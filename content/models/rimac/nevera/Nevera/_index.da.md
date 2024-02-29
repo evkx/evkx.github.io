@@ -29,13 +29,13 @@ Vi har opdelt vores Rimac Nevera artikel i sektioner. Hvis du vil vente med at l
 
 ## Ydeevne
 
-Rimac Nevera har en maksimal effekt på 1400 KW (1904 hk/1877 hk). Det samlede drejningsmoment er 2340 nm (1727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 1.81 sekunder. Tophastigheden er 412 km/t.
+Rimac Nevera har en maksimal effekt på 1400 KW (1904 hk/1877 hk). Det samlede drejningsmoment er 2340 nm (1727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 1,81 sekunder. Tophastigheden er 412 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 106.8kWh, hvilket betyder, at du har en 13.2kWh buffer til beskyttelse. (11.0%).
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 106,8kWh, hvilket betyder, at du har en 13,2kWh buffer til beskyttelse. (11,0%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 21.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 21,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 34 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 222kW. Hver opladningssession ville tage 20 minutter og 54 sekunder.
 
@@ -138,7 +138,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Rimac Nevera har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor. Skærmen touch øverst på midterkonsollen er 13.8 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 8.8 tommer stor.
+Rimac Nevera har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch øverst på midterkonsollen er 13,8 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 8,8 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -190,7 +190,7 @@ Lagekapaciteten i bagagerummet er 100 liter. Bilens maksimale vægt er 2550 kg (
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 6/1/2021, og leveringerne startede i January 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 01.06.2021, og leveringerne startede i January 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rimac Nevera </strong>
 </a>

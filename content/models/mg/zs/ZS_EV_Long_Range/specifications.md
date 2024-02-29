@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for MG ZS EV Long Range.
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				8.6 s
+				8,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				15.5 kWh/100km
+				15,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				19.2 kWh/100km
+				19,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				72.6 kWh
+				72,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				68.3 kWh
+				68,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4323 mm (170.2")
+				4323 mm (170,2")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1649 mm (64.9")
+				1649 mm (64,9")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1809 mm (71.2")
+				1809 mm (71,2")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2581 mm (101.6")
+				2581 mm (101,6")
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				161 mm (6.3")
+				161 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				161 mm (6.3")
+				161 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -1067,7 +1067,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10.2"
+				Yes, 10,2"
 			</td>
 		</tr>
 		<tr>

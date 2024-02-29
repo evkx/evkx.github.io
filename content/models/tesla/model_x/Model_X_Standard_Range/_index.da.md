@@ -29,17 +29,17 @@ Vi har opdelt vores Tesla Model X Standard Range artikel i sektioner. Hvis du vi
 
 ## Ydeevne
 
-Tesla Model X Standard Range har en maksimal effekt på 381 KW (518 hk/511 hk). Det samlede drejningsmoment er 700 nm (517 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.2 sekunder. Tophastigheden er 250 km/t.
+Tesla Model X Standard Range har en maksimal effekt på 381 KW (518 hk/511 hk). Det samlede drejningsmoment er 700 nm (517 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Tophastigheden er 250 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 25kWh buffer til beskyttelse. (25.0%).
+Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 25kWh buffer til beskyttelse. (25,0%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (338-328 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.8kWh/100 km for basisversionen og 14.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 543 til 528 km (338-328 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13,8kWh/100 km for basisversionen og 14,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 50%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 132kW. Hver opladningssession ville tage 15 minutter og 20 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24.0kWh/100 km, vil 1000 km tage 9 timer og 34 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 5 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 75 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24,0kWh/100 km, vil 1000 km tage 9 timer og 34 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 5 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 75 minutter.
 
 ### Indbygget oplader
 
@@ -150,7 +150,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Tesla Model X Standard Range har to skærme med information til føreren og passagererne og en tredje skærm bagpå til multimedier. Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 1280 x 480 pixels. Skærmen touch i dashboardets midte er 17.0 tommer stor og har en opløsning på 2200 x 1300 pixels. Skærmen touch i den bagerste midterkonsol er 8.0 tommer stor.
+Tesla Model X Standard Range har to skærme med information til føreren og passagererne og en tredje skærm bagpå til multimedier. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 1280 x 480 pixels. Skærmen touch i dashboardets midte er 17,0 tommer stor og har en opløsning på 2200 x 1300 pixels. Skærmen touch i den bagerste midterkonsol er 8,0 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -216,7 +216,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 709 liter. Med bagsædet nede er det 1828 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 183 liter (6.5 CU FT). Bilens maksimale vægt er 2970 kg (6548 lbs), og med basisvægten på 2464 kg (5432 lbs), kan du maksimalt laste 506 kg (1116 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 709 liter. Med bagsædet nede er det 1828 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 183 liter (6,5 CU FT). Bilens maksimale vægt er 2970 kg (6548 lbs), og med basisvægten på 2464 kg (5432 lbs), kan du maksimalt laste 506 kg (1116 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 2250, og på ubremset er den 750 kg (4960/1653 lbs).
 

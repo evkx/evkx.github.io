@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Volkswagen ID.3 Pro S i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Volkswagen ID.3 Pro S har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7.9 sekunder. Topphastigheten er 160 km/t.
+Volkswagen ID.3 Pro S har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7,9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6.1%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 553 til 548 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.9kWh/100 km for basisversjonen og 14.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 553 til 548 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13,9kWh/100 km for basisversjonen og 14,1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 120 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 24 minutter og 17 sekunder.
 
@@ -145,9 +145,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på Volkswagen ID.3 Pro S.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 10.0 tommer stor.
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 10,0 tommer stor.
 
-Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 12.0 tommer stor og har en oppløsning på 1920 x 869 piksler.
+Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 12,0 tommer stor og har en oppløsning på 1920 x 869 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

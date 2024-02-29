@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Volkswagen ID. Buzz Pro LWB i avsnitt. Om du
 
 ## Prestanda
 
-Volkswagen ID. Buzz Pro LWB har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 550 Nm. Den gör sprinten 0-100 km/h på 7.9 sekunder. Topphastigheten är 160 km/h.
+Volkswagen ID. Buzz Pro LWB har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 550 Nm. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 85kWh, vilket innebär att du har en 6kWh buffert för skydd. (6.6%).
+Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 85kWh, vilket innebär att du har en 6kWh buffert för skydd. (6,6%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 461 till 452 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.4kWh/100 km för basversionen och 18.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 461 till 452 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18,4kWh/100 km för basversionen och 18,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 55 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 42%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 113kW. Varje laddningssession tar 19 minuter och 56 sekunder.
 
@@ -176,7 +176,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volkswagen ID. Buzz Pro LWB har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5.3 tum. Skärmen touch i mitten av instrumentbrädan är 12.9 tum.
+Volkswagen ID. Buzz Pro LWB har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,3 tum. Skärmen touch i mitten av instrumentbrädan är 12,9 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

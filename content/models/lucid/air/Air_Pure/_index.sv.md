@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Lucid Air Pure i avsnitt. Om du vill vänta 
 
 ## Prestanda
 
-Lucid Air Pure har en maximal effekt på 320 KW (435hk). Totalt vridmoment är 400 Nm. Den gör sprinten 0-100 km/h på 4.5 sekunder. Topphastigheten är 200 km/h.
+Lucid Air Pure har en maximal effekt på 320 KW (435hk). Totalt vridmoment är 400 Nm. Den gör sprinten 0-100 km/h på 4,5 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 92kWh, vilket innebär att du har en 2kWh buffert för skydd. (2.1%).
+Batteriet har en bruttokapacitet på 94kWh och en nettokapacitet på 92kWh, vilket innebär att du har en 2kWh buffert för skydd. (2,1%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 747 till 708 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.3kWh/100 km för basversionen och 13.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 747 till 708 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12,3kWh/100 km för basversionen och 13,0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 61 minuter, medan ett vanligare scenario på 10-80 % tar 26 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 49%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 163kW. Varje laddningssession tar 16 minuter och 18 sekunder.
 
@@ -145,7 +145,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8.0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 14.0 tum. Skärmen touch på höger sida av den delade ramen är 12.0 tum. Skärmen touch i mitten av mittkonsolen är 12.0 tum.
+Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8,0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 14,0 tum. Skärmen touch på höger sida av den delade ramen är 12,0 tum. Skärmen touch i mitten av mittkonsolen är 12,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Lexus RZ 450e i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Lexus RZ 450e har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 435 Nm. Den gör sprinten 0-100 km/h på 5.3 sekunder. Topphastigheten är 160 km/h.
+Lexus RZ 450e har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 435 Nm. Den gör sprinten 0-100 km/h på 5,3 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 71.4kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7.4kWh buffert för skydd. (10.4%).
+Batteriet har en bruttokapacitet på 71,4kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7,4kWh buffert för skydd. (10,4%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 440 till 395 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.5kWh/100 km för basversionen och 16.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 440 till 395 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,5kWh/100 km för basversionen och 16,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 147 kW. En full laddning från 0 - 100 % tar 141 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 47%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 88kW. Varje laddningssession tar 19 minuter och 9 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 6.6KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 9 timmar och 41 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 11 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 49 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 6,6KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 9 timmar och 41 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 11 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 49 minuter.
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
@@ -144,9 +144,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på Lexus RZ 450e.
 
-Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 14.0 tum.
+Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 14,0 tum.
 
-Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 12.3 tum.
+Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 12,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

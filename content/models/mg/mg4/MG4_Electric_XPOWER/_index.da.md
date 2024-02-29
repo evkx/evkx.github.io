@@ -29,13 +29,13 @@ Vi har opdelt vores MG MG4 Electric XPOWER artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-MG MG4 Electric XPOWER har en maksimal effekt på 320 KW (435 hk/429 hk). Det samlede drejningsmoment er 600 nm (443 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.8 sekunder. Tophastigheden er 160 km/t.
+MG MG4 Electric XPOWER har en maksimal effekt på 320 KW (435 hk/429 hk). Det samlede drejningsmoment er 600 nm (443 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 64kWh og en nettokapacitet på 61.7kWh, hvilket betyder, at du har en 2.3kWh buffer til beskyttelse. (3.6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 64kWh og en nettokapacitet på 61,7kWh, hvilket betyder, at du har en 2,3kWh buffer til beskyttelse. (3,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 435 km (270 mi). Forbruget er 14.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 435 km (270 mi). Forbruget er 14,2kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 84 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 27 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 58%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 96kW. Hver opladningssession ville tage 21 minutter og 12 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 7.0 tommer stor. Skærmen touch øverst på midterkonsollen er 10.2 tommer stor.
+Skærmen  bag rattet monteret i instrumentbrættet er 7,0 tommer stor. Skærmen touch øverst på midterkonsollen er 10,2 tommer stor.
 Modellen har ikke et head-up display.
 
 

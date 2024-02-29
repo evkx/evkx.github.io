@@ -29,13 +29,13 @@ Vi har opdelt vores BMW i4 eDrive40 artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-BMW i4 eDrive40 har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.7 sekunder. Tophastigheden er 190 km/t.
+BMW i4 eDrive40 har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder. Tophastigheden er 190 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 83.9kWh og en nettokapacitet på 80.7kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (3.8%).
+Batteriet har en bruttokapacitet på 83,9kWh og en nettokapacitet på 80,7kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (3,8%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 590 til 493 km (367-306 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.7kWh/100 km for basisversionen og 16.4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 590 til 493 km (367-306 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13,7kWh/100 km for basisversionen og 16,4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 56 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 50%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 118kW. Hver opladningssession ville tage 19 minutter og 20 sekunder.
 
@@ -168,7 +168,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-BMW i4 eDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 14.9 tommer stor og har en opløsning på 2880 x 1080 pixels.
+BMW i4 eDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 14,9 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 ## Infotainment
@@ -222,7 +222,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2605 kg (5743 lbs), og med basisvægten på 2050 kg (4519 lbs), kan du maksimalt laste 555 kg (1224 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2605 kg (5743 lbs), og med basisvægten på 2050 kg (4519 lbs), kan du maksimalt laste 555 kg (1224 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 

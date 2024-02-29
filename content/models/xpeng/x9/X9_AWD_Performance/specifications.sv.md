@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för XPENG X9 AWD Performan
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5.7 s
+				5,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				15.3 kWh/100km
+				15,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				101.5 kWh
+				101,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.223
+				0,223
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10.8 meter
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -978,7 +978,7 @@ Interior.Seatlayout.OnlySix
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10.25
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +986,7 @@ Interior.Seatlayout.OnlySix
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 14.96
+				Ja, 14,96
 			</td>
 		</tr>
 		<tr>

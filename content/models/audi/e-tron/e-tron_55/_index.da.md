@@ -35,17 +35,17 @@ Denne model er blevet erstattet af [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8
 
 ## Ydeevne
 
-Med overboost har Audi e-tron 55 en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5.7 sekunder med overboost og 6.6 sekunder uden overboost. Tophastigheden er 200 km/t.
+Med overboost har Audi e-tron 55 en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder med overboost og 6,6 sekunder uden overboost. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 95kWh og en nettokapacitet på 86kWh, hvilket betyder, at du har en 9kWh buffer til beskyttelse. (9.5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 95kWh og en nettokapacitet på 86kWh, hvilket betyder, at du har en 9kWh buffer til beskyttelse. (9,5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 441 til 369 km (274-229 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19.5kWh/100 km for basisversionen og 23.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 441 til 369 km (274-229 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19,5kWh/100 km for basisversionen og 23,3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 44 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 81%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 118kW. Hver opladningssession ville tage 34 minutter og 14 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 27.5kWh/100 km, vil 1000 km tage 9 timer og 57 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 6 % til 80%. Den samlede tid, der går tabt for at oplade batteriet, vil være 98 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 27,5kWh/100 km, vil 1000 km tage 9 timer og 57 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 6 % til 80%. Den samlede tid, der går tabt for at oplade batteriet, vil være 98 minutter.
 
 ### Indbygget oplader
 
@@ -229,7 +229,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Audi e-tron 55 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch øverst på midterkonsollen er 10.1 tommer stor og har en opløsning på 1540 x 720 pixels. Skærmen touch i bunden af midterkonsollen er 8.6 tommer stor og har en opløsning på 1280 x 660 pixels.
+Audi e-tron 55 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch øverst på midterkonsollen er 10,1 tommer stor og har en opløsning på 1540 x 720 pixels. Skærmen touch i bunden af midterkonsollen er 8,6 tommer stor og har en opløsning på 1280 x 660 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -301,7 +301,7 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 
@@ -310,7 +310,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 10/17/2018, og leveringerne startede i May 2020. Denne model er nu udgået. Denne model er blevet erstattet af [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron).<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 17.10.2018, og leveringerne startede i May 2020. Denne model er nu udgået. Denne model er blevet erstattet af [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av BMW iX M60 i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-BMW iX M60 har en maximal effekt på 455 KW (619hk). Totalt vridmoment är 765 Nm. Den gör sprinten 0-100 km/h på 3.8 sekunder. Topphastigheten är 250 km/h.
+BMW iX M60 har en maximal effekt på 455 KW (619hk). Totalt vridmoment är 765 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder. Topphastigheten är 250 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 111kWh och en nettokapacitet på 105.2kWh, vilket innebär att du har en 5.8kWh buffert för skydd. (5.2%).
+Batteriet har en bruttokapacitet på 111kWh och en nettokapacitet på 105,2kWh, vilket innebär att du har en 5,8kWh buffert för skydd. (5,2%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 561 till 502 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.8kWh/100 km för basversionen och 21.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 561 till 502 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18,8kWh/100 km för basversionen och 21,0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 58 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 135kW. Varje laddningssession tar 23 minuter och 25 sekunder.
 
@@ -151,7 +151,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-BMW iX M60 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 14.9 tum och har en upplösning på 2880 x 1080 pixlar.
+BMW iX M60 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 14,9 tum och har en upplösning på 2880 x 1080 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

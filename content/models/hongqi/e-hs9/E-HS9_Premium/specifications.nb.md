@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Hongqi E-HS9 Premiu
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.9 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				20.5 kWh/100km
+				20,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				95.3 kWh
+				95,3 kWh
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.345
+				0,345
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel foran
 			</td>
 			<td>
-				21.3
+				21,3
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel bak
 			</td>
 			<td>
-				21.4
+				21,4
 			</td>
 		</tr>
 	</tbody>
@@ -1082,7 +1082,7 @@ Interior.Seatlayout.OnlySix
 				Digital driver display
 			</td>
 			<td>
-				Ja, 16.2
+				Ja, 16,2
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1090,7 @@ Interior.Seatlayout.OnlySix
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, to 16.2" og 10.2"
+				Ja, to 16,2" og 10,2"
 			</td>
 		</tr>
 		<tr>
@@ -1098,7 +1098,7 @@ Interior.Seatlayout.OnlySix
 				Infotainment skjerm fremre passasjer
 			</td>
 			<td>
-				Ja, 16.2"
+				Ja, 16,2"
 			</td>
 		</tr>
 		<tr>

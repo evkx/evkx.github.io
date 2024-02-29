@@ -29,17 +29,17 @@ Vi har opdelt vores Porsche Macan 4 artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-Med overboost har Porsche Macan 4 en maksimal effekt på 300 KW (408 hk / 388 bhp). Uden overboost er den 285 KW (388 hk / 402 hk). Momentet er 650 nm med overboost og 650 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5.2 sekunder. Tophastigheden er 220 km/t.
+Med overboost har Porsche Macan 4 en maksimal effekt på 300 KW (408 hk / 388 bhp). Uden overboost er den 285 KW (388 hk / 402 hk). Momentet er 650 nm med overboost og 650 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,2 sekunder. Tophastigheden er 220 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 96.8kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (3.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 96,8kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (3,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 613 til 516 km (381-321 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.8kWh/100 km for basisversionen og 18.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 613 til 516 km (381-321 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,8kWh/100 km for basisversionen og 18,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 58 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 21 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 171kW. Hver opladningssession ville tage 20 minutter og 22 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21.5kWh/100 km, vil 1000 km tage 9 timer og 2 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 3 % til 65%. Den samlede tid, der går tabt for at oplade batteriet, vil være 42 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21,5kWh/100 km, vil 1000 km tage 9 timer og 2 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 3 % til 65%. Den samlede tid, der går tabt for at oplade batteriet, vil være 42 minutter.
 
 ### Indbygget oplader
 
@@ -172,7 +172,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Porsche Macan 4 har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen touch bag rattet integreret i instrumentbrættet er 12.6 tommer stor. Skærmen touch øverst på midterkonsollen er 10.9 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10.9 tommer stor.
+Porsche Macan 4 har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen touch bag rattet integreret i instrumentbrættet er 12,6 tommer stor. Skærmen touch øverst på midterkonsollen er 10,9 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -239,7 +239,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 540 liter. Med bagsædet nede er det 1348 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2920 kg (6437 lbs), og med basisvægten på 2255 kg (4971 lbs), kan du maksimalt laste 665 kg (1466 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 540 liter. Med bagsædet nede er det 1348 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2920 kg (6437 lbs), og med basisvægten på 2255 kg (4971 lbs), kan du maksimalt laste 665 kg (1466 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
 
@@ -248,7 +248,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 1/25/2024, og leveringer forventes at starte om August 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 25.01.2024, og leveringer forventes at starte om August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

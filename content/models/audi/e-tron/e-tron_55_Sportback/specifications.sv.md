@@ -71,7 +71,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi e-tron 55 Sportba
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6.6 s
+				6,6 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi e-tron 55 Sportba
 				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
-				5.7 s
+				5,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				19.0 kWh/100km
+				19,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				21.6 kWh/100km
+				21,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				23.1 kWh/100km
+				23,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				25.9 kwh/100km
+				25,9 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -432,7 +432,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.25
+				0,25
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Frontalområde
 			</td>
 			<td>
-				2.65
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -2015,7 +2015,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -2023,7 +2023,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, två 10.1" och 8.6"
+				Ja, två 10,1" och 8,6"
 			</td>
 		</tr>
 		<tr>

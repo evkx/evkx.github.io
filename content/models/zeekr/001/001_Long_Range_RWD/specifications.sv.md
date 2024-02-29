@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Zeekr 001 Long Range R
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7.2 s
+				7,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				16.1 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				18.5 kWh/100km
+				18,5 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -322,7 +322,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11.8 meter
+				11,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1109,7 +1109,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 8.8
+				Ja, 8,8
 			</td>
 		</tr>
 		<tr>
@@ -1117,7 +1117,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 15.4
+				Ja, 15,4
 			</td>
 		</tr>
 		<tr>

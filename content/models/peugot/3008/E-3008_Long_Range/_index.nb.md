@@ -33,9 +33,9 @@ Peugot E-3008 Long Range har en maksimal effekt på 157 KW (214hk). Totalt dreie
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 98kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 0kWh-buffer for beskyttelse. (0.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 98kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 0kWh-buffer for beskyttelse. (0,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 700 km. Forbruket er 14.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 700 km. Forbruket er 14,0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 160 kW. En full lading fra 0 - 100 % vil ta 110 minutter, mens et mer vanlig scenario på 10-80 % vil ta 56 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 74kW. Hver ladeøkt vil ta 41 minutter og 45 sekunder.
 
@@ -144,7 +144,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Peugot E-3008 Long Range har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 10.0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 10.0 tommer stor.
+Peugot E-3008 Long Range har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 10,0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 10,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -209,7 +209,7 @@ Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1480 lite
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1250, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 9/12/2023, og leveringene startet i February 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 12.09.2023, og leveringene startet i February 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 3008 </strong>
 </a>

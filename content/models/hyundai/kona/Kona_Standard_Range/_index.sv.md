@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Hyundai Kona Standard Range i avsnitt. Om du
 
 ## Prestanda
 
-Hyundai Kona Standard Range har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 255 Nm. Den gör sprinten 0-100 km/h på 7.3 sekunder. Topphastigheten är 185 km/h.
+Hyundai Kona Standard Range har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 255 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 48.4kWh, vilket innebär att du har en 2.6kWh buffert för skydd. (5.1%).
+Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 48,4kWh, vilket innebär att du har en 2,6kWh buffert för skydd. (5,1%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 377 km. Förbrukningen är 12.8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 377 km. Förbrukningen är 12,8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 53 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 66%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 65kW. Varje laddningssession tar 28 minuter och 49 sekunder.
 
@@ -149,7 +149,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Hyundai Kona Standard Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum. Skärmen touch på höger sida av den delade ramen är 12.3 tum.
+Hyundai Kona Standard Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum. Skärmen touch på höger sida av den delade ramen är 12,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

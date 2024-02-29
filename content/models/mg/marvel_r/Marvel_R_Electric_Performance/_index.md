@@ -193,7 +193,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 10/7/2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
+This model had a world premiere on 07.10.2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Marvel R </strong>
 </a>

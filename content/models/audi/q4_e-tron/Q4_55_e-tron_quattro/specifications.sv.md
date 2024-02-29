@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 55 e-tron quat
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5.4 s
+				5,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				14.6 kWh/100km
+				14,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16.8 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				17.0 kWh/100km
+				17,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				19.4 kwh/100km
+				19,4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				76.6 kWh
+				76,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.28
+				0,28
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Frontalområde
 			</td>
 			<td>
-				2.56
+				2,56
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre överhängsvinkel
 			</td>
 			<td>
-				16.9
+				16,9
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre överhängsvinkel
 			</td>
 			<td>
-				19.4
+				19,4
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11.5 meter
+				11,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1577,7 +1577,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1585,7 +1585,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 10.1
+				Ja, 10,1
 			</td>
 		</tr>
 		<tr>

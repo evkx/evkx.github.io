@@ -33,7 +33,7 @@ The MG Cyberster AWD Long Range has a maximum power of 400 KW (544 hp/536 bhp). 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77kWh and a net capacity of 74.4kWh, meaning you have a 2.6kWh buffer for protection. (3.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 77kWh and a net capacity of 74,4kWh, meaning you have a 2,6kWh buffer for protection. (3.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 520 km ( miles). The consumption is 14.3kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -175,7 +175,7 @@ The cargo capacity in the trunk is 240 liters. The maxium weight of the car is 2
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 7/13/2023, and deliveries started in December 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 13.07.2023, and deliveries started in December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Cyberster </strong>
 </a>

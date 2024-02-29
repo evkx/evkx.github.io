@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Lucid Air Sapphire i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Lucid Air Sapphire har en maksimal effekt på 920 KW (1251hk). Totalt dreiemoment er 1390 nm. Den utfører sprinten 0-100 km/t på 1.95 sekunder. Topphastigheten er 330 km/t.
+Lucid Air Sapphire har en maksimal effekt på 920 KW (1251hk). Totalt dreiemoment er 1390 nm. Den utfører sprinten 0-100 km/t på 1,95 sekunder. Topphastigheten er 330 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 118kWh og en nettokapasitet på 117kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (0.8%).
+Batteriet har en bruttokapasitet på 118kWh og en nettokapasitet på 117kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (0,8%).
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 427 miles (687 km). Forbruket er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 427 miles (687 km). Forbruket er 3,6mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 300 kW. En full lading fra 0 - 100 % vil ta 77 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 174kW. Hver ladeøkt vil ta 18 minutter og 7 sekunder.
 
@@ -150,7 +150,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen er 8.0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 14.0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12.0 tommer stor. touch-skjermen i midten av midtkonsollen er 12.0 tommer stor.
+På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen er 8,0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 14,0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12,0 tommer stor. touch-skjermen i midten av midtkonsollen er 12,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

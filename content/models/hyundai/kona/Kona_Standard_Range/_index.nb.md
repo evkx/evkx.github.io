@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Hyundai Kona Standard Range i seksjoner. Hvis du
 
 ## Ytelse
 
-Hyundai Kona Standard Range har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7.3 sekunder. Topphastigheten er 185 km/t.
+Hyundai Kona Standard Range har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48.4kWh, noe som betyr at du har et 2.6kWh-buffer for beskyttelse. (5.1%).
+Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 48,4kWh, noe som betyr at du har et 2,6kWh-buffer for beskyttelse. (5,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 377 km. Forbruket er 12.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 377 km. Forbruket er 12,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 53 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 66%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 65kW. Hver ladeøkt vil ta 28 minutter og 49 sekunder.
 
@@ -149,7 +149,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Hyundai Kona Standard Range har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor.
+Hyundai Kona Standard Range har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

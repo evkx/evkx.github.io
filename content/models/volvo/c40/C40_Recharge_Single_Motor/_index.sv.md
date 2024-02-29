@@ -35,13 +35,13 @@ Denna modell har ersatts av [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_si
 
 ## Prestanda
 
-Volvo C40 Recharge Single Motor har en maximal effekt på 175 KW (238hk). Totalt vridmoment är 420 Nm. Den gör sprinten 0-100 km/h på 7.3 sekunder. Topphastigheten är 180 km/h.
+Volvo C40 Recharge Single Motor har en maximal effekt på 175 KW (238hk). Totalt vridmoment är 420 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 66kWh, vilket innebär att du har en 3kWh buffert för skydd. (4.3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 66kWh, vilket innebär att du har en 3kWh buffert för skydd. (4,3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 478 till 466 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.8kWh/100 km för basversionen och 14.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 478 till 466 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13,8kWh/100 km för basversionen och 14,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 205 kW. En full laddning från 0 - 100 % tar 85 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 90kW. Varje laddningssession tar 21 minuter och 28 sekunder.
 
@@ -144,7 +144,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volvo C40 Recharge Single Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum. Skärmen touch översta mittkonsolen är 9.0 tum.
+Volvo C40 Recharge Single Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum. Skärmen touch översta mittkonsolen är 9,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -206,7 +206,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 5/18/2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_single_motor).<div class="mt-3 mb-3">
+Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_single_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
 </a>

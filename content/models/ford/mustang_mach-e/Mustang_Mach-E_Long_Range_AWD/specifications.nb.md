@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Ford Mustang Mach-E
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5.8 s
+				5,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				16.7 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				98.8 kWh
+				98,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.6 meter
+				11,6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1113,7 +1113,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1121,7 +1121,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 15.5
+				Ja, 15,5
 			</td>
 		</tr>
 		<tr>

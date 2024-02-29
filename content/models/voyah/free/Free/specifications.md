@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for VOYAH FREE. Click on
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.4 s
+				4,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				20.0 kWh/100km
+				20,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				20.2 kWh/100km
+				20,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4905 mm (193.1")
+				4905 mm (193,1")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1645 mm (64.8")
+				1645 mm (64,8")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1950 mm (76.8")
+				1950 mm (76,8")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2960 mm (116.5")
+				2960 mm (116,5")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.5 meter (452.8")
+				11,5 meter (452,8")
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				213 mm (8.4")
+				213 mm (8,4")
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				118 mm (4.6")
+				118 mm (4,6")
 			</td>
 		</tr>
 		<tr>
@@ -1044,7 +1044,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12.3
+				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1052,7 +1052,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12.3"
+				Yes, 12,3"
 			</td>
 		</tr>
 		<tr>
@@ -1060,7 +1060,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12.3"
+				Yes, 12,3"
 			</td>
 		</tr>
 		<tr>

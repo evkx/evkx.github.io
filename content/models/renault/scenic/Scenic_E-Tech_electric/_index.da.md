@@ -29,13 +29,13 @@ Vi har opdelt vores Renault Scenic E-Tech electric artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-Renault Scenic E-Tech electric har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.4 sekunder. Tophastigheden er 170 km/t.
+Renault Scenic E-Tech electric har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,4 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 65kWh og en nettokapacitet på 60kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7.7%).
+Batteriet har en bruttokapacitet på 65kWh og en nettokapacitet på 60kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7,7%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 450 til 429 km (280-267 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.3kWh/100 km for basisversionen og 14.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 450 til 429 km (280-267 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13,3kWh/100 km for basisversionen og 14,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 130kW. En fuld opladning fra 0 - 100 % ville tage 44 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 91kW. Hver opladningssession ville tage 23 minutter og 21 sekunder.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 7.2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 20 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 7,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 20 minutter.
 
 ### Ladeport
 
@@ -149,7 +149,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Renault Scenic E-Tech electric har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor. Skærmen touch i højre del af den delte ramme er 12.3 tommer stor.
+Renault Scenic E-Tech electric har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -209,7 +209,7 @@ Med ProPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 545 liter. Med bagsædet nede er det 1490 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2340 kg (5159 lbs), og med basisvægten på 1772 kg (3907 lbs), kan du maksimalt laste 568 kg (1252 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 545 liter. Med bagsædet nede er det 1490 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2340 kg (5159 lbs), og med basisvægten på 1772 kg (3907 lbs), kan du maksimalt laste 568 kg (1252 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1100, og på ubremset er den 750 kg (2425/1653 lbs).
 

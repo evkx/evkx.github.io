@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 300.
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7.3 s
+				7,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				14.2 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				16.5 kWh/100km
+				16,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				18.8 kwh/100km
+				18,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				96.12 kWh
+				96,12 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				90.6 kWh
+				90,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4946 mm (194.7")
+				4946 mm (194,7")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1510 mm (59.4")
+				1510 mm (59,4")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1961 mm (77.2")
+				1961 mm (77,2")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2103 mm (82.8")
+				2103 mm (82,8")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3120 mm (122.8")
+				3120 mm (122,8")
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1632 mm (64.3")
+				1632 mm (64,3")
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1642 mm (64.6")
+				1642 mm (64,6")
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.243
+				0,243
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12.5 meter (492.1")
+				12,5 meter (492,1")
 			</td>
 		</tr>
 	</tbody>
@@ -504,7 +504,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				107 mm (4.2")
+				107 mm (4,2")
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +512,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				107 mm (4.2")
+				107 mm (4,2")
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +609,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				127 mm (5.0")
+				127 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +617,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				82 mm (3.2")
+				82 mm (3,2")
 			</td>
 		</tr>
 		<tr>

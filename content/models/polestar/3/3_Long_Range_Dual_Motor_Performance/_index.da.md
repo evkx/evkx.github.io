@@ -29,13 +29,13 @@ Vi har opdelt vores Polestar 3 Long Range Dual Motor Performance artikel i sekti
 
 ## Ydeevne
 
-Polestar 3 Long Range Dual Motor Performance har en maksimal effekt på 380 KW (517 hk/510 hk). Det samlede drejningsmoment er 910 nm (672 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.7 sekunder. Tophastigheden er 210 km/t.
+Polestar 3 Long Range Dual Motor Performance har en maksimal effekt på 380 KW (517 hk/510 hk). Det samlede drejningsmoment er 910 nm (672 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,7 sekunder. Tophastigheden er 210 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 111kWh og en nettokapacitet på 107kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (3.6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 111kWh og en nettokapacitet på 107kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (3,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 560 km (348 mi). Forbruget er 19.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 560 km (348 mi). Forbruget er 19,1kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 136kW. Hver opladningssession ville tage 24 minutter og 31 sekunder.
 
@@ -141,7 +141,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Polestar 3 Long Range Dual Motor Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 9.0 tommer stor. Skærmen touch øverst på midterkonsollen er 14.5 tommer stor.
+Polestar 3 Long Range Dual Motor Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 9,0 tommer stor. Skærmen touch øverst på midterkonsollen er 14,5 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -194,7 +194,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 484 liter. Med bagsædet nede er det 1411 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1.1 CU FT). Bilens maksimale vægt er 3080 kg (6790 lbs), og med basisvægten på 2600 kg (5732 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 480kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 484 liter. Med bagsædet nede er det 1411 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1,1 CU FT). Bilens maksimale vægt er 3080 kg (6790 lbs), og med basisvægten på 2600 kg (5732 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 480kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2200, og på ubremset er den 750 kg (4850/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

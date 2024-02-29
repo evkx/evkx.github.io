@@ -33,7 +33,7 @@ The BMW i4 eDrive35 has a maximum power of 250 KW (340 hp/335 bhp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 70.2kWh and a net capacity of 66kWh, meaning you have a 4.2kWh buffer for protection. (6.0%).
+The battery has a gross capacity of 70,2kWh and a net capacity of 66kWh, meaning you have a 4,2kWh buffer for protection. (6.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 490 to 406 km (305-252 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.5kWh/100km for the basic version and 16.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

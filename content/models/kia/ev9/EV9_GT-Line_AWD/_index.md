@@ -33,7 +33,7 @@ The Kia EV9 GT-Line AWD has a maximum power of 283 KW (385 hp/380 bhp). The tota
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 99.8kWh and a net capacity of 98kWh, meaning you have a 1.8kWh buffer for protection. (1.8%).
+The battery has a gross capacity of 99,8kWh and a net capacity of 98kWh, meaning you have a 1,8kWh buffer for protection. (1.8%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 512 to 505 km (318-314 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.1kWh/100km for the basic version and 19.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

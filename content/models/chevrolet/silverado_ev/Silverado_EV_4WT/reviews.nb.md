@@ -10,28 +10,28 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Towing With The Silverado EV! Everything You Need To Know About Towing With Chevy's Electric Pickup</h3>
-<p>Out of Spec Reviews: 28/06/2023</p>
+<p>Out of Spec Reviews: 28.06.2023</p>
 
 {{< youtube TGPxjg_jDog >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Chevy Silverado EV Offboard Power System Overview</h3>
-<p>State of Charge: 28/06/2023</p>
+<p>State of Charge: 28.06.2023</p>
 
 {{< youtube E0hqRtM_hb0 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Drive The Chevy Silverado EV For The First Time! The New Ultimate Electric Pickup Truck</h3>
-<p>Out of Spec Reviews: 26/06/2023</p>
+<p>Out of Spec Reviews: 26.06.2023</p>
 
 {{< youtube oUN358zio7A >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Finally DRIVE the 2024 Chevy Silverado EV: Here's How It Compares to the Ford F-150 Lightning!</h3>
-<p>TFLEV: 26/06/2023</p>
+<p>TFLEV: 26.06.2023</p>
 
 {{< youtube zkgiJCdsTb8 >}}
 

@@ -29,13 +29,13 @@ Vi har opdelt vores Ford Mustang Mach-E GT artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-Ford Mustang Mach-E GT har en maksimal effekt på 358 KW (487 hk/480 hk). Det samlede drejningsmoment er 860 nm (635 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.7 sekunder. Tophastigheden er 200 km/t.
+Ford Mustang Mach-E GT har en maksimal effekt på 358 KW (487 hk/480 hk). Det samlede drejningsmoment er 860 nm (635 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 98.8kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 6.8kWh buffer til beskyttelse. (6.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 98,8kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 6,8kWh buffer til beskyttelse. (6,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 18.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 18,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 154 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 45 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 85kW. Hver opladningssession ville tage 26 minutter og 4 sekunder.
 
@@ -147,7 +147,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 10.2 tommer stor. Skærmen touch øverst på midterkonsollen er 15.5 tommer stor.
+Skærmen  bag rattet monteret i instrumentbrættet er 10,2 tommer stor. Skærmen touch øverst på midterkonsollen er 15,5 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -209,7 +209,7 @@ Med Ford BlueCruise  niveau 2-systemet får du følgende køreautomatiseringsfun
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 402 liter. Med bagsædet nede er det 1420 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 100 liter (3.5 CU FT). Bilens maksimale vægt er 2690 kg (5930 lbs), og med basisvægten på 2218 kg (4890 lbs), kan du maksimalt laste 472 kg (1041 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 472kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 402 liter. Med bagsædet nede er det 1420 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 100 liter (3,5 CU FT). Bilens maksimale vægt er 2690 kg (5930 lbs), og med basisvægten på 2218 kg (4890 lbs), kan du maksimalt laste 472 kg (1041 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 472kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

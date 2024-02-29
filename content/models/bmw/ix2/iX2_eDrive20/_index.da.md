@@ -29,13 +29,13 @@ Vi har opdelt vores BMW iX2 eDrive20 artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-BMW iX2 eDrive20 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 247 nm (182 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.6 sekunder. Tophastigheden er 170 km/t.
+BMW iX2 eDrive20 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 247 nm (182 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 68kWh og en nettokapacitet på 64.7kWh, hvilket betyder, at du har en 3.3kWh buffer til beskyttelse. (4.9%).
+Batteriet har en bruttokapacitet på 68kWh og en nettokapacitet på 64,7kWh, hvilket betyder, at du har en 3,3kWh buffer til beskyttelse. (4,9%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 449 til 417 km (279-259 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.4kWh/100 km for basisversionen og 15.5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 449 til 417 km (279-259 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,4kWh/100 km for basisversionen og 15,5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 130kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 51%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 85kW. Hver opladningssession ville tage 23 minutter og 55 sekunder.
 
@@ -167,7 +167,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-BMW iX2 eDrive20 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 10.7 tommer stor og har en opløsning på 2880 x 1080 pixels.
+BMW iX2 eDrive20 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 10,7 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -225,7 +225,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 525 liter. Med bagsædet nede er det 1400 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 26052460 kg (57435774 lbs), og med basisvægten på 1875 kg (4134 lbs), kan du maksimalt laste 26050585 kg (57431641 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 525 liter. Med bagsædet nede er det 1400 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 26052460 kg (57435774 lbs), og med basisvægten på 1875 kg (4134 lbs), kan du maksimalt laste 26050585 kg (57431641 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Acura ZDX Type S i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Acura ZDX Type S har en maksimal effekt på 373 KW (507hk). Totalt dreiemoment er 610 nm. Den utfører sprinten 0-100 km/t på 4.6 sekunder.
+Acura ZDX Type S har en maksimal effekt på 373 KW (507hk). Totalt dreiemoment er 610 nm. Den utfører sprinten 0-100 km/t på 4,6 sekunder.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 102kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7.3%).
+Batteriet har en bruttokapasitet på 110kWh og en nettokapasitet på 102kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,3%).
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 288 miles (463 km). Forbruket er 2.8mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 288 miles (463 km). Forbruket er 2,8mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 176 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 29 minutter og 59 sekunder.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11.5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 52 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 19.2 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 18 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11,5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 52 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 19,2 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 18 minutter.
 
 ### Ladeport
 
@@ -135,7 +135,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-Acura ZDX Type S har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 11.0 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 11.3 tommer stor og har en oppløsning på 1540 x 720 piksler.
+Acura ZDX Type S har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 11,0 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 11,3 tommer stor og har en oppløsning på 1540 x 720 piksler.
 Modellen er ikke tilgjengelig med head-up display.
 
 

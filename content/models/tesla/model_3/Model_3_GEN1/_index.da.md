@@ -35,13 +35,13 @@ Denne model er blevet erstattet af [Tesla Model 3 Long Range](/models/tesla/mode
 
 ## Ydeevne
 
-Tesla Model 3 (GEN1) har en maksimal effekt på 208 KW (283 hk/279 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.1 sekunder. Tophastigheden er 225 km/t.
+Tesla Model 3 (GEN1) har en maksimal effekt på 208 KW (283 hk/279 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Tophastigheden er 225 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 60kWh og en nettokapacitet på 59kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (1.7%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 60kWh og en nettokapacitet på 59kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (1,7%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 495 til 491 km (308-305 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 11.9kWh/100 km for basisversionen og 12.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 495 til 491 km (308-305 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 11,9kWh/100 km for basisversionen og 12,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 170kW. En fuld opladning fra 0 - 100 % ville tage 70 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 83kW. Hver opladningssession ville tage 20 minutter og 31 sekunder.
 
@@ -157,7 +157,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Tesla Model 3 (GEN1) har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen  i dashboardets midte er 15.0 tommer stor og har en opløsning på 2200 x 1300 pixels.
+Tesla Model 3 (GEN1) har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen  i dashboardets midte er 15,0 tommer stor og har en opløsning på 2200 x 1300 pixels.
 Modellen har ikke et head-up display.
 
 
@@ -227,12 +227,12 @@ Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) ti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 561 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154.3 lbs). Bilens maksimale vægt er 2149 kg (4738 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 389 kg (858 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 561 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2149 kg (4738 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 389 kg (858 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 4/1/2016, og leveringerne startede i July 2017. Denne model er nu udgået. Denne model er blevet erstattet af [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 01.04.2016, og leveringerne startede i July 2017. Denne model er nu udgået. Denne model er blevet erstattet af [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

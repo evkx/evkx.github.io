@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQS 53
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.8 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -103,7 +103,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Mercedes-AMG EQS 53
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.4 s
+				3,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,7 +139,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				18.9 kWh/100km
+				18,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				21.8 kWh/100km
+				21,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				21.0 kWh/100km
+				21,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				24.3 kwh/100km
+				24,3 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -206,7 +206,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				107.8 kWh
+				107,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.241
+				0,241
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.5 meter
+				11,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1444,7 +1444,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1452,7 +1452,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 17.7
+				Ja, 17,7
 			</td>
 		</tr>
 		<tr>
@@ -1460,7 +1460,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm fremre passasjer
 			</td>
 			<td>
-				Ja, 12.3"
+				Ja, 12,3"
 			</td>
 		</tr>
 		<tr>

@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rolls-Royce Spectre
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.5 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				19.2 kWh/100km
+				19,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				20.8 kWh/100km
+				20,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				2.6 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -142,7 +142,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				105.7 kWh
+				105,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				376.4
+				376,4
 			</td>
 		</tr>
 	</tbody>
@@ -298,7 +298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.25
+				0,25
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				12.7 meter
+				12,7 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1056,7 +1056,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1064,7 +1064,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10.1
+				Ja, 10,1
 			</td>
 		</tr>
 		<tr>

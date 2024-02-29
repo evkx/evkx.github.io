@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Kia EV6 Standard Range 2WD i seksjoner. Hvis du 
 
 ## Ytelse
 
-Kia EV6 Standard Range 2WD har en maksimal effekt på 125 KW (170hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 8.5 sekunder. Topphastigheten er 185 km/t.
+Kia EV6 Standard Range 2WD har en maksimal effekt på 125 KW (170hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 8,5 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 58kWh og en nettokapasitet på 54kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6.9%).
+Batteriet har en bruttokapasitet på 58kWh og en nettokapasitet på 54kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6,9%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 394 km. Forbruket er 13.7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 394 km. Forbruket er 13,7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 42 minutter, mens et mer vanlig scenario på 10-80 % vil ta 17 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 109kW. Hver ladeøkt vil ta 19 minutter og 45 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Kia EV6 Standard Range 2WD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor og har en oppløsning på 2880 x 1080 piksler.
+Kia EV6 Standard Range 2WD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor og har en oppløsning på 2880 x 1080 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

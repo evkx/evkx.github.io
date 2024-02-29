@@ -29,13 +29,13 @@ Vi har opdelt vores Volvo EX30 Single Motor Extended Range artikel i sektioner. 
 
 ## Ydeevne
 
-Volvo EX30 Single Motor Extended Range har en maksimal effekt på 200 KW (272 hk/268 hk). Det samlede drejningsmoment er 343 nm (253 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.3 sekunder. Tophastigheden er 180 km/t.
+Volvo EX30 Single Motor Extended Range har en maksimal effekt på 200 KW (272 hk/268 hk). Det samlede drejningsmoment er 343 nm (253 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,3 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 460 km (286 mi). Forbruget er 13.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 460 km (286 mi). Forbruget er 13,9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 153kW. En fuld opladning fra 0 - 100 % ville tage 82 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 90kW. Hver opladningssession ville tage 21 minutter og 58 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Volvo EX30 Single Motor Extended Range har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 12.3 tommer stor.
+Volvo EX30 Single Motor Extended Range har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 12,3 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -199,7 +199,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 318 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0.2 CU FT). Bilens maksimale vægt er 2235 kg (4927 lbs), og med basisvægten på 1755 kg (3869 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 318 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0,2 CU FT). Bilens maksimale vægt er 2235 kg (4927 lbs), og med basisvægten på 1755 kg (3869 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1400, og på ubremset er den 750 kg (3086/1653 lbs).
 

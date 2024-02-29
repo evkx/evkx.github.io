@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Rivian R1S Quad-Mo
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.1 s
+				3,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim EPA-forbrug
 			</td>
 			<td>
-				2.6 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet EPA-forbrug
 			</td>
 			<td>
-				2.3 mi/kWh
+				2,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5100 mm (200.8")
+				5100 mm (200,8")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1966 mm (77.4")
+				1966 mm (77,4")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2078 mm (81.8")
+				2078 mm (81,8")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3076 mm (121.1")
+				3076 mm (121,1")
 			</td>
 		</tr>
 	</tbody>
@@ -412,7 +412,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				365 mm (14.4")
+				365 mm (14,4")
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +420,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				205 mm (8.1")
+				205 mm (8,1")
 			</td>
 		</tr>
 		<tr>
@@ -1047,7 +1047,7 @@ Interior.Seatlayout.OnlySix
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1055,7 +1055,7 @@ Interior.Seatlayout.OnlySix
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 15.3"
+				Ja, 15,3"
 			</td>
 		</tr>
 		<tr>

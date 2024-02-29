@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av XPENG G9 RWD Long Range i avsnitt. Om du vil
 
 ## Prestanda
 
-XPENG G9 RWD Long Range har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 6.4 sekunder. Topphastigheten är 200 km/h.
+XPENG G9 RWD Long Range har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 6,4 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 98kWh och en nettokapacitet på 93.6kWh, vilket innebär att du har en 4.4kWh buffert för skydd. (4.5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 98kWh och en nettokapacitet på 93,6kWh, vilket innebär att du har en 4,4kWh buffert för skydd. (4,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 570 km. Förbrukningen är 16.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 570 km. Förbrukningen är 16,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 169kW. Varje laddningssession tar 18 minuter och 36 sekunder.
 
@@ -155,7 +155,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-XPENG G9 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten monterad i instrumentbrädan är 10.3 tum. Skärmen touch i mitten av instrumentbrädan är 15.0 tum. Skärmen touch framför passageraren på instrumentbrädan är 15.0 tum.
+XPENG G9 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten monterad i instrumentbrädan är 10,3 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum. Skärmen touch framför passageraren på instrumentbrädan är 15,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

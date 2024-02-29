@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Nio ET9. Click on im
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3.8 s
+				3,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				15.6 kWh/100km
+				15,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				19.0 kWh/100km
+				19,0 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5325 mm (209.6")
+				5325 mm (209,6")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1620 mm (63.8")
+				1620 mm (63,8")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				2016 mm (79.4")
+				2016 mm (79,4")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3250 mm (128.0")
+				3250 mm (128,0")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10.9 meter (429.1")
+				10,9 meter (429,1")
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +396,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				150 mm (5.9")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -1042,7 +1042,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 10.2
+				Yes, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1050,7 +1050,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 15.6"
+				Yes, 15,6"
 			</td>
 		</tr>
 		<tr>
@@ -1066,7 +1066,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 14.5"
+				Yes, 14,5"
 			</td>
 		</tr>
 	</tbody>

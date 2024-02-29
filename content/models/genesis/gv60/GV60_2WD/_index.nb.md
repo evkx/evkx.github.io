@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Genesis GV60 2WD i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Genesis GV60 2WD har en maksimal effekt på 168 KW (228hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 5.5 sekunder. Topphastigheten er 185 km/t.
+Genesis GV60 2WD har en maksimal effekt på 168 KW (228hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 5,5 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77.4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3.4kWh-buffer for beskyttelse. (4.4%).
+Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3,4kWh-buffer for beskyttelse. (4,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 517 km. Forbruket er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 517 km. Forbruket er 14,3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 22 minutter og 59 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum er 14.9 tommer stor. touch-skjermen nederst på midtkonsollen er 7.6 tommer stor og har en oppløsning på 1280 x 660 piksler.
+-skjermen bak rattet integrert i dashbordet er 12,3 tommer stor. touch-skjermen i dashbordets sentrum er 14,9 tommer stor. touch-skjermen nederst på midtkonsollen er 7,6 tommer stor og har en oppløsning på 1280 x 660 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

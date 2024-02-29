@@ -33,9 +33,9 @@ BMW i5 eDrive40 har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede d
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 84.4kWh og en nettokapacitet på 81.2kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (3.8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 84,4kWh og en nettokapacitet på 81,2kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (3,8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 581 til 498 km (361-310 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.0kWh/100 km for basisversionen og 16.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 581 til 498 km (361-310 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,0kWh/100 km for basisversionen og 16,3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 205kW. En fuld opladning fra 0 - 100 % ville tage 56 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 50%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 118kW. Hver opladningssession ville tage 19 minutter og 26 sekunder.
 
@@ -175,7 +175,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-BMW i5 eDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 14.9 tommer stor og har en opløsning på 2880 x 1080 pixels.
+BMW i5 eDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 14,9 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -237,7 +237,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2256 kg (4974 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2256 kg (4974 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
 

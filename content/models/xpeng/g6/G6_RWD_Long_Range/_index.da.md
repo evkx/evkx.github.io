@@ -29,13 +29,13 @@ Vi har opdelt vores XPENG G6 RWD Long Range artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-XPENG G6 RWD Long Range har en maksimal effekt på 218 KW (296 hk/292 hk). Det samlede drejningsmoment er 440 nm (325 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.9 sekunder. Tophastigheden er 202 km/t.
+XPENG G6 RWD Long Range har en maksimal effekt på 218 KW (296 hk/292 hk). Det samlede drejningsmoment er 440 nm (325 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,9 sekunder. Tophastigheden er 202 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 87.5kWh og en nettokapacitet på 82kWh, hvilket betyder, at du har en 5.5kWh buffer til beskyttelse. (6.3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 87,5kWh og en nettokapacitet på 82kWh, hvilket betyder, at du har en 5,5kWh buffer til beskyttelse. (6,3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 755 km ( miles). Forbruget er 10.9kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 755 km ( miles). Forbruget er 10,9kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 147kW. Hver opladningssession ville tage 18 minutter og 43 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-XPENG G6 RWD Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 10.2 tommer stor. Skærmen touch i dashboardets midte er 15.0 tommer stor.
+XPENG G6 RWD Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 10,2 tommer stor. Skærmen touch i dashboardets midte er 15,0 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -201,7 +201,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 571 liter. Med bagsædet nede er det 1374 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2.5 CU FT). Bilens maksimale vægt er 2600 kg (5732 lbs), og med basisvægten på 2095 kg (4619 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 571 liter. Med bagsædet nede er det 1374 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2,5 CU FT). Bilens maksimale vægt er 2600 kg (5732 lbs), og med basisvægten på 2095 kg (4619 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

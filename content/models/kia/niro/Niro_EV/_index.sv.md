@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Kia Niro EV i avsnitt. Om du vill vänta med
 
 ## Prestanda
 
-Kia Niro EV har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 255 Nm. Den gör sprinten 0-100 km/h på 7.8 sekunder. Topphastigheten är 167 km/h.
+Kia Niro EV har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 255 Nm. Den gör sprinten 0-100 km/h på 7,8 sekunder. Topphastigheten är 167 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 68kWh och en nettokapacitet på 64.8kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (4.7%).
+Batteriet har en bruttokapacitet på 68kWh och en nettokapacitet på 64,8kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (4,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 463 km. Förbrukningen är 14.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 463 km. Förbrukningen är 14,0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 93 minuter, medan ett vanligare scenario på 10-80 % tar 44 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 60kW. Varje laddningssession tar 33 minuter och 30 sekunder.
 
@@ -139,7 +139,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Kia Niro EV har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 10.3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 10.3 tum och har en upplösning på 2880 x 1080 pixlar.
+Kia Niro EV har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 10,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 10,3 tum och har en upplösning på 2880 x 1080 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -194,7 +194,7 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 475 liter. Med baksätet nedfällt är det 1392 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 20 liter. Bilens maximala vikt är 220 kg, och med basvikten på 1557 kg kan du lasta maximalt -1337 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 475 liter. Med baksätet nedfällt är det 1392 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 20 liter. Bilens maximala vikt är 220 kg, och med basvikten på 1557 kg kan du lasta maximalt −1337 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 300 kg.
 

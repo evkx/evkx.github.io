@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av MG MG4 Electric Extended Range i seksjoner. Hvis
 
 ## Ytelse
 
-MG MG4 Electric Extended Range har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 250 nm. Den utfører sprinten 0-100 km/t på 7.9 sekunder. Topphastigheten er 160 km/t.
+MG MG4 Electric Extended Range har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 250 nm. Den utfører sprinten 0-100 km/t på 7,9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77kWh og en nettokapasitet på 74.4kWh, noe som betyr at du har et 2.6kWh-buffer for beskyttelse. (3.4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 77kWh og en nettokapasitet på 74,4kWh, noe som betyr at du har et 2,6kWh-buffer for beskyttelse. (3,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 520 km. Forbruket er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 520 km. Forbruket er 14,3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 101 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 100kW. Hver ladeøkt vil ta 25 minutter og 33 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 7.0 tommer stor. touch-skjermen øverst på midtkonsollen er 10.2 tommer stor.
+-skjermen bak rattet montert i dashbordet er 7,0 tommer stor. touch-skjermen øverst på midtkonsollen er 10,2 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

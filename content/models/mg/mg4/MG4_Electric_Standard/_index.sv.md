@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av MG MG4 Electric Standard i avsnitt. Om du vi
 
 ## Prestanda
 
-MG MG4 Electric Standard har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 250 Nm. Den gör sprinten 0-100 km/h på 7.9 sekunder. Topphastigheten är 160 km/h.
+MG MG4 Electric Standard har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 250 Nm. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 50.8kWh, vilket innebär att du har en 0.2kWh buffert för skydd. (0.4%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 50,8kWh, vilket innebär att du har en 0,2kWh buffert för skydd. (0,4%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 350 km. Förbrukningen är 14.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 350 km. Förbrukningen är 14,5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 45 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 61%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 94kW. Varje laddningssession tar 19 minuter och 54 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 10.2 tum.
+Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 10,2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

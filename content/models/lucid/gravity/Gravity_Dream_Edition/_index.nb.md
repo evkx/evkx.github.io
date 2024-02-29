@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Lucid Gravity Dream Edition i seksjoner. Hvis du
 
 ## Ytelse
 
-Lucid Gravity Dream Edition har en maksimal effekt på 600 KW (816hk). Totalt dreiemoment er 1000 nm. Den utfører sprinten 0-100 km/t på 3.5 sekunder. Topphastigheten er 250 km/t.
+Lucid Gravity Dream Edition har en maksimal effekt på 600 KW (816hk). Totalt dreiemoment er 1000 nm. Den utfører sprinten 0-100 km/t på 3,5 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 124kWh og en nettokapasitet på 122kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (1.6%).
+Batteriet har en bruttokapasitet på 124kWh og en nettokapasitet på 122kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (1,6%).
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 3.6mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 3,6mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 81 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 176kW. Hver ladeøkt vil ta 18 minutter og 16 sekunder.
 
@@ -163,7 +163,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-touch-skjermen bak rattet på tvers av midten av dashbordet er 34.0 tommer stor. touch-skjermen i midten av midtkonsollen er 12.0 tommer stor.
+touch-skjermen bak rattet på tvers av midten av dashbordet er 34,0 tommer stor. touch-skjermen i midten av midtkonsollen er 12,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -227,7 +227,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 11/16/2023, og leveringene forventes å starte om December 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 16.11.2023, og leveringene forventes å starte om December 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lucid Gravity </strong>
 </a>

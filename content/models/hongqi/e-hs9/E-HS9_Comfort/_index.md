@@ -33,7 +33,7 @@ The Hongqi E-HS9 Comfort has a maximum power of 320 KW (435 hp/429 bhp). The tot
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 84kWh and a net capacity of 81.7kWh, meaning you have a 2.3kWh buffer for protection. (2.7%).
+The battery has a gross capacity of 84kWh and a net capacity of 81,7kWh, meaning you have a 2,3kWh buffer for protection. (2.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 396 km (246 mi). The consumption is 20.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

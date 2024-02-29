@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqe_300/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_300/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="EQE 300" ></a>
-<i class="bi bi-battery-full"></i> 96.12 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-battery-full"></i> 96,12 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqe_350plus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350plus/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="EQE 350+" ></a>
-<i class="bi bi-battery-full"></i> 96.12 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-battery-full"></i> 96,12 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqe_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_350_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="EQE 350 4MATIC" ></a>
-<i class="bi bi-battery-full"></i> 96.12 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-battery-full"></i> 96,12 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqe_43_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_43_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQE 43 4MATIC" ></a>
-<i class="bi bi-battery-full"></i> 96.12 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-battery-full"></i> 96,12 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -87,7 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqe_500_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_500_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="247px" alt="EQE 500 4MATIC" ></a>
-<i class="bi bi-battery-full"></i> 96.12 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-battery-full"></i> 96,12 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -106,7 +106,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqe_53_4maticplus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqe/eqe_53_4maticplus/main_1_xst.jpg" class="img-fluid" width="400px" height="276px" alt="EQE 53 4MATIC+" ></a>
-<i class="bi bi-battery-full"></i> 96.12 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-battery-full"></i> 96,12 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -33,7 +33,7 @@ The Lexus UX 300e has a maximum power of 150 KW (204 hp/201 bhp). The total torq
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71.4kWh and a net capacity of 64kWh, meaning you have a 7.4kWh buffer for protection. (10.4%).
+The battery has a gross capacity of 71,4kWh and a net capacity of 64kWh, meaning you have a 7,4kWh buffer for protection. (10.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 450 to 440 km (280-274 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.2kWh/100km for the basic version and 14.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

@@ -29,13 +29,13 @@ Vi har opdelt vores Toyota bZ4X FWD artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-Toyota bZ4X FWD har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 337 nm (249 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.9 sekunder. Tophastigheden er 160 km/t.
+Toyota bZ4X FWD har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 337 nm (249 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,9 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 71.4kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 13.4kWh buffer til beskyttelse. (18.8%).
+Batteriet har en bruttokapacitet på 71,4kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 13,4kWh buffer til beskyttelse. (18,8%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 516 til 442 km (321-275 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 11.2kWh/100 km for basisversionen og 13.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 516 til 442 km (321-275 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 11,2kWh/100 km for basisversionen og 13,1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 147kW. En fuld opladning fra 0 - 100 % ville tage 74 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 50%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 78kW. Hver opladningssession ville tage 21 minutter og 27 sekunder.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 6.6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 6,6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter.
 
 ### Ladeport
 
@@ -135,9 +135,9 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på Toyota bZ4X FWD.
 
-Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 7.0 tommer stor. Skærmen touch øverst på midterkonsollen er 8.9 tommer stor.
+Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 7,0 tommer stor. Skærmen touch øverst på midterkonsollen er 8,9 tommer stor.
 
-Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 7.0 tommer stor. Skærmen touch øverst på midterkonsollen er 12.3 tommer stor.
+Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 7,0 tommer stor. Skærmen touch øverst på midterkonsollen er 12,3 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -185,7 +185,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 452 liter. På taget kan du laste op til 80 kg (176.4 lbs). Bilens maksimale vægt er 2195 kg (4839 lbs), og med basisvægten på 1945 kg (4288 lbs), kan du maksimalt laste 250 kg (551 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 250kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 452 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2195 kg (4839 lbs), og med basisvægten på 1945 kg (4288 lbs), kan du maksimalt laste 250 kg (551 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 250kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

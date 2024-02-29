@@ -33,7 +33,7 @@ The Dacia Spring 65HP has a maximum power of 48 KW (65 hp/64 bhp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 26.8kWh and a net capacity of 25kWh, meaning you have a 1.8kWh buffer for protection. (6.7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 26,8kWh and a net capacity of 25kWh, meaning you have a 1,8kWh buffer for protection. (6.7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 220 km (137 mi). The consumption is 11.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

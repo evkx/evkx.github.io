@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Genesis GV60 2WD i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-Genesis GV60 2WD har en maximal effekt på 168 KW (228hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 5.5 sekunder. Topphastigheten är 185 km/h.
+Genesis GV60 2WD har en maximal effekt på 168 KW (228hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 77.4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3.4kWh buffert för skydd. (4.4%).
+Batteriet har en bruttokapacitet på 77,4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3,4kWh buffert för skydd. (4,4%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 517 km. Förbrukningen är 14.3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 517 km. Förbrukningen är 14,3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 38 minuter, medan ett vanligare scenario på 10-80 % tar 16 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 76%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 152kW. Varje laddningssession tar 22 minuter och 59 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum. Skärmen touch i mitten av instrumentbrädan är 14.9 tum. Skärmen touch botten av mittkonsolen är 7.6 tum och har en upplösning på 1280 x 660 pixlar.
+Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen touch i mitten av instrumentbrädan är 14,9 tum. Skärmen touch botten av mittkonsolen är 7,6 tum och har en upplösning på 1280 x 660 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

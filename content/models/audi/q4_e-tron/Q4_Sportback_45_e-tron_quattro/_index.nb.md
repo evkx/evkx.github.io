@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Audi Q4 Sportback 45 e-tron quattro i seksjoner.
 
 ## Ytelse
 
-Audi Q4 Sportback 45 e-tron quattro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 6.6 sekunder. Topphastigheten er 180 km/t.
+Audi Q4 Sportback 45 e-tron quattro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 6,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 76.6kWh, noe som betyr at du har et 5.4kWh-buffer for beskyttelse. (6.6%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 76,6kWh, noe som betyr at du har et 5,4kWh-buffer for beskyttelse. (6,6%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 539 til 466 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.2kWh/100 km for basisversjonen og 16.4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 539 til 466 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,2kWh/100 km for basisversjonen og 16,4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 44%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 6 sekunder.
 
@@ -166,7 +166,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Audi Q4 Sportback 45 e-tron quattro har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 11.6 tommer stor og har en oppløsning på 1540 x 720 piksler.
+Audi Q4 Sportback 45 e-tron quattro har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10,2 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 11,6 tommer stor og har en oppløsning på 1540 x 720 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -244,7 +244,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 9/21/2023, og leveringene startet i December 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 21.09.2023, og leveringene startet i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

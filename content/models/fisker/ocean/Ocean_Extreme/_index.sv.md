@@ -33,9 +33,9 @@ Med overboost har Fisker Ocean Extreme en maximal effekt på 415 KW (564hk). Uta
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 113kWh och en nettokapacitet på 106.5kWh, vilket innebär att du har en 6.5kWh buffert för skydd. (5.8%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 113kWh och en nettokapacitet på 106,5kWh, vilket innebär att du har en 6,5kWh buffert för skydd. (5,8%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 707 till 701 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.1kWh/100 km för basversionen och 15.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 707 till 701 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15,1kWh/100 km för basversionen och 15,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 72 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 126kW. Varje laddningssession tar 28 minuter och 49 sekunder.
 
@@ -156,7 +156,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Fisker Ocean Extreme har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum. Skärmen touch i mitten av mittkonsolen är 17.1 tum.
+Fisker Ocean Extreme har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10,2 tum. Skärmen touch i mitten av mittkonsolen är 17,1 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

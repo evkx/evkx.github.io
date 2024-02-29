@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av Lucid Air Dream Edition Performance i seksjoner.
 
 ## Ytelse
 
-Lucid Air Dream Edition Performance har en maksimal effekt på 828 KW (1126hk). Totalt dreiemoment er 1390 nm. Den utfører sprinten 0-100 km/t på 2.7 sekunder. Topphastigheten er 270 km/t.
+Lucid Air Dream Edition Performance har en maksimal effekt på 828 KW (1126hk). Totalt dreiemoment er 1390 nm. Den utfører sprinten 0-100 km/t på 2,7 sekunder. Topphastigheten er 270 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 118kWh og en nettokapasitet på 117kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (0.8%).
+Batteriet har en bruttokapasitet på 118kWh og en nettokapasitet på 117kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (0,8%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 861 til 828 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13.6kWh/100 km for basisversjonen og 14.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 861 til 828 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13,6kWh/100 km for basisversjonen og 14,1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 77 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 174kW. Hver ladeøkt vil ta 18 minutter og 7 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19.5kWh/100km, vil 1000km ta 8 timer og 48 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 35%. Totalt tapt tid for å lade opp batteriet vil være 28 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,5kWh/100km, vil 1000km ta 8 timer og 48 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 35%. Totalt tapt tid for å lade opp batteriet vil være 28 minutter.
 
 ### Ombordlader
 
@@ -151,7 +151,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen er 8.0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 14.0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12.0 tommer stor. touch-skjermen i midten av midtkonsollen er 12.0 tommer stor.
+På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm). touch-skjermen på venstre side av den delte rammen er 8,0 tommer stor. -skjermen bak rattet i midten av den delte rammen er 14,0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12,0 tommer stor. touch-skjermen i midten av midtkonsollen er 12,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

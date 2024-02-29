@@ -29,13 +29,13 @@ Vi har opdelt vores Ford F150 Lightning Standard Range artikel i sektioner. Hvis
 
 ## Ydeevne
 
-Ford F150 Lightning Standard Range har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 1050 nm (775 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.2 sekunder. Tophastigheden er 180 km/t.
+Ford F150 Lightning Standard Range har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 1050 nm (775 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 110kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 12kWh buffer til beskyttelse. (10.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 110kWh og en nettokapacitet på 98kWh, hvilket betyder, at du har en 12kWh buffer til beskyttelse. (10,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 427 km (265 mi). Forbruget er 23.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 427 km (265 mi). Forbruget er 23,0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 155kW. En fuld opladning fra 0 - 100 % ville tage 97 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 37 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 72%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 103kW. Hver opladningssession ville tage 41 minutter og 14 sekunder.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19.2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 6 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 6 minutter.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}
@@ -138,9 +138,9 @@ Ford F150 Lightning Standard Range har flere funktioner til at gøre dit liv som
 
 To forskellige skærmopsætninger er tilgængelige på Ford F150 Lightning Standard Range.
 
-Standardlayoutet har følgende konfiguration. Skærmen  bag rattet integreret i instrumentbrættet er 12.0 tommer stor. Skærmen  i dashboardets midte er 12.0 tommer stor.
+Standardlayoutet har følgende konfiguration. Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor. Skærmen  i dashboardets midte er 12,0 tommer stor.
 
-Det valgfri -layout har følgende konfiguration. Skærmen  bag rattet integreret i instrumentbrættet er 12.0 tommer stor. Skærmen  i dashboardets midte er 15.5 tommer stor.
+Det valgfri -layout har følgende konfiguration. Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor. Skærmen  i dashboardets midte er 15,5 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -204,7 +204,7 @@ Med Ford Co-Pilot360™ Active 2.0  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1495 liter. Ladebredden er 1285 mm, og længden er 1704 mm. Den maksimale lastvægt i lad er 907 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 399 liter (14.1 CU FT). Bilens maksimale vægt er 3500 kg (7716 lbs), og med basisvægten på 2890 kg (6371 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastkapaciteten i lastbilens lad er 1495 liter. Ladebredden er 1285 mm, og længden er 1704 mm. Den maksimale lastvægt i lad er 907 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 399 liter (14,1 CU FT). Bilens maksimale vægt er 3500 kg (7716 lbs), og med basisvægten på 2890 kg (6371 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3490, og på ubremset er den 750 kg (7694/1653 lbs).
 
@@ -213,7 +213,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 5/19/2021, og leveringerne startede i December 2021.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 19.05.2021, og leveringerne startede i December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
 </a>

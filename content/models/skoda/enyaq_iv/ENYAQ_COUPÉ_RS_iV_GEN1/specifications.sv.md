@@ -71,7 +71,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för SKODA ENYAQ COUPÉ RS 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6.9 s
+				6,9 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för SKODA ENYAQ COUPÉ RS 
 				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
-				6.5 s
+				6,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				15.0 kWh/100km
+				15,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16.9 kWh/100km
+				16,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				15.5 kWh/100km
+				15,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				17.4 kwh/100km
+				17,4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -362,7 +362,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.248
+				0,248
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre överhängsvinkel
 			</td>
 			<td>
-				14.3
+				14,3
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre överhängsvinkel
 			</td>
 			<td>
-				17.3
+				17,3
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10.8 meter
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1162,7 +1162,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 5.3
+				Ja, 5,3
 			</td>
 		</tr>
 		<tr>

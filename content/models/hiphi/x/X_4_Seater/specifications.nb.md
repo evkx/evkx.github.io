@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for HiPhi X 4 Seater. K
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.9 s
+				3,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				21.1 kWh/100km
+				21,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -234,7 +234,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.6 meter
+				11,6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -989,7 +989,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 16.9
+				Ja, 16,9
 			</td>
 		</tr>
 		<tr>
@@ -997,7 +997,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Infotainment skjerm fremre passasjer
 			</td>
 			<td>
-				Ja, 19.9"
+				Ja, 19,9"
 			</td>
 		</tr>
 		<tr>

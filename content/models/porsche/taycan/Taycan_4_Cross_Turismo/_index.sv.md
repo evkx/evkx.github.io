@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Porsche Taycan 4 Cross Turismo i avsnitt. Om
 
 ## Prestanda
 
-Med overboost har Porsche Taycan 4 Cross Turismo en maximal effekt på 350 KW (476hk). Utan overboost är det 280KW (381hp). Vridmomentet är 500 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 5.1 sekunder. Topphastigheten är 220 km/h.
+Med overboost har Porsche Taycan 4 Cross Turismo en maximal effekt på 350 KW (476hk). Utan overboost är det 280KW (381hp). Vridmomentet är 500 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 5,1 sekunder. Topphastigheten är 220 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 93.4kWh och en nettokapacitet på 83.7kWh, vilket innebär att du har en 9.7kWh buffert för skydd. (10.4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 93,4kWh och en nettokapacitet på 83,7kWh, vilket innebär att du har en 9,7kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 490 till 416 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17.1kWh/100 km för basversionen och 20.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 490 till 416 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17,1kWh/100 km för basversionen och 20,1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 165kW. Varje laddningssession tar 19 minuter och 53 sekunder.
 
@@ -184,7 +184,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Porsche Taycan 4 Cross Turismo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 16.8 tum. Skärmen touch översta mittkonsolen är 10.9 tum. Skärmen touch botten av mittkonsolen är 8.4 tum. Skärmen touch framför passageraren i instrumentbrädan är 10.9 tum.
+Porsche Taycan 4 Cross Turismo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 16,8 tum. Skärmen touch översta mittkonsolen är 10,9 tum. Skärmen touch botten av mittkonsolen är 8,4 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

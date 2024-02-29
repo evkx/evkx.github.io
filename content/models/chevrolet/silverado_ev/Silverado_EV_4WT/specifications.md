@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Chevrolet Silverado 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.5 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				2.1 mi/kWh
+				2,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5920 mm (233.1")
+				5920 mm (233,1")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				2009 mm (79.1")
+				2009 mm (79,1")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				2072 mm (81.6")
+				2072 mm (81,6")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2385 mm (93.9")
+				2385 mm (93,9")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3700 mm (145.7")
+				3700 mm (145,7")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1749 mm (68.9")
+				1749 mm (68,9")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1749 mm (68.9")
+				1749 mm (68,9")
 			</td>
 		</tr>
 	</tbody>
@@ -371,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/bedcargo/">Bed length</a>
 			</td>
 			<td>
-				1803 mm (71.0")
+				1803 mm (71,0")
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/bedcargo/">Bed width</a>
 			</td>
 			<td>
-				1286 mm (50.6")
+				1286 mm (50,6")
 			</td>
 		</tr>
 		<tr>
@@ -468,7 +468,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				227 mm (8.9")
+				227 mm (8,9")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				227 mm (8.9")
+				227 mm (8,9")
 			</td>
 		</tr>
 		<tr>

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Cadillac ESCALADE IQ i avsnitt. Om du vill v
 
 ## Prestanda
 
-Cadillac ESCALADE IQ har en maximal effekt på 560 KW (761hk). Totalt vridmoment är 1064 Nm. Den gör sprinten 0-100 km/h på 4.7 sekunder. Topphastigheten är 200 km/h.
+Cadillac ESCALADE IQ har en maximal effekt på 560 KW (761hk). Totalt vridmoment är 1064 Nm. Den gör sprinten 0-100 km/h på 4,7 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 215kWh och en nettokapacitet på 200kWh, vilket innebär att du har en 15kWh buffert för skydd. (7.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 215kWh och en nettokapacitet på 200kWh, vilket innebär att du har en 15kWh buffert för skydd. (7,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 450 miles (724 km). Förbrukningen är 2.3mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 450 miles (724 km). Förbrukningen är 2,3mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 130 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 242kW. Varje laddningssession tar 26 minuter och 49 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 19.2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 10 timmar och 25 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 19,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 10 timmar och 25 minuter.
 
 ### Laddningsport
 
@@ -156,7 +156,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 35.0 tum. Skärmen touch botten av mittkonsolen är 11.0 tum. Skärmen touch framför passageraren på instrumentbrädan är 20.0 tum.
+Skärmen  bakom ratten monterad i instrumentbrädan är 35,0 tum. Skärmen touch botten av mittkonsolen är 11,0 tum. Skärmen touch framför passageraren på instrumentbrädan är 20,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

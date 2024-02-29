@@ -35,13 +35,13 @@ Denne model er blevet erstattet af [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enya
 
 ## Ydeevne
 
-Med overboost har SKODA ENYAQ COUPÉ RS iV (GEN1) en maksimal effekt på 220 KW (299 hk / 265 bhp). Uden overboost er den 195 KW (265 hk / 295 hk). Momentet er 460 nm med overboost og 425 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 6.5 sekunder med overboost og 6.9 sekunder uden overboost. Tophastigheden er 180 km/t.
+Med overboost har SKODA ENYAQ COUPÉ RS iV (GEN1) en maksimal effekt på 220 KW (299 hk / 265 bhp). Uden overboost er den 195 KW (265 hk / 295 hk). Momentet er 460 nm med overboost og 425 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder med overboost og 6,9 sekunder uden overboost. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.1%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 514 til 496 km (320-308 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.0kWh/100 km for basisversionen og 15.5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 514 til 496 km (320-308 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,0kWh/100 km for basisversionen og 15,5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
 
@@ -157,7 +157,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-SKODA ENYAQ COUPÉ RS iV (GEN1) har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.3 tommer stor. Skærmen touch i dashboardets midte er 13.0 tommer stor.
+SKODA ENYAQ COUPÉ RS iV (GEN1) har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,3 tommer stor. Skærmen touch i dashboardets midte er 13,0 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -215,7 +215,7 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1610 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2180 kg (4806 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1610 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2180 kg (4806 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
 
@@ -224,7 +224,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 1/1/2020, og leveringerne startede i March 2021. Denne model er nu udgået. Denne model er blevet erstattet af [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 01.01.2020, og leveringerne startede i March 2021. Denne model er nu udgået. Denne model er blevet erstattet af [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

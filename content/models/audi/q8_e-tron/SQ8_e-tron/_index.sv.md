@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Audi SQ8 e-tron i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-Med overboost har Audi SQ8 e-tron en maximal effekt på 370 KW (503hk). Utan overboost är det 320KW (435hp). Vridmomentet är 973 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 4.5 sekunder med överboost och 6.6 sekunder utan överboost. Topphastigheten är 200 km/h.
+Med overboost har Audi SQ8 e-tron en maximal effekt på 370 KW (503hk). Utan overboost är det 320KW (435hp). Vridmomentet är 973 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 4,5 sekunder med överboost och 6,6 sekunder utan överboost. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 114kWh och en nettokapacitet på 106kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 114kWh och en nettokapacitet på 106kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 494 till 454 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 21.5kWh/100 km för basversionen och 23.3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 494 till 454 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 21,5kWh/100 km för basversionen och 23,3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 122kW. Varje laddningssession tar 37 minuter och 58 sekunder.
 
@@ -191,7 +191,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Audi SQ8 e-tron har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10.1 tum och har en upplösning på 1540 x 720 pixlar. Skärmen touch botten av mittkonsolen är 8.6 tum och har en upplösning på 1280 x 660 pixlar.
+Audi SQ8 e-tron har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10,1 tum och har en upplösning på 1540 x 720 pixlar. Skärmen touch botten av mittkonsolen är 8,6 tum och har en upplösning på 1280 x 660 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 ## Infotainment
@@ -264,7 +264,7 @@ Lastkapaciteten i bagageutrymmet är 555 liter. Med baksätet nedfällt är det 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 11/9/2022 och leveranserna startade i March 2023. Denna modell är tillgänglig i Nordamerika, Kina, Europa och Mellanöstern.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 09.11.2022 och leveranserna startade i March 2023. Denna modell är tillgänglig i Nordamerika, Kina, Europa och Mellanöstern.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

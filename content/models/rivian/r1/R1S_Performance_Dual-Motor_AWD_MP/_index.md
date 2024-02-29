@@ -33,7 +33,7 @@ The Rivian R1S Performance Dual-Motor AWD MP has a maximum power of 489 KW (665 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 149kWh and a net capacity of 142.3kWh, meaning you have a 6.7kWh buffer for protection. (4.5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 149kWh and a net capacity of 142,3kWh, meaning you have a 6,7kWh buffer for protection. (4.5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 410 miles (660 km). The consumption is 2.9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -214,7 +214,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 11/26/2018, and deliveries started in December 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 26.11.2018, and deliveries started in December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

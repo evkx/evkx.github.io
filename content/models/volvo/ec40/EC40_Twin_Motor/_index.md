@@ -200,7 +200,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 2/20/2024, and deliveries started in April 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 20.02.2024, and deliveries started in April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EC40 </strong>
 </a>

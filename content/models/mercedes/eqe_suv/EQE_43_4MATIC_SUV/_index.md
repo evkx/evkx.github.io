@@ -33,7 +33,7 @@ The Mercedes-AMG EQE 43 4MATIC SUV has a maximum power of 350 KW (476 hp/469 bhp
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96.12kWh and a net capacity of 90.6kWh, meaning you have a 5.52kWh buffer for protection. (5.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 96,12kWh and a net capacity of 90,6kWh, meaning you have a 5,52kWh buffer for protection. (5.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 488 to 431 km (303-268 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 18.6kWh/100km for the basic version and 21.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

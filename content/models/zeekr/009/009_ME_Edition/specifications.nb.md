@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Zeekr 009 ME Editio
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.5 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim CLTC-forbruk
 			</td>
 			<td>
-				16.3 kWh/100km
+				16,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -290,7 +290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 	</tbody>
@@ -1053,7 +1053,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1061,7 +1061,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 15.4
+				Ja, 15,4
 			</td>
 		</tr>
 		<tr>

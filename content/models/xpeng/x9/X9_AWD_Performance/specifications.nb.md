@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG X9 AWD Perfor
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5.7 s
+				5,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim CLTC-forbruk
 			</td>
 			<td>
-				15.3 kWh/100km
+				15,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				101.5 kWh
+				101,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.223
+				0,223
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				10.8 meter
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -978,7 +978,7 @@ Interior.Seatlayout.OnlySix
 				Digital driver display
 			</td>
 			<td>
-				Ja, 10.25
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +986,7 @@ Interior.Seatlayout.OnlySix
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 14.96
+				Ja, 14,96
 			</td>
 		</tr>
 		<tr>

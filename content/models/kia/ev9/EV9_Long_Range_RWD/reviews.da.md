@@ -10,7 +10,7 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Least & Most Efficient Kia EV9s Compared! Don’t Expect That Much More Range On RWD</h3>
-<p>Out of Spec Reviews: 26/02/2024</p>
+<p>Out of Spec Reviews: 26.02.2024</p>
 
 {{< youtube GrpfofJlnQ0 >}}
 

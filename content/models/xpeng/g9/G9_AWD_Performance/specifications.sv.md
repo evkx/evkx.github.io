@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för XPENG G9 AWD Performan
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3.9 s
+				3,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				18.0 kWh/100km
+				18,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				21.3 kWh/100km
+				21,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -134,7 +134,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				93.6 kWh
+				93,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1059,7 +1059,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10.25
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -1067,7 +1067,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 14.96
+				Ja, 14,96
 			</td>
 		</tr>
 		<tr>
@@ -1075,7 +1075,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Ja, 14.96"
+				Ja, 14,96"
 			</td>
 		</tr>
 		<tr>

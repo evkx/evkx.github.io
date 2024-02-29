@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av BMW i7 M70 xDrive i avsnitt. Om du vill vän
 
 ## Prestanda
 
-BMW i7 M70 xDrive har en maximal effekt på 485 KW (659hk). Totalt vridmoment är 1015 Nm. Den gör sprinten 0-100 km/h på 3.7 sekunder. Topphastigheten är 250 km/h.
+BMW i7 M70 xDrive har en maximal effekt på 485 KW (659hk). Totalt vridmoment är 1015 Nm. Den gör sprinten 0-100 km/h på 3,7 sekunder. Topphastigheten är 250 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 105.7kWh och en nettokapacitet på 101.7kWh, vilket innebär att du har en 4.0kWh buffert för skydd. (3.8%).
+Batteriet har en bruttokapacitet på 105,7kWh och en nettokapacitet på 101,7kWh, vilket innebär att du har en 4,0kWh buffert för skydd. (3,8%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 560 till 488 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.2kWh/100 km för basversionen och 20.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 560 till 488 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18,2kWh/100 km för basversionen och 20,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 195 kW. En full laddning från 0 - 100 % tar 56 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 135kW. Varje laddningssession tar 23 minuter och 4 sekunder.
 
@@ -159,7 +159,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-BMW i7 M70 xDrive har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 14.9 tum och har en upplösning på 2880 x 1080 pixlar.
+BMW i7 M70 xDrive har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 14,9 tum och har en upplösning på 2880 x 1080 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

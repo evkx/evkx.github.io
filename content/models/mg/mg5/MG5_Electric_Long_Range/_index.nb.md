@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av MG MG5 Electric Long Range i seksjoner. Hvis du 
 
 ## Ytelse
 
-MG MG5 Electric Long Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t på 8.3 sekunder. Topphastigheten er 185 km/t.
+MG MG5 Electric Long Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t på 8,3 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 61.1kWh og en nettokapasitet på 57.4kWh, noe som betyr at du har et 3.7kWh-buffer for beskyttelse. (6.1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 61,1kWh og en nettokapasitet på 57,4kWh, noe som betyr at du har et 3,7kWh-buffer for beskyttelse. (6,1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 400 til 380 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.4kWh/100 km for basisversjonen og 15.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 400 til 380 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,4kWh/100 km for basisversjonen og 15,1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 87 kW. En full lading fra 0 - 100 % vil ta 75 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 67kW. Hver ladeøkt vil ta 26 minutter og 50 sekunder.
 
@@ -139,7 +139,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-MG MG5 Electric Long Range har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 7.0 tommer stor. touch-skjermen øverst på midtkonsollen er 10.3 tommer stor.
+MG MG5 Electric Long Range har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 7,0 tommer stor. touch-skjermen øverst på midtkonsollen er 10,3 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

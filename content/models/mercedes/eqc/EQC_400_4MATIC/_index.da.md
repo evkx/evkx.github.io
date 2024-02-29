@@ -29,13 +29,13 @@ Vi har opdelt vores Mercedes-EQ EQC 400 4MATIC artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Mercedes-EQ EQC 400 4MATIC har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 760 nm (561 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.1 sekunder. Tophastigheden er 180 km/t.
+Mercedes-EQ EQC 400 4MATIC har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 760 nm (561 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,1 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 86kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (7.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 86kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (7,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 432 til 400 km (269-249 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 18.5kWh/100 km for basisversionen og 20.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 432 til 400 km (269-249 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 18,5kWh/100 km for basisversionen og 20,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 112kW. En fuld opladning fra 0 - 100 % ville tage 67 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 37 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 82kW. Hver opladningssession ville tage 35 minutter og 30 sekunder.
 
@@ -121,7 +121,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Mercedes-EQ EQC 400 4MATIC har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 10.1 tommer stor og har en opløsning på 1540 x 720 pixels.
+Mercedes-EQ EQC 400 4MATIC har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 10,1 tommer stor og har en opløsning på 1540 x 720 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -178,7 +178,7 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2940 kg (6482 lbs), og med basisvægten på 2420 kg (5335 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2940 kg (6482 lbs), og med basisvægten på 2420 kg (5335 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 

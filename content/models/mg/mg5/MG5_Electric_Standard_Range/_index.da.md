@@ -29,13 +29,13 @@ Vi har opdelt vores MG MG5 Electric Standard Range artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-MG MG5 Electric Standard Range har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 280 nm (207 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.3 sekunder. Tophastigheden er 185 km/t.
+MG MG5 Electric Standard Range har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 280 nm (207 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,3 sekunder. Tophastigheden er 185 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 50.3kWh og en nettokapacitet på 46kWh, hvilket betyder, at du har en 4.3kWh buffer til beskyttelse. (8.5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 50,3kWh og en nettokapacitet på 46kWh, hvilket betyder, at du har en 4,3kWh buffer til beskyttelse. (8,5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 320 til 310 km (199-193 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.4kWh/100 km for basisversionen og 14.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 320 til 310 km (199-193 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,4kWh/100 km for basisversionen og 14,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 87kW. En fuld opladning fra 0 - 100 % ville tage 60 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 64kW. Hver opladningssession ville tage 25 minutter og 4 sekunder.
 
@@ -139,7 +139,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-MG MG5 Electric Standard Range har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 7.0 tommer stor. Skærmen touch øverst på midterkonsollen er 10.3 tommer stor.
+MG MG5 Electric Standard Range har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 7,0 tommer stor. Skærmen touch øverst på midterkonsollen er 10,3 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -182,7 +182,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 479 liter. Med bagsædet nede er det 1367 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2017 kg (4447 lbs), og med basisvægten på 1562 kg (3444 lbs), kan du maksimalt laste 455 kg (1003 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 479 liter. Med bagsædet nede er det 1367 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2017 kg (4447 lbs), og med basisvægten på 1562 kg (3444 lbs), kan du maksimalt laste 455 kg (1003 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 500, og på ubremset er den 500 kg (1102/1102 lbs).
 

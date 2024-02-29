@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Renault 5 E-Tech 52kWh
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7.9 s
+				7,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				13.0 kWh/100km
+				13,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				16.1 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -290,7 +290,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10.3 meter
+				10,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1058,7 +1058,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 10.1
+				Ja, 10,1
 			</td>
 		</tr>
 		<tr>

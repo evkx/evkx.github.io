@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Porsche Macan Turbo i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Med overboost har Porsche Macan Turbo en maksimal effekt på 470 KW (639hk). Uten overboost er den 430KW (585hk). Dreiemomentet er 1130 nm med overboost og 1130 uten overboost. Den utfører sprinten 0-100 km/t på 3.3 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Macan Turbo en maksimal effekt på 470 KW (639hk). Uten overboost er den 430KW (585hk). Dreiemomentet er 1130 nm med overboost og 1130 uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96.8kWh, noe som betyr at du har et 3.2kWh-buffer for beskyttelse. (3.2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 96,8kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (3,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 591 til 518 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.4kWh/100 km for basisversjonen og 18.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 591 til 518 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16,4kWh/100 km for basisversjonen og 18,7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 58 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 171kW. Hver ladeøkt vil ta 20 minutter og 22 sekunder.
 
@@ -167,7 +167,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-Porsche Macan Turbo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. touch-skjermen bak rattet integrert i dashbordet er 12.6 tommer stor. touch-skjermen øverst på midtkonsollen er 10.9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10.9 tommer stor.
+Porsche Macan Turbo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. touch-skjermen bak rattet integrert i dashbordet er 12,6 tommer stor. touch-skjermen øverst på midtkonsollen er 10,9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -243,7 +243,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 1/25/2024, og leveringene forventes å starte om August 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 25.01.2024, og leveringene forventes å starte om August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

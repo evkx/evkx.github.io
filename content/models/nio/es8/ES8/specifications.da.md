@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio ES8. Klik på 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.9 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				19.6 kWh/100km
+				19,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				19.6 kWh/100km
+				19,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -230,7 +230,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				70.5 kWh
+				70,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5022 mm (197.7")
+				5022 mm (197,7")
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1756 mm (69.1")
+				1756 mm (69,1")
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1962 mm (77.2")
+				1962 mm (77,2")
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3010 mm (118.5")
+				3010 mm (118,5")
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1668 mm (65.7")
+				1668 mm (65,7")
 			</td>
 		</tr>
 		<tr>
@@ -386,7 +386,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1672 mm (65.8")
+				1672 mm (65,8")
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0.29
+				0,29
 			</td>
 		</tr>
 	</tbody>
@@ -556,7 +556,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				161 mm (6.3")
+				161 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				111 mm (4.4")
+				111 mm (4,4")
 			</td>
 		</tr>
 		<tr>
@@ -1307,7 +1307,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 9.8
+				Ja, 9,8
 			</td>
 		</tr>
 		<tr>
@@ -1315,7 +1315,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 11.3"
+				Ja, 11,3"
 			</td>
 		</tr>
 		<tr>

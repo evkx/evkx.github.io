@@ -29,13 +29,13 @@ Vi har opdelt vores HiPhi X 6 Seater artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-HiPhi X 6 Seater har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 820 nm (605 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.9 sekunder.
+HiPhi X 6 Seater har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 820 nm (605 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 101kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 101kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 460 km (286 mi). Forbruget er 21.1kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 460 km (286 mi). Forbruget er 21,1kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 79 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 51%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 100kW. Hver opladningssession ville tage 27 minutter og 19 sekunder.
 
@@ -159,7 +159,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-HiPhi X 6 Seater har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 14.0 tommer stor. Skærmen touch øverst på midterkonsollen er 16.9 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 19.9 tommer stor.
+HiPhi X 6 Seater har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 14,0 tommer stor. Skærmen touch øverst på midterkonsollen er 16,9 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 19,9 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

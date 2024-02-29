@@ -10,7 +10,7 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The New Audi Q8 e-tron! Here Are The Updates For 2024</h3>
-<p>Out of Spec Reviews: 21/02/2021</p>
+<p>Out of Spec Reviews: 21.02.2021</p>
 
 {{< youtube VwxQ8fOMfNQ >}}
 

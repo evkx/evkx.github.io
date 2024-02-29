@@ -33,7 +33,7 @@ The Subaru Solterra AWD has a maximum power of 160 KW (218 hp/215 bhp). The tota
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 71.4kWh and a net capacity of 58kWh, meaning you have a 13.4kWh buffer for protection. (18.8%).
+The battery has a gross capacity of 71,4kWh and a net capacity of 58kWh, meaning you have a 13,4kWh buffer for protection. (18.8%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 466 to 416 km (290-259 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 12.4kWh/100km for the basic version and 13.9kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

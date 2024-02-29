@@ -232,7 +232,7 @@ The cargo capacity in the trunk is 561 liters. With the rear seat down, it is 12
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 4/1/2016, and deliveries started in July 2017. This models has now been discontined. This model has been replaced by [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">
+This model had a world premiere on 01.04.2016, and deliveries started in July 2017. This models has now been discontined. This model has been replaced by [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

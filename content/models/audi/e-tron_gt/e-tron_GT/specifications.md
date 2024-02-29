@@ -71,7 +71,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Clic
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.5 s
+				4,5 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Clic
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
-				4.1 s
+				4,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				17.2 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				17.2 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				18.7 kWh/100km
+				18,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				21.8 kwh/100km
+				21,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -174,7 +174,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				93.4 kWh
+				93,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -182,7 +182,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				83.7 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4989 mm (196.4")
+				4989 mm (196,4")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1396 mm (55.0")
+				1396 mm (55,0")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1964 mm (77.3")
+				1964 mm (77,3")
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2158 mm (85.0")
+				2158 mm (85,0")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2900 mm (114.2")
+				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1710 mm (67.3")
+				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1694 mm (66.7")
+				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.24
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2.35
+				2,35
 			</td>
 		</tr>
 		<tr>
@@ -456,7 +456,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle rear
 			</td>
 			<td>
-				16.4
+				16,4
 			</td>
 		</tr>
 		<tr>
@@ -464,7 +464,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.6 meter (456.7")
+				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
@@ -598,7 +598,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				145 mm (5.7")
+				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +606,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				145 mm (5.7")
+				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +719,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				165 mm (6.5")
+				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +727,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				125 mm (4.9")
+				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
@@ -1561,7 +1561,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12.3
+				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1569,7 +1569,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10.1"
+				Yes, 10,1"
 			</td>
 		</tr>
 		<tr>

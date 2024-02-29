@@ -35,13 +35,13 @@ Denne model er blevet erstattet af [Volkswagen ID.5 Pro](/models/volkswagen/id.5
 
 ## Ydeevne
 
-Volkswagen ID.5 Pro Performance har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8.4 sekunder. Tophastigheden er 160 km/t.
+Volkswagen ID.5 Pro Performance har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,4 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.1%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 529 til 409 km (329-254 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.6kWh/100 km for basisversionen og 18.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 529 til 409 km (329-254 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,6kWh/100 km for basisversionen og 18,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
 
@@ -175,9 +175,9 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på Volkswagen ID.5 Pro Performance.
 
-Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.0 tommer stor. Skærmen touch i dashboardets midte er 10.0 tommer stor.
+Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 10,0 tommer stor.
 
-Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.0 tommer stor. Skærmen touch i dashboardets midte er 12.0 tommer stor og har en opløsning på 1920 x 869 pixels.
+Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,0 tommer stor og har en opløsning på 1920 x 869 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -242,7 +242,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 549 liter. Med bagsædet nede er det 1561 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 549 liter. Med bagsædet nede er det 1561 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 

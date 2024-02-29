@@ -29,17 +29,17 @@ Vi har opdelt vores Volkswagen ID.7 Pro artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Volkswagen ID.7 Pro har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 550 nm (406 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.5 sekunder. Tophastigheden er 180 km/t.
+Volkswagen ID.7 Pro har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 550 nm (406 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.1%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 615 til 550 km (382-342 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.5kWh/100 km for basisversionen og 14.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 615 til 550 km (382-342 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12,5kWh/100 km for basisversionen og 14,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 175kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
+Den maksimale DC-opladningshastighed er 175kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 123kW. Hver opladningssession ville tage 19 minutter og 12 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19kWh/100 km, vil 1000 km tage 9 timer og 27 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 3 % til 40%. Den samlede tid, der går tabt for at oplade batteriet, vil være 68 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19kWh/100 km, vil 1000 km tage 9 timer og 15 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 4 % til 53%. Den samlede tid, der går tabt for at oplade batteriet, vil være 55 minutter.
 
 ### Indbygget oplader
 
@@ -165,7 +165,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Volkswagen ID.7 Pro har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.0 tommer stor. Skærmen touch i dashboardets midte er 15.0 tommer stor.
+Volkswagen ID.7 Pro har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 15,0 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -230,7 +230,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 542 liter. Med bagsædet nede er det 1575 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2630 kg (5798 lbs), og med basisvægten på 2152 kg (4744 lbs), kan du maksimalt laste 478 kg (1054 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 542 liter. Med bagsædet nede er det 1575 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2630 kg (5798 lbs), og med basisvægten på 2152 kg (4744 lbs), kan du maksimalt laste 478 kg (1054 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 

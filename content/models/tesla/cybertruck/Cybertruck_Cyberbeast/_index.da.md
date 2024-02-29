@@ -29,17 +29,17 @@ Vi har opdelt vores Tesla Cybertruck Cyberbeast artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Tesla Cybertruck Cyberbeast har en maksimal effekt på 630 KW (857 hk/845 hk). Det samlede drejningsmoment er 930 nm (686 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.7 sekunder. Tophastigheden er 209 km/t.
+Tesla Cybertruck Cyberbeast har en maksimal effekt på 630 KW (857 hk/845 hk). Det samlede drejningsmoment er 930 nm (686 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,7 sekunder. Tophastigheden er 209 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 123kWh og en nettokapacitet på 122.5kWh, hvilket betyder, at du har en 0.5kWh buffer til beskyttelse. (0.4%).
+Batteriet har en bruttokapacitet på 123kWh og en nettokapacitet på 122,5kWh, hvilket betyder, at du har en 0,5kWh buffer til beskyttelse. (0,4%).
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 320 miles (515 km). Forbruget er 2.6mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 320 miles (515 km). Forbruget er 2,6mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 77 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 37%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 157kW. Hver opladningssession ville tage 17 minutter og 22 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 32.5kWh/100 km, vil 1000 km tage 9 timer og 39 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 0 % til 42%. Den samlede tid, der går tabt for at oplade batteriet, vil være 79 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 32,5kWh/100 km, vil 1000 km tage 9 timer og 39 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 0 % til 42%. Den samlede tid, der går tabt for at oplade batteriet, vil være 79 minutter.
 
 ### Indbygget oplader
 
@@ -151,7 +151,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Tesla Cybertruck Cyberbeast har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 18.5 tommer stor.
+Tesla Cybertruck Cyberbeast har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 18,5 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -221,7 +221,7 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1897.23 liter. Ladebredden er 1295 mm, og længden er 1849 mm. Den maksimale lastvægt i lad er 1134 kg. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 201 liter (7.1 CU FT). Bilens maksimale vægt er 4159 kg (9169 lbs), og med basisvægten på 3104 kg (6843 lbs), kan du maksimalt laste 1055 kg (2326 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastkapaciteten i lastbilens lad er 1897,23 liter. Ladebredden er 1295 mm, og længden er 1849 mm. Den maksimale lastvægt i lad er 1134 kg. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 201 liter (7,1 CU FT). Bilens maksimale vægt er 4159 kg (9169 lbs), og med basisvægten på 3104 kg (6843 lbs), kan du maksimalt laste 1055 kg (2326 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 4990, og på ubremset er den 750 kg (11000/1653 lbs).
 
@@ -230,7 +230,7 @@ Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt p�
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 11/30/2023, og leveringerne startede i November 2023. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 30.11.2023, og leveringerne startede i November 2023. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
 </a>

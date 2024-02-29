@@ -29,13 +29,13 @@ Vi har opdelt vores CUPRA BORN 58 e-BOOST artikel i sektioner. Hvis du vil vente
 
 ## Ydeevne
 
-Med overboost har CUPRA BORN 58 e-BOOST en maksimal effekt på 170 KW (231 hk / 204 bhp). Uden overboost er den 150 KW (204 hk / 228 hk). Momentet er 310 nm med overboost og 310 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 6.6 sekunder med overboost og 7.3 sekunder uden overboost. Tophastigheden er 160 km/t.
+Med overboost har CUPRA BORN 58 e-BOOST en maksimal effekt på 170 KW (231 hk / 204 bhp). Uden overboost er den 150 KW (204 hk / 228 hk). Momentet er 310 nm med overboost og 310 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 6,6 sekunder med overboost og 7,3 sekunder uden overboost. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 62kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (6.5%).
+Batteriet har en bruttokapacitet på 62kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (6,5%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 420 til 362 km (261-225 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.8kWh/100 km for basisversionen og 16.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 420 til 362 km (261-225 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13,8kWh/100 km for basisversionen og 16,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 120kW. En fuld opladning fra 0 - 100 % ville tage 63 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 77kW. Hver opladningssession ville tage 19 minutter og 28 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-CUPRA BORN 58 e-BOOST har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.0 tommer stor. Skærmen touch i dashboardets midte er 12.0 tommer stor og har en opløsning på 1920 x 869 pixels.
+CUPRA BORN 58 e-BOOST har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,0 tommer stor og har en opløsning på 1920 x 869 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -212,7 +212,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0.0 lbs). Bilens maksimale vægt er 2280 kg (5027 lbs), og med basisvægten på 1785 kg (3935 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2280 kg (5027 lbs), og med basisvægten på 1785 kg (3935 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

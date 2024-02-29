@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Cl
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3.9 s
+				3,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				21.1 kWh/100km
+				21,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -210,7 +210,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5200 mm (204.7")
+				5200 mm (204,7")
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1618 mm (63.7")
+				1618 mm (63,7")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3150 mm (124.0")
+				3150 mm (124,0")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.6 meter (456.7")
+				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
@@ -348,7 +348,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				200 mm (7.9")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				150 mm (5.9")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -989,7 +989,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 16.9"
+				Yes, 16,9"
 			</td>
 		</tr>
 		<tr>
@@ -997,7 +997,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 19.9"
+				Yes, 19,9"
 			</td>
 		</tr>
 		<tr>

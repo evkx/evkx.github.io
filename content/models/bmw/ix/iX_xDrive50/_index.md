@@ -33,7 +33,7 @@ The BMW iX xDrive50 has a maximum power of 385 KW (524 hp/516 bhp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 111kWh and a net capacity of 105.2kWh, meaning you have a 5.8kWh buffer for protection. (5.2%).
+The battery has a gross capacity of 111kWh and a net capacity of 105,2kWh, meaning you have a 5,8kWh buffer for protection. (5.2%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 631 to 550 km (392-342 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.7kWh/100km for the basic version and 19.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

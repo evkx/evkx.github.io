@@ -29,13 +29,13 @@ Vi har opdelt vores SKODA Enyaq iV80x artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-SKODA Enyaq iV80x har en maksimal effekt på 195 KW (265 hk/262 hk). Det samlede drejningsmoment er 425 nm (314 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.9 sekunder. Tophastigheden er 160 km/t.
+SKODA Enyaq iV80x har en maksimal effekt på 195 KW (265 hk/262 hk). Det samlede drejningsmoment er 425 nm (314 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,9 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6.1%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 504 km (313 mi). Forbruget er 15.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 504 km (313 mi). Forbruget er 15,3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
 
@@ -167,7 +167,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-SKODA Enyaq iV80x har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.3 tommer stor. Skærmen touch i dashboardets midte er 13.0 tommer stor.
+SKODA Enyaq iV80x har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,3 tommer stor. Skærmen touch i dashboardets midte er 13,0 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -229,7 +229,7 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 585 liter. Med bagsædet nede er det 1710 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2750 kg (6063 lbs), og med basisvægten på 2117 kg (4667 lbs), kan du maksimalt laste 633 kg (1396 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 585 liter. Med bagsædet nede er det 1710 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2750 kg (6063 lbs), og med basisvægten på 2117 kg (4667 lbs), kan du maksimalt laste 633 kg (1396 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
 
@@ -238,7 +238,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 1/1/2020, og leveringerne startede i March 2021. Denne model er nu udgået.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 01.01.2020, og leveringerne startede i March 2021. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

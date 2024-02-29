@@ -54,7 +54,7 @@ The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 3
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.5kWh/100km, 1000km will take 9 hours and 35 minutes. This trip will require four charge session(s) charging from 0% to 64%. The total time lost for charging up the battery will be 75 minutes.
 ### NMC 4850 US Market
 
-The battery has a gross capacity of 70kWh and a net capacity of 68.5kWh, meaning you have a 1.5kWh buffer for protection. (2.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 70kWh and a net capacity of 68,5kWh, meaning you have a 1,5kWh buffer for protection. (2.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 430 km (267 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -255,7 +255,7 @@ The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 21
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 3/19/2019, and deliveries started in March 2020.<div class="mt-3 mb-3">
+This model had a world premiere on 19.03.2019, and deliveries started in March 2020.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

@@ -33,7 +33,7 @@ The Kia EV9 RWD has a maximum power of 160 KW (218 hp/215 bhp). The total torque
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 76.1kWh and a net capacity of 75kWh, meaning you have a 1.1kWh buffer for protection. (1.4%).
+The battery has a gross capacity of 76,1kWh and a net capacity of 75kWh, meaning you have a 1,1kWh buffer for protection. (1.4%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 443 km (275 mi). The consumption is 16.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

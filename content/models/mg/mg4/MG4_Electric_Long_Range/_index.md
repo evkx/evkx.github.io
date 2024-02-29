@@ -33,7 +33,7 @@ The MG MG4 Electric Long Range has a maximum power of 150 KW (204 hp/201 bhp). T
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 64kWh and a net capacity of 61.7kWh, meaning you have a 2.3kWh buffer for protection. (3.6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 64kWh and a net capacity of 61,7kWh, meaning you have a 2,3kWh buffer for protection. (3.6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 435 km (270 mi). The consumption is 14.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

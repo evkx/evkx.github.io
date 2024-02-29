@@ -33,7 +33,7 @@ With overboost, the Fisker Ocean Extreme has a maximum power of 415 KW (564 hp /
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 113kWh and a net capacity of 106.5kWh, meaning you have a 6.5kWh buffer for protection. (5.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 113kWh and a net capacity of 106,5kWh, meaning you have a 6,5kWh buffer for protection. (5.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 707 to 701 km (439-436 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.1kWh/100km for the basic version and 15.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

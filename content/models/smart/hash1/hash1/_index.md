@@ -212,7 +212,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 4/7/2022, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 07.04.2022, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #1 </strong>
 </a>

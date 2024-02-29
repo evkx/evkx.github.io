@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av BYD Atto 3 i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-BYD Atto 3 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7.3 sekunder. Topphastigheten er 160 km/t.
+BYD Atto 3 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60.5kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 2.5kWh-buffer for beskyttelse. (4.1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 60,5kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 2,5kWh-buffer for beskyttelse. (4,1%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 420 km. Forbruket er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 420 km. Forbruket er 13,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 88 kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 67kW. Hver ladeøkt vil ta 32 minutter og 40 sekunder.
 
@@ -153,9 +153,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på BYD Atto 3.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 12.8 tommer stor.
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 12,8 tommer stor.
 
-Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 15.6 tommer stor.
+Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 15,6 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Tesla Model 3 i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Tesla Model 3 har en maximal effekt på 208 KW (283hk). Totalt vridmoment är 420 Nm. Den gör sprinten 0-100 km/h på 6.1 sekunder. Topphastigheten är 225 km/h.
+Tesla Model 3 har en maximal effekt på 208 KW (283hk). Totalt vridmoment är 420 Nm. Den gör sprinten 0-100 km/h på 6,1 sekunder. Topphastigheten är 225 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 60kWh och en nettokapacitet på 59kWh, vilket innebär att du har en 1kWh buffert för skydd. (1.7%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 60kWh och en nettokapacitet på 59kWh, vilket innebär att du har en 1kWh buffert för skydd. (1,7%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 513 km. Förbrukningen är 11.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 513 km. Förbrukningen är 11,5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 70 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 49%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 83kW. Varje laddningssession tar 20 minuter och 31 sekunder.
 
@@ -144,7 +144,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Tesla Model 3 har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen  i mitten av instrumentbrädan är 15.0 tum och har en upplösning på 2200 x 1300 pixlar.
+Tesla Model 3 har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen  i mitten av instrumentbrädan är 15,0 tum och har en upplösning på 2200 x 1300 pixlar.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -223,7 +223,7 @@ Lastkapaciteten i bagageutrymmet är 593 liter. Med baksätet nedfällt är det 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1000, och på obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 10/1/2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 01.10.2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

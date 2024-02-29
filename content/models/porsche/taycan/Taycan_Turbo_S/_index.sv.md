@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Porsche Taycan Turbo S i avsnitt. Om du vill
 
 ## Prestanda
 
-Med overboost har Porsche Taycan Turbo S en maximal effekt på 700 KW (952hk). Utan overboost är det 620KW (843hp). Vridmomentet är 1110 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 2.4 sekunder. Topphastigheten är 260 km/h.
+Med overboost har Porsche Taycan Turbo S en maximal effekt på 700 KW (952hk). Utan overboost är det 620KW (843hp). Vridmomentet är 1110 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 2,4 sekunder. Topphastigheten är 260 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 105kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 105kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 630 till 558 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.4kWh/100 km för basversionen och 17.4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 630 till 558 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15,4kWh/100 km för basversionen och 17,4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 320 kW. En full laddning från 0 - 100 % tar 46 minuter, medan ett vanligare scenario på 10-80 % tar 15 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 212kW. Varje laddningssession tar 18 minuter och 32 sekunder.
 
@@ -174,7 +174,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Porsche Taycan Turbo S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 16.8 tum. Skärmen touch översta mittkonsolen är 10.9 tum. Skärmen touch botten av mittkonsolen är 8.4 tum. Skärmen touch framför passageraren i instrumentbrädan är 10.9 tum.
+Porsche Taycan Turbo S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 16,8 tum. Skärmen touch översta mittkonsolen är 10,9 tum. Skärmen touch botten av mittkonsolen är 8,4 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

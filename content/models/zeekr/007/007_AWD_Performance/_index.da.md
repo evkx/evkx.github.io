@@ -29,13 +29,13 @@ Vi har opdelt vores Zeekr 007 AWD Performance artikel i sektioner. Hvis du vil v
 
 ## Ydeevne
 
-Zeekr 007 AWD Performance har en maksimal effekt på 475 KW (646 hk/637 hk). Det samlede drejningsmoment er 710 nm (524 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.84 sekunder. Tophastigheden er 200 km/t.
+Zeekr 007 AWD Performance har en maksimal effekt på 475 KW (646 hk/637 hk). Det samlede drejningsmoment er 710 nm (524 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,84 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 95kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 95kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 660 km ( miles). Forbruget er 14.4kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 660 km ( miles). Forbruget er 14,4kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 57 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 27 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 58%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 134kW. Hver opladningssession ville tage 23 minutter og 54 sekunder.
 
@@ -144,7 +144,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Zeekr 007 AWD Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 13.0 tommer stor. Skærmen touch øverst på midterkonsollen er 15.0 tommer stor.
+Zeekr 007 AWD Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 13,0 tommer stor. Skærmen touch øverst på midterkonsollen er 15,0 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -197,12 +197,12 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 462 liter. Med bagsædet nede er det 1300 liter. På taget kan du laste op til 100 kg (220.5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1.1 CU FT). Bilens maksimale vægt er 2800 kg (6173 lbs), og med basisvægten på 2200 kg (4850 lbs), kan du maksimalt laste 600 kg (1323 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 462 liter. Med bagsædet nede er det 1300 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1,1 CU FT). Bilens maksimale vægt er 2800 kg (6173 lbs), og med basisvægten på 2200 kg (4850 lbs), kan du maksimalt laste 600 kg (1323 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 12/27/2023, og leveringerne startede i January 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 27.12.2023, og leveringerne startede i January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 007 </strong>
 </a>

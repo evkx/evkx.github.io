@@ -33,9 +33,9 @@ Citroën ë-C3 har en maximal effekt på 83 KW (113hk). Totalt vridmoment är  N
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 44kWh och en nettokapacitet på 43kWh, vilket innebär att du har en 1kWh buffert för skydd. (2.3%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 44kWh och en nettokapacitet på 43kWh, vilket innebär att du har en 1kWh buffert för skydd. (2,3%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 320 km. Förbrukningen är 13.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 320 km. Förbrukningen är 13,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 64 minuter, medan ett vanligare scenario på 10-80 % tar 25 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 13% till 69%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 64kW. Varje laddningssession tar 23 minuter och 34 sekunder.
 
@@ -142,7 +142,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Citroën ë-C3 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 5.0 tum. Skärmen touch översta mittkonsolen är 10.3 tum.
+Citroën ë-C3 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 5,0 tum. Skärmen touch översta mittkonsolen är 10,3 tum.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -194,7 +194,7 @@ Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn m
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 10/17/2023 och leveranser förväntas starta om May 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 17.10.2023 och leveranser förväntas starta om May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Citroën ë-C3 </strong>
 </a>

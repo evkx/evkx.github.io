@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Kia EV9 Long Range RWD i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Kia EV9 Long Range RWD har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 9.4 sekunder. Topphastigheten er 185 km/t.
+Kia EV9 Long Range RWD har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 350 nm. Den utfører sprinten 0-100 km/t på 9,4 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 99.8kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 1.8kWh-buffer for beskyttelse. (1.8%).
+Batteriet har en bruttokapasitet på 99,8kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 1,8kWh-buffer for beskyttelse. (1,8%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 563 km. Forbruket er 17.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 563 km. Forbruket er 17,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 71%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 161kW. Hver ladeøkt vil ta 26 minutter og 38 sekunder.
 
@@ -168,7 +168,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Kia EV9 Long Range RWD har tre skjermer på en delt ramme montert med braketter på dashbordet. -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor. touch-skjermen i den midtre delen av den delte rammen er 5.3 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor.
+Kia EV9 Long Range RWD har tre skjermer på en delt ramme montert med braketter på dashbordet. -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor. touch-skjermen i den midtre delen av den delte rammen er 5,3 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

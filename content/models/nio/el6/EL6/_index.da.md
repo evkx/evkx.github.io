@@ -29,25 +29,25 @@ Vi har opdelt vores Nio EL6 artikel i sektioner. Hvis du vil vente med at læse 
 
 ## Ydeevne
 
-Nio EL6 har en maksimal effekt på 480 KW (653 hk/644 hk). Det samlede drejningsmoment er 850 nm (627 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.5 sekunder. Tophastigheden er 200 km/t.
+Nio EL6 har en maksimal effekt på 480 KW (653 hk/644 hk). Det samlede drejningsmoment er 850 nm (627 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
 Nio EL6 har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
 ### 100kWh
 
-Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 90kWh, hvilket betyder, at du har en 10kWh buffer til beskyttelse. (10.0%).
+Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 90kWh, hvilket betyder, at du har en 10kWh buffer til beskyttelse. (10,0%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 513 til 486 km (319-302 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.5kWh/100 km for basisversionen og 18.5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 513 til 486 km (319-302 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17,5kWh/100 km for basisversionen og 18,5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 126kW. En fuld opladning fra 0 - 100 % ville tage 75 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 44%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 86kW. Hver opladningssession ville tage 27 minutter og 2 sekunder.
 
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28kWh/100 km, vil 1000 km tage 10 timer og 34 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 1 % til 54%. Den samlede tid, der går tabt for at oplade batteriet, vil være 134 minutter.
 ### 75kWh
 
-Batteriet har en bruttokapacitet på 75kWh og en nettokapacitet på 70.5kWh, hvilket betyder, at du har en 4.5kWh buffer til beskyttelse. (6.0%).
+Batteriet har en bruttokapacitet på 75kWh og en nettokapacitet på 70,5kWh, hvilket betyder, at du har en 4,5kWh buffer til beskyttelse. (6,0%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 394 til 372 km (245-231 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.5kWh/100 km for basisversionen og 18.5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 394 til 372 km (245-231 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17,5kWh/100 km for basisversionen og 18,5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 140kW. En fuld opladning fra 0 - 100 % ville tage 65 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 74%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 77kW. Hver opladningssession ville tage 37 minutter og 57 sekunder.
 
@@ -164,7 +164,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 10.2 tommer stor. Skærmen touch i midten af midterkonsollen er 12.8 tommer stor.
+Skærmen  bag rattet monteret i instrumentbrættet er 10,2 tommer stor. Skærmen touch i midten af midterkonsollen er 12,8 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -228,7 +228,7 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 668 liter. Med bagsædet nede er det 1430 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2366 kg (5216 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 484kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 668 liter. Med bagsædet nede er det 1430 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2366 kg (5216 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 484kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
 

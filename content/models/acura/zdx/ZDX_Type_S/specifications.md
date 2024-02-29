@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Acura ZDX Type S. Cl
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.6 s
+				4,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				2.8 mi/kWh
+				2,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -210,7 +210,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5022 mm (197.7")
+				5022 mm (197,7")
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1636 mm (64.4")
+				1636 mm (64,4")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1956 mm (77.0")
+				1956 mm (77,0")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				3094 mm (121.8")
+				3094 mm (121,8")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12.1 meter (476.4")
+				12,1 meter (476,4")
 			</td>
 		</tr>
 	</tbody>
@@ -364,7 +364,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				178 mm (7.0")
+				178 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				178 mm (7.0")
+				178 mm (7,0")
 			</td>
 		</tr>
 		<tr>
@@ -994,7 +994,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 11.3"
+				Yes, 11,3"
 			</td>
 		</tr>
 		<tr>

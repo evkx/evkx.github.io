@@ -29,13 +29,13 @@ Vi har opdelt vores Smart #1 artikel i sektioner. Hvis du vil vente med at læse
 
 ## Ydeevne
 
-Smart #1 har en maksimal effekt på 315 KW (428 hk/422 hk). Det samlede drejningsmoment er 584 nm (431 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.9 sekunder. Tophastigheden er 180 km/t.
+Smart #1 har en maksimal effekt på 315 KW (428 hk/422 hk). Det samlede drejningsmoment er 584 nm (431 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 66kWh og en nettokapacitet på 62kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (6.1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 66kWh og en nettokapacitet på 62kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (6,1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 440 til 420 km (274-261 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.1kWh/100 km for basisversionen og 14.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 440 til 420 km (274-261 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,1kWh/100 km for basisversionen og 14,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 80 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 89kW. Hver opladningssession ville tage 20 minutter og 29 sekunder.
 
@@ -142,7 +142,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 10.0 tommer stor. Skærmen touch øverst på midterkonsollen er 12.8 tommer stor.
+Skærmen  bag rattet monteret i instrumentbrættet er 10,0 tommer stor. Skærmen touch øverst på midterkonsollen er 12,8 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -203,7 +203,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 313 liter. Med bagsædet nede er det 976 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 15 liter (0.5 CU FT). Bilens maksimale vægt er 2213 kg (4879 lbs), og med basisvægten på 1788 kg (3942 lbs), kan du maksimalt laste 425 kg (937 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 313 liter. Med bagsædet nede er det 976 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 15 liter (0,5 CU FT). Bilens maksimale vægt er 2213 kg (4879 lbs), og med basisvægten på 1788 kg (3942 lbs), kan du maksimalt laste 425 kg (937 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 
@@ -212,7 +212,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 4/7/2022, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 07.04.2022, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #1 </strong>
 </a>

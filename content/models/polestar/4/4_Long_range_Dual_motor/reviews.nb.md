@@ -10,21 +10,21 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 4 first impressions</h3>
-<p>Bjørn Nyland: 12/02/2024</p>
+<p>Bjørn Nyland: 12.02.2024</p>
 
 {{< youtube L7orNjOhxg8 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 4 - fighting the Macan EV without a rear window! REVIEW</h3>
-<p>Autogefühl: 31/01/2024</p>
+<p>Autogefühl: 31.01.2024</p>
 
 {{< youtube 5XNLSMI3__Y >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST LOOK: 2024 Polestar 4 - No looking back? Inside Polestar’s crazy newcomer</h3>
-<p>Electrifying: 31/01/2024</p>
+<p>Electrifying: 31.01.2024</p>
 
 {{< youtube 75yfV88uei8 >}}
 

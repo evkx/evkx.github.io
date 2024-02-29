@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av Tesla Model S i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Tesla Model S har en maksimal effekt på 493 KW (670hk). Totalt dreiemoment er 800 nm. Den utfører sprinten 0-100 km/t på 3.2 sekunder. Topphastigheten er 250 km/t.
+Tesla Model S har en maksimal effekt på 493 KW (670hk). Totalt dreiemoment er 800 nm. Den utfører sprinten 0-100 km/t på 3,2 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 104.96kWh og en nettokapasitet på 96kWh, noe som betyr at du har et 8.96kWh-buffer for beskyttelse. (8.5%).
+Batteriet har en bruttokapasitet på 104,96kWh og en nettokapasitet på 96kWh, noe som betyr at du har et 8,96kWh-buffer for beskyttelse. (8,5%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 649 til 634 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.8kWh/100 km for basisversjonen og 15.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 649 til 634 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,8kWh/100 km for basisversjonen og 15,1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 143kW. Hver ladeøkt vil ta 16 minutter og 9 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19.7kWh/100km, vil 1000km ta 9 timer og 3 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 8% til 44%. Totalt tapt tid for å lade opp batteriet vil være 44 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,7kWh/100km, vil 1000km ta 9 timer og 3 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 8% til 44%. Totalt tapt tid for å lade opp batteriet vil være 44 minutter.
 
 ### Ombordlader
 
@@ -144,7 +144,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Model S har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum er 17.0 tommer stor og har en oppløsning på 2200 x 1300 piksler. touch-skjermen i den bakre midtkonsollen er 8.0 tommer stor.
+Tesla Model S har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum er 17,0 tommer stor og har en oppløsning på 2200 x 1300 piksler. touch-skjermen i den bakre midtkonsollen er 8,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

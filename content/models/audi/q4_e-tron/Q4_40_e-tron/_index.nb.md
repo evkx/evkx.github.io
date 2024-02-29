@@ -35,13 +35,13 @@ Denne modellen er erstattet av [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_
 
 ## Ytelse
 
-Audi Q4 40 e-tron har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 8.5 sekunder. Topphastigheten er 160 km/t.
+Audi Q4 40 e-tron har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 8,5 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 76.6kWh, noe som betyr at du har et 5.4kWh-buffer for beskyttelse. (6.6%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 76,6kWh, noe som betyr at du har et 5,4kWh-buffer for beskyttelse. (6,6%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 521 til 447 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.7kWh/100 km for basisversjonen og 17.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 521 til 447 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,7kWh/100 km for basisversjonen og 17,1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 24 minutter og 11 sekunder.
 
@@ -176,7 +176,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Audi Q4 40 e-tron har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10.2 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10.1 tommer stor og har en oppløsning på 1540 x 720 piksler.
+Audi Q4 40 e-tron har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 10,2 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10,1 tommer stor og har en oppløsning på 1540 x 720 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -253,7 +253,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 4/14/2021, og leveringene startet i January 2022. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron).<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i January 2022. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

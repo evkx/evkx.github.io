@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av HiPhi Z 5 Seater i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-HiPhi Z 5 Seater har en maximal effekt på 494 KW (672hk). Totalt vridmoment är 820 Nm. Den gör sprinten 0-100 km/h på 3.8 sekunder.
+HiPhi Z 5 Seater har en maximal effekt på 494 KW (672hk). Totalt vridmoment är 820 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 125kWh och en nettokapacitet på 120kWh, vilket innebär att du har en 5kWh buffert för skydd. (4.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 125kWh och en nettokapacitet på 120kWh, vilket innebär att du har en 5kWh buffert för skydd. (4,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 555 km. Förbrukningen är 21.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 555 km. Förbrukningen är 21,6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 98 minuter, medan ett vanligare scenario på 10-80 % tar 50 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 47%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 104kW. Varje laddningssession tar 30 minuter och 46 sekunder.
 
@@ -155,7 +155,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-HiPhi Z 5 Seater har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 15.0 tum.
+HiPhi Z 5 Seater har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 15,0 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

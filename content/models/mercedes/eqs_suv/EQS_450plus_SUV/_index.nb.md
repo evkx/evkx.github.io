@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQS 450+ SUV i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Mercedes-EQ EQS 450+ SUV har en maksimal effekt på 265 KW (360hk). Totalt dreiemoment er 568 nm. Den utfører sprinten 0-100 km/t på 6.7 sekunder. Topphastigheten er 210 km/t.
+Mercedes-EQ EQS 450+ SUV har en maksimal effekt på 265 KW (360hk). Totalt dreiemoment er 568 nm. Den utfører sprinten 0-100 km/t på 6,7 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 108.4kWh, noe som betyr at du har et 11.6kWh-buffer for beskyttelse. (9.7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 120kWh og en nettokapasitet på 108,4kWh, noe som betyr at du har et 11,6kWh-buffer for beskyttelse. (9,7%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 672 til 540 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.1kWh/100 km for basisversjonen og 20.1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 672 til 540 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16,1kWh/100 km for basisversjonen og 20,1kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 142kW. Hver ladeøkt vil ta 26 minutter og 41 sekunder.
 
@@ -181,9 +181,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på Mercedes-EQ EQS 450+ SUV.
 
-Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet montert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i midten av midtkonsollen er 12.8 tommer stor og har en oppløsning på 1888x1728 piksler.
+Standardoppsettet har følgende konfigurasjon. -skjermen bak rattet montert i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i midten av midtkonsollen er 12,8 tommer stor og har en oppløsning på 1888x1728 piksler.
 
-Det valgfrie MBUX Hyperscreen-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17.7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12.3 tommer stor og har en oppløsning på 2400x900 piksler.
+Det valgfrie MBUX Hyperscreen-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17,7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

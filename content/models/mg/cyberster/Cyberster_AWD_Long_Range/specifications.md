@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for MG Cyberster AWD Lon
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3.2 s
+				3,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				14.3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				74.4 kWh
+				74,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4535 mm (178.5")
+				4535 mm (178,5")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1325 mm (52.2")
+				1325 mm (52,2")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1913 mm (75.3")
+				1913 mm (75,3")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2690 mm (105.9")
+				2690 mm (105,9")
 			</td>
 		</tr>
 	</tbody>
@@ -380,7 +380,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				120 mm (4.7")
+				120 mm (4,7")
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +388,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				120 mm (4.7")
+				120 mm (4,7")
 			</td>
 		</tr>
 		<tr>

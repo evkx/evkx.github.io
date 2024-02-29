@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Acura ZDX Type S. Klic
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4.6 s
+				4,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				2.8 mi/kWh
+				2,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -242,7 +242,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				12.1 meter
+				12,1 meter
 			</td>
 		</tr>
 	</tbody>
@@ -994,7 +994,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 11.3
+				Ja, 11,3
 			</td>
 		</tr>
 		<tr>

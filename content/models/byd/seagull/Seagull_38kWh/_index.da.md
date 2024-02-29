@@ -33,9 +33,9 @@ BYD Seagull 38kWh har en maksimal effekt på 55 KW (75 hk/74 hk). Det samlede dr
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 38.8kWh og en nettokapacitet på 37kWh, hvilket betyder, at du har en 1.8kWh buffer til beskyttelse. (4.6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 38,8kWh og en nettokapacitet på 37kWh, hvilket betyder, at du har en 1,8kWh buffer til beskyttelse. (4,6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 405 km ( miles). Forbruget er 9.1kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 405 km ( miles). Forbruget er 9,1kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 40kW. En fuld opladning fra 0 - 100 % ville tage 84 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 42 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 12% til 75%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 33kW. Hver opladningssession ville tage 42 minutter og 9 sekunder.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 6.6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 36 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 6,6 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 5 timer og 36 minutter.
 
 ### Ladeport
 
@@ -141,7 +141,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-BYD Seagull 38kWh har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 7.0 tommer stor. Skærmen touch i dashboardets midte er 10.1 tommer stor.
+BYD Seagull 38kWh har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 7,0 tommer stor. Skærmen touch i dashboardets midte er 10,1 tommer stor.
 Modellen har ikke et head-up display.
 
 

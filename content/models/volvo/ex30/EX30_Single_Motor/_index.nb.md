@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Volvo EX30 Single Motor i seksjoner. Hvis du vil
 
 ## Ytelse
 
-Volvo EX30 Single Motor har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 5.3 sekunder. Topphastigheten er 180 km/t.
+Volvo EX30 Single Motor har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 5,3 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 49kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (3.9%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 51kWh og en nettokapasitet på 49kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (3,9%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 344 km. Forbruket er 14.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 344 km. Forbruket er 14,2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 153 kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 56%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 84kW. Hver ladeøkt vil ta 18 minutter og 15 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EX30 Single Motor har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 12.3 tommer stor.
+Volvo EX30 Single Motor har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 12,3 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

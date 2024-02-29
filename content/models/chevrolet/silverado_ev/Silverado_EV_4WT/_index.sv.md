@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Chevrolet Silverado EV 4WT i avsnitt. Om du 
 
 ## Prestanda
 
-Chevrolet Silverado EV 4WT har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 834 Nm. Den gör sprinten 0-100 km/h på 4.5 sekunder. Topphastigheten är 170 km/h.
+Chevrolet Silverado EV 4WT har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 834 Nm. Den gör sprinten 0-100 km/h på 4,5 sekunder. Topphastigheten är 170 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 220kWh och en nettokapacitet på 213kWh, vilket innebär att du har en 7kWh buffert för skydd. (3.2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 220kWh och en nettokapacitet på 213kWh, vilket innebär att du har en 7kWh buffert för skydd. (3,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 450 miles (724 km). Förbrukningen är 2.1mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 450 miles (724 km). Förbrukningen är 2,1mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 139 minuter, medan ett vanligare scenario på 10-80 % tar 48 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 52%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 245kW. Varje laddningssession tar 27 minuter och 39 sekunder.
 
@@ -146,7 +146,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Chevrolet Silverado EV 4WT har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5.0 tum och har en upplösning på 2400x900 pixlar. Skärmen touch i mitten av instrumentbrädan är 11.0 tum och har en upplösning på 1888x1728 pixlar.
+Chevrolet Silverado EV 4WT har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum och har en upplösning på 2400x900 pixlar. Skärmen touch i mitten av instrumentbrädan är 11,0 tum och har en upplösning på 1888x1728 pixlar.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -199,7 +199,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 1/5/2022 och leveranserna startade i September 2023. Denna modell är endast tillgänglig i Nordamerika.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 05.01.2022 och leveranserna startade i September 2023. Denna modell är endast tillgänglig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

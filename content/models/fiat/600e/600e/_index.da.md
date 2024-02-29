@@ -33,9 +33,9 @@ Fiat 600e har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejnin
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50.8kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (5.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50,8kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (5,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 409 km (254 mi). Forbruget er 12.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 409 km (254 mi). Forbruget er 12,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 53 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 69kW. Hver opladningssession ville tage 26 minutter og 10 sekunder.
 
@@ -139,7 +139,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 10.3 tommer stor. Skærmen touch i dashboardets midte er 10.3 tommer stor.
+Skærmen  bag rattet integreret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 10,3 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

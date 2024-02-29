@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Aion Hyper GT 710 Su
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.9 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				10.8 kWh/100km
+				10,8 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				80.1 kWh
+				80,1 kWh
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4886 mm (192.4")
+				4886 mm (192,4")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1449 mm (57.0")
+				1449 mm (57,0")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1885 mm (74.2")
+				1885 mm (74,2")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2920 mm (115.0")
+				2920 mm (115,0")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.197
+				0,197
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.5 meter (452.8")
+				11,5 meter (452,8")
 			</td>
 		</tr>
 	</tbody>
@@ -372,7 +372,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				130 mm (5.1")
+				130 mm (5,1")
 			</td>
 		</tr>
 		<tr>
@@ -380,7 +380,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				130 mm (5.1")
+				130 mm (5,1")
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1004,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 14.6"
+				Yes, 14,6"
 			</td>
 		</tr>
 		<tr>

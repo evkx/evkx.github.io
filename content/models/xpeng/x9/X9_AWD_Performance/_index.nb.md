@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av XPENG X9 AWD Performance i seksjoner. Hvis du vi
 
 ## Ytelse
 
-XPENG X9 AWD Performance har en maksimal effekt på 370 KW (503hk). Totalt dreiemoment er 640 nm. Den utfører sprinten 0-100 km/t på 5.7 sekunder. Topphastigheten er 200 km/t.
+XPENG X9 AWD Performance har en maksimal effekt på 370 KW (503hk). Totalt dreiemoment er 640 nm. Den utfører sprinten 0-100 km/t på 5,7 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 101.5kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 3.5kWh-buffer for beskyttelse. (3.4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 101,5kWh og en nettokapasitet på 98kWh, noe som betyr at du har et 3,5kWh-buffer for beskyttelse. (3,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 640 km ( miles). Forbruket er 15.3kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 640 km ( miles). Forbruket er 15,3kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 52 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 60%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 171kW. Hver ladeøkt vil ta 18 minutter og 12 sekunder.
 
@@ -151,7 +151,7 @@ XPENG X9 AWD Performance har flere funksjoner for å gjøre livet ditt som sjåf
 
 ## Brukergrensesnitt og kontroll
 
-XPENG X9 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10.3 tommer stor. touch-skjermen i dashbordets sentrum er 15.0 tommer stor.
+XPENG X9 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10,3 tommer stor. touch-skjermen i dashbordets sentrum er 15,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

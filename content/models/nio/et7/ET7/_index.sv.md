@@ -29,25 +29,25 @@ Vi har delat in vår beskrivning av Nio ET7 i avsnitt. Om du vill vänta med att
 
 ## Prestanda
 
-Nio ET7 har en maximal effekt på 360 KW (490hk). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 3.8 sekunder. Topphastigheten är 200 km/h.
+Nio ET7 har en maximal effekt på 360 KW (490hk). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
 Nio ET7 har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
 ### 100kWh
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 90kWh, vilket innebär att du har en 10kWh buffert för skydd. (10.0%).
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 90kWh, vilket innebär att du har en 10kWh buffert för skydd. (10,0%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 580 till 505 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.5kWh/100 km för basversionen och 17.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 580 till 505 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15,5kWh/100 km för basversionen och 17,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 75 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 44%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 86kW. Varje laddningssession tar 27 minuter och 2 sekunder.
 
 För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 52 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 1% till 50%. Total tid som går förlorad för att ladda batteriet kommer att vara 93 minuter.
 ### 75kWh
 
-Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70.5kWh, vilket innebär att du har en 4.5kWh buffert för skydd. (6.0%).
+Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70,5kWh, vilket innebär att du har en 4,5kWh buffert för skydd. (6,0%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 445 till 385 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.5kWh/100 km för basversionen och 17.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 445 till 385 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15,5kWh/100 km för basversionen och 17,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 140 kW. En full laddning från 0 - 100 % tar 65 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 37 minuter och 57 sekunder.
 
@@ -160,7 +160,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 10.2 tum. Skärmen touch i mitten av mittkonsolen är 12.3 tum.
+Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum. Skärmen touch i mitten av mittkonsolen är 12,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

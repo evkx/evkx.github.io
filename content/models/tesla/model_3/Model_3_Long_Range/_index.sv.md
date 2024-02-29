@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av Tesla Model 3 Long Range i avsnitt. Om du vi
 
 ## Prestanda
 
-Tesla Model 3 Long Range har en maximal effekt på 324 KW (441hk). Totalt vridmoment är 493 Nm. Den gör sprinten 0-100 km/h på 4.4 sekunder. Topphastigheten är 201 km/h.
+Tesla Model 3 Long Range har en maximal effekt på 324 KW (441hk). Totalt vridmoment är 493 Nm. Den gör sprinten 0-100 km/h på 4,4 sekunder. Topphastigheten är 201 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 7kWh buffert för skydd. (8.5%).
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 7kWh buffert för skydd. (8,5%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 629 km. Förbrukningen är 11.9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 629 km. Förbrukningen är 11,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 68 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 119kW. Varje laddningssession tar 14 minuter och 23 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 17.3kWh/100km, tar 1000km 9 timmar och 10 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 5% till 38%. Total tid som går förlorad för att ladda batteriet kommer att vara 51 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 17,3kWh/100km, tar 1000km 9 timmar och 10 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 5% till 38%. Total tid som går förlorad för att ladda batteriet kommer att vara 51 minuter.
 
 ### Inbyggd laddare
 
@@ -144,7 +144,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Tesla Model 3 Long Range har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen  i mitten av instrumentbrädan är 15.0 tum och har en upplösning på 2200 x 1300 pixlar.
+Tesla Model 3 Long Range har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen  i mitten av instrumentbrädan är 15,0 tum och har en upplösning på 2200 x 1300 pixlar.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -223,7 +223,7 @@ Lastkapaciteten i bagageutrymmet är 594 liter. Med baksätet nedfällt är det 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1000, och på obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 10/1/2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 01.10.2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

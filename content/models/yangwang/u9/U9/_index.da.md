@@ -29,13 +29,13 @@ Vi har opdelt vores YangWang U9 artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-YangWang U9 har en maksimal effekt på 960 KW (1305 hk/1287 hk). Det samlede drejningsmoment er 1680 nm (1240 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2.36 sekunder. Tophastigheden er 309 km/t.
+YangWang U9 har en maksimal effekt på 960 KW (1305 hk/1287 hk). Det samlede drejningsmoment er 1680 nm (1240 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,36 sekunder. Tophastigheden er 309 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 83kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3.6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 83kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,6%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 465 km ( miles). Forbruget er 17.2kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 465 km ( miles). Forbruget er 17,2kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 44 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 23 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 130kW. Hver opladningssession ville tage 25 minutter og 5 sekunder.
 
@@ -134,7 +134,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-YangWang U9 har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 10.0 tommer stor. Skærmen touch øverst på midterkonsollen er 11.0 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10.0 tommer stor.
+YangWang U9 har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 10,0 tommer stor. Skærmen touch øverst på midterkonsollen er 11,0 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10,0 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -186,7 +186,7 @@ Lagekapaciteten i bagagerummet er 200 liter. Bilens maksimale vægt er 2625 kg (
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 4/1/2023, og leveringer forventes at starte om January 2025.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 01.04.2023, og leveringer forventes at starte om January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> YangWang U9 </strong>
 </a>

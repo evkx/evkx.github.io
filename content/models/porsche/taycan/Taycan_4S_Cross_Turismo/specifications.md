@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Cr
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4.1 s
+				4,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				17.1 kWh/100km
+				17,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				21.0 kWh/100km
+				21,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				20.2 kWh/100km
+				20,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				24.8 kwh/100km
+				24,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				93.4 kWh
+				93,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				83.7 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4974 mm (195.8")
+				4974 mm (195,8")
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1409 mm (55.5")
+				1409 mm (55,5")
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1964 mm (77.3")
+				1964 mm (77,3")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2144 mm (84.4")
+				2144 mm (84,4")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2904 mm (114.3")
+				2904 mm (114,3")
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1710 mm (67.3")
+				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1694 mm (66.7")
+				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.24
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2.35
+				2,35
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle rear
 			</td>
 			<td>
-				16.4
+				16,4
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +448,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11.7 meter (460.6")
+				11,7 meter (460,6")
 			</td>
 		</tr>
 	</tbody>
@@ -590,7 +590,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				176 mm (6.9")
+				176 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -598,7 +598,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				126 mm (5.0")
+				126 mm (5,0")
 			</td>
 		</tr>
 		<tr>
@@ -711,7 +711,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				186 mm (7.3")
+				186 mm (7,3")
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +719,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				136 mm (5.4")
+				136 mm (5,4")
 			</td>
 		</tr>
 		<tr>
@@ -1782,7 +1782,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 16.8
+				Yes, 16,8
 			</td>
 		</tr>
 		<tr>
@@ -1790,7 +1790,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, two 10.9" and 8.4"
+				Yes, two 10,9" and 8,4"
 			</td>
 		</tr>
 		<tr>
@@ -1798,7 +1798,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Front passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10.9"
+				Yes, 10,9"
 			</td>
 		</tr>
 		<tr>

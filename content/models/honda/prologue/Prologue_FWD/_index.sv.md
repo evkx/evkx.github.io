@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Honda Prologue FWD i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Honda Prologue FWD har en maximal effekt på 158 KW (215hk). Totalt vridmoment är 320 Nm. Den gör sprinten 0-100 km/h på 7.5 sekunder.
+Honda Prologue FWD har en maximal effekt på 158 KW (215hk). Totalt vridmoment är 320 Nm. Den gör sprinten 0-100 km/h på 7,5 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 85kWh, vilket innebär att du har en 4kWh buffert för skydd. (4.5%).
+Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 85kWh, vilket innebär att du har en 4kWh buffert för skydd. (4,5%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 296 miles (476 km). Förbrukningen är 3.5mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 296 miles (476 km). Förbrukningen är 3,5mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 102kW. Varje laddningssession tar 25 minuter och 56 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 23 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 23 minuter.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
@@ -140,7 +140,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Honda Prologue FWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 11.0 tum. Skärmen touch översta mittkonsolen är 11.3 tum.
+Honda Prologue FWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 11,0 tum. Skärmen touch översta mittkonsolen är 11,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

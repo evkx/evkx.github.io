@@ -15,28 +15,28 @@ navicon: bi-battery-charging
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Gennemsnitlig opladningshastighed 0 - 100 %</td><td>62.0 kW</td>
+<td>Gennemsnitlig opladningshastighed 0 - 100 %</td><td>62,0 kW</td>
 </tr>
 <tr>
-<td>Gennemsnitlig opladningshastighed 10-100 %</td><td>63.2 kW</td>
+<td>Gennemsnitlig opladningshastighed 10-100 %</td><td>63,2 kW</td>
 </tr>
 <tr>
-<td>Gennemsnitlig opladningshastighed 10-90 %</td><td>68.8 kW</td>
+<td>Gennemsnitlig opladningshastighed 10-90 %</td><td>68,8 kW</td>
 </tr>
 <tr>
-<td>Gennemsnitlig opladningshastighed 10-80 %</td><td>70.3 kW</td>
+<td>Gennemsnitlig opladningshastighed 10-80 %</td><td>70,3 kW</td>
 </tr>
 <tr>
-<td>Maks C-Rate</td><td>0.71</td>
+<td>Maks C-Rate</td><td>0,71</td>
 </tr>
 <tr>
-<td>Gennemsnitlig C-rate</td><td>0.64</td>
+<td>Gennemsnitlig C-rate</td><td>0,64</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>15% - 83%</td>
 </tr>
 <tr>
-<td>Optimal opladningshastighed inkluderet 5 minutters tab</td><td>65.2kW</td>
+<td>Optimal opladningshastighed inkluderet 5 minutters tab</td><td>65,2kW</td>
 </tr>
 <tr>
 <td>Optimal opladningsstoptid</td><td>63m34s</td>

@@ -29,13 +29,13 @@ Vi har opdelt vores Rolls-Royce Spectre artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Rolls-Royce Spectre har en maksimal effekt på 430 KW (585 hk/577 hk). Det samlede drejningsmoment er 900 nm (664 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.5 sekunder. Tophastigheden er 250 km/t.
+Rolls-Royce Spectre har en maksimal effekt på 430 KW (585 hk/577 hk). Det samlede drejningsmoment er 900 nm (664 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Tophastigheden er 250 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 105.7kWh og en nettokapacitet på 102kWh, hvilket betyder, at du har en 3.7kWh buffer til beskyttelse. (3.5%).
+Batteriet har en bruttokapacitet på 105,7kWh og en nettokapacitet på 102kWh, hvilket betyder, at du har en 3,7kWh buffer til beskyttelse. (3,5%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 530 km (329 mi). Forbruget er 19.2kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 530 km (329 mi). Forbruget er 19,2kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 205kW. En fuld opladning fra 0 - 100 % ville tage 72 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 36 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 132kW. Hver opladningssession ville tage 21 minutter og 54 sekunder.
 
@@ -163,7 +163,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Rolls-Royce Spectre har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor. Skærmen touch øverst på midterkonsollen er 10.1 tommer stor.
+Rolls-Royce Spectre har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch øverst på midterkonsollen er 10,1 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -226,7 +226,7 @@ Lagekapaciteten i bagagerummet er 500 liter. Bilens maksimale vægt er 3400 kg (
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 10/18/2022, og leveringerne startede i December 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 18.10.2022, og leveringerne startede i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rolls-Royce Spectre </strong>
 </a>

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Ford F150 Lightning Extended Range i avsnitt
 
 ## Prestanda
 
-Ford F150 Lightning Extended Range har en maximal effekt på 433 KW (589hk). Totalt vridmoment är 1050 Nm. Den gör sprinten 0-100 km/h på 4.2 sekunder. Topphastigheten är 180 km/h.
+Ford F150 Lightning Extended Range har en maximal effekt på 433 KW (589hk). Totalt vridmoment är 1050 Nm. Den gör sprinten 0-100 km/h på 4,2 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 150kWh och en nettokapacitet på 131kWh, vilket innebär att du har en 19kWh buffert för skydd. (12.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 150kWh och en nettokapacitet på 131kWh, vilket innebär att du har en 19kWh buffert för skydd. (12,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 320 till 300 miles (515-483 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2.4mi/kWh för basversionen och 2.3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 320 till 300 miles (515-483 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2,4mi/kWh för basversionen och 2,3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 155 kW. En full laddning från 0 - 100 % tar 130 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 106kW. Varje laddningssession tar 46 minuter och 54 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 19.2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 6 timmar och 49 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 19,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 6 timmar och 49 minuter.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}
@@ -138,9 +138,9 @@ Ford F150 Lightning Extended Range har flera funktioner för att göra ditt liv 
 
 Två olika skärmlayouter är tillgängliga på Ford F150 Lightning Extended Range.
 
-Standardlayouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum. Skärmen  i mitten av instrumentbrädan är 12.0 tum.
+Standardlayouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum. Skärmen  i mitten av instrumentbrädan är 12,0 tum.
 
-Den valfria -layouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.0 tum. Skärmen  i mitten av instrumentbrädan är 15.5 tum.
+Den valfria -layouten har följande konfiguration. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum. Skärmen  i mitten av instrumentbrädan är 15,5 tum.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -211,7 +211,7 @@ Lastkapaciteten för lastbilen är 1495 liter. Bredden på lastflaket är 1285 m
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 5/19/2021 och leveranserna startade i December 2021.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 19.05.2021 och leveranserna startade i December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
 </a>

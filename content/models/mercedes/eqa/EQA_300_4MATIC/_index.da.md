@@ -29,13 +29,13 @@ Vi har opdelt vores Mercedes-EQ EQA 300 4MATIC artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Mercedes-EQ EQA 300 4MATIC har en maksimal effekt på 168 KW (228 hk/225 hk). Det samlede drejningsmoment er 390 nm (288 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.7 sekunder. Tophastigheden er 160 km/t.
+Mercedes-EQ EQA 300 4MATIC har en maksimal effekt på 168 KW (228 hk/225 hk). Det samlede drejningsmoment er 390 nm (288 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,7 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69.7kWh og en nettokapacitet på 66.5kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (4.6%).
+Batteriet har en bruttokapacitet på 69,7kWh og en nettokapacitet på 66,5kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (4,6%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 438 til 411 km (272-255 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15.2kWh/100 km for basisversionen og 16.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 438 til 411 km (272-255 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,2kWh/100 km for basisversionen og 16,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 112kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 70%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 84kW. Hver opladningssession ville tage 31 minutter og 19 sekunder.
 
@@ -161,7 +161,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Mercedes-EQ EQA 300 4MATIC har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10.3 tommer stor og har en opløsning på 1920x720 pixels. Skærmen touch i højre del af den delte ramme er 10.3 tommer stor og har en opløsning på 1920x720 pixels.
+Mercedes-EQ EQA 300 4MATIC har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10,3 tommer stor og har en opløsning på 1920x720 pixels. Skærmen touch i højre del af den delte ramme er 10,3 tommer stor og har en opløsning på 1920x720 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -221,7 +221,7 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 340 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2535 kg (5589 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 340 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2535 kg (5589 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

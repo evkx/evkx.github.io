@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Audi RS e-tron GT i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Med overboost har Audi RS e-tron GT en maksimal effekt på 475 KW (646hk). Uten overboost er den 440KW (598hk). Dreiemomentet er 830 nm med overboost og 830 uten overboost. Den utfører sprinten 0-100 km/t på 3.3 sekunder med overboost og 4.5 sekunder uten overboost. Topphastigheten er 250 km/t.
+Med overboost har Audi RS e-tron GT en maksimal effekt på 475 KW (646hk). Uten overboost er den 440KW (598hk). Dreiemomentet er 830 nm med overboost og 830 uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder med overboost og 4,5 sekunder uten overboost. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 93.4kWh og en nettokapasitet på 83.7kWh, noe som betyr at du har et 9.7kWh-buffer for beskyttelse. (10.4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 93,4kWh og en nettokapasitet på 83,7kWh, noe som betyr at du har et 9,7kWh-buffer for beskyttelse. (10,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 495 til 447 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.9kWh/100 km for basisversjonen og 18.7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 495 til 447 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16,9kWh/100 km for basisversjonen og 18,7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 53 sekunder.
 
@@ -172,7 +172,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Audi RS e-tron GT har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10.1 tommer stor og har en oppløsning på 1540 x 720 piksler.
+Audi RS e-tron GT har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10,1 tommer stor og har en oppløsning på 1540 x 720 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -248,7 +248,7 @@ Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 2/9/2021, og leveringene startet i May 2021.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 09.02.2021, og leveringene startet i May 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

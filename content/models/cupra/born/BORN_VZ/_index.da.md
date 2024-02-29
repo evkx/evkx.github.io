@@ -29,13 +29,13 @@ Vi har opdelt vores CUPRA BORN VZ artikel i sektioner. Hvis du vil vente med at 
 
 ## Ydeevne
 
-CUPRA BORN VZ har en maksimal effekt på 240 KW (326 hk/322 hk). Det samlede drejningsmoment er 545 nm (402 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.7 sekunder. Tophastigheden er 200 km/t.
+CUPRA BORN VZ har en maksimal effekt på 240 KW (326 hk/322 hk). Det samlede drejningsmoment er 545 nm (402 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3.7%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,7%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 570 km (354 mi). Forbruget er 13.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 570 km (354 mi). Forbruget er 13,9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 175kW. En fuld opladning fra 0 - 100 % ville tage 64 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 102kW. Hver opladningssession ville tage 19 minutter og 4 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-CUPRA BORN VZ har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5.0 tommer stor. Skærmen touch i dashboardets midte er 12.9 tommer stor og har en opløsning på 1920 x 869 pixels.
+CUPRA BORN VZ har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,9 tommer stor og har en opløsning på 1920 x 869 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -208,12 +208,12 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0.0 lbs). Bilens maksimale vægt er 2300 kg (5071 lbs), og med basisvægten på 1895 kg (4178 lbs), kan du maksimalt laste 405 kg (893 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2300 kg (5071 lbs), og med basisvægten på 1895 kg (4178 lbs), kan du maksimalt laste 405 kg (893 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 2/20/2024, og leveringerne startede i August 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 20.02.2024, og leveringerne startede i August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> CUPRA BORN </strong>
 </a>

@@ -33,7 +33,7 @@ The Jaguar I-Pace EV400 has a maximum power of 294 KW (400 hp/394 bhp). The tota
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 90kWh and a net capacity of 84.7kWh, meaning you have a 5.3kWh buffer for protection. (5.9%).
+The battery has a gross capacity of 90kWh and a net capacity of 84,7kWh, meaning you have a 5,3kWh buffer for protection. (5.9%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 470 to 408 km (292-254 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 18.0kWh/100km for the basic version and 20.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -229,7 +229,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 3/1/2018, and deliveries started in October 2018.<div class="mt-3 mb-3">
+This model had a world premiere on 01.03.2018, and deliveries started in October 2018.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Jaguar I-Pace </strong>
 </a>

@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av Jaguar I-Pace EV400 i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Jaguar I-Pace EV400 har en maximal effekt på 294 KW (400hk). Totalt vridmoment är 696 Nm. Den gör sprinten 0-100 km/h på 4.8 sekunder. Topphastigheten är 200 km/h.
+Jaguar I-Pace EV400 har en maximal effekt på 294 KW (400hk). Totalt vridmoment är 696 Nm. Den gör sprinten 0-100 km/h på 4,8 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 90kWh och en nettokapacitet på 84.7kWh, vilket innebär att du har en 5.3kWh buffert för skydd. (5.9%).
+Batteriet har en bruttokapacitet på 90kWh och en nettokapacitet på 84,7kWh, vilket innebär att du har en 5,3kWh buffert för skydd. (5,9%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 470 till 408 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.0kWh/100 km för basversionen och 20.8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 470 till 408 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18,0kWh/100 km för basversionen och 20,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 104 kW. En full laddning från 0 - 100 % tar 105 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 76kW. Varje laddningssession tar 26 minuter och 2 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26.9kWh/100km, tar 1000km 10 timmar och 47 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 6% till 50%. Total tid som går förlorad för att ladda batteriet kommer att vara 148 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26,9kWh/100km, tar 1000km 10 timmar och 47 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 6% till 50%. Total tid som går förlorad för att ladda batteriet kommer att vara 148 minuter.
 
 ### Inbyggd laddare
 
@@ -173,7 +173,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Jaguar I-Pace EV400 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum. Skärmen touch översta mittkonsolen är 10.0 tum. Skärmen touch botten av mittkonsolen är 5.5 tum.
+Jaguar I-Pace EV400 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen touch översta mittkonsolen är 10,0 tum. Skärmen touch botten av mittkonsolen är 5,5 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -229,7 +229,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 3/1/2018 och leveranserna startade i October 2018.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 01.03.2018 och leveranserna startade i October 2018.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Jaguar I-Pace </strong>
 </a>

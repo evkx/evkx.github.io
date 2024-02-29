@@ -10,7 +10,7 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Can this new BYD Seal U beat the Tesla Model Y ? REVIEW</h3>
-<p>Autogefühl: 29/01/2024</p>
+<p>Autogefühl: 29.01.2024</p>
 
 {{< youtube SZRwZbg1vP8 >}}
 

@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Rivian R1S Quad-Motor AWD i seksjoner. Hvis du v
 
 ## Ytelse
 
-Rivian R1S Quad-Motor AWD har en maksimal effekt på 620 KW (843hk). Totalt dreiemoment er 1231 nm. Den utfører sprinten 0-100 km/t på 3.1 sekunder. Topphastigheten er 201 km/t.
+Rivian R1S Quad-Motor AWD har en maksimal effekt på 620 KW (843hk). Totalt dreiemoment er 1231 nm. Den utfører sprinten 0-100 km/t på 3,1 sekunder. Topphastigheten er 201 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 135kWh og en nettokapasitet på 125kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (7.4%).
+Batteriet har en bruttokapasitet på 135kWh og en nettokapasitet på 125kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (7,4%).
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) varierer fra 321 til 289 miles (516–465 km) ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 2.6mi/kWh for basisversjonen og 2.3mi/kWh for topputstyrt versjon for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) varierer fra 321 til 289 miles (516–465 km) ), avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 2,6mi/kWh for basisversjonen og 2,3mi/kWh for topputstyrt versjon for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 104 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 138kW. Hver ladeøkt vil ta 25 minutter og 30 sekunder.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11.5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 52 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11,5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 52 minutter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/charging_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
@@ -150,7 +150,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Rivian R1S Quad-Motor AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 15.3 tommer stor og har en oppløsning på 1540 x 720 piksler.
+Rivian R1S Quad-Motor AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 15,3 tommer stor og har en oppløsning på 1540 x 720 piksler.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -214,7 +214,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 11/26/2018, og leveringene startet i December 2021.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 26.11.2018, og leveringene startet i December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

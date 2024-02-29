@@ -33,7 +33,7 @@ With overboost, the Audi RS e-tron GT has a maximum power of 475 KW (646 hp / 63
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93.4kWh and a net capacity of 83.7kWh, meaning you have a 9.7kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 495 to 447 km (308-278 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.9kWh/100km for the basic version and 18.7kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -254,7 +254,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ### Availability & Pricing
 
-This model had a world premiere on 2/9/2021, and deliveries started in May 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 09.02.2021, and deliveries started in May 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

@@ -35,17 +35,17 @@ Denna modell har ersatts av [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8_50_e-t
 
 ## Prestanda
 
-Audi e-tron 50 har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 540 Nm. Den gör sprinten 0-100 km/h på 6.8 sekunder. Topphastigheten är 200 km/h.
+Audi e-tron 50 har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 540 Nm. Den gör sprinten 0-100 km/h på 6,8 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 71kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7kWh buffert för skydd. (9.9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 71kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7kWh buffert för skydd. (9,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 341 till 282 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18.8kWh/100 km för basversionen och 22.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 341 till 282 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18,8kWh/100 km för basversionen och 22,7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 48 minuter, medan ett vanligare scenario på 10-80 % tar 25 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 72%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 92kW. Varje laddningssession tar 28 minuter och 30 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26.5kWh/100km, tar 1000km 10 timmar och 32 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 5% till 68%. Total tid som går förlorad för att ladda batteriet kommer att vara 133 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26,5kWh/100km, tar 1000km 10 timmar och 32 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 5% till 68%. Total tid som går förlorad för att ladda batteriet kommer att vara 133 minuter.
 
 ### Inbyggd laddare
 
@@ -229,7 +229,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Audi e-tron 50 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10.1 tum och har en upplösning på 1540 x 720 pixlar. Skärmen touch botten av mittkonsolen är 8.6 tum och har en upplösning på 1280 x 660 pixlar.
+Audi e-tron 50 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10,1 tum och har en upplösning på 1540 x 720 pixlar. Skärmen touch botten av mittkonsolen är 8,6 tum och har en upplösning på 1280 x 660 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -310,7 +310,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 10/17/2018 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8_50_e-tron).<div class="mt-3 mb-3">
+Denna modell hade världspremiär 17.10.2018 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8_50_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

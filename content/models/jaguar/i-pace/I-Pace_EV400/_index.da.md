@@ -29,17 +29,17 @@ Vi har opdelt vores Jaguar I-Pace EV400 artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Jaguar I-Pace EV400 har en maksimal effekt på 294 KW (400 hk/394 hk). Det samlede drejningsmoment er 696 nm (514 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.8 sekunder. Tophastigheden er 200 km/t.
+Jaguar I-Pace EV400 har en maksimal effekt på 294 KW (400 hk/394 hk). Det samlede drejningsmoment er 696 nm (514 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,8 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 90kWh og en nettokapacitet på 84.7kWh, hvilket betyder, at du har en 5.3kWh buffer til beskyttelse. (5.9%).
+Batteriet har en bruttokapacitet på 90kWh og en nettokapacitet på 84,7kWh, hvilket betyder, at du har en 5,3kWh buffer til beskyttelse. (5,9%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 470 til 408 km (292-254 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 18.0kWh/100 km for basisversionen og 20.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 470 til 408 km (292-254 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 18,0kWh/100 km for basisversionen og 20,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 104kW. En fuld opladning fra 0 - 100 % ville tage 105 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 49 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 46%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 76kW. Hver opladningssession ville tage 26 minutter og 2 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26.9kWh/100 km, vil 1000 km tage 10 timer og 47 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 6 % til 50%. Den samlede tid, der går tabt for at oplade batteriet, vil være 148 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26,9kWh/100 km, vil 1000 km tage 10 timer og 47 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 6 % til 50%. Den samlede tid, der går tabt for at oplade batteriet, vil være 148 minutter.
 
 ### Indbygget oplader
 
@@ -173,7 +173,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Jaguar I-Pace EV400 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor. Skærmen touch øverst på midterkonsollen er 10.0 tommer stor. Skærmen touch i bunden af midterkonsollen er 5.5 tommer stor.
+Jaguar I-Pace EV400 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch øverst på midterkonsollen er 10,0 tommer stor. Skærmen touch i bunden af midterkonsollen er 5,5 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -220,7 +220,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 505 liter. Med bagsædet nede er det 1163 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1.0 CU FT).
+Lagekapaciteten i bagagerummet er 505 liter. Med bagsædet nede er det 1163 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT).
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 
@@ -229,7 +229,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 3/1/2018, og leveringerne startede i October 2018.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 01.03.2018, og leveringerne startede i October 2018.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Jaguar I-Pace </strong>
 </a>

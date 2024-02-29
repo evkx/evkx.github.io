@@ -29,17 +29,17 @@ Vi har opdelt vores BYD Tang EV600 artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-BYD Tang EV600 har en maksimal effekt på 380 KW (517 hk/510 hk). Det samlede drejningsmoment er 680 nm (502 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.6 sekunder. Tophastigheden er 180 km/t.
+BYD Tang EV600 har en maksimal effekt på 380 KW (517 hk/510 hk). Det samlede drejningsmoment er 680 nm (502 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 90kWh og en nettokapacitet på 86.4kWh, hvilket betyder, at du har en 3.6kWh buffer til beskyttelse. (4.0%).
+Batteriet har en bruttokapacitet på 90kWh og en nettokapacitet på 86,4kWh, hvilket betyder, at du har en 3,6kWh buffer til beskyttelse. (4,0%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 400 km (249 mi). Forbruget er 21.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 400 km (249 mi). Forbruget er 21,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 110kW. En fuld opladning fra 0 - 100 % ville tage 67 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 36 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 93kW. Hver opladningssession ville tage 31 minutter og 37 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 31.7kWh/100 km, vil 1000 km tage 10 timer og 50 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 5 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 150 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 31,7kWh/100 km, vil 1000 km tage 10 timer og 50 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 5 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 150 minutter.
 
 ### Indbygget oplader
 
@@ -154,7 +154,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-BYD Tang EV600 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 12.3 tommer stor. Skærmen touch i dashboardets midte er 12.8 tommer stor.
+BYD Tang EV600 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor. Skærmen touch i dashboardets midte er 12,8 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -215,7 +215,7 @@ Med Smart Pilot  niveau 2-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 192 liter. Med bagsædet nede er det 763 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2489 kg (5487 lbs), kan du maksimalt laste 571 kg (1259 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 192 liter. Med bagsædet nede er det 763 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2489 kg (5487 lbs), kan du maksimalt laste 571 kg (1259 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

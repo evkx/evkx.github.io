@@ -33,7 +33,7 @@ The BMW i4 eDrive40 has a maximum power of 250 KW (340 hp/335 bhp). The total to
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 83.9kWh and a net capacity of 80.7kWh, meaning you have a 3.2kWh buffer for protection. (3.8%).
+The battery has a gross capacity of 83,9kWh and a net capacity of 80,7kWh, meaning you have a 3,2kWh buffer for protection. (3.8%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 590 to 493 km (367-306 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.7kWh/100km for the basic version and 16.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

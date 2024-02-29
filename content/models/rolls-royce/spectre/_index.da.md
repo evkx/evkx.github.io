@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="spectre/"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Spectre" ></a>
-<i class="bi bi-battery-full"></i> 105.7 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-battery-full"></i> 105,7 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

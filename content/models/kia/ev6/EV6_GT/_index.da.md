@@ -29,17 +29,17 @@ Vi har opdelt vores Kia EV6 GT artikel i sektioner. Hvis du vil vente med at læ
 
 ## Ydeevne
 
-Kia EV6 GT har en maksimal effekt på 430 KW (585 hk/577 hk). Det samlede drejningsmoment er 740 nm (546 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.5 sekunder. Tophastigheden er 260 km/t.
+Kia EV6 GT har en maksimal effekt på 430 KW (585 hk/577 hk). Det samlede drejningsmoment er 740 nm (546 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Tophastigheden er 260 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77.4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3.4kWh buffer til beskyttelse. (4.4%).
+Batteriet har en bruttokapacitet på 77,4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3,4kWh buffer til beskyttelse. (4,4%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 424 km (264 mi). Forbruget er 17.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 424 km (264 mi). Forbruget er 17,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 22 minutter og 59 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25.5kWh/100 km, vil 1000 km tage 9 timer og 32 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 83%. Den samlede tid, der går tabt for at oplade batteriet, vil være 72 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25,5kWh/100 km, vil 1000 km tage 9 timer og 32 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 83%. Den samlede tid, der går tabt for at oplade batteriet, vil være 72 minutter.
 
 ### Indbygget oplader
 
@@ -142,7 +142,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Kia EV6 GT har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12.3 tommer stor og har en opløsning på 2880 x 1080 pixels.
+Kia EV6 GT har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -201,7 +201,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1260 liter. På taget kan du laste op til 80 kg (176.4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0.7 CU FT). Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2125 kg (4685 lbs), kan du maksimalt laste 485 kg (1069 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 485kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1260 liter. På taget kan du laste op til 80 kg (176,4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2125 kg (4685 lbs), kan du maksimalt laste 485 kg (1069 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 485kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 

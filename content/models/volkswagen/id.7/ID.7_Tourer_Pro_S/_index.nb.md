@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Volkswagen ID.7 Tourer Pro S i seksjoner. Hvis d
 
 ## Ytelse
 
-Volkswagen ID.7 Tourer Pro S har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 550 nm. Den utfører sprinten 0-100 km/t på 6.5 sekunder. Topphastigheten er 180 km/t.
+Volkswagen ID.7 Tourer Pro S har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 550 nm. Den utfører sprinten 0-100 km/t på 6,5 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5.5%).
+Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 86kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5,5%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 685 til 622 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.6kWh/100 km for basisversjonen og 13.8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 685 til 622 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12,6kWh/100 km for basisversjonen og 13,8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 39 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 42%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 104kW. Hver ladeøkt vil ta 20 minutter og 49 sekunder.
 
@@ -161,7 +161,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Volkswagen ID.7 Tourer Pro S har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 15.0 tommer stor.
+Volkswagen ID.7 Tourer Pro S har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 15,0 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

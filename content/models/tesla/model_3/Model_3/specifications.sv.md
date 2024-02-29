@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model 3. Klicka 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6.1 s
+				6,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				11.5 kWh/100km
+				11,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				14.4 kWh/100km
+				14,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim EPA-förbrukning
 			</td>
 			<td>
-				4.6 mi/kWh
+				4,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Top Trim EPA Consumption
 			</td>
 			<td>
-				4.2 mi/kWh
+				4,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -346,7 +346,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11.6 meter
+				11,6 meter
 			</td>
 		</tr>
 	</tbody>

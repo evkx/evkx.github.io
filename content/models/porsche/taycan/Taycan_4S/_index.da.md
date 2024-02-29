@@ -38,18 +38,18 @@ Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Me
 Porsche Taycan 4S har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
 ### Performance Battery
 
-Batteriet har en bruttokapacitet på 79.2kWh og en nettokapacitet på 71kWh, hvilket betyder, at du har en 8.2kWh buffer til beskyttelse. (10.4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 79,2kWh og en nettokapacitet på 71kWh, hvilket betyder, at du har en 8,2kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 431 til 354 km (268-220 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.5kWh/100 km for basisversionen og 20.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 431 til 354 km (268-220 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,5kWh/100 km for basisversionen og 20,1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 225kW. En fuld opladning fra 0 - 100 % ville tage 45 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 136kW. Hver opladningssession ville tage 21 minutter og 2 sekunder.
 
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 26 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 0 % til 70%. Den samlede tid, der går tabt for at oplade batteriet, vil være 66 minutter.
 ### Performance Battery Plus
 
-Batteriet har en bruttokapacitet på 93.4kWh og en nettokapacitet på 83.7kWh, hvilket betyder, at du har en 9.7kWh buffer til beskyttelse. (10.4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 464 til 389 km (288-242 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.5kWh/100 km for basisversionen og 20.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 464 til 389 km (288-242 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,5kWh/100 km for basisversionen og 20,1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 165kW. Hver opladningssession ville tage 19 minutter og 53 sekunder.
 
@@ -192,7 +192,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Porsche Taycan 4S har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen). Skærmen touch bag rattet integreret i instrumentbrættet er 16.8 tommer stor. Skærmen touch øverst på midterkonsollen er 10.9 tommer stor. Skærmen touch i bunden af midterkonsollen er 8.4 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10.9 tommer stor.
+Porsche Taycan 4S har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen). Skærmen touch bag rattet integreret i instrumentbrættet er 16,8 tommer stor. Skærmen touch øverst på midterkonsollen er 10,9 tommer stor. Skærmen touch i bunden af midterkonsollen er 8,4 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -255,7 +255,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2795 kg (6162 lbs), og med basisvægten på 2075 kg (4575 lbs), kan du maksimalt laste 720 kg (1587 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2795 kg (6162 lbs), og med basisvægten på 2075 kg (4575 lbs), kan du maksimalt laste 720 kg (1587 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

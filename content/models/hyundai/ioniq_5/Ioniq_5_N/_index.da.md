@@ -29,13 +29,13 @@ Vi har opdelt vores Hyundai Ioniq 5 N artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-Med overboost har Hyundai Ioniq 5 N en maksimal effekt på 478 KW (650 hk / 609 bhp). Uden overboost er den 448 KW (609 hk / 641 hk). Momentet er 770 nm med overboost og 714 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3.4 sekunder med overboost og 3.5 sekunder uden overboost. Tophastigheden er 260 km/t.
+Med overboost har Hyundai Ioniq 5 N en maksimal effekt på 478 KW (650 hk / 609 bhp). Uden overboost er den 448 KW (609 hk / 641 hk). Momentet er 770 nm med overboost og 714 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3,4 sekunder med overboost og 3,5 sekunder uden overboost. Tophastigheden er 260 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 84kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5.6%).
+Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 84kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5,6%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 450 km (280 mi). Forbruget er 18.7kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 450 km (280 mi). Forbruget er 18,7kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 43 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 75%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 156kW. Hver opladningssession ville tage 24 minutter og 57 sekunder.
 
@@ -130,7 +130,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Hyundai Ioniq 5 N har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12.3 tommer stor og har en opløsning på 2880 x 1080 pixels.
+Hyundai Ioniq 5 N har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -190,7 +190,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 527 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 80 kg (176.4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 24 liter (0.8 CU FT). Bilens maksimale vægt er 2560 kg (5644 lbs), og med basisvægten på 2045 kg (4508 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 527 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 80 kg (176,4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 24 liter (0,8 CU FT). Bilens maksimale vægt er 2560 kg (5644 lbs), og med basisvægten på 2045 kg (4508 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 
@@ -199,7 +199,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 7/13/2023, og leveringer forventes at starte om March 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 13.07.2023, og leveringer forventes at starte om March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Hyundai Ioniq 5 </strong>
 </a>

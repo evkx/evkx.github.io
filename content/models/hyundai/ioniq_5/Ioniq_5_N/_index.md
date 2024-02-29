@@ -199,7 +199,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 7/13/2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 13.07.2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Hyundai Ioniq 5 </strong>
 </a>

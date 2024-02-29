@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av Honda e:Ny1 i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-Honda e:Ny1 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7.7 sekunder. Topphastigheten er 160 km/t.
+Honda e:Ny1 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7,7 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 68.8kWh og en nettokapasitet på 61.9kWh, noe som betyr at du har et 6.9kWh-buffer for beskyttelse. (10.0%).
+Batteriet har en bruttokapasitet på 68,8kWh og en nettokapasitet på 61,9kWh, noe som betyr at du har et 6,9kWh-buffer for beskyttelse. (10,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 412 km. Forbruket er 15.0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 412 km. Forbruket er 15,0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 92%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 62kW. Hver ladeøkt vil ta 51 minutter og 28 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24.5kWh/100km, vil 1000km ta 11 timer og 18 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 16% til 90%. Totalt tapt tid for å lade opp batteriet vil være 179 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24,5kWh/100km, vil 1000km ta 11 timer og 18 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 16% til 90%. Totalt tapt tid for å lade opp batteriet vil være 179 minutter.
 
 ### Ombordlader
 
@@ -115,7 +115,7 @@ Honda e:Ny1 har flere funksjoner for å gjøre livet ditt som sjåfør eller pas
 
 ## Brukergrensesnitt og kontroll
 
-Honda e:Ny1 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 9.0 tommer stor. touch-skjermen øverst på midtkonsollen er 15.2 tommer stor.
+Honda e:Ny1 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 9,0 tommer stor. touch-skjermen øverst på midtkonsollen er 15,2 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

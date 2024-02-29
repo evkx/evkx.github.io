@@ -71,7 +71,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Fisker Ocean Sport. Kl
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7.9 s
+				7,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				15.1 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				18.33 kWh/100km
+				18,33 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				3.3 mi/kWh
+				3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -322,7 +322,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11.95 meter
+				11,95 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1124,7 +1124,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1132,7 +1132,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 17.1
+				Ja, 17,1
 			</td>
 		</tr>
 		<tr>

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av VOYAH FREE i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-VOYAH FREE har en maximal effekt på 360 KW (490hk). Totalt vridmoment är 720 Nm. Den gör sprinten 0-100 km/h på 4.4 sekunder. Topphastigheten är 200 km/h.
+VOYAH FREE har en maximal effekt på 360 KW (490hk). Totalt vridmoment är 720 Nm. Den gör sprinten 0-100 km/h på 4,4 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 106kWh och en nettokapacitet på 100kWh, vilket innebär att du har en 6kWh buffert för skydd. (5.7%).
+Batteriet har en bruttokapacitet på 106kWh och en nettokapacitet på 100kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 500 km. Förbrukningen är 20.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 500 km. Förbrukningen är 20,0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 97 minuter, medan ett vanligare scenario på 10-80 % tar 60 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 15% till 83%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 65kW. Varje laddningssession tar 63 minuter och 34 sekunder.
 
@@ -133,7 +133,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-VOYAH FREE har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum. Skärmen  i mitten av bindestrecket är 12.3 tum. Skärmen  framför passageraren i instrumentbrädan är 12.3 tum.
+VOYAH FREE har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen  i mitten av bindestrecket är 12,3 tum. Skärmen  framför passageraren i instrumentbrädan är 12,3 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

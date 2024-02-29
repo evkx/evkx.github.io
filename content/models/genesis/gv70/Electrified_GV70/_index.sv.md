@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Genesis Electrified GV70 i avsnitt. Om du vi
 
 ## Prestanda
 
-Med overboost har Genesis Electrified GV70 en maximal effekt på 360 KW (490hk). Utan overboost är det 320KW (435hp). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 4.2 sekunder med överboost och 4.8 sekunder utan överboost. Topphastigheten är 235 km/h.
+Med overboost har Genesis Electrified GV70 en maximal effekt på 360 KW (490hk). Utan overboost är det 320KW (435hp). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 4,2 sekunder med överboost och 4,8 sekunder utan överboost. Topphastigheten är 235 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 77.4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3.4kWh buffert för skydd. (4.4%).
+Batteriet har en bruttokapacitet på 77,4kWh och en nettokapacitet på 74kWh, vilket innebär att du har en 3,4kWh buffert för skydd. (4,4%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 470 km. Förbrukningen är 15.7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 470 km. Förbrukningen är 15,7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 38 minuter, medan ett vanligare scenario på 10-80 % tar 16 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 76%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 152kW. Varje laddningssession tar 22 minuter och 59 sekunder.
 
@@ -139,7 +139,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 8.0 tum. Skärmen touch i mitten av instrumentbrädan är 14.9 tum. Skärmen touch botten av mittkonsolen är 5.0 tum.
+Skärmen  bakom ratten integrerad i instrumentbrädan är 8,0 tum. Skärmen touch i mitten av instrumentbrädan är 14,9 tum. Skärmen touch botten av mittkonsolen är 5,0 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

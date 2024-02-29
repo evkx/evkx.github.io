@@ -39,7 +39,7 @@ The Mercedes-Maybach EQS 680 SUV has a maximum power of 484 KW (658 hp/649 bhp).
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 108.4kWh, meaning you have a 11.6kWh buffer for protection. (9.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 120kWh and a net capacity of 108,4kWh, meaning you have a 11,6kWh buffer for protection. (9.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 600 to 502 km (373-312 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 18.1kWh/100km for the basic version and 21.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

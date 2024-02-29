@@ -33,7 +33,7 @@ The BYD Tang EV600 has a maximum power of 380 KW (517 hp/510 bhp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 90kWh and a net capacity of 86.4kWh, meaning you have a 3.6kWh buffer for protection. (4.0%).
+The battery has a gross capacity of 90kWh and a net capacity of 86,4kWh, meaning you have a 3,6kWh buffer for protection. (4.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 21.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

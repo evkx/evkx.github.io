@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Honda e:Ny1. Klik 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				7.7 s
+				7,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				15.0 kWh/100km
+				15,0 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				68.8 kWh
+				68,8 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				61.9 kWh
+				61,9 kWh
 			</td>
 		</tr>
 	</tbody>
@@ -218,7 +218,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4390 mm (172.8")
+				4390 mm (172,8")
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1790 mm (70.5")
+				1790 mm (70,5")
 			</td>
 		</tr>
 	</tbody>
@@ -340,7 +340,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				140 mm (5.5")
+				140 mm (5,5")
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				140 mm (5.5")
+				140 mm (5,5")
 			</td>
 		</tr>
 		<tr>
@@ -956,7 +956,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 15.2"
+				Ja, 15,2"
 			</td>
 		</tr>
 		<tr>

@@ -35,13 +35,13 @@ Denne model er blevet erstattet af [Volvo EX40 Single Motor](/models/volvo/ex40/
 
 ## Ydeevne
 
-Volvo XC40 Recharge Single Motor har en maksimal effekt på 175 KW (238 hk/235 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.3 sekunder. Tophastigheden er 180 km/t.
+Volvo XC40 Recharge Single Motor har en maksimal effekt på 175 KW (238 hk/235 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 66kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (4.3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 66kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (4,3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 467 til 454 km (290-282 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.1kWh/100 km for basisversionen og 14.5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 467 til 454 km (290-282 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,1kWh/100 km for basisversionen og 14,5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 205kW. En fuld opladning fra 0 - 100 % ville tage 85 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 90kW. Hver opladningssession ville tage 21 minutter og 28 sekunder.
 
@@ -136,7 +136,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Volvo XC40 Recharge Single Motor har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 12.0 tommer stor. Skærmen touch øverst på midterkonsollen er 9.0 tommer stor.
+Volvo XC40 Recharge Single Motor har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor. Skærmen touch øverst på midterkonsollen er 9,0 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -189,7 +189,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1295 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1.1 CU FT). Bilens maksimale vægt er 2470 kg (5445 lbs), og med basisvægten på 1965 kg (4332 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1295 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2470 kg (5445 lbs), og med basisvægten på 1965 kg (4332 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
 
@@ -198,7 +198,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 5/18/2022, og leveringerne startede i August 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Volvo EX40 Single Motor](/models/volvo/ex40/ex40_single_motor).<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Volvo EX40 Single Motor](/models/volvo/ex40/ex40_single_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>
 </a>

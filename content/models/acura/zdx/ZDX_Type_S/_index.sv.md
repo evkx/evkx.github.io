@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Acura ZDX Type S i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-Acura ZDX Type S har en maximal effekt på 373 KW (507hk). Totalt vridmoment är 610 Nm. Den gör sprinten 0-100 km/h på 4.6 sekunder.
+Acura ZDX Type S har en maximal effekt på 373 KW (507hk). Totalt vridmoment är 610 Nm. Den gör sprinten 0-100 km/h på 4,6 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7.3%).
+Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,3%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 288 miles (463 km). Förbrukningen är 2.8mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 288 miles (463 km). Förbrukningen är 2,8mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 176 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 120kW. Varje laddningssession tar 29 minuter och 59 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 19.2 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 18 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 52 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 19,2 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 18 minuter.
 
 ### Laddningsport
 
@@ -135,7 +135,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Acura ZDX Type S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 11.0 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 11.3 tum och har en upplösning på 1540 x 720 pixlar.
+Acura ZDX Type S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 11,0 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 11,3 tum och har en upplösning på 1540 x 720 pixlar.
 Modellen är inte tillgänglig med head-up display.
 
 

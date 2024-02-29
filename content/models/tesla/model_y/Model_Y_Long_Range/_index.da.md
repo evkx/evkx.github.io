@@ -33,13 +33,13 @@ Tesla Model Y Long Range har en maksimal effekt på 324 KW (441 hk/435 hk). Det 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3.7%).
+Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 79kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,7%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 542 til 533 km (337-331 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14.6kWh/100 km for basisversionen og 14.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 542 til 533 km (337-331 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,6kWh/100 km for basisversionen og 14,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 65 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 111kW. Hver opladningssession ville tage 17 minutter og 8 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19.5kWh/100 km, vil 1000 km tage 9 timer og 23 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 5 % til 42%. Den samlede tid, der går tabt for at oplade batteriet, vil være 64 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,5kWh/100 km, vil 1000 km tage 9 timer og 23 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 5 % til 42%. Den samlede tid, der går tabt for at oplade batteriet, vil være 64 minutter.
 
 ### Indbygget oplader
 
@@ -159,7 +159,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Tesla Model Y Long Range har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 15.0 tommer stor og har en opløsning på 2200 x 1300 pixels.
+Tesla Model Y Long Range har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 15,0 tommer stor og har en opløsning på 2200 x 1300 pixels.
 Modellen har ikke et head-up display.
 
 
@@ -231,12 +231,12 @@ Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) ti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 854 liter. Med bagsædet nede er det 2158 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2720 kg (5997 lbs), og med basisvægten på 2135 kg (4707 lbs), kan du maksimalt laste 585 kg (1290 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 854 liter. Med bagsædet nede er det 2158 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2720 kg (5997 lbs), og med basisvægten på 2135 kg (4707 lbs), kan du maksimalt laste 585 kg (1290 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 3/19/2019, og leveringerne startede i March 2020.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 19.03.2019, og leveringerne startede i March 2020.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

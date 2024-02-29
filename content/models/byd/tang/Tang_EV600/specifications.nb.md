@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BYD Tang EV600. Kli
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.6 s
+				4,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk
 			</td>
 			<td>
-				21.6 kWh/100km
+				21,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				86.4 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.8 meter
+				11,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1066,7 +1066,7 @@ Interior.Seatlayout.OnlySix
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1074,7 +1074,7 @@ Interior.Seatlayout.OnlySix
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 12.8
+				Ja, 12,8
 			</td>
 		</tr>
 		<tr>

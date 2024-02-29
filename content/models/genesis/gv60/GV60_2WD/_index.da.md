@@ -29,13 +29,13 @@ Vi har opdelt vores Genesis GV60 2WD artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-Genesis GV60 2WD har en maksimal effekt på 168 KW (228 hk/225 hk). Det samlede drejningsmoment er 350 nm (258 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.5 sekunder. Tophastigheden er 185 km/t.
+Genesis GV60 2WD har en maksimal effekt på 168 KW (228 hk/225 hk). Det samlede drejningsmoment er 350 nm (258 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,5 sekunder. Tophastigheden er 185 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77.4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3.4kWh buffer til beskyttelse. (4.4%).
+Batteriet har en bruttokapacitet på 77,4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3,4kWh buffer til beskyttelse. (4,4%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 517 km (321 mi). Forbruget er 14.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 517 km (321 mi). Forbruget er 14,3kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 22 minutter og 59 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor. Skærmen touch i dashboardets midte er 14.9 tommer stor. Skærmen touch i bunden af midterkonsollen er 7.6 tommer stor og har en opløsning på 1280 x 660 pixels.
+Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch i dashboardets midte er 14,9 tommer stor. Skærmen touch i bunden af midterkonsollen er 7,6 tommer stor og har en opløsning på 1280 x 660 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -203,7 +203,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 432 liter. På taget kan du laste op til 80 kg (176.4 lbs). Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 432 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

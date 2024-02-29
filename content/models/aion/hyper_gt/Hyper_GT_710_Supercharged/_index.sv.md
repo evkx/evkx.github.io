@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Aion Hyper GT 710 Supercharged i avsnitt. Om
 
 ## Prestanda
 
-Aion Hyper GT 710 Supercharged har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 4.9 sekunder. Topphastigheten är 257 km/h.
+Aion Hyper GT 710 Supercharged har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 4,9 sekunder. Topphastigheten är 257 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 80.1kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 3.1kWh buffert för skydd. (3.9%).
+Batteriet har en bruttokapacitet på 80,1kWh och en nettokapacitet på 77kWh, vilket innebär att du har en 3,1kWh buffert för skydd. (3,9%).
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 710 km ( miles). Förbrukningen är 10.8kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 710 km ( miles). Förbrukningen är 10,8kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 38 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 152kW. Varje laddningssession tar 16 minuter och 50 sekunder.
 
@@ -146,7 +146,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 8.0 tum. Skärmen touch översta mittkonsolen är 14.6 tum.
+Skärmen  bakom ratten monterad i instrumentbrädan är 8,0 tum. Skärmen touch översta mittkonsolen är 14,6 tum.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -200,7 +200,7 @@ Lastkapaciteten i bagageutrymmet är 500 liter. Med baksätet nedfällt är det 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 12/31/2022 och leveranserna startade i October 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 31.12.2022 och leveranserna startade i October 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Aion Hyper GT </strong>
 </a>

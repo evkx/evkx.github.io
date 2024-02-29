@@ -33,7 +33,7 @@ The Kia Niro EV has a maximum power of 150 KW (204 hp/201 bhp). The total torque
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 68kWh and a net capacity of 64.8kWh, meaning you have a 3.2kWh buffer for protection. (4.7%).
+The battery has a gross capacity of 68kWh and a net capacity of 64,8kWh, meaning you have a 3,2kWh buffer for protection. (4.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 463 km (288 mi). The consumption is 14.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

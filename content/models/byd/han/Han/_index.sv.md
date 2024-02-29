@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av BYD Han i avsnitt. Om du vill vänta med att
 
 ## Prestanda
 
-BYD Han har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 3.9 sekunder. Topphastigheten är 180 km/h.
+BYD Han har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 85.4kWh och en nettokapacitet på 83kWh, vilket innebär att du har en 2.4kWh buffert för skydd. (2.8%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 85,4kWh och en nettokapacitet på 83kWh, vilket innebär att du har en 2,4kWh buffert för skydd. (2,8%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 521 km. Förbrukningen är 15.9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 521 km. Förbrukningen är 15,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 65 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 93kW. Varje laddningssession tar 30 minuter och 36 sekunder.
 
@@ -156,7 +156,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-BYD Han har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 12.3 tum. Skärmen touch i mitten av instrumentbrädan är 15.6 tum.
+BYD Han har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum. Skärmen touch i mitten av instrumentbrädan är 15,6 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Hyundai Ioniq 5 N i avsnitt. Om du vill vän
 
 ## Prestanda
 
-Med overboost har Hyundai Ioniq 5 N en maximal effekt på 478 KW (650hk). Utan overboost är det 448KW (609hp). Vridmomentet är 770 Nm med överboost och 714 utan överboost. Den gör sprinten 0-100 km/h på 3.4 sekunder med överboost och 3.5 sekunder utan överboost. Topphastigheten är 260 km/h.
+Med overboost har Hyundai Ioniq 5 N en maximal effekt på 478 KW (650hk). Utan overboost är det 448KW (609hp). Vridmomentet är 770 Nm med överboost och 714 utan överboost. Den gör sprinten 0-100 km/h på 3,4 sekunder med överboost och 3,5 sekunder utan överboost. Topphastigheten är 260 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 84kWh, vilket innebär att du har en 5kWh buffert för skydd. (5.6%).
+Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 84kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,6%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 450 km. Förbrukningen är 18.7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 450 km. Förbrukningen är 18,7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 43 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 75%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 156kW. Varje laddningssession tar 24 minuter och 57 sekunder.
 
@@ -130,7 +130,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Hyundai Ioniq 5 N har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 12.3 tum och har en upplösning på 2880 x 1080 pixlar.
+Hyundai Ioniq 5 N har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 12,3 tum och har en upplösning på 2880 x 1080 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -199,7 +199,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 7/13/2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 13.07.2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Hyundai Ioniq 5 </strong>
 </a>

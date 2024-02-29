@@ -33,7 +33,7 @@ The Lancia Ypsilon has a maximum power of 115 KW (156 hp/154 bhp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 54kWh and a net capacity of 50.8kWh, meaning you have a 3.2kWh buffer for protection. (5.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 54kWh and a net capacity of 50,8kWh, meaning you have a 3,2kWh buffer for protection. (5.9%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 403 km (251 mi). The consumption is 12.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -201,7 +201,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ### Availability & Pricing
 
-This model had a world premiere on 2/14/2024, and deliveries started in June 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 14.02.2024, and deliveries started in June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lancia Ypsilon </strong>
 </a>

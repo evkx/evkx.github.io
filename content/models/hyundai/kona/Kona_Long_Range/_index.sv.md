@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Hyundai Kona Long Range i avsnitt. Om du vil
 
 ## Prestanda
 
-Hyundai Kona Long Range har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 255 Nm. Den gör sprinten 0-100 km/h på 7.3 sekunder. Topphastigheten är 185 km/h.
+Hyundai Kona Long Range har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 255 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 185 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 68.5kWh och en nettokapacitet på 65.4kWh, vilket innebär att du har en 3.1kWh buffert för skydd. (4.5%).
+Batteriet har en bruttokapacitet på 68,5kWh och en nettokapacitet på 65,4kWh, vilket innebär att du har en 3,1kWh buffert för skydd. (4,5%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 514 till 454 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12.7kWh/100 km för basversionen och 14.4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 514 till 454 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12,7kWh/100 km för basversionen och 14,4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 38 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 74kW. Varje laddningssession tar 30 minuter och 34 sekunder.
 
@@ -149,7 +149,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Hyundai Kona Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum. Skärmen touch på höger sida av den delade ramen är 12.3 tum.
+Hyundai Kona Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum. Skärmen touch på höger sida av den delade ramen är 12,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

@@ -29,13 +29,13 @@ Vi har opdelt vores Honda Prologue FWD artikel i sektioner. Hvis du vil vente me
 
 ## Ydeevne
 
-Honda Prologue FWD har en maksimal effekt på 158 KW (215 hk/212 hk). Det samlede drejningsmoment er 320 nm (236 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.5 sekunder.
+Honda Prologue FWD har en maksimal effekt på 158 KW (215 hk/212 hk). Det samlede drejningsmoment er 320 nm (236 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4.5%).
+Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,5%).
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 296 miles (476 km). Forbruget er 3.5mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 296 miles (476 km). Forbruget er 3,5mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 66 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 102kW. Hver opladningssession ville tage 25 minutter og 56 sekunder.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11.5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 23 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 23 minutter.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
@@ -140,7 +140,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Honda Prologue FWD har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 11.0 tommer stor. Skærmen touch øverst på midterkonsollen er 11.3 tommer stor.
+Honda Prologue FWD har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 11,0 tommer stor. Skærmen touch øverst på midterkonsollen er 11,3 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

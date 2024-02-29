@@ -29,13 +29,13 @@ Vi har opdelt vores Cadillac ESCALADE IQ artikel i sektioner. Hvis du vil vente 
 
 ## Ydeevne
 
-Cadillac ESCALADE IQ har en maksimal effekt på 560 KW (761 hk/751 hk). Det samlede drejningsmoment er 1064 nm (785 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.7 sekunder. Tophastigheden er 200 km/t.
+Cadillac ESCALADE IQ har en maksimal effekt på 560 KW (761 hk/751 hk). Det samlede drejningsmoment er 1064 nm (785 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,7 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 215kWh og en nettokapacitet på 200kWh, hvilket betyder, at du har en 15kWh buffer til beskyttelse. (7.0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 215kWh og en nettokapacitet på 200kWh, hvilket betyder, at du har en 15kWh buffer til beskyttelse. (7,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruget er 2.3mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruget er 2,3mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 130 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 45 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 53%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 242kW. Hver opladningssession ville tage 26 minutter og 49 sekunder.
 
@@ -43,7 +43,7 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19.2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 10 timer og 25 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 10 timer og 25 minutter.
 
 ### Ladeport
 
@@ -156,7 +156,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 35.0 tommer stor. Skærmen touch i bunden af midterkonsollen er 11.0 tommer stor. Skærmen touch foran passageren på instrumentbrættet er 20.0 tommer stor.
+Skærmen  bag rattet monteret i instrumentbrættet er 35,0 tommer stor. Skærmen touch i bunden af midterkonsollen er 11,0 tommer stor. Skærmen touch foran passageren på instrumentbrættet er 20,0 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -207,7 +207,7 @@ Med Super Cruise  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 670 liter. Med bagsædet nede er det 3374 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 345 liter (12.2 CU FT). Bilens maksimale vægt er 4717 kg (10399 lbs), og med basisvægten på 4103 kg (9046 lbs), kan du maksimalt laste 614 kg (1354 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 670 liter. Med bagsædet nede er det 3374 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 345 liter (12,2 CU FT). Bilens maksimale vægt er 4717 kg (10399 lbs), og med basisvægten på 4103 kg (9046 lbs), kan du maksimalt laste 614 kg (1354 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3628, og på ubremset er den 750 kg (7998/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

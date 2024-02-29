@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Smart #1 Brabus i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Smart #1 Brabus har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 584 nm. Den utfører sprinten 0-100 km/t på 3.9 sekunder. Topphastigheten er 180 km/t.
+Smart #1 Brabus har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 584 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 62kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6.1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 62kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6,1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 15.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 15,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 20 minutter og 29 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 10.0 tommer stor. touch-skjermen øverst på midtkonsollen er 12.8 tommer stor.
+-skjermen bak rattet montert i dashbordet er 10,0 tommer stor. touch-skjermen øverst på midtkonsollen er 12,8 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -208,7 +208,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 4/7/2022, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 07.04.2022, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #1 </strong>
 </a>

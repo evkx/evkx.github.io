@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av HiPhi X 4 Seater i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-HiPhi X 4 Seater har en maximal effekt på 433 KW (589hk). Totalt vridmoment är 820 Nm. Den gör sprinten 0-100 km/h på 3.9 sekunder.
+HiPhi X 4 Seater har en maximal effekt på 433 KW (589hk). Totalt vridmoment är 820 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 101kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 4kWh buffert för skydd. (4.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 101kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 4kWh buffert för skydd. (4,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 21.1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 21,1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 79 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 51%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 100kW. Varje laddningssession tar 27 minuter och 19 sekunder.
 
@@ -156,7 +156,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-HiPhi X 4 Seater har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 14.0 tum. Skärmen touch översta mittkonsolen är 16.9 tum. Skärmen touch framför passageraren i instrumentbrädan är 19.9 tum.
+HiPhi X 4 Seater har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 14,0 tum. Skärmen touch översta mittkonsolen är 16,9 tum. Skärmen touch framför passageraren i instrumentbrädan är 19,9 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

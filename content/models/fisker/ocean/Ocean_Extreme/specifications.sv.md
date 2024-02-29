@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				15.1 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				18.33 kWh/100km
+				18,33 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				15.2 kWh/100km
+				15,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				18.33 kwh/100km
+				18,33 kwh/100km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +155,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim EPA-förbrukning
 			</td>
 			<td>
-				3.4 mi/kWh
+				3,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Top Trim EPA Consumption
 			</td>
 			<td>
-				3.3 mi/kWh
+				3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -206,7 +206,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				106.5 kWh
+				106,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11.95 meter
+				11,95 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1164,7 +1164,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1172,7 +1172,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 17.1
+				Ja, 17,1
 			</td>
 		</tr>
 		<tr>

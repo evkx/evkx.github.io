@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Toyota bZ4X AWD i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Toyota bZ4X AWD har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 337 nm. Den utfører sprinten 0-100 km/t på 6.9 sekunder. Topphastigheten er 160 km/t.
+Toyota bZ4X AWD har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 337 nm. Den utfører sprinten 0-100 km/t på 6,9 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 71.4kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 13.4kWh-buffer for beskyttelse. (18.8%).
+Batteriet har en bruttokapasitet på 71,4kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 13,4kWh-buffer for beskyttelse. (18,8%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 470 til 415 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12.3kWh/100 km for basisversjonen og 14.0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 470 til 415 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 12,3kWh/100 km for basisversjonen og 14,0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 147 kW. En full lading fra 0 - 100 % vil ta 74 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 78kW. Hver ladeøkt vil ta 21 minutter og 27 sekunder.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 6.6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 11 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 6,6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 47 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 11 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 16 minutter.
 
 ### Ladeport
 
@@ -135,9 +135,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på Toyota bZ4X AWD.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7.0 tommer stor. touch-skjermen øverst på midtkonsollen er 8.9 tommer stor.
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7,0 tommer stor. touch-skjermen øverst på midtkonsollen er 8,9 tommer stor.
 
-Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7.0 tommer stor. touch-skjermen øverst på midtkonsollen er 12.3 tommer stor.
+Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7,0 tommer stor. touch-skjermen øverst på midtkonsollen er 12,3 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

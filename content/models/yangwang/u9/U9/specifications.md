@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for YangWang U9. Click o
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				2.36 s
+				2,36 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				17.2 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4966 mm (195.5")
+				4966 mm (195,5")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1295 mm (51.0")
+				1295 mm (51,0")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				2029 mm (79.9")
+				2029 mm (79,9")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2900 mm (114.2")
+				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1719 mm (67.7")
+				1719 mm (67,7")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1676 mm (66.0")
+				1676 mm (66,0")
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +396,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				120 mm (4.7")
+				120 mm (4,7")
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				120 mm (4.7")
+				120 mm (4,7")
 			</td>
 		</tr>
 		<tr>

@@ -29,17 +29,17 @@ Vi har opdelt vores Mercedes-EQ EQS 580 4MATIC SUV artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-Mercedes-EQ EQS 580 4MATIC SUV har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 858 nm (633 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.6 sekunder. Tophastigheden er 210 km/t.
+Mercedes-EQ EQS 580 4MATIC SUV har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 858 nm (633 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder. Tophastigheden er 210 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 125kWh og en nettokapacitet på 118kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (5.6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 125kWh og en nettokapacitet på 118kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (5,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 673 til 594 km (418-369 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17.5kWh/100 km for basisversionen og 19.9kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 673 til 594 km (418-369 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17,5kWh/100 km for basisversionen og 19,9kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 89 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 55%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 144kW. Hver opladningssession ville tage 27 minutter og 31 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28.5kWh/100 km, vil 1000 km tage 9 timer og 31 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 71 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28,5kWh/100 km, vil 1000 km tage 9 timer og 31 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 71 minutter.
 
 ### Indbygget oplader
 
@@ -181,9 +181,9 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på Mercedes-EQ EQS 580 4MATIC SUV.
 
-Standardlayoutet har følgende konfiguration. Skærmen  bag rattet monteret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch i midten af midterkonsollen er 12.8 tommer stor og har en opløsning på 1888x1728 pixels.
+Standardlayoutet har følgende konfiguration. Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch i midten af midterkonsollen er 12,8 tommer stor og har en opløsning på 1888x1728 pixels.
 
-Det valgfri MBUX Hyperscreen-layout har følgende konfiguration. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch øverst på midterkonsollen er 17.7 tommer stor og har en opløsning på 3088x1728 pixels. Skærmen  foran passageren i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels.
+Det valgfri MBUX Hyperscreen-layout har følgende konfiguration. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch øverst på midterkonsollen er 17,7 tommer stor og har en opløsning på 3088x1728 pixels. Skærmen  foran passageren i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -250,7 +250,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2735 kg (6030 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2735 kg (6030 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 

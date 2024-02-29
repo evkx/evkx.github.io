@@ -29,21 +29,21 @@ Vi har delat in vår beskrivning av Renault 5 E-Tech 52kWh 150hp i avsnitt. Om d
 
 ## Prestanda
 
-Renault 5 E-Tech 52kWh 150hp har en maximal effekt på 110 KW (150hk). Totalt vridmoment är 245 Nm. Den gör sprinten 0-100 km/h på 7.9 sekunder. Topphastigheten är 150 km/h.
+Renault 5 E-Tech 52kWh 150hp har en maximal effekt på 110 KW (150hk). Totalt vridmoment är 245 Nm. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 150 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 55kWh och en nettokapacitet på 52kWh, vilket innebär att du har en 3kWh buffert för skydd. (5.5%).
+Batteriet har en bruttokapacitet på 55kWh och en nettokapacitet på 52kWh, vilket innebär att du har en 3kWh buffert för skydd. (5,5%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 13.0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 13,0kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 68 minuter, medan ett vanligare scenario på 10-80 % tar 29 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 69kW. Varje laddningssession tar 24 minuter och 2 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19.9kWh/100km, tar 1000km 10 timmar och 29 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 4% till 61%. Total tid som går förlorad för att ladda batteriet kommer att vara 130 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19,9kWh/100km, tar 1000km 10 timmar och 29 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 4% till 61%. Total tid som går förlorad för att ladda batteriet kommer att vara 130 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7.2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 13 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 13 minuter.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
@@ -141,7 +141,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Renault 5 E-Tech 52kWh 150hp har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10.0 tum. Skärmen touch i mitten av instrumentbrädan är 10.1 tum.
+Renault 5 E-Tech 52kWh 150hp har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10,0 tum. Skärmen touch i mitten av instrumentbrädan är 10,1 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.

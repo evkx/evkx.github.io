@@ -33,7 +33,7 @@ The Hyundai Kona Standard Range has a maximum power of 160 KW (218 hp/215 bhp). 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 51kWh and a net capacity of 48.4kWh, meaning you have a 2.6kWh buffer for protection. (5.1%).
+The battery has a gross capacity of 51kWh and a net capacity of 48,4kWh, meaning you have a 2,6kWh buffer for protection. (5.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 377 km (234 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

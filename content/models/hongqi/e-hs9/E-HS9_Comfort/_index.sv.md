@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Hongqi E-HS9 Comfort i avsnitt. Om du vill v
 
 ## Prestanda
 
-Hongqi E-HS9 Comfort har en maximal effekt på 320 KW (435hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 6.5 sekunder. Topphastigheten är 200 km/h.
+Hongqi E-HS9 Comfort har en maximal effekt på 320 KW (435hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 6,5 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 84kWh och en nettokapacitet på 81.7kWh, vilket innebär att du har en 2.3kWh buffert för skydd. (2.7%).
+Batteriet har en bruttokapacitet på 84kWh och en nettokapacitet på 81,7kWh, vilket innebär att du har en 2,3kWh buffert för skydd. (2,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 396 km. Förbrukningen är 20.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 396 km. Förbrukningen är 20,6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 72%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 94kW. Varje laddningssession tar 34 minuter och 1 sekunder.
 
@@ -147,7 +147,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Hongqi E-HS9 Comfort har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm. Skärmen  bakom ratten integrerad i instrumentbrädan är 16.2 tum. Skärmen touch i mitten av bindestrecket är 16.2 tum. Skärmen touch framför passageraren i instrumentbrädan är 16.2 tum. Skärmen touch i mitten av mittkonsolen är 10.2 tum.
+Hongqi E-HS9 Comfort har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm. Skärmen  bakom ratten integrerad i instrumentbrädan är 16,2 tum. Skärmen touch i mitten av bindestrecket är 16,2 tum. Skärmen touch framför passageraren i instrumentbrädan är 16,2 tum. Skärmen touch i mitten av mittkonsolen är 10,2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

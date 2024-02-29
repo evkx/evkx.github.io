@@ -33,7 +33,7 @@ The XPENG G9 RWD Long Range has a maximum power of 230 KW (313 hp/308 bhp). The 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 98kWh and a net capacity of 93.6kWh, meaning you have a 4.4kWh buffer for protection. (4.5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 98kWh and a net capacity of 93,6kWh, meaning you have a 4,4kWh buffer for protection. (4.5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 570 km (354 mi). The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

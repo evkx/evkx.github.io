@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av BYD Han i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-BYD Han har en maksimal effekt på 380 KW (517hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 3.9 sekunder. Topphastigheten er 180 km/t.
+BYD Han har en maksimal effekt på 380 KW (517hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 3,9 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 85.4kWh og en nettokapasitet på 83kWh, noe som betyr at du har et 2.4kWh-buffer for beskyttelse. (2.8%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 85,4kWh og en nettokapasitet på 83kWh, noe som betyr at du har et 2,4kWh-buffer for beskyttelse. (2,8%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 521 km. Forbruket er 15.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 521 km. Forbruket er 15,9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 120 kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 93kW. Hver ladeøkt vil ta 30 minutter og 36 sekunder.
 
@@ -156,7 +156,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-BYD Han har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12.3 tommer stor. touch-skjermen i dashbordets sentrum er 15.6 tommer stor.
+BYD Han har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12,3 tommer stor. touch-skjermen i dashbordets sentrum er 15,6 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

@@ -71,7 +71,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q8 e-tron edition
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6.8 s
+				6,8 s
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q8 e-tron edition
 				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
-				5.8 s
+				5,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				21.8 kWh/100km
+				21,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				20.6 kWh/100km
+				20,6 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -408,7 +408,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.28
+				0,28
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Frontalområde
 			</td>
 			<td>
-				2.65
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -1991,7 +1991,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12.3
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -1999,7 +1999,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, två 10.1" och 8.6"
+				Ja, två 10,1" och 8,6"
 			</td>
 		</tr>
 		<tr>

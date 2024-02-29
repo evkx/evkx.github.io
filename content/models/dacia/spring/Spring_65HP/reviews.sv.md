@@ -10,21 +10,21 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The most affordable EV? New Dacia Spring reveal REVIEW</h3>
-<p>Autogefühl: 21/02/2024</p>
+<p>Autogefühl: 21.02.2024</p>
 
 {{< youtube 5fUCH8tRDvo >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>NEW £20,000 Dacia Spring - The Cheapest Proper Electric Car</h3>
-<p>AutoTrader: 21/02/2024</p>
+<p>AutoTrader: 21.02.2024</p>
 
 {{< youtube nI4iZMVpY3o >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The £15k electric supermini is HERE! - 2024 Dacia Spring FIRST LOOK</h3>
-<p>Electrifying: 21/02/2024</p>
+<p>Electrifying: 21.02.2024</p>
 
 {{< youtube S1P2E54y3sI >}}
 

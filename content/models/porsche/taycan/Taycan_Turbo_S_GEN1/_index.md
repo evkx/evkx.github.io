@@ -39,7 +39,7 @@ With overboost, the Porsche Taycan Turbo S (GEN1) has a maximum power of 560 KW 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93.4kWh and a net capacity of 83.7kWh, meaning you have a 9.7kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 507 to 435 km (315-270 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.5kWh/100km for the basic version and 19.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

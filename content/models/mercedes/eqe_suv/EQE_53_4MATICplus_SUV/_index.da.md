@@ -29,15 +29,15 @@ Vi har opdelt vores Mercedes-AMG EQE 53 4MATIC+ SUV artikel i sektioner. Hvis du
 
 ## Ydeevne
 
-Mercedes-AMG EQE 53 4MATIC+ SUV har en maksimal effekt på 460 KW (625 hk/617 hk). Det samlede drejningsmoment er 950 nm (701 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.7 sekunder. Tophastigheden er 220 km/t.
+Mercedes-AMG EQE 53 4MATIC+ SUV har en maksimal effekt på 460 KW (625 hk/617 hk). Det samlede drejningsmoment er 950 nm (701 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Tophastigheden er 220 km/t.
 
-Hvis du ikke er tilfreds nok med standardydelsen, kan du tilføje ydelsesmuligheden AMG Dynamic Plus. Så er tallene forbedret. Mercedes-AMG EQE 53 4MATIC+ SUV har en maksimal effekt på 505 KW (687 hk/677 hk). Det samlede drejningsmoment er 1000 nm (738 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.5 sekunder. Tophastigheden er 240 km/t.
+Hvis du ikke er tilfreds nok med standardydelsen, kan du tilføje ydelsesmuligheden AMG Dynamic Plus. Så er tallene forbedret. Mercedes-AMG EQE 53 4MATIC+ SUV har en maksimal effekt på 505 KW (687 hk/677 hk). Det samlede drejningsmoment er 1000 nm (738 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Tophastigheden er 240 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 96.12kWh og en nettokapacitet på 90.6kWh, hvilket betyder, at du har en 5.52kWh buffer til beskyttelse. (5.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 96,12kWh og en nettokapacitet på 90,6kWh, hvilket betyder, at du har en 5,52kWh buffer til beskyttelse. (5,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 470 til 375 km (292-233 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19.3kWh/100 km for basisversionen og 24.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 470 til 375 km (292-233 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19,3kWh/100 km for basisversionen og 24,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 170kW. En fuld opladning fra 0 - 100 % ville tage 55 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 64%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 121kW. Hver opladningssession ville tage 28 minutter og 48 sekunder.
 
@@ -169,9 +169,9 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på Mercedes-AMG EQE 53 4MATIC+ SUV.
 
-Standardlayoutet har følgende konfiguration. Skærmen  bag rattet monteret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch i midten af midterkonsollen er 12.8 tommer stor og har en opløsning på 1888x1728 pixels.
+Standardlayoutet har følgende konfiguration. Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch i midten af midterkonsollen er 12,8 tommer stor og har en opløsning på 1888x1728 pixels.
 
-Det valgfri MBUX Hyperscreen-layout har følgende konfiguration. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch øverst på midterkonsollen er 17.7 tommer stor og har en opløsning på 3088x1728 pixels. Skærmen  foran passageren i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels.
+Det valgfri MBUX Hyperscreen-layout har følgende konfiguration. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch øverst på midterkonsollen er 17,7 tommer stor og har en opløsning på 3088x1728 pixels. Skærmen  foran passageren i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -238,7 +238,7 @@ Med Driver Assistance Package Plus  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1675 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3195 kg (7044 lbs), og med basisvægten på 2690 kg (5930 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1675 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3195 kg (7044 lbs), og med basisvægten på 2690 kg (5930 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 

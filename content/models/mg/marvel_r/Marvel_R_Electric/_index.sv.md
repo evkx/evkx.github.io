@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av MG Marvel R Electric i avsnitt. Om du vill v
 
 ## Prestanda
 
-MG Marvel R Electric har en maximal effekt på 132 KW (180hk). Totalt vridmoment är 410 Nm. Den gör sprinten 0-100 km/h på 7.9 sekunder. Topphastigheten är 160 km/h.
+MG Marvel R Electric har en maximal effekt på 132 KW (180hk). Totalt vridmoment är 410 Nm. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 5kWh buffert för skydd. (6.7%).
+Batteriet har en bruttokapacitet på 75kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 5kWh buffert för skydd. (6,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 402 km. Förbrukningen är 17.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 402 km. Förbrukningen är 17,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 94 kW. En full laddning från 0 - 100 % tar 114 minuter, medan ett vanligare scenario på 10-80 % tar 43 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 61%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 63kW. Varje laddningssession tar 35 minuter och 7 sekunder.
 
@@ -137,7 +137,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 7.0 tum. Skärmen touch översta mittkonsolen är 10.2 tum.
+Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 10,2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 
@@ -193,7 +193,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 10/7/2021 och leveranserna startade i January 2022.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 07.10.2021 och leveranserna startade i January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Marvel R </strong>
 </a>

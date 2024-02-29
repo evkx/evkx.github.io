@@ -33,9 +33,9 @@ BYD Dolphin 60.4kWh har en maksimal effekt på 150 KW (204hk). Totalt dreiemomen
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60.4kWh og en nettokapasitet på 62kWh, noe som betyr at du har et -1.6kWh-buffer for beskyttelse. (-2.6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 60,4kWh og en nettokapasitet på 62kWh, noe som betyr at du har et -1,6kWh-buffer for beskyttelse. (-2,6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 427 km. Forbruket er 14.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 427 km. Forbruket er 14,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 88 kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 60%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 88kW. Hver ladeøkt vil ta 24 minutter og 12 sekunder.
 
@@ -153,9 +153,9 @@ Du har trådløs lading for telefonen din.
 
 To forskjellige skjermoppsett er tilgjengelige på BYD Dolphin 60.4kWh.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 12.8 tommer stor.
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 12,8 tommer stor.
 
-Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5.0 tommer stor. touch-skjermen i dashbordets sentrum er 15.6 tommer stor.
+Det valgfrie Design-oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 15,6 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

@@ -33,9 +33,9 @@ Honda Prologue AWD har en maximal effekt på 214 KW (291hk). Totalt vridmoment �
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 85kWh, vilket innebär att du har en 4kWh buffert för skydd. (4.5%).
+Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 85kWh, vilket innebär att du har en 4kWh buffert för skydd. (4,5%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 281 till 273 miles (452-439 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 3.3mi/kWh för basversionen och 3.2mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 281 till 273 miles (452-439 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 3,3mi/kWh för basversionen och 3,2mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 102kW. Varje laddningssession tar 25 minuter och 56 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11.5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 23 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 23 minuter.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
@@ -140,7 +140,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Honda Prologue AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 11.0 tum. Skärmen touch översta mittkonsolen är 11.3 tum.
+Honda Prologue AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 11,0 tum. Skärmen touch översta mittkonsolen är 11,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

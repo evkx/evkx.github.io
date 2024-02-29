@@ -29,13 +29,13 @@ Vi har opdelt vores Lucid Air Pure artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Lucid Air Pure har en maksimal effekt på 320 KW (435 hk/429 hk). Det samlede drejningsmoment er 400 nm (295 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.5 sekunder. Tophastigheden er 200 km/t.
+Lucid Air Pure har en maksimal effekt på 320 KW (435 hk/429 hk). Det samlede drejningsmoment er 400 nm (295 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 94kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2.1%).
+Batteriet har en bruttokapacitet på 94kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 747 til 708 km (464-440 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.3kWh/100 km for basisversionen og 13.0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 747 til 708 km (464-440 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12,3kWh/100 km for basisversionen og 13,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 163kW. Hver opladningssession ville tage 16 minutter og 18 sekunder.
 
@@ -145,7 +145,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Oven på instrumentbrættet er en delt ramme med tre skærme, og i midterkonsollen er der en fjerde [infotainment-skærm](../../../../technology /brugergrænseflade/skærme/#infotainment-skærm). Skærmen touch i venstre side af den delte ramme er 8.0 tommer stor. Skærmen  bag rattet i midten af den delte ramme er 14.0 tommer stor. Skærmen touch i højre del af den delte ramme er 12.0 tommer stor. Skærmen touch i midten af midterkonsollen er 12.0 tommer stor.
+Oven på instrumentbrættet er en delt ramme med tre skærme, og i midterkonsollen er der en fjerde [infotainment-skærm](../../../../technology /brugergrænseflade/skærme/#infotainment-skærm). Skærmen touch i venstre side af den delte ramme er 8,0 tommer stor. Skærmen  bag rattet i midten af den delte ramme er 14,0 tommer stor. Skærmen touch i højre del af den delte ramme er 12,0 tommer stor. Skærmen touch i midten af midterkonsollen er 12,0 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -200,7 +200,7 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165.3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10.0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10,0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

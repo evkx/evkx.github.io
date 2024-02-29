@@ -29,13 +29,13 @@ Vi har opdelt vores BYD Atto 3 artikel i sektioner. Hvis du vil vente med at læ
 
 ## Ydeevne
 
-BYD Atto 3 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7.3 sekunder. Tophastigheden er 160 km/t.
+BYD Atto 3 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 160 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 60.5kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 2.5kWh buffer til beskyttelse. (4.1%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 60,5kWh og en nettokapacitet på 58kWh, hvilket betyder, at du har en 2,5kWh buffer til beskyttelse. (4,1%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 420 km (261 mi). Forbruget er 13.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 420 km (261 mi). Forbruget er 13,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 88kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 67kW. Hver opladningssession ville tage 32 minutter og 40 sekunder.
 
@@ -153,9 +153,9 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på BYD Atto 3.
 
-Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5.0 tommer stor. Skærmen touch i dashboardets midte er 12.8 tommer stor.
+Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,8 tommer stor.
 
-Det valgfri Design-layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5.0 tommer stor. Skærmen touch i dashboardets midte er 15.6 tommer stor.
+Det valgfri Design-layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor. Skærmen touch i dashboardets midte er 15,6 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -215,7 +215,7 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1338 liter. På taget kan du laste op til 50 kg (110.2 lbs). Bilens maksimale vægt er 2160 kg (4762 lbs), og med basisvægten på 1750 kg (3858 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1338 liter. På taget kan du laste op til 50 kg (110,2 lbs). Bilens maksimale vægt er 2160 kg (4762 lbs), og med basisvægten på 1750 kg (3858 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

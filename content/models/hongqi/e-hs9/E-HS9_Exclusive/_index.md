@@ -33,7 +33,7 @@ The Hongqi E-HS9 Exclusive has a maximum power of 405 KW (551 hp/543 bhp). The t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 99kWh and a net capacity of 95.3kWh, meaning you have a 3.7kWh buffer for protection. (3.7%).
+The battery has a gross capacity of 99kWh and a net capacity of 95,3kWh, meaning you have a 3,7kWh buffer for protection. (3.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 465 km (289 mi). The consumption is 20.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

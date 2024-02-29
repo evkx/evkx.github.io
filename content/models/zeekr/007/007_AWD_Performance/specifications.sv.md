@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Zeekr 007 AWD Performa
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				2.84 s
+				2,84 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				14.4 kWh/100km
+				14,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>

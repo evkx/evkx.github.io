@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Nio ES8. Klicka på bi
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4.9 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				19.6 kWh/100km
+				19,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				19.6 kWh/100km
+				19,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -230,7 +230,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				70.5 kWh
+				70,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.29
+				0,29
 			</td>
 		</tr>
 	</tbody>
@@ -1307,7 +1307,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 9.8
+				Ja, 9,8
 			</td>
 		</tr>
 		<tr>
@@ -1315,7 +1315,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 11.3
+				Ja, 11,3
 			</td>
 		</tr>
 		<tr>

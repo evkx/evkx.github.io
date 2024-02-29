@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQS 450+ i avsnitt. Om du vill v
 
 ## Prestanda
 
-Mercedes-EQ EQS 450+ har en maximal effekt på 265 KW (360hk). Totalt vridmoment är 800 Nm. Den gör sprinten 0-100 km/h på 5.6 sekunder. Topphastigheten är 210 km/h.
+Mercedes-EQ EQS 450+ har en maximal effekt på 265 KW (360hk). Totalt vridmoment är 800 Nm. Den gör sprinten 0-100 km/h på 5,6 sekunder. Topphastigheten är 210 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 108.4kWh, vilket innebär att du har en 11.6kWh buffert för skydd. (9.7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 108,4kWh, vilket innebär att du har en 11,6kWh buffert för skydd. (9,7%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 783 till 642 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.8kWh/100 km för basversionen och 16.9kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 783 till 642 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13,8kWh/100 km för basversionen och 16,9kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 210 kW. En full laddning från 0 - 100 % tar 82 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 142kW. Varje laddningssession tar 26 minuter och 41 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19.8kWh/100km, tar 1000km 8 timmar och 59 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 43%. Total tid som går förlorad för att ladda batteriet kommer att vara 40 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19,8kWh/100km, tar 1000km 8 timmar och 59 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 43%. Total tid som går förlorad för att ladda batteriet kommer att vara 40 minuter.
 
 ### Inbyggd laddare
 
@@ -178,9 +178,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på Mercedes-EQ EQS 450+.
 
-Standardlayouten har följande konfiguration. Skärmen  bakom ratten monterad i instrumentbrädan är 12.3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch i mitten av mittkonsolen är 12.8 tum och har en upplösning på 1888x1728 pixlar.
+Standardlayouten har följande konfiguration. Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch i mitten av mittkonsolen är 12,8 tum och har en upplösning på 1888x1728 pixlar.
 
-Den valfria MBUX Hyperscreen-layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch översta mittkonsolen är 17.7 tum och har en upplösning på 3088x1728 pixlar. Skärmen  framför passageraren i instrumentbrädan är 12.3 tum och har en upplösning på 2400x900 pixlar.
+Den valfria MBUX Hyperscreen-layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch översta mittkonsolen är 17,7 tum och har en upplösning på 3088x1728 pixlar. Skärmen  framför passageraren i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.

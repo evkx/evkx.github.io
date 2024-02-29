@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för MG Cyberster AWD Long 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3.2 s
+				3,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				14.3 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				74.4 kWh
+				74,4 kWh
 			</td>
 		</tr>
 		<tr>

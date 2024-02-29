@@ -29,13 +29,13 @@ Vi har opdelt vores BMW iX3 artikel i sektioner. Hvis du vil vente med at læse 
 
 ## Ydeevne
 
-BMW iX3 har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 400 nm (295 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.8 sekunder. Tophastigheden er 180 km/t.
+BMW iX3 har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 400 nm (295 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,8 sekunder. Tophastigheden er 180 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 80kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (7.5%).
+Batteriet har en bruttokapacitet på 80kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (7,5%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 461 til 453 km (287-282 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.1kWh/100 km for basisversionen og 16.3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 461 til 453 km (287-282 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,1kWh/100 km for basisversionen og 16,3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 102kW. Hver opladningssession ville tage 26 minutter og 4 sekunder.
 
@@ -150,7 +150,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 12.0 tommer stor. Skærmen touch i dashboardets midte er 12.3 tommer stor.
+Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor. Skærmen touch i dashboardets midte er 12,3 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -204,7 +204,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 510 liter. Med bagsædet nede er det 1560 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 2725 kg (6008 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 540 kg (1190 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 510 liter. Med bagsædet nede er det 1560 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2725 kg (6008 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 540 kg (1190 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

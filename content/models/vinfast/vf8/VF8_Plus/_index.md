@@ -33,7 +33,7 @@ The VinFast VF8 Plus has a maximum power of 300 KW (408 hp/402 bhp). The total t
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 94kWh and a net capacity of 87.7kWh, meaning you have a 6.3kWh buffer for protection. (6.7%).
+The battery has a gross capacity of 94kWh and a net capacity of 87,7kWh, meaning you have a 6,3kWh buffer for protection. (6.7%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 447 km (278 mi). The consumption is 19.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

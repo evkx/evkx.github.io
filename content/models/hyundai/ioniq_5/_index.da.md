@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ioniq_5_long_range_2wd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ioniq 5 Long Range 2WD" ></a>
-<i class="bi bi-battery-full"></i> 77.4 kWh <i class="bi bi-ev-station"></i> 233 kW 
+<i class="bi bi-battery-full"></i> 77,4 kWh <i class="bi bi-ev-station"></i> 233 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ioniq_5_long_range_awd/"><img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_5/ioniq_5_long_range_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ioniq 5 Long Range AWD" ></a>
-<i class="bi bi-battery-full"></i> 77.4 kWh <i class="bi bi-ev-station"></i> 233 kW 
+<i class="bi bi-battery-full"></i> 77,4 kWh <i class="bi bi-ev-station"></i> 233 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

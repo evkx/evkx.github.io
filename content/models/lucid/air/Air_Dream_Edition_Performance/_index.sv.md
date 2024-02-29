@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av Lucid Air Dream Edition Performance i avsnit
 
 ## Prestanda
 
-Lucid Air Dream Edition Performance har en maximal effekt på 828 KW (1126hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 2.7 sekunder. Topphastigheten är 270 km/h.
+Lucid Air Dream Edition Performance har en maximal effekt på 828 KW (1126hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 2,7 sekunder. Topphastigheten är 270 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 118kWh och en nettokapacitet på 117kWh, vilket innebär att du har en 1kWh buffert för skydd. (0.8%).
+Batteriet har en bruttokapacitet på 118kWh och en nettokapacitet på 117kWh, vilket innebär att du har en 1kWh buffert för skydd. (0,8%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 861 till 828 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.6kWh/100 km för basversionen och 14.1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 861 till 828 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13,6kWh/100 km för basversionen och 14,1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 174kW. Varje laddningssession tar 18 minuter och 7 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19.5kWh/100km, tar 1000km 8 timmar och 48 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 35%. Total tid som går förlorad för att ladda batteriet kommer att vara 28 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19,5kWh/100km, tar 1000km 8 timmar och 48 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 35%. Total tid som går förlorad för att ladda batteriet kommer att vara 28 minuter.
 
 ### Inbyggd laddare
 
@@ -151,7 +151,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8.0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 14.0 tum. Skärmen touch på höger sida av den delade ramen är 12.0 tum. Skärmen touch i mitten av mittkonsolen är 12.0 tum.
+Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm) Skärmen touch på vänster sida av den delade ramen är 8,0 tum. Skärmen  bakom ratten i mitten av den delade ramen är 14,0 tum. Skärmen touch på höger sida av den delade ramen är 12,0 tum. Skärmen touch i mitten av mittkonsolen är 12,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

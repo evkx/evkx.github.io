@@ -33,7 +33,7 @@ The BYD Seagull 38kWh has a maximum power of 55 KW (75 hp/74 bhp). The total tor
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 38.8kWh and a net capacity of 37kWh, meaning you have a 1.8kWh buffer for protection. (4.6%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The battery has a gross capacity of 38,8kWh and a net capacity of 37kWh, meaning you have a 1,8kWh buffer for protection. (4.6%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 405 km ( miles). The consumption is 9.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

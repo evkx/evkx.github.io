@@ -31,25 +31,25 @@ Vi har delt vår beskrivelse av Porsche Taycan i seksjoner. Hvis du vil vente me
 
 
 
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan en maksimal effekt på 410 KW (557hk). Uten overboost er den 340KW (462hk). Dreiemomentet er 357 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 4.8 sekunder. Topphastigheten er 230 km/t. Med overboost har Porsche Taycan en maksimal effekt på 360 KW (490hk). Uten overboost er den 280KW (381hk). Dreiemomentet er 345 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 4.8 sekunder. Topphastigheten er 230 km/t.
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan en maksimal effekt på 410 KW (557hk). Uten overboost er den 340KW (462hk). Dreiemomentet er 357 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 4,8 sekunder. Topphastigheten er 230 km/t. Med overboost har Porsche Taycan en maksimal effekt på 360 KW (490hk). Uten overboost er den 280KW (381hk). Dreiemomentet er 345 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 4,8 sekunder. Topphastigheten er 230 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Porsche Taycan har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
 ### Performance Battery Plus
 
-Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7.6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 678 til 503 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.3kWh/100 km for basisversjonen og 19.3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 678 til 503 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,3kWh/100 km for basisversjonen og 19,3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 320 kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 15 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 212kW. Hver ladeøkt vil ta 18 minutter og 32 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 8 timer og 52 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 5% til 64%. Totalt tapt tid for å lade opp batteriet vil være 33 minutter.
 ### Performance Battery
 
-Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 83.6kWh, noe som betyr at du har et 5.4kWh-buffer for beskyttelse. (6.1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 83,6kWh, noe som betyr at du har et 5,4kWh-buffer for beskyttelse. (6,1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 484 til 407 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14.3kWh/100 km for basisversjonen og 19.3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 484 til 407 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,3kWh/100 km for basisversjonen og 19,3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 52 sekunder.
 
@@ -196,7 +196,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-Porsche Taycan har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16.8 tommer stor. touch-skjermen øverst på midtkonsollen er 10.9 tommer stor. touch-skjermen nederst på midtkonsollen er 8.4 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10.9 tommer stor.
+Porsche Taycan har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16,8 tommer stor. touch-skjermen øverst på midtkonsollen er 10,9 tommer stor. touch-skjermen nederst på midtkonsollen er 8,4 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

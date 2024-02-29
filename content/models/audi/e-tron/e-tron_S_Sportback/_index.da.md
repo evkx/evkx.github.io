@@ -35,13 +35,13 @@ Denne model er blevet erstattet af [Audi SQ8 Sportback e-tron](/models/audi/q8_e
 
 ## Ydeevne
 
-Med overboost har Audi e-tron S Sportback en maksimal effekt på 370 KW (503 hk / 435 bhp). Uden overboost er den 320 KW (435 hk / 496 hk). Momentet er 973 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4.5 sekunder med overboost og 6.6 sekunder uden overboost. Tophastigheden er 200 km/t.
+Med overboost har Audi e-tron S Sportback en maksimal effekt på 370 KW (503 hk / 435 bhp). Uden overboost er den 320 KW (435 hk / 496 hk). Momentet er 973 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder med overboost og 6,6 sekunder uden overboost. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 95kWh og en nettokapacitet på 86kWh, hvilket betyder, at du har en 9kWh buffer til beskyttelse. (9.5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 95kWh og en nettokapacitet på 86kWh, hvilket betyder, at du har en 9kWh buffer til beskyttelse. (9,5%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 379 til 347 km (236-216 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 22.7kWh/100 km for basisversionen og 24.8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 379 til 347 km (236-216 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 22,7kWh/100 km for basisversionen og 24,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 44 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 81%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 118kW. Hver opladningssession ville tage 34 minutter og 14 sekunder.
 
@@ -201,7 +201,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Audi e-tron S Sportback har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch øverst på midterkonsollen er 10.1 tommer stor og har en opløsning på 1540 x 720 pixels. Skærmen touch i bunden af midterkonsollen er 8.6 tommer stor og har en opløsning på 1280 x 660 pixels.
+Audi e-tron S Sportback har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch øverst på midterkonsollen er 10,1 tommer stor og har en opløsning på 1540 x 720 pixels. Skærmen touch i bunden af midterkonsollen er 8,6 tommer stor og har en opløsning på 1280 x 660 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -269,7 +269,7 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 3280 kg (7231 lbs), og med basisvægten på 2655 kg (5853 lbs), kan du maksimalt laste 625 kg (1378 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3280 kg (7231 lbs), og med basisvægten på 2655 kg (5853 lbs), kan du maksimalt laste 625 kg (1378 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 
@@ -278,7 +278,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 11/19/2019, og leveringerne startede i May 2020. Denne model er nu udgået. Denne model er blevet erstattet af [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 19.11.2019, og leveringerne startede i May 2020. Denne model er nu udgået. Denne model er blevet erstattet af [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
 </a>

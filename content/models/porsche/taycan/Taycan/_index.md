@@ -47,7 +47,7 @@ The maximum DC charging speed is 320kW. A full charge from 0 - 100% would take 4
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 8 hours and 52 minutes. This trip will require two charge session(s) charging from 5% to 64%. The total time lost for charging up the battery will be 33 minutes.
 ### Performance Battery
 
-The battery has a gross capacity of 89kWh and a net capacity of 83.6kWh, meaning you have a 5.4kWh buffer for protection. (6.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 89kWh and a net capacity of 83,6kWh, meaning you have a 5,4kWh buffer for protection. (6.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 484 to 407 km (301-253 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.3kWh/100km for the basic version and 19.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

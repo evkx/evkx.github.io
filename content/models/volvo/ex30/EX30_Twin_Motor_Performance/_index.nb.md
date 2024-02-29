@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Volvo EX30 Twin Motor Performance i seksjoner. H
 
 ## Ytelse
 
-Volvo EX30 Twin Motor Performance har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 543 nm. Den utfører sprinten 0-100 km/t på 3.6 sekunder. Topphastigheten er 180 km/t.
+Volvo EX30 Twin Motor Performance har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 543 nm. Den utfører sprinten 0-100 km/t på 3,6 sekunder. Topphastigheten er 180 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (7.2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 69kWh og en nettokapasitet på 64kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (7,2%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 460 km. Forbruket er 13.9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 460 km. Forbruket er 13,9kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 153 kW. En full lading fra 0 - 100 % vil ta 82 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 21 minutter og 58 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EX30 Twin Motor Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 12.3 tommer stor.
+Volvo EX30 Twin Motor Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 12,3 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

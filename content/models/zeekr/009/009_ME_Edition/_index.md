@@ -207,7 +207,7 @@ The cargo capacity in the trunk is 376 liters. With the third-row seat down, it 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 4/14/2021, and deliveries started in October 2021. This model is only available in China.<div class="mt-3 mb-3">
+This model had a world premiere on 14.04.2021, and deliveries started in October 2021. This model is only available in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 009 </strong>
 </a>

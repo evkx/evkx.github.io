@@ -29,13 +29,13 @@ Vi har opdelt vores BYD Seal U Design artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-BYD Seal U Design har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9.3 sekunder. Tophastigheden er 175 km/t.
+BYD Seal U Design har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9,3 sekunder. Tophastigheden er 175 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 87kWh og en nettokapacitet på 87kWh, hvilket betyder, at du har en 0kWh buffer til beskyttelse. (0.0%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 87kWh og en nettokapacitet på 87kWh, hvilket betyder, at du har en 0kWh buffer til beskyttelse. (0,0%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 500 km (311 mi). Forbruget er 17.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 500 km (311 mi). Forbruget er 17,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 140kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 37 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 93kW. Hver opladningssession ville tage 31 minutter og 47 sekunder.
 
@@ -145,7 +145,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-BYD Seal U Design har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 10.3 tommer stor. Skærmen touch i dashboardets midte er 15.6 tommer stor.
+BYD Seal U Design har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 15,6 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 ## Infotainment

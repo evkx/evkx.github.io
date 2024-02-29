@@ -10,7 +10,7 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Electric estate! Peugeot e-308 SW driving REVIEW</h3>
-<p>Autogefühl: 23/11/2023</p>
+<p>Autogefühl: 23.11.2023</p>
 
 {{< youtube v1jBCM8jYl0 >}}
 

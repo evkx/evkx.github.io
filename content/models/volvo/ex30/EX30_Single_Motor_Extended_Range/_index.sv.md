@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Volvo EX30 Single Motor Extended Range i avs
 
 ## Prestanda
 
-Volvo EX30 Single Motor Extended Range har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 343 Nm. Den gör sprinten 0-100 km/h på 5.3 sekunder. Topphastigheten är 180 km/h.
+Volvo EX30 Single Motor Extended Range har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 343 Nm. Den gör sprinten 0-100 km/h på 5,3 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 5kWh buffert för skydd. (7.2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 5kWh buffert för skydd. (7,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 13.9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 13,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 153 kW. En full laddning från 0 - 100 % tar 82 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 90kW. Varje laddningssession tar 21 minuter och 58 sekunder.
 
@@ -138,7 +138,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volvo EX30 Single Motor Extended Range har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 12.3 tum.
+Volvo EX30 Single Motor Extended Range har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 12,3 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Zeekr 001 Privilege AWD i avsnitt. Om du vil
 
 ## Prestanda
 
-Zeekr 001 Privilege AWD har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 3.8 sekunder. Topphastigheten är 200 km/h.
+Zeekr 001 Privilege AWD har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder. Topphastigheten är 200 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 95kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 580 km. Förbrukningen är 16.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 580 km. Förbrukningen är 16,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 134kW. Varje laddningssession tar 23 minuter och 54 sekunder.
 
@@ -140,7 +140,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Zeekr 001 Privilege AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 8.8 tum. Skärmen touch översta mittkonsolen är 15.4 tum.
+Zeekr 001 Privilege AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 8,8 tum. Skärmen touch översta mittkonsolen är 15,4 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -206,7 +206,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 4/14/2021 och leveranserna startade i October 2021.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 14.04.2021 och leveranserna startade i October 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Zeekr 001 </strong>
 </a>

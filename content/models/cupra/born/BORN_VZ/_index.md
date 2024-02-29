@@ -213,7 +213,7 @@ The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 12
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model had a world premiere on 2/20/2024, and deliveries started in August 2024.<div class="mt-3 mb-3">
+This model had a world premiere on 20.02.2024, and deliveries started in August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> CUPRA BORN </strong>
 </a>

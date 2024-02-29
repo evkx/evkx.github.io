@@ -43,7 +43,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				700 km / 435 mi
 			</td>
 			<td>
-				12.29kWh/100km / 5.1 mi/kWh
+				12,29kWh/100km / 5,1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				622 km / 386 mi
 			</td>
 			<td>
-				13.83 kWh/100km / 4.5 mi/kWh
+				13,83 kWh/100km / 4,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -90,7 +90,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				 519km / 322 mi 
 			</td>
 			<td>
-				-25.9%
+				-25,9%
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				474 km / 295 mi
 			</td>
 			<td>
-				-23.8%
+				-23,8%
 			</td>
 		</tr>
 	</tbody>
@@ -135,7 +135,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				593km / 368 mi
 			</td>
 			<td>
-				14.5 kWh/100km / 4.3 mi/kWh
+				14,5 kWh/100km / 4,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +146,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				532km /319mi
 			</td>
 			<td>
-				16.7 kWh/100km /3.7 mi/kWh 
+				16,7 kWh/100km /3,7 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -157,7 +157,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				453 km / 281 mi
 			</td>
 			<td>
-				19 kWh/100km / 3.3 mi/kWh
+				19 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -168,7 +168,7 @@ The table below shows some estimated real-world examples in perfect condition an
 				416 km /258mi
 			</td>
 			<td>
-				20.7 kWh/100km /3.0 mi/kWh
+				20,7 kWh/100km /3,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>

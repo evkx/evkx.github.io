@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Polestar 4 Long range Single motor i avsnitt
 
 ## Prestanda
 
-Polestar 4 Long range Single motor har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 343 Nm. Den gör sprinten 0-100 km/h på 7.4 sekunder. Topphastigheten är 180 km/h.
+Polestar 4 Long range Single motor har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 343 Nm. Den gör sprinten 0-100 km/h på 7,4 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 94kWh, vilket innebär att du har en 6kWh buffert för skydd. (6.0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 94kWh, vilket innebär att du har en 6kWh buffert för skydd. (6,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 610 km. Förbrukningen är 15.4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 610 km. Förbrukningen är 15,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 60 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 133kW. Varje laddningssession tar 22 minuter och 41 sekunder.
 
@@ -135,7 +135,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Polestar 4 Long range Single motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.0 tum. Skärmen touch översta mittkonsolen är 15.4 tum.
+Polestar 4 Long range Single motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10,0 tum. Skärmen touch översta mittkonsolen är 15,4 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 ## Infotainment

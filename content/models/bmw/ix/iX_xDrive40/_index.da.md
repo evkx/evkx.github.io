@@ -29,13 +29,13 @@ Vi har opdelt vores BMW iX xDrive40 artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-BMW iX xDrive40 har en maksimal effekt på 240 KW (326 hk/322 hk). Det samlede drejningsmoment er 630 nm (465 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.1 sekunder. Tophastigheden er 200 km/t.
+BMW iX xDrive40 har en maksimal effekt på 240 KW (326 hk/322 hk). Det samlede drejningsmoment er 630 nm (465 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Tophastigheden er 200 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 76.6kWh og en nettokapacitet på 71kWh, hvilket betyder, at du har en 5.6kWh buffer til beskyttelse. (7.3%).
+Batteriet har en bruttokapacitet på 76,6kWh og en nettokapacitet på 71kWh, hvilket betyder, at du har en 5,6kWh buffer til beskyttelse. (7,3%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 425 til 372 km (264-231 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.7kWh/100 km for basisversionen og 19.1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 425 til 372 km (264-231 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,7kWh/100 km for basisversionen og 19,1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 42%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 93kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
 
@@ -153,7 +153,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-BMW iX xDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 14.9 tommer stor og har en opløsning på 2880 x 1080 pixels.
+BMW iX xDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 14,9 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -211,7 +211,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1750 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 3010 kg (6636 lbs), og med basisvægten på 2365 kg (5214 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1750 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3010 kg (6636 lbs), og med basisvægten på 2365 kg (5214 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2500, og på ubremset er den 750 kg (5512/1653 lbs).
 

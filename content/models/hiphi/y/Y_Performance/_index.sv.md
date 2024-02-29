@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av HiPhi Y Performance i avsnitt. Om du vill v�
 
 ## Prestanda
 
-HiPhi Y Performance har en maximal effekt på 371 KW (504hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 4.7 sekunder.
+HiPhi Y Performance har en maximal effekt på 371 KW (504hk). Totalt vridmoment är 620 Nm. Den gör sprinten 0-100 km/h på 4,7 sekunder.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 115kWh och en nettokapacitet på 109kWh, vilket innebär att du har en 6kWh buffert för skydd. (5.2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 115kWh och en nettokapacitet på 109kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 620 km. Förbrukningen är 17.6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 620 km. Förbrukningen är 17,6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 91 minuter, medan ett vanligare scenario på 10-80 % tar 47 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 49%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 98kW. Varje laddningssession tar 30 minuter och 56 sekunder.
 
@@ -151,7 +151,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-HiPhi Y Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum. Skärmen touch översta mittkonsolen är 17.0 tum. Skärmen touch framför passageraren i instrumentbrädan är 15.0 tum.
+HiPhi Y Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen touch översta mittkonsolen är 17,0 tum. Skärmen touch framför passageraren i instrumentbrädan är 15,0 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -218,7 +218,7 @@ Lastkapaciteten i bagageutrymmet är 692 liter. Med baksätet nedfällt är det 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 4/18/2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 18.04.2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Y </strong>
 </a>

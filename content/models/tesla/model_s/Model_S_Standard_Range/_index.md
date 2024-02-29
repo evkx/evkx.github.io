@@ -219,7 +219,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ### Availability & Pricing
 
-This model had a world premiere on 8/20/2023, and deliveries started in September 2023. This models has now been discontined.<div class="mt-3 mb-3">
+This model had a world premiere on 20.08.2023, and deliveries started in September 2023. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
 </a>

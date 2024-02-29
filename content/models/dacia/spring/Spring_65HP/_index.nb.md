@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Dacia Spring 65HP i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Dacia Spring 65HP har en maksimal effekt på 48 KW (65hk). Totalt dreiemoment er 113 nm. Den utfører sprinten 0-100 km/t på 13.7 sekunder. Topphastigheten er 125 km/t.
+Dacia Spring 65HP har en maksimal effekt på 48 KW (65hk). Totalt dreiemoment er 113 nm. Den utfører sprinten 0-100 km/t på 13,7 sekunder. Topphastigheten er 125 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 26.8kWh og en nettokapasitet på 25kWh, noe som betyr at du har et 1.8kWh-buffer for beskyttelse. (6.7%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Batteriet har en bruttokapasitet på 26,8kWh og en nettokapasitet på 25kWh, noe som betyr at du har et 1,8kWh-buffer for beskyttelse. (6,7%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 220 km. Forbruket er 11.4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 220 km. Forbruket er 11,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 30 kW. En full lading fra 0 - 100 % vil ta 80 minutter, mens et mer vanlig scenario på 10-80 % vil ta 40 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 25kW. Hver ladeøkt vil ta 39 minutter og 30 sekunder.
 
@@ -134,7 +134,7 @@ Dacia Spring 65HP har flere funksjoner for å gjøre livet ditt som sjåfør ell
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 7.0 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum er 10.0 tommer stor.
+-skjermen bak rattet integrert i dashbordet er 7,0 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum er 10,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

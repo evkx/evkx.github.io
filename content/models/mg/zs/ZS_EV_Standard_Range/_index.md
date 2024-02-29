@@ -33,7 +33,7 @@ The MG ZS EV Standard Range has a maximum power of 115 KW (156 hp/154 bhp). The 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 51.1kWh and a net capacity of 49kWh, meaning you have a 2.1kWh buffer for protection. (4.1%).
+The battery has a gross capacity of 51,1kWh and a net capacity of 49kWh, meaning you have a 2,1kWh buffer for protection. (4.1%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 320 km (199 mi). The consumption is 15.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -204,7 +204,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 10/7/2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
+This model had a world premiere on 07.10.2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG ZS </strong>
 </a>

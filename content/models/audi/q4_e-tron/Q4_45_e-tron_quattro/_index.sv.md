@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Audi Q4 45 e-tron quattro i avsnitt. Om du v
 
 ## Prestanda
 
-Audi Q4 45 e-tron quattro har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 6.9 sekunder. Topphastigheten är 180 km/h.
+Audi Q4 45 e-tron quattro har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 6,9 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76.6kWh, vilket innebär att du har en 5.4kWh buffert för skydd. (6.6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 76,6kWh, vilket innebär att du har en 5,4kWh buffert för skydd. (6,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 512 till 434 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15.0kWh/100 km för basversionen och 17.6kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 512 till 434 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15,0kWh/100 km för basversionen och 17,6kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 60 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 51%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 115kW. Varje laddningssession tar 20 minuter och 4 sekunder.
 
@@ -170,7 +170,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Audi Q4 45 e-tron quattro har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10.2 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 11.6 tum och har en upplösning på 1540 x 720 pixlar.
+Audi Q4 45 e-tron quattro har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10,2 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 11,6 tum och har en upplösning på 1540 x 720 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -248,7 +248,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 9/21/2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 21.09.2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

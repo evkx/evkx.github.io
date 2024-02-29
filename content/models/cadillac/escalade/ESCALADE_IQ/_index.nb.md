@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Cadillac ESCALADE IQ i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Cadillac ESCALADE IQ har en maksimal effekt på 560 KW (761hk). Totalt dreiemoment er 1064 nm. Den utfører sprinten 0-100 km/t på 4.7 sekunder. Topphastigheten er 200 km/t.
+Cadillac ESCALADE IQ har en maksimal effekt på 560 KW (761hk). Totalt dreiemoment er 1064 nm. Den utfører sprinten 0-100 km/t på 4,7 sekunder. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 215kWh og en nettokapasitet på 200kWh, noe som betyr at du har et 15kWh-buffer for beskyttelse. (7.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 215kWh og en nettokapasitet på 200kWh, noe som betyr at du har et 15kWh-buffer for beskyttelse. (7,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruket er 2.3mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruket er 2,3mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 130 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 242kW. Hver ladeøkt vil ta 26 minutter og 49 sekunder.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 19.2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 25 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 19,2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 25 minutter.
 
 ### Ladeport
 
@@ -156,7 +156,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 35.0 tommer stor. touch-skjermen nederst på midtkonsollen er 11.0 tommer stor. touch-skjermen foran passasjeren på dashbordet er 20.0 tommer stor.
+-skjermen bak rattet montert i dashbordet er 35,0 tommer stor. touch-skjermen nederst på midtkonsollen er 11,0 tommer stor. touch-skjermen foran passasjeren på dashbordet er 20,0 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

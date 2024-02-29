@@ -33,9 +33,9 @@ Ford Mustang Mach-E Long Range RWD har en maksimal effekt på 216 KW (294hk). To
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 98.8kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 6.8kWh-buffer for beskyttelse. (6.9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 98,8kWh og en nettokapasitet på 92kWh, noe som betyr at du har et 6,8kWh-buffer for beskyttelse. (6,9%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 600 km. Forbruket er 15.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 600 km. Forbruket er 15,3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 154 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 85kW. Hver ladeøkt vil ta 26 minutter og 4 sekunder.
 
@@ -147,7 +147,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 10.2 tommer stor. touch-skjermen øverst på midtkonsollen er 15.5 tommer stor.
+-skjermen bak rattet montert i dashbordet er 10,2 tommer stor. touch-skjermen øverst på midtkonsollen er 15,5 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 

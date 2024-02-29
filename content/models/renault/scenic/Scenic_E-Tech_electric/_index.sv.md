@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Renault Scenic E-Tech electric i avsnitt. Om
 
 ## Prestanda
 
-Renault Scenic E-Tech electric har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 8.4 sekunder. Topphastigheten är 170 km/h.
+Renault Scenic E-Tech electric har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 8,4 sekunder. Topphastigheten är 170 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 65kWh och en nettokapacitet på 60kWh, vilket innebär att du har en 5kWh buffert för skydd. (7.7%).
+Batteriet har en bruttokapacitet på 65kWh och en nettokapacitet på 60kWh, vilket innebär att du har en 5kWh buffert för skydd. (7,7%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 450 till 429 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.3kWh/100 km för basversionen och 14.0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 450 till 429 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13,3kWh/100 km för basversionen och 14,0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 130 kW. En full laddning från 0 - 100 % tar 44 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 91kW. Varje laddningssession tar 23 minuter och 21 sekunder.
 
@@ -43,7 +43,7 @@ För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7.2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 20 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 20 minuter.
 
 ### Laddningsport
 
@@ -149,7 +149,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Renault Scenic E-Tech electric har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum. Skärmen touch på höger sida av den delade ramen är 12.3 tum.
+Renault Scenic E-Tech electric har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum. Skärmen touch på höger sida av den delade ramen är 12,3 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

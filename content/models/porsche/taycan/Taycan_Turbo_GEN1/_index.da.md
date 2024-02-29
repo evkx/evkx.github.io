@@ -31,13 +31,13 @@ Vi har opdelt vores Porsche Taycan Turbo (GEN1) artikel i sektioner. Hvis du vil
 
 
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan Turbo (GEN1) en maksimal effekt på 500 KW (680 hk / 625 bhp). Uden overboost er den 460 KW (625 hk / 671 hk). Momentet er 850 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3.2 sekunder. Tophastigheden er 260 km/t.
+Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan Turbo (GEN1) en maksimal effekt på 500 KW (680 hk / 625 bhp). Uden overboost er den 460 KW (625 hk / 671 hk). Momentet er 850 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3,2 sekunder. Tophastigheden er 260 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 93.4kWh og en nettokapacitet på 83.7kWh, hvilket betyder, at du har en 9.7kWh buffer til beskyttelse. (10.4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km (315-270 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.5kWh/100 km for basisversionen og 19.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km (315-270 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,5kWh/100 km for basisversionen og 19,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 165kW. Hver opladningssession ville tage 19 minutter og 53 sekunder.
 
@@ -176,7 +176,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Porsche Taycan Turbo (GEN1) har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen). Skærmen touch bag rattet integreret i instrumentbrættet er 16.8 tommer stor. Skærmen touch øverst på midterkonsollen er 10.9 tommer stor. Skærmen touch i bunden af midterkonsollen er 8.4 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10.9 tommer stor.
+Porsche Taycan Turbo (GEN1) har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen). Skærmen touch bag rattet integreret i instrumentbrættet er 16,8 tommer stor. Skærmen touch øverst på midterkonsollen er 10,9 tommer stor. Skærmen touch i bunden af midterkonsollen er 8,4 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -239,7 +239,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 366 liter. På taget kan du laste op til 75 kg (165.3 lbs). Bilens maksimale vægt er 2870 kg (6327 lbs), og med basisvægten på 2220 kg (4894 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 366 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2870 kg (6327 lbs), og med basisvægten på 2220 kg (4894 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

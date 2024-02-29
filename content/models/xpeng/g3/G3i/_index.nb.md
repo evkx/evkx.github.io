@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av XPENG G3i i seksjoner. Hvis du vil vente med å 
 
 ## Ytelse
 
-XPENG G3i har en maksimal effekt på 145 KW (197hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t på 8.6 sekunder. Topphastigheten er 170 km/t.
+XPENG G3i har en maksimal effekt på 145 KW (197hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t på 8,6 sekunder. Topphastigheten er 170 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 55.9kWh, noe som betyr at du har et 10.1kWh-buffer for beskyttelse. (15.3%).
+Batteriet har en bruttokapasitet på 66kWh og en nettokapasitet på 55,9kWh, noe som betyr at du har et 10,1kWh-buffer for beskyttelse. (15,3%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 420 km. Forbruket er 13.3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 420 km. Forbruket er 13,3kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 89 minutter, mens et mer vanlig scenario på 10-80 % vil ta 51 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 79%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 42kW. Hver ladeøkt vil ta 57 minutter og 43 sekunder.
 
@@ -43,7 +43,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 6.6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 28 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 6,6KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 28 minutter.
 
 ### Ladeport
 
@@ -126,7 +126,7 @@ XPENG G3i har flere funksjoner for å gjøre livet ditt som sjåfør eller passa
 
 ## Brukergrensesnitt og kontroll
 
-XPENG G3i har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor. touch-skjermen i midten av midtkonsollen er 15.6 tommer stor.
+XPENG G3i har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor. touch-skjermen i midten av midtkonsollen er 15,6 tommer stor.
 Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.

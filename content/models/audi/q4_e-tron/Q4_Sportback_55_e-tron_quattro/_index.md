@@ -33,7 +33,7 @@ The Audi Q4 Sportback 55 e-tron quattro has a maximum power of 250 KW (340 hp/33
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76.6kWh, meaning you have a 5.4kWh buffer for protection. (6.6%).
+The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6.6%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 537 to 466 km (334-290 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.3kWh/100km for the basic version and 16.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
@@ -249,7 +249,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 9/21/2023, and deliveries started in December 2023.<div class="mt-3 mb-3">
+This model had a world premiere on 21.09.2023, and deliveries started in December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>

@@ -10,7 +10,7 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>MG MARVEL R First Drive - A posher MG arriving in Europe</h3>
-<p>Fully Charged Show: 26/08/2021</p>
+<p>Fully Charged Show: 26.08.2021</p>
 
 {{< youtube 4VMXwXdoZ_Q >}}
 

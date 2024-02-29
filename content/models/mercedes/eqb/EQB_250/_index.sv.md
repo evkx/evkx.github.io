@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQB 250 i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Mercedes-EQ EQB 250 har en maximal effekt på 140 KW (190hk). Totalt vridmoment är 385 Nm. Den gör sprinten 0-100 km/h på 8.9 sekunder. Topphastigheten är 160 km/h.
+Mercedes-EQ EQB 250 har en maximal effekt på 140 KW (190hk). Totalt vridmoment är 385 Nm. Den gör sprinten 0-100 km/h på 8,9 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 69.7kWh och en nettokapacitet på 66.5kWh, vilket innebär att du har en 3.2kWh buffert för skydd. (4.6%).
+Batteriet har en bruttokapacitet på 69,7kWh och en nettokapacitet på 66,5kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (4,6%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 474 till 423 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14.0kWh/100 km för basversionen och 15.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 474 till 423 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,0kWh/100 km för basversionen och 15,7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 112 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 29 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 70%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 84kW. Varje laddningssession tar 31 minuter och 19 sekunder.
 
@@ -167,7 +167,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Mercedes-EQ EQB 250 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 10.3 tum och har en upplösning på 1920x720 pixlar. Skärmen touch på höger sida av den delade ramen är 10.3 tum och har en upplösning på 1920x720 pixlar.
+Mercedes-EQ EQB 250 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 10,3 tum och har en upplösning på 1920x720 pixlar. Skärmen touch på höger sida av den delade ramen är 10,3 tum och har en upplösning på 1920x720 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

@@ -29,17 +29,17 @@ Vi har opdelt vores Mercedes-EQ EQS 450+ artikel i sektioner. Hvis du vil vente 
 
 ## Ydeevne
 
-Mercedes-EQ EQS 450+ har en maksimal effekt på 265 KW (360 hk/355 hk). Det samlede drejningsmoment er 800 nm (590 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5.6 sekunder. Tophastigheden er 210 km/t.
+Mercedes-EQ EQS 450+ har en maksimal effekt på 265 KW (360 hk/355 hk). Det samlede drejningsmoment er 800 nm (590 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Tophastigheden er 210 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108.4kWh, hvilket betyder, at du har en 11.6kWh buffer til beskyttelse. (9.7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 108,4kWh, hvilket betyder, at du har en 11,6kWh buffer til beskyttelse. (9,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 783 til 642 km (487-399 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13.8kWh/100 km for basisversionen og 16.9kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 783 til 642 km (487-399 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13,8kWh/100 km for basisversionen og 16,9kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 210kW. En fuld opladning fra 0 - 100 % ville tage 82 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 142kW. Hver opladningssession ville tage 26 minutter og 41 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19.8kWh/100 km, vil 1000 km tage 8 timer og 59 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 43%. Den samlede tid, der går tabt for at oplade batteriet, vil være 40 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,8kWh/100 km, vil 1000 km tage 8 timer og 59 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 43%. Den samlede tid, der går tabt for at oplade batteriet, vil være 40 minutter.
 
 ### Indbygget oplader
 
@@ -178,9 +178,9 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på Mercedes-EQ EQS 450+.
 
-Standardlayoutet har følgende konfiguration. Skærmen  bag rattet monteret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch i midten af midterkonsollen er 12.8 tommer stor og har en opløsning på 1888x1728 pixels.
+Standardlayoutet har følgende konfiguration. Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch i midten af midterkonsollen er 12,8 tommer stor og har en opløsning på 1888x1728 pixels.
 
-Det valgfri MBUX Hyperscreen-layout har følgende konfiguration. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch øverst på midterkonsollen er 17.7 tommer stor og har en opløsning på 3088x1728 pixels. Skærmen  foran passageren i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels.
+Det valgfri MBUX Hyperscreen-layout har følgende konfiguration. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch øverst på midterkonsollen er 17,7 tommer stor og har en opløsning på 3088x1728 pixels. Skærmen  foran passageren i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
@@ -243,7 +243,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220.5 lbs). Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2540 kg (5600 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2540 kg (5600 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

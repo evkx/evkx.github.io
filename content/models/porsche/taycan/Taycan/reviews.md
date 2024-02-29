@@ -10,21 +10,21 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2024 Porsche Taycan facelift REVIEW - even quicker in acceleration and recharging!</h3>
-<p>Autogefühl: 07/02/2024</p>
+<p>Autogefühl: 07.02.2024</p>
 
 {{< youtube oyLWLtSwZlI >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Porsche Taycan Facelift Full Tour! Software, Range, Charging, Design, Suspension, & More Detailed</h3>
-<p>Out of Spec Reviews: 07/02/2024</p>
+<p>Out of Spec Reviews: 07.02.2024</p>
 
 {{< youtube 11XbivJhsLA >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Insane Porsche Charging Performance! New Taycan Facelift Charging Test & Comparison</h3>
-<p>Out of Spec Reviews: 06/02/2024</p>
+<p>Out of Spec Reviews: 06.02.2024</p>
 
 {{< youtube YyuvG8Ey1JA >}}
 

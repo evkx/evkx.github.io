@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volvo EM90. Klik p
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				8.3 s
+				8,3 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC-forbrug
 			</td>
 			<td>
-				14.9 kWh/100km
+				14,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5206 mm (205.0")
+				5206 mm (205,0")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1859 mm (73.2")
+				1859 mm (73,2")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				2024 mm (79.7")
+				2024 mm (79,7")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3205 mm (126.2")
+				3205 mm (126,2")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0.27
+				0,27
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				192 mm (7.6")
+				192 mm (7,6")
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				162 mm (6.4")
+				162 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -1053,7 +1053,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 10.2
+				Ja, 10,2
 			</td>
 		</tr>
 		<tr>
@@ -1061,7 +1061,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 15.4"
+				Ja, 15,4"
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Bagstpassager Infotainmentskærm
 			</td>
 			<td>
-				Ja, 15.4"
+				Ja, 15,4"
 			</td>
 		</tr>
 	</tbody>

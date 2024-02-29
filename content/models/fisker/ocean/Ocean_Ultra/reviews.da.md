@@ -10,21 +10,21 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>This is the Worst Car I've Ever Reviewed</h3>
-<p>Auto Focus: 18/02/2024</p>
+<p>Auto Focus: 18.02.2024</p>
 
 {{< youtube 6xWXRk3yaSw >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Prøvekjørt Fisker Ocean One. Hvor bra er den?</h3>
-<p>Norsk elbilforening: 04/10/2023</p>
+<p>Norsk elbilforening: 04.10.2023</p>
 
 {{< youtube ZTjDEYQpCRY >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>First Drive: new Fisker Ocean review. Sub £40k electric SUV tested.</h3>
-<p>Autocar: 31/07/2023</p>
+<p>Autocar: 31.07.2023</p>
 
 {{< youtube ixSE7DkeUpA >}}
 

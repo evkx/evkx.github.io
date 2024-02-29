@@ -29,13 +29,13 @@ Vi har opdelt vores Opel Mokka Electric artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Opel Mokka Electric har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9.1 sekunder. Tophastigheden er 150 km/t.
+Opel Mokka Electric har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9,1 sekunder. Tophastigheden er 150 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50.8kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (5.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50,8kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (5,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 406 km (252 mi). Forbruget er 12.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 406 km (252 mi). Forbruget er 12,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 57 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 66kW. Hver opladningssession ville tage 24 minutter og 25 sekunder.
 
@@ -141,7 +141,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 10.3 tommer stor. Skærmen touch i dashboardets midte er 10.3 tommer stor.
+Skærmen  bag rattet integreret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 10,3 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av BMW i7 eDrive50 i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-BMW i7 eDrive50 har en maximal effekt på 335 KW (456hk). Totalt vridmoment är 650 Nm. Den gör sprinten 0-100 km/h på 5.5 sekunder. Topphastigheten är 205 km/h.
+BMW i7 eDrive50 har en maximal effekt på 335 KW (456hk). Totalt vridmoment är 650 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 205 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 105.7kWh och en nettokapacitet på 101.7kWh, vilket innebär att du har en 4.0kWh buffert för skydd. (3.8%).
+Batteriet har en bruttokapacitet på 105,7kWh och en nettokapacitet på 101,7kWh, vilket innebär att du har en 4,0kWh buffert för skydd. (3,8%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 611 till 575 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.6kWh/100 km för basversionen och 17.7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 611 till 575 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16,6kWh/100 km för basversionen och 17,7kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 195 kW. En full laddning från 0 - 100 % tar 56 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 135kW. Varje laddningssession tar 23 minuter och 4 sekunder.
 
@@ -174,7 +174,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-BMW i7 eDrive50 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12.3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 14.9 tum och har en upplösning på 2880 x 1080 pixlar.
+BMW i7 eDrive50 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch på höger sida av den delade ramen är 14,9 tum och har en upplösning på 2880 x 1080 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

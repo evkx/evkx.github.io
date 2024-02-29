@@ -33,7 +33,7 @@ The Honda e:Ny1 has a maximum power of 150 KW (204 hp/201 bhp). The total torque
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 68.8kWh and a net capacity of 61.9kWh, meaning you have a 6.9kWh buffer for protection. (10.0%).
+The battery has a gross capacity of 68,8kWh and a net capacity of 61,9kWh, meaning you have a 6,9kWh buffer for protection. (10.0%).
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 412 km (256 mi). The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

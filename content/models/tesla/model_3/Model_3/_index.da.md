@@ -29,13 +29,13 @@ Vi har opdelt vores Tesla Model 3 artikel i sektioner. Hvis du vil vente med at 
 
 ## Ydeevne
 
-Tesla Model 3 har en maksimal effekt på 208 KW (283 hk/279 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.1 sekunder. Tophastigheden er 225 km/t.
+Tesla Model 3 har en maksimal effekt på 208 KW (283 hk/279 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Tophastigheden er 225 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 60kWh og en nettokapacitet på 59kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (1.7%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Batteriet har en bruttokapacitet på 60kWh og en nettokapacitet på 59kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (1,7%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 513 km (319 mi). Forbruget er 11.5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 513 km (319 mi). Forbruget er 11,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 170kW. En fuld opladning fra 0 - 100 % ville tage 70 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 83kW. Hver opladningssession ville tage 20 minutter og 31 sekunder.
 
@@ -144,7 +144,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Tesla Model 3 har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen  i dashboardets midte er 15.0 tommer stor og har en opløsning på 2200 x 1300 pixels.
+Tesla Model 3 har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen  i dashboardets midte er 15,0 tommer stor og har en opløsning på 2200 x 1300 pixels.
 Modellen har ikke et head-up display.
 
 
@@ -218,12 +218,12 @@ Den bruger syv [kameraer](../../../../technology/sensorsandcameras/cameras/) til
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 593 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154.3 lbs). Bilens maksimale vægt er 2149 kg (4738 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 389 kg (858 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 593 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2149 kg (4738 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 389 kg (858 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 10/1/2023, og leveringerne startede i December 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 01.10.2023, og leveringerne startede i December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

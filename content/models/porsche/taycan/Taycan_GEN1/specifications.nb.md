@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan (GEN
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5.4 s
+				5,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -119,7 +119,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan (GEN
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5.4 s
+				5,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -155,7 +155,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				16.5 kWh/100km
+				16,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +163,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				20.4 kWh/100km
+				20,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				20.1 kWh/100km
+				20,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +187,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				24.8 kwh/100km
+				24,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -219,7 +219,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				16.5 kWh/100km
+				16,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +227,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				21.5 kWh/100km
+				21,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +243,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				20.1 kWh/100km
+				20,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +251,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				25.4 kwh/100km
+				25,4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -278,7 +278,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				79.2 kWh
+				79,2 kWh
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +350,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				93.4 kWh
+				93,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +358,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				83.7 kWh
+				83,7 kWh
 			</td>
 		</tr>
 		<tr>
@@ -608,7 +608,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0.24
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -616,7 +616,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Frontalområde
 			</td>
 			<td>
-				2.35
+				2,35
 			</td>
 		</tr>
 		<tr>
@@ -632,7 +632,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel bak
 			</td>
 			<td>
-				16.4
+				16,4
 			</td>
 		</tr>
 		<tr>
@@ -640,7 +640,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11.7 meter
+				11,7 meter
 			</td>
 		</tr>
 	</tbody>
@@ -1966,7 +1966,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 16.8
+				Ja, 16,8
 			</td>
 		</tr>
 		<tr>
@@ -1974,7 +1974,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, to 10.9" og 8.4"
+				Ja, to 10,9" og 8,4"
 			</td>
 		</tr>
 		<tr>
@@ -1982,7 +1982,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm fremre passasjer
 			</td>
 			<td>
-				Ja, 10.9"
+				Ja, 10,9"
 			</td>
 		</tr>
 		<tr>

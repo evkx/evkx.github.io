@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Hyundai Ioniq 5 Long Range AWD i seksjoner. Hvis
 
 ## Ytelse
 
-Hyundai Ioniq 5 Long Range AWD har en maksimal effekt på 239 KW (325hk). Totalt dreiemoment er 605 nm. Den utfører sprinten 0-100 km/t på 5.1 sekunder. Topphastigheten er 185 km/t.
+Hyundai Ioniq 5 Long Range AWD har en maksimal effekt på 239 KW (325hk). Totalt dreiemoment er 605 nm. Den utfører sprinten 0-100 km/t på 5,1 sekunder. Topphastigheten er 185 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 77.4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3.4kWh-buffer for beskyttelse. (4.4%).
+Batteriet har en bruttokapasitet på 77,4kWh og en nettokapasitet på 74kWh, noe som betyr at du har et 3,4kWh-buffer for beskyttelse. (4,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 481 til 454 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15.4kWh/100 km for basisversjonen og 16.3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 481 til 454 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15,4kWh/100 km for basisversjonen og 16,3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 16 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 22 minutter og 59 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Hyundai Ioniq 5 Long Range AWD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12.3 tommer stor og har en oppløsning på 2880 x 1080 piksler.
+Hyundai Ioniq 5 Long Range AWD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor og har en oppløsning på 2880 x 1080 piksler.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

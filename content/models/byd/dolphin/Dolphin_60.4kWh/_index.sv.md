@@ -33,9 +33,9 @@ BYD Dolphin 60.4kWh har en maximal effekt på 150 KW (204hk). Totalt vridmoment 
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 60.4kWh och en nettokapacitet på 62kWh, vilket innebär att du har en -1.6kWh buffert för skydd. (-2.6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Batteriet har en bruttokapacitet på 60,4kWh och en nettokapacitet på 62kWh, vilket innebär att du har en -1,6kWh buffert för skydd. (−2,6%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 427 km. Förbrukningen är 14.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 427 km. Förbrukningen är 14,5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 88 kW. En full laddning från 0 - 100 % tar 48 minuter, medan ett vanligare scenario på 10-80 % tar 26 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 88kW. Varje laddningssession tar 24 minuter och 12 sekunder.
 
@@ -153,9 +153,9 @@ Du har trådlös laddning för din telefon.
 
 Två olika skärmlayouter är tillgängliga på BYD Dolphin 60.4kWh.
 
-Standardlayouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 12.8 tum.
+Standardlayouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 12,8 tum.
 
-Den valfria Design-layouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5.0 tum. Skärmen touch i mitten av instrumentbrädan är 15.6 tum.
+Den valfria Design-layouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 15,6 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

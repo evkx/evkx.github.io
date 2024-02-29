@@ -29,13 +29,13 @@ Vi har opdelt vores Kia EV6 Standard Range AWD artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Kia EV6 Standard Range AWD har en maksimal effekt på 173 KW (235 hk/232 hk). Det samlede drejningsmoment er 605 nm (446 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6.2 sekunder. Tophastigheden er 185 km/t.
+Kia EV6 Standard Range AWD har en maksimal effekt på 173 KW (235 hk/232 hk). Det samlede drejningsmoment er 605 nm (446 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,2 sekunder. Tophastigheden er 185 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 58kWh og en nettokapacitet på 54kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (6.9%).
+Batteriet har en bruttokapacitet på 58kWh og en nettokapacitet på 54kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (6,9%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 371 km (231 mi). Forbruget er 14.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 371 km (231 mi). Forbruget er 14,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 42 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 17 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 109kW. Hver opladningssession ville tage 19 minutter og 45 sekunder.
 
@@ -143,7 +143,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Kia EV6 Standard Range AWD har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12.3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12.3 tommer stor og har en opløsning på 2880 x 1080 pixels.
+Kia EV6 Standard Range AWD har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -202,7 +202,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1260 liter. På taget kan du laste op til 80 kg (176.4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0.7 CU FT). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 2015 kg (4442 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1260 liter. På taget kan du laste op til 80 kg (176,4 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 2015 kg (4442 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 

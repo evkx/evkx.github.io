@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Neta GT 580 AWD. Cli
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3.7 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				12.9 kWh/100km
+				12,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -226,7 +226,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4715 mm (185.6")
+				4715 mm (185,6")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1415 mm (55.7")
+				1415 mm (55,7")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1979 mm (77.9")
+				1979 mm (77,9")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2770 mm (109.1")
+				2770 mm (109,1")
 			</td>
 		</tr>
 	</tbody>
@@ -348,7 +348,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				150 mm (5.9")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				150 mm (5.9")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +977,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 10.25
+				Yes, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -985,7 +985,7 @@ This model is available with a seat configuration with four seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 17.6"
+				Yes, 17,6"
 			</td>
 		</tr>
 		<tr>

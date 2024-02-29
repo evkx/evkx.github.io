@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Neta GT 580 AWD. K
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3.7 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC-forbrug
 			</td>
 			<td>
-				12.9 kWh/100km
+				12,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4715 mm (185.6")
+				4715 mm (185,6")
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1415 mm (55.7")
+				1415 mm (55,7")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1979 mm (77.9")
+				1979 mm (77,9")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2770 mm (109.1")
+				2770 mm (109,1")
 			</td>
 		</tr>
 	</tbody>
@@ -348,7 +348,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				150 mm (5.9")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				150 mm (5.9")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +977,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 10.25
+				Ja, 10,25
 			</td>
 		</tr>
 		<tr>
@@ -985,7 +985,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 17.6"
+				Ja, 17,6"
 			</td>
 		</tr>
 		<tr>

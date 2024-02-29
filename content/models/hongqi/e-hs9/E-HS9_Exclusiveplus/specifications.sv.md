@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Hongqi E-HS9 Exclusive
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4.9 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				21.4 kWh/100km
+				21,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0.345
+				0,345
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre överhängsvinkel
 			</td>
 			<td>
-				21.3
+				21,3
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre överhängsvinkel
 			</td>
 			<td>
-				21.4
+				21,4
 			</td>
 		</tr>
 	</tbody>
@@ -1074,7 +1074,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 16.2
+				Ja, 16,2
 			</td>
 		</tr>
 		<tr>
@@ -1082,7 +1082,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, två 16.2" och 10.2"
+				Ja, två 16,2" och 10,2"
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1090,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Infotainmentskärm främre passagerare
 			</td>
 			<td>
-				Ja, 16.2"
+				Ja, 16,2"
 			</td>
 		</tr>
 		<tr>

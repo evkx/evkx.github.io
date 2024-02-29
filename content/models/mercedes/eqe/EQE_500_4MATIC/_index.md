@@ -33,7 +33,7 @@ The Mercedes-EQ EQE 500 4MATIC has a maximum power of 300 KW (408 hp/402 bhp). T
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 96.12kWh and a net capacity of 90.6kWh, meaning you have a 5.52kWh buffer for protection. (5.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 96,12kWh and a net capacity of 90,6kWh, meaning you have a 5,52kWh buffer for protection. (5.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 596 to 505 km (370-314 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.2kWh/100km for the basic version and 17.9kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

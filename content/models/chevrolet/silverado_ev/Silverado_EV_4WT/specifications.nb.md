@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Chevrolet Silverado
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4.5 s
+				4,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				2.1 mi/kWh
+				2,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>

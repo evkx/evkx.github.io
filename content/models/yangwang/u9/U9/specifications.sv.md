@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för YangWang U9. Klicka p�
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				2.36 s
+				2,36 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				17.2 kWh/100km
+				17,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>

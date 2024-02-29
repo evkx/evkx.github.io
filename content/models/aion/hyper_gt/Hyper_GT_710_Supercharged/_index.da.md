@@ -29,13 +29,13 @@ Vi har opdelt vores Aion Hyper GT 710 Supercharged artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-Aion Hyper GT 710 Supercharged har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4.9 sekunder. Tophastigheden er 257 km/t.
+Aion Hyper GT 710 Supercharged har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,9 sekunder. Tophastigheden er 257 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 80.1kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 3.1kWh buffer til beskyttelse. (3.9%).
+Batteriet har en bruttokapacitet på 80,1kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 3,1kWh buffer til beskyttelse. (3,9%).
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruget er 10.8kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruget er 10,8kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 16 minutter og 50 sekunder.
 
@@ -146,7 +146,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 8.0 tommer stor. Skærmen touch øverst på midterkonsollen er 14.6 tommer stor.
+Skærmen  bag rattet monteret i instrumentbrættet er 8,0 tommer stor. Skærmen touch øverst på midterkonsollen er 14,6 tommer stor.
 Modellen har ikke et head-up display.
 
 
@@ -195,12 +195,12 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1100 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 60 liter (2.1 CU FT).
+Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1100 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 60 liter (2,1 CU FT).
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 12/31/2022, og leveringerne startede i October 2023.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 31.12.2022, og leveringerne startede i October 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Aion Hyper GT </strong>
 </a>

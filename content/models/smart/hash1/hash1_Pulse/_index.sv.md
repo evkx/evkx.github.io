@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Smart #1 Pulse i avsnitt. Om du vill vänta 
 
 ## Prestanda
 
-Smart #1 Pulse har en maximal effekt på 315 KW (428hk). Totalt vridmoment är 584 Nm. Den gör sprinten 0-100 km/h på 4.5 sekunder. Topphastigheten är 180 km/h.
+Smart #1 Pulse har en maximal effekt på 315 KW (428hk). Totalt vridmoment är 584 Nm. Den gör sprinten 0-100 km/h på 4,5 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 62kWh, vilket innebär att du har en 4kWh buffert för skydd. (6.1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 62kWh, vilket innebär att du har en 4kWh buffert för skydd. (6,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 15.5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 400 km. Förbrukningen är 15,5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 80 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 89kW. Varje laddningssession tar 20 minuter och 29 sekunder.
 
@@ -134,7 +134,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 10.0 tum. Skärmen touch översta mittkonsolen är 12.8 tum.
+Skärmen  bakom ratten monterad i instrumentbrädan är 10,0 tum. Skärmen touch översta mittkonsolen är 12,8 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -196,7 +196,7 @@ Lastkapaciteten i bagageutrymmet är 313 liter. Med baksätet nedfällt är det 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 4/7/2022 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 07.04.2022 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #1 </strong>
 </a>

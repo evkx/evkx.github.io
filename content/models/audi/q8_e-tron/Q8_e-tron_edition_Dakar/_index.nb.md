@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Audi Q8 e-tron edition Dakar i seksjoner. Hvis d
 
 ## Ytelse
 
-Med overboost har Audi Q8 e-tron edition Dakar en maksimal effekt på 300 KW (408hk). Uten overboost er den 265KW (360hk). Dreiemomentet er 664 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 5.8 sekunder med overboost og 6.8 sekunder uten overboost. Topphastigheten er 200 km/t.
+Med overboost har Audi Q8 e-tron edition Dakar en maksimal effekt på 300 KW (408hk). Uten overboost er den 265KW (360hk). Dreiemomentet er 664 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 5,8 sekunder med overboost og 6,8 sekunder uten overboost. Topphastigheten er 200 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 114kWh og en nettokapasitet på 106kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7.0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 114kWh og en nettokapasitet på 106kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 487 km. Forbruket er 21.8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 487 km. Forbruket er 21,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 122kW. Hver ladeøkt vil ta 37 minutter og 58 sekunder.
 
@@ -231,7 +231,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Audi Q8 e-tron edition Dakar har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen). -skjermen bak rattet integrert i dashbordet er 12.3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10.1 tommer stor og har en oppløsning på 1540 x 720 piksler. touch-skjermen nederst på midtkonsollen er 8.6 tommer stor og har en oppløsning på 1280 x 660 piksler.
+Audi Q8 e-tron edition Dakar har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen). -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10,1 tommer stor og har en oppløsning på 1540 x 720 piksler. touch-skjermen nederst på midtkonsollen er 8,6 tommer stor og har en oppløsning på 1280 x 660 piksler.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -312,7 +312,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 1/3/2024, og leveringene startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 03.01.2024, og leveringene startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

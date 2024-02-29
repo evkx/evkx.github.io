@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Cybertruck Cyb
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				2.7 s
+				2,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				2.6 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				122.5 kWh
+				122,5 kWh
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				5682 mm (223.7")
+				5682 mm (223,7")
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1790 mm (70.5")
+				1790 mm (70,5")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				2199 mm (86.6")
+				2199 mm (86,6")
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2413 mm (95.0")
+				2413 mm (95,0")
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				4358 mm (171.6")
+				4358 mm (171,6")
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0.335
+				0,335
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10.67 meter (420.1")
+				10,67 meter (420,1")
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/bedcargo/">Bed length</a>
 			</td>
 			<td>
-				1849 mm (72.8")
+				1849 mm (72,8")
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/bedcargo/">Bed width</a>
 			</td>
 			<td>
-				1295 mm (51.0")
+				1295 mm (51,0")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				442 mm (17.4")
+				442 mm (17,4")
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +484,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				138 mm (5.4")
+				138 mm (5,4")
 			</td>
 		</tr>
 		<tr>
@@ -1128,7 +1128,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 18.5"
+				Yes, 18,5"
 			</td>
 		</tr>
 		<tr>

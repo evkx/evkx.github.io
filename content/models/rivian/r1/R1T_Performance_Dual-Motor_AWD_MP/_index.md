@@ -212,7 +212,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 11/26/2018, and deliveries started in September 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 26.11.2018, and deliveries started in September 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

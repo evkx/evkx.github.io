@@ -29,13 +29,13 @@ Vi har opdelt vores GMC Hummer EV Edition 1 Pickup artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-GMC Hummer EV Edition 1 Pickup har en maksimal effekt på 746 KW (1014 hk/1000 hk). Det samlede drejningsmoment er 1150 nm (849 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3.5 sekunder. Tophastigheden er 170 km/t.
+GMC Hummer EV Edition 1 Pickup har en maksimal effekt på 746 KW (1014 hk/1000 hk). Det samlede drejningsmoment er 1150 nm (849 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Tophastigheden er 170 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 220kWh og en nettokapacitet på 213kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (3.2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 220kWh og en nettokapacitet på 213kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (3,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 329 miles (529 km). Forbruget er 1.5mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 329 miles (529 km). Forbruget er 1,5mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 139 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 48 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 52%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 245kW. Hver opladningssession ville tage 27 minutter og 39 sekunder.
 
@@ -136,7 +136,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-GMC Hummer EV Edition 1 Pickup har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 12.3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch i dashboardets midte er 13.4 tommer stor og har en opløsning på 1888x1728 pixels.
+GMC Hummer EV Edition 1 Pickup har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 2400x900 pixels. Skærmen touch i dashboardets midte er 13,4 tommer stor og har en opløsning på 1888x1728 pixels.
 Modellen har ikke et head-up display.
 
 
@@ -182,12 +182,12 @@ Med Super Cruise  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1272 mm, og længden er 1524 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 320 liter (11.3 CU FT). Bilens maksimale vægt er 4717 kg (10399 lbs), og med basisvægten på 4103 kg (9046 lbs), kan du maksimalt laste 614 kg (1354 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1272 mm, og længden er 1524 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 320 liter (11,3 CU FT). Bilens maksimale vægt er 4717 kg (10399 lbs), og med basisvægten på 4103 kg (9046 lbs), kan du maksimalt laste 614 kg (1354 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3402, og på ubremset er den 750 kg (7500/1653 lbs).
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 10/20/2020, og leveringerne startede i December 2021. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 20.10.2020, og leveringerne startede i December 2021. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> GMC Hummer EV </strong>
 </a>

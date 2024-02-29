@@ -33,13 +33,13 @@ Jeep Avenger har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drej
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50.8kWh, hvilket betyder, at du har en 3.2kWh buffer til beskyttelse. (5.9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 54kWh og en nettokapacitet på 50,8kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (5,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 404 til 385 km (251-239 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12.6kWh/100 km for basisversionen og 13.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 404 til 385 km (251-239 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12,6kWh/100 km for basisversionen og 13,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 53 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 69kW. Hver opladningssession ville tage 26 minutter og 10 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22.0kWh/100 km, vil 1000 km tage 10 timer og 49 minutter. Denne tur vil kræve seks opladningssession(er) opladning fra 2 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 149 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22,0kWh/100 km, vil 1000 km tage 10 timer og 49 minutter. Denne tur vil kræve seks opladningssession(er) opladning fra 2 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 149 minutter.
 
 ### Indbygget oplader
 
@@ -133,7 +133,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 10.3 tommer stor. Skærmen touch i dashboardets midte er 10.3 tommer stor.
+Skærmen  bag rattet integreret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 10,3 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

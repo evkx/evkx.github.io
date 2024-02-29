@@ -29,17 +29,17 @@ Vi har delat in vår beskrivning av Tesla Model X Standard Range i avsnitt. Om d
 
 ## Prestanda
 
-Tesla Model X Standard Range har en maximal effekt på 381 KW (518hk). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 4.2 sekunder. Topphastigheten är 250 km/h.
+Tesla Model X Standard Range har en maximal effekt på 381 KW (518hk). Totalt vridmoment är 700 Nm. Den gör sprinten 0-100 km/h på 4,2 sekunder. Topphastigheten är 250 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 25kWh buffert för skydd. (25.0%).
+Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 75kWh, vilket innebär att du har en 25kWh buffert för skydd. (25,0%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 543 till 528 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13.8kWh/100 km för basversionen och 14.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 543 till 528 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13,8kWh/100 km för basversionen och 14,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 50%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 132kW. Varje laddningssession tar 15 minuter och 20 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24.0kWh/100km, tar 1000km 9 timmar och 34 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 5% till 49%. Total tid som går förlorad för att ladda batteriet kommer att vara 75 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24,0kWh/100km, tar 1000km 9 timmar och 34 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 5% till 49%. Total tid som går förlorad för att ladda batteriet kommer att vara 75 minuter.
 
 ### Inbyggd laddare
 
@@ -150,7 +150,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Tesla Model X Standard Range har dubbla skärmar med förar- och passagerarinformation och en tredje bakre skärm för multimedia. Skärmen  bakom ratten integrerad i instrumentbrädan är 12.3 tum och har en upplösning på 1280 x 480 pixlar. Skärmen touch i mitten av instrumentbrädan är 17.0 tum och har en upplösning på 2200 x 1300 pixlar. Skärmen touch i den bakre mittkonsolen är 8.0 tum.
+Tesla Model X Standard Range har dubbla skärmar med förar- och passagerarinformation och en tredje bakre skärm för multimedia. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 1280 x 480 pixlar. Skärmen touch i mitten av instrumentbrädan är 17,0 tum och har en upplösning på 2200 x 1300 pixlar. Skärmen touch i den bakre mittkonsolen är 8,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -236,7 +236,7 @@ The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 21
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 3/19/2019, and deliveries started in March 2020.<div class="mt-3 mb-3">
+This model had a world premiere on 19.03.2019, and deliveries started in March 2020.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

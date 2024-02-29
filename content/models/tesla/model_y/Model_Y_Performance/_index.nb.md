@@ -29,17 +29,17 @@ Vi har delt vår beskrivelse av Tesla Model Y Performance i seksjoner. Hvis du v
 
 ## Ytelse
 
-Tesla Model Y Performance har en maksimal effekt på 393 KW (534hk). Totalt dreiemoment er 660 nm. Den utfører sprinten 0-100 km/t på 3.7 sekunder. Topphastigheten er 250 km/t.
+Tesla Model Y Performance har en maksimal effekt på 393 KW (534hk). Totalt dreiemoment er 660 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (8.5%).
+Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (8,5%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 514 km. Forbruket er 14.6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 514 km. Forbruket er 14,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 109kW. Hver ladeøkt vil ta 17 minutter og 55 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19.5kWh/100km, vil 1000km ta 9 timer og 26 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 5% til 45%. Totalt tapt tid for å lade opp batteriet vil være 66 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19,5kWh/100km, vil 1000km ta 9 timer og 26 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 5% til 45%. Totalt tapt tid for å lade opp batteriet vil være 66 minutter.
 
 ### Ombordlader
 
@@ -159,7 +159,7 @@ Du har trådløs lading for telefonen din.
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Model Y Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 15.0 tommer stor og har en oppløsning på 2200 x 1300 piksler.
+Tesla Model Y Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 15,0 tommer stor og har en oppløsning på 2200 x 1300 piksler.
 Modellen er ikke tilgjengelig med head-up display.
 
 
@@ -234,7 +234,7 @@ Lastkapasiteten i bagasjerommet er 854 liter. Med baksetet nede er det 2158 lite
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 3/19/2019, og leveringene startet i March 2020.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>
