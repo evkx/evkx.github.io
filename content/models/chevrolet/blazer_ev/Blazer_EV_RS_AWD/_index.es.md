@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Chevrolet Blazer EV RS AWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Chevrolet Blazer EV RS AWD tiene una potencia máxima de 214 KW (291 hp/287 b
 
 La batería tiene una capacidad bruta de 89kWh y una capacidad neta de 85kWh, lo que significa que tienes un buffer de 4kWh para protección. (4,5%).
 
-El [rango EPA](../../../../guides/understandingrange/epa/) es 279 millas (449 km). El consumo es 3.3mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango EPA](../../../../guides/understandingrange/epa/) es 279 millas (449 km). El consumo es 3,3mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 190kW. Una carga completa del 0 al 100 % tardaría 147 minutos, mientras que un escenario más común del 10 al 80 % tardaría 26 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 68%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 116kW. Cada sesión de carga tardaría 27 minutos y 43 segundos.
 
@@ -135,7 +135,7 @@ Keyless go permite arrancar el auto sin usar la llave.
 
 ## Interfaz de usuario y control
 
-El Chevrolet Blazer EV RS AWD tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante a la izquierda del marco mide 11.0 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 17.7 pulgadas de tamaño.
+El Chevrolet Blazer EV RS AWD tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante a la izquierda del marco mide 11,0 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 17,7 pulgadas de tamaño.
 El modelo no tiene head-up display.
 
 

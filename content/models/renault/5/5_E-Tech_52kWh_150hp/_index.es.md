@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Renault 5 E-Tech 52kWh 150hp en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Renault 5 E-Tech 52kWh 150hp tiene una potencia máxima de 110 KW (150 hp/148
 
 La batería tiene una capacidad bruta de 55kWh y una capacidad neta de 52kWh, lo que significa que tienes un buffer de 3kWh para protección. (5,5%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 13.0kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 13,0kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 68 minutos, mientras que un escenario más común del 10 al 80 % tardaría 29 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 69kW. Cada sesión de carga tardaría 24 minutos y 2 segundos.
 
@@ -99,11 +99,8 @@ Sólo hay un tipo de asiento delantero disponible en el Renault 5 E-Tech 52kWh 1
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
-- ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
-- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
+- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
@@ -119,7 +116,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
 
 Sólo hay un tipo de volante disponible.
 
@@ -145,7 +141,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 ## Interfaz de usuario y control
 
-El Renault 5 E-Tech 52kWh 150hp tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante montado en el tablero mide 10.0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 10.1 pulgadas de tamaño.
+El Renault 5 E-Tech 52kWh 150hp tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante montado en el tablero mide 10,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 10,1 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.

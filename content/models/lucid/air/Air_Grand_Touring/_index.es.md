@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Lucid Air Grand Touring en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Lucid Air Grand Touring tiene una potencia máxima de 597 KW (812 hp/801 bhp)
 
 La batería tiene una capacidad bruta de 112kWh y una capacidad neta de 112kWh, lo que significa que tienes un buffer de 0kWh para protección. (0,0%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 839 a 783 km (521-487 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 13.3kWh/100 km para la versión básica y 14.3kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 839 a 783 km (521-487 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 13,3kWh/100 km para la versión básica y 14,3kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 74 minutos, mientras que un escenario más común del 10 al 80 % tardaría 31 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 46%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 172kW. Cada sesión de carga tardaría 18 minutos y 34 segundos.
 
@@ -151,7 +151,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 ## Interfaz de usuario y control
 
-En la parte superior del tablero hay un marco compartido con tres pantallas, y en la consola central, hay una cuarta [pantalla de infoentretenimiento](../../../../technology /userinterface/screens/#infotainment-screen). La touch pantalla en el lado izquierdo del marco compartido mide 8.0 pulgadas de tamaño. La  pantalla detrás del volante en el medio del marco compartido mide 14.0 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 12.0 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 12.0 pulgadas de tamaño.
+En la parte superior del tablero hay un marco compartido con tres pantallas, y en la consola central, hay una cuarta [pantalla de infoentretenimiento](../../../../technology /userinterface/screens/#infotainment-screen). La touch pantalla en el lado izquierdo del marco compartido mide 8,0 pulgadas de tamaño. La  pantalla detrás del volante en el medio del marco compartido mide 14,0 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 12,0 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 12,0 pulgadas de tamaño.
 El modelo no tiene head-up display.
 
 

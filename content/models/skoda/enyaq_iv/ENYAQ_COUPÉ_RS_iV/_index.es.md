@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo SKODA ENYAQ COUPÉ RS iV en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El SKODA ENYAQ COUPÉ RS iV tiene una potencia máxima de 250 KW (340 hp/335 bhp
 
 La batería tiene una capacidad bruta de 82kWh y una capacidad neta de 77kWh, lo que significa que tienes un buffer de 5kWh para protección. (6,1%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 547 a 543 km (340-338 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 14.1kWh/100 km para la versión básica y 14.2kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 547 a 543 km (340-338 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 14,1kWh/100 km para la versión básica y 14,2kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 170kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
 
@@ -151,7 +151,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 ## Interfaz de usuario y control
 
-El SKODA ENYAQ COUPÉ RS iV tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5.3 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 13.0 pulgadas de tamaño.
+El SKODA ENYAQ COUPÉ RS iV tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,3 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 13,0 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

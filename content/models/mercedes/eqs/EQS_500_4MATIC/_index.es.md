@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Mercedes-EQ EQS 500 4MATIC en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Mercedes-EQ EQS 500 4MATIC tiene una potencia máxima de 330 KW (449 hp/443 b
 
 La batería tiene una capacidad bruta de 120kWh y una capacidad neta de 108,4kWh, lo que significa que tienes un buffer de 11,6kWh para protección. (9,7%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-óxidos-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 696 a 582 km (433-362 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15.6kWh/100 km para la versión básica y 18.6kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 696 a 582 km (433-362 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,6kWh/100 km para la versión básica y 18,6kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 210kW. Una carga completa del 0 al 100 % tardaría 82 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 57%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 142kW. Cada sesión de carga tardaría 26 minutos y 41 segundos.
 
@@ -178,9 +178,9 @@ Tienes carga inalámbrica para tu teléfono.
 
 Hay dos configuraciones de pantalla diferentes disponibles en Mercedes-EQ EQS 500 4MATIC.
 
-El diseño estándar tiene la siguiente configuración. La  pantalla detrás del volante montado en el tablero mide 12.3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles. La touch pantalla en el medio de la consola central mide 12.8 pulgadas de tamaño y tiene una resolución de 1888x1728 píxeles.
+El diseño estándar tiene la siguiente configuración. La  pantalla detrás del volante montado en el tablero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles. La touch pantalla en el medio de la consola central mide 12,8 pulgadas de tamaño y tiene una resolución de 1888x1728 píxeles.
 
-El diseño opcional MBUX Hyperscreen tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La  pantalla detrás del volante integrado en el salpicadero mide 12.3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles. La touch pantalla en la parte superior de la consola central mide 17.7 pulgadas de tamaño y tiene una resolución de 3088x1728 píxeles. La  pantalla frente al pasajero en el tablero mide 12.3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles.
+El diseño opcional MBUX Hyperscreen tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles. La touch pantalla en la parte superior de la consola central mide 17,7 pulgadas de tamaño y tiene una resolución de 3088x1728 píxeles. La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
@@ -226,7 +226,7 @@ El Mercedes-EQ EQS 500 4MATIC tiene [**frenado automático de emergencia**](../.
 
 ### Automatización de conducción
 
-El Mercedes-EQ EQS 500 4MATIC ofrece [automatización de la conducción en el nivel 1, 2 o 3](../../../../technology/driverassistance/#level-of-autonomous -conducción), dependiendo del nivel de equipamiento.
+El Mercedes-EQ EQS 500 4MATIC ofrece [automatización de la conducción en el nivel 1, 2 o 3](../../../../technology/driverassistance/#level-of-autonomous-conducción), dependiendo del nivel de equipamiento.
 
 Con el sistema Driver Assistance Package  nivel 1, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)

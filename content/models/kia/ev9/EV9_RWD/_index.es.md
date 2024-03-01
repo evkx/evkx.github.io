@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Kia EV9 RWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Kia EV9 RWD tiene una potencia máxima de 160 KW (218 hp/215 bhp). El par tot
 
 La batería tiene una capacidad bruta de 76,1kWh y una capacidad neta de 75kWh, lo que significa que tienes un buffer de 1,1kWh para protección. (1,4%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 443 km (275 mi). El consumo es de 16.9kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 443 km (275 mi). El consumo es de 16,9kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 38 minutos, mientras que un escenario más común del 10 al 80 % tardaría 16 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 152kW. Cada sesión de carga tardaría 22 minutos y 12 segundos.
 
@@ -168,7 +168,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 ## Interfaz de usuario y control
 
-El Kia EV9 RWD tiene tres pantallas en un marco compartido montado con soportes en el tablero. La  pantalla detrás del volante a la izquierda del marco mide 12.3 pulgadas de tamaño. La touch pantalla en la parte central del marco compartido mide 5.3 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 12.3 pulgadas de tamaño.
+El Kia EV9 RWD tiene tres pantallas en un marco compartido montado con soportes en el tablero. La  pantalla detrás del volante a la izquierda del marco mide 12,3 pulgadas de tamaño. La touch pantalla en la parte central del marco compartido mide 5,3 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 12,3 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Cadillac LYRIQ RWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Cadillac LYRIQ RWD tiene una potencia máxima de 255 KW (347 hp/342 bhp). El 
 
 La batería tiene una capacidad bruta de 110kWh y una capacidad neta de 102kWh, lo que significa que tienes un buffer de 8kWh para protección. (7,3%).
 
-El [rango EPA](../../../../guides/understandingrange/epa/) es 312 millas (502 km). El consumo es 3.1mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango EPA](../../../../guides/understandingrange/epa/) es 312 millas (502 km). El consumo es 3,1mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 176 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 120kW. Cada sesión de carga tardaría 29 minutos y 59 segundos.
 
@@ -140,7 +140,7 @@ Keyless go permite arrancar el auto sin usar la llave.
 
 ## Interfaz de usuario y control
 
-El Cadillac LYRIQ RWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. La touch pantalla detrás del volante, cruzando el centro del tablero mide 33.0 pulgadas de tamaño.
+El Cadillac LYRIQ RWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. La touch pantalla detrás del volante, cruzando el centro del tablero mide 33,0 pulgadas de tamaño.
 El modelo no tiene head-up display.
 
 

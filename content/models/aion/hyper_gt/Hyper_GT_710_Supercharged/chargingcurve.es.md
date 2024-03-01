@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingcurve.svg)
 
 
 <table class="table table-striped border">

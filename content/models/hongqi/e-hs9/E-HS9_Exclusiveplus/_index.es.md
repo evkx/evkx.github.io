@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Hongqi E-HS9 Exclusive+ en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Hongqi E-HS9 Exclusive+ tiene una potencia máxima de 405 KW (551 hp/543 bhp)
 
 La batería tiene una capacidad bruta de 120kWh y una capacidad neta de 110kWh, lo que significa que tienes un buffer de 10kWh para protección. (8,3%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 515 km (320 mi). El consumo es de 21.4kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 515 km (320 mi). El consumo es de 21,4kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 114 minutos, mientras que un escenario más común del 10 al 80 % tardaría 62 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 39%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 87kW. Cada sesión de carga tardaría 30 minutos y 35 segundos.
 
@@ -150,7 +150,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 ## Interfaz de usuario y control
 
-El Hongqi E-HS9 Exclusive+ tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). En el centro del En el salpicadero hay una pantalla de infoentretenimiento y en la consola central hay una pantalla para el sistema climático. Para el pasajero hay una pantalla de infoentretenimiento. La  pantalla detrás del volante integrado en el salpicadero mide 16.2 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 16.2 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 16.2 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 10.2 pulgadas de tamaño.
+El Hongqi E-HS9 Exclusive+ tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). En el centro del En el salpicadero hay una pantalla de infoentretenimiento y en la consola central hay una pantalla para el sistema climático. Para el pasajero hay una pantalla de infoentretenimiento. La  pantalla detrás del volante integrado en el salpicadero mide 16,2 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 16,2 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 16,2 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 10,2 pulgadas de tamaño.
 El modelo no tiene head-up display.
 
 

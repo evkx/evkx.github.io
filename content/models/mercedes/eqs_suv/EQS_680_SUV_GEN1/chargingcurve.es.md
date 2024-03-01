@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/models/mercedes/eqs_suv/eqs_680_suv_gen1/chargingcurve.svg)
 
 
 <table class="table table-striped border">

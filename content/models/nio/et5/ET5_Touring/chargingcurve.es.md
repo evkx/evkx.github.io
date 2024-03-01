@@ -13,7 +13,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_1.svg)
+[Full screen](/models/nio/et5/et5_touring/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -371,7 +371,7 @@ Nio ET5 Touring tiene calefacción de batería, lo que facilita la carga a una t
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_2.svg)
+[Full screen](/models/nio/et5/et5_touring/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

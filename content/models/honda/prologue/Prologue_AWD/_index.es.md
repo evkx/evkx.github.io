@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Honda Prologue AWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Honda Prologue AWD tiene una potencia máxima de 214 KW (291 hp/287 bhp). El 
 
 La batería tiene una capacidad bruta de 89kWh y una capacidad neta de 85kWh, lo que significa que tienes un buffer de 4kWh para protección. (4,5%).
 
-El [rango EPA](../../../../guides/understandingrange/epa/) varía de 281 a 273 millas (452-439 km), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 3.3mi/kWh para la versión básica y 3.2mi/kWh para la versión superior según la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango EPA](../../../../guides/understandingrange/epa/) varía de 281 a 273 millas (452-439 km), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 3,3mi/kWh para la versión básica y 3,2mi/kWh para la versión superior según la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 66 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 56%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 102kW. Cada sesión de carga tardaría 25 minutos y 56 segundos.
 
@@ -140,7 +140,7 @@ Keyless go permite arrancar el auto sin usar la llave.
 
 ## Interfaz de usuario y control
 
-El Honda Prologue AWD tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La  pantalla detrás del volante integrado en el salpicadero mide 11.0 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 11.3 pulgadas de tamaño.
+El Honda Prologue AWD tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La  pantalla detrás del volante integrado en el salpicadero mide 11,0 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 11,3 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

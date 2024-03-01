@@ -16,15 +16,15 @@ navicon: bi-car-front
 Hemos separado nuestro artículo Nio ET9 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
-- [Batería, autonomía y carga](#battery-range-and-charging)
-- [Tren de transmisión (suspensión, frenos, dirección)](#drivetrain)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
 - [Exterior (colores de pintura, ruedas ++)](#exterior)
 - [Interior (asientos++)](#interior)
 - [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
 - [Infoentretenimiento](#infoentretenimiento)
 - [Luces](#luces)
-- [Sistemas avanzados de asistencia al conductor](#advanced-driver-assistance-systems)
-- [Capacidad de carga y capacidad de remolque](#cargo-capacity-and-towing-ability)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
 
 ## Rendimiento
@@ -35,7 +35,7 @@ El Nio ET9 tiene una potencia máxima de 520 KW (707 hp/697 bhp). El par total e
 
 La batería tiene una capacidad bruta de 120kWh y una capacidad neta de 112kWh, lo que significa que tienes un buffer de 8kWh para protección. (6,7%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 720 km (448 mi). El consumo es de 15.6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangoyconsumo/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 720 km (448 mi). El consumo es de 15,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 600kW. Una carga completa del 0 al 100 % tardaría 31 minutos, mientras que un escenario más común del 10 al 80 % tardaría 14 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 266kW. Cada sesión de carga tardaría 15 minutos y 41 segundos.
 
@@ -158,7 +158,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante montado en el tablero mide 10.2 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 15.6 pulgadas de tamaño. Para los pasajeros de los asientos traseros hay pantallas de infoentretenimiento en la parte trasera de los asientos de la primera fila
+La  pantalla detrás del volante montado en el tablero mide 10,2 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 15,6 pulgadas de tamaño. Para los pasajeros de los asientos traseros hay pantallas de infoentretenimiento en la parte trasera de los asientos de la primera fila
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
