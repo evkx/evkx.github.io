@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Pro 82 kWh 1000 km challenge</h3>
+<p>Bjørn Nyland: 29.02.2024</p>
+
+{{< youtube sldAKo_YHE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>VW ID7 Pro 82 kWh range test</h3>
 <p>Bjørn Nyland: 28.02.2024</p>
 
