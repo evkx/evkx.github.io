@@ -74,7 +74,7 @@ Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standar
 Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 10 ruedas con tamaños de 22 a 23 pulgadas.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../tecnología/puertas/#hatcback-style-liftgate).
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio tiene una función electrocrómica que le permite combinar el vidrio en múltiples niveles para proteger contra el sol
 

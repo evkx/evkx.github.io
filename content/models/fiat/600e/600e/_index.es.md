@@ -70,7 +70,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 5 ruedas con tamaños de 17 a 18 pulgadas.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../tecnología/puertas/#liftgate).
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo.
 

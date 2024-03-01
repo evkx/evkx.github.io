@@ -73,7 +73,7 @@ La dirección dinámica es una característica un estándar en el Rolls-Royce Sp
 
 Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
 
-El auto tiene dos [puertas suicidas](../../../../technology/doors/) y una [tapa del maletero](../../../../tecnología/puertas/#bootlid) en la parte trasera. El cierre suave es la función un estándar para las puertas laterales. Las puertas eléctricas tienen un estándar función para las puertas laterales.
+El auto tiene dos [puertas suicidas](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera. El cierre suave es la función un estándar para las puertas laterales. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 

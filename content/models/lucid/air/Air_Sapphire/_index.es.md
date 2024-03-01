@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos cerámicos](../../../../technology/
 
 Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../tecnología/puertas/#boot-lid) para el maletero. El cierre suave es la función un estándar para las puertas laterales.
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero. El cierre suave es la función un estándar para las puertas laterales.
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 

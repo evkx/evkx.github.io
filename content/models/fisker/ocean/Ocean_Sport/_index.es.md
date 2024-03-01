@@ -70,7 +70,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 6 ruedas con tamaños de 20 a 22 pulgadas.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../tecnología/puertas/#hatcback-style-liftgate).
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 

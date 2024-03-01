@@ -69,7 +69,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../tecnología/puertas/#liftgate).
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar El estado de ánimo y la comodidad del ocupante. El vidrio tiene una función electrocrómica que le permite mezclar el vidrio en múltiples niveles para proteger contra el sol.
 

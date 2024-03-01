@@ -74,7 +74,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 Puedes elegir entre 4 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 6 ruedas con tamaños de 19 a 21 pulgadas.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../tecnología/puertas/#boot-lid) para el maletero.
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 

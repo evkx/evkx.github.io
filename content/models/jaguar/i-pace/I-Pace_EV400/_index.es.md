@@ -74,7 +74,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 8 ruedas con tamaños de 18 a 22 pulgadas.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../tecnología/puertas/#liftgate).
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 

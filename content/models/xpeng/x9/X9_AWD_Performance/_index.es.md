@@ -69,7 +69,7 @@ La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo qu
 
 Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
 
-El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../tecnología/puertas/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
+El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 
 Sólo hay un techo para este modelo.
 

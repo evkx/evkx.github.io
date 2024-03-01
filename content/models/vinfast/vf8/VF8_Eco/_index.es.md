@@ -76,7 +76,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../tecnología/puertas/#liftgate).
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 

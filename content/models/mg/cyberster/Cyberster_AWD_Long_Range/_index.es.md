@@ -69,7 +69,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
 
-El auto tiene dos [puertas de tijera](../../../../technology/doors/) y una [tapa del maletero](../../../../tecnología/puertas/#bootlid) en la parte trasera.
+El auto tiene dos [puertas de tijera](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera.
 
 Sólo hay un techo para este modelo. El techo estándar es una capota blanda que se puede plegar.
 
