@@ -8,7 +8,7 @@ shownavtabs: true
 <!-- markdownlint-disable MD033 -->
 ## Hvordan testes det?
 
-EPA definerer [testcyklusserne](https://www.fueleconomy.gov/feg/fe_test_schedules.shtml) og SAE [testproceduren](https://www.fueleconomy.gov/feg/pdfs/EPA% 20test%20procedure%20for %20EVs-PHEVs-11-14-2017.pdf).
+EPA definerer [testcyklusserne](https://www.fueleconomy.gov/feg/fe_test_schedules.shtml) og SAE [testproceduren](https://www.fueleconomy.gov/feg/pdfs/EPA%20test%20procedure%20for%20EVs-PHEVs-11-14-2017.pdf).
 
 Producenter udfører EPA-testene på et dynamometer, en enhed, der simulerer køreforhold ved at placere køretøjet på ruller og måle dets ydeevne.
 
