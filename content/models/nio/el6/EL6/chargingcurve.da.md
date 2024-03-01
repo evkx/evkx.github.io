@@ -13,7 +13,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_1.svg)
+[Full screen](/models/nio/el6/el6/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -368,7 +368,7 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_2.svg)
+[Full screen](/models/nio/el6/el6/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

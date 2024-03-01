@@ -13,7 +13,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_1.svg)
+[Full screen](/models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -371,7 +371,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_2.svg)
+[Full screen](/models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">
@@ -729,7 +729,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 
 <img src="../chargingcurve_3.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_3.svg)
+[Full screen](/models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg)
 
 
 <table class="table table-striped border">

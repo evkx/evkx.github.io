@@ -13,7 +13,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_1.svg)
+[Full screen](/models/porsche/taycan/taycan/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -371,7 +371,7 @@ Porsche Taycan har batterioppvarming, noe som gjør lading ved en optimal batter
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_2.svg)
+[Full screen](/models/porsche/taycan/taycan/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

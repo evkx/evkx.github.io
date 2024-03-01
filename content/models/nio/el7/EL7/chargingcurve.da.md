@@ -13,7 +13,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_1.svg)
+[Full screen](/models/nio/el7/el7/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -371,7 +371,7 @@ Nio EL7 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_2.svg)
+[Full screen](/models/nio/el7/el7/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">
