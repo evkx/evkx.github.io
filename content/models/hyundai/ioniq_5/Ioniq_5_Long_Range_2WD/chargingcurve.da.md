@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/chargingcurve.svg)
 
 
 <table class="table table-striped border">
