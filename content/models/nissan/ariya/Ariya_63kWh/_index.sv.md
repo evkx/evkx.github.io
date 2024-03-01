@@ -15,14 +15,14 @@ navicon: bi-car-front
 
 Vi har delat in vår beskrivning av Nissan Ariya 63kWh i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
-- [Ytelse](#ytelse)
-- [Batteri, räckvidd och laddning](#battery-range-and-charging)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivetrain)
+- [Ytelse](#prestanda)
+- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
+- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
 - [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interior)
-- [Användargränssnitt och kontroll](#userinterface-and-control)
+- [Interiör (säten++)](#interiör)
+- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
+- [Lights](#ljus)
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 

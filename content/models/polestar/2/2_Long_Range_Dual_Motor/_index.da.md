@@ -15,16 +15,16 @@ navicon: bi-car-front
 
 Vi har opdelt vores Polestar 2 Long Range Dual Motor artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
-- [Ydeevne](#performance)
-- [Batteri, rækkevidde og opladning](#battery-range-and-charging)
+- [Ydeevne](#ydeevne)
+- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
 - [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#eksteriør)
-- [Interiør (sæder++)](#interior)
+- [Eksteriør (lakfarver, hjul ++)](#udvendig)
+- [Interiør (sæder++)](#interiør)
 - [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
 - [Infotainment](#infotainment)
-- [Lys](#lights)
-- [Avancerede driver-assistance-systemer](#advanced-driver-assistance-systems)
-- [Lastkapacitet og bugseringsevne](#cargo-capacity-and-towing-ability)
+- [Lys](#lys)
+- [Avancerede driver-assistance-systemer](#køreautomatisering)
+- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
 
 ## Ydeevne
