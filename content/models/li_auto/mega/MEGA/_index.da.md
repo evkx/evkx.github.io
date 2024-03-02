@@ -45,6 +45,10 @@ Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører m
 
 Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 9 timer og 5 minutter.
 
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
+
+
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -111,6 +115,10 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
+
+
 ### Sæde på anden række
 
 
@@ -132,6 +140,10 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 
 
 Tredje række har en tre-sæders bænk med en 40:60-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
+
 
 Der er kun én type rat tilgængelig.
 
@@ -176,6 +188,10 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/headlights_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
+
 ## Avancerede førerassistentsystemer
 
 Li Auto MEGA har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
@@ -213,6 +229,10 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 376 liter. Med sædet på tredje række nede er det 2979 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1,1 CU FT). Bilens maksimale vægt er 3400 kg (7496 lbs), og med basisvægten på 2763 kg (6091 lbs), kan du maksimalt laste 637 kg (1404 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.03.2024, og leveringer forventes at starte om May 2024. Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">

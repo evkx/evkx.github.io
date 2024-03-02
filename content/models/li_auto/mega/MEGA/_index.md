@@ -45,6 +45,10 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 5 minutes.
 
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
+
+
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
@@ -111,6 +115,10 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
+
+
 ### Second-row seat
 
 
@@ -132,6 +140,10 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 
 The third row has a three-seat bench with a 40:60 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
+
 
 There is only one type of steering wheel available.
 
@@ -176,6 +188,10 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/headlights_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
+
 ## Advanced driver assistance systems
 
 The Li Auto MEGA has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -213,6 +229,10 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 376 liters. With the third-row seat down, it is 2979 liters. Under the hood, there is frunk with more storage room. This frunk is 32 liters (1.1 CU FT). The maxium weight of the car is 3400 kg (7496 lbs), and with the base weight of 2763 kg (6091 lbs), you can max load 637 kg (1404 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
+
 ### Availability & Pricing
 
 This model had a world premiere on 01.03.2024, and deliveries is expected to start in May 2024. This model is only available in China.<div class="mt-3 mb-3">

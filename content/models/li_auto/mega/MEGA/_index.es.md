@@ -45,6 +45,10 @@ Para el desafío teórico de 1000 km, comenzando con la batería llena y conduci
 
 Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 9 horas y 5 minutos.
 
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
+
+
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -111,6 +115,10 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
+
+
 ### Asiento de segunda fila
 
 
@@ -132,6 +140,10 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 
 
 La tercera fila tiene un banco de tres asientos con una división 40:60. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
+
 
 Sólo hay un tipo de volante disponible.
 
@@ -176,6 +188,10 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/headlights_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Li Auto MEGA tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
@@ -213,6 +229,10 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 La capacidad de carga en el maletero es de 376 litros. Con el asiento de la tercera fila abatido, es de 2979 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 32 litros (1,1 CU FT). El peso máximo del automóvil es 3400 kg (7496 lbs), y con el peso base de 2763 kg (6091 lbs), puedes cargar como máximo 637 kg (1404 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
+
+{{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 01.03.2024 y se espera que las entregas comiencen en May 2024. Este modelo sólo está disponible en China.<div class="mt-3 mb-3">
