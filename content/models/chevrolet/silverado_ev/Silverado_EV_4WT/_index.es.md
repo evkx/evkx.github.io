@@ -33,7 +33,7 @@ El Chevrolet Silverado EV 4WT tiene una potencia máxima de 380 KW (517 hp/510 b
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 220kWh y una capacidad neta de 213kWh, lo que significa que tienes un buffer de 7kWh para protección. (3,2%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-óxidos-nmc)
+La batería tiene una capacidad bruta de 220kWh y una capacidad neta de 213kWh, lo que significa que tienes un buffer de 7kWh para protección. (3,2%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango EPA](../../../../guides/understandingrange/epa/) es 450 millas (724 km). El consumo es 2,1mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -51,7 +51,7 @@ Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hast
 
 ### Puerto de carga
 
-La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -61,7 +61,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Chevrolet Silverado EV 4WT tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#double-wishbone), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 227 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 227 mm.
 
 ### Frenos
 

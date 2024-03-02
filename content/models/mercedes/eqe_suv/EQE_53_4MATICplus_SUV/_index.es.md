@@ -35,7 +35,7 @@ Si no estás lo suficientemente satisfecho con el rendimiento estándar, puedes 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 96,12kWh y una capacidad neta de 90,6kWh, lo que significa que tienes un buffer de 5,52kWh para protección. (5,7%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-óxidos-nmc)
+La batería tiene una capacidad bruta de 96,12kWh y una capacidad neta de 90,6kWh, lo que significa que tienes un buffer de 5,52kWh para protección. (5,7%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 470 a 375 km (292-233 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 19,3kWh/100 km para la versión básica y 24,2kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -49,7 +49,7 @@ Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga
 
 ### Puerto de carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
 {{<evkxdisplayaddarticle />}}
 

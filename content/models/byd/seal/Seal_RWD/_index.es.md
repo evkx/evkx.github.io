@@ -33,7 +33,7 @@ El BYD Seal RWD tiene una potencia máxima de 230 KW (313 hp/308 bhp). El par to
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 85,4kWh y una capacidad neta de 82,5kWh, lo que significa que tienes un buffer de 2,9kWh para protección. (3,4%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-fosfato-battery-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería tiene una capacidad bruta de 85,4kWh y una capacidad neta de 82,5kWh, lo que significa que tienes un buffer de 2,9kWh para protección. (3,4%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 520 km (323 mi). El consumo es de 15,9kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -47,7 +47,7 @@ Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hast
 
 ### Puerto de carga
 
-La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -57,7 +57,7 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 BYD Seal RWD tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#double-wishbone), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza resortes de acero y amortiguadores hidráulicos.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos.
 
 ### Dirección
 

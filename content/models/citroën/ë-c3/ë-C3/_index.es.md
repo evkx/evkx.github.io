@@ -33,7 +33,7 @@ El Citroën ë-C3 tiene una potencia máxima de 83 KW (113 hp/111 bhp). El par t
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 44kWh y una capacidad neta de 43kWh, lo que significa que tienes un buffer de 1kWh para protección. (2,3%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-fosfato-battery-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería tiene una capacidad bruta de 44kWh y una capacidad neta de 43kWh, lo que significa que tienes un buffer de 1kWh para protección. (2,3%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 320 km (199 mi). El consumo es de 13,4kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -51,7 +51,7 @@ Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hast
 
 ### Puerto de carga
 
-La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#rear-side). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -61,7 +61,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Citroën ë-C3 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 163 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 163 mm.
 
 ### Frenos
 

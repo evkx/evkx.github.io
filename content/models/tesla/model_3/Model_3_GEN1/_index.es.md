@@ -39,7 +39,7 @@ El Tesla Model 3 (GEN1) tiene una potencia máxima de 208 KW (283 hp/279 bhp). E
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 59kWh, lo que significa que tienes un buffer de 1kWh para protección. (1,7%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-fosfato-battery-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 59kWh, lo que significa que tienes un buffer de 1kWh para protección. (1,7%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 495 a 491 km (308-305 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 11,9kWh/100 km para la versión básica y 12,0kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 

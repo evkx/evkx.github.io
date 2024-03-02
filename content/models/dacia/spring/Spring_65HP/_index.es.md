@@ -33,7 +33,7 @@ El Dacia Spring 65HP tiene una potencia máxima de 48 KW (65 hp/64 bhp). El par 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 26,8kWh y una capacidad neta de 25kWh, lo que significa que tienes un buffer de 1,8kWh para protección. (6,7%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-fosfato-battery-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería tiene una capacidad bruta de 26,8kWh y una capacidad neta de 25kWh, lo que significa que tienes un buffer de 1,8kWh para protección. (6,7%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 220 km (137 mi). El consumo es de 11,4kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -59,7 +59,7 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 
 Dacia Spring 65HP tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 150 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 150 mm.
 
 ### Frenos
 

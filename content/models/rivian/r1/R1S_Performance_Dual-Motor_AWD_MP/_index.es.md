@@ -33,7 +33,7 @@ El Rivian R1S Performance Dual-Motor AWD MP tiene una potencia máxima de 489 KW
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 149kWh y una capacidad neta de 142,3kWh, lo que significa que tienes un buffer de 6,7kWh para protección. (4,5%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-óxidos-nmc)
+La batería tiene una capacidad bruta de 149kWh y una capacidad neta de 142,3kWh, lo que significa que tienes un buffer de 6,7kWh para protección. (4,5%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango EPA](../../../../guides/understandingrange/epa/) es 410 millas (660 km). El consumo es 2,9mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -51,7 +51,7 @@ Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hast
 
 ### Puerto de carga
 
-La ubicación del puerto de carga está en la [esquina frontal izquierda](../../../../technology/charging/connectors/#front-corner). Esta ubicación facilita el uso de las estaciones de carga donde es necesario estacionar con la parte delantera hacia adentro. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en la [esquina frontal izquierda](../../../../technology/charging/connectors/#esquina-frontal). Esta ubicación facilita el uso de las estaciones de carga donde es necesario estacionar con la parte delantera hacia adentro. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -61,7 +61,7 @@ La ubicación del puerto de carga está en la [esquina frontal izquierda](../../
 
 Rivian R1S Performance Dual-Motor AWD MP tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#double-wishbone), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 205 mm y la máxima es 365 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 205 mm y la máxima es 365 mm.
 
 ### Frenos
 

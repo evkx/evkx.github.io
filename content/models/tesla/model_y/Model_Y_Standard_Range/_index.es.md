@@ -36,7 +36,7 @@ El Tesla Model Y Standard Range tiene una potencia máxima de 255 KW (347 hp/342
 Tesla Model Y Standard Range tiene tres opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
 ### CATL LFP Europa/China market
 
-La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 55kWh, lo que significa que tienes un buffer de 5kWh para protección. (8,3%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-fosfato-battery-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 55kWh, lo que significa que tienes un buffer de 5kWh para protección. (8,3%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -45,7 +45,7 @@ La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % 
 Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 19,5kWh/100 km, 1000 km tomarán 9 horas y 55 minutos. Este viaje requerirá cinco sesiones de carga del 0 % al 51 %. El tiempo total perdido para cargar la batería será de 95 minutos.
 ### BYD LFP Europa/China market
 
-La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 55kWh, lo que significa que tienes un buffer de 5kWh para protección. (8,3%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-fosfato-battery-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 55kWh, lo que significa que tienes un buffer de 5kWh para protección. (8,3%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -54,7 +54,7 @@ La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % 
 Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 19,5kWh/100 km, 1000 km tomarán 9 horas y 35 minutos. Este viaje requerirá cuatro sesiones de carga del 0 % al 64 %. El tiempo total perdido para cargar la batería será de 75 minutos.
 ### NMC 4850 US Market
 
-La batería tiene una capacidad bruta de 70kWh y una capacidad neta de 68,5kWh, lo que significa que tienes un buffer de 1,5kWh para protección. (2,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-óxidos-nmc)
+La batería tiene una capacidad bruta de 70kWh y una capacidad neta de 68,5kWh, lo que significa que tienes un buffer de 1,5kWh para protección. (2,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
@@ -78,7 +78,7 @@ La ubicación del puerto de carga está en la [esquina trasera izquierda](../../
 
 Tesla Model Y Standard Range tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#double-wishbone), y la suspensión trasera es [Multilink](../../../../technology/suspension/#multilink). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 167 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 167 mm.
 
 ### Dirección
 
