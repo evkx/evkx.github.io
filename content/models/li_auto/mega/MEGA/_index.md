@@ -37,7 +37,7 @@ The battery has a gross capacity of 102,7kWh and a net capacity of 100kWh, meani
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 710 km ( miles). The consumption is 14.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 200kW. A full charge from 0 - 100% would take 22 minutes, while a more common scenario of 10-80% would take 11 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 80%, resulting in an actual charge speed, including time loss, of 283kW. Each charge session would take 17 minutes and 44 seconds.
+The maximum DC charging speed is 520kW. A full charge from 0 - 100% would take 22 minutes, while a more common scenario of 10-80% would take 11 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 80%, resulting in an actual charge speed, including time loss, of 283kW. Each charge session would take 17 minutes and 44 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 8 hours and 48 minutes. This trip will require two charge session(s) charging from 2% to 67%. The total time lost for charging up the battery will be 28 minutes.
 
@@ -75,8 +75,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 3 different paint colors when ordering this model.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+You can choose between 4 different paint colors when ordering this model.
 
 The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
 

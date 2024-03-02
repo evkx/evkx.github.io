@@ -37,7 +37,7 @@ Batteriet har en bruttokapasitet på 102,7kWh og en nettokapasitet på 100kWh, n
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruket er 14,1kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 22 minutter, mens et mer vanlig scenario på 10-80 % vil ta 11 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 80%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 283kW. Hver ladeøkt vil ta 17 minutter og 44 sekunder.
+Maksimal DC-ladehastighet er 520 kW. En full lading fra 0 - 100 % vil ta 22 minutter, mens et mer vanlig scenario på 10-80 % vil ta 11 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 80%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 283kW. Hver ladeøkt vil ta 17 minutter og 44 sekunder.
 
 For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 23kWh/100km, vil 1000km ta 8 timer og 48 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 2% til 67%. Totalt tapt tid for å lade opp batteriet vil være 28 minutter.
 
@@ -75,8 +75,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 3 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
+Du kan velge mellom 4 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
 

@@ -134,7 +134,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				200 kW
+				520 kW
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Interior.Seatlayout.OnlySix
 				Bakre infotainmentskärm
 			</td>
 			<td>
-				Ja, 15,4"
+				Ja, 17"
 			</td>
 		</tr>
 	</tbody>

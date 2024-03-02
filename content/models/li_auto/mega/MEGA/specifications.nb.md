@@ -134,7 +134,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				200 kW
+				520 kW
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Interior.Seatlayout.OnlySix
 				Infotainment skjerm bak
 			</td>
 			<td>
-				Ja, 15,4"
+				Ja, 17"
 			</td>
 		</tr>
 	</tbody>

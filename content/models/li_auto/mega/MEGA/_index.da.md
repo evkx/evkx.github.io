@@ -37,7 +37,7 @@ Batteriet har en bruttokapacitet på 102,7kWh og en nettokapacitet på 100kWh, h
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruget er 14,1kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 22 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 11 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 80%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 283kW. Hver opladningssession ville tage 17 minutter og 44 sekunder.
+Den maksimale DC-opladningshastighed er 520kW. En fuld opladning fra 0 - 100 % ville tage 22 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 11 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 80%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 283kW. Hver opladningssession ville tage 17 minutter og 44 sekunder.
 
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 23kWh/100 km, vil 1000 km tage 8 timer og 48 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 2 % til 67%. Den samlede tid, der går tabt for at oplade batteriet, vil være 28 minutter.
 
@@ -75,8 +75,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 3 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
+Du kan vælge mellem 4 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
 

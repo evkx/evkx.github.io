@@ -134,7 +134,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				200 kW
+				520 kW
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Interior.Seatlayout.OnlySix
 				Bagstpassager Infotainmentskærm
 			</td>
 			<td>
-				Ja, 15,4"
+				Ja, 17"
 			</td>
 		</tr>
 	</tbody>
