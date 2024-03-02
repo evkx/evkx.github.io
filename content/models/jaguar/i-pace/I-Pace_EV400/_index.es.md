@@ -100,9 +100,9 @@ Las siguientes funcionalidades están disponibles en el asiento **Performance**.
 
 - ajuste eléctrico
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
@@ -118,13 +118,13 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (opcional)
 - [soporte para muslos ajustable eléctricamente](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
@@ -149,7 +149,7 @@ La opción standard es un banco de tres asientos con una división 60:40 donde p
 
 La opción second es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}

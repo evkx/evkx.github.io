@@ -99,7 +99,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering (valfritt)
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)

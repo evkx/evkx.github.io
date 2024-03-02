@@ -96,9 +96,9 @@ Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
@@ -115,7 +115,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 

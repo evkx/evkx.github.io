@@ -104,10 +104,10 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
@@ -124,7 +124,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
@@ -134,7 +134,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

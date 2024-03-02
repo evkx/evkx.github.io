@@ -98,9 +98,9 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
@@ -127,7 +127,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo no tiene [bomba de calor](../../../../technology/hvac/#heat-pump). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
+Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Comodidad
 

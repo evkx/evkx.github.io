@@ -102,10 +102,10 @@ Endast en typ av framsäte är tillgänglig i HiPhi Z 5 Seater.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
@@ -127,7 +127,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Det finns bara en typ av ratt tillgänglig.
 

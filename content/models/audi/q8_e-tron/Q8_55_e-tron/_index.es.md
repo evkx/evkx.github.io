@@ -82,7 +82,7 @@ El Audi Q8 55 e-tron permite al usuario seleccionar diferentes [modos de conducc
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../tecnología/regen/#conducción-con-un-pedal). A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche en marcha hasta que se detenga por sí solo. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay tres niveles.
+[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal). A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche en marcha hasta que se detenga por sí solo. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay tres niveles.
 
 ## Exterior
 
@@ -118,7 +118,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable (opcional)
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
@@ -130,9 +130,9 @@ Las siguientes funcionalidades están disponibles en el asiento **sport**.
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable (opcional)
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
@@ -144,9 +144,9 @@ Las siguientes funcionalidades están disponibles en el asiento **s-line sport**
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable (opcional)
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
@@ -156,9 +156,9 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **s sport**.
 
 - ajuste eléctrico (opcional)
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
 
@@ -171,14 +171,14 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 - ajuste eléctrico
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable eléctricamente](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
@@ -205,7 +205,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático 4-zone admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático 4-zone admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

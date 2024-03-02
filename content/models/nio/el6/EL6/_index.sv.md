@@ -114,14 +114,14 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - elektrisk justering
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#footrest)
+- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
@@ -137,7 +137,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Det finns bara en typ av ratt tillgänglig.
@@ -210,7 +210,7 @@ Nio EL6 har [**automatisk nödbroms**](../../../../technology/driverassistance/a
 
 ### Körautomation
 
-Nio EL6 erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Nio EL6 erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med NIO Pilot Selected Pack  nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

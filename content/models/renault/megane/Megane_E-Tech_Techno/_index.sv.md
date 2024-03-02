@@ -104,7 +104,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering (valfritt)
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
@@ -124,7 +124,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
@@ -154,7 +154,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Renault Megane E-Tech Techno har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum. Skärmen touch i mitten av instrumentbrädan är 12,0 tum.
+Renault Megane E-Tech Techno har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum. Skärmen touch i mitten av instrumentbrädan är 12,0 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

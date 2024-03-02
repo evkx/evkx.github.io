@@ -98,13 +98,13 @@ Sólo hay un tipo de asiento delantero disponible en el Rolls-Royce Spectre.
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
 - reposacabezas integrado
-- [ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
@@ -129,10 +129,10 @@ Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../../technology/seats/types/#twin-executive- asientos). Además, las siguientes funcionalidades están disponibles.
 
 - ajuste eléctrico
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 

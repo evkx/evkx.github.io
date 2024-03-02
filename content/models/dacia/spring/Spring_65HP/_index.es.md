@@ -97,7 +97,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - reposacabezas integrado
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- Black [tapizado de tela/cuero sintético](../../../../tecnología/asientos/materiales/#fabric)
+- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
 
@@ -114,7 +114,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- Black [tapizado de tela/cuero sintético](../../../../tecnología/asientos/materiales/#fabric)
+- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
 
@@ -122,7 +122,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  solo admite el control de una zona compartida para todo el automóvil. Este modelo no tiene [bomba de calor](../../../../technology/hvac/#heat-pump). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
+Hay un sistema climático disponible. El sistema climático  solo admite el control de una zona compartida para todo el automóvil. Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Comodidad
 

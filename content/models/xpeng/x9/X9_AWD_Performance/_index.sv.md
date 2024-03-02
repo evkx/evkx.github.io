@@ -96,14 +96,14 @@ Följande funktioner är tillgängliga på **** sätet.
 - elektrisk justering
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#footrest)
+- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
@@ -120,7 +120,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 För den andra raden har den här modellen två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
 - elektrisk justering
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
@@ -151,7 +151,7 @@ XPENG X9 AWD Performance har flera funktioner för att göra ditt liv som förar
 
 ## Användargränssnitt och kontroll
 
-XPENG X9 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10,3 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum.
+XPENG X9 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 10,3 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

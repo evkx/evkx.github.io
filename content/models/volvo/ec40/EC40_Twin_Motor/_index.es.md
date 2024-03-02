@@ -96,8 +96,8 @@ Sólo hay un tipo de asiento delantero disponible en el Volvo EC40 Twin Motor.
 
 La opción zero es un banco de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 
@@ -110,7 +110,7 @@ La opción zero es un banco de tres asientos con una división  donde puedes ple
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_twin_motor/secondrowseats_1_st.jpg" title="Volvo EC40 Twin Motor" width="3000" height="2000"  >}}
@@ -120,7 +120,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

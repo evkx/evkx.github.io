@@ -92,8 +92,8 @@ Endast en typ av framsäte är tillgänglig i Mini Cooper SE.
 
 Följande funktioner är tillgängliga på **** sätet.
 
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
 - integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 

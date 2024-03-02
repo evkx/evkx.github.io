@@ -94,11 +94,11 @@ Sólo hay un tipo de asiento delantero disponible en el Volvo EX90 Twin Motor.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable eléctricamente](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
@@ -119,7 +119,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
@@ -135,7 +135,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en cinco zonas. El conductor, el pasajero y dos zonas en la 2. fila y una en la 3. fila. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en cinco zonas. El conductor, el pasajero y dos zonas en la 2. fila y una en la 3. fila. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

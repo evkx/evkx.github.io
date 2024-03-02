@@ -99,10 +99,10 @@ Endast en typ av framsäte är tillgänglig i CUPRA BORN 58.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering (valfritt)
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valfritt)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
 - integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
@@ -143,7 +143,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-CUPRA BORN 58 har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 12,0 tum och har en upplösning på 1920 x 869 pixlar.
+CUPRA BORN 58 har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 12,0 tum och har en upplösning på 1920 x 869 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -191,7 +191,7 @@ CUPRA BORN 58 har [**automatisk nödbroms**](../../../../technology/driverassist
 
 ### Körautomation
 
-CUPRA BORN 58 erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+CUPRA BORN 58 erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med standardsystemet erbjuder modellen ingen körautomatisering.
 - Farthållare.

@@ -93,10 +93,10 @@ Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
@@ -117,8 +117,8 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 

@@ -110,7 +110,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 
@@ -199,7 +199,7 @@ Tesla Model 3 (GEN1) har [**automatisk nödbroms**](../../../../technology/drive
 
 ### Körautomation
 
-Tesla Model 3 (GEN1) erbjuder [nivå 2 eller 3 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Tesla Model 3 (GEN1) erbjuder [nivå 2 eller 3 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med Basic Autopilot  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

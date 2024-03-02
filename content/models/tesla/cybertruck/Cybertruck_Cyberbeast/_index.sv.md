@@ -102,7 +102,7 @@ Endast en typ av framsäte är tillgänglig i Tesla Cybertruck Cyberbeast.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - integrerat nackstöd
@@ -122,7 +122,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - integrerat nackstöd
 
 Det finns bara en typ av ratt tillgänglig.
@@ -197,7 +197,7 @@ Tesla Cybertruck Cyberbeast har [**automatisk nödbroms**](../../../../technolog
 
 ### Körautomation
 
-Tesla Cybertruck Cyberbeast erbjuder [nivå 2 eller 3 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Tesla Cybertruck Cyberbeast erbjuder [nivå 2 eller 3 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med Basic Autopilot  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

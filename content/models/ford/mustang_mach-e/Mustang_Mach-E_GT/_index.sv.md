@@ -98,9 +98,9 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)

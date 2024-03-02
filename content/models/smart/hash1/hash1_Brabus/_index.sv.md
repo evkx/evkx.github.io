@@ -91,9 +91,9 @@ Endast en typ av framsäte är tillgänglig i Smart #1 Brabus.
 
 Följande funktioner är tillgängliga på **** sätet.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - White & Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
@@ -110,7 +110,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}

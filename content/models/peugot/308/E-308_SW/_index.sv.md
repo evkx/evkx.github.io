@@ -95,7 +95,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering (valfritt)
 - höjdjusterbart nackstöd
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
@@ -176,7 +176,7 @@ Peugot E-308 SW har [**automatisk nödbroms**](../../../../technology/driverassi
 
 ### Körautomation
 
-Peugot E-308 SW erbjuder [nivå 1 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Peugot E-308 SW erbjuder [nivå 1 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

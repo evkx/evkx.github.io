@@ -93,10 +93,10 @@ Sólo hay un tipo de asiento delantero disponible en el Zeekr 009 ME Edition.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
@@ -110,8 +110,8 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
 - ajuste eléctrico
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
@@ -129,7 +129,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

@@ -105,9 +105,9 @@ Det finns tre sätestyper du kan välja mellan för den främre raden av Audi RS
 Följande funktioner är tillgängliga på **sport** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - integrerat nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
@@ -117,10 +117,10 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **sport plus** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -129,13 +129,13 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **sport pro** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustment)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
+- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
@@ -172,7 +172,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Audi RS e-tron GT har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10,1 tum och har en upplösning på 1540 x 720 pixlar.
+Audi RS e-tron GT har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10,1 tum och har en upplösning på 1540 x 720 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -222,7 +222,7 @@ Audi RS e-tron GT har [**automatisk nödbroms**](../../../../technology/driveras
 
 ### Körautomation
 
-Audi RS e-tron GT erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Audi RS e-tron GT erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)

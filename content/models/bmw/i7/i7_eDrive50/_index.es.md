@@ -67,7 +67,7 @@ La dirección dinámica es una característica un estándar en el BMW i7 eDrive5
 
 
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../tecnología/regen/#conducción-con-un-pedal). Puedes elegir entre dos modos de parada para conducir con un solo pedal. El modo Hold detiene el automóvil por completo usando frenos de fricción, y el modo Roll hace que el vehículo ruede hasta detenerse por sí solo.
+[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal). Puedes elegir entre dos modos de parada para conducir con un solo pedal. El modo Hold detiene el automóvil por completo usando frenos de fricción, y el modo Roll hace que el vehículo ruede hasta detenerse por sí solo.
 
 ## Exterior
 
@@ -99,12 +99,12 @@ Sólo hay un tipo de asiento delantero disponible en el BMW i7 eDrive50.
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
 - reposacabezas integrado
-- [ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 15 diferentes materiales/colores para este tipo de asiento.
@@ -117,10 +117,10 @@ Puedes elegir entre 15 diferentes materiales/colores para este tipo de asiento.
 - Mocha [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Tartufo [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Smoke White/Light gr [tapicería de lana/cuero](../../../../tecnología/asientos/materiales/#lana)
+- Smoke White/Light gr [tapicería de lana/cuero](../../../../technology/asientos/materiales/#lana)
 - Caramel/Atlas Grey [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Taupegrau/Nachtblau [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Black/Grey [tapicería de lana/cuero](../../../../tecnología/asientos/materiales/#lana)
+- Black/Grey [tapicería de lana/cuero](../../../../technology/asientos/materiales/#lana)
 - Tartufo [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Smoke White [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
@@ -132,16 +132,16 @@ Puedes elegir dos tipos de asientos para la segunda fila en el BMW i7 eDrive50.
 
 La opción standard es un banco de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - reposacabezas integrado
 
 La opción second es un [asiento ejecutivo combinado con un banco de dos asientos](../../../../technology/seats/types/#executive -asiento--banco-de-dos-asientos). Además, las siguientes funcionalidades están disponibles.
 
 - ajuste eléctrico
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [soporte para muslos ajustable eléctricamente](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)

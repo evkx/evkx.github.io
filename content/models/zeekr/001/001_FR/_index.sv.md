@@ -93,9 +93,9 @@ Endast en typ av framsäte är tillgänglig i Zeekr 001 FR.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
@@ -114,7 +114,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -140,7 +140,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Zeekr 001 FR har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 8,8 tum. Skärmen touch översta mittkonsolen är 15,4 tum.
+Zeekr 001 FR har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 8,8 tum. Skärmen touch översta mittkonsolen är 15,4 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

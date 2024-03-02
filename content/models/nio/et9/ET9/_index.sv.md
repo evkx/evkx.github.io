@@ -100,13 +100,13 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#footrest)
+- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
@@ -123,12 +123,12 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 För den andra raden har den här modellen dubbla [executive-säten](../../../../technology/seats/types/#twin-executive-säten). Dessutom är följande funktioner tillgängliga.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#footrest)
+- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
@@ -204,7 +204,7 @@ Nio ET9 har [**automatisk nödbroms**](../../../../technology/driverassistance/a
 
 ### Körautomation
 
-Nio ET9 erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Nio ET9 erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med NIO Pilot Selected Pack  nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

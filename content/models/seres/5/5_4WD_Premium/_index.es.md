@@ -96,8 +96,8 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - ajuste eléctrico
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
@@ -115,7 +115,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)

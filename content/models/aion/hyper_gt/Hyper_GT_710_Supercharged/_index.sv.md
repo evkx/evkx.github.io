@@ -93,7 +93,7 @@ Endast en typ av framsäte är tillgänglig i Aion Hyper GT 710 Supercharged.
 Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)

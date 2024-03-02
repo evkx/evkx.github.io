@@ -98,7 +98,7 @@ Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support) (valfritt)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
@@ -182,7 +182,7 @@ Ford F150 Lightning Standard Range har [**automatisk nödbroms**](../../../../te
 
 ### Körautomation
 
-Ford F150 Lightning Standard Range erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Ford F150 Lightning Standard Range erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med Ford Co-Pilot360™ 2.0  nivå 1-systemet får du följande körautomationsfunktioner.
 - Farthållare.

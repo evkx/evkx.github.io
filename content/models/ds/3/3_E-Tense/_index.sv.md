@@ -168,7 +168,7 @@ DS 3 E-Tense har en [**filhållningsassistent**](../../../../technology/driveras
 
 ### Körautomation
 
-DS 3 E-Tense erbjuder [nivå 1 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+DS 3 E-Tense erbjuder [nivå 1 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

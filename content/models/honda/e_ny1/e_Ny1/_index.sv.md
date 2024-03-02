@@ -115,7 +115,7 @@ Honda e:Ny1 har flera funktioner för att göra ditt liv som förare eller passa
 
 ## Användargränssnitt och kontroll
 
-Honda e:Ny1 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 9,0 tum. Skärmen touch översta mittkonsolen är 15,2 tum.
+Honda e:Ny1 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 9,0 tum. Skärmen touch översta mittkonsolen är 15,2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

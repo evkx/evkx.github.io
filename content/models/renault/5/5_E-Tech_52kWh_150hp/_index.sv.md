@@ -100,7 +100,7 @@ Endast en typ av framsäte är tillgänglig i Renault 5 E-Tech 52kWh 150hp.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
@@ -141,7 +141,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Renault 5 E-Tech 52kWh 150hp har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). Skärmen  bakom ratten monterad i instrumentbrädan är 10,0 tum. Skärmen touch i mitten av instrumentbrädan är 10,1 tum.
+Renault 5 E-Tech 52kWh 150hp har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 10,0 tum. Skärmen touch i mitten av instrumentbrädan är 10,1 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.

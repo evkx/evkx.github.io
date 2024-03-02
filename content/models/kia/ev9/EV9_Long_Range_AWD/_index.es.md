@@ -96,10 +96,10 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - ajuste eléctrico
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support) (opcional)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 
@@ -116,18 +116,18 @@ Puedes elegir tres tipos de asientos para la segunda fila en el Kia EV9 Long Ran
 La opción standard es un banco de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 La opción third son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
 - ajuste eléctrico
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 
@@ -148,7 +148,7 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático 3-zone admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Hay un sistema climático disponible. El sistema climático 3-zone admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 

@@ -99,7 +99,7 @@ Endast en typ av framsäte är tillgänglig i Tesla Model Y Long Range.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 
@@ -203,7 +203,7 @@ Tesla Model Y Long Range har [**automatisk nödbroms**](../../../../technology/d
 
 ### Körautomation
 
-Tesla Model Y Long Range erbjuder [nivå 2 eller 3 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Tesla Model Y Long Range erbjuder [nivå 2 eller 3 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med Basic Autopilot  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

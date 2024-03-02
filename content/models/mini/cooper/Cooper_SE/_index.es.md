@@ -92,13 +92,13 @@ Sólo hay un tipo de asiento delantero disponible en el Mini Cooper SE.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
 - reposacabezas integrado
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- Black [tapizado de tela/cuero sintético](../../../../tecnología/asientos/materiales/#fabric)
+- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
 
@@ -114,7 +114,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- Black [tapizado de tela/cuero sintético](../../../../tecnología/asientos/materiales/#fabric)
+- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
 

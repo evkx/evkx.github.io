@@ -98,9 +98,9 @@ Endast en typ av framsäte är tillgänglig i Volvo XC40 Recharge Single Motor E
 
 Alternativet zero är en tresitssbänk med en -sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080"  >}}
@@ -112,7 +112,7 @@ Alternativet zero är en tresitssbänk med en -sektion där du kan vika varje se
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -136,7 +136,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Volvo XC40 Recharge Single Motor ER har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum. Skärmen touch översta mittkonsolen är 9,0 tum.
+Volvo XC40 Recharge Single Motor ER har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum. Skärmen touch översta mittkonsolen är 9,0 tum.
 Modellen är inte tillgänglig med head-up display.
 
 

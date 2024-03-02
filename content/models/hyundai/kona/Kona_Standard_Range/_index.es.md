@@ -100,15 +100,15 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation) (opcional)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
-- Black [tapizado de tela/cuero sintético](../../../../tecnología/asientos/materiales/#fabric)
+- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Grey [tapizado de tela/cuero sintético](../../../../tecnología/asientos/materiales/#fabric)
+- Grey [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Grey [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Green [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
@@ -121,7 +121,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/secondrowseats_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2155"  >}}
@@ -131,7 +131,7 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Hay un sistema climático disponible. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 

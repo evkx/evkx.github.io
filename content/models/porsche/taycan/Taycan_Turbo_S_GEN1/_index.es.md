@@ -79,7 +79,7 @@ La dirección dinámica es una característica un estándar en el Porsche Taycan
 
 Los frenos traseros y delanteros son [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 420 mm y los discos traseros de 410 mm.
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../tecnología/regen/#conducción-con-un-pedal).
+[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal).
 
 ## Exterior
 
@@ -111,9 +111,9 @@ Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 
 - ajuste eléctrico
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
@@ -123,15 +123,15 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**.
 
 - ajuste eléctrico
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
@@ -148,19 +148,19 @@ Puedes elegir dos tipos de asientos para la segunda fila en el Porsche Taycan Tu
 
 La opción standard son dos asientos integrados en la segunda fila. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - reposacabezas integrado
 
 La opción second son dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - reposacabezas integrado
 
 Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 
@@ -176,7 +176,7 @@ Keyless go permite arrancar el auto sin usar la llave.
 
 ## Interfaz de usuario y control
 
-El Porsche Taycan Turbo S (GEN1) tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte inferior de la consola central. Para el pasajero, hay una [pantalla de infoentretenimiento] opcional(../../../../tecnología/interfaz de usuario/pantallas/#pantalla-del-pasajero-frontal). La touch pantalla detrás del volante integrado en el salpicadero mide 16,8 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 10,9 pulgadas de tamaño. La touch pantalla en la parte inferior de la consola central mide 8,4 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño.
+El Porsche Taycan Turbo S (GEN1) tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte inferior de la consola central. Para el pasajero, hay una [pantalla de infoentretenimiento] opcional(../../../../technology/interfaz de usuario/pantallas/#pantalla-del-pasajero-frontal). La touch pantalla detrás del volante integrado en el salpicadero mide 16,8 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 10,9 pulgadas de tamaño. La touch pantalla en la parte inferior de la consola central mide 8,4 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

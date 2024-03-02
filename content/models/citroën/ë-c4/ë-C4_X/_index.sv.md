@@ -160,7 +160,7 @@ Citroën ë-C4 X har en [**filhållningsassistent**](../../../../technology/driv
 
 ### Körautomation
 
-Citroën ë-C4 X erbjuder [nivå 1 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Citroën ë-C4 X erbjuder [nivå 1 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

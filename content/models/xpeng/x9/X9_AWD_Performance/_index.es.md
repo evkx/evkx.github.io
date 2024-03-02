@@ -96,12 +96,12 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - ajuste eléctrico
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable eléctricamente](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
@@ -120,8 +120,8 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
 - ajuste eléctrico
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilación](../../../../technology/seats/adjustment/#ventilation)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 

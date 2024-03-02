@@ -96,7 +96,7 @@ Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
@@ -115,7 +115,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **** sätet.
 
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)

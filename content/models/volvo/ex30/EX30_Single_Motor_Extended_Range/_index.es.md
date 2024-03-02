@@ -92,15 +92,15 @@ Sólo hay un tipo de asiento delantero disponible en el Volvo EX30 Single Motor 
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#lumbar-support)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
-- White [tapizado de tela/cuero sintético](../../../../tecnología/asientos/materiales/#fabric)
+- White [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Grey [tapicería de lana](../../../../technology/seats/materials/#wool)
-- Brown [tapicería de lana/piel sintética](../../../../tecnología/asientos/materiales/#lana)
-- Blue [tapizado de tela/cuero sintético](../../../../tecnología/asientos/materiales/#fabric)
+- Brown [tapicería de lana/piel sintética](../../../../technology/asientos/materiales/#lana)
+- Blue [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
 
@@ -110,7 +110,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../tecnología/seats/adjustment/#heating)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
@@ -120,7 +120,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático  solo admite el control de una zona compartida para todo el automóvil. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#heat-pump) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático  solo admite el control de una zona compartida para todo el automóvil. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

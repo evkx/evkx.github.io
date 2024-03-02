@@ -98,10 +98,10 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
@@ -115,7 +115,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 ### Seter på tredje rad
 
@@ -147,7 +147,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Hongqi E-HS9 Comfort har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm. Skärmen  bakom ratten integrerad i instrumentbrädan är 16,2 tum. Skärmen touch i mitten av bindestrecket är 16,2 tum. Skärmen touch framför passageraren i instrumentbrädan är 16,2 tum. Skärmen touch i mitten av mittkonsolen är 10,2 tum.
+Hongqi E-HS9 Comfort har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm. Skärmen  bakom ratten integrerad i instrumentbrädan är 16,2 tum. Skärmen touch i mitten av bindestrecket är 16,2 tum. Skärmen touch framför passageraren i instrumentbrädan är 16,2 tum. Skärmen touch i mitten av mittkonsolen är 10,2 tum.
 Modellen är inte tillgänglig med head-up display.
 
 
