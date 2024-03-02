@@ -7,7 +7,7 @@ hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-![Image](../chargingcurve.svg "Click for large")
+<img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
 [Full screen](../chargingcurve.svg)
 
