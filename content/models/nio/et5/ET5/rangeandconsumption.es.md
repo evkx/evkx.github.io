@@ -13,8 +13,8 @@ La autonomía variará dependiendo de varios factores. Como la velocidad a la qu
 
 La autonomía variará dependiendo de varios factores. Como la velocidad a la que conduces, la temperatura, la carretera mojada o seca y el equipo equipado. En esta página encontrarás un diagrama y tablas con los resultados de ciclos de prueba estándar como WLTP y EPA y alcance estimado en el mundo real en diferentes entornos.
 
-<img class="img-fluid" alt="Charge curve" src="../range_1.svg"/>
-<a href="../range_1.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/nio/et5/et5/range_1.svg"/>
+<a href="/images/models/nio/et5/et5/range_1.svg">Full screen</a>
 
 ### Resultados oficiales del ciclo de prueba
 
@@ -177,8 +177,8 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 </table>
 </div>
 
-<img class="img-fluid" alt="Charge curve" src="../range_2.svg"/>
-<a href="../range_2.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/nio/et5/et5/range_2.svg"/>
+<a href="/images/models/nio/et5/et5/range_2.svg">Full screen</a>
 
 ### Resultados oficiales del ciclo de prueba
 

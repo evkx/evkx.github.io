@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Räckvidden kommer att variera beroende på flera faktorer. Såsom hur snabbt du kör, temperaturen, våt eller torr väg och utrustad utrustning. På denna sida hittar du ett diagram och tabeller över standardtest cykelresultat som WLTP och EPA och uppskattad verklig räckvidd i olika miljöer.
 
-<img class="img-fluid" alt="Charge curve" src="../range.svg"/>
-<a href="../range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/genesis/gv60/gv60_awd/range.svg"/>
+<a href="/images/models/genesis/gv60/gv60_awd/range.svg">Full screen</a>
 
 ### Officiella testcykelresultat
 

@@ -11,9 +11,9 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 
 ### 79,2 kWh
 
-<img src="/images//models/porsche/taycan/taycan_gen1/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/porsche/taycan/taycan_gen1/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/porsche/taycan/taycan_gen1/chargingcurve_1.svg)
+[Full screen](/images/models/porsche/taycan/taycan_gen1/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -369,9 +369,9 @@ Porsche Taycan (GEN1) har batteriuppvärmning, vilket underlättar laddning vid 
 
 ### 93,4 kWh
 
-<img src="/images//models/porsche/taycan/taycan_gen1/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/porsche/taycan/taycan_gen1/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/porsche/taycan/taycan_gen1/chargingcurve_2.svg)
+[Full screen](/images/models/porsche/taycan/taycan_gen1/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

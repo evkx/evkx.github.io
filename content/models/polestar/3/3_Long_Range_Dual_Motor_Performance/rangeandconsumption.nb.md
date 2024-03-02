@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, våt eller tørr vei, og utstyrt utstyr. På denne siden finner du et diagram og tabeller med standard testsyklusresultater som WLTP og EPA og estimert rekkevidde i den virkelige verden i forskjellige miljøer.
 
-<img class="img-fluid" alt="Charge curve" src="../range.svg"/>
-<a href="../range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/polestar/3/3_long_range_dual_motor_performance/range.svg"/>
+<a href="/images/models/polestar/3/3_long_range_dual_motor_performance/range.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 

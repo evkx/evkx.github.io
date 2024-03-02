@@ -13,8 +13,8 @@ Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, te
 
 Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, våt eller tørr vei, og utstyrt utstyr. På denne siden finner du et diagram og tabeller med standard testsyklusresultater som WLTP og EPA og estimert rekkevidde i den virkelige verden i forskjellige miljøer.
 
-<img class="img-fluid" alt="Charge curve" src="../range_1.svg"/>
-<a href="../range_1.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/nio/et5/et5/range_1.svg"/>
+<a href="/images/models/nio/et5/et5/range_1.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 
@@ -177,8 +177,8 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 </table>
 </div>
 
-<img class="img-fluid" alt="Charge curve" src="../range_2.svg"/>
-<a href="../range_2.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/nio/et5/et5/range_2.svg"/>
+<a href="/images/models/nio/et5/et5/range_2.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 

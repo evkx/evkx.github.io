@@ -11,9 +11,9 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 
 ### 100 kWh
 
-<img src="/images//models/nio/et5/et5_touring/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/nio/et5/et5_touring/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/nio/et5/et5_touring/chargingcurve_1.svg)
+[Full screen](/images/models/nio/et5/et5_touring/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -369,9 +369,9 @@ Nio ET5 Touring tiene calefacción de batería, lo que facilita la carga a una t
 
 ### 75 kWh
 
-<img src="/images//models/nio/et5/et5_touring/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/nio/et5/et5_touring/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/nio/et5/et5_touring/chargingcurve_2.svg)
+[Full screen](/images/models/nio/et5/et5_touring/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

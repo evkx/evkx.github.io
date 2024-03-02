@@ -11,9 +11,9 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 
 ### 60 kWh
 
-<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -369,9 +369,9 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 
 ### 60 kWh
 
-<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">
@@ -727,9 +727,9 @@ Tesla Model Y Standard Range tiene calefacción de batería, lo que facilita la 
 
 ### 70 kWh
 
-<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg)
 
 
 <table class="table table-striped border">

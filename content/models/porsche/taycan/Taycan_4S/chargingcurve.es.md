@@ -11,9 +11,9 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 
 ### 79,2 kWh
 
-<img src="/images//models/porsche/taycan/taycan_4s/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/porsche/taycan/taycan_4s/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/porsche/taycan/taycan_4s/chargingcurve_1.svg)
+[Full screen](/images/models/porsche/taycan/taycan_4s/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -369,9 +369,9 @@ Porsche Taycan 4S tiene calefacción de batería, lo que facilita la carga a una
 
 ### 93,4 kWh
 
-<img src="/images//models/porsche/taycan/taycan_4s/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/porsche/taycan/taycan_4s/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/porsche/taycan/taycan_4s/chargingcurve_2.svg)
+[Full screen](/images/models/porsche/taycan/taycan_4s/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 La autonomía variará dependiendo de varios factores. Como la velocidad a la que conduces, la temperatura, la carretera mojada o seca y el equipo equipado. En esta página encontrarás un diagrama y tablas con los resultados de ciclos de prueba estándar como WLTP y EPA y alcance estimado en el mundo real en diferentes entornos.
 
-<img class="img-fluid" alt="Charge curve" src="../range.svg"/>
-<a href="../range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/honda/e_ny1/e_ny1/range.svg"/>
+<a href="/images/models/honda/e_ny1/e_ny1/range.svg">Full screen</a>
 
 ### Resultados oficiales del ciclo de prueba
 

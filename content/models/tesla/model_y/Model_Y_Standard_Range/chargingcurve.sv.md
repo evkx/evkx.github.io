@@ -11,9 +11,9 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 
 ### 60 kWh
 
-<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -369,9 +369,9 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 
 ### 60 kWh
 
-<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">
@@ -727,9 +727,9 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 
 ### 70 kWh
 
-<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg)
 
 
 <table class="table table-striped border">

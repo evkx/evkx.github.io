@@ -13,8 +13,8 @@ Rækkevidden vil variere afhængigt af flere faktorer. Som hvor hurtigt du køre
 
 Rækkevidden vil variere afhængigt af flere faktorer. Som hvor hurtigt du kører, temperaturen, våd eller tør vej og det udstyrede udstyr. På denne side finder du et diagram og tabeller med standard testcyklusresultater som WLTP og EPA og estimeret rækkevidde i den virkelige verden i forskellige miljøer.
 
-<img class="img-fluid" alt="Charge curve" src="../range_1.svg"/>
-<a href="../range_1.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/porsche/taycan/taycan_gen1/range_1.svg"/>
+<a href="/images/models/porsche/taycan/taycan_gen1/range_1.svg">Full screen</a>
 
 ### Officielle testcyklusresultater
 
@@ -155,8 +155,8 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 </table>
 </div>
 
-<img class="img-fluid" alt="Charge curve" src="../range_2.svg"/>
-<a href="../range_2.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/porsche/taycan/taycan_gen1/range_2.svg"/>
+<a href="/images/models/porsche/taycan/taycan_gen1/range_2.svg">Full screen</a>
 
 ### Officielle testcyklusresultater
 

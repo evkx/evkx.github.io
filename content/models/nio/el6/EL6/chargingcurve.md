@@ -11,9 +11,9 @@ This model is available with multiple batteries. Below you find the performance 
 
 ### 100 kWh
 
-<img src="/images//models/nio/el6/el6/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/nio/el6/el6/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/nio/el6/el6/chargingcurve_1.svg)
+[Full screen](/images/models/nio/el6/el6/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -366,9 +366,9 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 
 ### 75 kWh
 
-<img src="/images//models/nio/el6/el6/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/nio/el6/el6/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/images//models/nio/el6/el6/chargingcurve_2.svg)
+[Full screen](/images/models/nio/el6/el6/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">
