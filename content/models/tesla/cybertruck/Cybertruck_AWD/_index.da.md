@@ -169,7 +169,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Tesla Cybertruck AWD har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 18,5 tommer stor. For bagsædepassagererne er der en infotainmentskærm i midterkonsollen på anden række.
+Tesla Cybertruck AWD har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 18,5 tommer stor. For bagsædepassagererne er der en infotainmentskærm i midterkonsollen på anden række.
 Modellen har ikke et head-up display.
 
 

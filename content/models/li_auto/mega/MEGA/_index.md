@@ -168,7 +168,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Li Auto MEGA has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The touch screen in the dashboard's center is 15.7 inches large. The touch screen in front of the passenger in the dashboard is 15.7 inches large. For the rear seat passengers, there is an infotainment screen in the roof behind the first row seats.
+The Li Auto MEGA has a single screen for the driver. uicontrols.layout.singlescreencenterdashboardwithpassengerinfotainment The touch screen on the dashboard's center is 15.7 inches large. The touch screen in front of the passenger on the dashboard is 15.7 inches large. For the rear seat passengers, there is an infotainment screen in the roof behind the first row seats.
 The model does not have a head-up display.
 
 

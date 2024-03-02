@@ -140,7 +140,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Cadillac LYRIQ AWD har en enkelt skærm. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch bag rattet på tværs af midten af instrumentbrættet er 33,0 tommer stor.
+Cadillac LYRIQ AWD har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch bag rattet på tværs af midten af instrumentbrættet er 33,0 tommer stor.
 Modellen har ikke et head-up display.
 
 

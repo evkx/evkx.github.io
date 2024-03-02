@@ -168,7 +168,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 ## Interfaz de usuario y control
 
-El Li Auto MEGA tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La touch pantalla en el centro del tablero mide 15,7 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 15,7 pulgadas de tamaño. Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en el techo, detrás de los asientos de la primera fila.
+El Li Auto MEGA tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. Para el pasajero hay una pantalla de infoentretenimiento. La touch pantalla en el centro del tablero mide 15,7 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 15,7 pulgadas de tamaño. Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en el techo, detrás de los asientos de la primera fila.
 El modelo no tiene head-up display.
 
 

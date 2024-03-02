@@ -168,7 +168,7 @@ Du har trådlös laddning för din telefon.
 
 ## Användargränssnitt och kontroll
 
-Li Auto MEGA har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch i mitten av bindestrecket är 15,7 tum. Skärmen touch framför passageraren i instrumentbrädan är 15,7 tum. För baksätespassagerarna finns det en infotainmentskärm i taket bakom sätena på första raden.
+Li Auto MEGA har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. För passageraren finns en infotainmentskärm. Skärmen touch i mitten av instrumentbrädan är 15,7 tum. Skärmen touch framför passageraren på instrumentbrädan är 15,7 tum. För baksätespassagerarna finns det en infotainmentskärm i taket bakom sätena på första raden.
 Modellen är inte tillgänglig med head-up display.
 
 
