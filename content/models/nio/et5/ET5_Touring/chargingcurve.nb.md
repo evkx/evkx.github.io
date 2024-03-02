@@ -13,7 +13,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/nio/et5/et5_touring/chargingcurve_1.svg)
+[Full screen](../chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -371,7 +371,7 @@ Nio ET5 Touring har batterioppvarming, noe som gjør lading ved en optimal batte
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/nio/et5/et5_touring/chargingcurve_2.svg)
+[Full screen](../chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

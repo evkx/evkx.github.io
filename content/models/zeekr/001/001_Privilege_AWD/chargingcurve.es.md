@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/zeekr/001/001_privilege_awd/chargingcurve.svg)
+[Full screen](../chargingcurve.svg)
 
 
 <table class="table table-striped border">

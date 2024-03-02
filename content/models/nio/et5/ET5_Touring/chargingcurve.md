@@ -13,7 +13,7 @@ This model is available with multiple batteries. Below you find the performance 
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/nio/et5/et5_touring/chargingcurve_1.svg)
+[Full screen](../chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -371,7 +371,7 @@ Nio ET5 Touring have battery heating, making charging at an optimum battery temp
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/nio/et5/et5_touring/chargingcurve_2.svg)
+[Full screen](../chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

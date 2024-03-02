@@ -13,7 +13,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/nio/et7/et7/chargingcurve_1.svg)
+[Full screen](../chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -371,7 +371,7 @@ Nio ET7 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/nio/et7/et7/chargingcurve_2.svg)
+[Full screen](../chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

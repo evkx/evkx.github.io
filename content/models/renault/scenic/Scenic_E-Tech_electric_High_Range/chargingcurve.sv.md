@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 <img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/renault/scenic/scenic_e-tech_electric_high_range/chargingcurve.svg)
+[Full screen](../chargingcurve.svg)
 
 
 <table class="table table-striped border">

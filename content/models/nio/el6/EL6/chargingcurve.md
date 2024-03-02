@@ -13,7 +13,7 @@ This model is available with multiple batteries. Below you find the performance 
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/nio/el6/el6/chargingcurve_1.svg)
+[Full screen](../chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -368,7 +368,7 @@ The above charging curve is at **[optimum conditions](../../../../../technology/
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/nio/el6/el6/chargingcurve_2.svg)
+[Full screen](../chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

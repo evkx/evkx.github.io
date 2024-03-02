@@ -13,7 +13,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 
 <img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/porsche/taycan/taycan_4s/chargingcurve_1.svg)
+[Full screen](../chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -371,7 +371,7 @@ Porsche Taycan 4S har batteriopvarmning, hvilket gør opladning ved en optimal b
 
 <img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](/models/porsche/taycan/taycan_4s/chargingcurve_2.svg)
+[Full screen](../chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

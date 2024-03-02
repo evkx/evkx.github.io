@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-9e00b193
+  translation: Li Auto MEGA er en helelektrisk premium MPV med en CLTC rekkevidde på opptil 710 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-794641c4
   translation: Renault 5 E-Tech 52kWh 150hp er en helelektrisk kombi med en WLTP rekkevidde på opptil 400 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-c57491dd
   translation: VinFast VF8 Plus er en helelektrisk SUV med en WLTP rekkevidde på opptil 447 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-5b7a133a
-  translation: Lancia Ypsilon er en helelektrisk kombi med en WLTP rekkevidde på opptil 403 km. EVKX.net har alle detaljene.
 
