@@ -7,9 +7,9 @@ hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-<img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/renault/megane/megane_e-tech_techno/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/images/models/renault/megane/megane_e-tech_techno/chargingcurve.svg)
 
 
 <table class="table table-striped border">

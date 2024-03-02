@@ -7,9 +7,9 @@ hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-<img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/bmw/i5/i5_m60_xdrive/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/images/models/bmw/i5/i5_m60_xdrive/chargingcurve.svg)
 
 
 <table class="table table-striped border">

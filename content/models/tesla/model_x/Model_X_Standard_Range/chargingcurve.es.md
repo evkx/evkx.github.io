@@ -7,9 +7,9 @@ hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-<img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/tesla/model_x/model_x_standard_range/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/images/models/tesla/model_x/model_x_standard_range/chargingcurve.svg)
 
 
 <table class="table table-striped border">

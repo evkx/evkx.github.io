@@ -7,9 +7,9 @@ hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-<img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/ford/mustang_mach-e/mustang_mach-e_gt/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/images/models/ford/mustang_mach-e/mustang_mach-e_gt/chargingcurve.svg)
 
 
 <table class="table table-striped border">

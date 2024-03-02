@@ -11,9 +11,9 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 
 ### 79,2 kWh
 
-<img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images//models/porsche/taycan/taycan_4s/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_1.svg)
+[Full screen](/images//models/porsche/taycan/taycan_4s/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -369,9 +369,9 @@ Porsche Taycan 4S har batterioppvarming, noe som gjør lading ved en optimal bat
 
 ### 93,4 kWh
 
-<img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images//models/porsche/taycan/taycan_4s/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_2.svg)
+[Full screen](/images//models/porsche/taycan/taycan_4s/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">

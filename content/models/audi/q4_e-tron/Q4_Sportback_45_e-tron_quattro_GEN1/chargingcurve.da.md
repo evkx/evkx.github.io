@@ -7,9 +7,9 @@ hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-<img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/images/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/chargingcurve.svg)
 
 
 <table class="table table-striped border">

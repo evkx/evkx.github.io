@@ -11,9 +11,9 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 
 ### 60 kWh
 
-<img src="../chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
+<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_1.svg)
+[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_1.svg)
 
 
 <table class="table table-striped border">
@@ -369,9 +369,9 @@ Tesla Model Y Standard Range har batteriopvarmning, hvilket gør opladning ved e
 
 ### 60 kWh
 
-<img src="../chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
+<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_2.svg)
+[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_2.svg)
 
 
 <table class="table table-striped border">
@@ -727,9 +727,9 @@ Tesla Model Y Standard Range har batteriopvarmning, hvilket gør opladning ved e
 
 ### 70 kWh
 
-<img src="../chargingcurve_3.svg" alt="Charge curve" class="img-fluid">
+<img src="/images//models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve_3.svg)
+[Full screen](/images//models/tesla/model_y/model_y_standard_range/chargingcurve_3.svg)
 
 
 <table class="table table-striped border">

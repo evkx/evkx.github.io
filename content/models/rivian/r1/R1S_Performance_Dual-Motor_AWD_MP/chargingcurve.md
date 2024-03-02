@@ -7,9 +7,9 @@ hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-<img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
+<img src="/images/models/rivian/r1/r1s_performance_dual-motor_awd_mp/chargingcurve.svg" alt="Charge curve" class="img-fluid">
 
-[Full screen](../chargingcurve.svg)
+[Full screen](/images/models/rivian/r1/r1s_performance_dual-motor_awd_mp/chargingcurve.svg)
 
 
 <table class="table table-striped border">
