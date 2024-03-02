@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug
 			</td>
 			<td>
-				21,6 kWh/100km
+				20,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -110,7 +110,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				125 kWh
+				120 kWh
 			</td>
 		</tr>
 		<tr>
@@ -118,7 +118,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				120 kWh
+				113 kWh
 			</td>
 		</tr>
 		<tr>

@@ -33,17 +33,17 @@ El HiPhi Z 5 Seater tiene una potencia máxima de 494 KW (672 hp/663 bhp). El pa
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 125kWh y una capacidad neta de 120kWh, lo que significa que tienes un buffer de 5kWh para protección. (4,0%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-óxidos-nmc)
+La batería tiene una capacidad bruta de 120kWh y una capacidad neta de 113kWh, lo que significa que tienes un buffer de 7kWh para protección. (5,8%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-óxidos-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 555 km (345 mi). El consumo es de 21,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 555 km (345 mi). El consumo es de 20,4kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 98 minutos, mientras que un escenario más común del 10 al 80 % tardaría 50 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 47%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 104kW. Cada sesión de carga tardaría 30 minutos y 46 segundos.
+La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 92 minutos, mientras que un escenario más común del 10 al 80 % tardaría 47 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 103kW. Cada sesión de carga tardaría 29 minutos y 59 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 28kWh/100 km, 1000 km tomarán 9 horas y 53 minutos. Este viaje requerirá tres sesiones de carga del 4 % al 49 %. El tiempo total perdido para cargar la batería será de 94 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 28kWh/100 km, 1000 km tomarán 9 horas y 58 minutos. Este viaje requerirá cuatro sesiones de carga del 5 % al 42 %. El tiempo total perdido para cargar la batería será de 98 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 10 horas y 54 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 10 horas y 16 minutos.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/charging_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2032"  >}}

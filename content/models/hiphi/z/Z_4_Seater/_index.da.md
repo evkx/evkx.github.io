@@ -33,17 +33,17 @@ HiPhi Z 4 Seater har en maksimal effekt på 494 KW (672 hk/663 hk). Det samlede 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 125kWh og en nettokapacitet på 120kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (4,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 113kWh, hvilket betyder, at du har en 7kWh buffer til beskyttelse. (5,8%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 555 km (345 mi). Forbruget er 21,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 555 km (345 mi). Forbruget er 20,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 98 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 50 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 47%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 104kW. Hver opladningssession ville tage 30 minutter og 46 sekunder.
+Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 92 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 47 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 48%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 103kW. Hver opladningssession ville tage 29 minutter og 59 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28kWh/100 km, vil 1000 km tage 9 timer og 53 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 4 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 94 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28kWh/100 km, vil 1000 km tage 9 timer og 58 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 5 % til 42%. Den samlede tid, der går tabt for at oplade batteriet, vil være 98 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 10 timer og 54 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 10 timer og 16 minutter.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/charging_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2032"  >}}

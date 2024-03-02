@@ -33,17 +33,17 @@ HiPhi Z 5 Seater har en maximal effekt på 494 KW (672hk). Totalt vridmoment är
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 125kWh och en nettokapacitet på 120kWh, vilket innebär att du har en 5kWh buffert för skydd. (4,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 113kWh, vilket innebär att du har en 7kWh buffert för skydd. (5,8%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 555 km. Förbrukningen är 21,6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 555 km. Förbrukningen är 20,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 98 minuter, medan ett vanligare scenario på 10-80 % tar 50 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 47%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 104kW. Varje laddningssession tar 30 minuter och 46 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 92 minuter, medan ett vanligare scenario på 10-80 % tar 47 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 103kW. Varje laddningssession tar 29 minuter och 59 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28kWh/100km, tar 1000km 9 timmar och 53 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 4% till 49%. Total tid som går förlorad för att ladda batteriet kommer att vara 94 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28kWh/100km, tar 1000km 9 timmar och 58 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 5% till 42%. Total tid som går förlorad för att ladda batteriet kommer att vara 98 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 10 timmar och 54 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 10 timmar och 16 minuter.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/charging_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2032"  >}}
