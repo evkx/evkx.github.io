@@ -7,7 +7,7 @@ hidden: true
 navicon: bi-battery-charging
 ---
 <!-- markdownlint-disable MD033 -->
-<img src="../chargingcurve.svg" alt="Charge curve" class="img-fluid">
+![Image]("../chargingcurve.svg")
 
 [Full screen](/models/acura/zdx/zdx_type_s/chargingcurve.svg)
 
