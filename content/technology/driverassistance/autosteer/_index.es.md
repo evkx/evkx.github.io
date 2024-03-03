@@ -2,7 +2,7 @@
 title: Dirección automática / Centrado de carril
 linktitle: dirección automática
 description: El giro automático/centrado de carril es una característica de algunos sistemas avanzados de asistencia al conductor que permite que un vehículo se conduzca automáticamente dentro de un carril en una autopista o autopista.
-weight: 7
+weight: 16
 ---
 <!-- markdownlint-disable MD033 -->---
 

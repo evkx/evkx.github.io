@@ -2,7 +2,7 @@
 title: Autostyrning
 linktitle: Autostyrning
 description: Autostyrning är en funktion i vissa avancerade förarassistanssystem som gör att ett fordon automatiskt kan styra sig själv inom ett körfält på en motorväg eller motorväg.
-weight: 7
+weight: 16
 ---
 <!-- markdownlint-disable MD033 -->
 Den används vanligtvis i kombination med andra funktioner, såsom adaptiv farthållare, för att ge en mer automatiserad körupplevelse.

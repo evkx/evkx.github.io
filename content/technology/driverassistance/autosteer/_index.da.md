@@ -2,7 +2,7 @@
 title: Autostyring
 linktitle: Autostyring
 description: Autostyring er en funktion i nogle avancerede førerassistentsystemer, der tillader et køretøj automatisk at styre sig selv inden for en vognbane på en motorvej eller motorvej.
-weight: 7
+weight: 16
 ---
 <!-- markdownlint-disable MD033 -->
 Den bruges normalt i kombination med andre funktioner, såsom adaptiv fartpilot, for at give en mere automatiseret køreoplevelse.

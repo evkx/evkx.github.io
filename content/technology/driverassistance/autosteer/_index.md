@@ -1,8 +1,8 @@
 ---
-title: Autosteer / Lane Centering
-linktitle: Autosteer
-description: Autosteer / Lane Centering is a feature of some advanced driver assistance systems that allows a vehicle to automatically steer itself within a lane on a highway or freeway. 
-weight: 7
+title: Lane Centering Assist / Autosteer
+linktitle: LCA
+description: Lane Centering Assist (LCA) / Autosteer is a feature of some advanced driver assistance systems that allows a vehicle to automatically steer itself within a lane on a highway or freeway. 
+weight: 16
 ---
 <!-- markdownlint-disable MD033 -->
 

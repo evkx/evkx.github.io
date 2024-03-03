@@ -2,7 +2,7 @@
 title: Autosteer
 linktitle: Autosteer
 description: Autostyring er en funksjon i noen avanserte førerassistentsystemer som lar et kjøretøy automatisk styre seg selv innenfor et kjørefelt på en motorvei eller motorvei.
-weight: 7
+weight: 16
 ---
 <!-- markdownlint-disable MD033 -->
 
