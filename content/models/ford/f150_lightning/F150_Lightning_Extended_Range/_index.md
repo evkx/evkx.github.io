@@ -194,7 +194,7 @@ With the Ford Co-Pilot360™ Assist 2.0  level 2 system, you get additional driv
 
 
 With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
 
 

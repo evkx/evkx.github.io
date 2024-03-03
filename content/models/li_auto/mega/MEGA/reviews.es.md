@@ -10,7 +10,7 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The Fastest-charging EV In The World - Li Auto MEGA</h3>
-<p>Inside China Auto: 11.03.2024</p>
+<p>Inside China Auto: 01.03.2024</p>
 
 {{< youtube Sf9P-jdla6U >}}
 

@@ -240,7 +240,7 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 
 With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above.
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
 With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above.
