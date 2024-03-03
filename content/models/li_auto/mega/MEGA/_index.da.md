@@ -214,9 +214,15 @@ Li Auto MEGA har [**automatisk nødbremse**](../../../../technology/driverassist
 
 
 
-Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
+Med AD Pro  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten, hvis det er nødvendigt i trafik. Systemet begrænser, hvor længe du kan køre uden at røre ved rattet.
+- Avanceret fartpilot, der følger navigationen og drejer af og på større veje for at nå målet.
+- [**Automatisk vognbaneskift**](../../../../technology/driverassistance/automatedlanechange/)
+
+
+Med AD Max  niveau 2-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er anført ovenfor.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer og kameraer
 

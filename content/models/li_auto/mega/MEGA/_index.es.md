@@ -214,9 +214,15 @@ El Li Auto MEGA tiene [**frenado automático de emergencia**](../../../../techno
 
 
 
-Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de automatización de conducción.
+Con el sistema AD Pro  nivel 2, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- Control de crucero avanzado que sigue la navegación y gira y gira en las carreteras principales para alcanzar el objetivo.
+- [**Cambio de carril automático**](../../../../technology/driverassistance/automatedlanechange/)
+
+
+Con el sistema AD Max  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensores y cámaras
 
