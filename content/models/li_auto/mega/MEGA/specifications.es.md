@@ -998,7 +998,7 @@ Interior.Seatlayout.OnlySix
 				Pantalla frontal
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Interior.Seatlayout.OnlySix
 				Pantalla de infoentretenimiento del pasajero trasero
 			</td>
 			<td>
-				Sí, 17"
+				Sí, 15,7"
 			</td>
 		</tr>
 	</tbody>

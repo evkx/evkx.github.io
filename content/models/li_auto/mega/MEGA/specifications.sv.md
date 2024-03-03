@@ -998,7 +998,7 @@ Interior.Seatlayout.OnlySix
 				Head-up display
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Interior.Seatlayout.OnlySix
 				Bakre infotainmentskärm
 			</td>
 			<td>
-				Ja, 17"
+				Ja, 15,7"
 			</td>
 		</tr>
 	</tbody>

@@ -998,7 +998,7 @@ Interior.Seatlayout.OnlySix
 				Head-up display
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/userinterface/screens/">Rear passenger Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 17"
+				Yes, 15,7"
 			</td>
 		</tr>
 	</tbody>

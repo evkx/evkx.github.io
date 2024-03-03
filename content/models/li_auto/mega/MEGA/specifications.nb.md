@@ -998,7 +998,7 @@ Interior.Seatlayout.OnlySix
 				Head-up display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1077,7 +1077,7 @@ Interior.Seatlayout.OnlySix
 				Infotainment skjerm bak
 			</td>
 			<td>
-				Ja, 17"
+				Ja, 15,7"
 			</td>
 		</tr>
 	</tbody>
