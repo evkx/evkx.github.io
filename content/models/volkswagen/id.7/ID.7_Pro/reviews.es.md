@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Pro driving impressions and summary</h3>
+<p>Bjørn Nyland: 03.03.2024</p>
+
+{{< youtube MuvSO68U-bc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Pro 82 kWh charging test vs Tesla, Audi, Hyundai, BMW and Polestar</h3>
+<p>Bjørn Nyland: 02.03.2024</p>
+
+{{< youtube HAky0r8n5sk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Pro acceleration and noise test</h3>
+<p>Bjørn Nyland: 02.03.2024</p>
+
+{{< youtube Gfo9lnhJVbI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>VW ID7 Pro 82 kWh 1000 km challenge</h3>
 <p>Bjørn Nyland: 29.02.2024</p>
 
