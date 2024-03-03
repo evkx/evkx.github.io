@@ -218,6 +218,10 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
+### Sensores y cámaras
+
+Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para los sistemas de asistencia al conductor.
+Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), nueve [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

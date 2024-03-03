@@ -24,7 +24,10 @@ However, lidar sensors can be expensive and require high power consumption. Addi
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/lidar/lidarvolvoex90_st.jpg" width="3000" height="1686" title="Luminar Iris LiDAR sensor on Volvo EX90" >}}
 
-There are serveral producers of LiDAR sensors. [Luminar](https://www.luminartech.com/technology#iris) is one of the largest companies.
+There are serveral producers of LiDAR sensors. Some examples
+
+- [Luminar](https://www.luminartech.com/technology#iris)
+- [Hesai](https://www.hesaitech.com/)
 
 Because of the high cost there is still few EVs that comes equipped with it. Even test shows that LiDAR is superior other sensors in some driving scenarios.
 

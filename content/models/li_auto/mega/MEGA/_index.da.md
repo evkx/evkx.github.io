@@ -218,6 +218,10 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten, hvis det er nødvendigt i trafik. Systemet begrænser, hvor længe du kan køre uden at røre ved rattet.
 
+### Sensorer og kameraer
+
+Denne model bruger kameraer, radar, LiDAR og ultralydssensorer til førerassistentsystemerne.
+Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [LiDAR sensorer](../../../../technology/sensorsandcameras/lidar/), ni [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

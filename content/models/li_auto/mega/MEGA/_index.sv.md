@@ -218,6 +218,10 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
+### Sensorer och kameror
+
+Denna modell använder kameror, radar, LiDAR och ultraljudssensorer för förarassistanssystemen.
+Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), nio [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 
