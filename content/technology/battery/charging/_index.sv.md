@@ -78,17 +78,17 @@ Nedan följer några exempel på elbilar med olika typer av laddningsprestanda.
 
 [Lucid Air Dream Edition Performance](/models/lucid/air/air_dream_edition_performance/chargingcurve/) är det första exemplet. Den har en extrem toppladdningshastighet på över 300kW, men sjunker snabbt.
 
-<img src="/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
 
-[Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve7/) är nästa exempel. Denna modell är en av de snabbast laddade elbilarna med hög hastighet och en mycket plattare kurva än Lucid Air.
+[Kia EV6 GT](/models/kia/ev6/ev6_gt/chargingcurve/) är nästa exempel. Denna modell är en av de snabbast laddade elbilarna med hög hastighet och en mycket plattare kurva än Lucid Air.
 
-<img src="/models/kia/ev6/ev6_gt/chargingcurve.svg" class="img-fluid">
+<img src="/images/models/kia/ev6/ev6_gt/chargingcurve.svg" class="img-fluid">
 
 {{<evkxdisplayaddarticle />}}
 
 [Nissan Aryia](/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve/) Denna modell har inte en särskilt hög laddningstopp, men kurvan är relativt platt.
 
-<img src="/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg" class="img-fluid">
+<img src="/images/models/nissan/ariya/ariya_87kwh_e-4orce/chargingcurve.svg" class="img-fluid">
 
 Vid längre resor kan laddningskurvan påverka det optimala laddningsstoppet. En plattare kurva gynnar till exempel de som föredrar längre stopp, medan en kurva med höga toppar gynnar korta stopp och du laddar runt toppområdet.
 
