@@ -10,10 +10,8 @@ The optimal temperature for a battery is around 20-30 degrees Celcius for operat
 A battery pack has a thermal management system to try to keep the battery in the best operating condition.
 
 A battery pack has a thermal management system to keep the battery in the best operating condition.
+
 This system includes cooling and heating. 
-
-{{< sitefiguresized thumb="technology/battery/thermalmanagment/batterycooling_1_st.jpg" width="3000" height="1808" title="Battery cooling" >}} 
-
 
 ## Battery Heating
 
@@ -28,6 +26,8 @@ To overcome this problem, some EVs have a feature called battery preconditioning
 ### How does battery preconditioning work?
 
 Battery preconditioning works by using the onboard heating system or the waste heat from the motor/drivetraint to raise the battery pack's temperature.
+
+{{< sitefiguresized thumb="technology/battery/thermalmanagment/thermal_management_st.jpg" width="2000" height="1200" title="Audi e-tron GT battery heating circuits" >}}
 
 
 #### Automatic precondition when navigating to DC Fast charger
@@ -59,10 +59,11 @@ Some models do not support the precondition of the battery and only cabin. For t
 
 ### How powerful are the heating circuits?
 
-The power of the heating circuits depends on the EV model and the battery size. For instance, the Tesla Model 3 has a 75 kWh battery pack and a 6 kW heating system, which can raise the battery temperature by about 18°C (32°F) in an hour. 
-The Nissan Leaf has a 40 kWh battery pack and a 3 kW heating system, which can raise the battery temperature by about 9°C (16°F) in an hour.
+The power of the heating circuits depends on the EV model and the battery size. For instance, the Tesla Model 3 has a 75 kWh battery pack and a 6 kW heating system, which can raise the battery temperature by about 18°C (32°F) in an hour. The Nissan Leaf has a 40 kWh battery pack and a 3 kW heating system, which can raise the battery temperature by about 9°C (16°F) in an hour.
 
-For some models with low power heating it can be diffucult to get the battery to optimal temprature in
+For some models with low-power heating, getting the battery to optimal temperature in cold weather can be difficult. 
+
+See below table for some example on battery heating power.
 
 <table class="table table-striped border">
     <thead>
@@ -99,19 +100,24 @@ You can see in <a href="https://youtu.be/rKgnVzUJAfA?t=638" target="_blank">this
 
 ## Battery Cooling 
 
-During high speed charging or sporty driving the battery temprature can rise to high levels. 
+The battery temperature can rise to high levels during high-speed charging or sporty driving.
+When the battery is too hot, it can degrade faster, lose capacity, and reduce the range. 
 
-When the battery is too hot, it can degrade faster, lose capacity, and reduce the range. This is because the chemical reactions inside the battery accelerate when the temperature rises, and the internal resistance decreases. Charging a hot battery at a high rate can also damage the battery cells and shorten their lifespan.
+This effect is because the chemical reactions inside the battery accelerate when the temperature rises, and the internal resistance decreases. Charging a hot battery at a high rate can also damage the cells and shorten their lifespan.
 
-To overcome this problem, some EVs have a feature called battery cooling. This feature allows the EV to lower the temperature of the battery to a suitable level before charging or driving. By doing so, the EV can preserve the battery health, increase the range, and shorten the charging time.
+Typically, manufacturers will derate both charging and power output if the temperature in the battery is too high.
+
+To overcome this problem, some EVs have active battery cooling. This feature allows the EV to lower the battery's temperature to a suitable level during charging or driving to increase charging or driving performance. 
+
 
 ### How does battery cooling work?
 
-Battery cooling works by using a liquid-based system that circulates a coolant through the battery pack. The coolant absorbs the heat from the battery cells and transfers it to a radiator. The radiator then dissipates the heat to the ambient air, or to another cooling loop that uses a refrigerant or a heat pump. The coolant can be a water-ethylene glycol mixture, a dielectric fluid, or even a fluid containing thermally conductive particles.
+Battery cooling uses a liquid-based system that circulates a coolant through the battery pack. The coolant absorbs the heat from the battery cells and transfers it to a radiator. The radiator then dissipates the heat to the ambient air or another cooling loop using a refrigerant or heat pump. The coolant can be a water-ethylene glycol mixture, a dielectric fluid, or a fluid containing thermally conductive particles.
 
-{{< sitefiguresized thumb="technology/battery/thermalmanagment/thermal_management_st.jpg" width="2000" height="1200" title="Audi e-tron GT termisk styring" >}}
+{{< sitefiguresized thumb="technology/battery/thermalmanagment/batterycooling_1_st.jpg" width="3000" height="1808" title="Audi e-tron battery cooling circuits" >}} 
 
-You can see in <a href="https://youtu.be/Q0LaUx5I_28?t=412" target="_blank">this 1000km test</a> by Bjørn Nyland how the BMW i50 have problem with overheating after charging and reduce pwoer.
+
+In <a href="https://youtu.be/Q0LaUx5I_28?t=412" target="_blank">this 1000km test</a> by Bjørn Nyland, the BMW i50 has a problem with overheating after charging and reduced the available power.
 
 <br />
 
