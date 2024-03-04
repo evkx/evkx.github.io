@@ -25,7 +25,7 @@ To overcome this problem, some EVs have a feature called battery preconditioning
 
 ### How does battery preconditioning work?
 
-Battery preconditioning works by using the onboard heating system or the waste heat from the motor/drivetraint to raise the battery pack's temperature.
+Battery preconditioning uses the onboard heating system or the waste heat from the motor/drivetrain to raise the battery pack’s temperature.
 
 {{< sitefiguresized thumb="technology/battery/thermalmanagment/thermal_management_st.jpg" width="2000" height="1200" title="Audi e-tron GT battery heating circuits" >}}
 
@@ -63,7 +63,7 @@ The power of the heating circuits depends on the EV model and the battery size. 
 
 For some models with low-power heating, getting the battery to optimal temperature in cold weather can be difficult. 
 
-See below table for some example on battery heating power.
+See the table below for some examples of battery heating power
 
 <table class="table table-striped border">
     <thead>
@@ -84,9 +84,9 @@ See below table for some example on battery heating power.
 
 ### How does battery preconditioning affect the range?
 
-Battery preconditioning does consume some energy from the battery, which reduces the available range. 
+Battery preconditioning does consume some energy from the battery, which reduces the available range.
 
-However, this energy loss is compensated by the improved efficiency and performance of the battery at a higher temperature. 
+However, this energy loss is partially compensated by the improved efficiency and performance of the battery at a higher temperature.
 
 Moreover, preconditioning the battery while the EV is plugged in can minimize the energy loss, as the EV can draw power from the grid instead of the battery.
 
