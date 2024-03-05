@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-20589934
+  translation: Porsche Taycan Turbo S Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 604 km (375 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-9e00b193
   translation: Li Auto MEGA er en fuldelektrisk premium MPV med en CLTC rækkevidde på op til 710 km (441 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-c21dd820
   translation: VinFast VF8 Eco er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 471 km (293 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-c57491dd
-  translation: VinFast VF8 Plus er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 447 km (278 miles). EVKX.net har alle detaljerne.
 
