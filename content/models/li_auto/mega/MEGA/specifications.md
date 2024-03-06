@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				376 liter (13 cu-ft)
+				1054 liter (37 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with third row seats folded</a>
 			</td>
 			<td>
-				2979 liter (105 cu-ft)
+				1800 liter (64 cu-ft)
 			</td>
 		</tr>
 		<tr>

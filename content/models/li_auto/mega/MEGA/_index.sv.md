@@ -235,7 +235,7 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), nio 
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 376 liter. Med den tredje sätesraden nere är den 2979 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 3400 kg, och med basvikten på 2763 kg kan du lasta maximalt 637 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 1054 liter. Med den tredje sätesraden nere är den 1800 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 3400 kg, och med basvikten på 2763 kg kan du lasta maximalt 637 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 

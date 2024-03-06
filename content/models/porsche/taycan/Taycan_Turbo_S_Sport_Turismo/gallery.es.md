@@ -72,6 +72,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_xst.jpg" alt="Porsche Taycan Turbo S Sport Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1.jpg"
 data-pswp-width="3000"

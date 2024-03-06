@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				376 litro (13 pies cúbicos)
+				1054 litro (37 pies cúbicos)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con los asientos de la tercera fila plegados
 			</td>
 			<td>
-				2979 litro (105 pies cúbicos)
+				1800 litro (64 pies cúbicos)
 			</td>
 		</tr>
 		<tr>

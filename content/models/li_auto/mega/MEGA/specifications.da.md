@@ -339,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				376 liter (13 cu-ft)
+				1054 liter (37 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med foldede sæder på tredje række
 			</td>
 			<td>
-				2979 liter (105 cu-ft)
+				1800 liter (64 cu-ft)
 			</td>
 		</tr>
 		<tr>

@@ -183,6 +183,10 @@ Además, con el sistema de navegación para automóvil estándar, obtienes la ay
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="1688"  >}}
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Porsche Taycan Turbo S Sport Turismo tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

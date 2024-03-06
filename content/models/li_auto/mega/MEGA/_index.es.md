@@ -235,7 +235,7 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 376 litros. Con el asiento de la tercera fila abatido, es de 2979 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 32 litros (1,1 CU FT). El peso máximo del automóvil es 3400 kg (7496 lbs), y con el peso base de 2763 kg (6091 lbs), puedes cargar como máximo 637 kg (1404 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 1054 litros. Con el asiento de la tercera fila abatido, es de 1800 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 32 litros (1,1 CU FT). El peso máximo del automóvil es 3400 kg (7496 lbs), y con el peso base de 2763 kg (6091 lbs), puedes cargar como máximo 637 kg (1404 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
 

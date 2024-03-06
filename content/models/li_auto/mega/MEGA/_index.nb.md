@@ -235,7 +235,7 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 376 liter. Med setet på tredje rad nede er det 2979 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3400 kg, og med basisvekten på 2763 kg kan du maksimalt laste 637 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 1054 liter. Med setet på tredje rad nede er det 1800 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3400 kg, og med basisvekten på 2763 kg kan du maksimalt laste 637 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 

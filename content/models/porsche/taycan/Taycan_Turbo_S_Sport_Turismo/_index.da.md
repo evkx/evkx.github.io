@@ -183,6 +183,10 @@ Derudover får du med standard navigationssystemet i bilen den hjælp, du har br
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="1688"  >}}
+
 ## Avancerede førerassistentsystemer
 
 Porsche Taycan Turbo S Sport Turismo har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
