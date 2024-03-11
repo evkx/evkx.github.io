@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-4507a85e
+  translation: Porsche Taycan Turbo GT is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net has all the details.
+
 - id: frontpage-description-20589934
   translation: Porsche Taycan Turbo S Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 604 km (375 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-62414ec7
   translation: Volkswagen ID.7 Tourer Pro is an all-electric station wagon with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details.
-
-- id: frontpage-description-c21dd820
-  translation: VinFast VF8 Eco is an all-electric SUV with a WLTP range of up to 471 km (293 miles). EVKX.net has all the details.
 

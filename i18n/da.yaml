@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-4507a85e
+  translation: Porsche Taycan Turbo GT er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 555 km (345 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-20589934
   translation: Porsche Taycan Turbo S Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 604 km (375 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-62414ec7
   translation: Volkswagen ID.7 Tourer Pro er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 600 km (373 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-c21dd820
-  translation: VinFast VF8 Eco er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 471 km (293 miles). EVKX.net har alle detaljerne.
 

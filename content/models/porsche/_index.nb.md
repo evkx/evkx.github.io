@@ -30,7 +30,7 @@ Porsche Macan er en premium Coupe SUV tilgjengelig i 2 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Porsche Taycan er en luksus sedan /stasjonsvogn tilgjengelig i 17 varianter.
+Porsche Taycan er en luksus sedan /stasjonsvogn tilgjengelig i 18 varianter.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

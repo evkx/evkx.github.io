@@ -30,7 +30,7 @@ Porsche Macan är en premium Coupe SUV tillgänglig i 2 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Porsche Taycan är en lyxig sedan/kombi som finns i 17 varianter.
+Porsche Taycan är en lyxig sedan/kombi som finns i 18 varianter.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
