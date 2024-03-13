@@ -63,6 +63,62 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
+				2,3 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Potencia máxima
+			</td>
+			<td>
+				815 KW (1108 hp /1093 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Potencia máxima con impulso
+			</td>
+			<td>
+				815 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Aumento de la salida de par eléctrico
+			</td>
+			<td>
+				1340 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Velocidad máxima
+			</td>
+			<td>
+				300 kph (186 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph)
+			</td>
+			<td>
 				2,2 s
 			</td>
 		</tr>
@@ -585,7 +641,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 ### Asientos delanteros
 
 
-#### Comfortseats with memory
+#### Lightweight bucket seat
 
 <table class="table table-striped border">
 	<thead>

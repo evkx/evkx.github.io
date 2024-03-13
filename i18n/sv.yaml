@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-72c1c819
+  translation: Volkswagen ID.7 GTX Tourer är en helelektrisk kombi med en WLTP räckvidd på upp till 685 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-4507a85e
   translation: Porsche Taycan Turbo GT är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 555 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-f24e04cd
   translation: Volkswagen ID.7 Tourer Pro S är en helelektrisk kombi med en WLTP räckvidd på upp till 685 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-62414ec7
-  translation: Volkswagen ID.7 Tourer Pro är en helelektrisk kombi med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer.
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Porsche Taycan Turbo GT en secciones. Si desea 
 
 ## Rendimiento
 
-Con overboost, el Porsche Taycan Turbo GT tiene una potencia máxima de 815 KW (1108 hp / 1093 bhp). Sin overboost, es de 815 KW (1108 CV / 1108 CV). El par es 1340 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,2 segundos. La velocidad máxima es 300 km/h.
+Con overboost, el Porsche Taycan Turbo GT tiene una potencia máxima de 815 KW (1108 hp / 1093 bhp). Sin overboost, es de 815 KW (1108 CV / 1108 CV). El par es 1340 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,3 segundos. La velocidad máxima es 300 km/h. Con overboost, el Porsche Taycan Turbo GT tiene una potencia máxima de 815 KW (1108 hp / 1093 bhp). Sin overboost, es de 815 KW (1108 CV / 1108 CV). El par es 1340 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,2 segundos. La velocidad máxima es 300 km/h.
 
 ## Batería, autonomía y carga
 
@@ -92,23 +92,19 @@ El estándar es simplemente un techo normal. Como opción, puedes pedir este mod
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior.
 
 ### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Porsche Taycan Turbo GT.
 
-Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
+Las siguientes funcionalidades están disponibles en el asiento **Lightweight bucket seat**.
 
 - ajuste eléctrico
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
-
-
 
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**.
 

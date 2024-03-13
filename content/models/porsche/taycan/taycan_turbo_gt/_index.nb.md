@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo GT i seksjoner. Hvis du vil
 
 ## Ytelse
 
-Med overboost har Porsche Taycan Turbo GT en maksimal effekt på 815 KW (1108hk). Uten overboost er den 815KW (1108hk). Dreiemomentet er 1340 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,2 sekunder. Topphastigheten er 300 km/t.
+Med overboost har Porsche Taycan Turbo GT en maksimal effekt på 815 KW (1108hk). Uten overboost er den 815KW (1108hk). Dreiemomentet er 1340 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,3 sekunder. Topphastigheten er 300 km/t. Med overboost har Porsche Taycan Turbo GT en maksimal effekt på 815 KW (1108hk). Uten overboost er den 815KW (1108hk). Dreiemomentet er 1340 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,2 sekunder. Topphastigheten er 300 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -92,23 +92,19 @@ Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modelle
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
+Du kan velge mellom ulike typer seter, setematerialer og interiørstil.
 
 ### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Porsche Taycan Turbo GT.
 
-Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
+Følgende funksjoner er tilgjengelige på **Lightweight bucket seat** setet.
 
 - elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
-
-
 
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 

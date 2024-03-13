@@ -29,7 +29,7 @@ We have separated our Porsche Taycan Turbo GT article into sections. If you want
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo GT has a maximum power of 815 KW (1108 hp / 1093 bhp). Without overboost, it is 815 KW (1108 hp / 1108 bhp). The torque is 1340 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2.2 seconds. The top speed is 300 km/h.
+With overboost, the Porsche Taycan Turbo GT has a maximum power of 815 KW (1108 hp / 1093 bhp). Without overboost, it is 815 KW (1108 hp / 1108 bhp). The torque is 1340 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2.3 seconds. The top speed is 300 km/h. With overboost, the Porsche Taycan Turbo GT has a maximum power of 815 KW (1108 hp / 1093 bhp). Without overboost, it is 815 KW (1108 hp / 1108 bhp). The torque is 1340 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2.2 seconds. The top speed is 300 km/h.
 
 ## Battery, range, and charging
 
@@ -101,23 +101,19 @@ The standard is just a regular roof. As an option, you can order this model with
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. This model offers a four-seat layout or an optional 4+1 layout.
+You can choose between different types of seats, seat materials, and interior styling.
 
 ### First row seats
 
 There are two seat types you can choose from for the front row in the Porsche Taycan Turbo GT.
 
-The following functionalities are available on the **Comfortseats with memory** seat.
+The following functionalities are available on the **Lightweight bucket seat** seat.
 
 - electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-
-You can choose from 2 different materials/colors for this seat type.
-
-
 
 The following functionalities are available on the **Sportsseats Plus** seat.
 

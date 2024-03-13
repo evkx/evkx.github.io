@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-72c1c819
+  translation: Volkswagen ID.7 GTX Tourer er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 685 km (426 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-4507a85e
   translation: Porsche Taycan Turbo GT er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 555 km (345 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-f24e04cd
   translation: Volkswagen ID.7 Tourer Pro S er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 685 km (426 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-62414ec7
-  translation: Volkswagen ID.7 Tourer Pro er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 600 km (373 miles). EVKX.net har alle detaljerne.
 

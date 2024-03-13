@@ -29,7 +29,7 @@ Vi har opdelt vores Porsche Taycan Turbo GT artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-Med overboost har Porsche Taycan Turbo GT en maksimal effekt på 815 KW (1108 hk / 1108 bhp). Uden overboost er den 815 KW (1108 hk / 1093 hk). Momentet er 1340 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 2,2 sekunder. Tophastigheden er 300 km/t.
+Med overboost har Porsche Taycan Turbo GT en maksimal effekt på 815 KW (1108 hk / 1108 bhp). Uden overboost er den 815 KW (1108 hk / 1093 hk). Momentet er 1340 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 2,3 sekunder. Tophastigheden er 300 km/t. Med overboost har Porsche Taycan Turbo GT en maksimal effekt på 815 KW (1108 hk / 1108 bhp). Uden overboost er den 815 KW (1108 hk / 1093 hk). Momentet er 1340 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 2,2 sekunder. Tophastigheden er 300 km/t.
 
 ## Batteri, rækkevidde og opladning
 
@@ -92,23 +92,19 @@ Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne mo
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
+Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign.
 
 ### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Porsche Taycan Turbo GT.
 
-Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
+Følgende funktioner er tilgængelige på **Lightweight bucket seat** sædet.
 
 - elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-
-
 
 Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 

@@ -72,7 +72,7 @@ Volkswagen ID.5 er en Coupe SUV tilgængelig i 4 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Volkswagen ID.7 er en sedan/stationcar tilgængelig i 4 varianter.
+Volkswagen ID.7 er en sedan/stationcar tilgængelig i 5 varianter.
 </p>
 	<a href="id.7/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

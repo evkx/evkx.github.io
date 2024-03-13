@@ -63,6 +63,62 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Tur
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
+				2,3 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Popeffekt
+			</td>
+			<td>
+				815 KW (1108 hk /1093 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Popkraft med boost
+			</td>
+			<td>
+				815 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Forøgelse af elektrisk drejningsmomentoutput
+			</td>
+			<td>
+				1340 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tophastighed
+			</td>
+			<td>
+				300 km/t (186 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph)
+			</td>
+			<td>
 				2,2 s
 			</td>
 		</tr>
@@ -585,7 +641,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 ### Forsæder
 
 
-#### Comfortseats with memory
+#### Lightweight bucket seat
 
 <table class="table table-striped border">
 	<thead>

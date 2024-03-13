@@ -63,6 +63,62 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Turb
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
+				2,3 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Maks effekt
+			</td>
+			<td>
+				815 KW (1108 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks effekt med boost
+			</td>
+			<td>
+				815 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment med boost
+			</td>
+			<td>
+				1340 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Topphastighet
+			</td>
+			<td>
+				300 km/t
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph)
+			</td>
+			<td>
 				2,2 s
 			</td>
 		</tr>
@@ -585,7 +641,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 ### Forseter
 
 
-#### Comfortseats with memory
+#### Lightweight bucket seat
 
 <table class="table table-striped border">
 	<thead>
