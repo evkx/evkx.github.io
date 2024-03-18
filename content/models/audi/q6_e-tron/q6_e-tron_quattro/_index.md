@@ -59,13 +59,13 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Audi Q6 e-tron quattro has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Audi Q6 e-tron quattro has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 184 mm. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 185 mm, and the maximum is 224 mm.
 
 ### Steering
 
-Dynamic steering is a standard feature on the Audi Q6 e-tron quattro. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard feature on the Audi Q6 e-tron quattro. Dynamic steering varies the steering ratio as a function of driving speed.
 
 ### Brakes
 
