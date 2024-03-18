@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-e10ab496
+  translation: Audi Q6 e-tron quattro is an all-electric premium coupe SUV with a WLTP range of up to 613 km (381 miles). EVKX.net has all the details.
+
 - id: frontpage-description-72c1c819
   translation: Volkswagen ID.7 GTX Tourer is an all-electric station wagon with a WLTP range of up to 685 km (426 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-fa4ec0c9
   translation: CUPRA BORN VZ is an all-electric hatchback with a WLTP range of up to 570 km (354 miles). EVKX.net has all the details.
-
-- id: frontpage-description-f24e04cd
-  translation: Volkswagen ID.7 Tourer Pro S is an all-electric station wagon with a WLTP range of up to 685 km (426 miles). EVKX.net has all the details.
 

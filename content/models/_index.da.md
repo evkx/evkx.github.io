@@ -197,7 +197,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
 	<h2>Audi</h2>
 	<p>
-	Audi har 4 modeller med i alt 29 varianter.
+	Audi har 5 modeller med i alt 30 varianter.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gå til Audi EV-modeloversigt</a>
 </div>

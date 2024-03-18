@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-e10ab496
+  translation: Audi Q6 e-tron quattro es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 613 km (381 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-72c1c819
   translation: Volkswagen ID.7 GTX Tourer es una camioneta totalmente eléctrica con una WLTP autonomía de hasta 685 km (426 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-fa4ec0c9
   translation: CUPRA BORN VZ es un hatchback totalmente eléctrico con un WLTP alcance de hasta 570 km (354 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-f24e04cd
-  translation: Volkswagen ID.7 Tourer Pro S es una camioneta totalmente eléctrica con una WLTP autonomía de hasta 685 km (426 millas). EVKX.net tiene todos los detalles.
 

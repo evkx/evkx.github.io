@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-e10ab496
+  translation: Audi Q6 e-tron quattro er en fuldelektrisk premium coupe SUV med en rækkevidde på WLTP på op til 613 km (381 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-72c1c819
   translation: Volkswagen ID.7 GTX Tourer er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 685 km (426 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-fa4ec0c9
   translation: CUPRA BORN VZ er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 570 km (354 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-f24e04cd
-  translation: Volkswagen ID.7 Tourer Pro S er en fuldelektrisk stationcar med en WLTP rækkevidde på op til 685 km (426 miles). EVKX.net har alle detaljerne.
 
