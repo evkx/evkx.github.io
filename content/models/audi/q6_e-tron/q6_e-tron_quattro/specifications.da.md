@@ -36,14 +36,6 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q6 e-tron qua
 		</tr>
 		<tr>
 			<td>
-				Popkraft med boost
-			</td>
-			<td>
-				300 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Elektrisk momentudgang
 			</td>
 			<td>
@@ -52,18 +44,10 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q6 e-tron qua
 		</tr>
 		<tr>
 			<td>
-				Forøgelse af elektrisk drejningsmomentoutput
-			</td>
-			<td>
-				650 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Tophastighed
 			</td>
 			<td>
-				220 km/t (137 mph)
+				210 km/t (131 mph)
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q6 e-tron qua
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,2 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -99,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				613 km
+				625 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				15,5 kWh/100km
+				15,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +360,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1622 mm (63,9")
+				1685 mm (66,3")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +368,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1938 mm (76,3")
+				1939 mm (76,3")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +376,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2152 mm (84,7")
+				2193 mm (86,3")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +392,15 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0,25
+				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontalområde
+			</td>
+			<td>
+				2,73
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +433,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2255 kg (4971 lbs)
+				2325 kg (5126 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +441,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2920 kg (6437 lbs)
+				2965 kg (6537 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +449,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				665 kg (1466 lbs)
+				640 kg (1411 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +481,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				84 liter (3 cu-ft)
+				64 liter (2 cu-ft)
 			</td>
 		</tr>
 		<tr>

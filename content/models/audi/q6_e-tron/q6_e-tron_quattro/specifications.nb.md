@@ -36,14 +36,6 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q6 e-tron quat
 		</tr>
 		<tr>
 			<td>
-				Maks effekt med boost
-			</td>
-			<td>
-				300 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Dreiemoment
 			</td>
 			<td>
@@ -52,18 +44,10 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q6 e-tron quat
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost
-			</td>
-			<td>
-				650 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Topphastighet
 			</td>
 			<td>
-				220 km/t
+				210 km/t
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q6 e-tron quat
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,2 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -99,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				613 km
+				625 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				15,5 kWh/100km
+				15,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +360,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1622 mm
+				1685 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +368,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1938 mm
+				1939 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +376,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde inkludert speil
 			</td>
 			<td>
-				2152 mm
+				2193 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +392,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,25
+				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontalområde
+			</td>
+			<td>
+				2,73
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +433,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2255 kg
+				2325 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +441,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2920 kg
+				2965 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +449,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				665 kg
+				640 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +481,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse frunk
 			</td>
 			<td>
-				84 liter
+				64 liter
 			</td>
 		</tr>
 		<tr>

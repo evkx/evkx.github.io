@@ -109,8 +109,11 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-8308a949
+  translation: Audi SQ6 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 625 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-e10ab496
-  translation: Audi Q6 e-tron quattro är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 613 km. EVKX.net har alla detaljer.
+  translation: Audi Q6 e-tron quattro är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 625 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-72c1c819
   translation: Volkswagen ID.7 GTX Tourer är en helelektrisk kombi med en WLTP räckvidd på upp till 685 km. EVKX.net har alla detaljer.
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-6fb4c17f
   translation: Dacia Spring 65HP är en helelektrisk halvkombi med en WLTP räckvidd på upp till 220 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-fa4ec0c9
-  translation: CUPRA BORN VZ är en helelektrisk halvkombi med en WLTP räckvidd på upp till 570 km. EVKX.net har alla detaljer.
 

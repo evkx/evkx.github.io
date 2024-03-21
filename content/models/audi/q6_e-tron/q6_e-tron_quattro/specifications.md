@@ -36,14 +36,6 @@ EVKX.net seeks to have the most complete specifications for Audi Q6 e-tron quatt
 		</tr>
 		<tr>
 			<td>
-				Peak power with  boost
-			</td>
-			<td>
-				300 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Electrical torque output
 			</td>
 			<td>
@@ -52,18 +44,10 @@ EVKX.net seeks to have the most complete specifications for Audi Q6 e-tron quatt
 		</tr>
 		<tr>
 			<td>
-				Electrical torque output boost
-			</td>
-			<td>
-				650 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Top speed
 			</td>
 			<td>
-				220 kph (137 mph)
+				210 kph (131 mph)
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q6 e-tron quatt
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,2 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -99,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				613 km
+				625 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				15,5 kWh/100km
+				15,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +360,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1622 mm (63,9")
+				1685 mm (66,3")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +368,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1938 mm (76,3")
+				1939 mm (76,3")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +376,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2152 mm (84,7")
+				2193 mm (86,3")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +392,15 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,25
+				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontal area
+			</td>
+			<td>
+				2,73
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +433,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2255 kg (4971 lbs)
+				2325 kg (5126 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +441,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2920 kg (6437 lbs)
+				2965 kg (6537 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +449,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				665 kg (1466 lbs)
+				640 kg (1411 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +481,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>
-				84 liter (3 cu-ft)
+				64 liter (2 cu-ft)
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron quattro
 linktitle: "Q6 e-tron quattro"
-description: "Audi Q6 e-tron quattro er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 613 km. EVKX.net har alle detaljene."
+description: "Audi Q6 e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Audi Q6 e-tron quattro i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Med overboost har Audi Q6 e-tron quattro en maksimal effekt på 300 KW (408hk). Uten overboost er den 285KW (388hk). Dreiemomentet er 650 nm med overboost og 650 uten overboost. Den utfører sprinten 0-100 km/t på 5,2 sekunder. Topphastigheten er 220 km/t.
+Audi Q6 e-tron quattro har en maksimal effekt på 285 KW (388hk). Totalt dreiemoment er 650 nm. Den utfører sprinten 0-100 km/t på 5,9 sekunder. Topphastigheten er 210 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 94,9kWh, noe som betyr at du har et 5,1kWh-buffer for beskyttelse. (5,1%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 613 til 516 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15,5kWh/100 km for basisversjonen og 18,4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 625 til 516 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15,2kWh/100 km for basisversjonen og 18,4kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 170kW. Hver ladeøkt vil ta 20 minutter og 4 sekunder.
 
@@ -69,9 +69,9 @@ Dynamisk styring er standard-funksjonen på Audi Q6 e-tron quattro. Dynamisk sty
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 410mm, og de bakre skivene er 365mm.
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 375mm, og de bakre skivene er 350mm.
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen). I denne modusen ruller bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving).
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen). I denne modusen ruller bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). Du kan velge mellom tre stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, rullemodus får kjøretøyet til å rulle til det stopper av seg selv, og krypemodus vil krype bilen fremover i lav hastighet. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
 
 ## Eksteriør
 
@@ -247,7 +247,7 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 526 liter. Med baksetet nede er det 1529 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2920 kg, og med basisvekten på 2255 kg kan du maksimalt laste 665 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 526 liter. Med baksetet nede er det 1529 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2965 kg, og med basisvekten på 2325 kg kan du maksimalt laste 640 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2400, og på ubremset er den 750 kg.
 

@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron quattro
 linktitle: "Q6 e-tron quattro"
-description: "Audi Q6 e-tron quattro is an all-electric premium coupe SUV with a WLTP range of up to 613 km (381 miles). EVKX.net has all the details."
+description: "Audi Q6 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 625 km (388 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ We have separated our Audi Q6 e-tron quattro article into sections. If you want 
 
 ## Performance
 
-With overboost, the Audi Q6 e-tron quattro has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 285 KW (388 hp / 388 bhp). The torque is 650 nm with overboost and 650 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5.2 seconds. The top speed is 220 km/h.
+The Audi Q6 e-tron quattro has a maximum power of 285 KW (388 hp/382 bhp). The total torque is 650 nm (480 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.9 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 100kWh and a net capacity of 94,9kWh, meaning you have a 5,1kWh buffer for protection. (5.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 613 to 516 km (381-321 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.5kWh/100km for the basic version and 18.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 625 to 516 km (388-321 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.2kWh/100km for the basic version and 18.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 170kW. Each charge session would take 20 minutes and 4 seconds.
 
@@ -69,9 +69,9 @@ Dynamic steering is a standard feature on the Audi Q6 e-tron quattro. Dynamic st
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 410mm, and the rear discs are 365mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving).
+[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between three stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, roll mode causes the vehicle to roll until it stops by itself, and creep mode will creep the car forward at low speed. You can adjust how strong regen you get when you lift the foot. There are two levels.
 
 ## Exterior
 
@@ -247,7 +247,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1529 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2920 kg (6437 lbs), and with the base weight of 2255 kg (4971 lbs), you can max load 665 kg (1466 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1529 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2965 kg (6537 lbs), and with the base weight of 2325 kg (5126 lbs), you can max load 640 kg (1411 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2400, and on unbraked, it is 750 kg (5291/1653 lbs).
 

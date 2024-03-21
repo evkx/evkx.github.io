@@ -36,14 +36,6 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q6 e-tron quattro
 		</tr>
 		<tr>
 			<td>
-				Max effekt med boost
-			</td>
-			<td>
-				300 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Vridmoment
 			</td>
 			<td>
@@ -52,18 +44,10 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q6 e-tron quattro
 		</tr>
 		<tr>
 			<td>
-				Vridmoment med boost
-			</td>
-			<td>
-				650 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Topphastighet
 			</td>
 			<td>
-				220 km/h
+				210 km/h
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q6 e-tron quattro
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,2 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -99,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				613 km
+				625 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				15,5 kWh/100km
+				15,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +360,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjd
 			</td>
 			<td>
-				1622 mm
+				1685 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +368,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bredd exklusive speglar
 			</td>
 			<td>
-				1938 mm
+				1939 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +376,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bredd inklusive speglar
 			</td>
 			<td>
-				2152 mm
+				2193 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +392,15 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,25
+				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontalområde
+			</td>
+			<td>
+				2,73
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +433,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2255 kg
+				2325 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +441,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2920 kg
+				2965 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +449,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				665 kg
+				640 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +481,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek frunk
 			</td>
 			<td>
-				84 liter
+				64 liter
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron quattro
 linktitle: "Q6 e-tron quattro"
-description: "Audi Q6 e-tron quattro es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 613 km (381 millas). EVKX.net tiene todos los detalles."
+description: "Audi Q6 e-tron quattro es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 625 km (388 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ Hemos separado nuestro artículo Audi Q6 e-tron quattro en secciones. Si desea e
 
 ## Rendimiento
 
-Con overboost, el Audi Q6 e-tron quattro tiene una potencia máxima de 300 KW (408 hp / 402 bhp). Sin overboost, es de 285 KW (388 CV / 388 CV). El par es 650 nm con overboost y 650 sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,2 segundos. La velocidad máxima es 220 km/h.
+El Audi Q6 e-tron quattro tiene una potencia máxima de 285 KW (388 hp/382 bhp). El par total es 650 nm (480 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,9 segundos. La velocidad máxima es 210 km/h.
 
 ## Batería, autonomía y carga
 
 La batería tiene una capacidad bruta de 100kWh y una capacidad neta de 94,9kWh, lo que significa que tienes un buffer de 5,1kWh para protección. (5,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 613 a 516 km (381-321 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,5kWh/100 km para la versión básica y 18,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 625 a 516 km (388-321 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,2kWh/100 km para la versión básica y 18,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 57 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 170kW. Cada sesión de carga tardaría 20 minutos y 4 segundos.
 
@@ -69,9 +69,9 @@ La dirección dinámica es una característica un estándar en el Audi Q6 e-tron
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 410 mm y los discos traseros de 365 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal).
+[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal). Puedes elegir entre tres modos de parada para conducir con un solo pedal. El modo Hold detiene el auto por completo usando frenos de fricción, el modo Roll hace que el vehículo ruede hasta que se detenga por sí solo y El modo lento hará que el auto avance lentamente a baja velocidad. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
 
 ## Exterior
 
@@ -247,7 +247,7 @@ Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 526 litros. Con el asiento trasero abatido, es de 1529 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2920 kg (6437 lbs), y con el peso base de 2255 kg (4971 lbs), puedes cargar como máximo 665 kg (1466 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 526 litros. Con el asiento trasero abatido, es de 1529 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2965 kg (6537 lbs), y con el peso base de 2325 kg (5126 lbs), puedes cargar como máximo 640 kg (1411 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2400, y sin freno, es de 750 kg (5291/1653 lbs).
 

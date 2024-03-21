@@ -58,7 +58,7 @@ Audi Q4 e-tron is a premium SUV/Coupe SUV available in 14 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Audi Q6 e-tron is a premium Coupe SUV available in 1 variants.
+Audi Q6 e-tron is a premium SUV available in 2 variants.
 </p>
 	<a href="q6_e-tron/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

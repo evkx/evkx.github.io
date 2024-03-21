@@ -197,7 +197,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
 	<h2>Audi</h2>
 	<p>
-	Audi tiene 5 modelos con un total de 30 variantes.
+	Audi tiene 5 modelos con un total de 31 variantes.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Ir a Audi descripción general del modelo EV</a>
 </div>

@@ -36,14 +36,6 @@ EVKX.net busca tener las especificaciones más completas para Audi Q6 e-tron qua
 		</tr>
 		<tr>
 			<td>
-				Potencia máxima con impulso
-			</td>
-			<td>
-				300 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Salida de par eléctrico
 			</td>
 			<td>
@@ -52,18 +44,10 @@ EVKX.net busca tener las especificaciones más completas para Audi Q6 e-tron qua
 		</tr>
 		<tr>
 			<td>
-				Aumento de la salida de par eléctrico
-			</td>
-			<td>
-				650 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Velocidad máxima
 			</td>
 			<td>
-				220 kph (137 mph)
+				210 kph (131 mph)
 			</td>
 		</tr>
 		<tr>
@@ -71,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Audi Q6 e-tron qua
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,2 s
+				5,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -99,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				613 km
+				625 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				15,5 kWh/100km
+				15,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +360,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1622 mm (63,9")
+				1685 mm (66,3")
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +368,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1938 mm (76,3")
+				1939 mm (76,3")
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +376,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2152 mm (84,7")
+				2193 mm (86,3")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +392,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Coeficiente de arrastre
 			</td>
 			<td>
-				0,25
+				0,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Área frontal
+			</td>
+			<td>
+				2,73
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +433,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2255 kg (4971 lbs)
+				2325 kg (5126 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +441,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2920 kg (6437 lbs)
+				2965 kg (6537 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				665 kg (1466 lbs)
+				640 kg (1411 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +481,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				84 litro (3 pies cúbicos)
+				64 litro (2 pies cúbicos)
 			</td>
 		</tr>
 		<tr>
