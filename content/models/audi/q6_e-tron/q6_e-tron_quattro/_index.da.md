@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron quattro
 linktitle: "Q6 e-tron quattro"
-description: "Audi Q6 e-tron quattro er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 625 km (388 miles). EVKX.net har alle detaljerne."
+description: "Audi Q6 e-tron quattro er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 598 km (372 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Audi Q6 e-tron quattro har en maksimal effekt på 285 KW (388 hk/382 hk). Det sa
 
 Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 94,9kWh, hvilket betyder, at du har en 5,1kWh buffer til beskyttelse. (5,1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 625 til 516 km (388-321 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,2kWh/100 km for basisversionen og 18,4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 598 til 516 km (372-321 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,9kWh/100 km for basisversionen og 18,4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 57 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 170kW. Hver opladningssession ville tage 20 minutter og 4 sekunder.
 

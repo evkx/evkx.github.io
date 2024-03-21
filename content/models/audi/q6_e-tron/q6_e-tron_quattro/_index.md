@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron quattro
 linktitle: "Q6 e-tron quattro"
-description: "Audi Q6 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 625 km (388 miles). EVKX.net has all the details."
+description: "Audi Q6 e-tron quattro is an all-electric premium SUV with a WLTP range of up to 598 km (372 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Audi Q6 e-tron quattro has a maximum power of 285 KW (388 hp/382 bhp). The t
 
 The battery has a gross capacity of 100kWh and a net capacity of 94,9kWh, meaning you have a 5,1kWh buffer for protection. (5.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 625 to 516 km (388-321 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.2kWh/100km for the basic version and 18.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 598 to 516 km (372-321 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.9kWh/100km for the basic version and 18.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 170kW. Each charge session would take 20 minutes and 4 seconds.
 
