@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron quattro
 linktitle: "Q6 e-tron quattro"
-description: "Audi Q6 e-tron quattro es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 598 km (372 millas). EVKX.net tiene todos los detalles."
+description: "Audi Q6 e-tron quattro es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 625 km (388 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ El Audi Q6 e-tron quattro tiene una potencia máxima de 285 KW (388 hp/382 bhp).
 
 La batería tiene una capacidad bruta de 100kWh y una capacidad neta de 94,9kWh, lo que significa que tienes un buffer de 5,1kWh para protección. (5,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 598 a 516 km (372-321 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,9kWh/100 km para la versión básica y 18,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 625 a 516 km (388-321 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,2kWh/100 km para la versión básica y 18,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 57 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 170kW. Cada sesión de carga tardaría 20 minutos y 4 segundos.
 
