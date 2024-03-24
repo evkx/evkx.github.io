@@ -33,17 +33,17 @@ Rivian R1T Performance Dual-Motor AWD LP har en maximal effekt på 495 KW (673hk
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 135kWh och en nettokapacitet på 132kWh, vilket innebär att du har en 3kWh buffert för skydd. (2,2%).
+Batteriet har en bruttokapacitet på 136kWh och en nettokapacitet på 135kWh, vilket innebär att du har en 1kWh buffert för skydd. (0,7%).
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 352 miles (566 km). Förbrukningen är 2,7mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 352 miles (566 km). Förbrukningen är 2,6mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 110 minuter, medan ett vanligare scenario på 10-80 % tar 44 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 139kW. Varje laddningssession tar 26 minuter och 36 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 113 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 140kW. Varje laddningssession tar 26 minuter och 4 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 30kWh/100km, tar 1000km 9 timmar och 33 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 0% till 43%. Total tid som går förlorad för att ladda batteriet kommer att vara 74 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 30kWh/100km, tar 1000km 9 timmar och 31 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 0% till 41%. Total tid som går förlorad för att ladda batteriet kommer att vara 72 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 11 timmar och 28 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 11 timmar och 44 minuter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}

@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				2,7 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				135 kWh
+				136 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				132 kWh
+				135 kWh
 			</td>
 		</tr>
 		<tr>

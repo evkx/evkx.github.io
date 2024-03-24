@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim EPA-forbrug
 			</td>
 			<td>
-				2,4 mi/kWh
+				2,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				131 kWh
+				130 kWh
 			</td>
 		</tr>
 		<tr>

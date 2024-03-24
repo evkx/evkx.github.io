@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				2,7 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				135 kWh
+				136 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				132 kWh
+				135 kWh
 			</td>
 		</tr>
 		<tr>

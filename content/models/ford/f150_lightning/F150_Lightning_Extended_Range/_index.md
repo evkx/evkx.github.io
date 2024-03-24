@@ -33,17 +33,17 @@ The Ford F150 Lightning Extended Range has a maximum power of 433 KW (589 hp/581
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 150kWh and a net capacity of 131kWh, meaning you have a 19kWh buffer for protection. (12.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 150kWh and a net capacity of 130kWh, meaning you have a 20kWh buffer for protection. (13.3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [EPA range](../../../../guides/understandingrange/epa/) varies from 320 to 300 miles (515-483 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 2.4mi/kWh for the basic version and 2.3mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) varies from 320 to 300 miles (515-483 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 2.5mi/kWh for the basic version and 2.3mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 155kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 49 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 62%, resulting in an actual charge speed, including time loss, of 106kW. Each charge session would take 46 minutes and 54 seconds.
+The maximum DC charging speed is 155kW. A full charge from 0 - 100% would take 129 minutes, while a more common scenario of 10-80% would take 49 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 62%, resulting in an actual charge speed, including time loss, of 106kW. Each charge session would take 46 minutes and 35 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 33kWh/100km, 1000km will take 10 hours and 13 minutes. This trip will require two charge session(s) charging from 0% to 76%. The total time lost for charging up the battery will be 113 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 33kWh/100km, 1000km will take 10 hours and 13 minutes. This trip will require two charge session(s) charging from 0% to 77%. The total time lost for charging up the battery will be 114 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 19.2 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 19.2 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 46 minutes.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}

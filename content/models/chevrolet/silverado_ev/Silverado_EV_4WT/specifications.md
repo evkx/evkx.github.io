@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				213 kWh
+				215 kWh
 			</td>
 		</tr>
 		<tr>

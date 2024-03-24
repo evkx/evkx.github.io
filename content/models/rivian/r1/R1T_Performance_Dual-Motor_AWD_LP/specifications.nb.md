@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-forbruk
 			</td>
 			<td>
-				2,7 mi/kWh
+				2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Brutto batteristørrelse
 			</td>
 			<td>
-				135 kWh
+				136 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				132 kWh
+				135 kWh
 			</td>
 		</tr>
 		<tr>

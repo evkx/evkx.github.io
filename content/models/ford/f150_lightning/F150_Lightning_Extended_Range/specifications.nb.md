@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim EPA-forbruk
 			</td>
 			<td>
-				2,4 mi/kWh
+				2,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				131 kWh
+				130 kWh
 			</td>
 		</tr>
 		<tr>

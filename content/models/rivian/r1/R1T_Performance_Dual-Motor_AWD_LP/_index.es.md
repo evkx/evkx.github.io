@@ -33,17 +33,17 @@ El Rivian R1T Performance Dual-Motor AWD LP tiene una potencia máxima de 495 KW
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 135kWh y una capacidad neta de 132kWh, lo que significa que tienes un buffer de 3kWh para protección. (2,2%).
+La batería tiene una capacidad bruta de 136kWh y una capacidad neta de 135kWh, lo que significa que tienes un buffer de 1kWh para protección. (0,7%).
 
-El [rango EPA](../../../../guides/understandingrange/epa/) es 352 millas (566 km). El consumo es 2,7mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango EPA](../../../../guides/understandingrange/epa/) es 352 millas (566 km). El consumo es 2,6mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 110 minutos, mientras que un escenario más común del 10 al 80 % tardaría 44 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 139kW. Cada sesión de carga tardaría 26 minutos y 36 segundos.
+La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 113 minutos, mientras que un escenario más común del 10 al 80 % tardaría 45 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 140kW. Cada sesión de carga tardaría 26 minutos y 4 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 30kWh/100 km, 1000 km tomarán 9 horas y 33 minutos. Este viaje requerirá tres sesiones de carga del 0 % al 43 %. El tiempo total perdido para cargar la batería será de 74 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 30kWh/100 km, 1000 km tomarán 9 horas y 31 minutos. Este viaje requerirá tres sesiones de carga del 0 % al 41 %. El tiempo total perdido para cargar la batería será de 72 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11,5 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 11 horas y 28 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11,5 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 11 horas y 44 minutos.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}

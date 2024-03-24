@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim EPA-förbrukning
 			</td>
 			<td>
-				2,4 mi/kWh
+				2,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				131 kWh
+				130 kWh
 			</td>
 		</tr>
 		<tr>

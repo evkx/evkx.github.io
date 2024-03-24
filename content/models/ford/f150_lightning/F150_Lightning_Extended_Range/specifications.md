@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">Basic trim EPA consumption</a>
 			</td>
 			<td>
-				2,4 mi/kWh
+				2,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				131 kWh
+				130 kWh
 			</td>
 		</tr>
 		<tr>

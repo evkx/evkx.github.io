@@ -33,17 +33,17 @@ Rivian R1T Performance Dual-Motor AWD LP har en maksimal effekt på 495 KW (673 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 135kWh og en nettokapacitet på 132kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (2,2%).
+Batteriet har en bruttokapacitet på 136kWh og en nettokapacitet på 135kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (0,7%).
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 352 miles (566 km). Forbruget er 2,7mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 352 miles (566 km). Forbruget er 2,6mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 110 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 44 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 139kW. Hver opladningssession ville tage 26 minutter og 36 sekunder.
+Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 113 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 45 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 140kW. Hver opladningssession ville tage 26 minutter og 4 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 30kWh/100 km, vil 1000 km tage 9 timer og 33 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 0 % til 43%. Den samlede tid, der går tabt for at oplade batteriet, vil være 74 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 30kWh/100 km, vil 1000 km tage 9 timer og 31 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 0 % til 41%. Den samlede tid, der går tabt for at oplade batteriet, vil være 72 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 11 timer og 28 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11,5 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 11 timer og 44 minutter.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}

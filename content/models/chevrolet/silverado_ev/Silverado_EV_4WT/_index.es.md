@@ -33,17 +33,17 @@ El Chevrolet Silverado EV 4WT tiene una potencia máxima de 380 KW (517 hp/510 b
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 220kWh y una capacidad neta de 213kWh, lo que significa que tienes un buffer de 7kWh para protección. (3,2%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería tiene una capacidad bruta de 220kWh y una capacidad neta de 215kWh, lo que significa que tienes un buffer de 5kWh para protección. (2,3%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango EPA](../../../../guides/understandingrange/epa/) es 450 millas (724 km). El consumo es 2,1mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 350kW. Una carga completa del 0 al 100 % tardaría 139 minutos, mientras que un escenario más común del 10 al 80 % tardaría 48 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 52%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 245kW. Cada sesión de carga tardaría 27 minutos y 39 segundos.
+La velocidad máxima de carga de CC es 350kW. Una carga completa del 0 al 100 % tardaría 140 minutos, mientras que un escenario más común del 10 al 80 % tardaría 49 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 52%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 245kW. Cada sesión de carga tardaría 27 minutos y 51 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 43kWh/100 km, 1000 km tomarán 9 horas y 13 minutos. Este viaje requerirá dos sesiones de carga del 1 % al 52 %. El tiempo total perdido para cargar la batería será de 53 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 35kWh/100 km, 1000 km tomarán 8 horas y 53 minutos. Este viaje requerirá uno sesiones de carga del 0 % al 63 %. El tiempo total perdido para cargar la batería será de 33 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 19 horas y 21 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 19 horas y 32 minutos.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}

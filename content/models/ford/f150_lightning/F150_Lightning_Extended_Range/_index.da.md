@@ -33,17 +33,17 @@ Ford F150 Lightning Extended Range har en maksimal effekt på 433 KW (589 hk/581
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 150kWh og en nettokapacitet på 131kWh, hvilket betyder, at du har en 19kWh buffer til beskyttelse. (12,7%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 150kWh og en nettokapacitet på 130kWh, hvilket betyder, at du har en 20kWh buffer til beskyttelse. (13,3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 320 til 300 miles (515-483 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 2,4mi/kWh for basisversionen og 2,3mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 320 til 300 miles (515-483 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 2,5mi/kWh for basisversionen og 2,3mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 155kW. En fuld opladning fra 0 - 100 % ville tage 130 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 49 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 106kW. Hver opladningssession ville tage 46 minutter og 54 sekunder.
+Den maksimale DC-opladningshastighed er 155kW. En fuld opladning fra 0 - 100 % ville tage 129 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 49 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 106kW. Hver opladningssession ville tage 46 minutter og 35 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 33kWh/100 km, vil 1000 km tage 10 timer og 13 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 0 % til 76%. Den samlede tid, der går tabt for at oplade batteriet, vil være 113 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 33kWh/100 km, vil 1000 km tage 10 timer og 13 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 0 % til 77%. Den samlede tid, der går tabt for at oplade batteriet, vil være 114 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 49 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 46 minutter.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}
