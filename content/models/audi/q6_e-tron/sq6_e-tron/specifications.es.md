@@ -449,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2325 kg (5126 lbs)
+				2350 kg (5181 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				640 kg (1411 lbs)
+				615 kg (1356 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -514,6 +514,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo de la bola de remolque
+			</td>
+			<td>
+				100 kg (220 lbs)
 			</td>
 		</tr>
 	</tbody>

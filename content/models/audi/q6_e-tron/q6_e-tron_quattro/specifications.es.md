@@ -500,6 +500,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				750 kg (1653 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Peso máximo de la bola de remolque
+			</td>
+			<td>
+				100 kg (220 lbs)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
