@@ -33,17 +33,17 @@ Volkswagen ID. Buzz Pro LWB har en maksimal effekt på 210 KW (286 hk/282 hk). D
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 91kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (6,6%).
+Batteriet har en bruttokapacitet på 91kWh og en nettokapacitet på 86kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5,5%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 461 til 452 km (287-281 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 18,4kWh/100 km for basisversionen og 18,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 461 til 452 km (287-281 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 18,7kWh/100 km for basisversionen og 19,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 55 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 42%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 113kW. Hver opladningssession ville tage 19 minutter og 56 sekunder.
+Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 56 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 42%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 113kW. Hver opladningssession ville tage 19 minutter og 6 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28kWh/100 km, vil 1000 km tage 10 timer og 3 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 0 % til 46%. Den samlede tid, der går tabt for at oplade batteriet, vil være 104 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 28kWh/100 km, vil 1000 km tage 10 timer og 4 minutter. Denne tur vil kræve seks opladningssession(er) opladning fra 0 % til 38%. Den samlede tid, der går tabt for at oplade batteriet, vil være 104 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 43 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 49 minutter.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}

@@ -33,17 +33,17 @@ Volkswagen ID. Buzz Pro LWB har en maximal effekt på 210 KW (286hk). Totalt vri
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 85kWh, vilket innebär att du har en 6kWh buffert för skydd. (6,6%).
+Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 86kWh, vilket innebär att du har en 5kWh buffert för skydd. (5,5%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 461 till 452 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18,4kWh/100 km för basversionen och 18,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 461 till 452 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18,7kWh/100 km för basversionen och 19,0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 55 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 42%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 113kW. Varje laddningssession tar 19 minuter och 56 sekunder.
+Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 56 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 42%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 113kW. Varje laddningssession tar 19 minuter och 6 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28kWh/100km, tar 1000km 10 timmar och 3 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 0% till 46%. Total tid som går förlorad för att ladda batteriet kommer att vara 104 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28kWh/100km, tar 1000km 10 timmar och 4 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 0% till 38%. Total tid som går förlorad för att ladda batteriet kommer att vara 104 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 43 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 49 minuter.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}

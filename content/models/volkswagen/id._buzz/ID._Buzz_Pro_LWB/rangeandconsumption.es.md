@@ -43,7 +43,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				461 km / 286 mi
 			</td>
 			<td>
-				18,44kWh/100km / 3,4 mi/kWh
+				18,66kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				452 km / 281 mi
 			</td>
 			<td>
-				18,81 kWh/100km / 3,3 mi/kWh
+				19,03 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 				Equipamiento básico gama WLTP con 2KW AC
 			</td>
 			<td>
-				 374km / 232 mi 
+				 375km / 233 mi 
 			</td>
 			<td>
-				-18,9%
+				-18,7%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 				Equipo superior de gama WLTP con 2KW AC
 			</td>
 			<td>
-				368 km / 229 mi
+				369 km / 229 mi
 			</td>
 			<td>
-				-18,6%
+				-18,4%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120kmh/75mph perfecto estado
 			</td>
 			<td>
-				304 km / 189 mi
+				307 km / 191 mi
 			</td>
 			<td>
 				28 kWh/100km / 2,2 mi/kWh
@@ -143,7 +143,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120 kmh/75 mph con calefacción de 2 KW
 			</td>
 			<td>
-				287 km /178mi
+				290 km /180mi
 			</td>
 			<td>
 				29,7 kWh/100km /2,1 mi/kWh

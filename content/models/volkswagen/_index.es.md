@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Volkswagen ID. Buzz es un monovolumen disponible en 2 variantes.
+Volkswagen ID. Buzz es un monovolumen disponible en 3 variantes.
 </p>
 	<a href="id._buzz/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

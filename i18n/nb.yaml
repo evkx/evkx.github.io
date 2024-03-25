@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-9c82a121
+  translation: Volkswagen ID. Buzz GTX LWB er en helelektrisk MPV med en WLTP rekkevidde på opptil 450 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-8308a949
   translation: Audi SQ6 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-89f7e5ac
   translation: Honda Prologue FWD er en helelektrisk SUV med en EPA rekkevidde på opptil 476 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-6fb4c17f
-  translation: Dacia Spring 65HP er en helelektrisk kombi med en WLTP rekkevidde på opptil 220 km. EVKX.net har alle detaljene.
 

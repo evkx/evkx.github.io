@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-9c82a121
+  translation: Volkswagen ID. Buzz GTX LWB es un monovolumen totalmente eléctrico con una autonomía WLTP de hasta 450 km (280 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-8308a949
   translation: Audi SQ6 e-tron es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 625 km (388 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-89f7e5ac
   translation: Honda Prologue FWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 476 km (296 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-6fb4c17f
-  translation: Dacia Spring 65HP es un hatchback totalmente eléctrico con un WLTP alcance de hasta 220 km (137 millas). EVKX.net tiene todos los detalles.
 
