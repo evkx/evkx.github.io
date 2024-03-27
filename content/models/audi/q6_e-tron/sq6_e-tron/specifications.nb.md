@@ -558,7 +558,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Justerbar demping foran
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -566,7 +566,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Justerbar demping bak
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -759,7 +759,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Hjuloppheng foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Multilink
 			</td>
 		</tr>
 		<tr>

@@ -542,7 +542,7 @@ El modelo ofrece 2 variantes de suspensión
 				Amortiguación delantera ajustable
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -550,7 +550,7 @@ El modelo ofrece 2 variantes de suspensión
 				Amortiguación trasera ajustable
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -743,7 +743,7 @@ El modelo ofrece 2 variantes de suspensión
 				Tipo de suspensión delantera
 			</td>
 			<td>
-				Suspensión de doble horquilla
+				Multilink
 			</td>
 		</tr>
 		<tr>

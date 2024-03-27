@@ -558,7 +558,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -566,7 +566,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -759,7 +759,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Suspension type front</a>
 			</td>
 			<td>
-				Double wishbone suspension
+				Multilink
 			</td>
 		</tr>
 		<tr>

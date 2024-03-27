@@ -43,7 +43,7 @@ Para el desafío teórico de 1000 km, comenzando con la batería llena y conduci
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 8 horas y 37 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 8 horas y 37 minutos. También puedes seleccionar un cargador integrado opcional que admita una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 18 minutos.
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/charging_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
@@ -61,7 +61,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Audi Q6 e-tron quattro tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión Standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 184 mm. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 185 mm y la máxima es 224 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 184 mm. La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 185 mm y la máxima es 224 mm.
 
 ### Dirección
 
@@ -75,7 +75,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 13 colores de pintura diferentes al pedir este modelo.
+Puedes elegir entre 56 colores de pintura diferentes al pedir este modelo.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 8 ruedas con tamaños de 20 a 22 pulgadas.

@@ -558,7 +558,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Justerbar dæmpning foran
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -566,7 +566,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Justerbar dæmpning bagtil
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -759,7 +759,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Ophængstype foran
 			</td>
 			<td>
-				Dobbelt wishbone suspension
+				Multilink
 			</td>
 		</tr>
 		<tr>
