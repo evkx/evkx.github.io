@@ -106,34 +106,27 @@ You can choose between different types of seats, seat materials, and interior st
 
 There are three seat types you can choose from for the front row in the Audi Q6 e-tron quattro.
 
-The following functionalities are available on the **Comfortseats** seat.
+The following functionalities are available on the **Normal** seat.
 
-- electric adjustment
 - height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - integrated headrest
 
-The following functionalities are available on the **Comfortseats with memory** seat.
+The following functionalities are available on the **Sport** seat.
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
+- electric adjustment (optional)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 2 different materials/colors for this seat type.
-
-
-
-The following functionalities are available on the **Sportsseats Plus** seat.
+The following functionalities are available on the **Sport Plus** seat.
 
 - electric adjustment
 - height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
@@ -141,11 +134,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-
-You can choose from 4 different materials/colors for this seat type.
-
-
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
@@ -158,7 +146,6 @@ You can choose from 4 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- integrated headrest
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
@@ -184,7 +171,7 @@ Keyless go makes it possible to start the car without using the key.
 
 ## User interface and control
 
-The Audi Q6 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The touch screen behind the steering wheel integrated into the dashboard is 12.6 inches large. The touch screen at the top of the center console is 10.9 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
+The Audi Q6 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The touch screen behind the steering wheel integrated into the dashboard is 11.9 inches large. The touch screen at the top of the center console is 14.9 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -220,17 +207,17 @@ The Audi Q6 e-tron quattro has an [**Electronic Stability Control**](../../../..
 
 The Audi Q6 e-tron quattro has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is an optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is an optional driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
 
 The Audi Q6 e-tron quattro has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
@@ -241,7 +228,7 @@ With the   level 1 system, you get the following driving automation features.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 
-With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above.
+With the Adaptive Cruise Assist  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 

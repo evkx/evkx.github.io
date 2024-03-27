@@ -901,7 +901,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 ### Asientos delanteros
 
 
-#### Comfortseats
+#### Normal
 
 <table class="table table-striped border">
 	<thead>
@@ -960,7 +960,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1000,7 +1000,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Función opcional
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1070,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 	</tbody>
 </table>
 
-#### Comfortseats with memory
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -1121,7 +1121,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				Función estándar
+				Función opcional
 			</td>
 		</tr>
 		<tr>
@@ -1193,7 +1193,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1201,7 +1201,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1225,13 +1225,13 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Función opcional
+				No disponible
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-#### Sportsseats Plus
+#### Sport Plus
 
 <table class="table table-striped border">
 	<thead>
@@ -1386,7 +1386,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Función opcional
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1478,7 +1478,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1486,7 +1486,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1663,7 +1663,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de colisión frontal
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1687,7 +1687,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1806,7 +1806,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla del controlador digital
 			</td>
 			<td>
-				Sí, 12,6
+				Sí, 11,9
 			</td>
 		</tr>
 		<tr>
@@ -1814,7 +1814,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				Sí, 10,9"
+				Sí, 14,9"
 			</td>
 		</tr>
 		<tr>

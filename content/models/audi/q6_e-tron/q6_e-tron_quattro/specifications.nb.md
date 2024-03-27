@@ -885,7 +885,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 ### Forseter
 
 
-#### Comfortseats
+#### Normal
 
 <table class="table table-striped border">
 	<thead>
@@ -944,7 +944,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -984,7 +984,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1054,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-#### Comfortseats with memory
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -1105,7 +1105,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Standardfunksjon
+				Valgfri funksjon
 			</td>
 		</tr>
 		<tr>
@@ -1177,7 +1177,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1185,7 +1185,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1209,13 +1209,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-#### Sportsseats Plus
+#### Sport Plus
 
 <table class="table table-striped border">
 	<thead>
@@ -1370,7 +1370,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1462,7 +1462,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1470,7 +1470,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1647,7 +1647,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Forward Collision Warning
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1671,7 +1671,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1790,7 +1790,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 12,6
+				Ja, 11,9
 			</td>
 		</tr>
 		<tr>
@@ -1798,7 +1798,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 10,9
+				Ja, 14,9
 			</td>
 		</tr>
 		<tr>

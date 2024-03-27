@@ -106,34 +106,27 @@ Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Si
 
 Det finns tre sätestyper du kan välja mellan för den främre raden av Audi SQ6 e-tron.
 
-Följande funktioner är tillgängliga på **Comfortseats** sätet.
+Följande funktioner är tillgängliga på **Normal** sätet.
 
-- elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - integrerat nackstöd
 
-Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
+Följande funktioner är tillgängliga på **Sport** sätet.
 
-- elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- elektrisk justering (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
-
-
-
-Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
+Följande funktioner är tillgängliga på **Sport Plus** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
@@ -141,11 +134,6 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - integrerat nackstöd
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
-
-Du kan välja mellan 4 olika material/färger för denna sitstyp.
-
-
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
@@ -158,7 +146,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- integrerat nackstöd
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/secondrowseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
@@ -184,7 +171,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Audi SQ6 e-tron har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen touch bakom ratten integrerad i instrumentbrädan är 12,6 tum. Skärmen touch översta mittkonsolen är 10,9 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum.
+Audi SQ6 e-tron har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen touch bakom ratten integrerad i instrumentbrädan är 11,9 tum. Skärmen touch översta mittkonsolen är 14,9 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -220,17 +207,17 @@ Audi SQ6 e-tron har ett [**elektronisk stabilitetskontroll**](../../../../techno
 
 Audi SQ6 e-tron har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är valfritt förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är standard förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) är valfritt förarassistanssystem som använder sensorer för att detektera närmar sig fordon från sidan när du backar ut från en parkeringsplats eller uppfart.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett valfritt förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 
 Audi SQ6 e-tron har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
 [**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är standard förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
 
-[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
 ### Körautomation
 
@@ -241,7 +228,7 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 
-Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
+Med Adaptive Cruise Assist  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
 

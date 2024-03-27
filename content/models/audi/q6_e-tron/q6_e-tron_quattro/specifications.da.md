@@ -885,7 +885,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 ### Forsæder
 
 
-#### Comfortseats
+#### Normal
 
 <table class="table table-striped border">
 	<thead>
@@ -944,7 +944,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk justering af højde, tilbagelæning og vinkel
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -984,7 +984,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Valgfri funktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1054,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
-#### Comfortseats with memory
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -1105,7 +1105,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk justering af højde, tilbagelæning og vinkel
 			</td>
 			<td>
-				Standardfunktion
+				Valgfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -1177,7 +1177,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1185,7 +1185,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1209,13 +1209,13 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Valgfri funktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-#### Sportsseats Plus
+#### Sport Plus
 
 <table class="table table-striped border">
 	<thead>
@@ -1370,7 +1370,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Valgfri funktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1462,7 +1462,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1470,7 +1470,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1647,7 +1647,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Forward Collision Warning
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1671,7 +1671,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1790,7 +1790,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Digital drivervisning
 			</td>
 			<td>
-				Ja, 12,6
+				Ja, 11,9
 			</td>
 		</tr>
 		<tr>
@@ -1798,7 +1798,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 10,9"
+				Ja, 14,9"
 			</td>
 		</tr>
 		<tr>

@@ -106,34 +106,27 @@ Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estil
 
 Hay tres tipos de asientos entre los que puedes elegir para la primera fila en el Audi SQ6 e-tron.
 
-Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**.
+Las siguientes funcionalidades están disponibles en el asiento **Normal**.
 
-- ajuste eléctrico
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - reposacabezas integrado
 
-Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
+Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
-- ajuste eléctrico
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- ajuste eléctrico (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
-- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
-
-
-
-Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**.
+Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
 - ajuste eléctrico
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
@@ -141,11 +134,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
-- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
-
-Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
-
-
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
@@ -158,7 +146,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- reposacabezas integrado
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/secondrowseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
@@ -184,7 +171,7 @@ Keyless go permite arrancar el auto sin usar la llave.
 
 ## Interfaz de usuario y control
 
-El Audi SQ6 e-tron tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La touch pantalla detrás del volante integrado en el salpicadero mide 12,6 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 10,9 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño.
+El Audi SQ6 e-tron tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La touch pantalla detrás del volante integrado en el salpicadero mide 11,9 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 14,9 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
@@ -220,17 +207,17 @@ El Audi SQ6 e-tron tiene un [**Control Electrónico de Estabilidad**](../../../.
 
 El Audi SQ6 e-tron tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) es un un opcional sistema de asistencia al conductor que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) es un un opcional sistema de asistencia al conductor que utiliza sensores para detectar vehículos que se aproximan. vehículos desde un lado al salir marcha atrás de un espacio de estacionamiento o camino de entrada.
 
-[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un un opcional sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
+[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
 
 El Audi SQ6 e-tron tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
 [**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un un estándar sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
 
-[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un opcional sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
+[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un estándar sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
 
 ### Automatización de conducción
 
@@ -241,7 +228,7 @@ Con el sistema   nivel 1, obtienes las siguientes funciones de automatización d
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 
-Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
+Con el sistema Adaptive Cruise Assist  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
 

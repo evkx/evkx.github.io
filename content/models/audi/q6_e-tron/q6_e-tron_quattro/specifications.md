@@ -885,7 +885,7 @@ This model is available with a seat configuration with five seats.
 ### Front seats
 
 
-#### Comfortseats
+#### Normal
 
 <table class="table table-striped border">
 	<thead>
@@ -944,7 +944,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -984,7 +984,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Optional feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1054,7 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
-#### Comfortseats with memory
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -1105,7 +1105,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
-				Standard feature
+				Optional feature
 			</td>
 		</tr>
 		<tr>
@@ -1177,7 +1177,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1185,7 +1185,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1209,13 +1209,13 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Optional feature
+				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-#### Sportsseats Plus
+#### Sport Plus
 
 <table class="table table-striped border">
 	<thead>
@@ -1370,7 +1370,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Optional feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1462,7 +1462,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1470,7 +1470,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1647,7 +1647,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1671,7 +1671,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1790,7 +1790,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 12,6
+				Yes, 11,9
 			</td>
 		</tr>
 		<tr>
@@ -1798,7 +1798,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 10,9"
+				Yes, 14,9"
 			</td>
 		</tr>
 		<tr>

@@ -106,34 +106,27 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 Det er tre setetyper du kan velge mellom for første rad i Audi Q6 e-tron quattro.
 
-Følgende funksjoner er tilgjengelige på **Comfortseats** setet.
+Følgende funksjoner er tilgjengelige på **Normal** setet.
 
-- elektrisk justering
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - integrert hodestøtte
 
-Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
+Følgende funksjoner er tilgjengelige på **Sport** setet.
 
-- elektrisk justering
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- elektrisk justering (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
-- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
-
-
-
-Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
+Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
 - elektrisk justering
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -141,11 +134,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrert hodestøtte
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
-
-Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
-
-
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
@@ -158,7 +146,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- integrert hodestøtte
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
@@ -184,7 +171,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-Audi Q6 e-tron quattro har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. touch-skjermen bak rattet integrert i dashbordet er 12,6 tommer stor. touch-skjermen øverst på midtkonsollen er 10,9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor.
+Audi Q6 e-tron quattro har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. touch-skjermen bak rattet integrert i dashbordet er 11,9 tommer stor. touch-skjermen øverst på midtkonsollen er 14,9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -220,17 +207,17 @@ Audi Q6 e-tron quattro har et [**Electronic Stability Control**](../../../../tec
 
 Audi Q6 e-tron quattro har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er tilvalg førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
 [**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er tilvalg førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
 Audi Q6 e-tron quattro har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 [**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon.
 
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
@@ -241,7 +228,7 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 
-Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
+Med Adaptive Cruise Assist  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 

@@ -901,7 +901,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 ### Framsäten
 
 
-#### Comfortseats
+#### Normal
 
 <table class="table table-striped border">
 	<thead>
@@ -960,7 +960,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1000,7 +1000,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1070,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
-#### Comfortseats with memory
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -1121,7 +1121,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -1193,7 +1193,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1201,7 +1201,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1225,13 +1225,13 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-#### Sportsseats Plus
+#### Sport Plus
 
 <table class="table table-striped border">
 	<thead>
@@ -1386,7 +1386,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1478,7 +1478,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1486,7 +1486,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1663,7 +1663,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Kollisionsvarning, front
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1687,7 +1687,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Varning för korstrafik, foran
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1806,7 +1806,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				Ja, 12,6
+				Ja, 11,9
 			</td>
 		</tr>
 		<tr>
@@ -1814,7 +1814,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 10,9
+				Ja, 14,9
 			</td>
 		</tr>
 		<tr>
