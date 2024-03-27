@@ -513,7 +513,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Suspensión
 
-El modelo ofrece 2 variantes de suspensión
+El modelo ofrece 3 variantes de suspensión
 
 ### Standard
 
@@ -622,7 +622,128 @@ El modelo ofrece 2 variantes de suspensión
 				Tipo de suspensión delantera
 			</td>
 			<td>
-				Suspensión de doble horquilla
+				Multilink
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Sport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Suspensión adaptativa
+			</td>
+			<td>
+				Sí, equipamiento estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortiguación delantera ajustable
+			</td>
+			<td>
+				Sí, equipamiento estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortiguación trasera ajustable
+			</td>
+			<td>
+				Sí, equipamiento estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frente regulable en altura
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Altura trasera ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				distancia máxima al suelo
+			</td>
+			<td>
+				164 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				distancia mínima al suelo
+			</td>
+			<td>
+				164 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de amortiguador delantero
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de amortiguador trasero
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Delantero tipo resorte
+			</td>
+			<td>
+				Resorte helicoidal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trasero tipo resorte
+			</td>
+			<td>
+				Resorte helicoidal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				Multilink
 			</td>
 		</tr>
 		<tr>

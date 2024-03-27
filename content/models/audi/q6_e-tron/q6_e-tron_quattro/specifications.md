@@ -513,7 +513,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
-The model offers 2 suspension variants
+The model offers 3 suspension variants
 
 ### Standard
 
@@ -622,7 +622,128 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Suspension type front</a>
 			</td>
 			<td>
-				Double wishbone suspension
+				Multilink
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Sport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adaptive suspension</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable damping front</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable damping rear</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable height front</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable height rear</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Max ground clearance</a>
+			</td>
+			<td>
+				164 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Minimum ground clearance</a>
+			</td>
+			<td>
+				164 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Damper type front</a>
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Damper type rear</a>
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Spring type front</a>
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Spring type rear</a>
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				Multilink
 			</td>
 		</tr>
 		<tr>

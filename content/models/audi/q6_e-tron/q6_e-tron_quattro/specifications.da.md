@@ -513,7 +513,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 ## Suspension
 
-Modellen tilbyder 2 affjedringsvarianter
+Modellen tilbyder 3 affjedringsvarianter
 
 ### Standard
 
@@ -622,7 +622,128 @@ Modellen tilbyder 2 affjedringsvarianter
 				Ophængstype foran
 			</td>
 			<td>
-				Dobbelt wishbone suspension
+				Multilink
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Sport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptiv suspension
+			</td>
+			<td>
+				Ja, standardudstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar dæmpning foran
+			</td>
+			<td>
+				Ja, standardudstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar dæmpning bagtil
+			</td>
+			<td>
+				Ja, standardudstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar højde foran
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar højde bag
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks frihøjde
+			</td>
+			<td>
+				164 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum frihøjde
+			</td>
+			<td>
+				164 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spjældtype foran
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dæmper type bag
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fjedertype foran
+			</td>
+			<td>
+				Spiralfjeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fjedertype bagtil
+			</td>
+			<td>
+				Spiralfjeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				Multilink
 			</td>
 		</tr>
 		<tr>
