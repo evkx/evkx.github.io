@@ -61,7 +61,7 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 Ford Explorer Extended Range AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/).
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 180 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 202 mm.
 
 Puedes pedir Ford Explorer Extended Range AWD con una suspensión alternativa sport. La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión sport tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 163 mm.
 
@@ -138,7 +138,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático 2-zone Climatronic admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático 3-zone climatronic admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático 2-zone Climatronic admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático 3-zone climatronic admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 
@@ -156,7 +156,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 ## Interfaz de usuario y control
 
-El Ford Explorer Extended Range AWD tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,9 pulgadas de tamaño.
+El Ford Explorer Extended Range AWD tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 14,6 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
@@ -165,7 +165,7 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 ## Infoentretenimiento
 
-Puedes elegir entre dos sistemas de sonido en el Ford Explorer Extended Range AWD. Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios. Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
+Puedes elegir entre dos sistemas de sonido en el Ford Explorer Extended Range AWD. Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios. Con el B&O Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 480 vatios.
 
 Además, con el sistema de navegación para automóvil opcional, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Ford Explorer Extended Range AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 

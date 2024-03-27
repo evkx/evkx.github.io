@@ -370,7 +370,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11,6 meter (456,7")
+				9,7 meter (381,9")
 			</td>
 		</tr>
 	</tbody>
@@ -528,7 +528,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				180 mm (7,1")
+				202 mm (8,0")
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +536,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				180 mm (7,1")
+				202 mm (8,0")
 			</td>
 		</tr>
 		<tr>
@@ -1456,7 +1456,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12,9"
+				Yes, 14,6"
 			</td>
 		</tr>
 		<tr>
@@ -1527,7 +1527,7 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### B&O Soundsystem
 
 <table class="table table-striped border">
 	<thead>
@@ -1546,15 +1546,7 @@ This model is available with a seat configuration with five seats.
 				Number of speakers
 			</td>
 			<td>
-				6
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Channels
-			</td>
-			<td>
-				12
+				10
 			</td>
 		</tr>
 		<tr>
@@ -1562,7 +1554,7 @@ This model is available with a seat configuration with five seats.
 				Total effect
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>

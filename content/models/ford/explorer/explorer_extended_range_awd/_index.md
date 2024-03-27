@@ -61,7 +61,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Ford Explorer Extended Range AWD has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 202 mm.
 
 You can order Ford Explorer Extended Range AWD with an alternative sport suspension. The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm.
 
@@ -138,7 +138,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zones for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+You can choose from two different climate systems. The 2-zone Climatronic climate system supports different temperatures in two zones for the driver and passenger. The 3-zone climatronic climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
 ## Comfort
 
@@ -156,7 +156,7 @@ You have wireless charging for your phone.
 
 ## User interface and control
 
-The Ford Explorer Extended Range AWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 12.9 inches large.
+The Ford Explorer Extended Range AWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 14.6 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
@@ -165,7 +165,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Ford Explorer Extended Range AWD. With the Sound system, you get six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
+You can choose between two sound systems on the Ford Explorer Extended Range AWD. With the Sound system, you get six speakers with a max system output of 140 watts. With the B&O Soundsystem, you get ten speakers with a max system output of 480 watts.
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford Explorer Extended Range AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 

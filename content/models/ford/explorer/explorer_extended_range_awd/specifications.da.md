@@ -370,7 +370,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,6 meter (456,7")
+				9,7 meter (381,9")
 			</td>
 		</tr>
 	</tbody>
@@ -528,7 +528,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				180 mm (7,1")
+				202 mm (8,0")
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +536,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				180 mm (7,1")
+				202 mm (8,0")
 			</td>
 		</tr>
 		<tr>
@@ -1456,7 +1456,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 12,9"
+				Ja, 14,6"
 			</td>
 		</tr>
 		<tr>
@@ -1527,7 +1527,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### B&O Soundsystem
 
 <table class="table table-striped border">
 	<thead>
@@ -1546,15 +1546,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Antal højttalere
 			</td>
 			<td>
-				6
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				12
+				10
 			</td>
 		</tr>
 		<tr>
@@ -1562,7 +1554,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Samlet effekt
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>

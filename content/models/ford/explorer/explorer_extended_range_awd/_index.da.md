@@ -61,7 +61,7 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 Ford Explorer Extended Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 180 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 202 mm.
 
 Du kan bestille Ford Explorer Extended Range AWD med en alternativ sport hjulophæng. Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 163 mm.
 
@@ -138,7 +138,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet 2-zone Climatronic understøtter forskellige temperaturer i to zoner for fører og passager. 3-zone climatronic klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Du kan vælge mellem to forskellige klimasystemer. Klimasystemet 2-zone Climatronic understøtter forskellige temperaturer i to zoner for fører og passager. 3-zone climatronic klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
 ## Komfort
 
@@ -156,7 +156,7 @@ Du har trådløs opladning til din telefon.
 
 ## Brugergrænseflade og kontrol
 
-Ford Explorer Extended Range AWD har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,9 tommer stor.
+Ford Explorer Extended Range AWD har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 14,6 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -165,7 +165,7 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ## Infotainment
 
-Du kan vælge mellem to lydsystemer på Ford Explorer Extended Range AWD. Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+Du kan vælge mellem to lydsystemer på Ford Explorer Extended Range AWD. Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt. Med B&O Soundsystem får du ti højttalere med en maksimal systemeffekt på 480 watt.
 
 Derudover får du med valgfrit navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Ford Explorer Extended Range AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 

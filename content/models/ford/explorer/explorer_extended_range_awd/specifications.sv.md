@@ -370,7 +370,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11,6 meter
+				9,7 meter
 			</td>
 		</tr>
 	</tbody>
@@ -528,7 +528,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Max markfrigång
 			</td>
 			<td>
-				180 mm
+				202 mm
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +536,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				180 mm
+				202 mm
 			</td>
 		</tr>
 		<tr>
@@ -1456,7 +1456,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 12,9
+				Ja, 14,6
 			</td>
 		</tr>
 		<tr>
@@ -1527,7 +1527,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### B&O Soundsystem
 
 <table class="table table-striped border">
 	<thead>
@@ -1546,15 +1546,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Antal högtalare
 			</td>
 			<td>
-				6
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				12
+				10
 			</td>
 		</tr>
 		<tr>
@@ -1562,7 +1554,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Total effekt
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>

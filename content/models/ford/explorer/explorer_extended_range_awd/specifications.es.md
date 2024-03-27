@@ -370,7 +370,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,6 metros (456,7")
+				9,7 metros (381,9")
 			</td>
 		</tr>
 	</tbody>
@@ -528,7 +528,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				180 mm (7,1")
+				202 mm (8,0")
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +536,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				180 mm (7,1")
+				202 mm (8,0")
 			</td>
 		</tr>
 		<tr>
@@ -1456,7 +1456,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				Sí, 12,9"
+				Sí, 14,6"
 			</td>
 		</tr>
 		<tr>
@@ -1527,7 +1527,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### B&O Soundsystem
 
 <table class="table table-striped border">
 	<thead>
@@ -1546,15 +1546,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Número de altavoces
 			</td>
 			<td>
-				6
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				12
+				10
 			</td>
 		</tr>
 		<tr>
@@ -1562,7 +1554,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Efecto total
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>
