@@ -285,7 +285,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
-	Ford har 2 modell(er) med totalt 7 varianter.
+	Ford har 3 modell(er) med totalt 8 varianter.
 	</p>
 	<a href="ford/" class="btn btn-outline-primary" role="button">Gå till Ford modellöversikt</a>
 </div>

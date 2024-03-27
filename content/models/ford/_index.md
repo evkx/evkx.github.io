@@ -9,6 +9,20 @@ weight: 30
 Ford is investing $22 billion in electrification through 2025 as part of its plan to lead electrification in areas of strength. The company is electrifying its most iconic products - the Mustang, F-150 and Transit – with many more to come in the years ahead.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3> Ford Explorer</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="explorer"><img src="https://media.evkx.net/multimedia/models/ford/explorer/explorer_extended_range_awd/main_1_st.jpg" class="img-fluid" alt="Ford Explorer" ></a>
+		</div>
+		<div class="col col-12 col-md-6">
+<p>
+Ford Explorer is a SUV available in 1 variants.
+</p>
+	<a href="explorer/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Ford F150 Lightning</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

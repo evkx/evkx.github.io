@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-ece33e1d
+  translation: Ford Explorer Extended Range AWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 566 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-9c82a121
   translation: Volkswagen ID. Buzz GTX LWB er en helelektrisk MPV med en WLTP rekkevidde på opptil 450 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-cf09af6f
   translation: Volvo EX40 Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 467 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-89f7e5ac
-  translation: Honda Prologue FWD er en helelektrisk SUV med en EPA rekkevidde på opptil 476 km. EVKX.net har alle detaljene.
 

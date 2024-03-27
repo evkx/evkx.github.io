@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-ece33e1d
+  translation: Ford Explorer Extended Range AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 566 km (352 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-9c82a121
   translation: Volkswagen ID. Buzz GTX LWB es un monovolumen totalmente eléctrico con una autonomía WLTP de hasta 450 km (280 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-cf09af6f
   translation: Volvo EX40 Single Motor es un crossover totalmente eléctrico con un WLTP alcance de hasta 467 km (290 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-89f7e5ac
-  translation: Honda Prologue FWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 476 km (296 millas). EVKX.net tiene todos los detalles.
 

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-ece33e1d
+  translation: Ford Explorer Extended Range AWD is an all-electric SUV with a WLTP range of up to 566 km (352 miles). EVKX.net has all the details.
+
 - id: frontpage-description-9c82a121
   translation: Volkswagen ID. Buzz GTX LWB is an all-electric MPV with a WLTP range of up to 450 km (280 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-cf09af6f
   translation: Volvo EX40 Single Motor is an all-electric crossover with a WLTP range of up to 467 km (290 miles). EVKX.net has all the details.
-
-- id: frontpage-description-89f7e5ac
-  translation: Honda Prologue FWD is an all-electric SUV with a EPA range of up to 476 km (296 miles). EVKX.net has all the details.
 
