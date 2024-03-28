@@ -40,6 +40,24 @@ Lo mismo ocurre con los cargadores CCS HPC, ya que están limitados a 500 amperi
 
 Volvo y Polestar afirman que sus próximos vehículos eléctricos con paquetes de 400 voltios tendrían una carga de 250 kW. Sin embargo, no está claro cómo gestionarían eso con los límites estándar actuales de CCS.
 
+##### Vehículos eléctricos de 800 voltios con cargadores de 400 voltios
+
+Dado que los automóviles más nuevos utilizan paquetes de baterías de 800 voltios, existe un problema adicional: muchos cargadores de alta velocidad se limitan a cargar entre 400 y 500 voltios. Si tiene un vehículo eléctrico de 800 voltios que necesita convertir el voltaje del cargador al voltaje de la batería, esto limitará la velocidad máxima de carga. Tesla Superchargers, la red de carga más grande del mundo, está limitada a 500 voltios, y todos los automóviles de 800 voltios que utilizan esta red tienen una velocidad de carga limitada.
+
+Existen diferentes técnicas utilizadas para esto.
+
+###### Inversor
+
+La técnica más común es utilizar un inversor. Aquí, el vehículo eléctrico tiene un inversor que puede convertir el voltaje para que coincida con el voltaje de la batería. Este inversor suele tener una limitación muy inferior a la velocidad máxima de carga de 800 voltios.
+Un ejemplo es la plataforma Hyundai E-GMP, que limita la velocidad a 100 kW usando el inversor mientras se carga a 250 kW a 800 voltios. Otro ejemplo es el Porsche Taycan, que está limitado a unos 50 kW en los Superchargers con el Inverter estándar.
+
+###### Cobro bancario
+
+Esta técnica divide el paquete de baterías en dos paquetes de 400 voltios mientras se carga con cargadores de 800 voltios. Los nuevos Porsche Macan y Audi Q6 e-tron utilizan esta técnica y pueden cargar hasta 135 kW con 400 voltios (270 kW con 800 voltios). Otro ejemplo
+Utilizando la carga bancaria, el Tesla Cybertruck puede cargar hasta 230 kW con supercargadores de 500 voltios.
+
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Carga bancaria del Audi Q6 e-tron" >}}
+
 #### Temperatura
 
 La temperatura de la batería puede afectar significativamente la velocidad de carga. Por ejemplo, el BMS puede reducir la velocidad de carga en más del 50% en climas fríos.

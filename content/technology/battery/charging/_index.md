@@ -39,7 +39,25 @@ The pack configuration can affect the charging speed. A configuration that gives
 
 It is the same with CCS HPC Chargers since they are limited to 500 Ampere. 400 volts on 500 Amper is a max of 200KW. The charging speed on a 300 Volt battery pack would be limited to 150KW.
 
-Volvo and Polestar claim their upcoming EVS with 400  VOlt packs would get 250KW charging. However, how they would manage that with the current CCS standard limits is unclear.
+Volvo and Polestar claim their upcoming EVS with 400  Volt packs would get 250KW charging. However, how they would manage that with the current CCS standard limits is unclear.
+
+##### 800 volts EVs on 400-volt chargers
+
+With newer cars using 800-volt battery packs, there is an additional problem with many high-speed chargers being limited to 400-500-volt charging. If you have an 800-volt EV that needs to convert the voltage from the charger to the battery pack voltage, this will limit the maximum charging speed. Tesla Superchargers, the world's largest charging network, is limited to 500 volts, and all 800-volt cars using this network are limited in charging speed.
+
+There are different techniques used for this.
+
+###### Inverter
+
+The most common technique is using an inverter. Here, the EV has an inverter that can convert the voltage to match the battery voltage. This Inverter typically has a limitation much lower than the maximum charging speed of 800 volts. 
+An example is the Hyundai E-GMP platform, which limits the speed to 100kW using the Inverter while charging at 250kW at 800 volts. Another example is the Porsche Taycan, which is limited to around 50kW at Superchargers with the standard Inverter. 
+
+###### Bank charging
+
+This technique splits the battery pack into two 400-volt packs while charging at 800-volt chargers. The new Porsche Macan and Audi Q6 e-tron use this technique and can charge up to 135kW on 400 volts (270kW on 800 volts). Another example
+Using bank charging, the Tesla Cybertruck can charge up to 230kW at 500 Volt Superchargers. 
+
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron bank charging" >}}
 
 #### Temperature
 

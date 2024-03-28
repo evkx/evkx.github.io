@@ -40,6 +40,25 @@ Pakkekonfigurationen kan påvirke opladningshastigheden. En lavspændingskonfigu
 Det er det samme med CCS HPC-opladere, da de er begrænset til 500 Amp. 400 volt ved 500 ampere er maksimalt 200KW. Opladningshastigheden for en 300 volt batteripakke vil være begrænset til 150 kW.
 
 Volvo og Polestar hævder, at deres kommende EVS med 400 VOlt-pakker vil få 250KW opladning. Det er dog uklart, hvordan de ville klare sig med de nuværende CCS-standardgrænser.
+
+##### 800 volt elbiler på 400 volt opladere
+
+Med nyere biler, der bruger 800-volts batteripakker, er der et yderligere problem med, at mange højhastighedsopladere er begrænset til 400-500-volts opladning. Hvis du har en 800 volt EV, der skal konvertere spændingen fra opladeren til batteripakkens spænding, vil dette begrænse den maksimale opladningshastighed. Tesla Superchargers, verdens største ladenetværk, er begrænset til 500 volt, og alle 800-volts biler, der bruger dette netværk, er begrænset i opladningshastighed.
+
+Der er forskellige teknikker brugt til dette.
+
+###### Inverter
+
+Den mest almindelige teknik er at bruge en inverter. Her har EV en inverter, der kan konvertere spændingen til at matche batterispændingen. Denne inverter har typisk en begrænsning meget lavere end den maksimale ladehastighed på 800 volt.
+Et eksempel er Hyundai E-GMP-platformen, som begrænser hastigheden til 100kW ved hjælp af inverteren, mens den oplader ved 250kW ved 800 volt. Et andet eksempel er Porsche Taycan, som er begrænset til omkring 50 kW ved Superchargers med standard inverteren.
+
+###### Bank charging
+
+Denne teknik opdeler batteripakken i to 400-volt-pakker, mens den oplader ved 800-volt-opladere. Den nye Porsche Macan og Audi Q6 e-tron bruger denne teknik og kan lade op til 135 kW på 400 volt (270 kW på 800 volt). Et andet eksempel
+Ved hjælp af bankopladning kan Tesla Cybertruck oplade op til 230 kW ved 500 Volt Superchargers.
+
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron bank charging" >}}
+
 #### Temperatur
 
 Batteritemperaturen kan påvirke opladningshastigheden markant. For eksempel kan BMS reducere opladningshastigheden med mere end 50 % i koldt vejr.

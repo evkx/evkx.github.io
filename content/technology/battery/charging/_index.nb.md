@@ -41,6 +41,24 @@ Det er det samme med CCS HPC-ladere siden de er begrenset til 500 Ampere. 400 vo
 
 Volvo og Polestar hevder at deres kommende EVS med 400 VOlt-pakker vil få 250KW lading. Det er imidlertid uklart hvordan de ville klare det med gjeldende CCS-standardgrenser.
 
+##### 800 volt elbiler på 400 volt ladere
+
+Med nyere biler som bruker 800-volts batteripakker, er det et ekstra problem med at mange høyhastighetsladere er begrenset til 400-500-volts lading. Hvis du har en 800-volts EV som trenger å konvertere spenningen fra laderen til batteripakkens spenning, vil dette begrense den maksimale ladehastigheten. Tesla Superchargers, verdens største ladenettverk, er begrenset til 500 volt, og alle 800-volts biler som bruker dette nettverket er begrenset i ladehastighet.
+
+Det er forskjellige teknikker som brukes til dette.
+
+###### Inverter
+
+Den vanligste teknikken er å bruke en inverter. Her har EV en inverter som kan konvertere spenningen til å matche batterispenningen. Denne omformeren har vanligvis en begrensning som er mye lavere enn den maksimale ladehastigheten på 800 volt.
+Et eksempel er Hyundai E-GMP-plattformen, som begrenser hastigheten til 100kW ved bruk av inverteren mens den lader ved 250kW ved 800 volt. Et annet eksempel er Porsche Taycan, som er begrenset til rundt 50kW på Superchargers med standard inverter.
+
+###### Bankbelastning
+
+Denne teknikken deler batteripakken i to 400-volts pakker mens den lader ved 800-volts ladere. Nye Porsche Macan og Audi Q6 e-tron bruker denne teknikken og kan lade opptil 135kW på 400 volt (270kW på 800 volt). Et annet eksempel
+Ved å bruke banklading kan Tesla Cybertruck lade opptil 230 kW ved 500 volt superladere.
+
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron banklading" >}}
+
 #### Temperatur
 
 Batteritemperaturen kan påvirke ladehastigheten betydelig. For eksempel kan BMS redusere ladehastigheten med mer enn 50 % i kaldt vær.

@@ -39,6 +39,24 @@ Det är samma sak med CCS HPC-laddare eftersom de är begränsade till 500 Amp. 
 
 Volvo och Polestar hävdar att deras kommande EVS med 400 VOlt-paket kommer att få 250KW laddning. Det är dock oklart hur de skulle klara sig med nuvarande CCS-standardgränser.
 
+##### 800 volt elbilar på 400-volts laddare
+
+Med nyare bilar som använder 800-volts batteripaket finns det ytterligare ett problem med att många höghastighetsladdare är begränsade till 400-500-voltsladdning. Om du har en 800-volts elbil som behöver omvandla spänningen från laddaren till batteripaketets spänning, kommer detta att begränsa den maximala laddningshastigheten. Tesla Superchargers, världens största laddningsnätverk, är begränsat till 500 volt, och alla 800-voltsbilar som använder detta nätverk är begränsade i laddningshastighet.
+
+Det finns olika tekniker som används för detta.
+
+###### Växelriktare
+
+Den vanligaste tekniken är att använda en inverter. Här har EV en växelriktare som kan omvandla spänningen till att matcha batterispänningen. Denna växelriktare har vanligtvis en begränsning som är mycket lägre än den maximala laddningshastigheten på 800 volt.
+Ett exempel är Hyundai E-GMP-plattformen, som begränsar hastigheten till 100kW med växelriktaren medan den laddas vid 250kW vid 800 volt. Ett annat exempel är Porsche Taycan, som är begränsad till cirka 50kW på Superchargers med standardinvertern.
+
+###### Bankdebitering
+
+Denna teknik delar upp batteripaketet i två 400-voltspaket samtidigt som det laddas med 800-volts laddare. Nya Porsche Macan och Audi Q6 e-tron använder denna teknik och kan ladda upp till 135kW på 400 volt (270kW på 800 volt). Ett annat exempel
+Med hjälp av bankladdning kan Tesla Cybertruck ladda upp till 230kW vid 500 Volt Superchargers.
+
+{{< sitefiguresized thumb="technology/battery/charging/bankcharging_1_st.jpg" width="3000" height="1852" title="Audi Q6 e-tron bankladdning" >}}
+
 #### Temperatur
 
 Batteritemperaturen kan påverka laddningshastigheten avsevärt. Till exempel kan BMS minska laddningshastigheten med mer än 50 % i kallt väder.
