@@ -1828,7 +1828,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 			</td>
 		</tr>
 
-###  BOSE® Surround Sound System
+### Audi Sound System
 
 <table class="table table-striped border">
 	<thead>
@@ -1847,15 +1847,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Antal højttalere
 			</td>
 			<td>
-				14
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				14
+				5
 			</td>
 		</tr>
 		<tr>
@@ -1863,13 +1855,13 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Samlet effekt
 			</td>
 			<td>
-				710
+				200
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-###  Burmester® 3D High-End Surround Sound System
+### Bang & Olufsen Sound System
 
 <table class="table table-striped border">
 	<thead>
@@ -1888,15 +1880,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Antal højttalere
 			</td>
 			<td>
-				21
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				21
+				20
 			</td>
 		</tr>
 		<tr>
@@ -1904,7 +1888,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Samlet effekt
 			</td>
 			<td>
-				1470
+				830
 			</td>
 		</tr>
 	</tbody>

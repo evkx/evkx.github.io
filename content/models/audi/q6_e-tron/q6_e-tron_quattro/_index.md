@@ -155,7 +155,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The  2-zone climate system supports different temperatures in two zones for the driver and passenger. The  4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+There is one climate system available. The  3-zone climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -180,7 +180,7 @@ A head-up display is an optional system that presents speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Audi Q6 e-tron quattro. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1470 watts.
+You can choose between two sound systems on the Audi Q6 e-tron quattro. With the Audi Sound System, you get five speakers with a max system output of 200 watts. With the Bang & Olufsen Sound System, you get 20 speakers with a max system output of 830 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi Q6 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 

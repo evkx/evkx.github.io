@@ -1844,7 +1844,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 		</tr>
 
-###  BOSE® Surround Sound System
+### Audi Sound System
 
 <table class="table table-striped border">
 	<thead>
@@ -1863,15 +1863,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Número de altavoces
 			</td>
 			<td>
-				14
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				14
+				5
 			</td>
 		</tr>
 		<tr>
@@ -1879,13 +1871,13 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Efecto total
 			</td>
 			<td>
-				710
+				200
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-###  Burmester® 3D High-End Surround Sound System
+### Bang & Olufsen Sound System
 
 <table class="table table-striped border">
 	<thead>
@@ -1904,15 +1896,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Número de altavoces
 			</td>
 			<td>
-				21
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				21
+				20
 			</td>
 		</tr>
 		<tr>
@@ -1920,7 +1904,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Efecto total
 			</td>
 			<td>
-				1470
+				830
 			</td>
 		</tr>
 	</tbody>

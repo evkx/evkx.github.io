@@ -155,7 +155,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer. Klimasystemet  2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Klimasystemet  4-zone støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+Det er ett tilgjengelig klimasystem. Klimasystemet  3-zone støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
 ## Komfort
 
@@ -180,7 +180,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-Du kan velge mellom to lydsystemer på Audi SQ6 e-tron. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1470 watt.
+Du kan velge mellom to lydsystemer på Audi SQ6 e-tron. Med Audi Sound System får du fem høyttalere med en maksimal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 høyttalere med en maksimal systemeffekt på 830 watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Audi SQ6 e-tron Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 

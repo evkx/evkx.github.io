@@ -155,7 +155,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático  2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático  4-zone admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible. El sistema climático  3-zone admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 
@@ -180,7 +180,7 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 ## Infoentretenimiento
 
-Puedes elegir entre dos sistemas de sonido en el Audi Q6 e-tron quattro. Con el  BOSE® Surround Sound System, obtienes 14 parlantes con una salida máxima del sistema de 710 vatios. Con el  Burmester® 3D High-End Surround Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1470 vatios.
+Puedes elegir entre dos sistemas de sonido en el Audi Q6 e-tron quattro. Con el Audi Sound System, obtienes cinco parlantes con una salida máxima del sistema de 200 vatios. Con el Bang & Olufsen Sound System, obtienes 20 parlantes con una salida máxima del sistema de 830 vatios.
 
 Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Audi Q6 e-tron quattro es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 

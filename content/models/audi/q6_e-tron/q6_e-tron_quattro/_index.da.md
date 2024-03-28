@@ -155,7 +155,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet  2-zone understøtter forskellige temperaturer i to zoner for fører og passager. Klimasystemet  4-zone understøtter forskellige temperaturer i fire zoner for føreren, passageren og to separate passagerer på bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Der er et tilgængeligt klimasystem. 3-zone klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
 
 ## Komfort
 
@@ -180,7 +180,7 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ## Infotainment
 
-Du kan vælge mellem to lydsystemer på Audi Q6 e-tron quattro. Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1470 watt.
+Du kan vælge mellem to lydsystemer på Audi Q6 e-tron quattro. Med Audi Sound System får du fem højttalere med en maksimal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 højttalere med en maksimal systemeffekt på 830 watt.
 
 Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Audi Q6 e-tron quattro Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
