@@ -134,6 +134,7 @@ The following functionalities are available on the **Sport Plus** seat.
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
@@ -165,6 +166,12 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without using the key.
 
+The steering wheel is electrically adjustable.
+
+You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
+
+You have wireless charging for your phone.
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -177,6 +184,8 @@ A head-up display is an optional system that presents speed and other important 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/screens_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
+
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
 
 ## Infotainment
 

@@ -134,6 +134,7 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - integrerat nackstöd
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
@@ -165,6 +166,12 @@ Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. 
 
 Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
+Ratten är elektriskt justerbar.
+
+Du har lätt insteg för förarstolen som flyttar sätet för att göra det lättare att komma in i bilen.
+
+Du har trådlös laddning för din telefon.
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -177,6 +184,8 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/screens_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
+
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
 ## Infotainment
 

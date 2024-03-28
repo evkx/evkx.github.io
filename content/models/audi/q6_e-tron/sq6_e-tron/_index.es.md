@@ -134,6 +134,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
+- [masaje](../../../../technology/seats/adjustment/#massage)
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
@@ -165,6 +166,12 @@ La entrada sin llave permite el acceso al auto sin necesidad de encontrar la lla
 
 Keyless go permite arrancar el auto sin usar la llave.
 
+El volante es ajustable eléctricamente.
+
+Tienes una función de 'entrada fácil' para el asiento del conductor que mueve el asiento para facilitar la entrada al coche.
+
+Tienes carga inalámbrica para tu teléfono.
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -177,6 +184,8 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/screens_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
+
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 ## Infoentretenimiento
 

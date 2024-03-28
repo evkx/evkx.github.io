@@ -134,6 +134,7 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrert hodestøtte
+- [massasje](../../../../technology/seats/adjustment/#massage)
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
@@ -165,6 +166,12 @@ Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så leng
 
 Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
+Rattet er elektrisk justerbart.
+
+Du har enkel inngang for førersetet som flytter setet for å gjøre det lettere å komme inn i bilen.
+
+Du har trådløs lading for telefonen din.
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -177,6 +184,8 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/screens_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
+
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment
 
