@@ -51,7 +51,9 @@ Carga más rápida: un sistema de batería de 800 voltios puede soportar tiempos
 
 #### Contras del paquete de 800 voltios:
 
-**Infraestructura de carga limitada**: actualmente hay menos estaciones de carga públicas que admitan carga de 800 voltios, lo que significa que puede ser más difícil encontrar lugares para cargar su vehículo eléctrico.
+**Infraestructura de carga limitada**: Actualmente, menos estaciones de carga públicas admiten carga de 800 voltios, lo que significa que puede ser más difícil encontrar lugares para cargar su vehículo eléctrico a toda velocidad.
+
+Por ejemplo, la red de carga más grande, la red Tesla Supercharger, carga a un máximo de 500 voltios. Cargar un automóvil de 800 voltios con estos cargadores requiere que el vehículo eléctrico convierta el voltaje del cargador a 800 voltios, y la conversión generalmente limita sustancialmente la velocidad de carga. Los fabricantes utilizan diferentes técnicas para esta conversión. Consulte el capítulo sobre carga para obtener más detalles.
 
 A continuación se muestran algunos ejemplos de configuración.
 

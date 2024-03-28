@@ -16,6 +16,7 @@ Serieforbindelsen mellem celler øger spændingsudgangen til batteripakken, hvil
 Den specifikke batterikonfiguration, der bruges i en elbil, afhænger af en række faktorer, såsom det ønskede interval, udgangseffekt og køretøjets samlede vægt.
 
 {{<evkxdisplayaddarticle />}}
+
 ### 400 eller 800 volt?
 
 Producenter konfigurerer normalt pakkerne til at være omkring 400 volt eller 800 volt.
@@ -50,7 +51,10 @@ Hurtigere opladning: Et 800 volt batterisystem kan understøtte hurtigere opladn
 
 #### Cons 800 Volt pakke:
 
-**Begrænset ladeinfrastruktur**: Der er i øjeblikket færre offentlige ladestandere, der understøtter 800-volts opladning, hvilket betyder, at det kan være sværere at finde steder at lade elbilen op.
+**Begrænset ladeinfrastruktur**: Færre offentlige ladestationer understøtter i øjeblikket 800 volt opladning, hvilket betyder, at det kan være sværere at finde steder at oplade din elbil ved fuld hastighed.
+
+Eksempelvis lader det største ladenetværk, Tesla Supercharger-netværket, maksimalt 500 volt. Opladning af en 800 volt bil på disse opladere kræver, at EV konverterer opladerspændingen til 800 volt, og konvertering typisk
+begrænser opladningshastigheden væsentligt. Producenterne bruger forskellige teknikker til denne konvertering. Se kapitlet om opladning for detaljer.
 
 Her er nogle konfigurationseksempler
 

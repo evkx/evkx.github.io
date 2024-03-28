@@ -51,7 +51,10 @@ Faster charging: An 800-volt battery system can support faster charging times th
 
 #### Cons 800 Volt package:
 
-**Limited charging infrastructure**: There are currently fewer public charging stations that support 800-volt charging, which means it may be harder to find places to charge your EV.
+**Limited charging infrastructure**: Fewer public charging stations currently support 800-volt charging, which means it may be harder to find places to charge your EV at full speed. 
+
+For example, the largest charging network,  the Tesla Supercharger network, charges at a maximum of 500 Volts. Charging an 800-volt car on these chargers requires that the EV converts the charger voltage to 800 volts, and conversion typically
+limits the charging speed substantially. The manufacturers use Different techniques for this conversion. See the charging chapter for details.  
 
 Here are some configuration examples
 

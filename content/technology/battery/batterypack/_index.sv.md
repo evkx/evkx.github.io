@@ -49,7 +49,10 @@ Snabbare laddning: Ett 800-volts batterisystem kan stödja snabbare laddningstid
 
 #### Cons 800 Volt paket:
 
-**Begränsad laddinfrastruktur**: Det finns för närvarande färre offentliga laddstationer som stöder 800-voltsladdning, vilket gör att det kan vara svårare att hitta platser att ladda elbilen.
+**Begränsad laddinfrastruktur**: Färre offentliga laddstationer stöder för närvarande 800-voltsladdning, vilket innebär att det kan vara svårare att hitta platser att ladda din elbil i full hastighet.
+
+Till exempel laddas det största laddningsnätverket, Tesla Supercharger-nätverket, med max 500 volt. Att ladda en 800-volts bil på dessa laddare kräver att EV konverterar laddarens spänning till 800 volt, och konvertering vanligtvis
+begränsar laddningshastigheten avsevärt. Tillverkarna använder olika tekniker för denna konvertering. Se kapitlet om laddning för detaljer.
 
 Här är några konfigurationsexempel
 
