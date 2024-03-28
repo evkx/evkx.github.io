@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-3a59be3c
+  translation: Xiaomi SU7 Max är en helelektrisk sedan med en CLTC räckvidd på upp till 800 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-ece33e1d
   translation: Ford Explorer Extended Range AWD är en helelektrisk SUV med en WLTP räckvidd på upp till 566 km. EVKX.net har alla detaljer.
 
@@ -116,7 +119,7 @@
   translation: Volkswagen ID. Buzz GTX LWB är en helelektrisk MPV med en WLTP räckvidd på upp till 450 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-8308a949
-  translation: Audi SQ6 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 625 km. EVKX.net har alla detaljer.
+  translation: Audi SQ6 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 598 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-e10ab496
   translation: Audi Q6 e-tron quattro är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 625 km. EVKX.net har alla detaljer.
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-81608bf9
   translation: Volvo EX40 Single Motor ER är en helelektrisk crossover med en WLTP räckvidd på upp till 572 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-cf09af6f
-  translation: Volvo EX40 Single Motor är en helelektrisk crossover med en WLTP räckvidd på upp till 467 km. EVKX.net har alla detaljer.
 

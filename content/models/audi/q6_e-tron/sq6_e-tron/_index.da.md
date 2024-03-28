@@ -1,7 +1,7 @@
 ---
 title: Audi SQ6 e-tron
 linktitle: "SQ6 e-tron"
-description: "Audi SQ6 e-tron er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 625 km (388 miles). EVKX.net har alle detaljerne."
+description: "Audi SQ6 e-tron er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 598 km (372 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Med overboost har Audi SQ6 e-tron en maksimal effekt på 385 KW (524 hk / 483 bh
 
 Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 94,9kWh, hvilket betyder, at du har en 5,1kWh buffer til beskyttelse. (5,1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 625 til 516 km (388-321 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,2kWh/100 km for basisversionen og 18,4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 598 til 566 km (372-352 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,9kWh/100 km for basisversionen og 16,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 57 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 170kW. Hver opladningssession ville tage 20 minutter og 4 sekunder.
 
@@ -71,6 +71,19 @@ Du kan bestille Audi SQ6 e-tron med en alternativ Adaptive Air Suspension hjulop
 
 Dynamisk styring er en standard-funktion på Audi SQ6 e-tron. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
+### Køretilstande
+
+Audi SQ6 e-tron lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
+
+- Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
+- Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Balanced: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
+- Custom: Brugerdefineret styring, affjedring og gasrespons.
+
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 350mm.
@@ -82,7 +95,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 Du kan vælge mellem 56 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
-Derudover kan du vælge mellem 8 hjul med størrelser fra 20 til 22 tommer.
+Derudover kan du vælge mellem 9 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

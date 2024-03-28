@@ -35,7 +35,7 @@ The Audi Q6 e-tron quattro has a maximum power of 285 KW (388 hp/382 bhp). The t
 
 The battery has a gross capacity of 100kWh and a net capacity of 94,9kWh, meaning you have a 5,1kWh buffer for protection. (5.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 625 to 516 km (388-321 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.2kWh/100km for the basic version and 18.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 625 to 540 km (388-336 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.2kWh/100km for the basic version and 17.6kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 170kW. Each charge session would take 20 minutes and 4 seconds.
 
@@ -95,7 +95,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 56 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
-Additionally, you can choose between 8 wheels with sizes from 20 to 22 inches.
+Additionally, you can choose between 9 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

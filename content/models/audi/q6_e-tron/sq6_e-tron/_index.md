@@ -1,7 +1,7 @@
 ---
 title: Audi SQ6 e-tron
 linktitle: "SQ6 e-tron"
-description: "Audi SQ6 e-tron is an all-electric premium SUV with a WLTP range of up to 625 km (388 miles). EVKX.net has all the details."
+description: "Audi SQ6 e-tron is an all-electric premium SUV with a WLTP range of up to 598 km (372 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ With overboost, the Audi SQ6 e-tron has a maximum power of 385 KW (524 hp / 516 
 
 The battery has a gross capacity of 100kWh and a net capacity of 94,9kWh, meaning you have a 5,1kWh buffer for protection. (5.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 625 to 516 km (388-321 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.2kWh/100km for the basic version and 18.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 598 to 566 km (372-352 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.9kWh/100km for the basic version and 16.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 170kW. Each charge session would take 20 minutes and 4 seconds.
 
@@ -71,6 +71,19 @@ You can order Audi SQ6 e-tron with an alternative Adaptive Air Suspension suspen
 
 Dynamic steering is a standard feature on the Audi SQ6 e-tron. Dynamic steering varies the steering ratio as a function of driving speed.
 
+### Drive modes
+
+The Audi SQ6 e-tron lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
+
+- Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Allroad: Balanced steering, high suspension height with balanced throttle and damping.
+- Offroad: Balanced steering, max suspension height with balanced throttle and damping.
+- Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- Custom: Custom-defined steering, suspension, and throttle response.
+
+
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
@@ -82,7 +95,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 56 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
-Additionally, you can choose between 8 wheels with sizes from 20 to 22 inches.
+Additionally, you can choose between 9 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
