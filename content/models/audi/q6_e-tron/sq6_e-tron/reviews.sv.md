@@ -9,24 +9,24 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Full Tour Of The Porsche Macan EV! Impressive Range, Charging & Performance Leads To A Great Package</h3>
+<h3>Audi Q6 e-tron final REVEAL of the Porsche Macan EV brother</h3>
+<p>Autogefühl: 18.03.2024</p>
+
+{{< youtube BucVRnrE2qM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New Audi Q6 e-tron FIRST LOOK : time to jump the Q?</h3>
+<p>Electrifying: 18.03.2024</p>
+
+{{< youtube MW3-wFIAWZA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>My First Look At The Audi Q6 e-tron! Tech Specs, Quick Tour, & First Drivee</h3>
 <p>Out of Spec Reviews: 25.01.2024</p>
 
-{{< youtube Jc_hW7exuNE >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>all-new Porsche Macan electric REVEAL REVIEW Macan 4 vs Turbo</h3>
-<p>Autogefühl: 25.01.2024</p>
-
-{{< youtube J1qXh8RpaEY >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>FIRST LOOK: 2024 Porsche Macan – £95k, 635bhp SUV With A BIG Change</h3>
-<p>Top Gear: 25.01.2024</p>
-
-{{< youtube K8OrzVtz2QM >}}
+{{< youtube beJgUTN6OgA >}}
 
 </div>
 <div class="mt-3 mb-3">
