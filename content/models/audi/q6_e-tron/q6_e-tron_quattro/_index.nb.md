@@ -71,6 +71,19 @@ Du kan bestille Audi Q6 e-tron quattro med en alternativ Adaptive Air Suspension
 
 Dynamisk styring er standard-funksjonen på Audi Q6 e-tron quattro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
+### Kjøremoduser
+
+Audi Q6 e-tron quattro lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
+
+- Dynamic: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+- Efficiency: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Allroad: Balansert styring, høy fjæringshøyde med balansert gass og demping.
+- Offroad: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Balanced: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
+- Custom: Egendefinert styring, fjæring og gassrespons.
+
+
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 375mm, og de bakre skivene er 350mm.

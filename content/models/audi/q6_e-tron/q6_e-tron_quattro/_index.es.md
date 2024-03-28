@@ -71,6 +71,19 @@ Puedes pedir Audi Q6 e-tron quattro con una suspensión alternativa Adaptive Air
 
 La dirección dinámica es una característica un estándar en el Audi Q6 e-tron quattro. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
 
+### Modos de conducción
+
+El Audi Q6 e-tron quattro permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 7 modos:
+
+- Dynamic: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Efficiency: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Allroad: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
+- Offroad: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+- Balanced: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
+- Custom: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
