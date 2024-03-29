@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-b5e30fbe
+  translation: Xiaomi SU7 Pro er en fuldelektrisk sedan med en CLTC rækkevidde på op til 830 km (516 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-3a59be3c
   translation: Xiaomi SU7 Max er en fuldelektrisk sedan med en CLTC rækkevidde på op til 800 km (497 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-ea07c9b5
   translation: Volvo EX40 Twin Motor er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 535 km (333 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-81608bf9
-  translation: Volvo EX40 Single Motor ER er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 572 km (356 miles). EVKX.net har alle detaljerne.
 

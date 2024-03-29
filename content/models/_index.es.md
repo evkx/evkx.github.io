@@ -597,7 +597,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Xiaomi</h2>
 	<p>
-	Xiaomi tiene 1 modelos con un total de 1 variantes.
+	Xiaomi tiene 1 modelos con un total de 2 variantes.
 	</p>
 	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Ir a Xiaomi descripción general del modelo EV</a>
 </div>

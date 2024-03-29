@@ -16,7 +16,7 @@ The SU7 is priced competitively, starting at around $29,900, which is less than 
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Xiaomi SU7 is a sedan available in 1 variants.
+Xiaomi SU7 is a sedan available in 2 variants.
 </p>
 	<a href="su7/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

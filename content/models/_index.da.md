@@ -597,7 +597,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Xiaomi</h2>
 	<p>
-	Xiaomi har 1 modeller med i alt 1 varianter.
+	Xiaomi har 1 modeller med i alt 2 varianter.
 	</p>
 	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Gå til Xiaomi EV-modeloversigt</a>
 </div>

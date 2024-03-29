@@ -131,6 +131,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Tensión nominal
+			</td>
+			<td>
+				871
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Materiales del cátodo
 			</td>
 			<td>

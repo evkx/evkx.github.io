@@ -37,7 +37,7 @@ Batteriet har en bruttokapacitet på 101kWh og en nettokapacitet på 99kWh, hvil
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 800 km ( miles). Forbruget er 12,4kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 41 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 74%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 182kW. Hver opladningssession ville tage 23 minutter og 12 sekunder.
+Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 40 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 74%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 182kW. Hver opladningssession ville tage 23 minutter og 12 sekunder.
 
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 17kWh/100 km, vil 1000 km tage 8 timer og 43 minutter. Denne tur vil kræve én opladningssession(er) opladning fra 3 % til 75%. Den samlede tid, der går tabt for at oplade batteriet, vil være 24 minutter.
 
@@ -161,7 +161,7 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 Én type lydsystem er tilgængelig for Xiaomi SU7 Max. Med Xiaomi Soundsystem får du 25 højttalere med en maksimal systemeffekt på  watt.
 
-
+Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
