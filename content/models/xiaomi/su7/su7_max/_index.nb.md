@@ -195,8 +195,8 @@ Med Xiaomi Pilot Max  nivå 2-systemet får du følgende kjøreautomatiseringsfu
 
 ### Sensorer og kameraer
 
-Denne modellen bruker kameraer, LiDAR og ultralydsensorer for førerassistentsystemene.
-driverassistance.CameraLidarUltrasonic.FalseFalseFalseFalse
+Denne modellen bruker kameraer, radar, LiDAR og ultralydsensorer for førerassistentsystemene.
+driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
 
 {{<evkxdisplayaddarticle />}}
 

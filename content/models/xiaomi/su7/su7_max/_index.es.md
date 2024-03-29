@@ -195,8 +195,8 @@ Con el sistema Xiaomi Pilot Max  nivel 2, obtienes las siguientes funciones de a
 
 ### Sensores y cámaras
 
-Este modelo utiliza cámaras, LiDAR y sensores ultrasónicos para los sistemas de asistencia al conductor.
-driverassistance.CameraLidarUltrasonic.FalseFalseFalseFalse
+Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para los sistemas de asistencia al conductor.
+driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
 
 {{<evkxdisplayaddarticle />}}
 

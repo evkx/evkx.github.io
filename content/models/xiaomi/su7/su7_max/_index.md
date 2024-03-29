@@ -195,8 +195,8 @@ With the Xiaomi Pilot Max  level 2 system, you get the following driving automat
 
 ### Sensors & Cameras
 
-This model uses cameras, LiDAR, and ultrasonic sensors for the driver assist systems.
-driverassistance.CameraLidarUltrasonic.FalseFalseFalseFalse
+This model uses cameras, radar, LiDAR and ultrasonic sensors for the driver assist systems.
+driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
 
 {{<evkxdisplayaddarticle />}}
 

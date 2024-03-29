@@ -166,6 +166,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 			<a href="voyah"><img src="https://media.evkx.net/multimedia/models/voyah/logo_xst.png" alt="VOYAH" title="VOYAH" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="xiaomi"><img src="https://media.evkx.net/multimedia/models/xiaomi/logo_xst.png" alt="Xiaomi" title="Xiaomi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="xpeng"><img src="https://media.evkx.net/multimedia/models/xpeng/logo_xst.png" alt="XPENG" title="XPENG" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -590,6 +593,13 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	VOYAH har 1 modeller med i alt 1 varianter.
 	</p>
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Gå til VOYAH EV-modeloversigt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Xiaomi</h2>
+	<p>
+	Xiaomi har 1 modeller med i alt 1 varianter.
+	</p>
+	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Gå til Xiaomi EV-modeloversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" class="img-fluid mb-2" alt="XPENG" ></a>

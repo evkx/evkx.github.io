@@ -9,8 +9,10 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3></h3>
-<p>: 01.01.0001</p>
+<h3>Don't Imitate Porsche, Just Be Yourself - Xiaomi SU7 Review</h3>
+<p>Telescop: 29.03.2024</p>
+
+{{< youtube xxwym-V_OYE >}}
 
 </div>
 <div class="mt-3 mb-3">
