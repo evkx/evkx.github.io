@@ -391,7 +391,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="lotus/"><img src="https://media.evkx.net/multimedia/models/lotus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lotus" ></a>
 	<h2>Lotus</h2>
 	<p>
-	Lotus har 2 modeller med i alt 5 varianter.
+	Lotus har 2 modeller med i alt 6 varianter.
 	</p>
 	<a href="lotus/" class="btn btn-outline-primary" role="button">Gå til Lotus EV-modeloversigt</a>
 </div>

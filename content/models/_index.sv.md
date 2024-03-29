@@ -391,7 +391,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="lotus/"><img src="https://media.evkx.net/multimedia/models/lotus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lotus" ></a>
 	<h2>Lotus</h2>
 	<p>
-	Lotus har 2 modell(er) med totalt 5 varianter.
+	Lotus har 2 modell(er) med totalt 6 varianter.
 	</p>
 	<a href="lotus/" class="btn btn-outline-primary" role="button">Gå till Lotus modellöversikt</a>
 </div>

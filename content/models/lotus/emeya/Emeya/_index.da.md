@@ -72,7 +72,7 @@ Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger en [s
 ## Udvendig
 
 Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 10 hjul med størrelser fra 21 til 23 tommer.
+Derudover kan du vælge mellem 6 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

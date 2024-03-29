@@ -472,7 +472,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Lotus, the British sports car maker famous for its lightweight and agile models, is undergoing a radical transformation. The company, which is now owned by Chinese giant Geely, has announced that it will stop producing combustion-engined cars after the launch of the Emira, its last petrol-powered model. 
 	</p>
 	<p>
-	Lotus has 2 models with total 5 variants.
+	Lotus has 2 models with total 6 variants.
 	</p>
 	<a href="lotus/" class="btn btn-outline-primary" role="button">Go to Lotus EV-model overview</a>
 </div>

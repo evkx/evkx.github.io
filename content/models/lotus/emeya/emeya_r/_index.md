@@ -72,7 +72,7 @@ You can choose between different brake systems. The standard option brakes use a
 ## Exterior
 
 You can choose between 6 different paint colors when ordering this model.
-Additionally, you can choose between 10 wheels with sizes from 21 to 23 inches.
+Additionally, you can choose between 11 wheels with sizes from 21 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

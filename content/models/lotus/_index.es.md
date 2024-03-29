@@ -30,7 +30,7 @@ Lotus Eletre es un SUV de lujo disponible en 3 variantes.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Lotus Emeya es un sedán de lujo disponible en 2 variantes.
+Lotus Emeya es un sedán de lujo disponible en 3 variantes.
 </p>
 	<a href="emeya/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

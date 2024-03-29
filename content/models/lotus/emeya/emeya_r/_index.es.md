@@ -72,7 +72,7 @@ Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standar
 ## Exterior
 
 Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
-Adicionalmente, puedes elegir entre 10 ruedas con tamaños de 21 a 23 pulgadas.
+Adicionalmente, puedes elegir entre 11 ruedas con tamaños de 21 a 22 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

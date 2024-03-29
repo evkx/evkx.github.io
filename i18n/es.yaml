@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-1336d2cc
+  translation: Lotus Emeya S es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 610 km (379 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-44c8442a
   translation: Lotus Emeya R es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 535 km (333 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-794641c4
   translation: Renault 5 E-Tech 52kWh 150hp es un hatchback totalmente eléctrico con un WLTP alcance de hasta 400 km (249 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-b546fa9c
-  translation: Peugot E-3008 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 527 km (328 millas). EVKX.net tiene todos los detalles.
 

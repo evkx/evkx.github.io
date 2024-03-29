@@ -72,7 +72,7 @@ Du kan välja mellan olika bromssystem. Bromsarna standard använder en [volfram
 ## Exteriör
 
 Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 10 hjul i storlek från 21 till 23 tum.
+Dessutom kan du välja mellan 11 hjul i storlek från 21 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
