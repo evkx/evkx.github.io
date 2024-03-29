@@ -37,9 +37,9 @@ La batería tiene una capacidad bruta de 101kWh y una capacidad neta de 99kWh, l
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 800 km ( millas). El consumo es de 12,4kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 49 minutos, mientras que un escenario más común del 10 al 80 % tardaría 24 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 156kW. Cada sesión de carga tardaría 23 minutos y 51 segundos.
+La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 41 minutos, mientras que un escenario más común del 10 al 80 % tardaría 19 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 74%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 182kW. Cada sesión de carga tardaría 23 minutos y 12 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 17kWh/100 km, 1000 km tomarán 8 horas y 47 minutos. Este viaje requerirá uno sesiones de carga del 2 % al 74 %. El tiempo total perdido para cargar la batería será de 28 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 17kWh/100 km, 1000 km tomarán 8 horas y 43 minutos. Este viaje requerirá uno sesiones de carga del 3 % al 75 %. El tiempo total perdido para cargar la batería será de 24 minutos.
 
 ### Cargador a bordo
 
