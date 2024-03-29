@@ -16,6 +16,13 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Cybertruck Takes On The Rustic Ring, Our Extreme Towing Challenge</h3>
+<p>Out of Spec Reviews: 23.03.2024</p>
+
+{{< youtube p65i56obddc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Electric Pickup Truck Range Test! We Ran All Of Them To Dead</h3>
 <p>Out of Spec Reviews: 20.03.2024</p>
 
