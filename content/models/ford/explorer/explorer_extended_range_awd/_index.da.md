@@ -77,7 +77,7 @@ Dynamisk styring er en valgfri-funktion på Ford Explorer Extended Range AWD. Dy
 
 ## Udvendig
 
-Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -102,18 +102,14 @@ Du kan vælge mellem to typer sæder med prækonfigurerede materialer. Sædelayo
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Ford Explorer Extended Range AWD.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **Sport** sædet.
 
 - elektrisk justering (valgfrit)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
-
-
-Følgende funktioner er tilgængelige på **ergoActive Top-Sport** sædet.
+Følgende funktioner er tilgængelige på **Ergo** sædet.
 
 - elektrisk justering (valgfrit)
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -122,10 +118,6 @@ Følgende funktioner er tilgængelige på **ergoActive Top-Sport** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integreret nakkestøtte
 - [massage](../../../../technology/seats/adjustment/#massage)
-
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
-
 
 ### Sæde på anden række
 
@@ -210,9 +202,9 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
-Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er anført ovenfor.
+Med Assistantpackage  niveau 2-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er anført ovenfor.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten, hvis det er nødvendigt i trafik. Systemet begrænser, hvor længe du kan køre uden at røre ved rattet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 
 {{<evkxdisplayaddarticle />}}
@@ -221,7 +213,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 536 liter. Med bagsædet nede er det 1422 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2192 kg (4833 lbs), kan du maksimalt laste 548 kg (1208 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 536 liter. Med bagsædet nede er det 1422 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2267 kg (4998 lbs), kan du maksimalt laste 473 kg (1043 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 473kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
 ### Tilgængelighed og priser

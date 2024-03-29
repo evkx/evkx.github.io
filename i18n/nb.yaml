@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-4ce1d945
+  translation: Ford Explorer Extended Range RWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 602 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-f5ba1799
   translation: Chevrolet Silverado EV 3WT er en helelektrisk pickup med en EPA rekkevidde på opptil 632 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-9141e2cc
   translation: Volvo EC40 Twin Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 548 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-572f8b64
-  translation: Volvo EC40 Single Motor ER er en helelektrisk delefilter med en WLTP rekkevidde på opptil 581 km. EVKX.net har alle detaljene.
 

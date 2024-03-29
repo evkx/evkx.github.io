@@ -395,7 +395,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2192 kg (4833 lbs)
+				2267 kg (4998 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				548 kg (1208 lbs)
+				473 kg (1043 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -718,7 +718,7 @@ This model is available with a seat configuration with five seats.
 ### Front seats
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -879,7 +879,7 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
-#### ergoActive Top-Sport
+#### Ergo
 
 <table class="table table-striped border">
 	<thead>
@@ -906,7 +906,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -914,7 +914,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -922,7 +922,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>

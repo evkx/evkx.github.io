@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Ford Explorer es un SUV disponible en 1 variantes.
+Ford Explorer es un SUV disponible en 2 variantes.
 </p>
 	<a href="explorer/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

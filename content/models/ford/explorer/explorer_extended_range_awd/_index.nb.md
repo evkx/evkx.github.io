@@ -77,7 +77,7 @@ Dynamisk styring er tilvalg-funksjonen på Ford Explorer Extended Range AWD. Dyn
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 3 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -102,18 +102,14 @@ Du kan velge mellom to typer seter med forhåndskonfigurerte materialer. Seteopp
 
 Det er to setetyper du kan velge mellom for første rad i Ford Explorer Extended Range AWD.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 - elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
-
-
-Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
+Følgende funksjoner er tilgjengelige på **Ergo** setet.
 
 - elektrisk justering (tilvalg)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
@@ -122,10 +118,6 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrert hodestøtte
 - [massasje](../../../../technology/seats/adjustment/#massage)
-
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
-
 
 ### Seter på andre rad
 
@@ -210,9 +202,9 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
-Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
+Med Assistantpackage  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 
 {{<evkxdisplayaddarticle />}}
@@ -221,7 +213,7 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 536 liter. Med baksetet nede er det 1422 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2740 kg, og med basisvekten på 2192 kg kan du maksimalt laste 548 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 536 liter. Med baksetet nede er det 1422 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2740 kg, og med basisvekten på 2267 kg kan du maksimalt laste 473 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 473 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris

@@ -77,7 +77,7 @@ La dirección dinámica es una característica un opcional en el Ford Explorer E
 
 ## Exterior
 
-Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 20 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
@@ -102,18 +102,14 @@ Puedes elegir entre dos tipos de asientos con materiales preconfigurados. La dis
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Ford Explorer Extended Range AWD.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-
-
-
-Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top-Sport**.
+Las siguientes funcionalidades están disponibles en el asiento **Ergo**.
 
 - ajuste eléctrico (opcional)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
@@ -122,10 +118,6 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
 - [masaje](../../../../technology/seats/adjustment/#massage)
-
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-
-
 
 ### Asiento de segunda fila
 
@@ -210,9 +202,9 @@ Con el sistema   nivel 1, obtienes las siguientes funciones de automatización d
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
-Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
+Con el sistema Assistantpackage  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 
 {{<evkxdisplayaddarticle />}}
@@ -221,7 +213,7 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 536 litros. Con el asiento trasero abatido, es de 1422 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2740 kg (6041 lbs), y con el peso base de 2192 kg (4833 lbs), puedes cargar como máximo 548 kg (1208 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 536 litros. Con el asiento trasero abatido, es de 1422 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2740 kg (6041 lbs), y con el peso base de 2267 kg (4998 lbs), puedes cargar como máximo 473 kg (1043 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 473kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
 ### Disponibilidad y precios

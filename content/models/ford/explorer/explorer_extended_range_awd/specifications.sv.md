@@ -395,7 +395,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2192 kg
+				2267 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				548 kg
+				473 kg
 			</td>
 		</tr>
 		<tr>
@@ -718,7 +718,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 ### Framsäten
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -879,7 +879,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
-#### ergoActive Top-Sport
+#### Ergo
 
 <table class="table table-striped border">
 	<thead>
@@ -906,7 +906,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -914,7 +914,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -922,7 +922,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>

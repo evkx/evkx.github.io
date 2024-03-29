@@ -395,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2192 kg (4833 lbs)
+				2267 kg (4998 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				548 kg (1208 lbs)
+				473 kg (1043 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -718,7 +718,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 ### Asientos delanteros
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -879,7 +879,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 	</tbody>
 </table>
 
-#### ergoActive Top-Sport
+#### Ergo
 
 <table class="table table-striped border">
 	<thead>
@@ -906,7 +906,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -914,7 +914,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -922,7 +922,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>

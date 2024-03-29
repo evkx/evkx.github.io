@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Ford Explorer er en SUV tilgængelig i 1 varianter.
+Ford Explorer er en SUV tilgængelig i 2 varianter.
 </p>
 	<a href="explorer/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

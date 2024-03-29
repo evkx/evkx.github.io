@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-4ce1d945
+  translation: Ford Explorer Extended Range RWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 602 km (374 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-f5ba1799
   translation: Chevrolet Silverado EV 3WT es una camioneta totalmente eléctrica con un EPA alcance de hasta 632 km (393 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-9141e2cc
   translation: Volvo EC40 Twin Motor es un crossover totalmente eléctrico con un WLTP alcance de hasta 548 km (341 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-572f8b64
-  translation: Volvo EC40 Single Motor ER es un crossover totalmente eléctrico con un WLTP alcance de hasta 581 km (361 millas). EVKX.net tiene todos los detalles.
 

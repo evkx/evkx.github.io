@@ -395,7 +395,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2192 kg (4833 lbs)
+				2267 kg (4998 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				548 kg (1208 lbs)
+				473 kg (1043 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -718,7 +718,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 ### Forsæder
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -879,7 +879,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
-#### ergoActive Top-Sport
+#### Ergo
 
 <table class="table table-striped border">
 	<thead>
@@ -906,7 +906,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -914,7 +914,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -922,7 +922,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

@@ -77,7 +77,7 @@ Dynamisk styrning är valfritt-funktionen för Ford Explorer Extended Range AWD.
 
 ## Exteriör
 
-Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 3 hjul i storlek från 20 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
@@ -102,18 +102,14 @@ Du kan välja mellan två typer av säten med förkonfigurerade material. Sittla
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Ford Explorer Extended Range AWD.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner är tillgängliga på **Sport** sätet.
 
 - elektrisk justering (valfritt)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
-
-
-Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
+Följande funktioner är tillgängliga på **Ergo** sätet.
 
 - elektrisk justering (valfritt)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -122,10 +118,6 @@ Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage)
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
-
 
 ### Säten på andra raden
 
@@ -210,9 +202,9 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
-Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
+Med Assistantpackage  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 
 {{<evkxdisplayaddarticle />}}
@@ -221,7 +213,7 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 536 liter. Med baksätet nedfällt är det 1422 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2740 kg, och med basvikten på 2192 kg kan du lasta maximalt 548 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 536 liter. Med baksätet nedfällt är det 1422 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2740 kg, och med basvikten på 2267 kg kan du lasta maximalt 473 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 473 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris

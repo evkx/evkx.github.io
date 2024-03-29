@@ -77,7 +77,7 @@ Dynamic steering is an optional feature on the Ford Explorer Extended Range AWD.
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+You can choose between 7 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -102,18 +102,14 @@ You can choose between two types of seats with preconfigured materials. The seat
 
 There are two seat types you can choose from for the front row in the Ford Explorer Extended Range AWD.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **Sport** seat.
 
 - electric adjustment (optional)
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
-You can choose from 1 different materials/colors for this seat type.
-
-
-
-The following functionalities are available on the **ergoActive Top-Sport** seat.
+The following functionalities are available on the **Ergo** seat.
 
 - electric adjustment (optional)
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -122,10 +118,6 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
 - [massage](../../../../technology/seats/adjustment/#massage)
-
-You can choose from 1 different materials/colors for this seat type.
-
-
 
 ### Second-row seat
 
@@ -210,9 +202,9 @@ With the   level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
-With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above.
+With the Assistantpackage  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 
 {{<evkxdisplayaddarticle />}}
@@ -221,7 +213,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 536 liters. With the rear seat down, it is 1422 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2192 kg (4833 lbs), you can max load 548 kg (1208 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 536 liters. With the rear seat down, it is 1422 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2267 kg (4998 lbs), you can max load 473 kg (1043 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 473kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 ### Availability & Pricing
