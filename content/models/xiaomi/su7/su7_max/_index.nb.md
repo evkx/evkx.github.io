@@ -59,15 +59,19 @@ Xiaomi SU7 Max har et firehjulsdriftssystem som støttes av to motorer, en på h
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 160 mm, og maksimum er 140 mm.
 
+### Styring
+
+Dynamisk styring er standard-funksjonen på Xiaomi SU7 Max. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 375mm, og de bakre skivene er 350mm.
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
 
 ## Eksteriør
 
-Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 4 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er standard-funksjon for sidedørene.
@@ -126,7 +130,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+Det er ett tilgjengelig klimasystem. Klimasystemet  2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
 
 ## Komfort
 

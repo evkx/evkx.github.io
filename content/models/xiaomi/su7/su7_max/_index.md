@@ -59,15 +59,19 @@ Xiaomi SU7 Max has an all-wheel drive system supported by two motors, one on eac
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 160 mm, and the maximum is 140 mm.
 
+### Steering
+
+Dynamic steering is a standard feature on the Xiaomi SU7 Max. Dynamic steering varies the steering ratio as a function of driving speed.
+
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. The system stops the car completely using friction brakes.
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model.
+You can choose between 9 different paint colors when ordering this model.
 Additionally, you can choose between 4 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is a standard function for the side doors.
@@ -126,7 +130,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available.
+There is one climate system available. The  2-zone climate system supports different temperatures in two zones for the driver and passenger.
 
 ## Comfort
 

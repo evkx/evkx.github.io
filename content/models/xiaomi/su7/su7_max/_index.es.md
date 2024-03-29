@@ -59,15 +59,19 @@ Xiaomi SU7 Max tiene un sistema de tracción total sostenido por dos motores, un
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 160 mm y la máxima es 140 mm.
 
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Xiaomi SU7 Max. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
 [El frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) combinado con [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. El sistema detiene el automóvil por completo mediante frenos de fricción.
 
 ## Exterior
 
-Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 19 a 21 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero. El cierre suave es la función un estándar para las puertas laterales.
@@ -126,7 +130,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible.
+Hay un sistema climático disponible. El sistema climático  2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
 
 ## Comodidad
 
