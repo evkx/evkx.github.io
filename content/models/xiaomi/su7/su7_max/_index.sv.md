@@ -33,13 +33,13 @@ Xiaomi SU7 Max har en maximal effekt på 495 KW (673hk). Totalt vridmoment är 8
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 101kWh och en nettokapacitet på 99kWh, vilket innebär att du har en 2kWh buffert för skydd. (2,0%).
+Batteriet har en bruttokapacitet på 101kWh och en nettokapacitet på 99kWh, vilket innebär att du har en 2kWh buffert för skydd. (2,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 800 km ( miles). Förbrukningen är 12,4kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 60 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 133kW. Varje laddningssession tar 23 minuter och 9 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 49 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 156kW. Varje laddningssession tar 23 minuter och 51 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 17kWh/100km, tar 1000km 8 timmar och 53 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 4% till 40%. Total tid som går förlorad för att ladda batteriet kommer att vara 34 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 17kWh/100km, tar 1000km 8 timmar och 47 minuter. Den här resan kommer att kräva en laddningssession(er) laddning från 2% till 74%. Total tid som går förlorad för att ladda batteriet kommer att vara 28 minuter.
 
 ### Inbyggd laddare
 
@@ -57,7 +57,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Xiaomi SU7 Max har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
--fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 140 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 160 mm, och maximal är 140 mm.
 
 ### Bromsar
 
@@ -100,7 +100,7 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Red [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Grey [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Purple [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 
@@ -115,6 +115,8 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/secondrowseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1080"  >}}
@@ -202,7 +204,7 @@ Med Xiaomi Pilot Max  nivå 2-systemet får du följande körautomatiseringsfunk
 ### Sensorer och kameror
 
 Denna modell använder kameror, radar, LiDAR och ultraljudssensorer för förarassistanssystemen.
-Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
+Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), åtta [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

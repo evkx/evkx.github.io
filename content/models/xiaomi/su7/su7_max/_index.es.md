@@ -33,13 +33,13 @@ El Xiaomi SU7 Max tiene una potencia máxima de 495 KW (673 hp/664 bhp). El par 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 101kWh y una capacidad neta de 99kWh, lo que significa que tienes un buffer de 2kWh para protección. (2,0%).
+La batería tiene una capacidad bruta de 101kWh y una capacidad neta de 99kWh, lo que significa que tienes un buffer de 2kWh para protección. (2,0%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 800 km ( millas). El consumo es de 12,4kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 60 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 55%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 133kW. Cada sesión de carga tardaría 23 minutos y 9 segundos.
+La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 49 minutos, mientras que un escenario más común del 10 al 80 % tardaría 24 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 156kW. Cada sesión de carga tardaría 23 minutos y 51 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 17kWh/100 km, 1000 km tomarán 8 horas y 53 minutos. Este viaje requerirá dos sesiones de carga del 4 % al 40 %. El tiempo total perdido para cargar la batería será de 34 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 17kWh/100 km, 1000 km tomarán 8 horas y 47 minutos. Este viaje requerirá uno sesiones de carga del 2 % al 74 %. El tiempo total perdido para cargar la batería será de 28 minutos.
 
 ### Cargador a bordo
 
@@ -57,7 +57,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Xiaomi SU7 Max tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
-La suspensión  tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 140 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 160 mm y la máxima es 140 mm.
 
 ### Frenos
 
@@ -100,7 +100,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Red [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Grey [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Purple [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
@@ -115,6 +115,8 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/secondrowseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1080"  >}}
@@ -202,7 +204,7 @@ Con el sistema Xiaomi Pilot Max  nivel 2, obtienes las siguientes funciones de a
 ### Sensores y cámaras
 
 Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para los sistemas de asistencia al conductor.
-Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
+Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), ocho [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 
