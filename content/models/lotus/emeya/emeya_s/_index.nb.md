@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
 Vi har delt vår beskrivelse av Lotus Emeya S i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
@@ -76,6 +80,10 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 
 Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -107,6 +115,10 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 ### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Lotus Emeya S.
@@ -117,6 +129,10 @@ Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan fold
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Alternativet second er to [executive-seter](../../../../technology/seats/types/#twin-executive-seats). I tillegg er følgende funksjoner tilgjengelige.
+
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
 Det er bare én type ratt tilgjengelig.
@@ -143,6 +159,10 @@ Du har trådløs lading for telefonen din.
 
 -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor. touch-skjermen i dashbordets sentrum er 15,1 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
+
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 

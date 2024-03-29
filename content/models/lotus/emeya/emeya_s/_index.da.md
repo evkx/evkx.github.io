@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
 Vi har opdelt vores Lotus Emeya S artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
 - [Ydeevne](#ydeevne)
@@ -76,6 +80,10 @@ Du kan vælge mellem to typer tage på denne model. Standarden er bare et almind
 
 Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå.
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -107,6 +115,10 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 ### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Lotus Emeya S.
@@ -117,6 +129,10 @@ Muligheden standard er en tre-sædet bænk med en 40:20:40 del, hvor du kan fold
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Muligheden second er dobbelte [executive-sæder](../../../../technology/seats/types/#twin-executive-seats). Derudover er følgende funktionaliteter tilgængelige.
+
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
 Der er kun én type rat tilgængelig.
@@ -143,6 +159,10 @@ Du har trådløs opladning til din telefon.
 
 Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch i dashboardets midte er 15,1 tommer stor.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
+
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 

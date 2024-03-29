@@ -48,7 +48,7 @@ weight: 30
 <h3>Lotus Emeya S</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="emeya_s/"><img src="" class="img-fluid" width="400px" height="0px" alt="Emeya S" ></a>
+			<a href="emeya_s/"><img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya_s/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Emeya S" ></a>
 <i class="bi bi-battery-full"></i> 102 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">

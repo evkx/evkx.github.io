@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
 Vi har delat in vår beskrivning av Lotus Emeya S i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#prestanda)
@@ -76,6 +80,10 @@ Du kan välja mellan två typer av tak på denna modell. Standardinställningen 
 
 Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -107,6 +115,10 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 ### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Lotus Emeya S.
@@ -117,6 +129,10 @@ Alternativet standard är en tresitssbänk med en 40:20:40-sektion där du kan v
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Alternativ second är två [chefsplatser](../../../../technology/seats/types/#twin-executive-seats). Dessutom är följande funktioner tillgängliga.
+
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
 Det finns bara en typ av ratt tillgänglig.
@@ -143,6 +159,10 @@ Du har trådlös laddning för din telefon.
 
 Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen touch i mitten av instrumentbrädan är 15,1 tum.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
+
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 

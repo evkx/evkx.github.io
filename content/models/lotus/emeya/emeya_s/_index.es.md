@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
 Hemos separado nuestro artículo Lotus Emeya S en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
@@ -76,6 +80,10 @@ Puedes elegir entre dos tipos de techos en este modelo. El estándar es simpleme
 
 Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -107,6 +115,10 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 ### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Lotus Emeya S.
@@ -117,6 +129,10 @@ La opción standard es un banco de tres asientos con una división 40:20:40 dond
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/types/#twin-executive-seats). Además, las siguientes funcionalidades están disponibles.
+
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
 Sólo hay un tipo de volante disponible.
@@ -143,6 +159,10 @@ Tienes carga inalámbrica para tu teléfono.
 
 La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 15,1 pulgadas de tamaño.
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
+
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 

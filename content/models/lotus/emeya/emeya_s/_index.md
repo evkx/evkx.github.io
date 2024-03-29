@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
 We have separated our Lotus Emeya S article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
@@ -76,6 +80,10 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 You can order the car with tinted windows from B-pillar and back.
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -107,6 +115,10 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
+
+
 ### Second-row seats
 
 You can choose two seat types for the second row in the Lotus Emeya S.
@@ -117,6 +129,10 @@ The standard option is a three-seat bench with a 40:20:40 split where you can fo
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
+
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
 There is only one type of steering wheel available.
@@ -143,6 +159,10 @@ You have wireless charging for your phone.
 
 The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 15.1 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+
+
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
+
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
 

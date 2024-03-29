@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Lotus Emeya S. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Lotus Emeya S, gå till [chargeinfo](../chargecurve/) för Lotus Emeya S med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
