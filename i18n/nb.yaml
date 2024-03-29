@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-60c80465
+  translation: Xiaomi SU7 er en helelektrisk sedan med en CLTC rekkevidde på opptil 700 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-b5e30fbe
   translation: Xiaomi SU7 Pro er en helelektrisk sedan med en CLTC rekkevidde på opptil 830 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-3f41452e
   translation: Volvo EC40 Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 478 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-ea07c9b5
-  translation: Volvo EX40 Twin Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 535 km. EVKX.net har alle detaljene.
 

@@ -1,7 +1,7 @@
 ---
-title: Xiaomi SU7 Pro
-linktitle: "SU7 Pro"
-description: "Xiaomi SU7 Pro is an all-electric sedan with a CLTC range of up to 830 km (516 miles). EVKX.net has all the details."
+title: Xiaomi SU7
+linktitle: "SU7"
+description: "Xiaomi SU7 is an all-electric sedan with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/main_1_st.jpg" title="Xiaomi SU7 Pro" width="3000" height="1500"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/main_1_st.jpg" title="Xiaomi SU7" width="3000" height="1500"  >}}
 
-We have separated our Xiaomi SU7 Pro article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We have separated our Xiaomi SU7 article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -29,21 +29,21 @@ We have separated our Xiaomi SU7 Pro article into sections. If you want to wait 
 
 ## Performance
 
-The Xiaomi SU7 Pro has a maximum power of 220 KW (299 hp/295 bhp). The total torque is 400 nm (295 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.7 seconds. The top speed is 210 km/h.
+The Xiaomi SU7 has a maximum power of 220 KW (299 hp/295 bhp). The total torque is 400 nm (295 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.28 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 94,3kWh and a net capacity of 92kWh, meaning you have a 2,3kWh buffer for protection. (2.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 73,6kWh and a net capacity of 73kWh, meaning you have a 0,6kWh buffer for protection. (0.8%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 830 km ( miles). The consumption is 11.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 10.4kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 56 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 71%, resulting in an actual charge speed, including time loss, of 116kW. Each charge session would take 32 minutes and 24 seconds.
+The maximum DC charging speed is kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 72%, resulting in an actual charge speed, including time loss, of 108kW. Each charge session would take 28 minutes and 1 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 16kWh/100km, 1000km will take 8 hours and 55 minutes. This trip will require one charge session(s) charging from 2% to 76%. The total time lost for charging up the battery will be 35 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 16kWh/100km, 1000km will take 9 hours and 9 minutes. This trip will require two charge session(s) charging from 3% to 63%. The total time lost for charging up the battery will be 49 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 21 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 38 minutes.
 
 ### Charge port
 
@@ -55,13 +55,13 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Xiaomi SU7 Pro has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Xiaomi SU7 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
 ### Steering
 
-Dynamic steering is a standard feature on the Xiaomi SU7 Pro. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard feature on the Xiaomi SU7. Dynamic steering varies the steering ratio as a function of driving speed.
 
 ### Brakes
 
@@ -81,7 +81,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/exterior_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/exterior_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -94,7 +94,7 @@ You can choose between several interior designs. The seat layout is the traditio
 
 ### First row seats
 
-Only one front seat type is available in the Xiaomi SU7 Pro.
+Only one front seat type is available in the Xiaomi SU7.
 
 The following functionalities are available on the **** seat.
 
@@ -110,7 +110,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
 
 ### Second-row seat
@@ -123,7 +123,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/secondrowseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1080"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/secondrowseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1080"  >}}
 
 
 There is only one type of steering wheel available.
@@ -134,7 +134,7 @@ There is one climate system available. The  2-zone climate system supports diffe
 
 ## Comfort
 
-Xiaomi SU7 Pro has several features to make your life as a driver or passenger more comfortable.
+Xiaomi SU7 has several features to make your life as a driver or passenger more comfortable.
 
 Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
 
@@ -152,12 +152,12 @@ The  screen behind the steering wheel integrated into the dashboard is 7.1 inche
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/screens_1_st.jpg" title="Xiaomi SU7 Pro" width="2560" height="1440"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}
 
 
 ## Infotainment
 
-You can choose between two sound systems on the Xiaomi SU7 Pro. With the Xiaomi Soundsystem, you get ten speakers with a max system output of  watts. With the Xiaomi Soundsystem, you get 25 speakers with a max system output of  watts.
+You can choose between two sound systems on the Xiaomi SU7. With the Xiaomi Soundsystem, you get ten speakers with a max system output of  watts. With the Xiaomi Soundsystem, you get 25 speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 ## Lights
@@ -165,20 +165,20 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/headlights_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/headlights_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 ## Advanced driver assistance systems
 
-The Xiaomi SU7 Pro has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Xiaomi SU7 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 ### Safety systems
 
 
 
-The Xiaomi SU7 Pro has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+The Xiaomi SU7 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
 
-The Xiaomi SU7 Pro has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+The Xiaomi SU7 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
-The Xiaomi SU7 Pro has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+The Xiaomi SU7 has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
@@ -186,7 +186,7 @@ The Xiaomi SU7 Pro has a [**lane-keeping assist**](../../../../technology/driver
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
 
-The Xiaomi SU7 Pro has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+The Xiaomi SU7 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
 
@@ -206,7 +206,7 @@ With the Xiaomi Pilot Max  level 2 system, you get the following driving automat
 ### Sensors & Cameras
 
 This model uses cameras, radar, LiDAR and ultrasonic sensors for the driver assist systems.
-Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), eight [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), common.number.zero [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), eight [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 

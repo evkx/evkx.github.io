@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-60c80465
+  translation: Xiaomi SU7 es un sedán totalmente eléctrico con un CLTC alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-b5e30fbe
   translation: Xiaomi SU7 Pro es un sedán totalmente eléctrico con un CLTC alcance de hasta 830 km (516 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-3f41452e
   translation: Volvo EC40 Single Motor es un crossover totalmente eléctrico con un WLTP alcance de hasta 478 km (297 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-ea07c9b5
-  translation: Volvo EX40 Twin Motor es un crossover totalmente eléctrico con un WLTP alcance de hasta 535 km (333 millas). EVKX.net tiene todos los detalles.
 

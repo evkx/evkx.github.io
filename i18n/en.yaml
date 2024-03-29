@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-60c80465
+  translation: Xiaomi SU7 is an all-electric sedan with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details.
+
 - id: frontpage-description-b5e30fbe
   translation: Xiaomi SU7 Pro is an all-electric sedan with a CLTC range of up to 830 km (516 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-3f41452e
   translation: Volvo EC40 Single Motor is an all-electric crossover with a WLTP range of up to 478 km (297 miles). EVKX.net has all the details.
-
-- id: frontpage-description-ea07c9b5
-  translation: Volvo EX40 Twin Motor is an all-electric crossover with a WLTP range of up to 535 km (333 miles). EVKX.net has all the details.
 

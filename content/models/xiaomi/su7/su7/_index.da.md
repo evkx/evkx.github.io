@@ -1,7 +1,7 @@
 ---
-title: Xiaomi SU7 Pro
-linktitle: "SU7 Pro"
-description: "Xiaomi SU7 Pro er en fuldelektrisk sedan med en CLTC rækkevidde på op til 830 km (516 miles). EVKX.net har alle detaljerne."
+title: Xiaomi SU7
+linktitle: "SU7"
+description: "Xiaomi SU7 er en fuldelektrisk sedan med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/main_1_st.jpg" title="Xiaomi SU7 Pro" width="3000" height="1500"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/main_1_st.jpg" title="Xiaomi SU7" width="3000" height="1500"  >}}
 
-Vi har opdelt vores Xiaomi SU7 Pro artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
+Vi har opdelt vores Xiaomi SU7 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
 - [Ydeevne](#ydeevne)
 - [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
@@ -29,21 +29,21 @@ Vi har opdelt vores Xiaomi SU7 Pro artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Xiaomi SU7 Pro har en maksimal effekt på 220 KW (299 hk/295 hk). Det samlede drejningsmoment er 400 nm (295 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder. Tophastigheden er 210 km/t.
+Xiaomi SU7 har en maksimal effekt på 220 KW (299 hk/295 hk). Det samlede drejningsmoment er 400 nm (295 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,28 sekunder. Tophastigheden er 210 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 94,3kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 2,3kWh buffer til beskyttelse. (2,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 73,6kWh og en nettokapacitet på 73kWh, hvilket betyder, at du har en 0,6kWh buffer til beskyttelse. (0,8%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 830 km ( miles). Forbruget er 11,1kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 700 km ( miles). Forbruget er 10,4kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 56 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 116kW. Hver opladningssession ville tage 32 minutter og 24 sekunder.
+Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 45 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 72%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 108kW. Hver opladningssession ville tage 28 minutter og 1 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 16kWh/100 km, vil 1000 km tage 8 timer og 55 minutter. Denne tur vil kræve én opladningssession(er) opladning fra 2 % til 76%. Den samlede tid, der går tabt for at oplade batteriet, vil være 35 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 16kWh/100 km, vil 1000 km tage 9 timer og 9 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 3 % til 63%. Den samlede tid, der går tabt for at oplade batteriet, vil være 49 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 21 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 38 minutter.
 
 ### Ladeport
 
@@ -55,13 +55,13 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 ## Drivetrain
 
-Xiaomi SU7 Pro har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Xiaomi SU7 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 150 mm.
 
 ### Styring
 
-Dynamisk styring er en standard-funktion på Xiaomi SU7 Pro. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+Dynamisk styring er en standard-funktion på Xiaomi SU7. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
 ### Bremser
 
@@ -81,7 +81,7 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/exterior_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/exterior_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -94,7 +94,7 @@ Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle f
 
 ### Første række sæder
 
-Kun én type forsæde er tilgængelig i Xiaomi SU7 Pro.
+Kun én type forsæde er tilgængelig i Xiaomi SU7.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -110,7 +110,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
 
 ### Sæde på anden række
@@ -123,7 +123,7 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/secondrowseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1080"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/secondrowseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1080"  >}}
 
 
 Der er kun én type rat tilgængelig.
@@ -134,7 +134,7 @@ Der er et tilgængeligt klimasystem. Klimasystemet  2-zone understøtter forskel
 
 ## Komfort
 
-Xiaomi SU7 Pro har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+Xiaomi SU7 har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
 
 Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
 
@@ -152,12 +152,12 @@ Skærmen  bag rattet integreret i instrumentbrættet er 7,1 tommer stor. Skærme
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/screens_1_st.jpg" title="Xiaomi SU7 Pro" width="2560" height="1440"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}
 
 
 ## Infotainment
 
-Du kan vælge mellem to lydsystemer på Xiaomi SU7 Pro. Med Xiaomi Soundsystem får du ti højttalere med en maksimal systemeffekt på  watt. Med Xiaomi Soundsystem får du 25 højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Xiaomi SU7. Med Xiaomi Soundsystem får du ti højttalere med en maksimal systemeffekt på  watt. Med Xiaomi Soundsystem får du 25 højttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 ## Lys
@@ -165,20 +165,20 @@ Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/headlights_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/headlights_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 ## Avancerede førerassistentsystemer
 
-Xiaomi SU7 Pro har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+Xiaomi SU7 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 ### Sikkerhedssystemer
 
 
 
-Xiaomi SU7 Pro har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+Xiaomi SU7 har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
-Xiaomi SU7 Pro har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+Xiaomi SU7 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-Xiaomi SU7 Pro har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+Xiaomi SU7 har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er en standard førerassistentsystem, der hjælper chauffører med at registrere modkørende trafik når du krydser et vejkryds eller drejer til venstre eller højre fra en standset position.
 
@@ -186,7 +186,7 @@ Xiaomi SU7 Pro har en [**vognbaneassistent**](../../../../technology/driverassis
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-Xiaomi SU7 Pro har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
+Xiaomi SU7 har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
 [**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er en standard førerassistentsystem designet til at hjælpe chauffører med at undgå kollisioner ved at automatisk styring af køretøjet i en nødsituation.
 
@@ -206,7 +206,7 @@ Med Xiaomi Pilot Max  niveau 2-systemet får du følgende køreautomatiseringsfu
 ### Sensorer og kameraer
 
 Denne model bruger kameraer, radar, LiDAR og ultralydssensorer til førerassistentsystemerne.
-Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [LiDAR sensorer](../../../../technology/sensorsandcameras/lidar/), otte [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
+Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), common.number.zero [LiDAR sensorer](../../../../technology/sensorsandcameras/lidar/), otte [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

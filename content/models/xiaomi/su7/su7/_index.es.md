@@ -1,7 +1,7 @@
 ---
-title: Xiaomi SU7 Pro
-linktitle: "SU7 Pro"
-description: "Xiaomi SU7 Pro es un sedán totalmente eléctrico con un CLTC alcance de hasta 830 km (516 millas). EVKX.net tiene todos los detalles."
+title: Xiaomi SU7
+linktitle: "SU7"
+description: "Xiaomi SU7 es un sedán totalmente eléctrico con un CLTC alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/main_1_st.jpg" title="Xiaomi SU7 Pro" width="3000" height="1500"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/main_1_st.jpg" title="Xiaomi SU7" width="3000" height="1500"  >}}
 
-Hemos separado nuestro artículo Xiaomi SU7 Pro en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+Hemos separado nuestro artículo Xiaomi SU7 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
 - [Batería, autonomía y carga](#batería-autonomía-y-carga)
@@ -29,21 +29,21 @@ Hemos separado nuestro artículo Xiaomi SU7 Pro en secciones. Si desea esperar p
 
 ## Rendimiento
 
-El Xiaomi SU7 Pro tiene una potencia máxima de 220 KW (299 hp/295 bhp). El par total es 400 nm (295 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,7 segundos. La velocidad máxima es 210 km/h.
+El Xiaomi SU7 tiene una potencia máxima de 220 KW (299 hp/295 bhp). El par total es 400 nm (295 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,28 segundos. La velocidad máxima es 210 km/h.
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 94,3kWh y una capacidad neta de 92kWh, lo que significa que tienes un buffer de 2,3kWh para protección. (2,4%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería tiene una capacidad bruta de 73,6kWh y una capacidad neta de 73kWh, lo que significa que tienes un buffer de 0,6kWh para protección. (0,8%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 830 km ( millas). El consumo es de 11,1kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 700 km ( millas). El consumo es de 10,4kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 56 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 71%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 116kW. Cada sesión de carga tardaría 32 minutos y 24 segundos.
+La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 45 minutos, mientras que un escenario más común del 10 al 80 % tardaría 25 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 72%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 108kW. Cada sesión de carga tardaría 28 minutos y 1 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 16kWh/100 km, 1000 km tomarán 8 horas y 55 minutos. Este viaje requerirá uno sesiones de carga del 2 % al 76 %. El tiempo total perdido para cargar la batería será de 35 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 16kWh/100 km, 1000 km tomarán 9 horas y 9 minutos. Este viaje requerirá dos sesiones de carga del 3 % al 63 %. El tiempo total perdido para cargar la batería será de 49 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 8 horas y 21 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 6 horas y 38 minutos.
 
 ### Puerto de carga
 
@@ -55,13 +55,13 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 ## Tren de transmisión
 
-Xiaomi SU7 Pro tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Xiaomi SU7 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 150 mm.
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Xiaomi SU7 Pro. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+La dirección dinámica es una característica un estándar en el Xiaomi SU7. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
 
 ### Frenos
 
@@ -81,7 +81,7 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/exterior_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/exterior_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -94,7 +94,7 @@ Puedes elegir entre varios diseños de interiores. La disposición de los asient
 
 ### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Xiaomi SU7 Pro.
+Sólo hay un tipo de asiento delantero disponible en el Xiaomi SU7.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -110,7 +110,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
 
 ### Asiento de segunda fila
@@ -123,7 +123,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/secondrowseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1080"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/secondrowseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1080"  >}}
 
 
 Sólo hay un tipo de volante disponible.
@@ -134,7 +134,7 @@ Hay un sistema climático disponible. El sistema climático  2-zone admite difer
 
 ## Comodidad
 
-Xiaomi SU7 Pro tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+Xiaomi SU7 tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
 
 La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
 
@@ -152,12 +152,12 @@ La  pantalla detrás del volante integrado en el salpicadero mide 7,1 pulgadas d
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/screens_1_st.jpg" title="Xiaomi SU7 Pro" width="2560" height="1440"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}
 
 
 ## Infoentretenimiento
 
-Puedes elegir entre dos sistemas de sonido en el Xiaomi SU7 Pro. Con el Xiaomi Soundsystem, obtienes diez parlantes con una salida máxima del sistema de  vatios. Con el Xiaomi Soundsystem, obtienes 25 parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Xiaomi SU7. Con el Xiaomi Soundsystem, obtienes diez parlantes con una salida máxima del sistema de  vatios. Con el Xiaomi Soundsystem, obtienes 25 parlantes con una salida máxima del sistema de  vatios.
 
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 ## Luces
@@ -165,20 +165,20 @@ El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
 
 
-{{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/headlights_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
+{{< sitefiguresized thumb="models/xiaomi/su7/su7/headlights_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 
-El Xiaomi SU7 Pro tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+El Xiaomi SU7 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 ### Sistemas de seguridad
 
 
 
-El Xiaomi SU7 Pro tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+El Xiaomi SU7 tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
 
-El Xiaomi SU7 Pro tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
+El Xiaomi SU7 tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
 
-El Xiaomi SU7 Pro tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+El Xiaomi SU7 tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
 
@@ -186,7 +186,7 @@ El Xiaomi SU7 Pro tiene un [**asistente para mantenerse en el carril**](../../..
 
 [**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
 
-El Xiaomi SU7 Pro tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
+El Xiaomi SU7 tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
 [**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un un estándar sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
 
@@ -206,7 +206,7 @@ Con el sistema Xiaomi Pilot Max  nivel 2, obtienes las siguientes funciones de a
 ### Sensores y cámaras
 
 Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para los sistemas de asistencia al conductor.
-Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), ocho [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
+Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), common.number.zero [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), ocho [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

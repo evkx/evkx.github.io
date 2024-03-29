@@ -756,7 +756,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Xiaomi, the Chinese tech giant known for its smartphones, has entered the electric vehicle (EV) market with the launch of its first EV, the Xiaomi SU7. The company has positioned the SU7 as a 'full-size high-performance eco-technology sedan' and has set an aggressive pricing strategy to compete in the highly saturated EV market
 	</p>
 	<p>
-	Xiaomi has 1 models with total 2 variants.
+	Xiaomi has 1 models with total 3 variants.
 	</p>
 	<a href="xiaomi/" class="btn btn-outline-primary" role="button">Go to Xiaomi EV-model overview</a>
 </div>
