@@ -27,10 +27,10 @@ navicon: bi-battery-charging
 <td>Velocidad de carga promedio 10-80%</td><td>185,5 kW</td>
 </tr>
 <tr>
-<td>Velocidad C máxima</td><td>1,57</td>
+<td>Velocidad C máxima</td><td>1,44</td>
 </tr>
 <tr>
-<td>Tasa C promedio</td><td>1,00</td>
+<td>Tasa C promedio</td><td>0,91</td>
 </tr>
 <tr>
 <td>Área de carga óptima</td><td>1% - 52%</td>

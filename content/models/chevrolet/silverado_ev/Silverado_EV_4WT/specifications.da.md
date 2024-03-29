@@ -118,7 +118,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				220 kWh
+				240 kWh
 			</td>
 		</tr>
 		<tr>

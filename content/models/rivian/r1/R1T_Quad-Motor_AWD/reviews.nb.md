@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Electric Trucks Tow 500mi Over The Rocky Mountains! Cybertruck vs Lightning vs Silverado EV vs R1T</h3>
+<p>Out of Spec Reviews: 27.03.2024</p>
+
+{{< youtube LJFbevgCsig >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Electric Pickup Truck Range Test! We Ran All Of Them To Dead</h3>
+<p>Out of Spec Reviews: 20.03.2024</p>
+
+{{< youtube nZXBRGw7jUA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2022 Rivian R1T Review // The Cybertruck That Actually Exists</h3>
 <p>Throttle House: 26.10.2022</p>
 

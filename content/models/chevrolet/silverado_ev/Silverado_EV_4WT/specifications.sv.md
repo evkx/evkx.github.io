@@ -118,7 +118,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				220 kWh
+				240 kWh
 			</td>
 		</tr>
 		<tr>

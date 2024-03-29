@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-f5ba1799
+  translation: Chevrolet Silverado EV 3WT is an all-electric Pickup Truck with a EPA range of up to 632 km (393 miles). EVKX.net has all the details.
+
 - id: frontpage-description-60c80465
   translation: Xiaomi SU7 is an all-electric sedan with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-572f8b64
   translation: Volvo EC40 Single Motor ER is an all-electric crossover with a WLTP range of up to 581 km (361 miles). EVKX.net has all the details.
-
-- id: frontpage-description-3f41452e
-  translation: Volvo EC40 Single Motor is an all-electric crossover with a WLTP range of up to 478 km (297 miles). EVKX.net has all the details.
 

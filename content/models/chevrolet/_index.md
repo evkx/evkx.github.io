@@ -30,7 +30,7 @@ Chevrolet Blazer EV is a SUV available in 2 variants.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Chevrolet Silverado EV is a pickup truck available in 1 variants.
+Chevrolet Silverado EV is a pickup truck available in 2 variants.
 </p>
 	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

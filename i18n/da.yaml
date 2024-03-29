@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-f5ba1799
+  translation: Chevrolet Silverado EV 3WT er en fuldelektrisk pickup med en EPA rækkevidde på op til 632 km (393 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-60c80465
   translation: Xiaomi SU7 er en fuldelektrisk sedan med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-572f8b64
   translation: Volvo EC40 Single Motor ER er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 581 km (361 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-3f41452e
-  translation: Volvo EC40 Single Motor er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 478 km (297 miles). EVKX.net har alle detaljerne.
 

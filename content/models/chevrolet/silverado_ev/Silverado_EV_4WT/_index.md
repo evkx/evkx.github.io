@@ -33,7 +33,7 @@ The Chevrolet Silverado EV 4WT has a maximum power of 380 KW (517 hp/510 bhp). T
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 220kWh and a net capacity of 215kWh, meaning you have a 5kWh buffer for protection. (2.3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 240kWh and a net capacity of 215kWh, meaning you have a 25kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 450 miles (724 km). The consumption is 2.1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 

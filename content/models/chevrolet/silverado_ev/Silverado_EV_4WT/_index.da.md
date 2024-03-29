@@ -33,7 +33,7 @@ Chevrolet Silverado EV 4WT har en maksimal effekt på 380 KW (517 hk/510 hk). De
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 220kWh og en nettokapacitet på 215kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (2,3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 240kWh og en nettokapacitet på 215kWh, hvilket betyder, at du har en 25kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruget er 2,1mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
