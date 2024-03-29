@@ -39,13 +39,15 @@ Batteriet har en bruttokapacitet på 101kWh och en nettokapacitet på 99kWh, vil
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 60 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 133kW. Varje laddningssession tar 23 minuter och 9 sekunder.
 
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 17kWh/100km, tar 1000km 8 timmar och 53 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 4% till 40%. Total tid som går förlorad för att ladda batteriet kommer att vara 34 minuter.
+
 ### Inbyggd laddare
 
-
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 9 timmar och 0 minuter.
 
 ### Laddningsport
 
-Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -84,7 +86,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Du kan välja mellan flera inredningsdesigner. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 
@@ -95,7 +97,11 @@ Följande funktioner är tillgängliga på **** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Red [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Grey [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Purple [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 
 
@@ -204,12 +210,12 @@ driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 493 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 105 liter.
+Lastutrymmets kapacitet är 493 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 105 liter. Bilens maximala vikt är 2750 kg, och med basvikten på 2205 kg kan du lasta maximalt 545 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-<div class="mt-3 mb-3">
+Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

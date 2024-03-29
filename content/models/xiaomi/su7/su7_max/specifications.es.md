@@ -150,6 +150,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
+				Ubicación del puerto de carga
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tipo puerto de carga Europa
 			</td>
 			<td>
@@ -270,6 +278,30 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Peso en vacío
+			</td>
+			<td>
+				2205 kg (4861 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso total máximo
+			</td>
+			<td>
+				2750 kg (6063 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Carga máxima incluido el controlador de peso
+			</td>
+			<td>
+				545 kg (1202 lbs)
+			</td>
+		</tr>
 		<tr>
 			<td>
 				Capacidad del maletero

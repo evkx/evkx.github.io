@@ -150,6 +150,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
+				Ladeportplacering
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Typ ladeport Europa
 			</td>
 			<td>
@@ -270,6 +278,30 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Køreklar vægt
+			</td>
+			<td>
+				2205 kg (4861 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal totalvægt
+			</td>
+			<td>
+				2750 kg (6063 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal belastning inklusive vægtdriver
+			</td>
+			<td>
+				545 kg (1202 lbs)
+			</td>
+		</tr>
 		<tr>
 			<td>
 				Trunkkapacitet

@@ -39,13 +39,15 @@ El [rango CLTC](../../../../guides/understandingrange/cltc/) es 800 km ( millas)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 60 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 55%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 133kW. Cada sesión de carga tardaría 23 minutos y 9 segundos.
 
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 17kWh/100 km, 1000 km tomarán 8 horas y 53 minutos. Este viaje requerirá dos sesiones de carga del 4 % al 40 %. El tiempo total perdido para cargar la batería será de 34 minutos.
+
 ### Cargador a bordo
 
-
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 9 horas y 0 minutos.
 
 ### Puerto de carga
 
-Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -84,7 +86,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Puedes elegir entre varios diseños de interiores. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 
@@ -95,7 +97,11 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Red [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Grey [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Purple [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
 
@@ -204,12 +210,12 @@ driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 493 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 105 litros (3,7 CU FT).
+La capacidad de carga en el maletero es de 493 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 105 litros (3,7 CU FT). El peso máximo del automóvil es 2750 kg (6063 lbs), y con el peso base de 2205 kg (4861 lbs), puedes cargar como máximo 545 kg (1202 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
 ### Disponibilidad y precios
 
-<div class="mt-3 mb-3">
+Este modelo sólo está disponible en China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

@@ -39,13 +39,15 @@ Batteriet har en bruttokapasitet på 101kWh og en nettokapasitet på 99kWh, noe 
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 60 minutter, mens et mer vanlig scenario på 10-80 % vil ta 30 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 133kW. Hver ladeøkt vil ta 23 minutter og 9 sekunder.
 
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 17kWh/100km, vil 1000km ta 8 timer og 53 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 4% til 40%. Totalt tapt tid for å lade opp batteriet vil være 34 minutter.
+
 ### Ombordlader
 
-
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 9 timer og 0 minutter.
 
 ### Ladeport
 
-Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -84,7 +86,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
@@ -95,7 +97,11 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Red [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Grey [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Purple [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
 
@@ -204,12 +210,12 @@ driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 493 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 105 liter.
+Lastkapasiteten i bagasjerommet er 493 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 105 liter. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2205 kg kan du maksimalt laste 545 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-<div class="mt-3 mb-3">
+Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

@@ -39,13 +39,15 @@ Batteriet har en bruttokapacitet på 101kWh og en nettokapacitet på 99kWh, hvil
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 60 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 30 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 55%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 133kW. Hver opladningssession ville tage 23 minutter og 9 sekunder.
 
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 17kWh/100 km, vil 1000 km tage 8 timer og 53 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 4 % til 40%. Den samlede tid, der går tabt for at oplade batteriet, vil være 34 minutter.
+
 ### Indbygget oplader
 
-
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 9 timer og 0 minutter.
 
 ### Ladeport
 
-Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -84,7 +86,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 
@@ -95,7 +97,11 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Red [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Grey [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Purple [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
 
@@ -204,12 +210,12 @@ driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 493 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 105 liter (3,7 CU FT).
+Lagekapaciteten i bagagerummet er 493 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 105 liter (3,7 CU FT). Bilens maksimale vægt er 2750 kg (6063 lbs), og med basisvægten på 2205 kg (4861 lbs), kan du maksimalt laste 545 kg (1202 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-<div class="mt-3 mb-3">
+Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

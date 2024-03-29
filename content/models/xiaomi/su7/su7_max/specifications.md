@@ -150,6 +150,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+				Chargeport placement
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Type chargeport Europe
 			</td>
 			<td>
@@ -270,6 +278,30 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Curb weight</a>
+			</td>
+			<td>
+				2205 kg (4861 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum total weight</a>
+			</td>
+			<td>
+				2750 kg (6063 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
+			</td>
+			<td>
+				545 kg (1202 lbs)
+			</td>
+		</tr>
 		<tr>
 			<td>
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>

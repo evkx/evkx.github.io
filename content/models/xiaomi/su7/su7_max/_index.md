@@ -39,13 +39,15 @@ The [CLTC range](../../../../guides/understandingrange/cltc/) is 800 km ( miles)
 
 The maximum DC charging speed is kW. A full charge from 0 - 100% would take 60 minutes, while a more common scenario of 10-80% would take 30 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 55%, resulting in an actual charge speed, including time loss, of 133kW. Each charge session would take 23 minutes and 9 seconds.
 
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 17kWh/100km, 1000km will take 8 hours and 53 minutes. This trip will require two charge session(s) charging from 4% to 40%. The total time lost for charging up the battery will be 34 minutes.
+
 ### Onboard charger
 
-
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 9 hours and 0 minutes.
 
 ### Charge port
 
-The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -84,7 +86,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
+You can choose between several interior designs. The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 
@@ -95,7 +97,11 @@ The following functionalities are available on the **** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type.
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Red [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Purple [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 
@@ -204,12 +210,12 @@ driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 493 liters. Under the hood, there is frunk with more storage room. This frunk is 105 liters (3.7 CU FT).
+The cargo capacity in the trunk is 493 liters. Under the hood, there is frunk with more storage room. This frunk is 105 liters (3.7 CU FT). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2205 kg (4861 lbs), you can max load 545 kg (1202 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-<div class="mt-3 mb-3">
+This model is only available in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>
