@@ -239,14 +239,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Ancho excluyendo espejos
-			</td>
-			<td>
-				1963 mm (77,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Distancia entre ejes
 			</td>
 			<td>

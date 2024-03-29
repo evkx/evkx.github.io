@@ -216,12 +216,12 @@ Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), on
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 493 liters. Under the hood, there is frunk with more storage room. This frunk is 105 liters (3.7 CU FT). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2205 kg (4861 lbs), you can max load 545 kg (1202 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 493 liters. Under the hood, there is frunk with more storage room. This frunk is 105 liters (3.7 CU FT). The maxium weight of the car is 2655 kg (5853 lbs), and with the base weight of 2205 kg (4861 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model is only available in China.<div class="mt-3 mb-3">
+This model had a world premiere on 28.12.2023, and deliveries started in March 2024. This model is only available in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

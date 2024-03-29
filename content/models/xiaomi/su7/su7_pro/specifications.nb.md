@@ -239,14 +239,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Bredde uten speil
-			</td>
-			<td>
-				1963 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Akselavstand
 			</td>
 			<td>

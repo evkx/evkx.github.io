@@ -74,7 +74,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 19 a 21 pulgadas.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero. El cierre suave es la función un estándar para las puertas laterales.
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
@@ -219,7 +219,7 @@ La capacidad de carga en el maletero es de 517 litros. Debajo del capó, hay un 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
 ### Disponibilidad y precios
 
-Este modelo sólo está disponible en China.<div class="mt-3 mb-3">
+Este modelo tuvo un estreno mundial el 28.12.2023 y las entregas comenzaron en March 2024. Este modelo sólo está disponible en China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

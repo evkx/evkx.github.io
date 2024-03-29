@@ -74,7 +74,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 9 different paint colors when ordering this model.
 Additionally, you can choose between 4 wheels with sizes from 19 to 21 inches.
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is a standard function for the side doors.
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -219,7 +219,7 @@ The cargo capacity in the trunk is 517 liters. Under the hood, there is frunk wi
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model is only available in China.<div class="mt-3 mb-3">
+This model had a world premiere on 28.12.2023, and deliveries started in March 2024. This model is only available in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

@@ -216,12 +216,12 @@ Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), åt
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 493 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 105 liter. Bilens maximala vikt är 2750 kg, och med basvikten på 2205 kg kan du lasta maximalt 545 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmets kapacitet är 493 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 105 liter. Bilens maximala vikt är 2655 kg, och med basvikten på 2205 kg kan du lasta maximalt 450 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 28.12.2023 och leveranserna startade i March 2024. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

@@ -239,14 +239,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Bredde ekskl. spejle
-			</td>
-			<td>
-				1963 mm (77,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Wheelbase
 			</td>
 			<td>

@@ -307,7 +307,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2655 kg (5853 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				545 kg (1202 lbs)
+				450 kg (992 lbs)
 			</td>
 		</tr>
 		<tr>

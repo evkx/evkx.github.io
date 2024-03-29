@@ -74,7 +74,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 4 hjul i storlek från 19 till 21 tum.
 
-Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet. 'Soft Close' är standard-funktionen för sidodörrarna.
+Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten hos den åkande. Glaset är tonat för att skydda mot värme från solen.
 
@@ -219,7 +219,7 @@ Lastutrymmets kapacitet är 517 liter. Under huven finns en frunk med mer lagrin
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris
 
-Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 28.12.2023 och leveranserna startade i March 2024. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

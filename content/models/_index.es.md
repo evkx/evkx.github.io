@@ -595,6 +595,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Ir a VOYAH descripción general del modelo EV</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="xiaomi/"><img src="https://media.evkx.net/multimedia/models/xiaomi/brandevs_st.jpg" class="img-fluid mb-2" alt="Xiaomi" ></a>
 	<h2>Xiaomi</h2>
 	<p>
 	Xiaomi tiene 1 modelos con un total de 3 variantes.

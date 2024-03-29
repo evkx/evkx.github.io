@@ -74,7 +74,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 You can choose between 9 different paint colors when ordering this model.
 Additionally, you can choose between 4 wheels with sizes from 19 to 21 inches.
 
-The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is a standard function for the side doors.
+The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -205,8 +205,8 @@ With the Xiaomi Pilot Max  level 2 system, you get the following driving automat
 
 ### Sensors & Cameras
 
-This model uses cameras, radar, LiDAR and ultrasonic sensors for the driver assist systems.
-Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), common.number.zero [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), eight [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
+This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), eight [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,12 +214,12 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), comm
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 517 liters. Under the hood, there is frunk with more storage room. This frunk is 105 liters (3.7 CU FT). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2205 kg (4861 lbs), you can max load 545 kg (1202 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 517 liters. Under the hood, there is frunk with more storage room. This frunk is 105 liters (3.7 CU FT). The maxium weight of the car is 2430 kg (5357 lbs), and with the base weight of 1980 kg (4365 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing
 
-This model is only available in China.<div class="mt-3 mb-3">
+This model had a world premiere on 28.12.2023, and deliveries started in March 2024. This model is only available in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

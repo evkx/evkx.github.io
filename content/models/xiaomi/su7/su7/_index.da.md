@@ -74,7 +74,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 4 hjul med størrelser fra 19 til 21 tommer.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet. Soft close er en standard-funktion for sidedørene.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
@@ -205,8 +205,8 @@ Med Xiaomi Pilot Max  niveau 2-systemet får du følgende køreautomatiseringsfu
 
 ### Sensorer og kameraer
 
-Denne model bruger kameraer, radar, LiDAR og ultralydssensorer til førerassistentsystemerne.
-Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), common.number.zero [LiDAR sensorer](../../../../technology/sensorsandcameras/lidar/), otte [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
+Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsystemerne.
+Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), otte [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,12 +214,12 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), com
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 517 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 105 liter (3,7 CU FT). Bilens maksimale vægt er 2750 kg (6063 lbs), og med basisvægten på 2205 kg (4861 lbs), kan du maksimalt laste 545 kg (1202 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 517 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 105 liter (3,7 CU FT). Bilens maksimale vægt er 2430 kg (5357 lbs), og med basisvægten på 1980 kg (4365 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser
 
-Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 28.12.2023, og leveringerne startede i March 2024. Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

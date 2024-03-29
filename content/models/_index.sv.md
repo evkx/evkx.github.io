@@ -595,6 +595,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="voyah/" class="btn btn-outline-primary" role="button">Gå till VOYAH modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="xiaomi/"><img src="https://media.evkx.net/multimedia/models/xiaomi/brandevs_st.jpg" class="img-fluid mb-2" alt="Xiaomi" ></a>
 	<h2>Xiaomi</h2>
 	<p>
 	Xiaomi har 1 modell(er) med totalt 3 varianter.

@@ -216,12 +216,12 @@ Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), en 
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 493 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 105 liter. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2205 kg kan du maksimalt laste 545 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 493 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 105 liter. Maksimumsvekten til bilen er 2655 kg, og med basisvekten på 2205 kg kan du maksimalt laste 450 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris
 
-Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 28.12.2023, og leveringene startet i March 2024. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

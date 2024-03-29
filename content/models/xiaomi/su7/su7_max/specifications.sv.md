@@ -307,7 +307,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2750 kg
+				2655 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				545 kg
+				450 kg
 			</td>
 		</tr>
 		<tr>

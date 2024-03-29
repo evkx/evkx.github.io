@@ -216,12 +216,12 @@ Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 493 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 105 litros (3,7 CU FT). El peso máximo del automóvil es 2750 kg (6063 lbs), y con el peso base de 2205 kg (4861 lbs), puedes cargar como máximo 545 kg (1202 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 493 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 105 litros (3,7 CU FT). El peso máximo del automóvil es 2655 kg (5853 lbs), y con el peso base de 2205 kg (4861 lbs), puedes cargar como máximo 450 kg (992 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
 ### Disponibilidad y precios
 
-Este modelo sólo está disponible en China.<div class="mt-3 mb-3">
+Este modelo tuvo un estreno mundial el 28.12.2023 y las entregas comenzaron en March 2024. Este modelo sólo está disponible en China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

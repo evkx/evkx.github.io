@@ -239,14 +239,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bredd exklusive speglar
-			</td>
-			<td>
-				1963 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Axelavstånd
 			</td>
 			<td>
