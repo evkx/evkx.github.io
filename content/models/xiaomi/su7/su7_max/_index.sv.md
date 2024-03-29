@@ -63,7 +63,7 @@ Xiaomi SU7 Max har ett fyrhjulsdriftsystem som stöds av två motorer, en på va
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 350mm.
 
-
+[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving) kombinerat med [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Adaptiv regen](../../../../technology/regen/#adaptiv-regen) är inte tillgänglig i den här modellen. Systemet stoppar bilen helt med friktionsbromsar.
 
 ## Exteriör
 
@@ -202,7 +202,7 @@ Med Xiaomi Pilot Max  nivå 2-systemet får du följande körautomatiseringsfunk
 ### Sensorer och kameror
 
 Denna modell använder kameror, radar, LiDAR och ultraljudssensorer för förarassistanssystemen.
-driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
+Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

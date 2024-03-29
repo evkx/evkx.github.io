@@ -63,7 +63,7 @@ La suspensión  tiene resortes de acero con una altura fija, pero puedes ajustar
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
 
-
+[El frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) combinado con [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. El sistema detiene el automóvil por completo mediante frenos de fricción.
 
 ## Exterior
 
@@ -202,7 +202,7 @@ Con el sistema Xiaomi Pilot Max  nivel 2, obtienes las siguientes funciones de a
 ### Sensores y cámaras
 
 Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para los sistemas de asistencia al conductor.
-driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
+Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

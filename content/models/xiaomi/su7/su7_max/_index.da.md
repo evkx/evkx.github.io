@@ -63,7 +63,7 @@ affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen,
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 350mm.
 
-
+[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving) kombineret med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Systemet stopper bilen fuldstændigt ved hjælp af friktionsbremser.
 
 ## Udvendig
 
@@ -202,7 +202,7 @@ Med Xiaomi Pilot Max  niveau 2-systemet får du følgende køreautomatiseringsfu
 ### Sensorer og kameraer
 
 Denne model bruger kameraer, radar, LiDAR og ultralydssensorer til førerassistentsystemerne.
-driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
+Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [LiDAR sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

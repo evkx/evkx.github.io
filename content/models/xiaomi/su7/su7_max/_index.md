@@ -63,7 +63,7 @@ The  suspension has steel springs with a fixed height, but you can adjust dampin
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
 
-
+[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. The system stops the car completely using friction brakes.
 
 ## Exterior
 
@@ -202,7 +202,7 @@ With the Xiaomi Pilot Max  level 2 system, you get the following driving automat
 ### Sensors & Cameras
 
 This model uses cameras, radar, LiDAR and ultrasonic sensors for the driver assist systems.
-driverassistance.CameraRadarLidarUltrasonic.FalseFalseFalseFalse
+Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 
