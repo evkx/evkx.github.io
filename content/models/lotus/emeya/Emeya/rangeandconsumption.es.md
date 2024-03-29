@@ -40,10 +40,10 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				</a>
 			</td>
 			<td>
-				535 km / 332 mi
+				610 km / 379 mi
 			</td>
 			<td>
-				19,07kWh/100km / 3,3 mi/kWh
+				16,39kWh/100km / 3,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				</a>
 			</td>
 			<td>
-				490 km / 304 mi
+				500 km / 311 mi
 			</td>
 			<td>
-				20,82 kWh/100km / 3,0 mi/kWh
+				20,0 kWh/100km / 3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 				Equipamiento básico gama WLTP con 2KW AC
 			</td>
 			<td>
-				 437km / 272 mi 
+				 483km / 300 mi 
 			</td>
 			<td>
-				-18,3%
+				-20,8%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 				Equipo superior de gama WLTP con 2KW AC
 			</td>
 			<td>
-				406 km / 252 mi
+				412 km / 256 mi
 			</td>
 			<td>
-				-17,1%
+				-17,6%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90kmh/56mph perfecto estado
 			</td>
 			<td>
-				486km / 302 mi
+				476km / 296 mi
 			</td>
 			<td>
 				21 kWh/100km / 3,0 mi/kWh
@@ -143,7 +143,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90 kmh/56 mph con calefacción de 2 KW
 			</td>
 			<td>
-				450km /273mi
+				441km /267mi
 			</td>
 			<td>
 				23,2 kWh/100km /2,7 mi/kWh 
@@ -154,7 +154,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120kmh/75mph perfecto estado
 			</td>
 			<td>
-				378 km / 235 mi
+				370 km / 230 mi
 			</td>
 			<td>
 				27 kWh/100km / 2,3 mi/kWh
@@ -165,7 +165,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120 kmh/75 mph con calefacción de 2 KW
 			</td>
 			<td>
-				356 km /221mi
+				348 km /216mi
 			</td>
 			<td>
 				28,7 kWh/100km /2,2 mi/kWh

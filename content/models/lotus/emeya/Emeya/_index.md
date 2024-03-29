@@ -1,7 +1,7 @@
 ---
 title: Lotus Emeya
 linktitle: "Emeya"
-description: "Lotus Emeya is an all-electric luxury sedan with a WLTP range of up to 535 km (333 miles). EVKX.net has all the details."
+description: "Lotus Emeya is an all-electric luxury sedan with a WLTP range of up to 610 km (379 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ We have separated our Lotus Emeya article into sections. If you want to wait to 
 
 ## Performance
 
-The Lotus Emeya has a maximum power of 675 KW (918 hp/905 bhp). The total torque is 985 nm (727 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2.78 seconds. The top speed is 256 km/h.
+The Lotus Emeya has a maximum power of 450 KW (612 hp/604 bhp). The total torque is 710 nm (524 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.2 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 108kWh and a net capacity of 102kWh, meaning you have a 6kWh buffer for protection. (5.6%).
+The battery has a gross capacity of 102kWh and a net capacity of 100kWh, meaning you have a 2kWh buffer for protection. (2.0%).
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 535 to 490 km (333-305 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.1kWh/100km for the basic version and 20.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 610 to 500 km (379-311 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.4kWh/100km for the basic version and 20.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 47 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 69%, resulting in an actual charge speed, including time loss, of 190kW. Each charge session would take 22 minutes and 55 seconds.
+The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 69%, resulting in an actual charge speed, including time loss, of 189kW. Each charge session would take 22 minutes and 36 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 14 minutes. This trip will require three charge session(s) charging from 3% to 58%. The total time lost for charging up the battery will be 55 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 27kWh/100km, 1000km will take 9 hours and 15 minutes. This trip will require three charge session(s) charging from 2% to 59%. The total time lost for charging up the battery will be 55 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 38 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 32 minutes.
 
 ### Charge port
 

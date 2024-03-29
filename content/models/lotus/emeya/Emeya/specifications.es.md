@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Lotus Emeya. Haga 
 				Potencia máxima
 			</td>
 			<td>
-				675 KW (918 hp /905 bhp)
+				450 KW (612 hp /603 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Lotus Emeya. Haga 
 				Salida de par eléctrico
 			</td>
 			<td>
-				985 nm (727 pies-libra)
+				710 nm (524 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Lotus Emeya. Haga 
 				Velocidad máxima
 			</td>
 			<td>
-				256 kph (159 mph)
+				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Lotus Emeya. Haga 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				2,78 s
+				4,2 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				535 km
+				610 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				19,1 kWh/100km
+				16,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				490 km
+				500 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				20,8 kWh/100km
+				20,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +150,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				108 kWh
+				102 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				102 kWh
+				100 kWh
 			</td>
 		</tr>
 		<tr>

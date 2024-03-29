@@ -30,7 +30,7 @@ Lotus Eletre er en luksus-SUV tilgængelig i 3 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Lotus Emeya er en luksussedan tilgængelig i 1 varianter.
+Lotus Emeya er en luksussedan tilgængelig i 2 varianter.
 </p>
 	<a href="emeya/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

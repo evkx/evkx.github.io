@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-44c8442a
+  translation: Lotus Emeya R is an all-electric luxury sedan with a WLTP range of up to 535 km (333 miles). EVKX.net has all the details.
+
 - id: frontpage-description-4ce1d945
   translation: Ford Explorer Extended Range RWD is an all-electric SUV with a WLTP range of up to 602 km (374 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b546fa9c
   translation: Peugot E-3008 is an all-electric coupe SUV with a WLTP range of up to 527 km (328 miles). EVKX.net has all the details.
-
-- id: frontpage-description-9141e2cc
-  translation: Volvo EC40 Twin Motor is an all-electric crossover with a WLTP range of up to 548 km (341 miles). EVKX.net has all the details.
 

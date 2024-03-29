@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-44c8442a
+  translation: Lotus Emeya R är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 535 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-4ce1d945
   translation: Ford Explorer Extended Range RWD är en helelektrisk SUV med en WLTP räckvidd på upp till 602 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b546fa9c
   translation: Peugot E-3008 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 527 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-9141e2cc
-  translation: Volvo EC40 Twin Motor är en helelektrisk crossover med en WLTP räckvidd på upp till 548 km. EVKX.net har alla detaljer.
 

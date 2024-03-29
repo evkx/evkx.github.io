@@ -1,7 +1,7 @@
 ---
 title: Lotus Emeya
 linktitle: "Emeya"
-description: "Lotus Emeya er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 535 km (333 miles). EVKX.net har alle detaljerne."
+description: "Lotus Emeya er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 610 km (379 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ Vi har opdelt vores Lotus Emeya artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-Lotus Emeya har en maksimal effekt på 675 KW (918 hk/905 hk). Det samlede drejningsmoment er 985 nm (727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,78 sekunder. Tophastigheden er 256 km/t.
+Lotus Emeya har en maksimal effekt på 450 KW (612 hk/604 hk). Det samlede drejningsmoment er 710 nm (524 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Tophastigheden er 250 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 108kWh og en nettokapacitet på 102kWh, hvilket betyder, at du har en 6kWh buffer til beskyttelse. (5,6%).
+Batteriet har en bruttokapacitet på 102kWh og en nettokapacitet på 100kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2,0%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 535 til 490 km (333-305 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19,1kWh/100 km for basisversionen og 20,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 610 til 500 km (379-311 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,4kWh/100 km for basisversionen og 20,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 47 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 190kW. Hver opladningssession ville tage 22 minutter og 55 sekunder.
+Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 189kW. Hver opladningssession ville tage 22 minutter og 36 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 27kWh/100 km, vil 1000 km tage 9 timer og 14 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 3 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 55 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 27kWh/100 km, vil 1000 km tage 9 timer og 15 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 2 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 55 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 4 timer og 38 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 4 timer og 32 minutter.
 
 ### Ladeport
 

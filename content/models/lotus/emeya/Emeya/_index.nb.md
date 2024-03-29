@@ -1,7 +1,7 @@
 ---
 title: Lotus Emeya
 linktitle: "Emeya"
-description: "Lotus Emeya er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 535 km. EVKX.net har alle detaljene."
+description: "Lotus Emeya er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ Vi har delt vår beskrivelse av Lotus Emeya i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-Lotus Emeya har en maksimal effekt på 675 KW (918hk). Totalt dreiemoment er 985 nm. Den utfører sprinten 0-100 km/t på 2,78 sekunder. Topphastigheten er 256 km/t.
+Lotus Emeya har en maksimal effekt på 450 KW (612hk). Totalt dreiemoment er 710 nm. Den utfører sprinten 0-100 km/t på 4,2 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 108kWh og en nettokapasitet på 102kWh, noe som betyr at du har et 6kWh-buffer for beskyttelse. (5,6%).
+Batteriet har en bruttokapasitet på 102kWh og en nettokapasitet på 100kWh, noe som betyr at du har et 2kWh-buffer for beskyttelse. (2,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 535 til 490 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 19,1kWh/100 km for basisversjonen og 20,8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 610 til 500 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16,4kWh/100 km for basisversjonen og 20,0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 47 minutter, mens et mer vanlig scenario på 10-80 % vil ta 19 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 69%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 190kW. Hver ladeøkt vil ta 22 minutter og 55 sekunder.
+Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 69%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 189kW. Hver ladeøkt vil ta 22 minutter og 36 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 27kWh/100km, vil 1000km ta 9 timer og 14 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 3% til 58%. Totalt tapt tid for å lade opp batteriet vil være 55 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 27kWh/100km, vil 1000km ta 9 timer og 15 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 2% til 59%. Totalt tapt tid for å lade opp batteriet vil være 55 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 38 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 32 minutter.
 
 ### Ladeport
 

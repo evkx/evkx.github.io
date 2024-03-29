@@ -1,7 +1,7 @@
 ---
 title: Lotus Emeya
 linktitle: "Emeya"
-description: "Lotus Emeya är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 535 km. EVKX.net har alla detaljer."
+description: "Lotus Emeya är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 610 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ Vi har delat in vår beskrivning av Lotus Emeya i avsnitt. Om du vill vänta med
 
 ## Prestanda
 
-Lotus Emeya har en maximal effekt på 675 KW (918hk). Totalt vridmoment är 985 Nm. Den gör sprinten 0-100 km/h på 2,78 sekunder. Topphastigheten är 256 km/h.
+Lotus Emeya har en maximal effekt på 450 KW (612hk). Totalt vridmoment är 710 Nm. Den gör sprinten 0-100 km/h på 4,2 sekunder. Topphastigheten är 250 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 108kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,6%).
+Batteriet har en bruttokapacitet på 102kWh och en nettokapacitet på 100kWh, vilket innebär att du har en 2kWh buffert för skydd. (2,0%).
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 535 till 490 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19,1kWh/100 km för basversionen och 20,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 610 till 500 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16,4kWh/100 km för basversionen och 20,0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 47 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 69%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 190kW. Varje laddningssession tar 22 minuter och 55 sekunder.
+Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 46 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 69%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 189kW. Varje laddningssession tar 22 minuter och 36 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 27kWh/100km, tar 1000km 9 timmar och 14 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 3% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 55 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 27kWh/100km, tar 1000km 9 timmar och 15 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 2% till 59%. Total tid som går förlorad för att ladda batteriet kommer att vara 55 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 22KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 4 timmar och 38 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 22KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 4 timmar och 32 minuter.
 
 ### Laddningsport
 

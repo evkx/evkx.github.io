@@ -391,7 +391,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="lotus/"><img src="https://media.evkx.net/multimedia/models/lotus/brandevs_st.jpg" class="img-fluid mb-2" alt="Lotus" ></a>
 	<h2>Lotus</h2>
 	<p>
-	Lotus tiene 2 modelos con un total de 4 variantes.
+	Lotus tiene 2 modelos con un total de 5 variantes.
 	</p>
 	<a href="lotus/" class="btn btn-outline-primary" role="button">Ir a Lotus descripción general del modelo EV</a>
 </div>

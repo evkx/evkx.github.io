@@ -1,7 +1,7 @@
 ---
 title: Lotus Emeya
 linktitle: "Emeya"
-description: "Lotus Emeya es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 535 km (333 millas). EVKX.net tiene todos los detalles."
+description: "Lotus Emeya es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 610 km (379 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,21 +29,21 @@ Hemos separado nuestro artículo Lotus Emeya en secciones. Si desea esperar para
 
 ## Rendimiento
 
-El Lotus Emeya tiene una potencia máxima de 675 KW (918 hp/905 bhp). El par total es 985 nm (727 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,78 segundos. La velocidad máxima es 256 km/h.
+El Lotus Emeya tiene una potencia máxima de 450 KW (612 hp/604 bhp). El par total es 710 nm (524 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,2 segundos. La velocidad máxima es 250 km/h.
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 108kWh y una capacidad neta de 102kWh, lo que significa que tienes un buffer de 6kWh para protección. (5,6%).
+La batería tiene una capacidad bruta de 102kWh y una capacidad neta de 100kWh, lo que significa que tienes un buffer de 2kWh para protección. (2,0%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 535 a 490 km (333-305 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 19,1kWh/100 km para la versión básica y 20,8kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 610 a 500 km (379-311 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 16,4kWh/100 km para la versión básica y 20,0kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 350kW. Una carga completa del 0 al 100 % tardaría 47 minutos, mientras que un escenario más común del 10 al 80 % tardaría 19 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 69%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 190kW. Cada sesión de carga tardaría 22 minutos y 55 segundos.
+La velocidad máxima de carga de CC es 350kW. Una carga completa del 0 al 100 % tardaría 46 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 69%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 189kW. Cada sesión de carga tardaría 22 minutos y 36 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 27kWh/100 km, 1000 km tomarán 9 horas y 14 minutos. Este viaje requerirá tres sesiones de carga del 3 % al 58 %. El tiempo total perdido para cargar la batería será de 55 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 27kWh/100 km, 1000 km tomarán 9 horas y 15 minutos. Este viaje requerirá tres sesiones de carga del 2 % al 59 %. El tiempo total perdido para cargar la batería será de 55 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 38 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 32 minutos.
 
 ### Puerto de carga
 
