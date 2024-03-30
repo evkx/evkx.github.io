@@ -38,7 +38,7 @@ Nio ES8 propose deux options de batterie avec des spécifications différentes. 
 
 La batterie a une capacité brute de 100kWh et une capacité nette de 90kWh, ce qui signifie que vous disposez d'une réserve de 10kWh pour la protection. (10,0%).
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 460 km (286 mi). La consommation est de 19,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 460 km (286 mi). La consommation est de 19,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 126kW. Une charge complète de 0 à 100 % prendrait 83 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 43 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 72 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 79kW. Chaque session de charge prendrait 44 minutes et 24 secondes.
 
@@ -47,7 +47,7 @@ Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et
 
 La batterie a une capacité brute de 75kWh et une capacité nette de 70,5kWh, ce qui signifie que vous disposez d'une réserve de 4,5kWh pour la protection. (6,0%).
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 350 km (218 mi). La consommation est de 19,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 350 km (218 mi). La consommation est de 19,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 140kW. Une charge complète de 0 à 100 % prendrait 65 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 74 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 77kW. Chaque session de charge prendrait 37 minutes et 57 secondes.
 
@@ -59,7 +59,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge est sur le [côté avant droit](../../../../technology/chargement/connectors/#front-side). Cet emplacement facilite l'utilisation des bornes de recharge où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des bornes de recharge où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 ### Échange de batterie
 
 Ce modèle prend en charge l'échange de batterie. L'échange de batterie signifie que vous pouvez vous rendre à une station d'échange de batterie unique et faire remplacer la batterie par une nouvelle batterie avec 90 % de SOC. L'échange de batterie prend 7 minutes.
@@ -70,7 +70,7 @@ Ce modèle prend en charge l'échange de batterie. L'échange de batterie signif
 
 ## Transmission
 
-Nio ES8 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent] (../../../../technology/motors/pmsm/) sur l'essieu arrière.
+Nio ES8 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 111 mm et la garde au sol maximale est de 161 mm.
 

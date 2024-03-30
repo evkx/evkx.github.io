@@ -38,7 +38,7 @@ Tesla Model Y Standard Range propose trois options de batterie avec des spécifi
 
 La batterie a une capacité brute de 60kWh et une capacité nette de 55kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (8,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 52 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 47 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 89kW. Chaque session de charge prendrait 17 minutes et 30 secondes.
 
@@ -47,7 +47,7 @@ Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et
 
 La batterie a une capacité brute de 60kWh et une capacité nette de 55kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (8,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 37 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 63 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 113kW. Chaque session de charge prendrait 18 minutes et 28 secondes.
 
@@ -56,7 +56,7 @@ Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et
 
 La batterie a une capacité brute de 70kWh et une capacité nette de 68,5kWh, ce qui signifie que vous disposez d'une réserve de 1,5kWh pour la protection. (2,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 36 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 82kW. Chaque session de charge prendrait 18 minutes et 60 secondes.
 
@@ -68,7 +68,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/chargement/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/chargement/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/charging/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 

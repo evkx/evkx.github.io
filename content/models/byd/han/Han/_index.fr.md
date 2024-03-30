@@ -35,7 +35,7 @@ Le BYD Han a une puissance maximale de 380 KW (517 ch/510 ch). Le couple total e
 
 La batterie a une capacité brute de 85,4kWh et une capacité nette de 83kWh, ce qui signifie que vous disposez d'une réserve de 2,4kWh pour la protection. (2,8%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 521 km (324 mi). La consommation est de 15,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 521 km (324 mi). La consommation est de 15,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 120kW. Une charge complète de 0 à 100 % prendrait 65 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 59 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 93kW. Chaque session de charge prendrait 30 minutes et 36 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/chargement/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}

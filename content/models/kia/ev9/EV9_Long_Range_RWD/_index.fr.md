@@ -35,7 +35,7 @@ Le Kia EV9 Long Range RWD a une puissance maximale de 150 KW (204 ch/201 ch). Le
 
 La batterie a une capacité brute de 99,8kWh et une capacité nette de 98kWh, ce qui signifie que vous disposez d'une réserve de 1,8kWh pour la protection. (1,8%).
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 563 km (350 mi). La consommation est de 17,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 563 km (350 mi). La consommation est de 17,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 50 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 21 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 71 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 161kW. Chaque session de charge prendrait 26 minutes et 38 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/chargement/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 

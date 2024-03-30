@@ -35,7 +35,7 @@ Le Aion Hyper GT 710 Supercharged a une puissance maximale de 250 KW (340 ch/335
 
 La batterie a une capacité brute de 80,1kWh et une capacité nette de 77kWh, ce qui signifie que vous disposez d'une réserve de 3,1kWh pour la protection. (3,9%).
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 710 km ( miles). La consommation est de 10,8kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 710 km ( miles). La consommation est de 10,8kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 38 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 20 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 152kW. Chaque session de charge prendrait 16 minutes et 50 secondes.
 
@@ -47,7 +47,7 @@ Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et
 
 ### Port de recharge
 
-Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -35,7 +35,7 @@ Le BMW i4 eDrive35 a une puissance maximale de 250 KW (340 ch/335 ch). Le couple
 
 La batterie a une capacité brute de 70,2kWh et une capacité nette de 66kWh, ce qui signifie que vous disposez d'une réserve de 4,2kWh pour la protection. (6,0%).
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 490 à 406 km (305-252 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 13,5kWh/100km pour la version de base et 16,3kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 490 à 406 km (305-252 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 13,5kWh/100km pour la version de base et 16,3kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 46 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 24 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 51 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 111kW. Chaque session de charge prendrait 17 minutes et 4 secondes.
 
@@ -51,7 +51,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/chargement/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -71,7 +71,7 @@ La direction dynamique est une fonctionnalité un standard sur le BMW i4 eDrive3
 
 
 
-[Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale] (../../../../technology/regen/#one-pedal-driving). Vous pouvez choisir entre deux modes d'arrêt pour la conduite avec une seule pédale. Le mode Hold arrête complètement la voiture à l'aide des freins à friction, et le mode roll fait rouler le véhicule jusqu'à ce qu'il s'arrête tout seul.
+[Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving). Vous pouvez choisir entre deux modes d'arrêt pour la conduite avec une seule pédale. Le mode Hold arrête complètement la voiture à l'aide des freins à friction, et le mode roll fait rouler le véhicule jusqu'à ce qu'il s'arrête tout seul.
 
 ## Extérieur
 

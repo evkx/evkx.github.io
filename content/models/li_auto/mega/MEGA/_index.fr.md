@@ -35,7 +35,7 @@ Le Li Auto MEGA a une puissance maximale de 400 KW (544 ch/536 ch). Le couple to
 
 La batterie a une capacité brute de 102,7kWh et une capacité nette de 100kWh, ce qui signifie que vous disposez d'une réserve de 2,7kWh pour la protection. (2,6%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 710 km ( miles). La consommation est de 14,1kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 710 km ( miles). La consommation est de 14,1kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 520kW. Une charge complète de 0 à 100 % prendrait 22 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 11 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 80 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 283kW. Chaque session de charge prendrait 17 minutes et 44 secondes.
 
@@ -51,7 +51,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/chargement/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
@@ -168,7 +168,7 @@ Vous disposez d'une recharge sans fil pour votre téléphone.
 
 ## Interface utilisateur et contrôle
 
-Le Li Auto MEGA a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement] (../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. Pour le passager, il y a un écran d'infodivertissement. L'écran touch au centre du tableau de bord mesure 15,7 pouces. L'écran touch devant le passager sur le tableau de bord mesure 15,7 pouces. Pour les passagers arrière, il y a un écran d'infodivertissement dans le toit derrière les sièges de la première rangée.
+Le Li Auto MEGA a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. Pour le passager, il y a un écran d'infodivertissement. L'écran touch au centre du tableau de bord mesure 15,7 pouces. L'écran touch devant le passager sur le tableau de bord mesure 15,7 pouces. Pour les passagers arrière, il y a un écran d'infodivertissement dans le toit derrière les sièges de la première rangée.
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

@@ -35,7 +35,7 @@ Le Tesla Model X a une puissance maximale de 493 KW (670 ch/661 ch). Le couple t
 
 La batterie a une capacité brute de 100kWh et une capacité nette de 96kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (4,0%).
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 543 à 528 km (338-328 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 17,7kWh/100km pour la version de base et 18,2kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 543 à 528 km (338-328 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 17,7kWh/100km pour la version de base et 18,2kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 80 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 47 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 143kW. Chaque session de charge prendrait 16 minutes et 9 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/chargement/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/chargement/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/charging/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -55,7 +55,7 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 ## Transmission
 
-Tesla Model X dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent] (../../../../technology/motors/pmsm/) sur l'essieu arrière.
+Tesla Model X dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
 La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 117 mm et la garde au sol maximale est de 158 mm.
 

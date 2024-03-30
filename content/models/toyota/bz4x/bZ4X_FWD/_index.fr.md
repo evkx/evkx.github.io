@@ -35,7 +35,7 @@ Le Toyota bZ4X FWD a une puissance maximale de 160 KW (218 ch/215 ch). Le couple
 
 La batterie a une capacité brute de 71,4kWh et une capacité nette de 58kWh, ce qui signifie que vous disposez d'une réserve de 13,4kWh pour la protection. (18,8%).
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 516 à 442 km (321-275 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 11,2kWh/100km pour la version de base et 13,1kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 516 à 442 km (321-275 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 11,2kWh/100km pour la version de base et 13,1kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 147kW. Une charge complète de 0 à 100 % prendrait 74 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 50 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 78kW. Chaque session de charge prendrait 21 minutes et 27 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard p
 
 ### Port de recharge
 
-L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/chargement/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 

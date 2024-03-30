@@ -35,7 +35,7 @@ Avec overboost, le Genesis Electrified GV70 a une puissance maximale de 360 KW (
 
 La batterie a une capacité brute de 77,4kWh et une capacité nette de 74kWh, ce qui signifie que vous disposez d'une réserve de 3,4kWh pour la protection. (4,4%).
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 470 km (292 mi). La consommation est de 15,7kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 470 km (292 mi). La consommation est de 15,7kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 38 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 16 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 152kW. Chaque session de charge prendrait 22 minutes et 59 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/chargement/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -63,7 +63,7 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 
 
-[Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale] (../../../../technology/regen/#one-pedal-driving). Vous pouvez choisir entre deux modes d'arrêt pour la conduite avec une seule pédale. Le mode Hold arrête complètement la voiture à l'aide des freins à friction, et le mode roll fait rouler le véhicule jusqu'à ce qu'il s'arrête tout seul. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
+[Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving). Vous pouvez choisir entre deux modes d'arrêt pour la conduite avec une seule pédale. Le mode Hold arrête complètement la voiture à l'aide des freins à friction, et le mode roll fait rouler le véhicule jusqu'à ce qu'il s'arrête tout seul. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
 
 ## Extérieur
 

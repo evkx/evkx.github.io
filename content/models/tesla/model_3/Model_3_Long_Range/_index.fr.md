@@ -35,7 +35,7 @@ Le Tesla Model 3 Long Range a une puissance maximale de 324 KW (441 ch/435 ch). 
 
 La batterie a une capacité brute de 82kWh et une capacité nette de 75kWh, ce qui signifie que vous disposez d'une réserve de 7kWh pour la protection. (8,5%).
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 629 km (391 mi). La consommation est de 11,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 629 km (391 mi). La consommation est de 11,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 68 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 119kW. Chaque session de charge prendrait 14 minutes et 23 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/chargement/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/chargement/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/charging/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -55,7 +55,7 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 ## Transmission
 
-Tesla Model 3 Long Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent] (../../../../technology/motors/pmsm/) sur l'essieu arrière.
+Tesla Model 3 Long Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
 La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 133 mm.
 

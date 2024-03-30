@@ -112,7 +112,7 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 
 ### Estimations de l'autonomie réelle
 
-Le tableau ci-dessous montre quelques exemples réels estimés en parfait état et dans des conditions nécessitant la climatisation pour chauffer ou refroidir les véhicules. Consultez notre [guide de gamme] (../../../../../guides/understandingrange/) pour voir comment la portée est affectée dans le monde réel.
+Le tableau ci-dessous montre quelques exemples réels estimés en parfait état et dans des conditions nécessitant la climatisation pour chauffer ou refroidir les véhicules. Consultez notre [guide de gamme](../../../../../guides/understandingrange/) pour voir comment la portée est affectée dans le monde réel.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -298,7 +298,7 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 
 ### Estimations de l'autonomie réelle
 
-Le tableau ci-dessous montre quelques exemples réels estimés en parfait état et dans des conditions nécessitant la climatisation pour chauffer ou refroidir les véhicules. Consultez notre [guide de gamme] (../../../../../guides/understandingrange/) pour voir comment la portée est affectée dans le monde réel.
+Le tableau ci-dessous montre quelques exemples réels estimés en parfait état et dans des conditions nécessitant la climatisation pour chauffer ou refroidir les véhicules. Consultez notre [guide de gamme](../../../../../guides/understandingrange/) pour voir comment la portée est affectée dans le monde réel.
 
 <div class="table-responsive">
 <table class="table table-striped border">

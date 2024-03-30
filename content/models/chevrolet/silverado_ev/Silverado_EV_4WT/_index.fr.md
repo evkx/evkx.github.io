@@ -35,7 +35,7 @@ Le Chevrolet Silverado EV 4WT a une puissance maximale de 380 KW (517 ch/510 ch)
 
 La batterie a une capacité brute de 240kWh et une capacité nette de 215kWh, ce qui signifie que vous disposez d'une réserve de 25kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 450 miles (724 km). La consommation est de 2,1mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage EPA](../../../../guides/understandingrange/epa/) est de 450 miles (724 km). La consommation est de 2,1mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 140 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 49 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 52 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 245kW. Chaque session de charge prendrait 27 minutes et 51 secondes.
 
@@ -51,7 +51,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/chargement/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 

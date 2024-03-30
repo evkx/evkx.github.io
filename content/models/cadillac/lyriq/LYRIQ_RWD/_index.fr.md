@@ -35,7 +35,7 @@ Le Cadillac LYRIQ RWD a une puissance maximale de 255 KW (347 ch/342 ch). Le cou
 
 La batterie a une capacité brute de 110kWh et une capacité nette de 102kWh, ce qui signifie que vous disposez d'une réserve de 8kWh pour la protection. (7,3%).
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 312 miles (502 km). La consommation est de 3,1mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage EPA](../../../../guides/understandingrange/epa/) est de 312 miles (502 km). La consommation est de 3,1mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 176 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 120kW. Chaque session de charge prendrait 29 minutes et 59 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard p
 
 ### Port de recharge
 
-L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/chargement/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 

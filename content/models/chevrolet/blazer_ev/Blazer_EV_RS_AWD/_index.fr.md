@@ -35,7 +35,7 @@ Le Chevrolet Blazer EV RS AWD a une puissance maximale de 214 KW (291 ch/287 ch)
 
 La batterie a une capacité brute de 89kWh et une capacité nette de 85kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (4,5%).
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 279 miles (449 km). La consommation est de 3,3mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [plage EPA](../../../../guides/understandingrange/epa/) est de 279 miles (449 km). La consommation est de 3,3mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 190kW. Une charge complète de 0 à 100 % prendrait 147 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 26 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 68 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 116kW. Chaque session de charge prendrait 27 minutes et 43 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/chargement/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 

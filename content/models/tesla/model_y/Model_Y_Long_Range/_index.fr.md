@@ -35,7 +35,7 @@ Le Tesla Model Y Long Range a une puissance maximale de 324 KW (441 ch/435 ch). 
 
 La batterie a une capacité brute de 82kWh et une capacité nette de 79kWh, ce qui signifie que vous disposez d'une réserve de 3kWh pour la protection. (3,7%).
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 542 à 533 km (337-331 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,6kWh/100km pour la version de base et 14,8kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 542 à 533 km (337-331 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,6kWh/100km pour la version de base et 14,8kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 65 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 33 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 111kW. Chaque session de charge prendrait 17 minutes et 8 secondes.
 
@@ -47,7 +47,7 @@ Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en 
 
 ### Port de recharge
 
-L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/chargement/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/chargement/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/charging/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -55,7 +55,7 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 ## Transmission
 
-Tesla Model Y Long Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent] (../../../../technology/motors/pmsm/) sur l'essieu arrière.
+Tesla Model Y Long Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 167 mm.
 
