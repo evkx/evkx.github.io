@@ -1,0 +1,216 @@
+---
+title: Volvo EX30 Twin Motor Performance
+linktitle: "EX30 Twin Motor Performance"
+description: "Volvo EX30 Twin Motor Performance est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 460 km (286 miles). EVKX.net a tous les détails."
+weight: 10
+hidden: true
+shownavtabs: true
+navicon: bi-car-front
+---
+<!-- markdownlint-disable MD033 -->
+
+
+
+{{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
+
+Nous avons séparé notre article Volvo EX30 Twin Motor Performance en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
+
+- [Performances](#performance)
+- [Batterie, autonomie et charge](#battery-range-and-chargement)
+- [Transmission (suspension, freins, direction)](#drivetrain)
+- [Extérieur (couleurs de peinture, roues ++)](#exterior)
+- [Intérieur (sièges++)](#interior)
+- [Interface utilisateur et contrôle](#user-interface-and-control)
+- [Infodivertissement](#infotainment)
+- [Lumières](#lights)
+- [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
+- [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
+
+
+## Performances
+
+Le Volvo EX30 Twin Motor Performance a une puissance maximale de 315 KW (428 ch/422 ch). Le couple total est de 543 nm (401 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,6 secondes. La vitesse maximale est de 180 km/h.
+
+## Batterie, autonomie et charge
+
+La batterie a une capacité brute de 69kWh et une capacité nette de 64kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (7,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 460 km (286 mi). La consommation est de 13,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation] (autonomie et consommation/) de ce modèle.
+
+La vitesse de charge DC maximale est de 153kW. Une charge complète de 0 à 100 % prendrait 82 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 90kW. Chaque session de charge prendrait 21 minutes et 58 secondes.
+
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 28kWh/100 km, 1 000 km prendront 10 heures et 46 minutes. Ce trajet nécessitera sept sessions de charge de 5 % à 54 %. Le temps total perdu pour charger la batterie sera de 147 minutes.
+
+### Chargeur embarqué
+
+Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 5 heures et 49 minutes.
+
+### Port de recharge
+
+L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/chargement/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors /#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/chargement/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Transmission
+
+Volvo EX30 Twin Motor Performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
+
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 175 mm.
+
+### Freins
+
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 333 mm.
+
+[Freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual -régénération-à l'aide de la pédale de frein) pour régénérer. Le système arrête complètement la voiture à l'aide des freins à friction.
+
+## Extérieur
+
+Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 18 à 20 pouces.
+
+La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
+
+Vous pouvez choisir entre deux types de toits sur ce modèle. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.
+
+
+{{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Intérieur
+
+Vous pouvez choisir entre plusieurs aménagements intérieurs. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+
+### Sièges de première rangée
+
+Un seul type de siège avant est disponible dans le Volvo EX30 Twin Motor Performance.
+
+Les fonctionnalités suivantes sont disponibles sur le siège ****.
+
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+
+Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+- White [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
+- Grey [revêtement en laine](../../../../technology/seats/materials/#wool)
+- Brown [revêtement en laine/similicuir](../../../../technology/seats/materials/#wool)
+- Blue [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
+
+
+
+### Siège de deuxième rangée
+
+
+
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+
+
+{{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
+
+
+Il n'y a qu'un seul type de volant disponible.
+
+## Système climatique
+
+Vous pouvez choisir parmi deux systèmes climatiques différents. Le système climatique  ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture. Le système climatique  prend en charge différentes températures dans deux zones pour le conducteur et le passager. Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
+
+## Confort
+
+Volvo EX30 Twin Motor Performance dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+
+L'entrée sans clé permet d'accéder à la voiture sans avoir besoin de trouver la clé. Tant que vous l'apportez avec vous, les portes s'ouvrent.
+
+Keyless go permet de démarrer la voiture sans utiliser la clé.
+
+Vous disposez d'une recharge sans fil pour votre téléphone.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Interface utilisateur et contrôle
+
+Le Volvo EX30 Twin Motor Performance a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. L'écran touch au centre du tableau de bord mesure 12,3 pouces.
+Le modèle n'a pas d'affichage tête haute.
+
+
+{{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/screens_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2776"  >}}
+
+
+## Infodivertissement
+
+Vous pouvez choisir entre deux systèmes audio sur le Volvo EX30 Twin Motor Performance. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
+
+De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+Le modèle dispose de 4 connexions USB-C en standard.
+## Lumières
+
+Vous pouvez choisir entre deux types de phares pour le Volvo EX30 Twin Motor Performance. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+
+
+{{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/headlights_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
+
+## Systèmes avancés d'aide à la conduite
+
+Le Volvo EX30 Twin Motor Performance dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
+[**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+### Systèmes de sécurité
+
+
+
+Le Volvo EX30 Twin Motor Performance dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme un standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+
+Le Volvo EX30 Twin Motor Performance dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme un standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+
+Le Volvo EX30 Twin Motor Performance dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
+
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) est un un standard système d'aide à la conduite qui utilise des capteurs pour détecter l'approche véhicules par le côté lors de la marche arrière d'une place de stationnement ou d'une allée.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un un standard système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
+
+Le Volvo EX30 Twin Motor Performance dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un un standard système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
+
+### Automatisation de la conduite
+
+
+
+Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
+- [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/) : maintient la voiture dans votre voie de circulation et ralentit si nécessaire dans la circulation. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
+- [**Changement de voie automatique**](../../../../technology/driverassistance/automatedlanechange/)
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Capacité de chargement et capacité de remorquage
+
+La capacité de chargement dans le coffre est de 318 litres. Avec la banquette arrière rabattue, elle est de 904 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 7 litres (0,2 CU FT). Le poids maximum de la voiture est de 2338 kg (5154 lbs), et avec le poids de base de 1869 kg (4120 lbs), vous pouvez charger au maximum 469 kg (1034 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+
+Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/trunk_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2251"  >}}
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Volvo EX30 </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Plage <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

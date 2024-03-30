@@ -1,0 +1,159 @@
+- id: menu-technology
+  translation: Technologie
+
+- id: menu-guides
+  translation: Guides
+
+- id: menu-search
+  translation: Recherche EV
+
+- id: menu-brands
+  translation: Marques et modèles
+
+- id: language
+  translation: Langue
+
+- id: common-section-search-title
+  translation: Recherche EV
+
+- id: common-section-search-description
+  translation: EVKX.net possède la base de données EV la plus complète. Recherchez et filtrez sur de nombreuses fonctionnalités et spécifications.
+
+- id: common-section-search-link
+  translation: Aller à la recherche EV
+
+- id: common-section-mostsold-world-title
+  translation: VE les plus vendus dans le monde
+
+- id: common-section-mostsold-world-description
+  translation: Ci-dessous, vous trouverez les 10 modèles de véhicules électriques les plus vendus au monde. Cliquez sur le nom pour plus d'informations.
+
+- id: common-section-technology-title
+  translation: Apprendre la technologie EV
+
+- id: common-section-technology-description
+  translation: EVKX.net propose la collection la plus complète d'articles approfondis sur la technologie EV.
+
+- id: common-section-technology-gotosection
+  translation: Voir tous les articles de notre section technologie.
+
+- id: common-section-technology-section-battery
+  translation: Batterie
+
+- id: common-section-technology-section-adas
+  translation: Systèmes avancés d'aide à la conduite
+
+- id: common-section-technology-section-motors
+  translation: Moteurs électriques
+
+- id: common-section-technology-section-suspension
+  translation: Suspension
+
+- id: common-section-technology-section-brakes
+  translation: Freins
+
+- id: common-section-technology-section-lights
+  translation: Lumières
+
+- id: common-section-technology-section-regen
+  translation: Freinage régénératif
+
+- id: common-section-technology-section-seats
+  translation: Sièges
+
+- id: common-section-technology-section-sensors
+  translation: Capteurs et caméras
+
+- id: common-section-technology-section-ui
+  translation: Interface utilisateur
+
+- id: common-section-guides-title
+  translation: Guides
+
+- id: common-section-guides-description
+  translation: Ci-dessous, vous trouverez différents guides pour posséder un VE et pour utiliser ce site.
+
+- id: common-section-guides-gotosection
+  translation: Voir tous nos guides.
+
+- id: common-section-guides-section-search
+  translation: Comment utiliser EV Search
+
+- id: common-section-guides-section-preservebattery
+  translation: Préserver la batterie
+
+- id: common-section-guides-section-preservebattery-description
+  translation: Dans ce guide, nous expliquons ce que vous pouvez faire pour que la batterie dure le plus longtemps possible.
+
+- id: common-section-guides-section-understandingrange
+  translation: Comprendre la plage
+
+- id: common-section-guides-section-understandingrange-description
+  translation: Pour beaucoup, l’autonomie du véhicule électrique est l’aspect le plus essentiel. Découvrez quels aspects du VE affectent l’autonomie nominale et comprenez ce qui l’affecte dans le monde réel.
+
+- id: common-section-guides-section-vehicletypes
+  translation: Types de véhicules
+
+- id: common-section-guides-section-reviewers
+  translation: Réviseurs EV
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: Comment vérifier l'état de la batterie
+
+- id: common-section-models-title
+  translation: Marques et modèles
+
+- id: common-section-models-description
+  translation: Veuillez lire ci-dessous les différentes marques, leurs stratégies EV et les informations les plus complètes sur tous les modèles.
+
+- id: common-section-latest-reviews
+  translation: Dernières critiques en ligne
+
+- id: frontpage-description-a2b5a5a9
+  translation: Ford Explorer Standard Range RWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 380 km (236 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-1336d2cc
+  translation: Lotus Emeya S est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 610 km (379 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-44c8442a
+  translation: Lotus Emeya R est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 535 km (333 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-4ce1d945
+  translation: Ford Explorer Extended Range RWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 602 km (374 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-f5ba1799
+  translation: Chevrolet Silverado EV 3WT est une camionnette entièrement électrique avec une autonomie de EPA allant jusqu'à 632 km (393 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-60c80465
+  translation: Xiaomi SU7 est une berline entièrement électrique avec une autonomie de CLTC allant jusqu'à 700 km (435 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-b5e30fbe
+  translation: Xiaomi SU7 Pro est une berline entièrement électrique avec une autonomie de CLTC allant jusqu'à 830 km (516 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-3a59be3c
+  translation: Xiaomi SU7 Max est une berline entièrement électrique avec une autonomie de CLTC allant jusqu'à 800 km (497 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-ece33e1d
+  translation: Ford Explorer Extended Range AWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 566 km (352 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-9c82a121
+  translation: Volkswagen ID. Buzz GTX LWB est un monospace entièrement électrique avec une autonomie de WLTP jusqu'à 450 km (280 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-8308a949
+  translation: Audi SQ6 e-tron est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 598 km (372 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-e10ab496
+  translation: Audi Q6 e-tron quattro est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 625 km (388 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-72c1c819
+  translation: Volkswagen ID.7 GTX Tourer est un break tout électrique avec une autonomie de WLTP allant jusqu'à 685 km (426 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-4507a85e
+  translation: Porsche Taycan Turbo GT est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 555 km (345 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-20589934
+  translation: Porsche Taycan Turbo S Sport Turismo est un break de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 604 km (375 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-9e00b193
+  translation: Li Auto MEGA est un monospace premium entièrement électrique avec une autonomie de CLTC jusqu'à 710 km (441 miles). EVKX.net a tous les détails.
+

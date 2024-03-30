@@ -1,0 +1,116 @@
+# Menu
+- id: menu-technology
+  translation: Technologie
+
+- id: menu-guides
+  translation: Guides
+
+- id: menu-search
+  translation: Recherche EV
+
+- id: menu-brands
+  translation: Marques et modèles
+
+- id: language
+  translation: Langue
+
+# Common Sections
+- id: common-section-search-title
+  translation: Recherche EV
+
+- id: common-section-search-description
+  translation: EVKX.net possède la base de données EV la plus complète. Recherchez et filtrez sur de nombreuses fonctionnalités et spécifications.
+
+- id: common-section-search-link
+  translation: Aller à la recherche EV
+
+- id: common-section-mostsold-world-title
+  translation: VE les plus vendus dans le monde
+
+- id: common-section-mostsold-world-description
+  translation: Ci-dessous, vous trouverez les 10 modèles de véhicules électriques les plus vendus au monde. Cliquez sur le nom pour plus d'informations.
+
+- id: common-section-technology-title
+  translation: Apprendre la technologie EV
+
+- id: common-section-technology-description
+  translation: EVKX.net propose la collection la plus complète d'articles approfondis sur la technologie EV.
+
+- id: common-section-technology-gotosection
+  translation: Voir tous les articles de notre section technologie.
+
+- id: common-section-technology-section-battery
+  translation: Batterie
+
+- id: common-section-technology-section-adas
+  translation: Systèmes avancés d'aide à la conduite
+
+- id: common-section-technology-section-motors
+  translation: Moteurs électriques
+
+- id: common-section-technology-section-suspension
+  translation: Suspension
+
+- id: common-section-technology-section-brakes
+  translation: Freins
+
+- id: common-section-technology-section-lights
+  translation: Lumières
+
+- id: common-section-technology-section-regen
+  translation: Freinage régénératif
+
+- id: common-section-technology-section-seats
+  translation: Sièges
+
+- id: common-section-technology-section-sensors
+  translation: Capteurs et caméras
+
+- id: common-section-technology-section-ui
+  translation: Interface utilisateur
+
+- id: common-section-guides-title
+  translation: Guides
+
+- id: common-section-guides-description
+  translation: Ci-dessous, vous trouverez différents guides pour posséder un VE et pour utiliser ce site.
+
+- id: common-section-guides-gotosection
+  translation: Voir tous nos guides.
+
+- id: common-section-guides-section-search
+  translation: Comment utiliser EV Search
+
+- id: common-section-guides-section-preservebattery
+  translation: Préserver la batterie
+
+- id: common-section-guides-section-preservebattery-description
+  translation: Dans ce guide, nous expliquons ce que vous pouvez faire pour que la batterie dure le plus longtemps possible.
+
+- id: common-section-guides-section-understandingrange
+  translation: Comprendre la plage
+
+- id: common-section-guides-section-understandingrange-description
+  translation: Pour beaucoup, l’autonomie du véhicule électrique est l’aspect le plus essentiel. Découvrez quels aspects du VE affectent l’autonomie nominale et comprenez ce qui l’affecte dans le monde réel.
+
+- id: common-section-guides-section-vehicletypes
+  translation: Types de véhicules
+
+- id: common-section-guides-section-reviewers
+  translation: Réviseurs EV
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: Comment vérifier l'état de la batterie
+
+- id: common-section-models-title
+  translation: Marques et modèles
+
+- id: common-section-models-description
+  translation: Veuillez lire ci-dessous les différentes marques, leurs stratégies EV et les informations les plus complètes sur tous les modèles.
+
+- id: common-section-latest-reviews
+  translation: Dernières critiques en ligne
+
+
+
+   
