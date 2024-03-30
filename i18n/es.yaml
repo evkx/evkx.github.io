@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-a2b5a5a9
+  translation: Ford Explorer Standard Range RWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 380 km (236 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-1336d2cc
   translation: Lotus Emeya S es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 610 km (379 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-9e00b193
   translation: Li Auto MEGA es un monovolumen premium totalmente eléctrico con una CLTC autonomía de hasta 710 km (441 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-794641c4
-  translation: Renault 5 E-Tech 52kWh 150hp es un hatchback totalmente eléctrico con un WLTP alcance de hasta 400 km (249 millas). EVKX.net tiene todos los detalles.
 

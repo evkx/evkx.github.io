@@ -16,7 +16,7 @@ Ford is investing $22 billion in electrification through 2025 as part of its pla
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Ford Explorer is a SUV available in 2 variants.
+Ford Explorer is a SUV available in 3 variants.
 </p>
 	<a href="explorer/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

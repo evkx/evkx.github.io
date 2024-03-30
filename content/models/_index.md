@@ -330,7 +330,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Ford is one of the world's leading automakers, with a history of innovation and excellence that spans more than a century. Ford is also committed to leading the transition to a more sustainable and electrified future, with a range of hybrid and electric vehicles (EVs) that offer performance, efficiency, technology and convenience.
 	</p>
 	<p>
-	Ford has 3 models with total 9 variants.
+	Ford has 3 models with total 10 variants.
 	</p>
 	<a href="ford/" class="btn btn-outline-primary" role="button">Go to Ford EV-model overview</a>
 </div>
