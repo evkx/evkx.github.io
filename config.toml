@@ -36,6 +36,10 @@ disableKinds = ["RSS"] # page home section taxonomy taxonomyTerm RSS sitemap rob
     title = "evkx.net"
     languageName = "Español"
     weight = 5
+ [languages.er]
+    title = "evkx.net"
+    languageName = "Français"
+    weight = 6
 
 
 [markup.goldmark.renderer]
