@@ -477,6 +477,6 @@ Windows are essential parts of any car, providing visibility, ventilation, prote
 
 Car windows are classified into different types according to location, function, and design. This article will explore the main types of car windows and their feature.
 
-[Read our windows technology article.](windows/)
+<a href="windows/" class="btn btn-outline-primary" role="button">Read our windows technology article.</a>
 
 </div>
