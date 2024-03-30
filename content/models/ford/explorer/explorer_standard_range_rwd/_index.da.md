@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 55kWh og en nettokapacitet på 52kWh, hvilk
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 380 km (236 mi). Forbruget er 13,7kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 42 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 23 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 90kW. Hver opladningssession ville tage 16 minutter og 13 sekunder.
+Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 56 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 75kW. Hver opladningssession ville tage 19 minutter og 47 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 10 timer og 12 minutter. Denne tur vil kræve seks opladningssession(er) opladning fra 2 % til 56%. Den samlede tid, der går tabt for at oplade batteriet, vil være 113 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 10 timer og 36 minutter. Denne tur vil kræve seks opladningssession(er) opladning fra 0 % til 54%. Den samlede tid, der går tabt for at oplade batteriet, vil være 137 minutter.
 
 ### Indbygget oplader
 
