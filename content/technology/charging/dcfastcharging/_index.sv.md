@@ -37,7 +37,8 @@ Laddkurvan beskriver hur snabbt en elbil kan ladda för en given laddningsprocen
 
 Hur laddningskurvan ser ut varierar stort mellan modellerna. Vissa kan ha en platt kurva på upp till 80 %, medan andra har en djupdykning i hastighet från ett lågt laddningstillstånd. Maxhastigheten varierar från under 100KW till över 300KW mellan modellerna.
 
-Nedan ser du laddningskurvan för Lucid Air Dream Edition Performance. Laddkurvan har en djupdykning från början. Att ladda 30% från 50-80% tar 20 minuter, medan laddning av 30% från 5%-35% bara tar 9 minuter.<img src="../../../models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+Nedan ser du laddningskurvan för Lucid Air Dream Edition Performance. Laddkurvan har en djupdykning från början. Att ladda 30% från 50-80% tar 20 minuter, medan laddning av 30% från 5%-35% bara tar 9 minuter.
+<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
 
 
 Om du behöver hålla laddningsstoppen så korta som möjligt, identifiera det optimala laddningsområdet för din elbil. EVKX.net hjälper dig med det. Vi har detaljerad information om laddningsprestanda för varje modell i vår [EV-databas](/evsearch/), med laddningskurvor och beräkning av optimala laddningsstopp för de olika modellerna.

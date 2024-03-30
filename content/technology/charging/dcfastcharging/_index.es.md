@@ -40,7 +40,8 @@ El aspecto de la curva de carga varía enormemente entre modelos. Algunos pueden
 
 A continuación puede ver la curva de carga de Lucid Air Dream Edition Performance. La curva de carga se hunde profundamente desde el principio. Cargar el 30 % del 50 % al 80 % tarda 20 minutos, mientras que cargar el 30 % del 5 % al 35 % tarda solo 9 minutos.
 
-<img src="../../../models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+
 
 
 Si necesita que las paradas de carga sean lo más breves posible, identifique el área de carga óptima para su vehículo eléctrico. EVKX.net te ayuda con eso. Tenemos información detallada sobre el rendimiento de carga para cada modelo en nuestra [base de datos de vehículos eléctricos](/evsearch/), con curvas de carga y cálculo de paradas de carga óptimas para los diferentes modelos.

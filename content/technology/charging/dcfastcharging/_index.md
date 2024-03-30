@@ -40,8 +40,7 @@ How the charge curve looks varies vastly between models. Some can have a flat cu
 
 Below you see the charging curve for Lucid Air Dream Edition Performance. The charging curve has a deep dive from early on. Charging 30% from 50-80% takes 20 minutes, while charging 30% from 5%-35% takes only 9 minutes.
 
-<img src="../../../models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
-
+<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
 
 If you need to keep the charging stops as short as possible, identify the optimal charging area for your EV. EVKX.net helps you with that. We have detailed charging performance information for every model in our [EV database](/evsearch/), with charging curves and calculating optimum charging stops for the different models.
 

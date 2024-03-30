@@ -40,9 +40,11 @@ Hvordan ladekurven ser ut varierer veldig mellom modellene. Noen kan ha en flat 
 
 Nedenfor ser du ladekurven for Lucid Air Dream Edition Performance. Ladekurven har et dypdykk fra tidlig av. Å lade 30 % fra 50-80 % tar 20 minutter, mens å lade 30 % fra 5 %-35 % tar bare 9 minutter.
 
-<img src="../../../models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+<img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
+
 
 Hvis du har brug for at holde ladestop så korte som muligt, skal du identificere det optimale ladeområde til din elbil. EVKX.net hjælper dig med det. Vi har detaljerede oplysninger om ladeydelse for hver model i vores [EV-database](/evsearch/), med ladekurver og beregning af optimale ladestop for de forskellige modeller.
+
 ## Ruteplanlægning med opladning
 
 De fleste elbiler tilbyder ruteplanlægningsfunktionalitet, herunder DC-hurtigopladningsstop for at nå din destination. Denne ruteplanlægning er en del af [navigationssystemet](../../infotainment/navigation/).
