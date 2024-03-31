@@ -19,8 +19,4 @@ Una guantera es un compartimento en el tablero de un automóvil que se puede usa
 
 ## Almacenamiento en puerta
 
-
-<div class="mt-3 mb-3">
-     <a href="../cockpitdesign/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Diseño y distribución de la cabina</strong ></a>
-     <a href="../../lights/" class="text-decoration-none text-black float-end"><strong>Luces <i class="bi-arrow-right"></i> </strong></a>
-</div>
+{{< pagenavigation b_url="../cockpitdesign/" b_title="Diseño y distribución de la cabina" f_url="../../lights/" f_title="Luces" >}}

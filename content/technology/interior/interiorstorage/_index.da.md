@@ -20,7 +20,4 @@ Et handskerum er et rum i instrumentbrættet i en bil, der kan bruges til at opb
 ## Døropbevaring
 
 
-<div class="mt-3 mb-3">
-    <a href="../cockpitdesign/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cockpit design og layout</strong></a>
-    <a href="../../lights/" class="text-decoration-none text-black float-end"><strong>Lys <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../cockpitdesign/" b_title="Cockpit design og layout" f_url="../../lights/" f_title="Lys" >}}

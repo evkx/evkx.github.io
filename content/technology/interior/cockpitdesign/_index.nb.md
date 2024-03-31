@@ -81,8 +81,4 @@ Denne designen har en to-lags konsoll, med en nedre del for oppbevaring og kopph
 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq6 delt nivå midtkonsoll" >}}
 
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interiør</strong></a>
-    <a href="../interiorstorage/" class="text-decoration-none text-black float-end"><strong>Innvendig oppbevaring <i class="bi-arrow-right"></i></strong></a>
-</div>
-
+{{< pagenavigation b_url="../" b_title="Interiør" f_url="../interiorstorage/" f_title="Innvendig oppbevaring" >}}

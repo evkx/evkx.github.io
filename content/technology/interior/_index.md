@@ -59,7 +59,4 @@ Some of the materials that are used or being developed for EV interiors are:
 
 Continue to one of the subsection of this article
 
-<div class="mt-3 mb-3">
-    <a href="../infotainment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infotainment System</strong></a>
-    <a href="cockpitdesign/" class="text-decoration-none text-black float-end"><strong>Cockpit design & layout <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../infotainment/" b_title="Infotainment System" f_url="cockpitdesign/" f_title="Cockpit design & layout" >}}

@@ -58,7 +58,5 @@ Algunos de los materiales que se utilizan o se están desarrollando para el inte
 
 Continuar a una de las subsecciones de este artículo.
 
-<div class="mt-3 mb-3">
-     <a href="../infotainment/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sistema de infoentretenimiento</strong></a>
-     <a href="cockpitdesign/" class="text-decoration-none text-black float-end"><strong>Diseño y disposición de la cabina <i class="bi-arrow-right"></i></strong ></a>
-</div>
+
+{{< pagenavigation b_url="../infotainment/" b_title="Sistema de infoentretenimiento" f_url="cockpitdesign/" f_title="Diseño y disposición de la cabina" >}}

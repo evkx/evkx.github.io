@@ -82,7 +82,4 @@ This design features a two-tiered console, with a lower section for storage and 
 {{< sitefiguresized thumb="technology/interior/cockpitdesign/hyundaiioniq6cockpit_1_st.jpg" width="3000" height="2000" title="Hyundai Ioniq6 split-level center console" >}}
 
 
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interior</strong></a>
-    <a href="../interiorstorage/" class="text-decoration-none text-black float-end"><strong>Interior Storage <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Interior" f_url="../interiorstorage/" f_title="Interior Storage" >}}
