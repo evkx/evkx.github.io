@@ -65,3 +65,5 @@ Ettersom teknologien fortsetter å utvikle seg, kan vi forvente å se ytterliger
     <a href="../rearlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Baklykter</strong></a>
     <a href="../../motors/" class="text-decoration-none text-black float-end"><strong>Motorer og drivenheter<i class="bi-arrow-right"></i></strong></a>
 </div>
+
+{{< pagenavigation b_url="../rearlights/" b_title="Baklykter" f_url="../../motors/" f_title="Motorer og drivenheter" >}}

@@ -96,9 +96,4 @@ The below video show how the lights works on Audi e-tron GT inlcuding laser ligh
 
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_3_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron with high beam LED Matrix and low beam modules active (DRL dimmed)" >}}
 
-Continue with [rear lighting](../rearlights/) or go back to [article overview](../)
-
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lights</strong></a>
-    <a href="../rearlights/" class="text-decoration-none text-black float-end"><strong>Rear lights<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Lights" f_url="../rearlights/" f_title="Rear lights" >}}

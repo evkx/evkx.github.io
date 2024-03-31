@@ -94,11 +94,4 @@ Videon nedan visar hur lamporna fungerar på Audi e-tron GT inklusive laserljus,
 
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_3_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron med helljus LED-matris och halvljusmoduler aktiva (DRL-dimmade)" >}}
 
-Fortsätt med [rearlights](../rearlights/) eller återgå till [artikelöversikt](../)
-
-
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lys</strong></a>
-    <a href="../rearlights/" class="text-decoration-none text-black float-end"><strong>Bakljus<i class="bi-arrow-right"></i></strong></a>
-</div>
-
+{{< pagenavigation b_url="../" b_title="Lys" f_url="../rearlights/" f_title="Bakljus" >}}

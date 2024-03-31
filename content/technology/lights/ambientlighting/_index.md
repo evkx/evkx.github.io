@@ -62,7 +62,4 @@ As technology continues to advance, we can expect to see further innovations in 
 **Augmented Reality (AR) Lighting:** As augmented reality technology continues to develop, we may see the integration of ambient lighting with AR displays inside the car. This could create a more immersive and interactive experience, where ambient lighting could change dynamically to match the virtual environment displayed by the AR system, enhancing the overall driving experience.
 
 
-<div class="mt-3 mb-3">
-    <a href="../rearlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Rear lights</strong></a>
-    <a href="../../motors/" class="text-decoration-none text-black float-end"><strong>Motors & Drive Units<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../rearlights/" b_title="Rear lights" f_url="../../motors/" f_title="Motors & Drive Units" >}}

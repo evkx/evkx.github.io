@@ -60,7 +60,5 @@ Efterhånden som teknologien fortsætter med at udvikle sig, kan vi forvente at 
 
 **Augmented Reality (AR) belysning:** Efterhånden som augmented reality-teknologien fortsætter med at udvikle sig, kan vi se integrationen af ​​omgivende belysning med AR-skærme inde i bilen. Dette kan skabe en mere fordybende og interaktiv oplevelse, hvor omgivende belysning dynamisk kan ændre sig for at matche det virtuelle miljø, der vises af AR-systemet, hvilket forbedrer den overordnede køreoplevelse.
 
-<div class="mt-3 mb-3">
-    <a href="../rearlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Baglygter</strong></a>
-    <a href="../../motors/" class="text-decoration-none text-black float-end"><strong>Motorer og drivenheder<i class="bi-arrow-right"></i></strong></a>
-</div>
+
+{{< pagenavigation b_url="../rearlights/" b_title="Baglygter" f_url="../../motors/" f_title="Motorer og drivenheder" >}}

@@ -51,7 +51,4 @@ Förbi är de dagar då bilinteriörer var höljda i mörker när solen gick ner
 
 [Ta reda på omgivningsljus.](ambientlighting/)
 
-<div class="mt-3 mb-3">
-    <a href="../interior/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interiör</strong></a>
-    <a href="headlights/" class="text-decoration-none text-black float-end"><strong>Strålkastare <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../interior/" b_title="Interiör" f_url="headlights/" f_title="Strålkastare" >}}

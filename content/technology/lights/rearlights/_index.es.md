@@ -43,6 +43,7 @@ Una de esas características son las luces traseras dinámicas o animadas, tambi
 Otra característica avanzada es el uso de iluminación trasera adaptativa. Esta tecnología ajusta la intensidad y dirección de las luces traseras en función de diversos factores, como la velocidad del vehículo, las condiciones climáticas y la curvatura de la carretera. Por ejemplo, durante condiciones de baja visibilidad, como niebla o lluvia intensa, las luces traseras adaptativas pueden aumentar la intensidad para mejorar la visibilidad de otros conductores detrás del vehículo. De manera similar, durante la conducción a alta velocidad o al navegar por una carretera con curvas, las luces traseras adaptativas pueden ajustar su dirección para proporcionar una mejor iluminación en la curva, mejorando la seguridad y reduciendo el riesgo de accidentes.
 
 Además, algunos fabricantes han integrado luces traseras con otras características de seguridad, como sistemas de advertencia y detección de colisiones. Estos sistemas utilizan sensores y cámaras para detectar posibles colisiones desde atrás. El automóvil puede utilizar las luces traseras para alertar rápidamente al conductor con mayor intensidad o patrones de parpadeo, advirtiéndole de una posible colisión trasera. Esta capa de seguridad adicional ayuda a prevenir accidentes y proteger a los ocupantes del vehículo.
+
 ## Innovación en diseño: más allá de la funcionalidad
 
 Además de sus avances tecnológicos, las luces traseras han experimentado importantes innovaciones de diseño. Los diseñadores de automóviles utilizan cada vez más las luces traseras como elemento de diseño para crear una apariencia distinta y reconocible para sus vehículos. Las luces traseras ahora se consideran parte integral del atractivo estético general de un vehículo y se han convertido en un lienzo para la expresión creativa.
@@ -78,7 +79,5 @@ A continuación ves un vídeo de Audi que muestra cómo funciona su OLED.
 
 {{< youtube OMx8x8J6Pro >}}
 
-<div class="mt-3 mb-3">
-     <a href="../headlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Faros delanteros y DRL</strong> </a>
-     <a href="../ambientlighting/" class="text-decoration-none text-black float-end"><strong>Iluminación ambiental<i class="bi-arrow-right"></i></strong></a>
-</div>
+
+{{< pagenavigation b_url="../headlights/" b_title="Faros delanteros y DRL" f_url="../ambientlighting/" f_title="Iluminación ambiental" >}}

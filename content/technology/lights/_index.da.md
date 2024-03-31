@@ -51,7 +51,4 @@ De dage er forbi, hvor bilinteriør var indhyllet i mørke, da solen gik ned. I 
 
 [Find ud af omgivende belysning.](ambientlighting/)
 
-<div class="mt-3 mb-3">
-    <a href="../interior/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interior</strong></a>
-    <a href="headlights/" class="text-decoration-none text-black float-end"><strong>Forlygter og DRL <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../interior/" b_title="Interior" f_url="headlights/" f_title="Forlygter og DRL" >}}

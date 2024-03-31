@@ -62,7 +62,4 @@ A medida que la tecnología continúa avanzando, podemos esperar ver más innova
 **Iluminación de realidad aumentada (AR):** A medida que la tecnología de realidad aumentada continúa desarrollándose, es posible que veamos la integración de la iluminación ambiental con pantallas AR dentro del automóvil. Esto podría crear una experiencia más inmersiva e interactiva, donde la iluminación ambiental podría cambiar dinámicamente para coincidir con el entorno virtual mostrado por el sistema AR, mejorando la experiencia de conducción general.
 
 
-<div class="mt-3 mb-3">
-     <a href="../rearlights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>Luces traseras</strong></a>
-     <a href="../../motors/" class="text-decoration-none text-black float-end"><strong>Motores y unidades de accionamiento<i class="bi-arrow-right">< /i></strong></a>
-</div>
+{{< pagenavigation b_url="../rearlights/" b_title="Luces traseras" f_url="../../motors/" f_title="Motores y unidades de accionamiento" >}}
