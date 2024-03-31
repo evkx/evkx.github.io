@@ -81,8 +81,4 @@ El cableado del sistema de audio de un automóvil es crucial para lograr la mejo
 
 {{<evkxdisplayaddarticle />}}
 
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sistema de infoentretenimiento</strong></a >
-     <a href="../navigation/" class="text-decoration-none text-black float-end"><strong>Navegación <i class="bi-arrow-right"></i></strong ></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Sistema de infoentretenimiento" f_url="../navigation/" f_title="Navegación" >}}

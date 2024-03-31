@@ -69,3 +69,5 @@ Navigationssystemet kan styres med stemmekommandoer, så bilisterne kan holde ø
      <a href="../audiosystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lydsystem</strong>< /a>
      <a href="../smartphoneintegration/" class="text-decoration-none text-black float-end"><strong>Smartphone-integration <i class="bi-arrow-right"></i></strong></a>
 </div>
+
+{{< pagenavigation b_url="../audiosystem/" b_title="Audio system" f_url="../smartphoneintegration/" f_title="Smartphone integration" >}}

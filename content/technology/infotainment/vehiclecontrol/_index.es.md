@@ -23,8 +23,4 @@ Dependiendo del modelo, normalmente puede cambiar entre modos que podrían cambi
 
 Muchos sistemas de infoentretenimiento tienen controles para el sistema climático. Lea más en nuestro artículo sobre tecnología de sistemas climáticos.
 
-
-<div class="mt-3 mb-3">
-     <a href="../smartphoneintegration/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Integración de smartphone</strong>< /a>
-     <a href="../../interior/" class="text-decoration-none text-black float-end"><strong>Interior <i class="bi-arrow-right"></i> </strong></a>
-</div>
+{{< pagenavigation b_url="../smartphoneintegration/" b_title="Integración de smartphone" f_url="../../interior/" f_title="Interior" >}}

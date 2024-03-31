@@ -23,8 +23,4 @@ Depending on model you typcal can change between modes that could change
 
 Many Infotainment systems have controls for the climate system. Read more in our climate system technology article.
 
-
-<div class="mt-3 mb-3">
-    <a href="../smartphoneintegration/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Smartphone integration</strong></a>
-    <a href="../../interior/" class="text-decoration-none text-black float-end"><strong>Interior <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../smartphoneintegration/" b_title="Smartphone integration" f_url="../../interior/" f_title="Interior" >}}

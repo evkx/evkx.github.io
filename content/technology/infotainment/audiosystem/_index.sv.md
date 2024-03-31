@@ -18,6 +18,7 @@ Elbilar anses vara bättre att lyssna på musik i jämfört med fossilbilar av f
 Bilstereosystem har kommit långt från AM/FM-radioernas tidiga dagar. Idag är bilstereosystem en integrerad del av körupplevelsen och kan avsevärt förbättra den övergripande njutningen av en bilresa eller daglig pendling.
 
 I den här artikeln kommer vi att utforska de olika komponenterna i ett modernt billjudsystem, inklusive högtalare, förstärkare, huvudenheter och mer. Vi kommer också att diskutera vikten av att välja högkvalitativa komponenter och ge några tips för att uppnå bästa ljudkvalitet i din bil.
+
 ## Högtalare
 
 {{< sitefiguresized thumb="technology/infotainment/audiosystem/bwspeakerbmwix_st.jpg" width="3000" height="2000" title="BMW iX-högtalare" >}}
@@ -79,8 +80,4 @@ Kabeldragningen till ett bilstereosystem är avgörande för att uppnå bästa l
 
 {{<evkxdisplayaddarticle />}}
 
-
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infotainmentsystem</strong></a>
-    <a href="../navigation/" class="text-decoration-none text-black float-end"><strong>Navigationssystem <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Infotainmentsystem" f_url="../navigation/" f_title="Navigationssystem" >}}

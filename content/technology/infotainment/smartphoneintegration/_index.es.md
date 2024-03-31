@@ -26,7 +26,4 @@ Android Auto y Apple CarPlay tienen algunas similitudes y diferencias, como por 
 
 Android Auto y Apple CarPlay son sistemas que tienen como objetivo mejorar su experiencia de conducción integrando su teléfono inteligente con el sistema de información y entretenimiento de su automóvil. Ofrecen características similares pero tienen diferentes diseños y funcionalidades. Dependiendo del modelo de su teléfono y del modelo de su automóvil, es posible que prefiera un sistema sobre el otro, o puede que pueda usar ambos sistemas indistintamente.
 
-<div class="mt-3 mb-3">
-     <a href="../navigation/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Navegación</strong></a>
-     <a href="../vehiclecontrol/" class="text-decoration-none text-black float-end"><strong>Control del vehículo <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../navigation/" b_title="Navegación" f_url="../vehiclecontrol/" f_title="Control del vehículo" >}}

@@ -64,7 +64,4 @@ Otros, como Polestar y Volvo, basan su sistema en [Android Automotive](https://s
 
 Los sistemas de infoentretenimiento suelen estar disponibles en una o más pantallas. Parte posterior o [artículo en pantalla detallado](../userinterface/screens/) para saber más.
 
-<div class="mt-3 mb-3">
-     <a href="../glassroof/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Techo de paneles de vidrio</strong> </a>
-     <a href="audiosystem/" class="text-decoration-none text-black float-end"><strong>Sistema de audio <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../glassroof/" b_title="Techo de paneles de vidrio" f_url="../audiosystem/" f_title="Sistema de audio" >}}
