@@ -103,10 +103,4 @@ While regenerative braking offers many benefits, the technology has some limitat
 
 In the second part, we give detailed calculations on how much energy can be regenerated and how that affects range. We also explain the physics behind the math.
 
-[Go to regen calculations.](calculations)
-
-
-<div class="mt-3 mb-3">
-    <a href="../motors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motors & Drive Units</strong></a>
-    <a href="calculations/" class="text-decoration-none text-black float-end"><strong>Regen calculations<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../motors/" b_title="Motors & Drive Units" f_url="calculations/" f_title="Regen calculations" >}}

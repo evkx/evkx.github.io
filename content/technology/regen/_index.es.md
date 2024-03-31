@@ -102,10 +102,4 @@ Si bien el frenado regenerativo ofrece muchos beneficios, la tecnología tiene a
 
 En la segunda parte, damos cálculos detallados sobre cuánta energía se puede regenerar y cómo eso afecta el alcance. También explicamos la física detrás de las matemáticas.
 
-[Ir a cálculos de regeneración.](cálculos)
-
-
-<div class="mt-3 mb-3">
-     <a href="../motors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motores y unidades de accionamiento</strong ></a>
-     <a href="calculations/" class="text-decoration-none text-black float-end"><strong>Cálculos de regeneración<i class="bi-arrow-right"></i></strong>< /a>
-</div>
+{{< pagenavigation b_url="../motors/" b_title="Motores y unidades de accionamiento" f_url="calculations/" f_title="Cálculos de regeneración" >}}
