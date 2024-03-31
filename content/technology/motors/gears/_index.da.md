@@ -25,7 +25,5 @@ Disse transmissioner har flere udvekslingsforhold, der gør det muligt for den e
 
 Det er værd at bemærke, at nogle elbiler, især dem med enkeltgears transmissioner eller direkte drevsystemer, slet ikke bruger traditionelle gear. I stedet er de afhængige af sofistikeret kraftelektronik og motorstyringsalgoritmer til at levere det nødvendige drejningsmoment og kraft til hjulene uden behov for fysiske gear. Den specifikke type transmission, der bruges i en EV-drivlinje, afhænger af faktorer som køretøjets størrelse, ydeevnekrav, køreforhold og designhensyn.
 
-<div class="mt-3 mb-3">
-    <a href="../cooling/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motorkøling</strong></a>
-    <a href="../../regen/" class="text-decoration-none text-black float-end"><strong>Regenerativ bremsning<i class="bi-arrow-right"></i></strong></a>
-</div>
+
+{{< pagenavigation b_url="../cooling" b_title="Motorkøling" f_url="../../regen/" f_title="Regenerativ bremsning" >}}

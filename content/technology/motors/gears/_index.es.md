@@ -28,7 +28,4 @@ Vale la pena señalar que algunos vehículos eléctricos, particularmente aquell
 
 [Volver al artículo principal](../#motor-setup)
 
-<div class="mt-3 mb-3">
-     <a href="../cooling/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Refrigeración del motor</strong>< /a>
-     <a href="../../regen/" class="text-decoration-none text-black float-end"><strong>Frenado regenerativo<i class="bi-arrow-right"></i> </strong></a>
-</div>
+{{< pagenavigation b_url="../cooling" b_title="Refrigeración del motor" f_url="../../regen/" f_title="Frenado regenerativo" >}}

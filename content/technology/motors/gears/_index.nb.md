@@ -25,7 +25,4 @@ Disse girkassene har flere utvekslingsforhold som lar den elektriske motoren ope
 
 Det er verdt å merke seg at noen elbiler, spesielt de med enkelttrinns girkasser eller direkte drivsystemer, ikke bruker tradisjonelle gir i det hele tatt. I stedet stoler de på sofistikert kraftelektronikk og motorkontrollalgoritmer for å levere det nødvendige dreiemomentet og kraften til hjulene uten behov for fysiske gir. Den spesifikke typen girkasse som brukes i en EV-drivenhet, avhenger av faktorer som kjøretøyets størrelse, ytelseskrav, kjøreforhold og designhensyn.
 
-<div class="mt-3 mb-3">
-    <a href="../cooling/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motorkjøling</strong></a>
-    <a href="../../regen/" class="text-decoration-none text-black float-end"><strong>Regenerativ bremsing<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../cooling" b_title="Motorkjøling" f_url="../../regen/" f_title="Regenerativ bremsing" >}}

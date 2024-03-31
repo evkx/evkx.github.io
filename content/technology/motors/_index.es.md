@@ -111,7 +111,4 @@ A continuación, puede ver el motor cuádruple Rivian R1T hacer un giro de tanqu
 
 {{< youtube yzwM8KE2L3I >}}
 
-<div class="mt-3 mb-3">
-     <a href="../lights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Luces</strong></a>
-     <a href="asm/" class="text-decoration-none text-black float-end"><strong>Motores de inducción<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../lights/" b_title="Luces" f_url="asm/" f_title="Motores de inducción" >}}

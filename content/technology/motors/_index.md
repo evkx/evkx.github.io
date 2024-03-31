@@ -113,9 +113,4 @@ Below, you see the Rivian R1T Quad motor do a tank turn with the quad motor setu
 
 {{< youtube yzwM8KE2L3I >}}
 
-
-<div class="mt-3 mb-3">
-    <a href="../lights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lights</strong></a>
-    <a href="asm/" class="text-decoration-none text-black float-end"><strong>Induction Motors<i class="bi-arrow-right"></i></strong></a>
-</div>
-
+{{< pagenavigation b_url="../lights/" b_title="Lights" f_url="asm/" f_title="Induction Motors" >}}

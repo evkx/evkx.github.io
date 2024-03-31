@@ -27,7 +27,4 @@ It's worth noting that some EVs, particularly those with single-speed gearboxes 
 
 [Back to main article](../#motor-setup)
 
-<div class="mt-3 mb-3">
-    <a href="../cooling/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motor Cooling</strong></a>
-    <a href="../../regen/" class="text-decoration-none text-black float-end"><strong>Regenerative braking<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../cooling" b_title="Motor Cooling" f_url="../../regen/" f_title="Regenerative braking" >}}

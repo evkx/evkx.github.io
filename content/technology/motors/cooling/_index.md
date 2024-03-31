@@ -26,8 +26,4 @@ Direct cooling can provide more efficient heat transfer but may require careful 
 
 The choice of cooling method depends on various factors, such as the power and temperature requirements of the motor, the operating environment, and the cost considerations. Proper cooling is essential for maintaining the performance, efficiency, and reliability of electric motors in EVs, and it is an important aspect of motor design and integration in electric vehicles.
 
-
-<div class="mt-3 mb-3">
-    <a href="../inverter/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Inverter</strong></a>
-    <a href="../gears/" class="text-decoration-none text-black float-end"><strong>Gears<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../inverter/" b_title="Inverter" f_url="../gears/" f_title="Gears" >}}

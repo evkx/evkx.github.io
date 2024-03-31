@@ -53,8 +53,4 @@ Los motores síncronos de rotor bobinado también tienen algunas limitaciones, e
 
 {{< sitefiguresized thumb="tecnología/motors/wrsm/renault_motor_3.jpeg" width="2050" height="1000" title="motor Renault WRSM " >}}
 
-
-<div class="mt-3 mb-3">
-     <a href="../pmsm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>Motores síncronos de imanes permanentes</strong ></a>
-     <a href="../inversor/" class="text-decoration-none text-black float-end"><strong>Inversor<i class="bi-arrow-right"></i></strong ></a>
-</div>
+{{< pagenavigation b_url="../pmsm/" b_title="Motores síncronos de imanes permanentes" f_url="../inverter/" f_title="Inversor" >}}

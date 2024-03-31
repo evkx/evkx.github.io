@@ -52,7 +52,4 @@ Induktionsmotorer har också vissa begränsningar i förhållande till elbilar, 
 
 **Högre vikt och storlek:** Induktionsmotorer kan vara större och tyngre jämfört med vissa andra motortyper, vilket kan påverka fordonets vikt och förpackningsöverväganden.
 
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motorer och drivenheter</strong></a>
-    <a href="../pmsm/" class="text-decoration-none text-black float-end"><strong>Permanent Magnet Synkronmotorer<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Motorer och drivenheter" f_url="../pmsm/" f_title="Permanent Magnet Synkronmotorer" >}}

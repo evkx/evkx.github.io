@@ -26,8 +26,4 @@ Direkte kjøling kan gi mer effektiv varmeoverføring, men kan kreve nøye desig
 
 Valget av kjølemetode avhenger av ulike faktorer, slik som kraft- og temperaturkravene til motoren, driftsmiljøet og kostnadshensyn. Riktig kjøling er avgjørende for å opprettholde ytelsen, effektiviteten og påliteligheten til elektriske motorer i elbiler, og det er et viktig aspekt ved motordesign og integrering i elektriske kjøretøy.
 
-
-<div class="mt-3 mb-3">
-    <a href="../inverter/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Inverter</strong></a>
-    <a href="../gears/" class="text-decoration-none text-black float-end"><strong>Gir<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../inverter/" b_title="Inverter" f_url="../gears/" f_title="Gir" >}}

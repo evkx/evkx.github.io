@@ -52,7 +52,5 @@ Los motores de inducción también tienen algunas limitaciones en el contexto de
 
 **Mayor peso y tamaño:** Los motores de inducción pueden ser más grandes y pesados en comparación con otros tipos de motores, lo que puede afectar el peso del vehículo y las consideraciones de embalaje.
 
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Motores y unidades de accionamiento</strong>< /a>
-     <a href="../pmsm/" class="text-decoration-none text-black float-end"><strong>Motores síncronos de imanes permanentes<i class="bi-arrow-right"></i> </strong></a>
-</div>
+
+{{< pagenavigation b_url="../" b_title="Motores y unidades de accionamiento" f_url="../pmsm/" f_title="Motores síncronos de imanes permanentes" >}}

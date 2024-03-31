@@ -113,7 +113,5 @@ Nedenfor ser du Rivian R1T Quad-motoren gjøre en tanksving med quad-motoroppset
 
 {{< youtube yzwM8KE2L3I >}}
 
-<div class="mt-3 mb-3">
-    <a href="../lights/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Lys</strong></a>
-    <a href="asm/" class="text-decoration-none text-black float-end"><strong>Induksjonsmotorer<i class="bi-arrow-right"></i></strong></a>
-</div>
+
+{{< pagenavigation b_url="../lights/" b_title="Lys" f_url="asm/" f_title="Induksjonsmotorer" >}}

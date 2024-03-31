@@ -60,7 +60,4 @@ Hvis du vil lære enda mer om PSMS-motorer, anbefaler vi å se denne videoen hvo
 
 {{< youtube U7IHZxNC6hc >}}
 
-<div class="mt-3 mb-3">
-    <a href="../asm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Induksjonsmotorer</strong></a>
-    <a href="../wrsm/" class="text-decoration-none text-black float-end"><strong>WRSM<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../asm/" b_title="Induksjonsmotorer" f_url="../wrsm/" f_title="WRSM" >}}

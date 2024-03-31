@@ -56,3 +56,6 @@ Synkronmotorer med lindade rotorer har också vissa begränsningar, inklusive:
     <a href="../pmsm/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Permanent magnet synkronmotorer</strong></a>
     <a href="../inverter/" class="text-decoration-none text-black float-end"><strong>Växelriktaren<i class="bi-arrow-right"></i></strong></a>
 </div>
+
+
+{{< pagenavigation b_url="../pmsm/" b_title="Permanent magnet synkronmotorer" f_url="../inverter/" f_title="Växelriktaren" >}}
