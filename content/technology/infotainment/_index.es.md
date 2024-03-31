@@ -5,7 +5,7 @@ description: Los sistemas de infoentretenimiento se han convertido en una caract
 shownavtabs: true
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
   En este artículo, discutiremos los diversos aspectos de los sistemas de infoentretenimiento.
 

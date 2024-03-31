@@ -4,7 +4,7 @@ linktitle: FCTA
 description: La asistencia de tráfico cruzado frontal es una característica de seguridad que se encuentra en algunos vehículos modernos y que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
 weight: 16
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Funciona mediante el uso de sensores o cámaras montadas en la parte delantera del automóvil para escanear el área frente al vehículo en busca de tráfico que se aproxima.
 

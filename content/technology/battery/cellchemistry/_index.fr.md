@@ -4,7 +4,7 @@ linktitle: Chimie cellulaire et pièces
 description: Les cellules de la batterie constituent la partie la plus importante du système de batterie et le facteur le plus important à la fois en termes de coût et de performances sur les véhicules électriques.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 ## Anodes
 

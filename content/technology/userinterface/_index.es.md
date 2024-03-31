@@ -5,7 +5,7 @@ description: La interfaz de usuario se refiere a las diversas formas en que los 
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
  
 Incluye el diseño, disposición y funcionalidad de los controles, pantallas y otros componentes que permiten a los usuarios operar e interactuar con las funciones de un automóvil, como el tablero, los controles del volante, las pantallas táctiles, los botones, perillas, interruptores, comandos de voz, y otros mecanismos de entrada/salida.
 

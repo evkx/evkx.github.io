@@ -5,7 +5,7 @@ description: El frenado regenerativo es una característica fundamental de los v
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Al convertir la energía cinética del vehículo en energía eléctrica y almacenarla en la batería, el frenado regenerativo puede ampliar la autonomía del vehículo y mejorar la eficiencia general. Este artículo explorará los diferentes tipos de estrategias de frenado regenerativo utilizadas en los vehículos eléctricos, sus beneficios y sus limitaciones.
 

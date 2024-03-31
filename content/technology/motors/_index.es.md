@@ -5,7 +5,7 @@ description: A medida que la industria automotriz avanza rápidamente hacia la e
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 En este extenso artículo, analizaremos en profundidad los motores y las unidades de propulsión para automóviles eléctricos, examinaremos los diversos tipos de motores comúnmente utilizados en los vehículos eléctricos, exploraremos las complejidades del inversor y profundizaremos en el papel fundamental que desempeñan estos componentes en la propulsión. El futuro del transporte.
 

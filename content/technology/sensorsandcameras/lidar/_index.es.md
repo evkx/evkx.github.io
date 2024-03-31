@@ -4,7 +4,7 @@ linktitle: LiDAR
 description: LiDAR se usa comúnmente en sistemas de conducción autónomos, pero también se está volviendo más común en funciones ADAS.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Lidar, abreviatura de "Light Detección y Rango", es una tecnología de detección remota que utiliza luz láser para medir distancias y generar mapas 3D de entornos de alta precisión. Los sensores Lidar se utilizan comúnmente en vehículos autónomos, robótica y otras aplicaciones donde es necesario un mapeo preciso y una detección de objetos.
 

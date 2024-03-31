@@ -4,7 +4,7 @@ linktitle: Equilibrage cellulaire
 description: L’équilibrage des cellules est important pour tirer le meilleur parti de la batterie.
 weight: 8
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 L’équilibrage cellulaire est nécessaire lorsqu’un groupe de cellules a un SOC supérieur ou inférieur à celui des autres groupes de cellules.
 

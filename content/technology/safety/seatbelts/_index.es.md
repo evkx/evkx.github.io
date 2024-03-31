@@ -4,7 +4,7 @@ linktitle: Cinturones de seguridad
 description: Los cinturones de seguridad son la característica de seguridad más importante de todo vehículo. Están diseñados para proteger al conductor y a los pasajeros de un vehículo contra movimientos dañinos que puedan resultar de una colisión o una parada repentina.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los cinturones de seguridad pueden reducir el riesgo de muerte o lesiones graves aproximadamente a la mitad, según los Centros para el Control y la Prevención de Enfermedades.
 

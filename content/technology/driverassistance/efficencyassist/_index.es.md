@@ -4,7 +4,7 @@ linktitle: Asistencia de eficiencia
 description: Efficiency Assist es una función de los vehículos eléctricos (EV) que ayuda a los conductores a optimizar su comportamiento de conducción para maximizar la autonomía y la eficiencia del vehículo.
 weight: 12
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 La función proporciona información en tiempo real al conductor y ofrece sugerencias para técnicas de conducción más eficientes.
 

@@ -4,7 +4,7 @@ linktitle: Radar
 description:  Los sistemas ADAS utilizan sensores de radar de automóviles para diversas aplicaciones, incluida la prevención de colisiones, el control de crucero adaptativo y la detección de puntos ciegos.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 Radar significa "Detección y alcance de radio" y es una tecnología de detección que utiliza ondas de radio para detectar la presencia y ubicación de objetos.
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/radar/radar_3_st.jpg" width="3000" height="1714" title="Sensor de radar" >}}

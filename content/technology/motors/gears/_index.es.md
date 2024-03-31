@@ -4,7 +4,7 @@ linktitle: Engranajes
 description: Los vehículos eléctricos (EV) suelen utilizar diferentes tipos de engranajes en sus unidades motrices, según el diseño y los requisitos específicos del vehículo.
 weight: 6
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 A continuación se muestran algunos tipos comunes de engranajes utilizados en las unidades de propulsión de vehículos eléctricos:
 

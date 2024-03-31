@@ -5,7 +5,7 @@ description: Los vehículos eléctricos (EV) no sólo están transformando la fo
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 A continuación se detallan algunos de los aspectos principales del diseño interior de los vehículos eléctricos y en qué se diferencian de los automóviles convencionales.
 

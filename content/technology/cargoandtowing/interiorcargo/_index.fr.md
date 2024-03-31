@@ -4,7 +4,7 @@ linktitle: Cargaison intérieure
 description: Le chargement intérieur fait référence à l'espace de chargement entouré et protégé par la carrosserie et les vitres de la voiture. Le chargement interne peut varier en fonction du modèle et de la configuration de la voiture.
 weight: 1
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_3_st.jpg" title="Coffre Citroën ë-C3" width="3000" height="1999">}}
 

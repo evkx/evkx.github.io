@@ -4,7 +4,7 @@ linktitle: Pantallas
 description: Las pantallas son uno de los aspectos de la interfaz de usuario más notables de los vehículos eléctricos modernos. Estas pantallas van desde pantallas pequeñas que muestran información básica hasta pantallas táctiles grandes que ocupan la mayor parte del tablero.
 weight: 1
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Las pantallas muestran diversa información, incluidos niveles de batería, estado de carga, navegación, medios, etc. El tamaño y el diseño de las pantallas pueden variar de un modelo a otro, pero todas hacen que la experiencia del conductor sea más intuitiva y fácil de usar.
 

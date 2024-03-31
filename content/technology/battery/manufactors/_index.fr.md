@@ -4,7 +4,7 @@ linktitle:  Fabricants
 description: Il existe plusieurs grands fabricants de batteries pour véhicules électriques (VE) dans le monde.
 weight: 10
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Les plus grands sont.
 

@@ -4,7 +4,7 @@ linktitle: Formats de cellules
 description: Il existe plusieurs types de formats de cellules pour les cellules de batterie utilisées dans les véhicules électriques.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 ## Boîtier cylindrique
 

@@ -4,7 +4,7 @@ linktitle: Cámaras
 description: Las cámaras son un componente esencial de las tecnologías ADAS, ya que desempeñan un papel crucial a la hora de proporcionar información en tiempo real sobre el entorno que rodea al vehículo.
 weight: 1
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Hay varios tipos de cámaras utilizadas en ADAS. Los más comunes
 

@@ -4,7 +4,7 @@ linktitle: TSR
 description: El reconocimiento de señales de tráfico (TSR) es una tecnología utilizada en algunos vehículos modernos que ayuda a los conductores a identificar e interpretar las señales de tráfico.
 weight: 20
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Utiliza una combinación de cámaras y software para detectar y reconocer varias señales de tráfico, como señales de límite de velocidad, señales de prohibido pasar, señales de alto y señales de ceder el paso.
 

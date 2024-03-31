@@ -5,7 +5,7 @@ description: Les véhicules électriques (VE) deviennent de plus en plus populai
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Cependant, tous les véhicules électriques et bornes de recharge ne sont pas compatibles. Les différents ports et connecteurs de charge varient selon la région, la vitesse et les normes.
 

@@ -4,7 +4,7 @@ linktitle: APA
 description: La asistencia automática de estacionamiento es una tecnología que permite que un vehículo se estacione solo sin necesidad de intervención humana.
 weight: 6
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 La tecnología utiliza una combinación de sensores, cámaras y software para detectar y maniobrar el automóvil hasta llegar a un lugar de estacionamiento.
 

@@ -4,7 +4,7 @@ linktitle: Navegación
 description: La mayoría de los vehículos eléctricos ofrecen un sistema de navegación como parte de su sistema de información y entretenimiento.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 El sistema de navegación ofrece a los conductores diversas funciones y características que les ayudan a planificar sus viajes, encontrar sus destinos y acceder a información y servicios relevantes a lo largo del camino.
 

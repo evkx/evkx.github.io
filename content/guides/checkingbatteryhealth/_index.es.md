@@ -4,7 +4,7 @@ linktitle: Verificar el estado de la batería
 description: Con cálculos simples, es posible verificar el estado general de la batería. Esta guía explica cómo.
 weight: 1
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 <div class="alerta alerta-advertencia" rol="alerta">
    Este procedimiento <b>sólo</b> es posible para vehículos eléctricos que

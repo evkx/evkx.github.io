@@ -4,7 +4,7 @@ linktitle: Køretøjstyper
 description: Der findes mange forskellige køretøjstyper. Vi forklarer forskellen.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Elektriske køretøjer kommer i forskellige former og former. I denne guide forklarer vi alle mulighederne på markedet.
 

@@ -4,7 +4,7 @@ linktitle:  Refrigeración del motor
 description: La refrigeración es un aspecto importante del diseño de motores eléctricos en vehículos eléctricos (EV) para garantizar un rendimiento, eficiencia y confiabilidad óptimos.
 weight: 5
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los motores eléctricos generan calor durante el funcionamiento debido a la resistencia en los devanados del motor, las pérdidas en el núcleo magnético del motor y otros factores. Si el calor no se gestiona adecuadamente, puede provocar una reducción del rendimiento del motor, un aumento del consumo de energía e incluso fallos del motor.
 

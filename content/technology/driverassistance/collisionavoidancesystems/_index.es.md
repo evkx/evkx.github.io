@@ -4,7 +4,7 @@ linktitle: CAS
 description: Los sistemas para evitar colisiones (CAS) son una familia de sistemas avanzados de asistencia al conductor que están diseñados para ayudar a los conductores a evitar colisiones con otros vehículos, peatones y objetos en la carretera.
 weight: 9
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 El CAS suele utilizar una combinación de sensores, como radar, cámaras y lidar, para monitorear el entorno alrededor del vehículo y detectar peligros potenciales.
 

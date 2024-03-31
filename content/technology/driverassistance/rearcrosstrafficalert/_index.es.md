@@ -4,7 +4,7 @@ linktitle: RCTA
 description: La alerta de tráfico cruzado trasero (RCTA) es una característica de seguridad en algunos automóviles modernos que utiliza sensores para detectar vehículos que se aproximan desde un costado al salir de un espacio de estacionamiento o entrada en reversa.
 weight: 19
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 El sistema alerta al conductor con advertencias visuales y/o sonoras para evitar una colisión.
 

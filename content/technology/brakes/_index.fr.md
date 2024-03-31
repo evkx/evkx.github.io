@@ -4,7 +4,7 @@ linktitle: Freins
 description: Le système de freinage est crucial pour la sécurité des passagers et des autres usagers de la route, ainsi que pour la longévité du véhicule. Cet article explorera les différents types de freins EV, notamment les freins à disque en acier, les freins en carbure, les freins en céramique et les freins à tambour. Il comprend également des détails sur les freins mixtes.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 En raison de la capacité de [freinage régénératif](../regen/) des moteurs électriques des véhicules électriques, les freins à friction traditionnels peuvent être utilisés moins fréquemment, ce qui entraîne une usure réduite des plaquettes et des disques de frein par rapport aux véhicules à moteur thermique.
 Cependant, il est important de noter que tous les véhicules électriques disposent toujours de freins à friction traditionnels comme système de secours ou supplémentaire en cas de freinage brusque ou d’urgence. L'utilisation du freinage régénératif et des freins à friction standard dans les véhicules électriques dépend de la conception et de la configuration spécifiques du véhicule, ainsi que des préférences et des habitudes de conduite du conducteur.

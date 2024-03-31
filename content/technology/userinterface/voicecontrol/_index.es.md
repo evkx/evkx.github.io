@@ -4,7 +4,7 @@ linktitle: Control por voz
 description: El control por voz en los automóviles es una tecnología que permite a los conductores interactuar con diversas características y funciones del vehículo mediante comandos de voz.
 weight: 7
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Permite a los conductores controlar diferentes aspectos del sistema de información y entretenimiento del automóvil, control de clima, llamadas telefónicas, mensajes y otras funciones sin tener que quitar las manos del volante ni la vista de la carretera. Los sistemas de control por voz en los automóviles utilizan tecnologías de reconocimiento de voz y procesamiento del lenguaje natural para interpretar y responder a los comandos de voz.
 

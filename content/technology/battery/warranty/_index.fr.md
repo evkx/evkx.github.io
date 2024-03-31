@@ -4,7 +4,7 @@ linktitle:  Garantie
 description: La garantie offerte par les fabricants de véhicules électriques pour leurs batteries peut varier en fonction du fabricant et du modèle spécifique du véhicule.
 weight: 11
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 En règle générale, les batteries des véhicules électriques sont accompagnées d'une garantie qui couvre un certain nombre d'années ou un certain nombre de kilomètres parcourus, selon la première éventualité.
 

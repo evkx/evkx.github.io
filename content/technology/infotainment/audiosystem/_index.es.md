@@ -4,7 +4,7 @@ linktitle: Sistema de audio
 description: A la hora de comprar un coche, muchos clientes prestan especial atención al sistema de audio. Esto se debe a que el coche es precisamente el lugar donde la gente escucha música con entusiasmo y frecuencia.
 weight: 1
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Se considera que los vehículos eléctricos son mejores para escuchar música en comparación con los automóviles fósiles por varias razones, como por ejemplo:
 

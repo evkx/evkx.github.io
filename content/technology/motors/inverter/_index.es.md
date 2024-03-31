@@ -4,7 +4,7 @@ linktitle: Inversor
 description: El inversor es un componente crucial en la unidad de propulsión de un vehículo eléctrico (EV). Es responsable de convertir la electricidad de corriente continua (CC) almacenada en la batería del vehículo en electricidad de corriente alterna (CA), que luego se utiliza para alimentar el motor eléctrico que impulsa las ruedas del vehículo eléctrico.
 weight: 4
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 El inversor es esencialmente un dispositivo electrónico que controla el flujo de electricidad entre la batería y el motor, permitiendo un control eficiente y preciso del sistema de propulsión del vehículo eléctrico.
 

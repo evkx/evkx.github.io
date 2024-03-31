@@ -4,7 +4,7 @@ linktitle: Gestion thermique
 description: La gestion thermique est essentielle pour les performances et la santé de la batterie
 weight: 6
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 La température optimale pour une batterie est d’environ 20 à 30 degrés Celsius pour son fonctionnement. Pour le stockage, la température optimale est encore plus basse.
 

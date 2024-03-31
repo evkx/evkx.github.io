@@ -4,7 +4,7 @@ linktitle: Tipos de vehículos
 description: Hay muchos tipos de vehículos diferentes. Te explicamos la diferencia.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los vehículos eléctricos vienen en diferentes formas y formas. En esta guía te explicamos todas las opciones disponibles en el mercado.
 

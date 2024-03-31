@@ -4,7 +4,7 @@ linktitle: ALC
 description: El cambio de carril automático (ALC) es un sistema avanzado de asistencia al conductor (ADAS) que está diseñado para permitir que un vehículo cambie de carril por sí solo, sin necesidad de que el conductor gire el vehículo o tome el control manual.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los sistemas ALC suelen encontrarse en vehículos de gama alta y utilizan una combinación de sensores y cámaras para detectar otros vehículos en la carretera y determinar cuándo es seguro iniciar un cambio de carril.
 

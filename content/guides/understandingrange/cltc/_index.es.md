@@ -5,7 +5,7 @@ description: El CLTC es un ciclo de conducción que simula las condiciones y pat
 weight: 3
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 El Centro de Investigación y Tecnología Automotriz de China ([CATARC](https://www.catarc.ac.cn/)) desarrolló el ciclo en 2020. Reemplazó el ciclo de prueba anterior, el Ciclo de Prueba Automotriz de China (CATC), basado en el obsoleto Nuevo Ciclo de Conducción Europeo (NEDC).
 

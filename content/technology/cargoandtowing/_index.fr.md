@@ -5,7 +5,7 @@ description:  Les voitures ne sont pas seulement destinées au transport de pers
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Cependant, de nombreuses personnes peuvent avoir des questions ou des inquiétudes concernant les performances, l’autonomie, l’espace de chargement et les capacités de remorquage des véhicules électriques.
 

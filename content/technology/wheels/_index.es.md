@@ -4,7 +4,7 @@ linktitle: Neumáticos y ruedas
 description: Los neumáticos son uno de los componentes más críticos de un automóvil, ya que afectan su rendimiento, seguridad, comodidad y eficiencia.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Elegir los neumáticos y ruedas adecuados para su automóvil depende de varios factores, como el tipo de automóvil, las condiciones de conducción, el clima y sus preferencias personales. En este artículo, explicaremos la diferencia entre los tipos de neumáticos y ruedas, los tamaños de neumáticos y ruedas y los neumáticos y ruedas especiales para vehículos eléctricos (EV).
 

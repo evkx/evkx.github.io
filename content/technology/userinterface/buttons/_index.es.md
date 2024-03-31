@@ -4,7 +4,7 @@ linktitle: Botones físicos
 description: Dado que los botones virtuales en las pantallas reemplazan a los botones físicos en cada vez más áreas, todavía hay botones físicos en la mayoría de los vehículos eléctricos.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los fabricantes diseñan estos botones para brindar al conductor y a los pasajeros un acceso conveniente a diferentes funciones y configuraciones del vehículo.
 

@@ -4,7 +4,7 @@ linktitle: Diseño de cabina
 description: La cabina de un automóvil es el espacio interior donde el conductor y los pasajeros interactúan con las funciones y características del automóvil. Por lo tanto, el diseño de la cabina es esencial para el atractivo general, el rendimiento, la comodidad y la seguridad del automóvil..
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 En esta sección, exploraremos el diseño de la cabina de los vehículos eléctricos actuales.
 

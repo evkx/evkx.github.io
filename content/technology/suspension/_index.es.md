@@ -4,7 +4,7 @@ linktitle: Suspensión
 description: La suspensión es una de las partes esenciales de la transmisión de un vehículo eléctrico. Nuevamente, EVKX.net le brinda todos los detalles.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 ## ¿Cuál es el propósito de la suspensión?
 

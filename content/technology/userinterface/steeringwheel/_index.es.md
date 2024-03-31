@@ -4,7 +4,7 @@ linktitle: Volante
 description: El volante es una parte esencial de la interfaz de usuario de un automóvil. El mecanismo de control primario permite al conductor dirigir el vehículo y controlar su dirección de movimiento.
 weight: 4
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los volantes vienen en varias formas, tamaños y materiales. Las formas comunes de volante incluyen diseños circulares clásicos y diseños más deportivos, como los en forma de D, de fondo plano o contorneados.
 

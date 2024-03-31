@@ -4,7 +4,7 @@ linktitle: Cámara infrarroja
 description:  Las cámaras infrarrojas, también conocidas como cámaras térmicas, se utilizan en algunos automóviles para diversos fines, como visión nocturna, detección de peatones y detección de animales.
 weight: 4
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Estas cámaras funcionan detectando la firma térmica de los objetos, en lugar de depender de la luz visible como las cámaras tradicionales.
 

@@ -5,7 +5,7 @@ description: Los vehículos eléctricos (EV) son cada vez más populares y asequ
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Sin embargo, no todos los vehículos eléctricos y estaciones de carga son compatibles. Los diferentes puertos y conectores de carga varían según la región, la velocidad y los estándares.
 

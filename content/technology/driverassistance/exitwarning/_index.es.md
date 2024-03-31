@@ -4,7 +4,7 @@ linktitle: Advertencia de salida
 description: La advertencia de salida es una característica de seguridad en los automóviles modernos que está diseñada para alertar a los conductores y pasajeros sobre peligros potenciales cuando se están preparando para salir del vehículo.
 weight: 14
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Esta característica es particularmente relevante cuando el automóvil está estacionado en una zona concurrida o al costado de una carretera transitada.
 

@@ -4,7 +4,7 @@ linktitle: Tampon
 description: Pour protéger la batterie les fabricants mettent en place des tampons sur les batteries.
 weight: 10
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Une batterie tampon est une caractéristique de certains véhicules électriques qui entraîne une différence entre la capacité brute et nette de la batterie. La capacité brute est l’énergie totale que la batterie peut stocker. En revanche, la capacité nette correspond à l’énergie utilisable que la batterie peut fournir au véhicule. La différence entre la capacité brute et nette est appelée le tampon.
 

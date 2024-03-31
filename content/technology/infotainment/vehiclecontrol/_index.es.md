@@ -4,7 +4,7 @@ linktitle: Control de vehículos
 description: Desde el sistema de infoentretenimiento, el conductor puede configurar los ajustes del vehículo para diversas funciones.
 weight: 4
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 ## Configuración de la unidad
 

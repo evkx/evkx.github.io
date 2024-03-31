@@ -4,7 +4,7 @@ linktitle: Espejos
 description: Los espejos son una parte importante de la interfaz de usuario en los automóviles. Los espejos sirven como una ayuda visual fundamental que permite al conductor observar los alrededores del vehículo, proporcionando un conocimiento situacional esencial y contribuyendo a una conducción segura.
 weight: 6
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Por lo tanto, los espejos se consideran una parte integral de la interfaz de usuario de los automóviles.
 

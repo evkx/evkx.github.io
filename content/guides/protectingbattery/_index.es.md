@@ -4,7 +4,7 @@ linktitle: Protección de la batería
 description: Las baterías de los vehículos eléctricos se degradan con el tiempo, pero hay muchas cosas que puedes hacer para que mantengan su capacidad por más tiempo.
 weight: 1
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Muchos factores aumentan la degradación, pero los siguientes son los más importantes.
 

@@ -4,7 +4,7 @@ linktitle: Guías
 description: A continuación se muestran diferentes guías para poseer un vehículo eléctrico y utilizar este sitio.
 weight: 4
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 <div class="contenedor sombra p-3 mb-5 bg-cuerpo-terciario borde redondeado">
 

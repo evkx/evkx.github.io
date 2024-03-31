@@ -5,7 +5,7 @@ description: Charger la batterie est le processus d’ajout d’une nouvelle én
 weight: 8
 navicon: bi-battery-charging
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Le chargement d'une batterie de VE implique le mouvement de porteurs de charge électrique, tels que des électrons et des ions, entre les électrodes de la batterie. La batterie comporte deux électrodes, une cathode et une anode, séparées par un électrolyte.
 

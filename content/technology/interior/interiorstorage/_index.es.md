@@ -4,7 +4,7 @@ linktitle: Almacenamiento interior
 description: El almacenamiento interior es el espacio dentro de un automóvil que se puede utilizar para guardar artículos personales, como teléfonos, billeteras, llaves, bebidas, etc.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 El almacenamiento interior puede incluir compartimentos, bolsillos, papeleras, bandejas o soportes que se encuentran en varias partes del automóvil, como las puertas, la consola central, la guantera, los respaldos de los asientos, etc. El almacenamiento interior puede ser visible u oculto. , fijos o flexibles, abiertos o cerrados según el modelo de coche y preferencias.
 

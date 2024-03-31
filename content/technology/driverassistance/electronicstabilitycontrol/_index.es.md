@@ -4,7 +4,7 @@ linktitle: ESC
 description: El control electrónico de estabilidad (ESC) es un sistema de asistencia al conductor diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
 weight: 13
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 El ESC es una característica de seguridad estándar en la mayoría de los vehículos modernos y, a veces, también se lo denomina Programa electrónico de estabilidad (ESP) o Control de estabilidad del vehículo (VSC).
 

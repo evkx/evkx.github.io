@@ -4,7 +4,7 @@ linktitle: Motores de inducción
 description: Los motores de inducción, también conocidos como motores asíncronos, son un tipo de motor eléctrico que se usa ampliamente en vehículos eléctricos (EV) por sus características y ventajas únicas.
 weight: 1
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los motores asíncronos, también conocidos como motores de inducción, son un tipo de motor eléctrico que se utiliza comúnmente en vehículos eléctricos (EV) para propulsión. Son conocidos por su simplicidad, confiabilidad y eficiencia, lo que los hace muy adecuados para aplicaciones automotrices.
 

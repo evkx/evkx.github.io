@@ -5,7 +5,7 @@ description: Para muchos, la autonomía es el aspecto más crítico de un vehíc
 weight: 3
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 
 La autonomía de los coches eléctricos suele indicarse como [rango WLTP](wltp/) (Procedimiento de prueba de vehículos ligeros armonizado a nivel mundial) en

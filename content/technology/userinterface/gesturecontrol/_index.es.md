@@ -4,7 +4,7 @@ linktitle:  Control de gestos
 description: El control de gestos es una tecnología que permite a los usuarios interactuar con dispositivos o sistemas mediante gestos físicos, normalmente detectados por sensores o cámaras.
 weight: 8
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 En el contexto de la tecnología automotriz, el control por gestos se refiere a la capacidad de controlar ciertas funciones de un vehículo, como infoentretenimiento, navegación o control de clima, mediante gestos o movimientos corporales, sin tocar físicamente botones, pantallas o controles.
 

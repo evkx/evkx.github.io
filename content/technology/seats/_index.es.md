@@ -5,7 +5,7 @@ description: ¡Bienvenido a la guía definitiva sobre sillas de coche en vehícu
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los asientos para el automóvil han recorrido un largo camino desde su diseño básico, con varios tipos, ajustes y características disponibles para satisfacer diferentes necesidades y preferencias.
 

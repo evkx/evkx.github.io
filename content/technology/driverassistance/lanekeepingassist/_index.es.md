@@ -4,7 +4,7 @@ linktitle: LKA
 description: Lane Keeping Assist (LKA) es otro sistema avanzado de asistencia al conductor (ADAS) que ayuda a los conductores a permanecer dentro de su carril mientras conducen.
 weight: 18
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 A diferencia de LDW, que solo alerta al conductor cuando está a punto de abandonar su carril, LKA interviene activamente aplicando movimientos de dirección para mantener el vehículo centrado dentro del carril.
 

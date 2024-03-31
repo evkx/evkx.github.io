@@ -4,7 +4,7 @@ linktitle: AES
 description: La dirección automática de emergencia (AES) es un sistema avanzado de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigiendo automáticamente el vehículo en una situación de emergencia.
 weight: 5
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los sistemas AES utilizan sensores como cámaras, radares o lidar para monitorear el camino y detectar si el vehículo se acerca demasiado a un objeto o peatón.
 

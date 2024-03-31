@@ -5,7 +5,7 @@ description:  Los sensores y las cámaras son muy importantes en los automóvile
 weight: 2
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Existen varios tipos de tecnologías utilizadas para los sensores en los automóviles modernos, según la aplicación específica y los requisitos del sensor.
 

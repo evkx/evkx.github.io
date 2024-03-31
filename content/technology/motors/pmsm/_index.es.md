@@ -4,7 +4,7 @@ linktitle: PMSM
 description: Un motor síncrono de imanes permanentes (PMSM) es un motor eléctrico que utiliza imanes permanentes en el rotor para generar un campo magnético que interactúa con el devanado del estator para producir rotación mecánica. Los PMSM se utilizan comúnmente en diversas aplicaciones, incluidos vehículos eléctricos, maquinaria industrial y electrodomésticos.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 {{<evkxdisplayaddarticle />}}
 

@@ -4,7 +4,7 @@ linktitle: Ultrasónico
 description:  Los sensores ultrasónicos se utilizan comúnmente en los automóviles para ayudar a los conductores a estacionar y evitar colisiones.
 weight: 5
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Funcionan emitiendo ondas sonoras de alta frecuencia que rebotan en los objetos y regresan al sensor. El tiempo que tardan las ondas sonoras en regresar se utiliza para calcular la distancia al objeto.
 

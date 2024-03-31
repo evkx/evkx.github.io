@@ -4,7 +4,7 @@ linktitle: Plataformas EV
 description: Construir un vehículo eléctrico es más complejo que reemplazar un motor de combustión por un motor eléctrico y una batería. Los vehículos eléctricos requieren un enfoque diferente de diseño, ingeniería y fabricación, que es donde entran en juego las plataformas de vehículos eléctricos.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Una plataforma EV es el marco o arquitectura básica de un EV sin la carrocería, el interior o el tren motriz. Es la base que sustenta el resto de componentes y sistemas del vehículo, como la batería, el motor eléctrico, la suspensión, la dirección, los frenos y la electrónica. Una plataforma de vehículo eléctrico también determina el tamaño, la forma, el rendimiento, el alcance y las características de un vehículo eléctrico.
 

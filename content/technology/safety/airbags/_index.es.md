@@ -4,7 +4,7 @@ linktitle: bolsas de aire
 description: Las bolsas de aire son una característica de seguridad crítica en los vehículos eléctricos (EV), diseñadas para proteger al conductor y a los pasajeros en caso de una colisión o impacto repentino.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 En este artículo, exploraremos los diferentes tipos de bolsas de aire utilizadas en los vehículos eléctricos, los beneficios de sus ubicaciones y su importancia general para garantizar la seguridad de los conductores y pasajeros de los vehículos eléctricos.
 

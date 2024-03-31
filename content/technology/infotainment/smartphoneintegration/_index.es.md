@@ -4,7 +4,7 @@ linktitle: Integración de teléfonos inteligentes
 description: Android Auto y Apple CarPlay son sistemas que le permiten conectar su teléfono inteligente al sistema de información y entretenimiento de su automóvil y acceder a algunas de las funciones de su teléfono en la pantalla del automóvil.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
   Están diseñados para que le resulte más fácil y seguro utilizar su teléfono mientras conduce, sin tener que tocarlo ni apartar la vista de la carretera.
 

@@ -4,7 +4,7 @@ linktitle: Tallos
 description: Las palancas, en el contexto de los automóviles, generalmente se refieren a los interruptores o palancas de control en la columna de dirección, que los conductores usan para operar diversas funciones del vehículo sin quitar las manos del volante.
 weight: 5
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Los tallos también se denominan “controles de tallo” o “tallos de columna”. Por lo general, están montados en el costado de la columna de dirección y pueden variar en diseño y función según la marca y modelo del vehículo.
 

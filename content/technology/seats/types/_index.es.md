@@ -4,7 +4,7 @@ linktitle: Tipos de asientos
 description: El tipo de asientos instalados puede afectar significativamente la comodidad, la funcionalidad y el estilo. Con los avances en tecnología y diseño, los asientos para automóviles han recorrido un largo camino, desde bancos básicos hasta opciones sofisticadas y especializadas que satisfacen las diversas necesidades y preferencias de conductores y pasajeros.
 weight: 1
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 En esta completa sección de artículos, veremos los diferentes tipos de asientos que se usan comúnmente en los automóviles, desde asientos delanteros estándar hasta bancos versátiles, lujosos asientos tipo capitán y los exclusivos asientos con solapa de la tercera fila que se encuentran en algunos vehículos de 7 plazas.
 

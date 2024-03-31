@@ -4,7 +4,7 @@ linktitle: Luces traseras
 description: En cuanto a la seguridad del vehículo, las luces traseras son cruciales para garantizar que los conductores puedan verlos y que otros puedan verlos a ellos en la carretera. 
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Las luces traseras, también conocidas como luces traseras, son un componente esencial del sistema de iluminación de un automóvil y han experimentado importantes avances tecnológicos e innovaciones de diseño a lo largo de los años.
 

@@ -5,7 +5,7 @@ description: Iluminación ambiental
 descripción: En los últimos años, los fabricantes de automóviles han estado explorando nuevas formas de mejorar la experiencia en el automóvil, yendo más allá del rendimiento y la comodidad. Una de esas innovaciones que ha ganado popularidad es la iluminación ambiental interior, que utiliza luces ubicadas estratégicamente para crear una atmósfera visualmente atractiva y relajante dentro del vehículo.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 La iluminación ambiental interior ha evolucionado de una característica funcional a un elemento de diseño que puede elevar la estética del interior del automóvil, creando un ambiente único y personalizado para el conductor y los pasajeros.
 

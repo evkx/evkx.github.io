@@ -4,7 +4,7 @@ linktitle: Cargaison sur le toit
 description:   Une solution possible consiste à utiliser des chargements sur le toit, tels que des porte-bagages ou des coffres, pour augmenter la capacité de stockage des véhicules électriques. Le chargement sur le toit peut aider à transporter des objets volumineux, lourds ou de forme irrégulière tels que des skis, des vélos, des kayaks ou des tentes. 
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Cependant, le chargement sur le toit présente certains inconvénients et limites que les propriétaires de véhicules électriques devraient connaître avant de l'installer sur leur véhicule.
 Dans cet article, nous explorerons certains facteurs qui affectent les performances et la faisabilité du chargement sur le toit des véhicules électriques et fournirons quelques conseils et recommandations pour les choisir et les utiliser.

@@ -5,7 +5,7 @@ description: La prueba de rango de la EPA es la prueba utilizada en los Estados 
 weight: 1
 shownavtabs: true
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 ## ¿Cómo se prueba?
 

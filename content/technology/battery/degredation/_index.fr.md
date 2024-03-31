@@ -4,7 +4,7 @@ linktitle:  Dégradation
 description: La dégradation de la batterie des véhicules électriques fait référence à la perte progressive de la capacité ou des performances d'une batterie au fil du temps, ce qui peut affecter l'autonomie du véhicule. Comme d’autres types de batteries, cela est dû à une combinaison de facteurs.
 weight: 9
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 L’une des principales causes de dégradation des batteries des véhicules électriques réside dans les réactions chimiques qui se produisent pendant les cycles de charge et de décharge. Au fil du temps, ces réactions peuvent provoquer des modifications physiques des électrodes et de l'électrolyte de la batterie, entraînant une réduction de la capacité ou des performances de la batterie.
 

@@ -4,7 +4,7 @@ linktitle: DDD
 description: La detección de somnolencia del conductor (DDD) es una característica de seguridad en algunos vehículos modernos que utiliza varios sensores y algoritmos para monitorear el nivel de alerta del conductor y detectar signos de somnolencia o fatiga.
 weight: 10
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 El sistema está diseñado para alertar al conductor si detecta signos de somnolencia, para que pueda tomar un descanso o detenerse de forma segura.
 

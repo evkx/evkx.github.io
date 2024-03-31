@@ -4,7 +4,7 @@ linktitle: WRSM
 description: Un motor síncrono de rotor bobinado, también conocido como motor síncrono de anillos colectores o motor síncrono de excitación externa (EESM), es un tipo de motor eléctrico que combina características de motores síncronos y motores de inducción de rotor bobinado.
 weight: 3
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 ## Como funciona
 

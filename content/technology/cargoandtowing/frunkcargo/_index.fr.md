@@ -4,7 +4,7 @@ linktitle: Frunk Cargo
 description: Un coffre est un espace de chargement situé à l'avant du véhicule, là où se trouve généralement le moteur à combustion interne. Frunks peut offrir de nombreux avantages, tels qu'un espace de stockage supplémentaire, un accès facile et une sécurité améliorée.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 {{< sitefiguresized thumb="technology/cargoandtowing/frunkcargo/frunk_7_st.jpg" title="Cadillac Escalade IQ Frunk" width="3000" height="2000">}}
 

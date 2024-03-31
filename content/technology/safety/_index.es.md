@@ -5,7 +5,7 @@ description: Los vehículos eléctricos cuentan con varios sistemas de seguridad
 
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 ## Bolsas de aire
 

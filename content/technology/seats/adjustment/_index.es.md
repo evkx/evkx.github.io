@@ -4,7 +4,7 @@ linktitle: Ajustes y características
 description: Los fabricantes incorporan características y tecnología avanzadas en sus asientos para brindar comodidad y conveniencia a los pasajeros.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Este extenso artículo explorará las diferentes funcionalidades de los asientos de automóvil para vehículos eléctricos, incluido el ajuste eléctrico, el soporte lumbar, el masaje, la ventilación, la reclinación, la memoria del asiento, la funcionalidad de fácil acceso, el soporte para las piernas y muchas más.
 

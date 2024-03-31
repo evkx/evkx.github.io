@@ -4,7 +4,7 @@ linktitle: ventanas
 description: Las ventanas son partes esenciales de cualquier automóvil, ya que brindan visibilidad, ventilación, protección y comodidad al conductor y a los pasajeros.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Las ventanillas para automóviles se clasifican en diferentes tipos según su ubicación, función y diseño. Este artículo explorará los principales tipos de ventanas de automóviles y sus características.
 
