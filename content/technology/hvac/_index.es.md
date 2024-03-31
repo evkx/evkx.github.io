@@ -138,7 +138,4 @@ Entonces, ¿cuánto afecta eso al alcance?
 </tbody>
 </table>
 
-<div class="mt-3 mb-3">
-     <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cargando</strong></a>
-     <a href="../doors/" class="text-decoration-none text-black float-end"><strong>Puertas <i class="bi-arrow-right"></i></strong ></a>
-</div>
+{{< pagenavigation b_url="../chargement/" b_title="Cargando" f_url="../doors/" f_title="Puertas" >}}

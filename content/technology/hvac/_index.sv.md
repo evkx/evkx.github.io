@@ -137,7 +137,4 @@ Så hur mycket påverkar det räckvidden.
 </tbody>
 </table>
 
-<div class="mt-3 mb-3">
-    <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Ladda</strong></a>
-    <a href="../doors/" class="text-decoration-none text-black float-end"><strong>Dörrar <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../chargement/" b_title="Ladda" f_url="../doors/" f_title="Dörrar" >}}
