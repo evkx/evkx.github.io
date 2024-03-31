@@ -73,8 +73,4 @@ El control por gestos es otra tecnología que está empezando a aparecer en los 
 
 [Lea todo sobre el control por gestos.](gesturecontrol/)
 
-
-<div class="mt-3 mb-3">
-     <a href="../wheels/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Neumáticos y ruedas</strong> </a>
-     <a href="screens/" class="text-decoration-none text-black float-end"><strong>Pantallas<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../wheels/" b_title="Neumáticos y ruedas" f_url="screens/" f_title="Pantallas" >}}

@@ -23,7 +23,4 @@ Her er nogle vigtige aspekter af motion control i bilindustrien:
 
 Sammenfattende er motion control i biler en teknologi, der giver brugerne mulighed for at styre forskellige køretøjsfunktioner ved hjælp af hånd- eller kropsbevægelser uden fysisk at røre knapper eller skærme. Det giver fordele såsom naturlig interaktion, reducerede distraktioner og bekvemmelighed, men har også begrænsninger relateret til nøjagtighed, brugerindlæringskurve og systemintegration. Tilgængeligheden og mulighederne for bevægelseskontrol kan variere afhængigt af det specifikke køretøj og det anvendte system.
 
-<div class="mt-3 mb-3">
-    <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Stemmekontroll</strong></a>
-    <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Vinduer<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../voicecontrol/" b_title="Stemmekontroll" f_url="../../windows/" f_title="Vinduer" >}}

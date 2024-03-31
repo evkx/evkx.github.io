@@ -59,7 +59,4 @@ Knapper i biler giver en bekvem måde at styre forskellige funktioner på uden a
 
 Veldesignede knapper kan bidrage til sikrere kørselspraksis ved at tillade chauffører at holde øjnene på vejen og hænderne på rattet, mens de betjener forskellige køretøjsfunktioner. Test viser også, at chauffører kan [udføre opgaver hurtigere](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds) med fysiske knapper end med skærme.
 
-<div class="mt-3 mb-3">
-    <a href="../hud/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Head-up Display</strong></a>
-    <a href="../steeringwheel/" class="text-decoration-none text-black float-end"><strong>Ratt<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../hud/" b_title="Head-up Display" f_url="../steeringwheel/" f_title="Ratt" >}}

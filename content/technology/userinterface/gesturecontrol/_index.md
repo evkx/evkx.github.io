@@ -23,8 +23,4 @@ Here are some key aspects of gesture control in the automotive industry:
 
 In summary, gesture control in cars is a technology that allows users to control various vehicle functions using hand or body gestures, without physically touching buttons or screens. It offers benefits such as natural interaction, reduced distractions, and convenience, but also has limitations related to accuracy, user learning curve, and system integration. The availability and capabilities of gesture control may vary depending on the specific vehicle and system used.
 
-
-<div class="mt-3 mb-3">
-    <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Voice control</strong></a>
-    <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Windows<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../voicecontrol/" b_title="Voice control" f_url="../../windows/" f_title="Windows" >}}

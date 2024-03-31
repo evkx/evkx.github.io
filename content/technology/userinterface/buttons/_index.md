@@ -60,7 +60,4 @@ Buttons in cars provide a convenient way to control various functions without ha
 
 Well-designed buttons can contribute to safer driving practices by allowing drivers to keep their eyes on the road and hands on the wheel while operating different vehicle functions. Tests also show that drivers can [perform tasks faster](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds) with physical buttons than with screens.
 
-<div class="mt-3 mb-3">
-    <a href="../hud/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Head-up Display</strong></a>
-    <a href="../steeringwheel/" class="text-decoration-none text-black float-end"><strong>Steering wheel<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../hud/" b_title="Head-up Display" f_url="../steeringwheel/" f_title="Steering wheel" >}}

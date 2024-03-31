@@ -60,7 +60,4 @@ Los botones de los automóviles proporcionan una manera conveniente de controlar
 
 Los botones bien diseñados pueden contribuir a prácticas de conducción más seguras al permitir a los conductores mantener la vista en la carretera y las manos en el volante mientras operan diferentes funciones del vehículo. Las pruebas también muestran que los conductores pueden [realizar tareas más rápido](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds) con botones físicos que con pantallas.
 
-<div class="mt-3 mb-3">
-     <a href="../hud/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Head-up Display</strong ></a>
-     <a href="../steeringwheel/" class="text-decoration-none text-black float-end"><strong>Volante<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../hud/" b_title="Head-up Display" f_url="../steeringwheel/" f_title="Volante" >}}

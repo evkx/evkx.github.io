@@ -44,7 +44,4 @@ Las gafas de sol Polaroid también pueden impedir que el conductor vea la pantal
 
 En la [base de datos EVKX EV](../../evsearch/), puede buscar modelos con HUD.
 
-<div class="mt-3 mb-3">
-     <a href="../screens/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Pantallas</strong></a>
-     <a href="../buttons/" class="text-decoration-none text-black float-end"><strong>Botones físicos<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../screens/" b_title="Pantallas" f_url="../buttons/" f_title="Botones físicos" >}}

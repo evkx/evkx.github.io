@@ -23,8 +23,4 @@ Her er nogle vigtige aspekter af stemmestyring i biler:
 
 Sammenfattende er stemmestyring i biler en teknologi, der gør det muligt for chauffører at styre forskellige køretøjsfunktioner ved hjælp af stemmekommandoer. Det giver fordele såsom forbedret sikkerhed, bekvemmelighed og tilgængelighed, men har også nogle begrænsninger relateret til nøjagtighed, kompleksitet af kommandoer og systemintegration. Tilgængelighed og funktioner til stemmestyring kan variere afhængigt af det specifikke køretøj og det anvendte system.
 
-
-<div class="mt-3 mb-3">
-    <a href="../mirrors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Spejl</strong></a>
-    <a href="../gesturecontrol/" class="text-decoration-none text-black float-end"><strong>Bevægelseskontrol<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../mirrors/" b_title="Spejl" f_url="../gesturecontrol/" f_title="Bevægelseskontrol" >}}

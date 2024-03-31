@@ -23,7 +23,4 @@ Här är några viktiga aspekter av rörelsekontroll inom bilindustrin:
 
 Sammanfattningsvis är rörelsekontroll i bilar en teknik som låter användare styra olika fordonsfunktioner med hjälp av hand- eller kroppsrörelser, utan att fysiskt röra knappar eller skärmar. Det erbjuder fördelar som naturlig interaktion, minskade distraktioner och bekvämlighet, men har också begränsningar relaterade till noggrannhet, användarens inlärningskurva och systemintegration. Tillgängligheten och funktionerna för rörelsekontroll kan variera beroende på det specifika fordonet och det specifika systemet som används.
 
-<div class="mt-3 mb-3">
-    <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Röst kontroll</strong></a>
-    <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Fönster<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../voicecontrol/" b_title="Röst kontroll" f_url="../../windows/" f_title="Fönster" >}}

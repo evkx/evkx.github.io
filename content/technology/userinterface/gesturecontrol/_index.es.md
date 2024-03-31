@@ -24,8 +24,4 @@ A continuación se muestran algunos aspectos clave del control por gestos en la 
 
 En resumen, el control por gestos en los automóviles es una tecnología que permite a los usuarios controlar diversas funciones del vehículo mediante gestos con las manos o el cuerpo, sin tocar físicamente botones o pantallas. Ofrece beneficios como interacción natural, reducción de distracciones y conveniencia, pero también tiene limitaciones relacionadas con la precisión, la curva de aprendizaje del usuario y la integración del sistema. La disponibilidad y las capacidades del control por gestos pueden variar según el vehículo y el sistema específicos utilizados.
 
-
-<div class="mt-3 mb-3">
-     <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Control por voz</strong></a>
-     <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Windows<i class="bi-arrow-right"></i> </strong></a>
-</div>
+{{< pagenavigation b_url="../voicecontrol/" b_title="Control por voz" f_url="../../windows/" f_title="Windows" >}}

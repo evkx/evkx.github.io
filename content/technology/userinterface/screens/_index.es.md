@@ -141,10 +141,4 @@ Vea los ejemplos a continuación.
 
 {{< sitefiguresized thumb="technology/userinterface/screens/eqslayout_2_st.jpg" width="3000" height="1687" title="Mercedes EQS-SUV MBUX Diseño de hiperpantalla totalmente integrado" >}}
 
-[Continúe con las pantallas frontales.](../hud/)
-
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Interfaz de usuario</strong></a >
-     <a href="../hud/" class="text-decoration-none text-black float-end"><strong>Pantalla frontal<i class="bi-arrow-right"></i> </strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Interfaz de usuario" f_url="../hud/" f_title="Pantalla frontal" >}}

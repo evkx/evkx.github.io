@@ -24,8 +24,4 @@ A continuación se detallan algunos aspectos clave del control por voz en los au
 
 En resumen, el control por voz en los automóviles es una tecnología que permite a los conductores controlar diversas funciones del vehículo mediante comandos de voz. Ofrece beneficios como mayor seguridad, conveniencia y accesibilidad, pero también tiene algunas limitaciones relacionadas con la precisión, la complejidad de los comandos y la integración del sistema. La disponibilidad y las capacidades del control por voz pueden variar según el vehículo y el sistema específicos utilizados.
 
-
-<div class="mt-3 mb-3">
-     <a href="../mirrors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Espejos</strong></a>
-     <a href="../gesturecontrol/" class="text-decoration-none text-black float-end"><strong>Control de gestos<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../mirrors/" b_title="Espejos" f_url="../gesturecontrol/" f_title="Control de gestos" >}}

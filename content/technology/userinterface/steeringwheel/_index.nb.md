@@ -48,7 +48,4 @@ Moderne kjøretøy tilbyr ulike rattjusteringer for å tillate sjåfører å fin
 
 Det er viktig å merke seg at riktig justering av rattet er avgjørende for sikker kjøring. Førere bør justere rattet for å gi et avslappet og komfortabelt grep, med armene lett bøyd og skuldrene avslappet. I tillegg skal ikke rattet hindre førerens sikt til instrumentpanelet eller veien, og kollisjonsputen bør plasseres riktig i en nødsituasjon.
 
-<div class="mt-3 mb-3">
-    <a href="../buttons/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Fysiske knapper</strong></a>
-    <a href="../stalks/" class="text-decoration-none text-black float-end"><strong>Hendler<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../buttons/" b_title="Fysiske knapper" f_url="../stalks/" f_title="Hendler" >}}

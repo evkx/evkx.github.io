@@ -23,7 +23,4 @@ Her er noen viktige aspekter ved bevegelseskontroll i bilindustrien:
 
 Oppsummert er bevegelseskontroll i biler en teknologi som lar brukere kontrollere ulike kjøretøyfunksjoner ved hjelp av hånd- eller kroppsbevegelser, uten fysisk å berøre knapper eller skjermer. Det tilbyr fordeler som naturlig interaksjon, reduserte distraksjoner og bekvemmelighet, men har også begrensninger knyttet til nøyaktighet, brukerens læringskurve og systemintegrasjon. Tilgjengeligheten og mulighetene til bevegelseskontroll kan variere avhengig av det spesifikke kjøretøyet og systemet som brukes.
 
-<div class="mt-3 mb-3">
-    <a href="../voicecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Stemmekontroll</strong></a>
-    <a href="../../windows/" class="text-decoration-none text-black float-end"><strong>Vinduer<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../voicecontrol/" b_title="Stemmekontroll" f_url="../../windows/" f_title="Vinduer" >}}

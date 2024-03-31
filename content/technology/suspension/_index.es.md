@@ -182,7 +182,4 @@ En general, la suspensión con amortiguación adaptativa puede mejorar la experi
 {{< sitefiguresized thumb="technology/suspension/rsetrongtsuspension_st.jpg" width="3000" height="1723" title="Audi RS e-tron GT suspensión neumática adaptativa" >}}
 
 
-<div class="mt-3 mb-3">
-    <a href="../sensorsandcameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensors & Cameras</strong></a>
-    <a href="../wheels/" class="text-decoration-none text-black float-end"><strong>Tires & Wheels<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../sensorsandcameras/" b_title="Sensors & Cameras" f_url="../wheels/" f_title="Tires & Wheels" >}}

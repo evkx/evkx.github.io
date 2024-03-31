@@ -43,7 +43,4 @@ Polaroid solglasögon kan också hindra föraren från att se skärmen.
 
 I [EVKX EV-databasen](../../evsearch/) kan du söka efter modeller med HUD.
 
-<div class="mt-3 mb-3">
-    <a href="../screens/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Skärmar</strong></a>
-    <a href="../buttons/" class="text-decoration-none text-black float-end"><strong>Fysiska knappar<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../screens/" b_title="Skärmar" f_url="../buttons/" f_title="Fysiska knappar" >}}

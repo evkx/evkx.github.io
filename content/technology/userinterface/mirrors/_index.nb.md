@@ -47,3 +47,5 @@ Innvendige speil eller sminkespeil er vanligvis plassert på solskjermene eller 
     <a href="../stalks/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Hendler</strong></a>
     <a href="../voicecontrol/" class="text-decoration-none text-black float-end"><strong>Stemmekontroll<i class="bi-arrow-right"></i></strong></a>
 </div>
+
+{{< pagenavigation b_url="../stalks/" b_title="Hendler" f_url="../voicecontrol/" f_title="Stemmekontroll" >}}

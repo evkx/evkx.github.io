@@ -53,8 +53,4 @@ En el siguiente vídeo, [Bjørn Nyland](../../../guides/evreviewers/#bjørn-nyla
 
 El diseño sin tallo está disponible actualmente en los nuevos Model S, Model 3 y Model X, y esperamos que Tesla introduzca pronto un diseño sin tallo en el Model Y.
 
-
-<div class="mt-3 mb-3">
-     <a href="../steeringwheel/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Volante</strong></a>
-     <a href="../mirrors/" class="text-decoration-none text-black float-end"><strong>Espejos<i class="bi-arrow-right"></i></strong ></a>
-</div>
+{{< pagenavigation b_url="../steeringwheel/" b_title="Volante" f_url="../mirrors/" f_title="Espejos" >}}

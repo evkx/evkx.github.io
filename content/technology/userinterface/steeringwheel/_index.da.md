@@ -47,7 +47,4 @@ Moderne køretøjer tilbyder forskellige ratjusteringer, så chaufførerne kan f
 
 Det er vigtigt at bemærke, at korrekt justering af rattet er afgørende for sikker kørsel. Chauffører bør justere rattet for at give et afslappet og behageligt greb, med let bøjede arme og afslappede skuldre. Desuden bør rattet ikke hindre førerens udsyn til instrumentpanelet eller vejen, og airbaggen skal placeres korrekt i en nødsituation.
 
-<div class="mt-3 mb-3">
-    <a href="../buttons/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Fysiske knapper</strong></a>
-    <a href="../stalks/" class="text-decoration-none text-black float-end"><strong>Håndtag<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../buttons/" b_title="Fysiske knapper" f_url="../stalks/" f_title="Håndtag" >}}

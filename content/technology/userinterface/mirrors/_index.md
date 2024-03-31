@@ -44,7 +44,4 @@ In addition they reduce wind restiance and therby increases range and reduces wi
 
 Interior or vanity mirrors are typically located on the sun visors or overhead console and allow the driver and passengers to check their appearance or view the interior of the vehicle.
 
-<div class="mt-3 mb-3">
-    <a href="../stalks/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Stalks</strong></a>
-    <a href="../voicecontrol/" class="text-decoration-none text-black float-end"><strong>Voice control<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../stalks/" b_title="Stalks" f_url="../voicecontrol/" f_title="Voice control" >}}

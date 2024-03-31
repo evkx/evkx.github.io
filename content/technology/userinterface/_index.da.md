@@ -72,7 +72,4 @@ Motion control er en anden teknologi, der begynder at dukke op i elbiler. Med ge
 
 [Læs alt om gestus control.](gesturecontrol/)
 
-<div class="mt-3 mb-3">
-    <a href="../wheels/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Dæk og fælge</strong></a>
-    <a href="screens/" class="text-decoration-none text-black float-end"><strong>Skærme<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../wheels/" b_title="Dæk og fælge" f_url="screens/" f_title="Skærme" >}}
