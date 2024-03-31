@@ -123,7 +123,4 @@ Algunos asientos ofrecen soporte para las piernas para posiciones relajantes.
 ### Reposapiés
 
 
-<div class="mt-3 mb-3">
-     <a href="../types/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Tipos de asientos</strong></a>
-     <a href="../materials/" class="text-decoration-none text-black float-end"><strong>Tapicería y materiales de los asientos<i class="bi-arrow-right"></i> </strong></a>
-</div>
+{{< pagenavigation b_url="../types/" b_title="Tipos de asientos" f_url="../materials/" f_title="Tapicería y materiales de los asientos" >}}

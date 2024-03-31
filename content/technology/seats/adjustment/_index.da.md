@@ -121,7 +121,4 @@ Nogle sæder tilbyder benstøtte til afslappende stillinger.
 
 ### Fodstøtte
 
-<div class="mt-3 mb-3">
-    <a href="../types/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sædetyper</strong></a>
-    <a href="../materials/" class="text-decoration-none text-black float-end"><strong>Sædebetræk og materialer<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../types/" b_title="Sædetyper" f_url="../materials/" f_title="Sædebetræk og materialer" >}}

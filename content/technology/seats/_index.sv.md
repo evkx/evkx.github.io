@@ -38,7 +38,4 @@ I EVKX EV-databasen kan du söka efter EV-modeller med den typ av säteskonfigur
 
 Gå till [EVKX EV Database](../../evsearch/).
 
-<div class="mt-3 mb-3">
-    <a href="../safety/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Säkerhet</strong></a>
-    <a href="types/" class="text-decoration-none text-black float-end"><strong>Setetyper<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../safety/" b_title="Säkerhet" f_url="types/" f_title="Setetyper" >}}

@@ -39,7 +39,4 @@ En la base de datos de EVKX EV, puede buscar modelos de EV con el tipo de config
 
 Vaya a [base de datos EVKX EV](../../evsearch/).
 
-<div class="mt-3 mb-3">
-     <a href="../seguridad/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Seguridad</strong></a>
-     <a href="types/" class="text-decoration-none text-black float-end"><strong>Tipos de asientos<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../safety/" b_title="Seguridad" f_url="types/" f_title="Tipos de asientos" >}}

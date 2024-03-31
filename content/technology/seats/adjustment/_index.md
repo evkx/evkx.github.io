@@ -123,8 +123,4 @@ Some seats offer leg support for relaxing positions.
 
 ### Footrest
 
-
-<div class="mt-3 mb-3">
-    <a href="../types/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Seat types</strong></a>
-    <a href="../materials/" class="text-decoration-none text-black float-end"><strong>Seat upholstery & materials<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../types/" b_title="Seat types" f_url="../materials/" f_title="Seat upholstery & materials" >}}

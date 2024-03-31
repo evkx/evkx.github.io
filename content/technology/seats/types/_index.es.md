@@ -113,7 +113,4 @@ En la base de datos de EVKX EV puedes buscar modelos con un tipo de asiento espe
 
 Continúe con [ajustes y características del asiento](../ajuste/).
 
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>Sillas de coche</strong></a >
-     <a href="../adjustment/" class="text-decoration-none text-black float-end"><strong>Ajuste y características del asiento<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Sillas de coche" f_url=../adjustment/" f_title="Ajuste y características del asiento" >}}

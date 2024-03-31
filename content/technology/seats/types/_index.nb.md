@@ -115,7 +115,4 @@ I EVKX EV-databasen kan du søke etter modeller med en bestemt setetype.
 
 Fortsett til [setejustering og funksjoner](../adjustment/).
 
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bilseter</strong></a>
-    <a href="../adjustment/" class="text-decoration-none text-black float-end"><strong>Setejustering og funksjoner<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Bilseter" f_url=../adjustment/" f_title="Setejustering og funksjoner" >}}

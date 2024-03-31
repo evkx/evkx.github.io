@@ -123,8 +123,4 @@ Noen seter tilbyr benstøtte for avslappende stillinger.
 
 ### Fotstøtte
 
-
-<div class="mt-3 mb-3">
-    <a href="../types/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Setetyper</strong></a>
-    <a href="../materials/" class="text-decoration-none text-black float-end"><strong>Setetrekk og materialer<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../types/" b_title="Setetyper" f_url="../materials/" f_title="Setetrekk og materialer" >}}

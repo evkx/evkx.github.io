@@ -40,7 +40,4 @@ In the EVKX EV database, you can search for EV models with the type of seat conf
 Go to [EVKX EV database](../../evsearch/).
 
 
-<div class="mt-3 mb-3">
-    <a href="../safety/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Safety</strong></a>
-    <a href="types/" class="text-decoration-none text-black float-end"><strong>Seat types<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../safety/" b_title="Safety" f_url="types/" f_title="Seat types" >}}
