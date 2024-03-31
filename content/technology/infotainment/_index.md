@@ -63,4 +63,4 @@ Others like Polestar and Volvo base their system on [Android Automotive](https:/
 
 The Infotainment systems are typical available on one or more screens. Rear or [detailed screen article](../userinterface/screens/) to know more.
 
-{{< pagenavigation b_url="../glassroof/" b_title="Glass Panel Roof" f_url="../audiosystem/" f_title="Audio system" >}}
+{{< pagenavigation b_url="../glassroof/" b_title="Glass Panel Roof" f_url="audiosystem/" f_title="Audio system" >}}

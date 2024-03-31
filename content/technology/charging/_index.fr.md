@@ -18,7 +18,7 @@ Cet article vous expliquera tout ce que vous devez savoir sur la recharge d’un
 - Les tendances et évolutions futures de la recharge des véhicules électriques
 - À la fin de cet article, vous comprendrez clairement comment recharger un véhicule électrique de manière efficace, sûre et pratique. Vous apprendrez également comment choisir la meilleure option de recharge pour votre modèle de véhicule électrique, vos habitudes de conduite et votre budget12345.
 
-{{< sitefiguresized thumb="technology/chargement/chargement_1_st.jpg" width="3000" height="2669" title="Chargement Porsche Taycan Turbo S" >}}
+{{< sitefiguresized thumb="technology/charging/charging_1_st.jpg" width="3000" height="2669" title="Chargement Porsche Taycan Turbo S" >}}
 
 ## Niveaux de charge
 
@@ -54,7 +54,7 @@ L'échange de batterie est une méthode de recharge des véhicules électriques 
 
 Tout savoir sur [l'échange de batterie](batteryswap)
 
-{{< sitefiguresized thumb="technology/chargement/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Station d'échange de batterie Nio Power" >}}
+{{< sitefiguresized thumb="technology/charging/batteryswap/powerswap_1_st.jpg" width="3000" height="1687" title="Station d'échange de batterie Nio Power" >}}
 
 
 <div class="mt-3 mb-3">

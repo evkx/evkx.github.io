@@ -113,4 +113,4 @@ I EVKX EV-databasen kan du søge efter modeller med en bestemt sædetype.
 
 Fortsæt til [sædejustering og funktioner](../adjustment/).
 
-{{< pagenavigation b_url="../" b_title="Sæder" f_url=../adjustment/" f_title="Sædejustering og funktioner" >}}
+{{< pagenavigation b_url="../" b_title="Sæder" f_url="../adjustment/" f_title="Sædejustering og funktioner" >}}

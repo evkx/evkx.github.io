@@ -33,5 +33,5 @@ Voir l’examen du système par Bjørn Nyland ci-dessous.
 
 <div class="mt-3 mb-3">
      <a href="../dcfastchargement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Charge rapide CC</strong> </a>
-     <a href="../bidirectionnel/" class="text-decoration-none text-black float-end"><strong>Charge bidirectionnelle <i class="bi-arrow-right"></i></strong></a>
+     <a href="../bidirectional/" class="text-decoration-none text-black float-end"><strong>Charge bidirectionnelle <i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -115,4 +115,4 @@ In the EVKX EV database you can search for models with a specific seat type.
 
 Continue to [seat adjustment and features](../adjustment/).
 
-{{< pagenavigation b_url="../" b_title="Car Seats" f_url=../adjustment/" f_title="Seat adjustment and features" >}}
+{{< pagenavigation b_url="../" b_title="Car Seats" f_url="../adjustment/" f_title="Seat adjustment and features" >}}

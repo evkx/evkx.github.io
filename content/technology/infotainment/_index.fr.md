@@ -5,7 +5,7 @@ description: Les systèmes d'infodivertissement sont devenus un élément standa
 shownavtabs: true
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
   Dans cet article, nous aborderons les différents aspects des systèmes d'infodivertissement.
 
   {{< sitefiguresized thumb="technology/infotainment/teslamodelxinfotainment_st.jpg" width="1767" height="1228" title="Système d'infodivertissement Tesla Model X" >}}
@@ -62,4 +62,4 @@ D'autres, comme Polestar et Volvo, basent leur système sur [Android Automotive]
 
 Les systèmes d'infodivertissement sont généralement disponibles sur un ou plusieurs écrans. Arrière ou [article écran détaillé](../userinterface/screens/) pour en savoir plus.
 
-{{< pagenavigation b_url="../glassroof/" b_title="Toit en panneaux de verre" f_url="../audiosystem/" f_title="Système audio" >}}
+{{< pagenavigation b_url="../glassroof/" b_title="Toit en panneaux de verre" f_url="audiosystem/" f_title="Système audio" >}}

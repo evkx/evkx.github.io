@@ -49,9 +49,9 @@ Les camionnettes permettent de transporter de nombreux types de marchandises dif
 
 Les véhicules électriques (VE) deviennent de plus en plus populaires et pratiques à diverses fins, notamment le remorquage. Cependant, de nombreuses personnes peuvent avoir des questions ou des inquiétudes concernant les performances et l’autonomie des véhicules électriques lorsqu’ils tractent une remorque.
 
-[Vous pouvez tout lire dans notre section remorquage.](remorquage/)
+[Vous pouvez tout lire dans notre section remorquage.](towing/)
 
 <div class="mt-3 mb-3">
-     <a href="../brakes/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>Freins</strong></ une>
-     <a href="interiorcargo/" class="text-decoration-none text-black float-end"><strong>Cargo intérieur <i class="bi-arrow-right"></i></strong>< /a>
+     <a href="../brakes/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>Freins</strong></a>
+     <a href="interiorcargo/" class="text-decoration-none text-black float-end"><strong>Cargo intérieur <i class="bi-arrow-right"></i></strong></a>
 </div>

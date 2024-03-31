@@ -113,4 +113,4 @@ I EVKX EV-databasen kan du söka efter modeller med en specifik sätestyp.
 
 Fortsätt till [stolsjustering och funktioner](../adjustment/).
 
-{{< pagenavigation b_url="../" b_title="Bilsäten" f_url=../adjustment/" f_title="Stolsjustering och funktioner" >}}
+{{< pagenavigation b_url="../" b_title="Bilsäten" f_url="../adjustment/" f_title="Stolsjustering och funktioner" >}}

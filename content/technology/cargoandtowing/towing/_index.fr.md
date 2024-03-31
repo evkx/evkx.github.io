@@ -159,5 +159,5 @@ Voir la liste complète dans la base de données EVKX EV [ici](../../../evsearch
 
 <div class="mt-3 mb-3">
      <a href="../bedcargo/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cargo sur caisse</strong> </a>
-     <a href="../../chargement/" class="text-decoration-none text-black float-end"><strong>Charge <i class="bi-arrow-right"></i> </strong></a>
+     <a href="../../charging/" class="text-decoration-none text-black float-end"><strong>Chargement <i class="bi-arrow-right"></i> </strong></a>
 </div>

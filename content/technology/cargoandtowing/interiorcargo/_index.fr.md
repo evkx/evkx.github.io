@@ -106,6 +106,6 @@ Le chargement intérieur peut réduire le confort et la commodité des passagers
 {{< sitefiguresized thumb="technology/cargoandtowing/interiorcargo/trunk_4_st.jpg" title="Jeep Avenger avec un adorable chien dans le coffre" width="3000" height="2000">}}
 
 <div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Capacités de chargement et de remorquage</strong>< /a>
+     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Capacités de chargement et de remorquage</strong></a>
      <a href="../frunkcargo/" class="text-decoration-none text-black float-end"><strong>Frunk Cargo <i class="bi-arrow-right"></i></strong></a>
 </div>

@@ -54,6 +54,6 @@ Tesla a fourni dans le [Rapport d'impact Tesla 2022](https://www.tesla.com/ns_vi
 Découvrez comment préserver votre batterie dans notre [guide](../../../guides/protectingbattery/).
 
 <div class="mt-3 mb-3">
-     <a href="../chargement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Chargement</strong></ une>
+     <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Chargement</strong></ une>
      <a href="../buffer/" class="text-decoration-none text-black float-end"><strong>Tampon <i class="bi-arrow-right"></i></strong ></a>
 </div>

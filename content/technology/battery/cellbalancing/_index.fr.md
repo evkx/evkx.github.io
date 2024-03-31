@@ -19,5 +19,5 @@ Pour ce faire, la centrale de régulation de batterie compare les tensions des g
 
 <div class="mt-3 mb-3">
      <a href="../thermalmanagement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Gestion thermique</strong></a>
-     <a href="../chargement/" class="text-decoration-none text-black float-end"><strong>Charge <i class="bi-arrow-right"></i></strong ></a>
+     <a href="../charging/" class="text-decoration-none text-black float-end"><strong>Charge <i class="bi-arrow-right"></i></strong ></a>
 </div>

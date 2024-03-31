@@ -30,7 +30,7 @@ Voici quelques exemples de marques de voitures offrant cette fonctionnalité :
 - BMW propose une fonctionnalité appelée « EfficientDynamics » qui fournit un retour d'information en temps réel au conducteur et propose des suggestions pour des techniques de conduite plus efficaces.
 - Audi propose une fonctionnalité appelée « Efficiency Assist System ». Ce système fournit un retour d'information en temps réel au conducteur et propose des suggestions pour optimiser le comportement de conduite afin de maximiser l'autonomie et l'efficacité.
 
-{{< sitefiguresized thumb="technology/driverassistance/effiencyassist/illustration_st.jpg" width="1600" height="9000" title="Aide à l'efficacité dans la suggestion d'Audi de prendre le pied de l'accélérateur" >}}
+{{< sitefiguresized thumb="technology/driverassistance/efficencyassist/illustration_st.jpg" width="1600" height="9000" title="Aide à l'efficacité dans la suggestion d'Audi de prendre le pied de l'accélérateur" >}}
 
 <div class="mt-3 mb-3">
      <a href="../drivermonitoringsystem/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Système de surveillance des conducteurs (DMS)</strong></a>

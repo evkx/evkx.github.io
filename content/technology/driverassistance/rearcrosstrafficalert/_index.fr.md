@@ -32,5 +32,5 @@ RCTA est un dispositif de sécurité utile qui peut aider les conducteurs à év
 
 <div class="mt-3 mb-3">
      <a href="../lanekeepingassist/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Aide au maintien de voie</strong> </a>
-     <a href="../trafficsignrecognition/" class="text-decoration-none text-black float-end"><strong>Reconnaissance des panneaux de signalisation <i class="bi-arrow-right"></i>< /fort></a>
+     <a href="../trafficsignrecognition/" class="text-decoration-none text-black float-end"><strong>Reconnaissance des panneaux de signalisation <i class="bi-arrow-right"></i></strong></a>
 </div>

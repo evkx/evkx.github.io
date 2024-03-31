@@ -113,4 +113,4 @@ Dans la base de données EVKX EV, vous pouvez rechercher des modèles avec un ty
 
 Continuez vers [réglage et fonctionnalités du siège] (../réglage/).
 
-{{< pagenavigation b_url="../" b_title="Sièges auto" f_url=../adjustment/" f_title="Réglage et fonctionnalités du siège" >}}
+{{< pagenavigation b_url="../" b_title="Sièges auto" f_url="../adjustment/" f_title="Réglage et fonctionnalités du siège" >}}

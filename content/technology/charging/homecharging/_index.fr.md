@@ -234,5 +234,5 @@ Regardez la vidéo ci-dessous pour une vidéo axée sur le Royaume-Uni sur l'ins
 
 <div class="mt-3 mb-3">
      <a href="../connectors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Connecteurs de charge</strong></a>
-     <a href="../dcfastchargement/" class="text-decoration-none text-black float-end"><strong>Charge rapide CC <i class="bi-arrow-right"></i></strong></a>
+     <a href="../dcfastcharging/" class="text-decoration-none text-black float-end"><strong>Charge rapide CC <i class="bi-arrow-right"></i></strong></a>
 </div>

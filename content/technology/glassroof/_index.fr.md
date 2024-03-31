@@ -4,7 +4,7 @@ linktitle: Toit en panneaux de verre
 description: Un toit en verre est un type de fenêtre qui recouvre une partie ou la totalité du toit de la voiture. Il est fait de verre feuilleté, semblable aux pare-brise.
 weight: 2
 ---
-<!-- markdownlint-disable MD033 -->---
+<!-- markdownlint-disable MD033 -->
 
 Un toit en panneaux de verre permet à la lumière naturelle et à la ventilation d'entrer dans la voiture et améliore l'attrait esthétique et l'espace de l'intérieur.
 
