@@ -33,7 +33,7 @@ Le Ford F150 Lightning Extended Range a une puissance maximale de 433 KW (589 ch
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 150kWh et une capacité nette de 130kWh, ce qui signifie que vous disposez d'une réserve de 20kWh pour la protection. (13,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 150kWh et une capacité nette de 130kWh, ce qui signifie que vous disposez d'une réserve de 20kWh pour la protection. (13,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage EPA](../../../../guides/understandingrange/epa/) varie de 320 à 300 miles (515-483 km), en fonction des options du véhicule. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 2,5mi/kWh pour la version de base et 2,3mi/kWh pour la version supérieure pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -182,7 +182,7 @@ Le Ford F150 Lightning Extended Range dispose du [**freinage d'urgence automatiq
 
 ### Automatisation de la conduite
 
-Le Ford F150 Lightning Extended Range propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Ford F150 Lightning Extended Range propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système Ford Co-Pilot360™ 2.0  niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - Régulateur de vitesse.

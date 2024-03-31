@@ -33,7 +33,7 @@ Le BYD Atto 3 a une puissance maximale de 150 KW (204 ch/201 ch). Le couple tota
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 60,5kWh et une capacité nette de 58kWh, ce qui signifie que vous disposez d'une réserve de 2,5kWh pour la protection. (4,1%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 60,5kWh et une capacité nette de 58kWh, ce qui signifie que vous disposez d'une réserve de 2,5kWh pour la protection. (4,1%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 420 km (261 mi). La consommation est de 13,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

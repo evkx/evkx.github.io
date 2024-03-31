@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Setting The Benchmark! Chevy Silverado EV 4WT vs The Rustic Ring Electric Vehicle Towing Challenge</h3>
+<p>Out of Spec Reviews: 31.03.2024</p>
+
+{{< youtube L2Q_RIgBQ80 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Electric Trucks Tow 500mi Over The Rocky Mountains! Cybertruck vs Lightning vs Silverado EV vs R1T</h3>
 <p>Out of Spec Reviews: 27.03.2024</p>
 

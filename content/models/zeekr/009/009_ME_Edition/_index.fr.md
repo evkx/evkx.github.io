@@ -33,7 +33,7 @@ Le Zeekr 009 ME Edition a une puissance maximale de 400 KW (544 ch/536 ch). Le c
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 140kWh et une capacité nette de 134kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (4,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 140kWh et une capacité nette de 134kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (4,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 822 km ( miles). La consommation est de 16,3kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

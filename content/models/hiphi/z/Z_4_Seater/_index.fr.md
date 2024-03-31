@@ -33,7 +33,7 @@ Le HiPhi Z 4 Seater a une puissance maximale de 494 KW (672 ch/663 ch). Le coupl
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 120kWh et une capacité nette de 113kWh, ce qui signifie que vous disposez d'une réserve de 7kWh pour la protection. (5,8%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 120kWh et une capacité nette de 113kWh, ce qui signifie que vous disposez d'une réserve de 7kWh pour la protection. (5,8%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 555 km (345 mi). La consommation est de 20,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

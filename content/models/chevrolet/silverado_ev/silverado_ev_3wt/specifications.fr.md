@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation EPA
 			</td>
 			<td>
-				2,2 mi/kWh
+				2,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				179 kWh
+				190 kWh
 			</td>
 		</tr>
 		<tr>

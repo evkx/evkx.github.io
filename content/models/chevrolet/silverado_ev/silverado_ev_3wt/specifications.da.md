@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-forbrug
 			</td>
 			<td>
-				2,2 mi/kWh
+				2,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				179 kWh
+				190 kWh
 			</td>
 		</tr>
 		<tr>

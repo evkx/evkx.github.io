@@ -39,7 +39,7 @@ Le Tesla Model 3 (GEN1) a une puissance maximale de 208 KW (283 ch/279 ch). Le c
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 60kWh et une capacité nette de 59kWh, ce qui signifie que vous disposez d'une réserve de 1kWh pour la protection. (1,7%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 60kWh et une capacité nette de 59kWh, ce qui signifie que vous disposez d'une réserve de 1kWh pour la protection. (1,7%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 495 à 491 km (308-305 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 11,9kWh/100km pour la version de base et 12,0kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -199,7 +199,7 @@ Le Tesla Model 3 (GEN1) dispose du [**freinage d'urgence automatique**](../../..
 
 ### Automatisation de la conduite
 
-Le Tesla Model 3 (GEN1) propose [l'automatisation de la conduite au niveau 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Tesla Model 3 (GEN1) propose [l'automatisation de la conduite au niveau 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système Basic Autopilot  niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

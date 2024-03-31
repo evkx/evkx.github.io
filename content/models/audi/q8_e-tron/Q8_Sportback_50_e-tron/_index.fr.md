@@ -33,7 +33,7 @@ Le Audi Q8 Sportback 50 e-tron a une puissance maximale de 230 KW (313 ch/308 ch
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 95kWh et une capacité nette de 89kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (6,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 95kWh et une capacité nette de 89kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (6,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 505 à 412 km (314-256 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 17,6kWh/100km pour la version de base et 21,6kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -261,7 +261,7 @@ Le Audi Q8 Sportback 50 e-tron dispose du [**freinage d'urgence automatique**](.
 
 ### Automatisation de la conduite
 
-Le Audi Q8 Sportback 50 e-tron propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Audi Q8 Sportback 50 e-tron propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - Régulateur de vitesse.

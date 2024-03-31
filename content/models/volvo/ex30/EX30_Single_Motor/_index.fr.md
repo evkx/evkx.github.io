@@ -33,7 +33,7 @@ Le Volvo EX30 Single Motor a une puissance maximale de 200 KW (272 ch/268 ch). L
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 51kWh et une capacité nette de 49kWh, ce qui signifie que vous disposez d'une réserve de 2kWh pour la protection. (3,9%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 51kWh et une capacité nette de 49kWh, ce qui signifie que vous disposez d'une réserve de 2kWh pour la protection. (3,9%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 344 km (214 mi). La consommation est de 14,2kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

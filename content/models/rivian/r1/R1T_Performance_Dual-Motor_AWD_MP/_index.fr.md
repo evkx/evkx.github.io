@@ -33,7 +33,7 @@ Le Rivian R1T Performance Dual-Motor AWD MP a une puissance maximale de 495 KW (
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 149kWh et une capacité nette de 143kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (4,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 149kWh et une capacité nette de 143kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (4,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage EPA](../../../../guides/understandingrange/epa/) est de 410 miles (660 km). La consommation est de 2,9mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

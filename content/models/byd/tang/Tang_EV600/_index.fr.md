@@ -198,7 +198,7 @@ Le BYD Tang EV600 dispose du [**freinage d'urgence automatique**](../../../../te
 
 ### Automatisation de la conduite
 
-Le BYD Tang EV600 propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le BYD Tang EV600 propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

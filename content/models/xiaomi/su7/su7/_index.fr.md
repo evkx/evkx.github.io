@@ -33,7 +33,7 @@ Le Xiaomi SU7 a une puissance maximale de 220 KW (299 ch/295 ch). Le couple tota
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 73,6kWh et une capacité nette de 73kWh, ce qui signifie que vous disposez d'une réserve de 0,6kWh pour la protection. (0,8%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 73,6kWh et une capacité nette de 73kWh, ce qui signifie que vous disposez d'une réserve de 0,6kWh pour la protection. (0,8%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 700 km ( miles). La consommation est de 10,4kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

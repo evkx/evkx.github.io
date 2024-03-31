@@ -33,7 +33,7 @@ Le Peugot E-3008 a une puissance maximale de 157 KW (214 ch/211 ch). Le couple t
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 77kWh et une capacité nette de 73kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (5,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 77kWh et une capacité nette de 73kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (5,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 527 à 512 km (328-318 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 13,9kWh/100km pour la version de base et 14,3kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -184,7 +184,7 @@ Le Peugot E-3008 dispose du [**freinage d'urgence automatique**](../../../../tec
 
 ### Automatisation de la conduite
 
-Le Peugot E-3008 propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Peugot E-3008 propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système Drive Assist  niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

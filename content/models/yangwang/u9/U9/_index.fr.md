@@ -33,7 +33,7 @@ Le YangWang U9 a une puissance maximale de 960 KW (1305 ch/1287 ch). Le couple t
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 83kWh et une capacité nette de 80kWh, ce qui signifie que vous disposez d'une réserve de 3kWh pour la protection. (3,6%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 83kWh et une capacité nette de 80kWh, ce qui signifie que vous disposez d'une réserve de 3kWh pour la protection. (3,6%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 465 km ( miles). La consommation est de 17,2kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

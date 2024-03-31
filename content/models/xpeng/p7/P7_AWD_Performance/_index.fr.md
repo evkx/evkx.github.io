@@ -33,7 +33,7 @@ Le XPENG P7 AWD Performance a une puissance maximale de 405 KW (551 ch/543 ch). 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 86,2kWh et une capacité nette de 82,7kWh, ce qui signifie que vous disposez d'une réserve de 3,5kWh pour la protection. (4,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 86,2kWh et une capacité nette de 82,7kWh, ce qui signifie que vous disposez d'une réserve de 3,5kWh pour la protection. (4,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 505 km (314 mi). La consommation est de 16,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

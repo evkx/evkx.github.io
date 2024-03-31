@@ -33,7 +33,7 @@ Le MG MG5 Electric Long Range a une puissance maximale de 115 KW (156 ch/154 ch)
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 61,1kWh et une capacité nette de 57,4kWh, ce qui signifie que vous disposez d'une réserve de 3,7kWh pour la protection. (6,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 61,1kWh et une capacité nette de 57,4kWh, ce qui signifie que vous disposez d'une réserve de 3,7kWh pour la protection. (6,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 400 à 380 km (249-236 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,4kWh/100km pour la version de base et 15,1kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

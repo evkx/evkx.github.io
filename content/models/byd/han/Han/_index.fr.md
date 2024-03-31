@@ -33,7 +33,7 @@ Le BYD Han a une puissance maximale de 380 KW (517 ch/510 ch). Le couple total e
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 85,4kWh et une capacité nette de 83kWh, ce qui signifie que vous disposez d'une réserve de 2,4kWh pour la protection. (2,8%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 85,4kWh et une capacité nette de 83kWh, ce qui signifie que vous disposez d'une réserve de 2,4kWh pour la protection. (2,8%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 521 km (324 mi). La consommation est de 15,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -204,7 +204,7 @@ Le BYD Han dispose du [**freinage d'urgence automatique**](../../../../technolog
 
 ### Automatisation de la conduite
 
-Le BYD Han propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le BYD Han propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

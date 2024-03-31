@@ -33,7 +33,7 @@ Le Cadillac ESCALADE IQ a une puissance maximale de 560 KW (761 ch/751 ch). Le c
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 215kWh et une capacité nette de 200kWh, ce qui signifie que vous disposez d'une réserve de 15kWh pour la protection. (7,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 215kWh et une capacité nette de 200kWh, ce qui signifie que vous disposez d'une réserve de 15kWh pour la protection. (7,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage EPA](../../../../guides/understandingrange/epa/) est de 450 miles (724 km). La consommation est de 2,3mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

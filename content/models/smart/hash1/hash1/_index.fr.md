@@ -33,7 +33,7 @@ Le Smart #1 a une puissance maximale de 315 KW (428 ch/422 ch). Le couple total 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 66kWh et une capacité nette de 62kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (6,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 66kWh et une capacité nette de 62kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (6,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 440 à 420 km (274-261 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,1kWh/100km pour la version de base et 14,8kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

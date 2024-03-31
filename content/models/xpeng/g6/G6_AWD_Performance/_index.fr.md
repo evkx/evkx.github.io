@@ -33,7 +33,7 @@ Le XPENG G6 AWD Performance a une puissance maximale de 358 KW (487 ch/480 ch). 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 87,5kWh et une capacité nette de 82kWh, ce qui signifie que vous disposez d'une réserve de 5,5kWh pour la protection. (6,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 87,5kWh et une capacité nette de 82kWh, ce qui signifie que vous disposez d'une réserve de 5,5kWh pour la protection. (6,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 700 km ( miles). La consommation est de 11,7kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

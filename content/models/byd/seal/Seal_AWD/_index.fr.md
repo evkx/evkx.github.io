@@ -33,7 +33,7 @@ Le BYD Seal AWD a une puissance maximale de 390 KW (530 ch/523 ch). Le couple to
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 85,4kWh et une capacité nette de 82,5kWh, ce qui signifie que vous disposez d'une réserve de 2,9kWh pour la protection. (3,4%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 85,4kWh et une capacité nette de 82,5kWh, ce qui signifie que vous disposez d'une réserve de 2,9kWh pour la protection. (3,4%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 520 km (323 mi). La consommation est de 15,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

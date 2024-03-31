@@ -33,7 +33,7 @@ Avec overboost, le Audi Q8 e-tron edition Dakar a une puissance maximale de 300 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 114kWh et une capacité nette de 106kWh, ce qui signifie que vous disposez d'une réserve de 8kWh pour la protection. (7,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 114kWh et une capacité nette de 106kWh, ce qui signifie que vous disposez d'une réserve de 8kWh pour la protection. (7,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 487 km (303 mi). La consommation est de 21,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -281,7 +281,7 @@ Le Audi Q8 e-tron edition Dakar dispose du [**freinage d'urgence automatique**](
 
 ### Automatisation de la conduite
 
-Le Audi Q8 e-tron edition Dakar propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Audi Q8 e-tron edition Dakar propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - Régulateur de vitesse.

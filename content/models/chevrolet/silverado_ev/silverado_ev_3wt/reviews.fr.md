@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Ran It To Dead! Chevy Silverado 3WT (~180kWh) 70-MPH Highway Range Test</h3>
+<p>Out of Spec Reviews: 30.03.2024</p>
+
+{{< youtube yqnp6aIvqRs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Towing With The Silverado EV! Everything You Need To Know About Towing With Chevy's Electric Pickup</h3>
 <p>Out of Spec Reviews: 28.06.2023</p>
 

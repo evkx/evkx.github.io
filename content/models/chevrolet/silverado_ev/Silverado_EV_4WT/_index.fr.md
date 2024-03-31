@@ -33,7 +33,7 @@ Le Chevrolet Silverado EV 4WT a une puissance maximale de 380 KW (517 ch/510 ch)
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 240kWh et une capacité nette de 215kWh, ce qui signifie que vous disposez d'une réserve de 25kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 240kWh et une capacité nette de 215kWh, ce qui signifie que vous disposez d'une réserve de 25kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage EPA](../../../../guides/understandingrange/epa/) est de 450 miles (724 km). La consommation est de 2,1mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

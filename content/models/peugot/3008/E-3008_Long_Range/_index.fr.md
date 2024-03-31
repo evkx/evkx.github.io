@@ -33,7 +33,7 @@ Le Peugot E-3008 Long Range a une puissance maximale de 157 KW (214 ch/211 ch). 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 98kWh et une capacité nette de 98kWh, ce qui signifie que vous disposez d'une réserve de 0kWh pour la protection. (0,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 98kWh et une capacité nette de 98kWh, ce qui signifie que vous disposez d'une réserve de 0kWh pour la protection. (0,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 700 km (435 mi). La consommation est de 14,0kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -184,7 +184,7 @@ Le Peugot E-3008 Long Range dispose du [**freinage d'urgence automatique**](../.
 
 ### Automatisation de la conduite
 
-Le Peugot E-3008 Long Range propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Peugot E-3008 Long Range propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système Drive Assist  niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

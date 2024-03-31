@@ -33,7 +33,7 @@ Le BMW i5 M60 xDrive Touring a une puissance maximale de 442 KW (601 ch/593 ch).
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 84,4kWh et une capacité nette de 81,2kWh, ce qui signifie que vous disposez d'une réserve de 3,2kWh pour la protection. (3,8%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 84,4kWh et une capacité nette de 81,2kWh, ce qui signifie que vous disposez d'une réserve de 3,2kWh pour la protection. (3,8%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 515 à 456 km (320-283 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 15,8kWh/100km pour la version de base et 17,8kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -219,7 +219,7 @@ Le BMW i5 M60 xDrive Touring dispose du [**freinage d'urgence automatique**](../
 
 ### Automatisation de la conduite
 
-Le BMW i5 M60 xDrive Touring propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le BMW i5 M60 xDrive Touring propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système Driving Assistant  niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - Régulateur de vitesse.

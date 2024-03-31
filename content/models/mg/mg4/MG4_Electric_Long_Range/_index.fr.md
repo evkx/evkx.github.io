@@ -33,7 +33,7 @@ Le MG MG4 Electric Long Range a une puissance maximale de 150 KW (204 ch/201 ch)
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 64kWh et une capacité nette de 61,7kWh, ce qui signifie que vous disposez d'une réserve de 2,3kWh pour la protection. (3,6%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 64kWh et une capacité nette de 61,7kWh, ce qui signifie que vous disposez d'une réserve de 2,3kWh pour la protection. (3,6%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 435 km (270 mi). La consommation est de 14,2kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

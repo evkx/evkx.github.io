@@ -35,7 +35,7 @@ Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiff
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 93,4kWh et une capacité nette de 83,7kWh, ce qui signifie que vous disposez d'une réserve de 9,7kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 93,4kWh et une capacité nette de 83,7kWh, ce qui signifie que vous disposez d'une réserve de 9,7kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 452 à 395 km (281-246 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 18,5kWh/100km pour la version de base et 21,2kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -236,7 +236,7 @@ Le Porsche Taycan Turbo Cross Turismo dispose du [**freinage d'urgence automatiq
 
 ### Automatisation de la conduite
 
-Le Porsche Taycan Turbo Cross Turismo propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Porsche Taycan Turbo Cross Turismo propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

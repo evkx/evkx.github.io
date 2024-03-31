@@ -187,7 +187,7 @@ Le CUPRA BORN VZ dispose du [**freinage d'urgence automatique**](../../../../tec
 
 ### Automatisation de la conduite
 
-Le CUPRA BORN VZ propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le CUPRA BORN VZ propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 - Régulateur de vitesse.

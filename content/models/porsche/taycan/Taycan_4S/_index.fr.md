@@ -38,7 +38,7 @@ Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiff
 Porsche Taycan 4S propose deux options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
 ### Performance Battery
 
-La batterie a une capacité brute de 79,2kWh et une capacité nette de 71kWh, ce qui signifie que vous disposez d'une réserve de 8,2kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 79,2kWh et une capacité nette de 71kWh, ce qui signifie que vous disposez d'une réserve de 8,2kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 431 à 354 km (268-220 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 16,5kWh/100km pour la version de base et 20,1kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -47,7 +47,7 @@ La vitesse de charge DC maximale est de 225kW. Une charge complète de 0 à 100 
 Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 22kWh/100 km, 1 000 km prendront 9 heures et 26 minutes. Ce trajet nécessitera trois sessions de charge de 0 % à 70 %. Le temps total perdu pour charger la batterie sera de 66 minutes.
 ### Performance Battery Plus
 
-La batterie a une capacité brute de 93,4kWh et une capacité nette de 83,7kWh, ce qui signifie que vous disposez d'une réserve de 9,7kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 93,4kWh et une capacité nette de 83,7kWh, ce qui signifie que vous disposez d'une réserve de 9,7kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 464 à 389 km (288-242 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 16,5kWh/100km pour la version de base et 20,1kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -81,7 +81,7 @@ La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan
 
 ### Freins
 
-Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid -freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm.
+Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm.
 
 [Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving).
 
@@ -238,7 +238,7 @@ Le Porsche Taycan 4S dispose du [**freinage d'urgence automatique**](../../../..
 
 ### Automatisation de la conduite
 
-Le Porsche Taycan 4S propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Porsche Taycan 4S propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

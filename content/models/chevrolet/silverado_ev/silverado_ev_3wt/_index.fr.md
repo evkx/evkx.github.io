@@ -33,17 +33,17 @@ Le Chevrolet Silverado EV 3WT a une puissance maximale de 375 KW (510 ch/503 ch)
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 200kWh et une capacité nette de 179kWh, ce qui signifie que vous disposez d'une réserve de 21kWh pour la protection. (10,5%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 200kWh et une capacité nette de 190kWh, ce qui signifie que vous disposez d'une réserve de 10kWh pour la protection. (5,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 393 miles (632 km). La consommation est de 2,2mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage EPA](../../../../guides/understandingrange/epa/) est de 393 miles (632 km). La consommation est de 2,1mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
-La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 116 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 62 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 237kW. Chaque session de charge prendrait 28 minutes et 39 secondes.
+La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 124 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 43 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 62 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 240kW. Chaque session de charge prendrait 29 minutes et 2 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 35kWh/100 km, 1 000 km prendront 9 heures et 3 minutes. Ce trajet nécessitera deux sessions de charge de 1 % à 49 %. Le temps total perdu pour charger la batterie sera de 44 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 35kWh/100 km, 1 000 km prendront 9 heures et 1 minutes. Ce trajet nécessitera deux sessions de charge de 1 % à 44 %. Le temps total perdu pour charger la batterie sera de 41 minutes.
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 16 heures et 16 minutes.
+Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 17 heures et 16 minutes.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/charging_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}

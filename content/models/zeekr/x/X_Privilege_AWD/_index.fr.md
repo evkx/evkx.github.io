@@ -33,7 +33,7 @@ Le Zeekr X Privilege AWD a une puissance maximale de 315 KW (428 ch/422 ch). Le 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 69kWh et une capacité nette de 64kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (7,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 69kWh et une capacité nette de 64kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (7,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 400 km (249 mi). La consommation est de 16,0kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

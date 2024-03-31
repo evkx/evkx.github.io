@@ -33,7 +33,7 @@ Le BYD Seal U Design a une puissance maximale de 160 KW (218 ch/215 ch). Le coup
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 87kWh et une capacité nette de 87kWh, ce qui signifie que vous disposez d'une réserve de 0kWh pour la protection. (0,0%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 87kWh et une capacité nette de 87kWh, ce qui signifie que vous disposez d'une réserve de 0kWh pour la protection. (0,0%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 500 km (311 mi). La consommation est de 17,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

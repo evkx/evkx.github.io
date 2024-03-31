@@ -33,7 +33,7 @@ Le MG MG4 Electric Standard a une puissance maximale de 150 KW (204 ch/201 ch). 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 51kWh et une capacité nette de 50,8kWh, ce qui signifie que vous disposez d'une réserve de 0,2kWh pour la protection. (0,4%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 51kWh et une capacité nette de 50,8kWh, ce qui signifie que vous disposez d'une réserve de 0,2kWh pour la protection. (0,4%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 350 km (218 mi). La consommation est de 14,5kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

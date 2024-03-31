@@ -203,7 +203,7 @@ Le BMW i7 M70 xDrive dispose du [**freinage d'urgence automatique**](../../../..
 
 ### Automatisation de la conduite
 
-Le BMW i7 M70 xDrive propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le BMW i7 M70 xDrive propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système Driving Assistant  niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - Régulateur de vitesse.

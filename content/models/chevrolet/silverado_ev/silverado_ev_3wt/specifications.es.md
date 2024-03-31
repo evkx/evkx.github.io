@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo EPA
 			</td>
 			<td>
-				2,2 mi/kWh
+				2,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -126,7 +126,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				179 kWh
+				190 kWh
 			</td>
 		</tr>
 		<tr>

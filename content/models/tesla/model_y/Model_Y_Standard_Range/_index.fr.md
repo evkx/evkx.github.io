@@ -36,7 +36,7 @@ Le Tesla Model Y Standard Range a une puissance maximale de 255 KW (347 ch/342 c
 Tesla Model Y Standard Range propose trois options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
 ### CATL LFP Europa/China market
 
-La batterie a une capacité brute de 60kWh et une capacité nette de 55kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (8,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 60kWh et une capacité nette de 55kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (8,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -45,7 +45,7 @@ La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 
 Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 19,5kWh/100 km, 1 000 km prendront 9 heures et 55 minutes. Ce trajet nécessitera cinq sessions de charge de 0 % à 51 %. Le temps total perdu pour charger la batterie sera de 95 minutes.
 ### BYD LFP Europa/China market
 
-La batterie a une capacité brute de 60kWh et une capacité nette de 55kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (8,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 60kWh et une capacité nette de 55kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (8,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -54,7 +54,7 @@ La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 
 Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 19,5kWh/100 km, 1 000 km prendront 9 heures et 35 minutes. Ce trajet nécessitera quatre sessions de charge de 0 % à 64 %. Le temps total perdu pour charger la batterie sera de 75 minutes.
 ### NMC 4850 US Market
 
-La batterie a une capacité brute de 70kWh et une capacité nette de 68,5kWh, ce qui signifie que vous disposez d'une réserve de 1,5kWh pour la protection. (2,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 70kWh et une capacité nette de 68,5kWh, ce qui signifie que vous disposez d'une réserve de 1,5kWh pour la protection. (2,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -222,7 +222,7 @@ Le Tesla Model Y Standard Range dispose du [**freinage d'urgence automatique**](
 
 ### Automatisation de la conduite
 
-Le Tesla Model Y Standard Range propose [l'automatisation de la conduite au niveau 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Tesla Model Y Standard Range propose [l'automatisation de la conduite au niveau 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système Basic Autopilot  niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

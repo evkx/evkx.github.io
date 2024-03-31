@@ -33,7 +33,7 @@ Le Citroën ë-C3 a une puissance maximale de 83 KW (113 ch/111 ch). Le couple t
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 44kWh et une capacité nette de 43kWh, ce qui signifie que vous disposez d'une réserve de 1kWh pour la protection. (2,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 44kWh et une capacité nette de 43kWh, ce qui signifie que vous disposez d'une réserve de 1kWh pour la protection. (2,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 320 km (199 mi). La consommation est de 13,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

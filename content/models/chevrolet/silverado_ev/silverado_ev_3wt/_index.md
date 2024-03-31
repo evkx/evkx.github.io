@@ -33,17 +33,17 @@ The Chevrolet Silverado EV 3WT has a maximum power of 375 KW (510 hp/503 bhp). T
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 200kWh and a net capacity of 179kWh, meaning you have a 21kWh buffer for protection. (10.5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 200kWh and a net capacity of 190kWh, meaning you have a 10kWh buffer for protection. (5.0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 393 miles (632 km). The consumption is 2.2mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) is 393 miles (632 km). The consumption is 2.1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 116 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 62%, resulting in an actual charge speed, including time loss, of 237kW. Each charge session would take 28 minutes and 39 seconds.
+The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 124 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 62%, resulting in an actual charge speed, including time loss, of 240kW. Each charge session would take 29 minutes and 2 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 35kWh/100km, 1000km will take 9 hours and 3 minutes. This trip will require two charge session(s) charging from 1% to 49%. The total time lost for charging up the battery will be 44 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 35kWh/100km, 1000km will take 9 hours and 1 minutes. This trip will require two charge session(s) charging from 1% to 44%. The total time lost for charging up the battery will be 41 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 16 hours and 16 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 17 hours and 16 minutes.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/charging_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}

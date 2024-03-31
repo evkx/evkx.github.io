@@ -35,7 +35,7 @@ Si vous n'êtes pas assez satisfait des performances standard, vous pouvez ajout
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 120kWh et une capacité nette de 107,8kWh, ce qui signifie que vous disposez d'une réserve de 12,2kWh pour la protection. (10,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 120kWh et une capacité nette de 107,8kWh, ce qui signifie que vous disposez d'une réserve de 12,2kWh pour la protection. (10,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 570 à 513 km (354-319 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 18,9kWh/100km pour la version de base et 21,0kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -222,7 +222,7 @@ Le Mercedes-AMG EQS 53 4MATIC+ dispose du [**freinage d'urgence automatique**](.
 
 ### Automatisation de la conduite
 
-Le Mercedes-AMG EQS 53 4MATIC+ propose [l'automatisation de la conduite au niveau 1,2 ou 3](../../../../technology/driverassistance/#level-of-autonomous -conduite), selon le niveau d'équipement.
+Le Mercedes-AMG EQS 53 4MATIC+ propose [l'automatisation de la conduite au niveau 1,2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-conduite), selon le niveau d'équipement.
 
 Avec le système Driver Assistance Package  niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

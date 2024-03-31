@@ -33,7 +33,7 @@ Avec overboost, le Audi RS e-tron GT a une puissance maximale de 475 KW (646 ch 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 93,4kWh et une capacité nette de 83,7kWh, ce qui signifie que vous disposez d'une réserve de 9,7kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 93,4kWh et une capacité nette de 83,7kWh, ce qui signifie que vous disposez d'une réserve de 9,7kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 495 à 447 km (308-278 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 16,9kWh/100km pour la version de base et 18,7kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -71,7 +71,7 @@ La direction dynamique est une fonctionnalité un standard sur le Audi RS e-tron
 
 ### Freins
 
-Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid -freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm. Les freins de l'option third utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
+Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm. Les freins de l'option third utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
 
 [Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving). À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement jusqu'à ce qu'elle s'arrête d'elle-même. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
 
@@ -222,7 +222,7 @@ Le Audi RS e-tron GT dispose du [**freinage d'urgence automatique**](../../../..
 
 ### Automatisation de la conduite
 
-Le Audi RS e-tron GT propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Audi RS e-tron GT propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)

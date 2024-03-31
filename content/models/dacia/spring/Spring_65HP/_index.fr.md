@@ -33,7 +33,7 @@ Le Dacia Spring 65HP a une puissance maximale de 48 KW (65 ch/64 ch). Le couple 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 26,8kWh et une capacité nette de 25kWh, ce qui signifie que vous disposez d'une réserve de 1,8kWh pour la protection. (6,7%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery- lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie a une capacité brute de 26,8kWh et une capacité nette de 25kWh, ce qui signifie que vous disposez d'une réserve de 1,8kWh pour la protection. (6,7%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 220 km (137 mi). La consommation est de 11,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

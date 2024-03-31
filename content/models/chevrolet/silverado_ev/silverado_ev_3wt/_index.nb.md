@@ -33,17 +33,17 @@ Chevrolet Silverado EV 3WT har en maksimal effekt på 375 KW (510hk). Totalt dre
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 200kWh og en nettokapasitet på 179kWh, noe som betyr at du har et 21kWh-buffer for beskyttelse. (10,5%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 200kWh og en nettokapasitet på 190kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (5,0%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 393 miles (632 km). Forbruket er 2,2mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 393 miles (632 km). Forbruket er 2,1mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 116 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 237kW. Hver ladeøkt vil ta 28 minutter og 39 sekunder.
+Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 124 minutter, mens et mer vanlig scenario på 10-80 % vil ta 43 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 62%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 240kW. Hver ladeøkt vil ta 29 minutter og 2 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 35kWh/100km, vil 1000km ta 9 timer og 3 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 49%. Totalt tapt tid for å lade opp batteriet vil være 44 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 35kWh/100km, vil 1000km ta 9 timer og 1 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 44%. Totalt tapt tid for å lade opp batteriet vil være 41 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 16 timer og 16 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 17 timer og 16 minutter.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/charging_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}

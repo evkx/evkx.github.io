@@ -33,7 +33,7 @@ Le Polestar 4 Long range Dual motor a une puissance maximale de 400 KW (544 ch/5
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 100kWh et une capacité nette de 94kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (6,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 100kWh et une capacité nette de 94kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (6,0%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 580 km (361 mi). La consommation est de 16,2kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

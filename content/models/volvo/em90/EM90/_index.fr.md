@@ -33,7 +33,7 @@ Le Volvo EM90 a une puissance maximale de 200 KW (272 ch/268 ch). Le couple tota
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 116kWh et une capacité nette de 110kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (5,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 116kWh et une capacité nette de 110kWh, ce qui signifie que vous disposez d'une réserve de 6kWh pour la protection. (5,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 738 km ( miles). La consommation est de 14,9kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

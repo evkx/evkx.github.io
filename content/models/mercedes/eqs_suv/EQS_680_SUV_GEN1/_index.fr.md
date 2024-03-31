@@ -39,7 +39,7 @@ Le Mercedes-Maybach EQS 680 SUV a une puissance maximale de 484 KW (658 ch/649 c
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 120kWh et une capacité nette de 108,4kWh, ce qui signifie que vous disposez d'une réserve de 11,6kWh pour la protection. (9,7%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 120kWh et une capacité nette de 108,4kWh, ce qui signifie que vous disposez d'une réserve de 11,6kWh pour la protection. (9,7%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 600 à 502 km (373-312 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 18,1kWh/100km pour la version de base et 21,6kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
@@ -219,7 +219,7 @@ Le Mercedes-Maybach EQS 680 SUV dispose du [**freinage d'urgence automatique**](
 
 ### Automatisation de la conduite
 
-Le Mercedes-Maybach EQS 680 SUV propose [l'automatisation de la conduite au niveau 1,2 ou 3](../../../../technology/driverassistance/#level-of-autonomous -conduite), selon le niveau d'équipement.
+Le Mercedes-Maybach EQS 680 SUV propose [l'automatisation de la conduite au niveau 1,2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-conduite), selon le niveau d'équipement.
 
 Avec le système Driver Assistance Package  niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

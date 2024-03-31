@@ -186,7 +186,7 @@ Le Tesla Model S dispose du [**freinage d'urgence automatique**](../../../../tec
 
 ### Automatisation de la conduite
 
-Le Tesla Model S propose [l'automatisation de la conduite au niveau 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving ), selon le niveau d'équipement.
+Le Tesla Model S propose [l'automatisation de la conduite au niveau 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
 Avec le système Basic Autopilot  niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

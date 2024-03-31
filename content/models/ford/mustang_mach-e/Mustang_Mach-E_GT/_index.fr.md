@@ -33,7 +33,7 @@ Le Ford Mustang Mach-E GT a une puissance maximale de 358 KW (487 ch/480 ch). Le
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 98,8kWh et une capacité nette de 92kWh, ce qui signifie que vous disposez d'une réserve de 6,8kWh pour la protection. (6,9%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 98,8kWh et une capacité nette de 92kWh, ce qui signifie que vous disposez d'une réserve de 6,8kWh pour la protection. (6,9%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 490 km (305 mi). La consommation est de 18,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 

@@ -33,7 +33,7 @@ Le Opel Mokka Electric a une puissance maximale de 115 KW (156 ch/154 ch). Le co
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 54kWh et une capacité nette de 50,8kWh, ce qui signifie que vous disposez d'une réserve de 3,2kWh pour la protection. (5,9%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt- oxydes-nmc)
+La batterie a une capacité brute de 54kWh et une capacité nette de 50,8kWh, ce qui signifie que vous disposez d'une réserve de 3,2kWh pour la protection. (5,9%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 406 km (252 mi). La consommation est de 12,5kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
