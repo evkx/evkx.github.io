@@ -281,7 +281,4 @@ The following table shows the most common EV platforms used on models the latest
         </tbody>
 </table>
 
-<div class="mt-3 mb-3">
-    <a href="../battery/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> EV Batteries</strong></a>
-    <a href="../glassroof/" class="text-decoration-none text-black float-end"><strong>Glass Panel Roof <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../battery/" b_title="EV Batteries" f_url="../glassroof/" f_title="Glass Panel Roof" >}}

@@ -281,8 +281,4 @@ Tabellen nedenfor viser de mest almindelige EV-platforme, der er brugt på model
         </tbody>
 </table>
 
-
-<div class="mt-3 mb-3">
-     <a href="../battery/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Batterier til elbiler</strong> </a>
-     <a href="../glastag/" class="text-decoration-none text-black float-end"><strong>Glastag <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../battery/" b_title="Batterier til elbiler" f_url="../glassroof/" f_title="Glastag" >}}
