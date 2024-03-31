@@ -110,8 +110,4 @@ Si quieres entender la física de cómo las diferentes ruedas afectan el consumo
 
 {{< youtube NYvKxsYFqO8 >}}
 
-
-<div class="mt-3 mb-3">
-     <a href="../suspension/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Suspensión</strong></a>
-     <a href="../userinterface/" class="text-decoration-none text-black float-end"><strong>Interfaz de usuario<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../suspension/" b_title="Suspensión" f_url="../userinterface/" f_title="Interfaz de usuario" >}}

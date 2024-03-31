@@ -96,7 +96,4 @@ Det er dæk, der er afledt af Michelins præstationsdæk, men optimeret til at g
 
 {{< sitefiguresized thumb="technology/wheels/michelinpilotsportev_2_st.jpg" width="3000" height="3000" title="Michelin Pilot Sport EV" >}}
 
-<div class="mt-3 mb-3">
-    <a href="../suspension/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Affjedringen</strong></a>
-    <a href="../userinterface/" class="text-decoration-none text-black float-end"><strong>Brugergrænseflade <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../suspension/" b_title="Affjedringen" f_url="../userinterface/" f_title="Brugergrænseflade" >}}
