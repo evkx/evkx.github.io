@@ -128,7 +128,4 @@ Her er nogle producenter af radarsensorer
 - [NXP Semiconductors N.V](https://www.nxp.com/applications/automotive/adas-and-safe-driving/automotive-radar-systems:RADAR-SYSTEMS)
 - [Texas Instruments Incorporated](https://www.ti.com/sensors/mmwave-radar/overview.html)
 
-<div class="mt-3 mb-3">
-     <a href="../cameras/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Kameraer</strong></ a>
-     <a href="../lidar/" class="text-decoration-none text-black float-end"><strong>LiDAR-sensorer<i class="bi-arrow-right"></i></ stærk</a>
-</div>
+{{< pagenavigation b_url="../cameras/" b_title="Kameraer" f_url="../lidar/" f_title="LiDAR-sensorer" >}}

@@ -19,7 +19,4 @@ However, infrared cameras also have some limitations. They can struggle to accur
 
 Overall, infrared cameras are an important safety feature in cars that can help drivers detect obstacles on the road in low light or night-time conditions. However, they should not be relied upon as the sole means of detecting obstacles, and drivers should always use caution and other safety features to ensure safe driving.
 
-<div class="mt-3 mb-3">
-    <a href="../lidar/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> LiDAR sensors</strong></a>
-    <a href="../ultrasonic/" class="text-decoration-none text-black float-end"><strong>Ultrasonic sensors<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../lidar/" b_title="LiDAR sensors" f_url="../ultrasonic/" f_title="Ultrasonic sensors" >}}

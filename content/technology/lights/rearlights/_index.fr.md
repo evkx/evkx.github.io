@@ -75,6 +75,6 @@ Par exemple, l'Audi Q6 e-tron a ajouté une dimension supplémentaire à la fonc
 
 Ci-dessous, vous voyez une vidéo d'Audi qui montre comment fonctionne leur OLED.
 
-{{<youtube OMx8x8J6Pro >}}
+{{< youtube OMx8x8J6Pro >}}
 
 {{< pagenavigation b_url="../headlights/" b_title="Phares et feux de jour" f_url="../ambientlighting/" f_title="Éclairage ambiant" >}}

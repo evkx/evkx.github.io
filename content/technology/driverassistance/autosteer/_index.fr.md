@@ -24,7 +24,7 @@ Les niveaux de conduite autonome pour les systèmes de guidage automatique sont 
 
 La vidéo ci-dessous montre comment cela fonctionne.
 
-{{<youtube Ym0sTaVyQ0g >}}
+{{< youtube Ym0sTaVyQ0g >}}
 
 Les fabricants peuvent utiliser différents noms pour leurs systèmes Autosteer, mais certains noms courants pour ces systèmes incluent :
 

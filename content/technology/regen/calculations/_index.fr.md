@@ -28,7 +28,7 @@ Cela signifie 12,59 kWh à régénérer. Avec une efficacité de 80 %, cela sign
 
 Dans la vidéo ci-dessous, vous voyez un test réel de ce voyage et de leur capacité à se régénérer.
 
-{{<youtube vrYRJ9TuaX0 >}}
+{{< youtube vrYRJ9TuaX0 >}}
 
 ### Scénario 2 : Arrêt complet à partir de 75 mph
 

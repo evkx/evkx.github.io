@@ -19,7 +19,4 @@ Infrarøde kameraer har imidlertid også noen begrensninger. De kan slite med å
 
 Totalt sett er infrarøde kameraer en viktig sikkerhetsfunksjon i biler som kan hjelpe sjåfører med å oppdage hindringer på veien under dårlige lysforhold eller om natten. De bør imidlertid ikke stoles på som det eneste middelet for å oppdage hindringer, og sjåfører bør alltid bruke forsiktighet og andre sikkerhetsfunksjoner for å sikre sikker kjøring.
 
-<div class="mt-3 mb-3">
-    <a href="../lidar/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> LiDAR sensorer</strong></a>
-    <a href="../ultrasonic/" class="text-decoration-none text-black float-end"><strong>Ultralydsensorer <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../lidar/" b_title="LiDAR sensorer" f_url="../ultrasonic/" f_title="Ultralydsensorer" >}}

@@ -25,7 +25,4 @@ For at reducere omkostningerne har Tesla besluttet at fjerne ultralydssensorer f
 
 {{< youtube sNo6vdKY5jA >}}
 
-<div class="mt-3 mb-3">
-    <a href="../infrared/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Infrarødt kamera</strong></a>
-    <a href="../../suspension/" class="text-decoration-none text-black float-end"><strong>Affjedringen <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../infrared/" b_title="Infrarødt kamera" f_url="../../suspension/" f_title="Affjedringen" >}}

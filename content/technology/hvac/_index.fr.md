@@ -96,7 +96,7 @@ Sur les panneaux Lexus RZ450 installés sous la colonne de direction et sur le c
 
 L'équipementier automobile ZF a créé une ceinture de sécurité chauffante qui pourrait réduire la consommation d'énergie.
 
-{{<youtube x_2RFXEG1xM >}}
+{{< youtube x_2RFXEG1xM >}}
 
 ## Consommation d'énergie et impact sur l'autonomie EV
 

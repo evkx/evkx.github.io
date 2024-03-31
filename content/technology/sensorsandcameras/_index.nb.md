@@ -24,7 +24,4 @@ Noen av de vanligste sensorteknologiene som brukes i biler inkluderer:
 
 Samlet sett avhenger valget av sensorteknologi av de spesifikke kravene til hvert system og avveiningene mellom faktorer som kostnad, ytelse og pålitelighet. Mange moderne biler bruker en kombinasjon av forskjellige sensortyper for å gi en omfattende serie av ADAS-funksjoner og sikkerhetssystemer.
 
-<div class="mt-3 mb-3">
-    <a href="../seats/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Bilseter</strong></a>
-    <a href="cameras/" class="text-decoration-none text-black float-end"><strong>Kameraer<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../seats/" b_title="Bilseter" f_url="cameras/" f_title="Kameraer" >}}

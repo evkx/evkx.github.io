@@ -24,7 +24,4 @@ Some of the most common sensor technologies used in cars include:
 
 Overall, the choice of sensor technology depends on the specific requirements of each system and the trade-offs between factors such as cost, performance, and reliability. Many modern cars use a combination of different sensor types to provide a comprehensive suite of ADAS features and safety systems.
 
-<div class="mt-3 mb-3">
-    <a href="../seats/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Car Seats</strong></a>
-    <a href="cameras/" class="text-decoration-none text-black float-end"><strong>Cameras<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../seats/" b_title="Seats" f_url="cameras/" f_title="Cameras" >}}

@@ -43,7 +43,7 @@ EURO NCAP effectue des tests et une évaluation de ces systèmes
 
 Ci-dessous, vous voyez le test Euro NCAP de la Tesla Model Y. À partir de 2h30, vous voyez différents tests AEB.
 
-{{<youtube dKaN3f2zmCQ >}}
+{{< youtube dKaN3f2zmCQ >}}
 
 <div class="mt-3 mb-3">
      <a href="../automatedlanechange/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Changement de voie automatisé</strong> </a>

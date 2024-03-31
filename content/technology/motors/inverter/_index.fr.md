@@ -29,6 +29,6 @@ En résumé, l’onduleur est un composant essentiel de l’unité d’entraîne
 
 Si vous souhaitez en savoir plus sur les onduleurs, nous vous recommandons de regarder cette conférence technique de Lucid Motors.
 
-{{<youtube fKhxxKCPwzc >}}
+{{< youtube fKhxxKCPwzc >}}
 
 {{< pagenavigation b_url="../wrsm/" b_title="WRSM" f_url="../cooling/" f_title="Refroidissement du moteur" >}}

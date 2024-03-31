@@ -210,12 +210,12 @@ Il existe un chargeur sur le marché américain qui se démarque. Le **Tesla Uni
 
 Consultez cette revue pour voir pourquoi ce chargeur est celui à sélectionner.
 
-{{<youtube X7HnxjNcH5Y >}}
+{{< youtube X7HnxjNcH5Y >}}
 
 
 Ci-dessous, vous voyez une vidéo de revue des meilleures stations de recharge pour 2023 (créées avant la sortie de Tesla Universal Wall Connector)
 
-{{<youtube 56e8-nLqM0c >}}
+{{< youtube 56e8-nLqM0c >}}
 
 ### ROYAUME-UNI
 
@@ -229,7 +229,7 @@ Ci-dessous, vous voyez une vidéo de revue des meilleures stations de recharge p
 
 Regardez la vidéo ci-dessous pour une vidéo axée sur le Royaume-Uni sur l'installation d'un chargeur domestique.
 
-{{<youtube VCx_1Afh3iw >}}
+{{< youtube VCx_1Afh3iw >}}
 
 
 <div class="mt-3 mb-3">

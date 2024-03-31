@@ -45,7 +45,4 @@ Videoskjemaet under Veoneer viser noen eksempler på kamerabruk i biler.
 
 {{< youtube w9kDTFXVYuE >}}
 
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensorer og kameraer</strong></a>
-    <a href="../radar/" class="text-decoration-none text-black float-end"><strong>Radarsensorer<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Sensorer og kameraer" f_url="../radar/" f_title="Radarsensorer" >}}

@@ -26,7 +26,4 @@ Para reducir costes, Tesla ha decidido eliminar los sensores ultrasónicos de al
 
 {{< youtube sNo6vdKY5jA >}}
 
-<div class="mt-3 mb-3">
-     <a href="../infrared/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Cámara de infrarrojos</strong>< /a>
-     <a href="../../suspension/" class="text-decoration-none text-black float-end"><strong>Suspensión<i class="bi-arrow-right"></i> </strong></a>
-</div>
+{{< pagenavigation b_url="../infrared/" b_title="Cámara de infrarrojos" f_url="../../suspension/" f_title="Suspensión" >}}

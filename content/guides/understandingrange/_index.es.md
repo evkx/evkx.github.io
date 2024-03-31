@@ -366,7 +366,7 @@ Algunos productores de neumáticos han comenzado a producir neumáticos específ
 
 Consulte a continuación una prueba detallada que describe la diferencia entre los neumáticos normales y optimizados para vehículos eléctricos.
 
-{{<youtube gg5MdeC6qzI>}}
+{{< youtube gg5MdeC6qzI>}}
 
 ### Peso
 

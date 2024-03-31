@@ -28,7 +28,7 @@ Il existe différents types de systèmes de stationnement automatique, et ils pe
 
 La vidéo ci-dessous montre une démonstration de l'aide au stationnement Mercedes Benz.
 
-{{<youtube rsgw0eLetsc >}}
+{{< youtube rsgw0eLetsc >}}
 
 
 Il est important de noter que même si le stationnement automatique peut être une fonctionnalité pratique, les conducteurs doivent toujours rester vigilants et conscients de leur environnement, en particulier dans les parkings très fréquentés ou bondés.

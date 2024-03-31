@@ -109,6 +109,6 @@ Certains modèles avec configuration de moteur Quad sont
 
 Ci-dessous, vous voyez le moteur Rivian R1T Quad faire un tour de réservoir avec la configuration du moteur quad.
 
-{{<youtube yzwM8KE2L3I >}}
+{{< youtube yzwM8KE2L3I >}}
 
 {{< pagenavigation b_url="../lights/" b_title="Lumières" f_url="asm/" f_title="Moteurs à induction" >}}

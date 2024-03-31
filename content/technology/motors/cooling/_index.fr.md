@@ -16,7 +16,7 @@ Refroidissement par air : Dans le refroidissement par air, le moteur est refro
 
 **Refroidissement liquide :** Le refroidissement liquide consiste à faire circuler un liquide de refroidissement, tel que de l'eau ou un mélange d'eau et de glycol, à travers des canaux ou des passages dans le moteur pour absorber et transférer la chaleur. Le refroidissement liquide est plus efficace que le refroidissement par air pour éliminer la chaleur du moteur et permet un contrôle précis de la température. Cependant, cela nécessite des composants supplémentaires tels qu'un radiateur, une pompe et des flexibles, ce qui peut augmenter la complexité et le coût du système moteur.
 
-{{<youtube YXaR8RSU2Sw >}}
+{{< youtube YXaR8RSU2Sw >}}
 
 Refroidissement direct ou refroidissement indirect : en refroidissement direct, le liquide de refroidissement est en contact direct avec les enroulements du moteur ou d'autres composants générateurs de chaleur, tandis qu'en refroidissement indirect, le liquide de refroidissement absorbe la chaleur du moteur via un échangeur de chaleur séparé.
 

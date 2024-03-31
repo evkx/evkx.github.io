@@ -20,7 +20,4 @@ Sin embargo, las cámaras de infrarrojos también tienen algunas limitaciones. P
 
 En general, las cámaras infrarrojas son una característica de seguridad importante en los automóviles que pueden ayudar a los conductores a detectar obstáculos en la carretera en condiciones de poca luz o de noche. Sin embargo, no se debe confiar en ellos como el único medio para detectar obstáculos, y los conductores siempre deben tener precaución y otras características de seguridad para garantizar una conducción segura.
 
-<div class="mt-3 mb-3">
-     <a href="../lidar/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensores LiDAR</strong></a>
-     <a href="../ultrasonic/" class="text-decoration-none text-black float-end"><strong>Sensores ultrasónicos<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../lidar/" b_title="Sensores LiDAR" f_url="../ultrasonic/" f_title="Sensores ultrasónicos" >}}

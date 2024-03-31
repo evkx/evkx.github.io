@@ -88,7 +88,7 @@ Il existe différents types de phares adaptatifs, y compris ceux qui utilisent d
 
 La vidéo ci-dessous montre comment fonctionnent les lumières sur l'Audi e-tron GT, y compris les lumières laser, les LED matricielles et les lumières courbes ++
 
-{{<youtube r4gtZ1dNh4o >}}
+{{< youtube r4gtZ1dNh4o >}}
 
 {{< sitefiguresized thumb="technology/lights/headlights/q6headlights_4_st.jpg" width="1800" height="1200" title="Audi Q6 e-tron avec DRL" >}}
 

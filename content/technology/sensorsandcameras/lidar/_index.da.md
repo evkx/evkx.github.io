@@ -29,7 +29,4 @@ På grund af de høje omkostninger er der stadig få elbiler udstyret med det. S
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" width="3000" height="2000" title="Luminars lidar-udstyrede demobil udkonkurrerer et kamera-only system ved at stoppe til en testdukke på CES 2023">}}
 
-<div class="mt-3 mb-3">
-    <a href="../radar/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Radarsensorer</strong></a>
-    <a href="../infrared/" class="text-decoration-none text-black float-end"><strong>Infrarødt kamera<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../radar/" b_title="Radarsensorer" f_url="../infrared/" f_title="Infrarødt kamera" >}}

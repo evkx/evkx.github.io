@@ -33,8 +33,4 @@ Because of the high cost there is still few EVs that comes equipped with it. Eve
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" width="3000" height="2000" title="Luminar’s lidar-equipped demo car outperforms a camera-only system in stopping for a test dummy at CES 2023" >}}
 
-<div class="mt-3 mb-3">
-    <a href="../radar/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Radar sensors</strong></a>
-    <a href="../infrared/" class="text-decoration-none text-black float-end"><strong>Infrared cameras<i class="bi-arrow-right"></i></strong></a>
-</div>
-
+{{< pagenavigation b_url="../radar/" b_title="Radar sensors" f_url="../infrared/" f_title="Infrared cameras" >}}

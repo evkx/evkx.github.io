@@ -29,7 +29,7 @@ Les avantages de l’échange de batterie sont
 
 Voir l’examen du système par Bjørn Nyland ci-dessous.
 
-{{<youtube VmWL1hZQmD0 >}}
+{{< youtube VmWL1hZQmD0 >}}
 
 <div class="mt-3 mb-3">
      <a href="../dcfastchargement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Charge rapide CC</strong> </a>

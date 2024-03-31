@@ -19,7 +19,4 @@ Infraröda kameror har dock också vissa begränsningar. De kan kämpa för att 
 
 Sammantaget är infraröda kameror en viktig säkerhetsfunktion i bilar som kan hjälpa förare att upptäcka hinder på vägen i svagt ljus eller på natten. De bör dock inte litas på som det enda sättet att upptäcka hinder, och förare bör alltid använda försiktighet och andra säkerhetsfunktioner för att säkerställa säker körning.
 
-<div class="mt-3 mb-3">
-    <a href="../lidar/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> LiDAR-sensorer</strong></a>
-    <a href="../ultrasonic/" class="text-decoration-none text-black float-end"><strong>Ultraljudssensorer<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../lidar/" b_title="LiDAR-sensorer" f_url="../ultrasonic/" f_title="Ultraljudssensorer" >}}

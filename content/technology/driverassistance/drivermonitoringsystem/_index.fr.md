@@ -22,7 +22,7 @@ Les systèmes de surveillance du conducteur sont de plus en plus courants dans l
 
 La vidéo ci-dessous montre comment cela fonctionne sur Polestar
 
-{{<youtube TZnN31wCRGE >}}
+{{< youtube TZnN31wCRGE >}}
 
 <div class="mt-3 mb-3">
      <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Détection de somnolence au volant (DDD)</strong></a>

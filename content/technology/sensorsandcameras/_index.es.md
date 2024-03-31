@@ -25,7 +25,4 @@ Algunas de las tecnologías de sensores más comunes utilizadas en los automóvi
 
 En general, la elección de la tecnología de sensores depende de los requisitos específicos de cada sistema y de las compensaciones entre factores como el costo, el rendimiento y la confiabilidad. Muchos automóviles modernos utilizan una combinación de diferentes tipos de sensores para proporcionar un conjunto completo de funciones ADAS y sistemas de seguridad.
 
-<div class="mt-3 mb-3">
-     <a href="../seats/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>Sillas de coche</strong></a>
-     <a href="cámaras/" class="text-decoration-none text-black float-end"><strong>Cámaras<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../seats/" b_title="Sillas de coche" f_url="cameras/" f_title="Cámaras" >}}

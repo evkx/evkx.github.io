@@ -23,7 +23,7 @@ Les systèmes ALC se trouvent généralement dans les véhicules haut de gamme e
 
 La vidéo suivante montre comment cela fonctionne sur Merceds Benz avec son système ALC.
 
-{{<youtube XtQeZk-xCqE >}}
+{{< youtube XtQeZk-xCqE >}}
 
 Il est important de noter que les systèmes ALC ne sont pas encore capables de gérer tous les scénarios de conduite et peuvent exiger que le conducteur prenne le contrôle dans certaines situations, comme lorsque les conditions routières sont mauvaises ou lorsqu'il y a des obstacles inattendus sur la route. De plus, le conducteur doit rester attentif et prêt à prendre le contrôle du véhicule à tout moment, car les systèmes ALC ne sont pas destinés à remplacer le rôle du conducteur dans la conduite sécuritaire du véhicule.
 

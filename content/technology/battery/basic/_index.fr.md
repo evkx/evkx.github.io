@@ -41,7 +41,7 @@ Les collecteurs de courant fonctionnent comme des conducteurs électriques entre
 
 Si vous souhaitez passer au niveau supérieur, comprenez comment fonctionne une batterie Lithium Ion. Regardez cette vidéo vraiment fantastique de Limiting Factor.
 
-{{<youtube 4-1psMHSpKs >}}
+{{< youtube 4-1psMHSpKs >}}
 
 <div class="mt-3 mb-3">
      <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Introduction aux batteries EV </strong></a>

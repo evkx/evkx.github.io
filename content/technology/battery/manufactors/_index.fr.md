@@ -43,7 +43,7 @@ De plus, beaucoup achètent simplement des cellules auprès de producteurs de ce
 
 Dans la vidéo ci-dessous, Elliot Richard de l'émission Fully Charged vous fait visiter une usine de batteries CATL.
 
-{{<youtube j1jWp9WxGLM >}}
+{{< youtube j1jWp9WxGLM >}}
 
 [Pour une liste complète des producteurs de cellules, voir Batterydesign.net](https://www.batterydesign.net/battery-cell/cell-manufacturers/)
 

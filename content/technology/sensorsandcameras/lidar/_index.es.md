@@ -30,7 +30,4 @@ Debido al alto coste, todavía son pocos los vehículos eléctricos que vienen e
 
 {{< sitefiguresized thumb="technology/sensorsandcameras/lidar/crashtest_1_st.jpg" width="3000" height="2000" title="El auto de demostración equipado con lidar de Luminar supera a un sistema de solo cámara al detenerse para un muñeco de prueba en CES 2023" >}}
 
-<div class="mt-3 mb-3">
-     <a href="../radar/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensores de radar</strong></a>
-     <a href="../infrared/" class="text-decoration-none text-black float-end"><strong>Cámaras infrarrojas<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../radar/" b_title="Sensores de radar" f_url="../infrared/" f_title="Cámaras infrarrojas" >}}

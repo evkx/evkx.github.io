@@ -45,8 +45,4 @@ El siguiente vídeo de Veoneer muestra algunos ejemplos del uso de cámaras en a
 
 {{< youtube w9kDTFXVYuE >}}
 
-
-<div class="mt-3 mb-3">
-     <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Sensores y cámaras</strong></a>
-     <a href="../radar/" class="text-decoration-none text-black float-end"><strong>Sensores de radar<i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="Sensores y cámaras" f_url="../radar/" f_title="Sensores de radar" >}}

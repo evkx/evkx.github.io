@@ -184,7 +184,7 @@ Plus important encore, la société a déclaré que les nouvelles cellules ainsi
 
 La vidéo ci-dessous montre une analyse détaillée du pack par Munro & Associates.
 
-{{<youtube FXpfU6I_T3w >}}
+{{< youtube FXpfU6I_T3w >}}
 
 ## Densité énergétique au niveau de la batterie
 

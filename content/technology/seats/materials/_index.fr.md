@@ -61,7 +61,7 @@ Une autre façon de garantir la durabilité est de choisir des tissus provenant 
 
 Dans la vidéo ci-dessous, vous voyez comment Audi crée ses sièges durables à partir de matériaux réutilisables comme des bouteilles.
 
-{{<youtube Adg7eDwRCG4 >}}
+{{< youtube Adg7eDwRCG4 >}}
 
 ## Cuir
 
@@ -227,7 +227,7 @@ L'Alcantara est produit dans une usine de fabrication à Nera Montoro, en Ombrie
 
 Dans la vidéo ci-dessous, vous pouvez voir l'un de nos évaluateurs préférés visiter l'[usine Alcantara](https://www.google.com/maps/place/Alcantara+S.P.A./@42.4836149,12.4648604,694m/data=!3m1!1e3!4m6!3m5!1s0x132ee02d51b2cc21:0xeb3ff07603fd4f70!8m2!3d42.4852421!4d12.4659532!16s%2Fg%2F11g_f727r?entry=ttu).
 
-{{<youtube P_6AYHkiBTw >}}
+{{< youtube P_6AYHkiBTw >}}
 
 [Alcantara S.p.A.](https://www.alcantara.com/) est la seule entreprise autorisée à produire et à commercialiser des produits à base d'Alcantara. L'entreprise travaille avec un réseau mondial de partenaires et de fournisseurs pour distribuer ses produits à des clients du monde entier.
 ## Dynamique

@@ -58,7 +58,7 @@ D'autres utilisent des moteurs à induction à l'avant et des PSMS à l'arrière
 
 Si vous souhaitez en savoir encore plus sur le moteur PSMS, nous vous recommandons de regarder cette vidéo dans laquelle Lucid explique sa conception PMSM et la compare avec d'autres.
 
-{{<youtube U7IHZxNC6hc >}}
+{{< youtube U7IHZxNC6hc >}}
 
 
 {{< pagenavigation b_url="../asm/" b_title="Moteurs à induction" f_url="../wrsm/" f_title="WRSM" >}}
