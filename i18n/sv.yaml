@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-a9a53827
+  translation: Maserati Grecale Folgore är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 501 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-7a20372a
   translation: Chevrolet Silverado EV SRT är en helelektrisk pickup med en EPA räckvidd på upp till 644 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-4507a85e
   translation: Porsche Taycan Turbo GT är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 555 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-20589934
-  translation: Porsche Taycan Turbo S Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 604 km. EVKX.net har alla detaljer.
 

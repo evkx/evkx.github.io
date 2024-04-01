@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-a9a53827
+  translation: Maserati Grecale Folgore est un SUV de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 501 km (311 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-7a20372a
   translation: Chevrolet Silverado EV SRT est une camionnette entièrement électrique avec une autonomie de EPA allant jusqu'à 644 km (400 miles). EVKX.net a tous les détails.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-4507a85e
   translation: Porsche Taycan Turbo GT est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 555 km (345 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-20589934
-  translation: Porsche Taycan Turbo S Sport Turismo est un break de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 604 km (375 miles). EVKX.net a tous les détails.
 
