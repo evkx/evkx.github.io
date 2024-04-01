@@ -39,6 +39,8 @@ Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 96kWh, noe 
 
 Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 64 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 112kW. Hver ladeøkt vil ta 30 minutter og 22 sekunder.
 
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 29kWh/100km, vil 1000km ta 10 timer og 5 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 3% til 54%. Totalt tapt tid for å lade opp batteriet vil være 106 minutter.
+
 ### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 21 minutter.
@@ -49,7 +51,7 @@ For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading.
 
 ### Ladeport
 
-Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 

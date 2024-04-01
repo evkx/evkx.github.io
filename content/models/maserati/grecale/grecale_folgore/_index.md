@@ -39,6 +39,8 @@ The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 501 to
 
 The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 64 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 61%, resulting in an actual charge speed, including time loss, of 112kW. Each charge session would take 30 minutes and 22 seconds.
 
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 29kWh/100km, 1000km will take 10 hours and 5 minutes. This trip will require four charge session(s) charging from 3% to 54%. The total time lost for charging up the battery will be 106 minutes.
+
 ### Onboard charger
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 21 minutes.
@@ -49,7 +51,7 @@ For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW c
 
 ### Charge port
 
-The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 

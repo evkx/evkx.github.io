@@ -190,6 +190,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
+				Ubicación del puerto de carga
+			</td>
+			<td>
+				LeftRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tipo puerto de carga Europa
 			</td>
 			<td>
