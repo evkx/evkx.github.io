@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-7a20372a
+  translation: Chevrolet Silverado EV SRT es una camioneta totalmente eléctrica con un EPA alcance de hasta 644 km (400 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-a2b5a5a9
   translation: Ford Explorer Standard Range RWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 380 km (236 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-20589934
   translation: Porsche Taycan Turbo S Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 604 km (375 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-9e00b193
-  translation: Li Auto MEGA es un monovolumen premium totalmente eléctrico con una CLTC autonomía de hasta 710 km (441 millas). EVKX.net tiene todos los detalles.
 

@@ -30,7 +30,7 @@ Chevrolet Blazer EV es un SUV disponible en 2 variantes.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Chevrolet Silverado EV es una camioneta disponible en 2 variantes.
+Chevrolet Silverado EV es una camioneta disponible en 3 variantes.
 </p>
 	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

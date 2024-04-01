@@ -30,7 +30,7 @@ Chevrolet Blazer EV er en SUV tilgjengelig i 2 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Chevrolet Silverado EV er en pick-up som er tilgjengelig i 2 varianter.
+Chevrolet Silverado EV er en pick-up som er tilgjengelig i 3 varianter.
 </p>
 	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

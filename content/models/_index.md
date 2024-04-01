@@ -253,7 +253,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Chevrolet is one of the leading automakers in the electric vehicle (EV) market, with a vision to create a world with zero crashes, zero emissions, and zero congestion. The company is committed to providing EVs for everyone, from compact cars to full-size trucks, with a range of models that suit different needs and preferences.
 	</p>
 	<p>
-	Chevrolet has 2 models with total 4 variants.
+	Chevrolet has 2 models with total 5 variants.
 	</p>
 	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Go to Chevrolet EV-model overview</a>
 </div>
