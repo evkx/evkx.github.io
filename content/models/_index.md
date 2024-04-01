@@ -94,6 +94,9 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 			<a href="lucid"><img src="https://media.evkx.net/multimedia/models/lucid/logo_xst.png" alt="Lucid" title="Lucid" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="maserati"><img src="https://media.evkx.net/multimedia/models/maserati/logo_xst.png" alt="Maserati" title="Maserati" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="mercedes"><img src="https://media.evkx.net/multimedia/models/mercedes/logo_xst.png" alt="Mercedes" title="Mercedes" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -486,6 +489,16 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	Lucid has 2 models with total 6 variants.
 	</p>
 	<a href="lucid/" class="btn btn-outline-primary" role="button">Go to Lucid EV-model overview</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Maserati</h2>
+	<p>
+		Maserati, the iconic Italian luxury car brand, has a comprehensive EV strategy as part of its commitment to electrification and sustainable growth. The brand has confirmed its dedication to a 100% Engineered and Made in Italy strategic plan, which is focused on bold electrification. Maserati is the first Italian luxury brand to develop and produce all-electric vehicles, and it's driving through a sustainable long-term profitable growth plan centered on consistent brand and product evolution.
+	</p>
+	<p>
+	Maserati has 1 models with total 1 variants.
+	</p>
+	<a href="maserati/" class="btn btn-outline-primary" role="button">Go to Maserati EV-model overview</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="mercedes/"><img src="https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg" class="img-fluid mb-2" alt="Mercedes" ></a>

@@ -1,0 +1,204 @@
+---
+title: Maserati Grecale Folgore
+linktitle: "Grecale Folgore"
+description: "Maserati Grecale Folgore is an all-electric luxury SUV with a WLTP range of up to 501 km (311 miles). EVKX.net has all the details."
+weight: 10
+hidden: true
+shownavtabs: true
+navicon: bi-car-front
+---
+<!-- markdownlint-disable MD033 -->
+
+
+
+{{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/main_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2248"  >}}
+
+We have separated our Maserati Grecale Folgore article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+
+- [Performance](#performance)
+- [Battery, range, and charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+
+
+## Performance
+
+The Maserati Grecale Folgore has a maximum power of 410 KW (557 hp/550 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.1 seconds. The top speed is 220 km/h.
+
+## Battery, range, and charging
+
+The battery has a gross capacity of 105kWh and a net capacity of 96kWh, meaning you have a 9kWh buffer for protection. (8.6%).
+
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 501 to 426 km (311-265 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.2kWh/100km for the basic version and 22.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 49 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 80%, resulting in an actual charge speed, including time loss, of 119kW. Each charge session would take 37 minutes and 8 seconds.
+
+### Onboard charger
+
+For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 21 minutes.
+
+
+{{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/charging_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
+
+
+### Charge port
+
+The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Drivetrain
+
+Maserati Grecale Folgore has an all-wheel drive system supported by two motors, one on each axle.
+
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 145 mm, and the maximum is 205 mm.
+
+### Brakes
+
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 350mm.
+
+
+
+## Exterior
+
+You can choose between 8 different paint colors when ordering this model.
+Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
+
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+
+You can order the car with tinted windows from B-pillar and back.
+
+
+{{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Interior
+
+
+
+### First row seats
+
+Only one front seat type is available in the Maserati Grecale Folgore.
+
+The following functionalities are available on the **** seat.
+
+- electric adjustment
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+
+You can choose from 1 different materials/colors for this seat type.
+
+
+
+### Second-row seat
+
+
+
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+
+
+
+{{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
+
+
+There is only one type of steering wheel available.
+
+## Climate system
+
+There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+
+## Comfort
+
+Maserati Grecale Folgore has several features to make your life as a driver or passenger more comfortable.
+
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+
+Keyless go makes it possible to start the car without using the key.
+
+You have wireless charging for your phone.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## User interface and control
+
+The Maserati Grecale Folgore has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 12.3 inches large. The touch screen at the bottom of the center console is 8.8 inches large.
+A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+
+
+{{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
+
+
+## Infotainment
+
+You can choose between two sound systems on the Maserati Grecale Folgore. With the Sonus Faber Premium Sound System, you get 14 speakers with a max system output of 700 watts. With the Sonus Faber High Premium Sound System, you get 21 speakers with a max system output of 1285 watts.
+
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Maserati Grecale Folgore supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+
+## Lights
+
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
+
+{{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/headlights_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2332"  >}}
+
+## Advanced driver assistance systems
+
+The Maserati Grecale Folgore has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+### Safety systems
+
+
+
+The Maserati Grecale Folgore has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+### Driving Automation
+
+
+
+With the standard system the model offers no driving automation.
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Cargo Capacity and Towing Ability
+
+The cargo capacity in the trunk is 535 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3110 kg (6856 lbs), and with the base weight of 2405 kg (5302 lbs), you can max load 705 kg (1554 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
+### Availability & Pricing
+
+<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> Maserati Grecale </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Range <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+
