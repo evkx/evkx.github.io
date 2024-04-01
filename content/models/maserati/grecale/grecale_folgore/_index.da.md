@@ -61,6 +61,16 @@ Maserati Grecale Folgore har et firehjulstræk, der understøttes af to motorer,
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 145 mm, og maksimum er 205 mm.
 
+### Køretilstande
+
+Maserati Grecale Folgore lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
+
+- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Max Range: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- GT: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Off Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 350mm.
@@ -97,11 +107,11 @@ Kun én type forsæde er tilgængelig i Maserati Grecale Folgore.
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering
-- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
@@ -114,6 +124,8 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
+- højdejusterbar nakkestøtte
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
@@ -152,7 +164,7 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 ## Infotainment
 
-Du kan vælge mellem to lydsystemer på Maserati Grecale Folgore. Med Sonus Faber Premium Sound System får du 14 højttalere med en maksimal systemeffekt på 700 watt. Med Sonus Faber High Premium Sound System får du 21 højttalere med en maksimal systemeffekt på 1285 watt.
+Du kan vælge mellem to lydsystemer på Maserati Grecale Folgore. Med Sonus Faber Premium Sound System får du 14 højttalere med en maksimal systemeffekt på 860 watt. Med Sonus Faber High Premium Sound System får du 21 højttalere med en maksimal systemeffekt på 1285 watt.
 
 Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Maserati Grecale Folgore Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 

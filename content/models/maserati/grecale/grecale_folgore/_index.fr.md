@@ -61,6 +61,16 @@ Maserati Grecale Folgore dispose d'un système de transmission intégrale pris e
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 145 mm et la garde au sol maximale est de 205 mm.
 
+### Modes de conduite
+
+Le Maserati Grecale Folgore permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
+
+- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+- Max Range : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- GT : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Off Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+
+
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 350 mm.
@@ -97,11 +107,11 @@ Un seul type de siège avant est disponible dans le Maserati Grecale Folgore.
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique
-- appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
@@ -114,6 +124,8 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
@@ -152,7 +164,7 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 ## Infodivertissement
 
-Vous pouvez choisir entre deux systèmes audio sur le Maserati Grecale Folgore. Avec le Sonus Faber Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 700 watts. Avec le Sonus Faber High Premium Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1285 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Maserati Grecale Folgore. Avec le Sonus Faber Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 860 watts. Avec le Sonus Faber High Premium Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1285 watts.
 
 De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Maserati Grecale Folgore prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 

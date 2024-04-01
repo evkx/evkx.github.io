@@ -61,6 +61,16 @@ Maserati Grecale Folgore tiene un sistema de tracción total sostenido por dos m
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 145 mm y la máxima es 205 mm.
 
+### Modos de conducción
+
+El Maserati Grecale Folgore permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
+
+- Sport: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Max Range: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- GT: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Off Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 350 mm.
@@ -97,11 +107,11 @@ Sólo hay un tipo de asiento delantero disponible en el Maserati Grecale Folgore
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico
-- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
@@ -114,6 +124,8 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
@@ -152,7 +164,7 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 ## Infoentretenimiento
 
-Puedes elegir entre dos sistemas de sonido en el Maserati Grecale Folgore. Con el Sonus Faber Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de 700 vatios. Con el Sonus Faber High Premium Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1285 vatios.
+Puedes elegir entre dos sistemas de sonido en el Maserati Grecale Folgore. Con el Sonus Faber Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de 860 vatios. Con el Sonus Faber High Premium Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1285 vatios.
 
 Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Maserati Grecale Folgore es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
