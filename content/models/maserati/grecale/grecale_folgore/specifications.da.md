@@ -161,6 +161,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				150 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Antal moduler
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -900,6 +908,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Hill DescentAssist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

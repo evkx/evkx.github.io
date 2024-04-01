@@ -161,6 +161,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				150 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Number of modules
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -900,6 +908,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Hill descent assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

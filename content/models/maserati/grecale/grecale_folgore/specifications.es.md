@@ -161,6 +161,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				150 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Número de módulos
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -900,6 +908,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

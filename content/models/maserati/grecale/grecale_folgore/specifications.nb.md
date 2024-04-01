@@ -161,6 +161,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				150 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Antall moduler
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -900,6 +908,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Hill nedstigningshjelp
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

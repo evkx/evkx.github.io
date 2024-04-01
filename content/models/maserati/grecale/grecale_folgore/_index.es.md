@@ -37,7 +37,7 @@ La batería tiene una capacidad bruta de 105kWh y una capacidad neta de 96kWh, l
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 501 a 426 km (311-265 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 19,2kWh/100 km para la versión básica y 22,5kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 49 minutos, mientras que un escenario más común del 10 al 80 % tardaría 29 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 80%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 119kW. Cada sesión de carga tardaría 37 minutos y 8 segundos.
+La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 64 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 61%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 112kW. Cada sesión de carga tardaría 30 minutos y 22 segundos.
 
 ### Cargador a bordo
 
@@ -65,7 +65,7 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 350 mm.
 
-
+[Frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puedes usar [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-usando-el-pedal-de-freno) para regenerar. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el automóvil avanzando lentamente. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay tres niveles.
 
 ## Exterior
 

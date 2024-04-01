@@ -161,6 +161,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				150 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nombre de modules
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -900,6 +908,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Aide à la descente
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

@@ -161,6 +161,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				150 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Antal moduler
+			</td>
+			<td>
+				33
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -900,6 +908,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Hill Descent Assist
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

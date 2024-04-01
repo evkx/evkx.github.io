@@ -37,7 +37,7 @@ La batterie a une capacité brute de 105kWh et une capacité nette de 96kWh, ce 
 
 La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 501 à 426 km (311-265 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 19,2kWh/100km pour la version de base et 22,5kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
-La vitesse de charge DC maximale est de 150kW. Une charge complète de 0 à 100 % prendrait 49 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 29 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 80 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 119kW. Chaque session de charge prendrait 37 minutes et 8 secondes.
+La vitesse de charge DC maximale est de 150kW. Une charge complète de 0 à 100 % prendrait 64 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 61 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 112kW. Chaque session de charge prendrait 30 minutes et 22 secondes.
 
 ### Chargeur embarqué
 
@@ -65,7 +65,7 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 350 mm.
 
-
+[Freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual -régénération-à l'aide de la pédale de frein) pour régénérer. À basse vitesse, le mode de conduite à une pédale permettra à la voiture d'avancer. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
 
 ## Extérieur
 

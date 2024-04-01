@@ -37,7 +37,7 @@ The battery has a gross capacity of 105kWh and a net capacity of 96kWh, meaning 
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 501 to 426 km (311-265 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.2kWh/100km for the basic version and 22.5kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 49 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 80%, resulting in an actual charge speed, including time loss, of 119kW. Each charge session would take 37 minutes and 8 seconds.
+The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 64 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 61%, resulting in an actual charge speed, including time loss, of 112kW. Each charge session would take 30 minutes and 22 seconds.
 
 ### Onboard charger
 
@@ -65,7 +65,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 350mm.
 
-
+[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. At low speeds, the one-pedal drive mode will keep the car creeping forward. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior
 
