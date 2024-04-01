@@ -94,11 +94,11 @@ You can order the car with tinted windows from B-pillar and back.
 
 Only one front seat type is available in the Maserati Grecale Folgore.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **standard** seat.
 
 - electric adjustment
 - height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -133,6 +133,8 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without using the key.
 
+The steering wheel is electrically adjustable.
+
 You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
@@ -142,7 +144,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The Maserati Grecale Folgore has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 12.3 inches large. The touch screen at the bottom of the center console is 8.8 inches large.
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
@@ -169,13 +171,32 @@ The Maserati Grecale Folgore has several standard and optional [advanced driver 
 
 
 
+The Maserati Grecale Folgore has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The Maserati Grecale Folgore has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+
 The Maserati Grecale Folgore has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
+
+The Maserati Grecale Folgore has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
+
+[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
 
 
-With the standard system the model offers no driving automation.
+With the   level 2 system, you get the following driving automation features.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 ### Sensors & Cameras
 
@@ -188,7 +209,7 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 535 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3110 kg (6856 lbs), and with the base weight of 2405 kg (5302 lbs), you can max load 705 kg (1554 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 535 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3110 kg (6856 lbs), and with the base weight of 2480 kg (5467 lbs), you can max load 630 kg (1389 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 ### Availability & Pricing

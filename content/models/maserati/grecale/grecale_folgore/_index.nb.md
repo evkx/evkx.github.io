@@ -94,11 +94,11 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 Bare én type forsete er tilgjengelig i Maserati Grecale Folgore.
 
-Følgende funksjoner er tilgjengelige på **** setet.
+Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -133,6 +133,8 @@ Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så leng
 
 Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
+Rattet er elektrisk justerbart.
+
 Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
@@ -142,7 +144,7 @@ Du har trådløs lading for telefonen din.
 ## Brukergrensesnitt og kontroll
 
 Maserati Grecale Folgore har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen). -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor. touch-skjermen øverst på midtkonsollen er 12,3 tommer stor. touch-skjermen nederst på midtkonsollen er 8,8 tommer stor.
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
@@ -169,13 +171,32 @@ Maserati Grecale Folgore har flere standard og valgfrie [avanserte førerassiste
 
 
 
+Maserati Grecale Folgore har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+
+Maserati Grecale Folgore har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
+
 Maserati Grecale Folgore har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er standard førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er standard førerassistentsystem som bruker sensorer for å oppdage nærmer seg kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+
+Maserati Grecale Folgore har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er standard førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon.
+
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
 
 
-Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
+Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 ### Sensorer og kameraer
 
@@ -188,7 +209,7 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem 
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 535 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 3110 kg, og med basisvekten på 2405 kg kan du maksimalt laste 705 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 535 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 3110 kg, og med basisvekten på 2480 kg kan du maksimalt laste 630 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris

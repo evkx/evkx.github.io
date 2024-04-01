@@ -339,7 +339,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2405 kg
+				2480 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				705 kg
+				630 kg
 			</td>
 		</tr>
 		<tr>
@@ -526,6 +526,9 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 
 ### Framsäten
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -866,6 +869,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Varning för korstrafik, bak
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +885,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Parkeringssensorer fram
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -902,6 +907,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Backstartsassistans
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -909,6 +915,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Antiblockeringssystem (ABS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +923,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Autonom nödbromsning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -923,6 +931,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektronisk bromsassistans
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -930,6 +939,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Antispinnsystem (TCS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -944,6 +954,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Kollisionsvarning, front
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -951,6 +962,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -958,6 +970,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Temperature Warning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +978,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Varning för korstrafik, foran
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +986,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Hastighetsbegränsare
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -986,6 +1001,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Autonom nödstyrning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -993,6 +1009,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Skyltigenkänning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1042,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Head-up display
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

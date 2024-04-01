@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2405 kg (5302 lbs)
+				2480 kg (5467 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				705 kg (1554 lbs)
+				630 kg (1389 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -526,6 +526,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 
 ### Front seats
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -866,6 +869,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +885,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -902,6 +907,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Hill start assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -909,6 +915,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +923,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -923,6 +931,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Brake assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -930,6 +939,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Traction control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -944,6 +954,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -951,6 +962,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/electronicstabilitycontrol/">Electronic stability control</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -958,6 +970,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +978,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +986,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Speed limiter
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -986,6 +1001,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -993,6 +1009,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1042,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Head-up display
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

@@ -339,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2405 kg (5302 lbs)
+				2480 kg (5467 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				705 kg (1554 lbs)
+				630 kg (1389 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -526,6 +526,9 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 
 ### Forsæder
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -866,6 +869,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Alarm bag krydstrafik
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +885,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -902,6 +907,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Hill start assist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -909,6 +915,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +923,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Automatisk nødbremse
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -923,6 +931,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bremseassistent
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -930,6 +939,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Traction control
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -944,6 +954,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -951,6 +962,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Elektronisk stabilitetskontrol
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -958,6 +970,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +978,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Cross traffic assist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +986,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Hastighedsbegrænser
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -986,6 +1001,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -993,6 +1009,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Traffic Sign Recognition
 			</td>
 			<td>
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1042,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Head-up display
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

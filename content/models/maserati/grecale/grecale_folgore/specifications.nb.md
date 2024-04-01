@@ -339,7 +339,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2405 kg
+				2480 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				705 kg
+				630 kg
 			</td>
 		</tr>
 		<tr>
@@ -526,6 +526,9 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 ### Forseter
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -866,6 +869,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +885,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -902,6 +907,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Hill start assist
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -909,6 +915,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +923,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Automatisk nødbremsing
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -923,6 +931,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bremseassistent
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -930,6 +939,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Traksjonskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -944,6 +954,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -951,6 +962,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -958,6 +970,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +978,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Cross traffic assist
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +986,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Fartsbegrenser
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -986,6 +1001,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -993,6 +1009,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1042,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

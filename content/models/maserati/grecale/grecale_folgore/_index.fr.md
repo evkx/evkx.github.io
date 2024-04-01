@@ -94,11 +94,11 @@ Vous pouvez commander la voiture avec des vitres teintées à partir du montant 
 
 Un seul type de siège avant est disponible dans le Maserati Grecale Folgore.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+- [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -133,6 +133,8 @@ L'entrée sans clé permet d'accéder à la voiture sans avoir besoin de trouver
 
 Keyless go permet de démarrer la voiture sans utiliser la clé.
 
+Le volant est réglable électriquement.
+
 Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
@@ -142,7 +144,7 @@ Vous disposez d'une recharge sans fil pour votre téléphone.
 ## Interface utilisateur et contrôle
 
 Le Maserati Grecale Folgore possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il existe deux [écrans d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces. L'écran touch en haut de la console centrale mesure 12,3 pouces. L'écran touch en bas de la console centrale mesure 8,8 pouces.
-Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
@@ -169,13 +171,32 @@ Le Maserati Grecale Folgore dispose de plusieurs [systèmes avancés d'aide à l
 
 
 
+Le Maserati Grecale Folgore dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme un standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+
+Le Maserati Grecale Folgore dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme un standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+
 Le Maserati Grecale Folgore dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un un standard système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
+
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) est un un standard système d'aide à la conduite qui utilise des capteurs pour détecter l'approche véhicules par le côté lors de la marche arrière d'une place de stationnement ou d'une allée.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un un standard système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
+
+Le Maserati Grecale Folgore dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
+
+[**Direction d'urgence automatique**](../../../../technology/driverassistance/automaticemergencysteering/) est un un standard système d'aide à la conduite conçu pour aider les conducteurs à éviter les collisions en diriger automatiquement le véhicule en cas d'urgence.
+
+[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un un standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
 ### Automatisation de la conduite
 
 
 
-Avec le système standard, le modèle n'offre aucune automatisation de conduite.
+Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
+- [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/) : maintient la voiture dans votre voie de circulation et ralentit si nécessaire dans la circulation. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 ### Capteurs et caméras
 
@@ -188,7 +209,7 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), c
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 535 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 3110 kg (6856 lbs), et avec le poids de base de 2405 kg (5302 lbs), vous pouvez charger au maximum 705 kg (1554 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement du coffre est de 535 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 3110 kg (6856 lbs), et avec le poids de base de 2480 kg (5467 lbs), vous pouvez charger au maximum 630 kg (1389 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
 ### Disponibilité et prix

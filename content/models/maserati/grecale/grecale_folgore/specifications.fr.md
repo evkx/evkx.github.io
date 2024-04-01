@@ -339,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2405 kg (5302 lbs)
+				2480 kg (5467 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				705 kg (1554 lbs)
+				630 kg (1389 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -526,6 +526,9 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 
 ### Sièges avant
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -866,6 +869,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Alerte de trafic transversal arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +885,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capteurs de stationnement avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -902,6 +907,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Aide au démarrage en côte
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -909,6 +915,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Système de freinage antiblocage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +923,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Freinage d'urgence automatique
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -923,6 +931,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Assistance au freinage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -930,6 +939,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle de traction
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -944,6 +954,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avertissement de collision avant
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -951,6 +962,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Contrôle électronique de stabilité
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -958,6 +970,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +978,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Assistance au trafic transversal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +986,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Limiteur de vitesse
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -986,6 +1001,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -993,6 +1009,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1042,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Affichage tête haute
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

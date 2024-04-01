@@ -94,11 +94,11 @@ Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 
 Endast en typ av framsäte är tillgänglig i Maserati Grecale Folgore.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
@@ -133,6 +133,8 @@ Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. 
 
 Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
+Ratten är elektriskt justerbar.
+
 Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
@@ -142,7 +144,7 @@ Du har trådlös laddning för din telefon.
 ## Användargränssnitt och kontroll
 
 Maserati Grecale Folgore har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen touch översta mittkonsolen är 12,3 tum. Skärmen touch botten av mittkonsolen är 8,8 tum.
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
@@ -169,13 +171,32 @@ Maserati Grecale Folgore har flera standard- och valfria [avancerade förarassis
 
 
 
+Maserati Grecale Folgore har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+
+Maserati Grecale Folgore har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+
 Maserati Grecale Folgore har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är standard förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
+
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) är standard förarassistanssystem som använder sensorer för att detektera närmar sig fordon från sidan när du backar ut från en parkeringsplats eller uppfart.
+
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+
+Maserati Grecale Folgore har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+
+[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är standard förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
+
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
 ### Körautomation
 
 
 
-Med standardsystemet erbjuder modellen ingen körautomatisering.
+Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
+- [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 ### Sensorer och kameror
 
@@ -188,7 +209,7 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), comm
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 535 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 3110 kg, och med basvikten på 2405 kg kan du lasta maximalt 705 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmets kapacitet är 535 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 3110 kg, och med basvikten på 2480 kg kan du lasta maximalt 630 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris

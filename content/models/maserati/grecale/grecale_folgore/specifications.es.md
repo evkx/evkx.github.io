@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2405 kg (5302 lbs)
+				2480 kg (5467 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				705 kg (1554 lbs)
+				630 kg (1389 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -526,6 +526,9 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 
 ### Asientos delanteros
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -866,6 +869,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Alerta de tráfico cruzado trasero
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +885,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -902,6 +907,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de arranque en pendiente
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -909,6 +915,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +923,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Frenado automático de emergencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -923,6 +931,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de frenado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -930,6 +939,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control de tracción
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -944,6 +954,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de colisión frontal
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -951,6 +962,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -958,6 +970,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +978,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +986,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Limitador de velocidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -986,6 +1001,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Dirección automática de emergencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -993,6 +1009,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1042,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla frontal
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
