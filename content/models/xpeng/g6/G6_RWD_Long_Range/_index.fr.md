@@ -33,17 +33,17 @@ Le XPENG G6 RWD Long Range a une puissance maximale de 218 KW (296 ch/292 ch). L
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 87,5kWh et une capacité nette de 82kWh, ce qui signifie que vous disposez d'une réserve de 5,5kWh pour la protection. (6,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie a une capacité brute de 92kWh et une capacité nette de 87,5kWh, ce qui signifie que vous disposez d'une réserve de 4,5kWh pour la protection. (4,9%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 755 km ( miles). La consommation est de 10,9kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 755 km ( miles). La consommation est de 11,6kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
-La vitesse de charge DC maximale est de 300kW. Une charge complète de 0 à 100 % prendrait 50 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 19 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 60 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 147kW. Chaque session de charge prendrait 18 minutes et 43 secondes.
+La vitesse de charge DC maximale est de 300kW. Une charge complète de 0 à 100 % prendrait 54 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 21 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 60 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 150kW. Chaque session de charge prendrait 19 minutes et 34 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 25kWh/100 km, 1 000 km prendront 9 heures et 29 minutes. Ce trajet nécessitera quatre sessions de charge de 7 % à 59 %. Le temps total perdu pour charger la batterie sera de 70 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 25kWh/100 km, 1 000 km prendront 9 heures et 25 minutes. Ce trajet nécessitera trois sessions de charge de 7 % à 69 %. Le temps total perdu pour charger la batterie sera de 66 minutes.
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 27 minutes.
+Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 57 minutes.
 
 ### Port de recharge
 

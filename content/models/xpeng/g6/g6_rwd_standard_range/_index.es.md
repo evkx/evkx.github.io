@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 RWD Standard Range
 linktitle: "G6 RWD Standard Range"
-description: "XPENG G6 RWD Standard Range es un SUV totalmente eléctrico con una autonomía CLTC de hasta 755 km (469 millas). EVKX.net tiene todos los detalles."
+description: "XPENG G6 RWD Standard Range es un SUV totalmente eléctrico con una autonomía WLTP de hasta 435 km (270 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ El XPENG G6 RWD Standard Range tiene una potencia máxima de 218 KW (296 hp/292 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 87,5kWh y una capacidad neta de 82kWh, lo que significa que tienes un buffer de 5,5kWh para protección. (6,3%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería tiene una capacidad bruta de 67kWh y una capacidad neta de 66kWh, lo que significa que tienes un buffer de 1kWh para protección. (1,5%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 755 km ( millas). El consumo es de 10,9kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 435 km (270 mi). El consumo es de 15,2kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 300kW. Una carga completa del 0 al 100 % tardaría 50 minutos, mientras que un escenario más común del 10 al 80 % tardaría 19 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 60%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 147kW. Cada sesión de carga tardaría 18 minutos y 43 segundos.
+La velocidad máxima de carga de CC es 215kW. Una carga completa del 0 al 100 % tardaría 43 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 60%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 124kW. Cada sesión de carga tardaría 17 minutos y 54 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 9 horas y 29 minutos. Este viaje requerirá cuatro sesiones de carga del 7 % al 59 %. El tiempo total perdido para cargar la batería será de 70 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 9 horas y 49 minutos. Este viaje requerirá cinco sesiones de carga del 7 % al 63 %. El tiempo total perdido para cargar la batería será de 89 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 7 horas y 27 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 6 horas y 0 minutos.
 
 ### Puerto de carga
 

@@ -80,6 +80,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
+			</td>
+			<td>
+				435 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
+			</td>
+			<td>
+				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Basic trim CLTC range
 			</td>
 			<td>
@@ -91,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC consumption
 			</td>
 			<td>
-				10,9 kWh/100km
+				8,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				87,5 kWh
+				67 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				82 kWh
+				66 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				300 kW
+				215 kW
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
-				NMC
+				LFP
 			</td>
 		</tr>
 	</tbody>

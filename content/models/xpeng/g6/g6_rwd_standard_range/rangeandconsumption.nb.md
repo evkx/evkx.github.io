@@ -35,6 +35,19 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 	<tbody>
 		<tr>
 			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP rekkevidde grunnleggende utstyrsnivå
+				</a>
+			</td>
+			<td>
+				435 km / 270 mi
+			</td>
+			<td>
+				15,17kWh/100km / 4,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="../../../../../guides/understandingrange/cltc/ ">
 					CLTC rekkevidde
 				</a>
@@ -43,7 +56,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				755 km / 469 mi 
 			</td>
 			<td>
-				10,86kWh/100km /  mi/kWh
+				8,74kWh/100km / 4,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -69,6 +82,17 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP rekkevidde grunnleggende utstyrsnivå med 2KW AC
+			</td>
+			<td>
+				 339km / 211 mi 
+			</td>
+			<td>
+				-22,1%
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -97,7 +121,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				90 kmt/56 mph under perfekte forhold
 			</td>
 			<td>
-				421km / 262 mi
+				338km / 210 mi
 			</td>
 			<td>
 				19,5 kWh/100km / 3,2 mi/kWh
@@ -108,7 +132,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				90 kmt/56 mph med 2KW oppvarming
 			</td>
 			<td>
-				388km /235mi
+				311km /188mi
 			</td>
 			<td>
 				21,7 kWh/100km /2,9 mi/kWh 
@@ -119,7 +143,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt/75 mph under perfekte forhold
 			</td>
 			<td>
-				328 km / 204 mi
+				264 km / 164 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -130,7 +154,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt /75mph med 2KW oppvarming
 			</td>
 			<td>
-				308 km /191mi
+				248 km /154mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

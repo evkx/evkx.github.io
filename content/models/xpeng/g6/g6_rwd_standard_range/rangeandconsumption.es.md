@@ -35,6 +35,19 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 	<tbody>
 		<tr>
 			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					Equipamiento básico de la gama WLTP
+				</a>
+			</td>
+			<td>
+				435 km / 270 mi
+			</td>
+			<td>
+				15,17kWh/100km / 4,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="../../../../../guides/understandingrange/cltc/ ">
 					rango CLTC
 				</a>
@@ -43,7 +56,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				755 km / 469 mi 
 			</td>
 			<td>
-				10,86kWh/100km /  mi/kWh
+				8,74kWh/100km / 4,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -69,6 +82,17 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Equipamiento básico gama WLTP con 2KW AC
+			</td>
+			<td>
+				 339km / 211 mi 
+			</td>
+			<td>
+				-22,1%
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -97,7 +121,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90kmh/56mph perfecto estado
 			</td>
 			<td>
-				421km / 262 mi
+				338km / 210 mi
 			</td>
 			<td>
 				19,5 kWh/100km / 3,2 mi/kWh
@@ -108,7 +132,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90 kmh/56 mph con calefacción de 2 KW
 			</td>
 			<td>
-				388km /235mi
+				311km /188mi
 			</td>
 			<td>
 				21,7 kWh/100km /2,9 mi/kWh 
@@ -119,7 +143,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120kmh/75mph perfecto estado
 			</td>
 			<td>
-				328 km / 204 mi
+				264 km / 164 mi
 			</td>
 			<td>
 				25 kWh/100km / 2,5 mi/kWh
@@ -130,7 +154,7 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120 kmh/75 mph con calefacción de 2 KW
 			</td>
 			<td>
-				308 km /191mi
+				248 km /154mi
 			</td>
 			<td>
 				26,7 kWh/100km /2,3 mi/kWh

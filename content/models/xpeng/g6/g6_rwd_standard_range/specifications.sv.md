@@ -80,6 +80,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
+				WLTP-räckvidd
+			</td>
+			<td>
+				435 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-förbrukning
+			</td>
+			<td>
+				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				CLTC räckvidd
 			</td>
 			<td>
@@ -91,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				10,9 kWh/100km
+				8,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +134,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				87,5 kWh
+				67 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				82 kWh
+				66 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				300 kW
+				215 kW
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Katodmaterial
 			</td>
 			<td>
-				NMC
+				LFP
 			</td>
 		</tr>
 	</tbody>

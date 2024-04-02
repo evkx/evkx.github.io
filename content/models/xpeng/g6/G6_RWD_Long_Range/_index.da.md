@@ -33,17 +33,17 @@ XPENG G6 RWD Long Range har en maksimal effekt på 218 KW (296 hk/292 hk). Det s
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 87,5kWh og en nettokapacitet på 82kWh, hvilket betyder, at du har en 5,5kWh buffer til beskyttelse. (6,3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 92kWh og en nettokapacitet på 87,5kWh, hvilket betyder, at du har en 4,5kWh buffer til beskyttelse. (4,9%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 755 km ( miles). Forbruget er 10,9kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 755 km ( miles). Forbruget er 11,6kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 147kW. Hver opladningssession ville tage 18 minutter og 43 sekunder.
+Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 54 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 21 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 150kW. Hver opladningssession ville tage 19 minutter og 34 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 9 timer og 29 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 7 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 70 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 9 timer og 25 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 7 % til 69%. Den samlede tid, der går tabt for at oplade batteriet, vil være 66 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 27 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 57 minutter.
 
 ### Ladeport
 

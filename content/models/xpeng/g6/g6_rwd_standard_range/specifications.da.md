@@ -80,6 +80,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
+				WLTP-område
+			</td>
+			<td>
+				435 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbrug
+			</td>
+			<td>
+				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Basic trim CLTC range
 			</td>
 			<td>
@@ -91,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC-forbrug
 			</td>
 			<td>
-				10,9 kWh/100km
+				8,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +134,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				87,5 kWh
+				67 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				82 kWh
+				66 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				300 kW
+				215 kW
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +158,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Katodematerialer
 			</td>
 			<td>
-				NMC
+				LFP
 			</td>
 		</tr>
 	</tbody>

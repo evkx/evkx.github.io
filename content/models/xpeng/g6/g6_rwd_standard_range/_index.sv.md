@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 RWD Standard Range
 linktitle: "G6 RWD Standard Range"
-description: "XPENG G6 RWD Standard Range är en helelektrisk SUV med en CLTC räckvidd på upp till 755 km. EVKX.net har alla detaljer."
+description: "XPENG G6 RWD Standard Range är en helelektrisk SUV med en WLTP räckvidd på upp till 435 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ XPENG G6 RWD Standard Range har en maximal effekt på 218 KW (296hk). Totalt vri
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 87,5kWh och en nettokapacitet på 82kWh, vilket innebär att du har en 5,5kWh buffert för skydd. (6,3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 67kWh och en nettokapacitet på 66kWh, vilket innebär att du har en 1kWh buffert för skydd. (1,5%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 755 km ( miles). Förbrukningen är 10,9kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 435 km. Förbrukningen är 15,2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 147kW. Varje laddningssession tar 18 minuter och 43 sekunder.
+Maximal DC-laddningshastighet är 215 kW. En full laddning från 0 - 100 % tar 43 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 124kW. Varje laddningssession tar 17 minuter och 54 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 9 timmar och 29 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 7% till 59%. Total tid som går förlorad för att ladda batteriet kommer att vara 70 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 9 timmar och 49 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 7% till 63%. Total tid som går förlorad för att ladda batteriet kommer att vara 89 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 27 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 6 timmar och 0 minuter.
 
 ### Laddningsport
 

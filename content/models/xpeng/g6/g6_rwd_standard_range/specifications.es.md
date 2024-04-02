@@ -80,6 +80,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
+				Rango WLTP
+			</td>
+			<td>
+				435 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP
+			</td>
+			<td>
+				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Rango CLTC de equipamiento básico
 			</td>
 			<td>
@@ -91,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo CLTC de ajuste básico
 			</td>
 			<td>
-				10,9 kWh/100km
+				8,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +134,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				87,5 kWh
+				67 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				82 kWh
+				66 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				300 kW
+				215 kW
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +158,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Materiales del cátodo
 			</td>
 			<td>
-				NMC
+				LFP
 			</td>
 		</tr>
 	</tbody>

@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 RWD Standard Range
 linktitle: "G6 RWD Standard Range"
-description: "XPENG G6 RWD Standard Range er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 755 km (469 miles). EVKX.net har alle detaljerne."
+description: "XPENG G6 RWD Standard Range er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 435 km (270 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ XPENG G6 RWD Standard Range har en maksimal effekt på 218 KW (296 hk/292 hk). D
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 87,5kWh og en nettokapacitet på 82kWh, hvilket betyder, at du har en 5,5kWh buffer til beskyttelse. (6,3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 67kWh og en nettokapacitet på 66kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (1,5%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 755 km ( miles). Forbruget er 10,9kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 435 km (270 mi). Forbruget er 15,2kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 147kW. Hver opladningssession ville tage 18 minutter og 43 sekunder.
+Den maksimale DC-opladningshastighed er 215kW. En fuld opladning fra 0 - 100 % ville tage 43 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 124kW. Hver opladningssession ville tage 17 minutter og 54 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 9 timer og 29 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 7 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 70 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 9 timer og 49 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 7 % til 63%. Den samlede tid, der går tabt for at oplade batteriet, vil være 89 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 27 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 0 minutter.
 
 ### Ladeport
 

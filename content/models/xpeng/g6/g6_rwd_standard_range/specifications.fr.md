@@ -80,6 +80,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
+				Gamme WLTP
+			</td>
+			<td>
+				435 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation WLTP
+			</td>
+			<td>
+				15,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Gamme CLTC de finition de base
 			</td>
 			<td>
@@ -91,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation CLTC de base
 			</td>
 			<td>
-				10,9 kWh/100km
+				8,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +134,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				87,5 kWh
+				67 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +142,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				82 kWh
+				66 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +150,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				300 kW
+				215 kW
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +158,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Matériaux cathodiques
 			</td>
 			<td>
-				NMC
+				LFP
 			</td>
 		</tr>
 	</tbody>
