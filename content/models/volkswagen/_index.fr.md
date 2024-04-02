@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Volkswagen ID. Buzz est un monospace disponible en 3 variantes.
+Volkswagen ID. Buzz est un monospace disponible en 4 variantes.
 </p>
 	<a href="id._buzz/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

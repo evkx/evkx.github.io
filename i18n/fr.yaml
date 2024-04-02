@@ -109,6 +109,12 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-142ff3fd
+  translation: Volkswagen ID. Buzz GTX est un monospace entièrement électrique avec une autonomie de WLTP jusqu'à 400 km (249 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-ca37056a
+  translation: Volkswagen ID. Buzz GTX est un monospace entièrement électrique avec une autonomie de WLTP jusqu'à 418 km (260 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-b3f065d3
   translation: XPENG G6 RWD Standard Range est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 435 km (270 miles). EVKX.net a tous les détails.
 
@@ -150,10 +156,4 @@
 
 - id: frontpage-description-8308a949
   translation: Audi SQ6 e-tron est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 598 km (372 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-e10ab496
-  translation: Audi Q6 e-tron quattro est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 625 km (388 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-72c1c819
-  translation: Volkswagen ID.7 GTX Tourer est un break tout électrique avec une autonomie de WLTP allant jusqu'à 685 km (426 miles). EVKX.net a tous les détails.
 

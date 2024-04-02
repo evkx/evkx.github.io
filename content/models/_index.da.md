@@ -584,7 +584,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
-	Volkswagen har 5 modeller med i alt 19 varianter.
+	Volkswagen har 5 modeller med i alt 20 varianter.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Gå til Volkswagen EV-modeloversigt</a>
 </div>
