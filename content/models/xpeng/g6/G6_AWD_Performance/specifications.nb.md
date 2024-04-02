@@ -80,6 +80,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
+				WLTP-rekkevidde
+			</td>
+			<td>
+				550 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk
+			</td>
+			<td>
+				14,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				CLTC rekkevidde for minimum utstyrsnivå
 			</td>
 			<td>

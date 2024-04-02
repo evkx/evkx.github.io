@@ -30,7 +30,7 @@ XPENG G3 es un crossover disponible en 1 variantes.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-XPENG G6 es un SUV disponible en 2 variantes.
+XPENG G6 es un SUV disponible en 3 variantes.
 </p>
 	<a href="g6/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

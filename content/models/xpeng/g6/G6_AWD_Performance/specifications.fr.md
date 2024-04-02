@@ -80,6 +80,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
+				Gamme WLTP
+			</td>
+			<td>
+				550 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation WLTP
+			</td>
+			<td>
+				14,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Gamme CLTC de finition de base
 			</td>
 			<td>

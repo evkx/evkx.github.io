@@ -616,7 +616,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" class="img-fluid mb-2" alt="XPENG" ></a>
 	<h2>XPENG</h2>
 	<p>
-	XPENG a 5 modèles avec un total de 8 variantes.
+	XPENG a 5 modèles avec un total de 9 variantes.
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Aller à la XPENG présentation du modèle EV</a>
 </div>

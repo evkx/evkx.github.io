@@ -80,6 +80,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
+			</td>
+			<td>
+				550 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
+			</td>
+			<td>
+				14,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Basic trim CLTC range
 			</td>
 			<td>

@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 AWD Performance
 linktitle: "G6 AWD Performance"
-description: "XPENG G6 AWD Performance är en helelektrisk SUV med en CLTC räckvidd på upp till 700 km. EVKX.net har alla detaljer."
+description: "XPENG G6 AWD Performance är en helelektrisk SUV med en WLTP räckvidd på upp till 550 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ XPENG G6 AWD Performance har en maximal effekt på 358 KW (487hk). Totalt vridmo
 
 Batteriet har en bruttokapacitet på 87,5kWh och en nettokapacitet på 82kWh, vilket innebär att du har en 5,5kWh buffert för skydd. (6,3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 700 km ( miles). Förbrukningen är 11,7kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 550 km. Förbrukningen är 14,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 147kW. Varje laddningssession tar 18 minuter och 43 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26kWh/100km, tar 1000km 9 timmar och 33 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 7% till 62%. Total tid som går förlorad för att ladda batteriet kommer att vara 74 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 9 timmar och 25 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 7% till 72%. Total tid som går förlorad för att ladda batteriet kommer att vara 66 minuter.
 
 ### Inbyggd laddare
 

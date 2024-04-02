@@ -80,6 +80,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
+				Rango WLTP
+			</td>
+			<td>
+				550 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP
+			</td>
+			<td>
+				14,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Rango CLTC de equipamiento básico
 			</td>
 			<td>

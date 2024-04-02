@@ -35,6 +35,32 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 	<tbody>
 		<tr>
 			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					Equipamiento básico de la gama WLTP
+				</a>
+			</td>
+			<td>
+				550 km / 342 mi
+			</td>
+			<td>
+				14,91kWh/100km / 4,2 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					Equipamiento superior de gama WLTP
+				</a>
+			</td>
+			<td>
+				550 km / 342 mi
+			</td>
+			<td>
+				14,91 kWh/100km / 4,2 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="../../../../../guides/understandingrange/cltc/ ">
 					rango CLTC
 				</a>
@@ -43,7 +69,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				700 km / 435 mi 
 			</td>
 			<td>
-				11,71kWh/100km /  mi/kWh
+				11,71kWh/100km / 4,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -69,6 +95,28 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Equipamiento básico gama WLTP con 2KW AC
+			</td>
+			<td>
+				 427km / 265 mi 
+			</td>
+			<td>
+				-22,4%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Equipo superior de gama WLTP con 2KW AC
+			</td>
+			<td>
+				427 km / 265 mi
+			</td>
+			<td>
+				-22,4%
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -97,10 +145,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90kmh/56mph perfecto estado
 			</td>
 			<td>
-				410km / 255 mi
+				432km / 268 mi
 			</td>
 			<td>
-				20 kWh/100km / 3,1 mi/kWh
+				19 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -108,10 +156,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90 kmh/56 mph con calefacción de 2 KW
 			</td>
 			<td>
-				378km /229mi
+				397km /240mi
 			</td>
 			<td>
-				22,2 kWh/100km /2,8 mi/kWh 
+				21,2 kWh/100km /2,9 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -119,10 +167,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120kmh/75mph perfecto estado
 			</td>
 			<td>
-				315 km / 196 mi
+				342 km / 213 mi
 			</td>
 			<td>
-				26 kWh/100km / 2,4 mi/kWh
+				24 kWh/100km / 2,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -130,10 +178,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120 kmh/75 mph con calefacción de 2 KW
 			</td>
 			<td>
-				296 km /184mi
+				320 km /199mi
 			</td>
 			<td>
-				27,7 kWh/100km /2,2 mi/kWh
+				25,7 kWh/100km /2,4 mi/kWh
 			</td>
 		</tr>
 	</tbody>

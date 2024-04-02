@@ -30,7 +30,7 @@ XPENG G3 är en crossover tillgänglig i 1 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-XPENG G6 är en SUV tillgänglig i 2 varianter.
+XPENG G6 är en SUV tillgänglig i 3 varianter.
 </p>
 	<a href="g6/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 AWD Performance
 linktitle: "G6 AWD Performance"
-description: "XPENG G6 AWD Performance er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 700 km (435 miles). EVKX.net har alle detaljerne."
+description: "XPENG G6 AWD Performance er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 550 km (342 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ XPENG G6 AWD Performance har en maksimal effekt på 358 KW (487 hk/480 hk). Det 
 
 Batteriet har en bruttokapacitet på 87,5kWh og en nettokapacitet på 82kWh, hvilket betyder, at du har en 5,5kWh buffer til beskyttelse. (6,3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 700 km ( miles). Forbruget er 11,7kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 550 km (342 mi). Forbruget er 14,9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 147kW. Hver opladningssession ville tage 18 minutter og 43 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26kWh/100 km, vil 1000 km tage 9 timer og 33 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 7 % til 62%. Den samlede tid, der går tabt for at oplade batteriet, vil være 74 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24kWh/100 km, vil 1000 km tage 9 timer og 25 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 7 % til 72%. Den samlede tid, der går tabt for at oplade batteriet, vil være 66 minutter.
 
 ### Indbygget oplader
 

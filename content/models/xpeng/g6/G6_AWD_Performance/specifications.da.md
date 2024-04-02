@@ -80,6 +80,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
+				WLTP-område
+			</td>
+			<td>
+				550 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbrug
+			</td>
+			<td>
+				14,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Basic trim CLTC range
 			</td>
 			<td>

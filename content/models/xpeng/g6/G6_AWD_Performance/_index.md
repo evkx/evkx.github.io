@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 AWD Performance
 linktitle: "G6 AWD Performance"
-description: "XPENG G6 AWD Performance is an all-electric SUV with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details."
+description: "XPENG G6 AWD Performance is an all-electric SUV with a WLTP range of up to 550 km (342 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ The XPENG G6 AWD Performance has a maximum power of 358 KW (487 hp/480 bhp). The
 
 The battery has a gross capacity of 87,5kWh and a net capacity of 82kWh, meaning you have a 5,5kWh buffer for protection. (6.3%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 11.7kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 550 km (342 mi). The consumption is 14.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 300kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 19 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 60%, resulting in an actual charge speed, including time loss, of 147kW. Each charge session would take 18 minutes and 43 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 9 hours and 33 minutes. This trip will require four charge session(s) charging from 7% to 62%. The total time lost for charging up the battery will be 74 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 9 hours and 25 minutes. This trip will require three charge session(s) charging from 7% to 72%. The total time lost for charging up the battery will be 66 minutes.
 
 ### Onboard charger
 

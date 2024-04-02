@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 AWD Performance
 linktitle: "G6 AWD Performance"
-description: "XPENG G6 AWD Performance est un SUV entièrement électrique avec une autonomie CLTC allant jusqu'à 700 km (435 miles). EVKX.net a tous les détails."
+description: "XPENG G6 AWD Performance est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 550 km (342 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ Le XPENG G6 AWD Performance a une puissance maximale de 358 KW (487 ch/480 ch). 
 
 La batterie a une capacité brute de 87,5kWh et une capacité nette de 82kWh, ce qui signifie que vous disposez d'une réserve de 5,5kWh pour la protection. (6,3%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 700 km ( miles). La consommation est de 11,7kWh/100km pour le test standard CLTC. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 550 km (342 mi). La consommation est de 14,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 300kW. Une charge complète de 0 à 100 % prendrait 50 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 19 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 60 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 147kW. Chaque session de charge prendrait 18 minutes et 43 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 26kWh/100 km, 1 000 km prendront 9 heures et 33 minutes. Ce trajet nécessitera quatre sessions de charge de 7 % à 62 %. Le temps total perdu pour charger la batterie sera de 74 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 24kWh/100 km, 1 000 km prendront 9 heures et 25 minutes. Ce trajet nécessitera trois sessions de charge de 7 % à 72 %. Le temps total perdu pour charger la batterie sera de 66 minutes.
 
 ### Chargeur embarqué
 

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-b3f065d3
+  translation: XPENG G6 RWD Standard Range es un SUV totalmente eléctrico con una autonomía CLTC de hasta 755 km (469 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-a9a53827
   translation: Maserati Grecale Folgore es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 501 km (311 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-72c1c819
   translation: Volkswagen ID.7 GTX Tourer es una camioneta totalmente eléctrica con una WLTP autonomía de hasta 685 km (426 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-4507a85e
-  translation: Porsche Taycan Turbo GT es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 555 km (345 millas). EVKX.net tiene todos los detalles.
 

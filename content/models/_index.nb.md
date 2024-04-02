@@ -619,7 +619,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="xpeng/"><img src="https://media.evkx.net/multimedia/models/xpeng/brandevs_st.jpg" class="img-fluid mb-2" alt="XPENG" ></a>
 	<h2>XPENG</h2>
 	<p>
-	XPENG har 5 modell(er) med totalt 8 varianter.
+	XPENG har 5 modell(er) med totalt 9 varianter.
 	</p>
 	<a href="xpeng/" class="btn btn-outline-primary" role="button">Gå til XPENG modelloversikt</a>
 </div>
