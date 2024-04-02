@@ -544,7 +544,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 ### Front seats
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>

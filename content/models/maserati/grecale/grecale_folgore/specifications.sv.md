@@ -544,7 +544,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 ### Framsäten
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>

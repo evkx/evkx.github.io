@@ -544,7 +544,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 ### Forseter
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>

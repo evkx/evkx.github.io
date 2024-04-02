@@ -544,7 +544,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 ### Sièges avant
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>

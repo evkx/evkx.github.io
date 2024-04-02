@@ -544,7 +544,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 ### Forsæder
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>

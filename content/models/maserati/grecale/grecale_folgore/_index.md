@@ -106,7 +106,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 Only one front seat type is available in the Maserati Grecale Folgore.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **Sport** seat.
 
 - electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -170,7 +170,7 @@ You can choose between two sound systems on the Maserati Grecale Folgore. With t
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Maserati Grecale Folgore supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-
+The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.

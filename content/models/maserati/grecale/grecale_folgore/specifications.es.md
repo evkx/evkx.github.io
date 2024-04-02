@@ -544,7 +544,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 ### Asientos delanteros
 
 
-#### standard
+#### Sport
 
 <table class="table table-striped border">
 	<thead>

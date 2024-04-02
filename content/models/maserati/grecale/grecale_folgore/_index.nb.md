@@ -106,7 +106,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 Bare én type forsete er tilgjengelig i Maserati Grecale Folgore.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 - elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
@@ -170,7 +170,7 @@ Du kan velge mellom to lydsystemer på Maserati Grecale Folgore. Med Sonus Faber
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Maserati Grecale Folgore Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-
+Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
