@@ -249,6 +249,9 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque,
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="1747"  >}}
+
+### Disponibilité et prix
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>

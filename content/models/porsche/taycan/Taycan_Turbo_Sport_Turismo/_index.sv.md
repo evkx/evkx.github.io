@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo Sport Turismo
 linktitle: "Taycan Turbo Sport Turismo"
-description: "Porsche Taycan Turbo Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 507 km. EVKX.net har alla detaljer."
+description: "Porsche Taycan Turbo Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 606 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/main_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 
 Vi har delat in vår beskrivning av Porsche Taycan Turbo Sport Turismo i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
@@ -31,21 +31,25 @@ Vi har delat in vår beskrivning av Porsche Taycan Turbo Sport Turismo i avsnitt
 
 
 
-Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan Turbo Sport Turismo en maximal effekt på 500 KW (680hk). Utan overboost är det 460KW (625hp). Vridmomentet är 850 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 3,2 sekunder. Topphastigheten är 260 km/h.
+Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan Turbo Sport Turismo en maximal effekt på 650 KW (884hk). Utan overboost är det 520KW (707hp). Vridmomentet är 940 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 2,7 sekunder. Topphastigheten är 260 km/h.
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 93,4kWh och en nettokapacitet på 83,7kWh, vilket innebär att du har en 9,7kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 105kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 507 till 435 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16,5kWh/100 km för basversionen och 19,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 606 till 528 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16,0kWh/100 km för basversionen och 18,4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 165kW. Varje laddningssession tar 19 minuter och 53 sekunder.
+Maximal DC-laddningshastighet är 320 kW. En full laddning från 0 - 100 % tar 46 minuter, medan ett vanligare scenario på 10-80 % tar 15 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 212kW. Varje laddningssession tar 18 minuter och 32 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 10 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 3% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 51 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 8 timmar och 55 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 65%. Total tid som går förlorad för att ladda batteriet kommer att vara 35 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 36 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 3 timmar och 48 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 49 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 4 timmar och 24 minuter.
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/charging_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000"  >}}
+
 
 ### Laddningsport
 
@@ -85,7 +89,7 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Standardinställningen är bara ett vanligt tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1687"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -142,10 +146,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2001"  >}}
-
-
 ### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Porsche Taycan Turbo Sport Turismo.
@@ -159,10 +159,6 @@ Alternativet second är två integrerade säten i andra raden med en tredje mind
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - integrerat nackstöd
-
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1912"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -188,7 +184,7 @@ Porsche Taycan Turbo Sport Turismo har flera integrerade skärmar. Bakom ratten 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 
 
 ## Infotainment
@@ -203,7 +199,7 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 
 ## Avancerade förarassistanssystem
 
@@ -251,13 +247,9 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 405 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2870 kg, och med basvikten på 2220 kg kan du lasta maximalt 650 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 405 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2880 kg, och med basvikten på 2240 kg kan du lasta maximalt 640 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1747"  >}}
-<div class="mt-3 mb-3">
+Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

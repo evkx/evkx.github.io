@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-eaadc154
+  translation: Porsche Taycan Turbo Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 606 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-142ff3fd
   translation: Volkswagen ID. Buzz GTX är en helelektrisk MPV med en WLTP räckvidd på upp till 400 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-9c82a121
   translation: Volkswagen ID. Buzz GTX LWB är en helelektrisk MPV med en WLTP räckvidd på upp till 450 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-8308a949
-  translation: Audi SQ6 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 598 km. EVKX.net har alla detaljer.
 

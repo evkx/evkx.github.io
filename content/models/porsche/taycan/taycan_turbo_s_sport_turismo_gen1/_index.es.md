@@ -249,6 +249,9 @@ Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar 
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="1747"  >}}
+
+### Disponibilidad y precios
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>

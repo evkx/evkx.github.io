@@ -488,7 +488,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
-	Porsche tiene 2 modelos con un total de 20 variantes.
+	Porsche tiene 2 modelos con un total de 21 variantes.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Ir a Porsche descripción general del modelo EV</a>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo Sport Turismo
 linktitle: "Taycan Turbo Sport Turismo"
-description: "Porsche Taycan Turbo Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 507 km (315 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan Turbo Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 606 km (377 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/main_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 
 Vi har opdelt vores Porsche Taycan Turbo Sport Turismo artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
@@ -31,21 +31,25 @@ Vi har opdelt vores Porsche Taycan Turbo Sport Turismo artikel i sektioner. Hvis
 
 
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan Turbo Sport Turismo en maksimal effekt på 500 KW (680 hk / 625 bhp). Uden overboost er den 460 KW (625 hk / 671 hk). Momentet er 850 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3,2 sekunder. Tophastigheden er 260 km/t.
+Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan Turbo Sport Turismo en maksimal effekt på 650 KW (884 hk / 707 bhp). Uden overboost er den 520 KW (707 hk / 872 hk). Momentet er 940 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 2,7 sekunder. Tophastigheden er 260 km/t.
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 105kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km (315-270 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,5kWh/100 km for basisversionen og 19,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 606 til 528 km (377-328 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,0kWh/100 km for basisversionen og 18,4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 165kW. Hver opladningssession ville tage 19 minutter og 53 sekunder.
+Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 15 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 212kW. Hver opladningssession ville tage 18 minutter og 32 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 10 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 3 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 51 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 8 timer og 55 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 65%. Den samlede tid, der går tabt for at oplade batteriet, vil være 35 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 49 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 4 timer og 24 minutter.
+
+
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/charging_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000"  >}}
+
 
 ### Ladeport
 
@@ -85,7 +89,7 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1687"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -142,10 +146,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2001"  >}}
-
-
 ### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Porsche Taycan Turbo Sport Turismo.
@@ -159,10 +159,6 @@ Muligheden second er to integrerede sæder i anden række med et tredje mindre s
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - integreret nakkestøtte
-
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1912"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -188,7 +184,7 @@ Porsche Taycan Turbo Sport Turismo har flere integrerede skærme. Bag rattet er 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 
 
 ## Infotainment
@@ -203,7 +199,7 @@ Derudover får du med standard navigationssystemet i bilen den hjælp, du har br
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 
 ## Avancerede førerassistentsystemer
 
@@ -251,13 +247,9 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2870 kg (6327 lbs), og med basisvægten på 2220 kg (4894 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2240 kg (4938 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1747"  >}}
-<div class="mt-3 mb-3">
+Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>
