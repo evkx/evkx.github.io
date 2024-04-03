@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Potencia máxima
 			</td>
 			<td>
-				340 KW (462 hp /456 bhp)
+				320 KW (435 hp /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Potencia máxima con impulso
 			</td>
 			<td>
-				410 Kw
+				320 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Salida de par eléctrico
+			</td>
+			<td>
+				420 nm (310 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				357 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +95,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Potencia máxima
 			</td>
 			<td>
-				280 KW (381 hp /375 bhp)
+				300 KW (408 hp /402 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Potencia máxima con impulso
 			</td>
 			<td>
-				360 Kw
+				300 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Salida de par eléctrico
+			</td>
+			<td>
+				410 nm (303 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan. Ha
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				345 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				503 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>

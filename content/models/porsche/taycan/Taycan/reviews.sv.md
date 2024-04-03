@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW 2025 Porsche Taycan Review: 510-Mile Range?!</h3>
+<p>AutoTrader: 03.04.2024</p>
+
+{{< youtube QIZ1zqD9naE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Why this is the best Porsche Taycan! 2024 facelift driving REVIEW</h3>
+<p>Autogefühl: 03.04.2024</p>
+
+{{< youtube SBqHv5SpYC0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2024 Porsche Taycan facelift REVIEW - even quicker in acceleration and recharging!</h3>
 <p>Autogefühl: 07.02.2024</p>
 

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 				Peak power
 			</td>
 			<td>
-				340 KW (462 hp /456 bhp)
+				320 KW (435 hp /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 				Peak power with  boost
 			</td>
 			<td>
-				410 Kw
+				320 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output
+			</td>
+			<td>
+				420 nm (310 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 				Electrical torque output boost
 			</td>
 			<td>
-				357 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +95,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 				Peak power
 			</td>
 			<td>
-				280 KW (381 hp /375 bhp)
+				300 KW (408 hp /402 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 				Peak power with  boost
 			</td>
 			<td>
-				360 Kw
+				300 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output
+			</td>
+			<td>
+				410 nm (303 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 				Electrical torque output boost
 			</td>
 			<td>
-				345 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				503 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>

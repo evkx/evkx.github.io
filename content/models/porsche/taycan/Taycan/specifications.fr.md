@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				340 KW (462 ch /456 bhp)
+				320 KW (435 ch /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				410 Kw
+				320 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Couple de sortie électrique
+			</td>
+			<td>
+				420 nm (310 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				357 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +95,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				280 KW (381 ch /375 bhp)
+				300 KW (408 ch /402 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				360 Kw
+				300 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Couple de sortie électrique
+			</td>
+			<td>
+				410 nm (303 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				345 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				503 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>

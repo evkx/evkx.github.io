@@ -31,7 +31,7 @@ We have separated our Porsche Taycan article into sections. If you want to wait 
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 410 KW (557 hp / 550 bhp). Without overboost, it is 340 KW (462 hp / 462 bhp). The torque is 357 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.8 seconds. The top speed is 230 km/h. With overboost, the Porsche Taycan has a maximum power of 360 KW (490 hp / 483 bhp). Without overboost, it is 280 KW (381 hp / 381 bhp). The torque is 345 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.8 seconds. The top speed is 230 km/h.
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 320 KW (435 hp / 429 bhp). Without overboost, it is 320 KW (435 hp / 435 bhp). The torque is 420 nm with overboost and 420 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.8 seconds. The top speed is 230 km/h. With overboost, the Porsche Taycan has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 300 KW (408 hp / 408 bhp). The torque is 410 nm with overboost and 410 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.8 seconds. The top speed is 230 km/h.
 
 ## Battery, range, and charging
 
@@ -40,7 +40,7 @@ Porsche Taycan has two battery options with different specifications. Below you 
 
 The battery has a gross capacity of 105kWh and a net capacity of 97kWh, meaning you have a 8kWh buffer for protection. (7.6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 678 to 503 km (421-313 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.3kWh/100km for the basic version and 19.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 678 to 579 km (421-360 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.3kWh/100km for the basic version and 16.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 320kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 15 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 65%, resulting in an actual charge speed, including time loss, of 212kW. Each charge session would take 18 minutes and 32 seconds.
 
@@ -49,7 +49,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 The battery has a gross capacity of 89kWh and a net capacity of 83,6kWh, meaning you have a 5,4kWh buffer for protection. (6.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 484 to 407 km (301-253 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.3kWh/100km for the basic version and 19.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 590 to 503 km (367-313 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.3kWh/100km for the basic version and 16.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65%, resulting in an actual charge speed, including time loss, of 165kW. Each charge session would take 19 minutes and 52 seconds.
 

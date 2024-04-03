@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				340 KW (462 hk /456 hk)
+				320 KW (435 hk /429 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				410 Kw
+				320 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk momentudgang
+			</td>
+			<td>
+				420 nm (310 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Forøgelse af elektrisk drejningsmomentoutput
 			</td>
 			<td>
-				357 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +95,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				280 KW (381 hk /375 hk)
+				300 KW (408 hk /402 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				360 Kw
+				300 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk momentudgang
+			</td>
+			<td>
+				410 nm (303 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Forøgelse af elektrisk drejningsmomentoutput
 			</td>
 			<td>
-				345 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				503 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>

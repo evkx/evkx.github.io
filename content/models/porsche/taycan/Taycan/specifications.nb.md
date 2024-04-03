@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt
 			</td>
 			<td>
-				340 KW (462 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt med boost
 			</td>
 			<td>
-				410 Kw
+				320 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment
+			</td>
+			<td>
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Dreiemoment med boost
 			</td>
 			<td>
-				357 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +95,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt
 			</td>
 			<td>
-				280 KW (381 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Maks effekt med boost
 			</td>
 			<td>
-				360 Kw
+				300 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment
+			</td>
+			<td>
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan. Kli
 				Dreiemoment med boost
 			</td>
 			<td>
-				345 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				503 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				19,3 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
