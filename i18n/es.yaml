@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-d794e584
+  translation: Peugot E-5008 Long Range es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 660 km (410 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-eaadc154
   translation: Porsche Taycan Turbo Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 606 km (377 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-ece33e1d
   translation: Ford Explorer Extended Range AWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 566 km (352 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-9c82a121
-  translation: Volkswagen ID. Buzz GTX LWB es un monovolumen totalmente eléctrico con una autonomía WLTP de hasta 450 km (280 millas). EVKX.net tiene todos los detalles.
 

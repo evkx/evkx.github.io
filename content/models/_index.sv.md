@@ -472,7 +472,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>
 	<h2>Peugot</h2>
 	<p>
-	Peugot har 4 modell(er) med totalt 6 varianter.
+	Peugot har 5 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="peugot/" class="btn btn-outline-primary" role="button">Gå till Peugot modellöversikt</a>
 </div>

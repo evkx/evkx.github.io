@@ -472,7 +472,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="peugot/"><img src="https://media.evkx.net/multimedia/models/peugot/brandevs_st.jpeg" class="img-fluid mb-2" alt="Peugot" ></a>
 	<h2>Peugot</h2>
 	<p>
-	Peugot a 4 modèles avec un total de 6 variantes.
+	Peugot a 5 modèles avec un total de 7 variantes.
 	</p>
 	<a href="peugot/" class="btn btn-outline-primary" role="button">Aller à la Peugot présentation du modèle EV</a>
 </div>

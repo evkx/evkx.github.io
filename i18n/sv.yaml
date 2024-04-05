@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-d794e584
+  translation: Peugot E-5008 Long Range är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 660 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-eaadc154
   translation: Porsche Taycan Turbo Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 606 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-ece33e1d
   translation: Ford Explorer Extended Range AWD är en helelektrisk SUV med en WLTP räckvidd på upp till 566 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-9c82a121
-  translation: Volkswagen ID. Buzz GTX LWB är en helelektrisk MPV med en WLTP räckvidd på upp till 450 km. EVKX.net har alla detaljer.
 
