@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV SRT
 linktitle: "Silverado EV SRT"
-description: "Chevrolet Silverado EV SRT is an all-electric Pickup Truck with a EPA range of up to 644 km (400 miles). EVKX.net has all the details."
+description: "Chevrolet Silverado EV SRT is an all-electric Pickup Truck with a EPA range of up to 708 km (440 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Chevrolet Silverado EV SRT has a maximum power of 562 KW (764 hp/754 bhp). T
 
 The battery has a gross capacity of 240kWh and a net capacity of 215kWh, meaning you have a 25kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 400 miles (644 km). The consumption is 1.9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km). The consumption is 2.0mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 140 minutes, while a more common scenario of 10-80% would take 49 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 52%, resulting in an actual charge speed, including time loss, of 245kW. Each charge session would take 27 minutes and 51 seconds.
 
@@ -61,7 +61,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Chevrolet Silverado EV SRT has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 227 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 176 mm, and the maximum is 278 mm.
 
 ### Brakes
 

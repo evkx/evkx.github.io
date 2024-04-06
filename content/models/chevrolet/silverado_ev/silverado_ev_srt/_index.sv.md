@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV SRT
 linktitle: "Silverado EV SRT"
-description: "Chevrolet Silverado EV SRT är en helelektrisk pickup med en EPA räckvidd på upp till 644 km. EVKX.net har alla detaljer."
+description: "Chevrolet Silverado EV SRT är en helelektrisk pickup med en EPA räckvidd på upp till 708 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Chevrolet Silverado EV SRT har en maximal effekt på 562 KW (764hk). Totalt vrid
 
 Batteriet har en bruttokapacitet på 240kWh och en nettokapacitet på 215kWh, vilket innebär att du har en 25kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 400 miles (644 km). Förbrukningen är 1,9mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 440 miles (708 km). Förbrukningen är 2,0mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 140 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 52%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 245kW. Varje laddningssession tar 27 minuter och 51 sekunder.
 
@@ -61,7 +61,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Chevrolet Silverado EV SRT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 227 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 176 mm, och maximal är 278 mm.
 
 ### Bromsar
 

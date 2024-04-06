@@ -40,10 +40,10 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				</a>
 			</td>
 			<td>
-				644 km / 400 mi
+				708 km / 440 mi
 			</td>
 			<td>
-				33,4 kWh/100km / 1,9 mi/kWh
+				30,4 kWh/100km / 2,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				</a>
 			</td>
 			<td>
-				644 km / 400 mi
+				708 km / 440 mi
 			</td>
 			<td>
-				33,4 kWh/100km / 1,9 mi/kWh
+				30,4 kWh/100km / 2,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture de base de la gamme EPA avec 2KW AC
 			</td>
 			<td>
-				571 km / 355 mi
+				620 km / 385 mi
 			</td>
 			<td>
-				-11,3%
+				-12,4%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture supérieure de gamme EPA avec 2KW AC
 			</td>
 			<td>
-				571 km / 355 mi
+				620 km / 385 mi
 			</td>
 			<td>
-				-11,3%
+				-12,4%
 			</td>
 		</tr>
 	</tbody>

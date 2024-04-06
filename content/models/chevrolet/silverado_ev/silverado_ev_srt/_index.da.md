@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV SRT
 linktitle: "Silverado EV SRT"
-description: "Chevrolet Silverado EV SRT er en fuldelektrisk pickup med en EPA rækkevidde på op til 644 km (400 miles). EVKX.net har alle detaljerne."
+description: "Chevrolet Silverado EV SRT er en fuldelektrisk pickup med en EPA rækkevidde på op til 708 km (440 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Chevrolet Silverado EV SRT har en maksimal effekt på 562 KW (764 hk/754 hk). De
 
 Batteriet har en bruttokapacitet på 240kWh og en nettokapacitet på 215kWh, hvilket betyder, at du har en 25kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 400 miles (644 km). Forbruget er 1,9mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruget er 2,0mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 140 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 49 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 52%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 245kW. Hver opladningssession ville tage 27 minutter og 51 sekunder.
 
@@ -61,7 +61,7 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Chevrolet Silverado EV SRT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 227 mm.
+Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 176 mm, og maksimum er 278 mm.
 
 ### Bremser
 

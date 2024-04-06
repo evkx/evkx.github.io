@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Silverado EV SRT
 linktitle: "Silverado EV SRT"
-description: "Chevrolet Silverado EV SRT est une camionnette entièrement électrique avec une autonomie de EPA allant jusqu'à 644 km (400 miles). EVKX.net a tous les détails."
+description: "Chevrolet Silverado EV SRT est une camionnette entièrement électrique avec une autonomie de EPA allant jusqu'à 708 km (440 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Le Chevrolet Silverado EV SRT a une puissance maximale de 562 KW (764 ch/754 ch)
 
 La batterie a une capacité brute de 240kWh et une capacité nette de 215kWh, ce qui signifie que vous disposez d'une réserve de 25kWh pour la protection. (10,4%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 400 miles (644 km). La consommation est de 1,9mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage EPA](../../../../guides/understandingrange/epa/) est de 440 miles (708 km). La consommation est de 2,0mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 140 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 49 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 52 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 245kW. Chaque session de charge prendrait 27 minutes et 51 secondes.
 
@@ -61,7 +61,7 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 Chevrolet Silverado EV SRT dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 227 mm.
+La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 176 mm et la garde au sol maximale est de 278 mm.
 
 ### Freins
 
