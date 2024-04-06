@@ -29,7 +29,7 @@ We have separated our Porsche Taycan Turbo S Cross Turismo article into sections
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo S Cross Turismo has a maximum power of 700 KW (952 hp / 939 bhp). Without overboost, it is 570 KW (775 hp / 775 bhp). The torque is 1110 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2.8 seconds. The top speed is 260 km/h.
+With overboost, the Porsche Taycan Turbo S Cross Turismo has a maximum power of 700 KW (952 hp / 939 bhp). Without overboost, it is 570 KW (775 hp / 775 bhp). The torque is 1110 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2.5 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
@@ -59,7 +59,7 @@ Porsche Taycan Turbo S Cross Turismo has an all-wheel drive system supported by 
 
 
 
-You can order Porsche Taycan Turbo S Cross Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 126 mm, and the maximum is 176 mm.
+You can order Porsche Taycan Turbo S Cross Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 143 mm, and the maximum is 173 mm.
 
 You can order Porsche Taycan Turbo S Cross Turismo with an alternative Adaptive Air Suspension Offroad Design Package suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 136 mm, and the maximum is 186 mm.
 
@@ -248,9 +248,12 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 84 liters (3.0 CU FT). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2320 kg (5115 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 84 liters (3.0 CU FT). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2250 kg (4960 lbs), you can max load 630 kg (1389 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+### Availability & Pricing
+
+This model had a world premiere on 07.02.2024, and deliveries started in June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

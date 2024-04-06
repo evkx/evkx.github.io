@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-5c5cc7ac
+  translation: Porsche Taycan Turbo Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 597 km (371 miles). EVKX.net has all the details.
+
 - id: frontpage-description-4aced632
   translation: Porsche Taycan Turbo S Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 596 km (370 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b5e30fbe
   translation: Xiaomi SU7 Pro is an all-electric sedan with a CLTC range of up to 830 km (516 miles). EVKX.net has all the details.
-
-- id: frontpage-description-3a59be3c
-  translation: Xiaomi SU7 Max is an all-electric sedan with a CLTC range of up to 800 km (497 miles). EVKX.net has all the details.
 

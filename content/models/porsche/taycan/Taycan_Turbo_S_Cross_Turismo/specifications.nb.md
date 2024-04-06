@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Turb
 				Topphastighet
 			</td>
 			<td>
-				260 km/t
+				250 km/t
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Turb
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				2,8 s
+				2,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -368,7 +368,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1409 mm
+				1407 mm
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2320 kg
+				2250 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				560 kg
+				630 kg
 			</td>
 		</tr>
 		<tr>
@@ -590,7 +590,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				176 mm
+				173 mm
 			</td>
 		</tr>
 		<tr>
@@ -598,7 +598,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				126 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>

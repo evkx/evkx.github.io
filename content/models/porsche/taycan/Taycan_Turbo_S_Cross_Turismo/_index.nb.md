@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo S Cross Turismo i seksjoner
 
 ## Ytelse
 
-Med overboost har Porsche Taycan Turbo S Cross Turismo en maksimal effekt på 700 KW (952hk). Uten overboost er den 570KW (775hk). Dreiemomentet er 1110 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,8 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Taycan Turbo S Cross Turismo en maksimal effekt på 700 KW (952hk). Uten overboost er den 570KW (775hk). Dreiemomentet er 1110 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,5 sekunder. Topphastigheten er 250 km/t.
 
 ## Batteri, rekkevidde og lading
 
@@ -59,7 +59,7 @@ Porsche Taycan Turbo S Cross Turismo har et firehjulsdriftssystem som støttes a
 
 
 
-Du kan bestille Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 126 mm, og maksimum er 176 mm.
+Du kan bestille Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 143 mm, og maksimum er 173 mm.
 
 Du kan bestille Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension Offroad Design Package hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 136 mm, og maksimum er 186 mm.
 
@@ -239,9 +239,12 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 405 liter. Med baksetet nede er det 1171 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 84 liter. Maksimumsvekten til bilen er 2880 kg, og med basisvekten på 2320 kg kan du maksimalt laste 560 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 405 liter. Med baksetet nede er det 1171 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 84 liter. Maksimumsvekten til bilen er 2880 kg, og med basisvekten på 2250 kg kan du maksimalt laste 630 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
+Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 07.02.2024, og leveringene startet i June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

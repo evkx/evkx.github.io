@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-5c5cc7ac
+  translation: Porsche Taycan Turbo Cross Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 597 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-4aced632
   translation: Porsche Taycan Turbo S Cross Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 596 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b5e30fbe
   translation: Xiaomi SU7 Pro är en helelektrisk sedan med en CLTC räckvidd på upp till 830 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-3a59be3c
-  translation: Xiaomi SU7 Max är en helelektrisk sedan med en CLTC räckvidd på upp till 800 km. EVKX.net har alla detaljer.
 

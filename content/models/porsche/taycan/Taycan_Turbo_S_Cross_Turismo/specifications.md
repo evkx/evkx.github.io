@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo
 				Top speed
 			</td>
 			<td>
-				260 kph (162 mph)
+				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				2,8 s
+				2,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -368,7 +368,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1409 mm (55,5")
+				1407 mm (55,4")
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2320 kg (5115 lbs)
+				2250 kg (4960 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				560 kg (1235 lbs)
+				630 kg (1389 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -590,7 +590,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				176 mm (6,9")
+				173 mm (6,8")
 			</td>
 		</tr>
 		<tr>
@@ -598,7 +598,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				126 mm (5,0")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>

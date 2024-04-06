@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo Cross Turismo
 linktitle: "Taycan Turbo Cross Turismo"
-description: "Porsche Taycan Turbo Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 452 km (281 miles). EVKX.net has all the details."
+description: "Porsche Taycan Turbo Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 597 km (371 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/main_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/main_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 We have separated our Porsche Taycan Turbo Cross Turismo article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
@@ -31,21 +31,21 @@ We have separated our Porsche Taycan Turbo Cross Turismo article into sections. 
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Turbo Cross Turismo has a maximum power of 500 KW (680 hp / 671 bhp). Without overboost, it is 460 KW (625 hp / 625 bhp). The torque is 850 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 3.3 seconds. The top speed is 250 km/h.
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Turbo Cross Turismo has a maximum power of 650 KW (884 hp / 872 bhp). Without overboost, it is 520 KW (707 hp / 707 bhp). The torque is 940 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2.8 seconds. The top speed is 250 km/h.
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 93,4kWh and a net capacity of 83,7kWh, meaning you have a 9,7kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The battery has a gross capacity of 105kWh and a net capacity of 97kWh, meaning you have a 8kWh buffer for protection. (7.6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 452 to 395 km (281-246 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 18.5kWh/100km for the basic version and 21.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 597 to 515 km (371-320 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 16.2kWh/100km for the basic version and 18.8kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 50 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 65%, resulting in an actual charge speed, including time loss, of 165kW. Each charge session would take 19 minutes and 53 seconds.
+The maximum DC charging speed is 320kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 15 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 65%, resulting in an actual charge speed, including time loss, of 212kW. Each charge session would take 18 minutes and 32 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 10 minutes. This trip will require three charge session(s) charging from 3% to 58%. The total time lost for charging up the battery will be 51 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 8 hours and 55 minutes. This trip will require two charge session(s) charging from 1% to 65%. The total time lost for charging up the battery will be 35 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 24 minutes.
 
 ### Charge port
 
@@ -61,7 +61,7 @@ Porsche Taycan Turbo Cross Turismo has an all-wheel drive system supported by tw
 
 
 
-You can order Porsche Taycan Turbo Cross Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 126 mm, and the maximum is 176 mm.
+You can order Porsche Taycan Turbo Cross Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 148 mm, and the maximum is 178 mm.
 
 You can order Porsche Taycan Turbo Cross Turismo with an alternative Adaptive Air Suspension Offroad Design Package suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 136 mm, and the maximum is 186 mm.
 
@@ -96,7 +96,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -154,7 +154,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 
 ### Second-row seats
@@ -172,7 +172,7 @@ The second option is two integrated seats in the second row with a third smaller
 - integrated headrest
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 
 There is only one type of steering wheel available.
@@ -199,7 +199,7 @@ The Porsche Taycan Turbo Cross Turismo has multiple integrated screens. Behind t
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1854"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 
 ## Infotainment
@@ -214,7 +214,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 ## Advanced driver assistance systems
 
@@ -262,13 +262,12 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2320 kg (5115 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2245 kg (4949 lbs), you can max load 635 kg (1400 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+### Availability & Pricing
 
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/trunk_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1449"  >}}
-<div class="mt-3 mb-3">
+This model had a world premiere on 07.02.2024, and deliveries started in June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

@@ -30,7 +30,7 @@ Porsche Macan est un SUV coupé premium disponible en 2 variantes.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Porsche Taycan est une berline/break de luxe disponible en 20 variantes.
+Porsche Taycan est une berline/break de luxe disponible en 21 variantes.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

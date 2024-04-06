@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Porsche Taycan Turbo S Cross Turismo i avsni
 
 ## Prestanda
 
-Med overboost har Porsche Taycan Turbo S Cross Turismo en maximal effekt på 700 KW (952hk). Utan overboost är det 570KW (775hp). Vridmomentet är 1110 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 2,8 sekunder. Topphastigheten är 260 km/h.
+Med overboost har Porsche Taycan Turbo S Cross Turismo en maximal effekt på 700 KW (952hk). Utan overboost är det 570KW (775hp). Vridmomentet är 1110 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 2,5 sekunder. Topphastigheten är 250 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -59,7 +59,7 @@ Porsche Taycan Turbo S Cross Turismo har ett fyrhjulsdriftsystem som stöds av t
 
 
 
-Du kan beställa Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 126 mm, och maximal är 176 mm.
+Du kan beställa Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 143 mm, och maximal är 173 mm.
 
 Du kan beställa Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension Offroad Design Package-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 136 mm, och maximal är 186 mm.
 
@@ -239,9 +239,12 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 405 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 84 liter. Bilens maximala vikt är 2880 kg, och med basvikten på 2320 kg kan du lasta maximalt 560 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 405 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 84 liter. Bilens maximala vikt är 2880 kg, och med basvikten på 2250 kg kan du lasta maximalt 630 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
+Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+### Tillgänglighet och pris
+
+Denna modell hade världspremiär 07.02.2024 och leveranserna startade i June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

@@ -29,7 +29,7 @@ Vi har opdelt vores Porsche Taycan Turbo S Cross Turismo artikel i sektioner. Hv
 
 ## Ydeevne
 
-Med overboost har Porsche Taycan Turbo S Cross Turismo en maksimal effekt på 700 KW (952 hk / 775 bhp). Uden overboost er den 570 KW (775 hk / 939 hk). Momentet er 1110 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 2,8 sekunder. Tophastigheden er 260 km/t.
+Med overboost har Porsche Taycan Turbo S Cross Turismo en maksimal effekt på 700 KW (952 hk / 775 bhp). Uden overboost er den 570 KW (775 hk / 939 hk). Momentet er 1110 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 2,5 sekunder. Tophastigheden er 250 km/t.
 
 ## Batteri, rækkevidde og opladning
 
@@ -59,7 +59,7 @@ Porsche Taycan Turbo S Cross Turismo har et firehjulstræk, der understøttes af
 
 
 
-Du kan bestille Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 126 mm, og maksimum er 176 mm.
+Du kan bestille Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 143 mm, og maksimum er 173 mm.
 
 Du kan bestille Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension Offroad Design Package hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 136 mm, og maksimum er 186 mm.
 
@@ -239,9 +239,12 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 84 liter (3,0 CU FT). Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2320 kg (5115 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 84 liter (3,0 CU FT). Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2250 kg (4960 lbs), kan du maksimalt laste 630 kg (1389 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
+Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+### Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 07.02.2024, og leveringerne startede i June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

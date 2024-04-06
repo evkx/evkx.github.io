@@ -9,10 +9,109 @@ navicon: bi-images
 <!-- markdownlint-disable MD033 -->
 <div class="row" id ="my-gallery">
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_2_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_3_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_4_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_5.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_5_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_6.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_6_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_7.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_7.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_7_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_2_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_3_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_4_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2001" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
@@ -21,7 +120,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_2.jpg"
 data-pswp-width="3000"
-data-pswp-height="2001" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_2_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
@@ -30,7 +129,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_3.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_3.jpg"
 data-pswp-width="3000"
-data-pswp-height="2001" 
+data-pswp-height="1687" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_3_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
@@ -39,7 +138,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_4.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_4.jpg"
 data-pswp-width="3000"
-data-pswp-height="2000" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_4_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
@@ -48,7 +147,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_5.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_5.jpg"
 data-pswp-width="3000"
-data-pswp-height="1954" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_5_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
@@ -57,72 +156,153 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="1687" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frunk_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frunk_1.jpg"
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_2.jpg"
 data-pswp-width="3000"
-data-pswp-height="2250" 
+data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frunk_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_2_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_3_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2000" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_2_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="3752" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_3_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="1790" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_2_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2001" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_2_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/roof_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/roof_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/roof_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="1854" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_2_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="1688" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_3_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="2250" 
+data-pswp-height="1688" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
-		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/trunk_1.jpg"
-data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/trunk_1.jpg"
+		<a href="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/wheels_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/wheels_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="1449" 
+data-pswp-height="1688" 
 target="_blank">
-			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/trunk_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
+			<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/wheels_1_xst.jpg" alt="Porsche Taycan Turbo Cross Turismo" class="img-fluid " />
 		</a>
 	</div>
 </div>

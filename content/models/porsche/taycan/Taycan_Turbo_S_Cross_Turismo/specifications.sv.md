@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Turbo S
 				Topphastighet
 			</td>
 			<td>
-				260 km/h
+				250 km/h
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Turbo S
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				2,8 s
+				2,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -368,7 +368,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjd
 			</td>
 			<td>
-				1409 mm
+				1407 mm
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2320 kg
+				2250 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				560 kg
+				630 kg
 			</td>
 		</tr>
 		<tr>
@@ -590,7 +590,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Max markfrigång
 			</td>
 			<td>
-				176 mm
+				173 mm
 			</td>
 		</tr>
 		<tr>
@@ -598,7 +598,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				126 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>

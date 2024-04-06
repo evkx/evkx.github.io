@@ -269,6 +269,9 @@ Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du 
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/trunk_1_st.jpg" title="Porsche Taycan" width="3000" height="2250"  >}}
+
+### Tilgængelighed og priser
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>

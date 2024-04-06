@@ -29,7 +29,7 @@ Nous avons séparé notre article Porsche Taycan Turbo S Cross Turismo en sectio
 
 ## Performances
 
-Avec overboost, le Porsche Taycan Turbo S Cross Turismo a une puissance maximale de 700 KW (952 ch / 939 ch). Sans overboost, il est de 570 KW (775 ch / 775 ch). Le couple est de 1110 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 2,8 secondes. La vitesse maximale est de 260 km/h.
+Avec overboost, le Porsche Taycan Turbo S Cross Turismo a une puissance maximale de 700 KW (952 ch / 939 ch). Sans overboost, il est de 570 KW (775 ch / 775 ch). Le couple est de 1110 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 2,5 secondes. La vitesse maximale est de 250 km/h.
 
 ## Batterie, autonomie et charge
 
@@ -59,7 +59,7 @@ Porsche Taycan Turbo S Cross Turismo dispose d'un système de transmission inté
 
 
 
-Vous pouvez commander Porsche Taycan Turbo S Cross Turismo avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 126 mm et la garde au sol maximale est de 176 mm.
+Vous pouvez commander Porsche Taycan Turbo S Cross Turismo avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 143 mm et la garde au sol maximale est de 173 mm.
 
 Vous pouvez commander Porsche Taycan Turbo S Cross Turismo avec une suspension alternative Adaptive Air Suspension Offroad Design Package. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 136 mm et la garde au sol maximale est de 186 mm.
 
@@ -239,9 +239,12 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 405 litres. Avec la banquette arrière rabattue, elle est de 1171 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 84 litres (3,0 CU FT). Le poids maximum de la voiture est de 2880 kg (6349 lbs), et avec le poids de base de 2320 kg (5115 lbs), vous pouvez charger au maximum 560 kg (1235 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 405 litres. Avec la banquette arrière rabattue, elle est de 1171 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 84 litres (3,0 CU FT). Le poids maximum de la voiture est de 2880 kg (6349 lbs), et avec le poids de base de 2250 kg (4960 lbs), vous pouvez charger au maximum 630 kg (1389 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
+Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+### Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 07.02.2024 et les livraisons ont commencé en June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>
