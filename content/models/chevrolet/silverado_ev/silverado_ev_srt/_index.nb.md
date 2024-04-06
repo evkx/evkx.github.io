@@ -199,7 +199,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 05.01.2022, og leveringene startet i September 2023. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 05.01.2022, og leveringene forventes å starte om July 2024. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

@@ -199,7 +199,7 @@ Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maxim
 
 ### Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 05.01.2022 et les livraisons ont commencé en September 2023. Ce modèle est uniquement disponible en Amérique du Nord.<div class="mt-3 mb-3">
+Ce modèle a été présenté en première mondiale le 05.01.2022 et les livraisons devraient commencer en July 2024. Ce modèle est uniquement disponible en Amérique du Nord.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

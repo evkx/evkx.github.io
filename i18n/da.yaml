@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-4aced632
+  translation: Porsche Taycan Turbo S Cross Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 596 km (370 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-d794e584
   translation: Peugot E-5008 Long Range er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 660 km (410 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-3a59be3c
   translation: Xiaomi SU7 Max er en fuldelektrisk sedan med en CLTC rækkevidde på op til 800 km (497 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-ece33e1d
-  translation: Ford Explorer Extended Range AWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 566 km (352 miles). EVKX.net har alle detaljerne.
 

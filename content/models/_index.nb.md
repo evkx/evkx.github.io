@@ -491,7 +491,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="porsche/"><img src="https://media.evkx.net/multimedia/models/porsche/brandevs_st.jpeg" class="img-fluid mb-2" alt="Porsche" ></a>
 	<h2>Porsche</h2>
 	<p>
-	Porsche har 2 modell(er) med totalt 21 varianter.
+	Porsche har 2 modell(er) med totalt 22 varianter.
 	</p>
 	<a href="porsche/" class="btn btn-outline-primary" role="button">Gå til Porsche modelloversikt</a>
 </div>

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-4aced632
+  translation: Porsche Taycan Turbo S Cross Turismo est un break de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 596 km (370 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-d794e584
   translation: Peugot E-5008 Long Range est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 660 km (410 miles). EVKX.net a tous les détails.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-3a59be3c
   translation: Xiaomi SU7 Max est une berline entièrement électrique avec une autonomie de CLTC allant jusqu'à 800 km (497 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-ece33e1d
-  translation: Ford Explorer Extended Range AWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 566 km (352 miles). EVKX.net a tous les détails.
 

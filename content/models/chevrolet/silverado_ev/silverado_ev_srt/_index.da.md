@@ -199,7 +199,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 05.01.2022, og leveringerne startede i September 2023. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 05.01.2022, og leveringer forventes at starte om July 2024. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

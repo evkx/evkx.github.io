@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo S Cross Turismo
 linktitle: "Taycan Turbo S Cross Turismo"
-description: "Porsche Taycan Turbo S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 419 km. EVKX.net har alle detaljene."
+description: "Porsche Taycan Turbo S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 596 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/main_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/main_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 Vi har delt vår beskrivelse av Porsche Taycan Turbo S Cross Turismo i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
@@ -29,21 +29,21 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo S Cross Turismo i seksjoner
 
 ## Ytelse
 
-Med overboost har Porsche Taycan Turbo S Cross Turismo en maksimal effekt på 560 KW (761hk). Uten overboost er den 460KW (625hk). Dreiemomentet er 850 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,8 sekunder. Topphastigheten er 260 km/t.
+Med overboost har Porsche Taycan Turbo S Cross Turismo en maksimal effekt på 700 KW (952hk). Uten overboost er den 570KW (775hk). Dreiemomentet er 1110 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,8 sekunder. Topphastigheten er 260 km/t.
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 93,4kWh og en nettokapasitet på 83,7kWh, noe som betyr at du har et 9,7kWh-buffer for beskyttelse. (10,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 419 til 388 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 20,0kWh/100 km for basisversjonen og 21,6kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 596 til 516 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16,3kWh/100 km for basisversjonen og 18,8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 53 sekunder.
+Maksimal DC-ladehastighet er 320 kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 15 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 212kW. Hver ladeøkt vil ta 18 minutter og 32 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 10 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 3% til 58%. Totalt tapt tid for å lade opp batteriet vil være 51 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 8 timer og 55 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 65%. Totalt tapt tid for å lade opp batteriet vil være 35 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 22 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 49 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 22 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 24 minutter.
 
 ### Ladeport
 
@@ -85,7 +85,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset for å beskytte mot solen.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -131,7 +131,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 
 ### Seter på andre rad
@@ -149,7 +149,7 @@ Alternativet second er to integrerte seter i andre rad med et tredje mindre sete
 - integrert hodestøtte
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 
 Det er bare én type ratt tilgjengelig.
@@ -176,7 +176,7 @@ Porsche Taycan Turbo S Cross Turismo har flere integrerte skjermer. Bak rattet e
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1854"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 
 ## Infotainment
@@ -191,7 +191,7 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 ## Avanserte førerassistentsystemer
 
@@ -241,11 +241,7 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 Lastkapasiteten i bagasjerommet er 405 liter. Med baksetet nede er det 1171 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 84 liter. Maksimumsvekten til bilen er 2880 kg, og med basisvekten på 2320 kg kan du maksimalt laste 560 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/trunk_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1449"  >}}
-<div class="mt-3 mb-3">
+Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

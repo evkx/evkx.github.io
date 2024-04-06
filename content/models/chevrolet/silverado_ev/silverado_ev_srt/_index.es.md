@@ -199,7 +199,7 @@ Puedes pedir el automóvil con una barra de remolque. El peso total máximo en u
 
 ### Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 05.01.2022 y las entregas comenzaron en September 2023. Este modelo sólo está disponible en Norteamérica.<div class="mt-3 mb-3">
+Este modelo tuvo un estreno mundial el 05.01.2022 y se espera que las entregas comiencen en July 2024. Este modelo sólo está disponible en Norteamérica.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

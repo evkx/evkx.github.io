@@ -3,7 +3,7 @@
     <g>
         <path d="M 1080 1091 L 40 1091 Q 30 1091 30 1081 L 30 36" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 30 791 L 1080 791" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="1 3" pointer-events="stroke"/>
-       <path d="M 30  833 40  830 50  617 60  584 70  428 80  329 90  350 100  350 110  350 120  350 130  362 140  362 150  338 160  332 170  332 180  329 190  326 200  323 210  323 220  323 230  317 240  314 250  317 260  311 270  311 280  308 290  308 300  305 310  305 320  305 330  296 340  296 350  308 360  308 370  308 380  299 390  359 400  356 410  356 420  356 430  356 440  353 450  353 460  353 470  353 480  353 490  350 500  350 510  350 520  347 530  344 540  407 550  404 560  407 570  467 580  467 590  464 600  464 610  521 620  518 630  521 640  551 650  551 660  548 670  563 680  575 690  575 700  572 710  608 720  602 730  602 740  632 750  629 760  629 770  731 780  728 790  725 800  725 810  725 820  722 830  821 840  839 850  872 860  905 870  932 880  959 890  977 900  983 910  992 920  962 930  929 940  893 950  956 960  986 970  992 980  1016 990  992 1000  1001 1010  1019 1020  1043 1030  1061 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+       <path d="M 30  566 40  530 50  206 60  197 70  185 80  182 90  179 100  176 110  170 120  170 130  179 140  158 150  158 160  158 170  152 180  155 190  161 200  149 210  149 220  146 230  155 240  155 250  140 260  140 270  140 280  128 290  128 300  125 310  125 320  116 330  113 340  131 350  128 360  131 370  131 380  125 390  104 400  113 410  134 420  95 430  101 440  119 450  125 460  104 470  113 480  128 490  137 500  140 510  137 520  134 530  131 540  134 550  137 560  137 570  146 580  122 590  131 600  137 610  161 620  164 630  179 640  173 650  176 660  179 670  182 680  446 690  458 700  446 710  446 720  446 730  440 740  443 750  443 760  431 770  437 780  467 790  524 800  572 810  584 820  641 830  770 840  791 850  803 860  809 870  818 880  827 890  839 900  851 910  845 920  866 930  878 940  905 950  938 960  935 970  950 980  959 990  980 1000  992 1010  1013 1020  1052 1030  1079 " fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/> <rect x="1073" y="777" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -349,13 +349,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1136px; margin-left: 51px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                EVKX.net - Charging curve for Porsche Taycan Turbo S Cross Turismo 93,4 kWh
+                                EVKX.net - Charging curve for Porsche Taycan Turbo S Cross Turismo 105 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="610" y="1145" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    EVKX.net - Charging curve for Porsche Taycan Turbo S Cross Turismo 93,4 kWh
+                    EVKX.net - Charging curve for Porsche Taycan Turbo S Cross Turismo 105 kWh
                 </text>
             </switch>
         </g>
