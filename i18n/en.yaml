@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-2057d72d
+  translation: Chevrolet Equinox EV FWD is an all-electric SUV with a EPA range of up to 513 km (319 miles). EVKX.net has all the details.
+
 - id: frontpage-description-5c5cc7ac
   translation: Porsche Taycan Turbo Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 597 km (371 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-60c80465
   translation: Xiaomi SU7 is an all-electric sedan with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details.
-
-- id: frontpage-description-b5e30fbe
-  translation: Xiaomi SU7 Pro is an all-electric sedan with a CLTC range of up to 830 km (516 miles). EVKX.net has all the details.
 

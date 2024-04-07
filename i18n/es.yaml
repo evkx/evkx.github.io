@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-2057d72d
+  translation: Chevrolet Equinox EV FWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 513 km (319 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-5c5cc7ac
   translation: Porsche Taycan Turbo Cross Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 597 km (371 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-60c80465
   translation: Xiaomi SU7 es un sedán totalmente eléctrico con un CLTC alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-b5e30fbe
-  translation: Xiaomi SU7 Pro es un sedán totalmente eléctrico con un CLTC alcance de hasta 830 km (516 millas). EVKX.net tiene todos los detalles.
 
