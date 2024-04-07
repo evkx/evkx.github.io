@@ -43,7 +43,7 @@ Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard prend en charge jusqu'à 11,5 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 23 minutes.
+Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard prend en charge jusqu'à 11,5 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 23 minutes. Vous pouvez également sélectionner un chargeur intégré en option qui prend en charge une charge jusqu'à 19,2 KW. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en 4 heures et 25 minutes.
 
 ### Port de recharge
 
@@ -72,7 +72,7 @@ De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 21 p
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
-Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. exterior.roof.optional.panoramic.TwoPartsFullOpenFront.ElectricCurtain
+Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
@@ -114,6 +114,8 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
@@ -181,10 +183,13 @@ Le Chevrolet Equinox EV FWD dispose du [**freinage d'urgence automatique**](../.
 
 ### Automatisation de la conduite
 
+Le Chevrolet Equinox EV FWD propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
 
-
-Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
+Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+
+Avec le système Super Cruise  niveau 2, vous bénéficiez de fonctionnalités d'automatisation de conduite supplémentaires par rapport à celles répertoriées ci-dessus.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/) : maintient la voiture dans votre voie de circulation et ralentit si nécessaire dans la circulation. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
 
@@ -194,7 +199,7 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 748 litres. Avec la banquette arrière rabattue, elle est de 1620 litres.
+La capacité de chargement dans le coffre est de 748 litres. Avec la banquette arrière rabattue, elle est de 1614 litres.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 680, et sur une remorque non freinée, il est de 680 kg (1499/1499 lbs).
 

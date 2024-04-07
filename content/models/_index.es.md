@@ -235,7 +235,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="chevrolet/"><img src="https://media.evkx.net/multimedia/models/chevrolet/brandevs_st.jpg" class="img-fluid mb-2" alt="Chevrolet" ></a>
 	<h2>Chevrolet</h2>
 	<p>
-	Chevrolet tiene 3 modelos con un total de 6 variantes.
+	Chevrolet tiene 3 modelos con un total de 7 variantes.
 	</p>
 	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Ir a Chevrolet descripción general del modelo EV</a>
 </div>

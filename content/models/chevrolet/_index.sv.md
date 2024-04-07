@@ -30,7 +30,7 @@ Chevrolet Blazer EV är en SUV tillgänglig i 2 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Chevrolet Equinox EV är en SUV tillgänglig i 1 varianter.
+Chevrolet Equinox EV är en SUV tillgänglig i 2 varianter.
 </p>
 	<a href="equinox_ev/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

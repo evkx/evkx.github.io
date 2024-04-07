@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 23 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 23 minutes. You can also select an optional onboard charger that supports up to 19.2 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 25 minutes.
 
 ### Charge port
 
@@ -72,7 +72,7 @@ Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-You can choose between two types of roofs on this model. The standard is just a regular roof. exterior.roof.optional.panoramic.TwoPartsFullOpenFront.ElectricCurtain
+You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
@@ -114,6 +114,8 @@ You can choose from 2 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
@@ -181,10 +183,13 @@ The Chevrolet Equinox EV FWD has [**automatic emergency braking**](../../../../t
 
 ### Driving Automation
 
+The Chevrolet Equinox EV FWD offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-
-With the   level 2 system, you get the following driving automation features.
+With the   level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+
+With the Super Cruise  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 
@@ -194,7 +199,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 748 liters. With the rear seat down, it is 1620 liters.
+The cargo capacity in the trunk is 748 liters. With the rear seat down, it is 1614 liters.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 680, and on unbraked, it is 680 kg (1499/1499 lbs).
 

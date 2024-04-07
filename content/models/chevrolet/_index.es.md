@@ -30,7 +30,7 @@ Chevrolet Blazer EV es un SUV disponible en 2 variantes.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Chevrolet Equinox EV es un SUV disponible en 1 variantes.
+Chevrolet Equinox EV es un SUV disponible en 2 variantes.
 </p>
 	<a href="equinox_ev/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

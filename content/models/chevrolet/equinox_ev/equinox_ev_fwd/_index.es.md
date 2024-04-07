@@ -43,7 +43,7 @@ Para el desafío teórico de 1000 km, comenzando con la batería llena y conduci
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11,5 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 7 horas y 23 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11,5 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 7 horas y 23 minutos. También puedes seleccionar un cargador integrado opcional que admita una carga de hasta 19,2 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 25 minutos.
 
 ### Puerto de carga
 
@@ -72,7 +72,7 @@ Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 19 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
-Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. exterior.roof.optional.panoramic.TwoPartsFullOpenFront.ElectricCurtain
+Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
@@ -114,6 +114,8 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
@@ -181,10 +183,13 @@ El Chevrolet Equinox EV FWD tiene [**frenado automático de emergencia**](../../
 
 ### Automatización de conducción
 
+El Chevrolet Equinox EV FWD ofrece [automatización de la conducción en el nivel 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), dependiendo del nivel de equipamiento.
 
-
-Con el sistema   nivel 2, obtienes las siguientes funciones de automatización de conducción.
+Con el sistema   nivel 1, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+
+Con el sistema Super Cruise  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
 
@@ -194,7 +199,7 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 748 litros. Con el asiento trasero abatido, es de 1620 litros.
+La capacidad de carga en el maletero es de 748 litros. Con el asiento trasero abatido, es de 1614 litros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 680, y sin freno, es de 680 kg (1499/1499 lbs).
 
