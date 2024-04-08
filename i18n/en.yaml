@@ -130,9 +130,6 @@
 - id: frontpage-description-142ff3fd
   translation: Volkswagen ID. Buzz GTX is an all-electric MPV with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details.
 
-- id: frontpage-description-ca37056a
-  translation: Volkswagen ID. Buzz GTX is an all-electric MPV with a WLTP range of up to 418 km (260 miles). EVKX.net has all the details.
-
 - id: frontpage-description-b3f065d3
   translation: XPENG G6 RWD Standard Range is an all-electric SUV with a WLTP range of up to 435 km (270 miles). EVKX.net has all the details.
 
@@ -156,4 +153,7 @@
 
 - id: frontpage-description-f5ba1799
   translation: Chevrolet Silverado EV 3WT is an all-electric Pickup Truck with a EPA range of up to 632 km (393 miles). EVKX.net has all the details.
+
+- id: frontpage-description-60c80465
+  translation: Xiaomi SU7 is an all-electric sedan with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details.
 

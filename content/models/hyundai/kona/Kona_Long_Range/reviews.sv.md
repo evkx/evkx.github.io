@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 vs Hyundai Kona Electric: Result Shock!</h3>
+<p>Electrifying: 08.04.2024</p>
+
+{{< youtube ta1lBknIPQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Test av Hyundai Kona - en fullverdig familiebil?</h3>
 <p>Norsk elbilforening: 18.02.2024</p>
 

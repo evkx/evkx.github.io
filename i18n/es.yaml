@@ -130,9 +130,6 @@
 - id: frontpage-description-142ff3fd
   translation: Volkswagen ID. Buzz GTX es un monovolumen totalmente eléctrico con una autonomía WLTP de hasta 400 km (249 millas). EVKX.net tiene todos los detalles.
 
-- id: frontpage-description-ca37056a
-  translation: Volkswagen ID. Buzz GTX es un monovolumen totalmente eléctrico con una autonomía WLTP de hasta 418 km (260 millas). EVKX.net tiene todos los detalles.
-
 - id: frontpage-description-b3f065d3
   translation: XPENG G6 RWD Standard Range es un SUV totalmente eléctrico con una autonomía WLTP de hasta 435 km (270 millas). EVKX.net tiene todos los detalles.
 
@@ -156,4 +153,7 @@
 
 - id: frontpage-description-f5ba1799
   translation: Chevrolet Silverado EV 3WT es una camioneta totalmente eléctrica con un EPA alcance de hasta 632 km (393 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-60c80465
+  translation: Xiaomi SU7 es un sedán totalmente eléctrico con un CLTC alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles.
 

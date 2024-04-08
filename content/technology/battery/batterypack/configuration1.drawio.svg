@@ -1,0 +1,41 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="96px" height="69px" viewBox="-0.5 -0.5 96 69" content="&lt;mxfile&gt;&lt;diagram id=&quot;B3iAUbLGF6H6J5H_uA_M&quot; name=&quot;Page-1&quot;&gt;7ZhNT8MwDIZ/Ta9T1mxsO7LBxgEkJA6csya0EWldpRkr/HqS1f1iICGxlkt6qJLXcT78WFbTgG7ScqdZnjwAFyoICS8DehOEYbha2bcT3ithOqeVEGvJUWqFJ/khUCSoHiQXRW+gAVBG5n0xgiwTkelpTGs49oe9gOqvmrNYnAlPEVPn6rPkJqnU5Zy0+p2QcVKvPCVoSVk9GIUiYRyOHYneBnSjAUzVSsuNUC52dVwqv+0P1mZjWmTmNw6zyuGNqQOeDfdl3uvDJiZVtjUN6PpNaCNtGO7ZXqhHKKSRkFnbHoyB1A5gSsZOiOzyQltBuZFrFr3GGg4Z34ACfZqWvpyezqTX6Gsgt2phNLw20Q0bpTMDIUuyJc5SB9F1OCsSwbFjLbk7RlrGLhEnEorFRNq0KCZ7ZuwWbQKuz2OGYXQ7E2VHwhjuBKTCWN+QoJUukWed0FfYP7bpQVFKupmB4WaYkHEzc8vMNhDb9wivPMJLIJzVLP4B4cIjvAjC2ezfEK48wvUPvL6h+vtCuliMhrD+uvAM/8bwrJKOyXDqGV6E4ddSOiZD6hkOUktX8/EY+ovFMLV0TIZzz3CQWjomQ3+1GKSWNgVuDIZLz3CIWjoqQ38/HKSWDsjQdtv/sCdb52c2vf0E&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 1 1 L 29.5 1 L 29.5 5.5 C 30.33 5.5 31 6.17 31 7 C 31 7.83 30.33 8.5 29.5 8.5 L 29.5 13 L 1 13 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="1" y="1" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 1 1 L 14.5 1 L 14.5 13 L 1 13 Z M 16 1 L 29.5 1 L 29.5 13 L 16 13 M 29.5 5.5 C 30.33 5.5 31 6.17 31 7 C 31 7.83 30.33 8.5 29.5 8.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 33 1 L 61.5 1 L 61.5 5.5 C 62.33 5.5 63 6.17 63 7 C 63 7.83 62.33 8.5 61.5 8.5 L 61.5 13 L 33 13 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="33" y="1" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 33 1 L 46.5 1 L 46.5 13 L 33 13 Z M 48 1 L 61.5 1 L 61.5 13 L 48 13 M 61.5 5.5 C 62.33 5.5 63 6.17 63 7 C 63 7.83 62.33 8.5 61.5 8.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 65 1 L 93.5 1 L 93.5 5.5 C 94.33 5.5 95 6.17 95 7 C 95 7.83 94.33 8.5 93.5 8.5 L 93.5 13 L 65 13 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="65" y="1" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 65 1 L 78.5 1 L 78.5 13 L 65 13 Z M 80 1 L 93.5 1 L 93.5 13 L 80 13 M 93.5 5.5 C 94.33 5.5 95 6.17 95 7 C 95 7.83 94.33 8.5 93.5 8.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1 18 L 29.5 18 L 29.5 22.5 C 30.33 22.5 31 23.17 31 24 C 31 24.83 30.33 25.5 29.5 25.5 L 29.5 30 L 1 30 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="1" y="18" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 1 18 L 14.5 18 L 14.5 30 L 1 30 Z M 16 18 L 29.5 18 L 29.5 30 L 16 30 M 29.5 22.5 C 30.33 22.5 31 23.17 31 24 C 31 24.83 30.33 25.5 29.5 25.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 33 18 L 61.5 18 L 61.5 22.5 C 62.33 22.5 63 23.17 63 24 C 63 24.83 62.33 25.5 61.5 25.5 L 61.5 30 L 33 30 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="33" y="18" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 33 18 L 46.5 18 L 46.5 30 L 33 30 Z M 48 18 L 61.5 18 L 61.5 30 L 48 30 M 61.5 22.5 C 62.33 22.5 63 23.17 63 24 C 63 24.83 62.33 25.5 61.5 25.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 65 18 L 93.5 18 L 93.5 22.5 C 94.33 22.5 95 23.17 95 24 C 95 24.83 94.33 25.5 93.5 25.5 L 93.5 30 L 65 30 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="65" y="18" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 65 18 L 78.5 18 L 78.5 30 L 65 30 Z M 80 18 L 93.5 18 L 93.5 30 L 80 30 M 93.5 22.5 C 94.33 22.5 95 23.17 95 24 C 95 24.83 94.33 25.5 93.5 25.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1 36 L 29.5 36 L 29.5 40.5 C 30.33 40.5 31 41.17 31 42 C 31 42.83 30.33 43.5 29.5 43.5 L 29.5 48 L 1 48 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="1" y="36" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 1 36 L 14.5 36 L 14.5 48 L 1 48 Z M 16 36 L 29.5 36 L 29.5 48 L 16 48 M 29.5 40.5 C 30.33 40.5 31 41.17 31 42 C 31 42.83 30.33 43.5 29.5 43.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 33 36 L 61.5 36 L 61.5 40.5 C 62.33 40.5 63 41.17 63 42 C 63 42.83 62.33 43.5 61.5 43.5 L 61.5 48 L 33 48 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="33" y="36" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 33 36 L 46.5 36 L 46.5 48 L 33 48 Z M 48 36 L 61.5 36 L 61.5 48 L 48 48 M 61.5 40.5 C 62.33 40.5 63 41.17 63 42 C 63 42.83 62.33 43.5 61.5 43.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 65 36 L 93.5 36 L 93.5 40.5 C 94.33 40.5 95 41.17 95 42 C 95 42.83 94.33 43.5 93.5 43.5 L 93.5 48 L 65 48 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="65" y="36" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 65 36 L 78.5 36 L 78.5 48 L 65 48 Z M 80 36 L 93.5 36 L 93.5 48 L 80 48 M 93.5 40.5 C 94.33 40.5 95 41.17 95 42 C 95 42.83 94.33 43.5 93.5 43.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1 55 L 29.5 55 L 29.5 59.5 C 30.33 59.5 31 60.17 31 61 C 31 61.83 30.33 62.5 29.5 62.5 L 29.5 67 L 1 67 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="1" y="55" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 1 55 L 14.5 55 L 14.5 67 L 1 67 Z M 16 55 L 29.5 55 L 29.5 67 L 16 67 M 29.5 59.5 C 30.33 59.5 31 60.17 31 61 C 31 61.83 30.33 62.5 29.5 62.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 33 55 L 61.5 55 L 61.5 59.5 C 62.33 59.5 63 60.17 63 61 C 63 61.83 62.33 62.5 61.5 62.5 L 61.5 67 L 33 67 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="33" y="55" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 33 55 L 46.5 55 L 46.5 67 L 33 67 Z M 48 55 L 61.5 55 L 61.5 67 L 48 67 M 61.5 59.5 C 62.33 59.5 63 60.17 63 61 C 63 61.83 62.33 62.5 61.5 62.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 65 55 L 93.5 55 L 93.5 59.5 C 94.33 59.5 95 60.17 95 61 C 95 61.83 94.33 62.5 93.5 62.5 L 93.5 67 L 65 67 Z Z" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <rect x="65" y="55" width="0" height="0" fill="none" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 65 55 L 78.5 55 L 78.5 67 L 65 67 Z M 80 55 L 93.5 55 L 93.5 67 L 80 67 M 93.5 59.5 C 94.33 59.5 95 60.17 95 61 C 95 61.83 94.33 62.5 93.5 62.5" fill="none" stroke="#0080f0" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+</svg>

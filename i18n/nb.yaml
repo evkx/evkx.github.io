@@ -130,9 +130,6 @@
 - id: frontpage-description-142ff3fd
   translation: Volkswagen ID. Buzz GTX er en helelektrisk MPV med en WLTP rekkevidde på opptil 400 km. EVKX.net har alle detaljene.
 
-- id: frontpage-description-ca37056a
-  translation: Volkswagen ID. Buzz GTX er en helelektrisk MPV med en WLTP rekkevidde på opptil 418 km. EVKX.net har alle detaljene.
-
 - id: frontpage-description-b3f065d3
   translation: XPENG G6 RWD Standard Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 435 km. EVKX.net har alle detaljene.
 
@@ -156,4 +153,7 @@
 
 - id: frontpage-description-f5ba1799
   translation: Chevrolet Silverado EV 3WT er en helelektrisk pickup med en EPA rekkevidde på opptil 632 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-60c80465
+  translation: Xiaomi SU7 er en helelektrisk sedan med en CLTC rekkevidde på opptil 700 km. EVKX.net har alle detaljene.
 
