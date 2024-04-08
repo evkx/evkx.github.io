@@ -11,6 +11,16 @@ In an electric vehicle (EV), the battery configuration refers to the arrangement
 
 The most common configuration for EV batteries is a series-parallel hybrid configuration. In this configuration, multiple cells are connected in series to increase the voltage of the battery pack, and multiple groups of series-connected cells are then connected in parallel to increase the overall capacity of the battery pack.
 
+<figure>
+<img src="configuration1.drawio.svg" class="img-fluid mx-auto d-block">
+<figcaption>
+        <p class="lead text-center fw-semibold">
+            3s4p module
+        </p>
+    </figcaption>
+</figure>
+
+
 The series connection of cells increases the voltage output of the battery pack, which is important for providing the necessary power output to drive the vehicle.  The parallel connection of cell groups increases the battery pack's capacity, which is essential for storing the energy required to drive the car to a desired range.
 
 The specific battery configuration used in an EV depends on a variety of factors, such as the desired range, power output, and overall vehicle weight.
