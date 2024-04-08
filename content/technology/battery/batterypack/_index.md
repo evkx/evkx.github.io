@@ -11,6 +11,13 @@ In an electric vehicle (EV), the battery configuration refers to the arrangement
 
 The most common configuration for EV batteries is a series-parallel hybrid configuration. In this configuration, multiple cells are connected in series to increase the voltage of the battery pack, and multiple groups of series-connected cells are then connected in parallel to increase the overall capacity of the battery pack.
 
+The series connection of cells increases the voltage output of the battery pack, which is important for providing the necessary power output to drive the vehicle.  The parallel connection of cell groups increases the battery pack's capacity, which is essential for storing the energy required to drive the car to a desired range.
+
+
+### Example Audi Q8 e-tron 55
+
+The diagram below shows the configuration of a battery module from Audi Q8 e-tron 55. This module contains 12 battery cells, four of which are mounted in parallel, and there are three groups of this parallel configuration in serial. 
+
 <figure>
 <img src="configuration1.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
@@ -20,8 +27,9 @@ The most common configuration for EV batteries is a series-parallel hybrid confi
     </figcaption>
 </figure>
 
+Each cell has a nominal voltage of 3.6667 volts and a capacity of 72 AH.
 
-The series connection of cells increases the voltage output of the battery pack, which is important for providing the necessary power output to drive the vehicle.  The parallel connection of cell groups increases the battery pack's capacity, which is essential for storing the energy required to drive the car to a desired range.
+Three cells in serial give a module voltage of 11 Volt. 4 x 72AH in paralell gives a total module capacity of 72 x 4 = 288 AH. Q8 e-tron 55 has a total of 36 modules in serial. 36 x 11 volts gives 396 volts for the pack. 396 x 288 = 114 kWh gross capacity.
 
 The specific battery configuration used in an EV depends on a variety of factors, such as the desired range, power output, and overall vehicle weight.
 
