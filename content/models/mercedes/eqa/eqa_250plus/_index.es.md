@@ -37,9 +37,9 @@ La batería tiene una capacidad bruta de 73,9kWh y una capacidad neta de 70,5kWh
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 560 a 497 km (348-309 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 12,6kWh/100 km para la versión básica y 14,2kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 112kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 31 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 70%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 85kW. Cada sesión de carga tardaría 33 minutos y 54 segundos.
+La velocidad máxima de carga de CC es 112kW. Una carga completa del 0 al 100 % tardaría 63 minutos, mientras que un escenario más común del 10 al 80 % tardaría 36 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 66%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 77kW. Cada sesión de carga tardaría 34 minutos y 56 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 10 horas y 6 minutos. Este viaje requerirá tres sesiones de carga del 4 % al 75 %. El tiempo total perdido para cargar la batería será de 107 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 10 horas y 18 minutos. Este viaje requerirá cuatro sesiones de carga del 4 % al 58 %. El tiempo total perdido para cargar la batería será de 119 minutos.
 
 ### Cargador a bordo
 

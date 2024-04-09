@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 73,9kWh och en nettokapacitet på 70,5kWh, 
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 560 till 497 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12,6kWh/100 km för basversionen och 14,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 112 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 70%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 85kW. Varje laddningssession tar 33 minuter och 54 sekunder.
+Maximal DC-laddningshastighet är 112 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 66%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 34 minuter och 56 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 10 timmar och 6 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 4% till 75%. Total tid som går förlorad för att ladda batteriet kommer att vara 107 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 10 timmar och 18 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 4% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 119 minuter.
 
 ### Inbyggd laddare
 
