@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-794466b7
+  translation: Mercedes-EQ EQA 250+ est un crossover premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 560 km (348 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-23921abb
   translation: Chevrolet Equinox EV AWD est un SUV entièrement électrique avec une autonomie EPA allant jusqu'à 513 km (319 miles). EVKX.net a tous les détails.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-f5ba1799
   translation: Chevrolet Silverado EV 3WT est une camionnette entièrement électrique avec une autonomie de EPA allant jusqu'à 632 km (393 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-60c80465
-  translation: Xiaomi SU7 est une berline entièrement électrique avec une autonomie de CLTC allant jusqu'à 700 km (435 miles). EVKX.net a tous les détails.
 

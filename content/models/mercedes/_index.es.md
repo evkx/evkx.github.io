@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Mercedes EQA es un crossover premium disponible en 3 variantes.
+Mercedes EQA es un crossover premium disponible en 4 variantes.
 </p>
 	<a href="eqa/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

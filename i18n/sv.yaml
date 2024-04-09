@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-794466b7
+  translation: Mercedes-EQ EQA 250+ är en helelektrisk premiumcrossover med en WLTP räckvidd på upp till 560 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-23921abb
   translation: Chevrolet Equinox EV AWD är en helelektrisk SUV med en EPA räckvidd på upp till 513 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-f5ba1799
   translation: Chevrolet Silverado EV 3WT är en helelektrisk pickup med en EPA räckvidd på upp till 632 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-60c80465
-  translation: Xiaomi SU7 är en helelektrisk sedan med en CLTC räckvidd på upp till 700 km. EVKX.net har alla detaljer.
 

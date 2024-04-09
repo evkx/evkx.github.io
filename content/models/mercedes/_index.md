@@ -6,7 +6,7 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-From 2025 onwards, all newly launched vehicle architectures will be electric-only and customers will be able to choose an all-electric alternative for every model the company makes. Mercedes-Benz intends to manage this accelerated transformation while sticking to its profitability targets. Mercedes-Benz has currently 7 all electric models with total 28 variants in the market. Below you find links for each model page.  
+From 2025 onwards, all newly launched vehicle architectures will be electric-only and customers will be able to choose an all-electric alternative for every model the company makes. Mercedes-Benz intends to manage this accelerated transformation while sticking to its profitability targets. Mercedes-Benz has currently 7 all electric models with total 29 variants in the market. Below you find links for each model page.  
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3> Mercedes EQA</h3>
@@ -16,7 +16,7 @@ From 2025 onwards, all newly launched vehicle architectures will be electric-onl
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Mercedes EQA is a premium crossover available in 3 variants.
+Mercedes EQA is a premium crossover available in 4 variants.
 </p>
 	<a href="eqa/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
