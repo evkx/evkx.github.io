@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-78483ee7
+  translation: Alfa Romeo MILANO VELOCE er en helelektrisk delefilter med en WLTP rekkevidde på opptil 370 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-794466b7
   translation: Mercedes-EQ EQA 250+ er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 560 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-4ce1d945
   translation: Ford Explorer Extended Range RWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 602 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-f5ba1799
-  translation: Chevrolet Silverado EV 3WT er en helelektrisk pickup med en EPA rekkevidde på opptil 632 km. EVKX.net har alle detaljene.
 
