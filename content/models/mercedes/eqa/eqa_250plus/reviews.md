@@ -8,7 +8,27 @@ navicon: bi-person-video2
 ---
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQA 250+ charging test</h3>
+<p>Bjørn Nyland: 06.04.2024</p>
+
+{{< youtube j6lA3mLlAwY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQA 250+ 1000 km challenge on temporary Norway route</h3>
+<p>Bjørn Nyland: 03.04.2024</p>
+
+{{< youtube IY711IFe1vc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQA 250+ range test</h3>
+<p>Bjørn Nyland: 01.04.2024</p>
+
+{{< youtube 0NUVTwzrAa4 >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Gallery  </strong>
