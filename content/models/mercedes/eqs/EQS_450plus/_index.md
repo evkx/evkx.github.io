@@ -252,7 +252,10 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Availability & Pricing
+
+This model had a world premiere on 15.04.2021, and deliveries started in September 2021. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Mercedes EQS </strong>
 </a>

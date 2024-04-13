@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-f4437100
+  translation: Mercedes-EQ EQS 580 4MATIC är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 792 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-a0c92104
   translation: Tesla Model Y Long Range RWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-1336d2cc
   translation: Lotus Emeya S är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 610 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-44c8442a
-  translation: Lotus Emeya R är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 535 km. EVKX.net har alla detaljer.
 

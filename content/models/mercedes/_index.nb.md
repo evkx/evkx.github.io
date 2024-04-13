@@ -86,7 +86,7 @@ Mercedes EQE SUV er en luksus-SUV tilgjengelig i 4 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Mercedes EQS er en luksus sedan tilgjengelig i 5 varianter.
+Mercedes EQS er en luksus sedan tilgjengelig i 6 varianter.
 </p>
 	<a href="eqs/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

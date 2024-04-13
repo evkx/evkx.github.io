@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-f4437100
+  translation: Mercedes-EQ EQS 580 4MATIC is an all-electric luxury sedan with a WLTP range of up to 792 km (492 miles). EVKX.net has all the details.
+
 - id: frontpage-description-a0c92104
   translation: Tesla Model Y Long Range RWD is an all-electric coupe SUV with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-1336d2cc
   translation: Lotus Emeya S is an all-electric luxury sedan with a WLTP range of up to 610 km (379 miles). EVKX.net has all the details.
-
-- id: frontpage-description-44c8442a
-  translation: Lotus Emeya R is an all-electric luxury sedan with a WLTP range of up to 535 km (333 miles). EVKX.net has all the details.
 

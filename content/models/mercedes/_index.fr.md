@@ -86,7 +86,7 @@ Mercedes EQE SUV est un SUV de luxe disponible en 4 variantes.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Mercedes EQS est une berline de luxe disponible en 5 variantes.
+Mercedes EQS est une berline de luxe disponible en 6 variantes.
 </p>
 	<a href="eqs/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

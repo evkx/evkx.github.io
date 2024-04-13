@@ -1,7 +1,7 @@
 ---
 title: Mercedes-EQ EQS 580 4MATIC
 linktitle: "EQS 580 4MATIC"
-description: "Mercedes-EQ EQS 580 4MATIC es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 692 km (430 millas). EVKX.net tiene todos los detalles."
+description: "Mercedes-EQ EQS 580 4MATIC es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 792 km (492 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 
 Hemos separado nuestro artículo Mercedes-EQ EQS 580 4MATIC en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -33,17 +33,17 @@ El Mercedes-EQ EQS 580 4MATIC tiene una potencia máxima de 385 KW (524 hp/516 b
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 120kWh y una capacidad neta de 108,4kWh, lo que significa que tienes un buffer de 11,6kWh para protección. (9,7%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería tiene una capacidad bruta de 125kWh y una capacidad neta de 118kWh, lo que significa que tienes un buffer de 7kWh para protección. (5,6%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 692 a 583 km (430-362 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,7kWh/100 km para la versión básica y 18,6kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 792 a 683 km (492-425 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 14,9kWh/100 km para la versión básica y 17,3kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 210kW. Una carga completa del 0 al 100 % tardaría 82 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 57%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 142kW. Cada sesión de carga tardaría 26 minutos y 41 segundos.
+La velocidad máxima de carga de CC es 210kW. Una carga completa del 0 al 100 % tardaría 89 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 55%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 144kW. Cada sesión de carga tardaría 27 minutos y 31 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 9 horas y 7 minutos. Este viaje requerirá dos sesiones de carga del 1 % al 53 %. El tiempo total perdido para cargar la batería será de 48 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 9 horas y 3 minutos. Este viaje requerirá dos sesiones de carga del 1 % al 45 %. El tiempo total perdido para cargar la batería será de 44 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 55 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 5 horas y 21 minutos.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
@@ -83,6 +83,10 @@ Adicionalmente, puedes elegir entre 9 ruedas con tamaños de 19 a 22 pulgadas.
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+
+
+{{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -129,7 +133,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
 
 
 ### Asientos de la segunda fila
@@ -149,7 +153,7 @@ La opción second es un banco de tres asientos con una división 40:20:40 donde 
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 
-{{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 
 
 Sólo hay un tipo de volante disponible.
@@ -197,6 +201,10 @@ El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+
+
+{{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/headlights_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="1920" height="1080"  >}}
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Mercedes-EQ EQS 580 4MATIC tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
@@ -245,11 +253,14 @@ Con el sistema DRIVE PILOT  nivel 3, obtienes funciones de automatización de co
 
 La capacidad de carga en el maletero es de 610 litros. Con el asiento trasero abatido, es de 1770 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). El peso máximo del automóvil es 3060 kg (6746 lbs), y con el peso base de 2555 kg (5633 lbs), puedes cargar como máximo 505 kg (1113 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1700, y sin freno, es de 750 kg (3748/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 10.04.2024 y las entregas comenzaron en September 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Mercedes EQS </strong>
 </a>

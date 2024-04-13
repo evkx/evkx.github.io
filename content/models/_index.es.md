@@ -427,7 +427,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="mercedes/"><img src="https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg" class="img-fluid mb-2" alt="Mercedes" ></a>
 	<h2>Mercedes</h2>
 	<p>
-	Mercedes tiene 7 modelos con un total de 29 variantes.
+	Mercedes tiene 7 modelos con un total de 30 variantes.
 	</p>
 	<a href="mercedes/" class="btn btn-outline-primary" role="button">Ir a Mercedes descripción general del modelo EV</a>
 </div>

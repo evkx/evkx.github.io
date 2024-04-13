@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/mercedes/eqs/eqs_580_4matic/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/mercedes/eqs/eqs_580_4matic/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Mercedes EQS 580 4MATIC</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-f4437100"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/tesla/model_y/model_y_long_range_rwd/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range_rwd/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Chevrolet Equinox EV FWD</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-2057d72d"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/porsche/taycan/taycan_turbo_cross_turismo/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Porsche Taycan Turbo Cross Turismo</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-5c5cc7ac"}}</p>
 				</div>
 			</div>
 		</div>

@@ -249,7 +249,10 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/trunk_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Tillgänglighet och pris
+
+Denna modell hade världspremiär 15.04.2021 och leveranser startade i September 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Mercedes EQS </strong>
 </a>

@@ -253,7 +253,10 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 15.04.2021, og leveringerne startede i September 2021. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Mercedes EQS </strong>
 </a>

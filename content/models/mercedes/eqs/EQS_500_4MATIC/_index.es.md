@@ -253,7 +253,10 @@ Puedes pedir el automóvil con una barra de remolque. El peso total máximo en u
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 15.04.2021 y las entregas comenzaron en September 2021. Este modelo ahora ha sido descontinuado.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Mercedes EQS </strong>
 </a>
