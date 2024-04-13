@@ -133,8 +133,6 @@ La entrada sin llave permite el acceso al auto sin necesidad de encontrar la lla
 
 Keyless go permite arrancar el auto sin usar la llave.
 
-El volante es ajustable eléctricamente.
-
 Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}

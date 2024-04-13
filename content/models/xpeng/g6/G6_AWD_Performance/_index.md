@@ -133,8 +133,6 @@ Keyless entry allows access to the car without needing to find the key. As long 
 
 Keyless go makes it possible to start the car without using the key.
 
-The steering wheel is electrically adjustable.
-
 You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}

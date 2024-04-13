@@ -72,7 +72,7 @@ Tesla Model X es un SUV disponible en 3 variantes.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Tesla Model Y es un SUV Coupé disponible en 3 variantes.
+Tesla Model Y es un SUV Coupé disponible en 4 variantes.
 </p>
 	<a href="model_y/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

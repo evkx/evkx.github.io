@@ -133,8 +133,6 @@ Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe
 
 Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
-Rattet er elektrisk justerbart.
-
 Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}

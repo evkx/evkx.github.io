@@ -133,8 +133,6 @@ L'entrée sans clé permet d'accéder à la voiture sans avoir besoin de trouver
 
 Keyless go permet de démarrer la voiture sans utiliser la clé.
 
-Le volant est réglable électriquement.
-
 Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}

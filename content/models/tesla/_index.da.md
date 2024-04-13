@@ -72,7 +72,7 @@ Tesla Model X er en SUV tilgængelig i 3 varianter.
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Tesla Model Y er en Coupe SUV tilgængelig i 3 varianter.
+Tesla Model Y er en Coupe SUV tilgængelig i 4 varianter.
 </p>
 	<a href="model_y/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

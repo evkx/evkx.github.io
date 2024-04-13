@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-a0c92104
+  translation: Tesla Model Y Long Range RWD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-78483ee7
   translation: Alfa Romeo MILANO VELOCE er en helelektrisk delefilter med en WLTP rekkevidde på opptil 370 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-44c8442a
   translation: Lotus Emeya R er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 535 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-4ce1d945
-  translation: Ford Explorer Extended Range RWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 602 km. EVKX.net har alle detaljene.
 

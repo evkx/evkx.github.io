@@ -133,8 +133,6 @@ Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. 
 
 Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
-Ratten är elektriskt justerbar.
-
 Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}

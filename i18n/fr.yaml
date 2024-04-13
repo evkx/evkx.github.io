@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-a0c92104
+  translation: Tesla Model Y Long Range RWD est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-78483ee7
   translation: Alfa Romeo MILANO VELOCE est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 370 km (230 miles). EVKX.net a tous les détails.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-44c8442a
   translation: Lotus Emeya R est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 535 km (333 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-4ce1d945
-  translation: Ford Explorer Extended Range RWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 602 km (374 miles). EVKX.net a tous les détails.
 
