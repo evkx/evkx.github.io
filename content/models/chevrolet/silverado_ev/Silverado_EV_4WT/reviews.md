@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Charging Monster! Chevy Silverado EV DC Fast Charges Faster Than Any EV We've Tested (GM 24-Module)</h3>
+<p>Out of Spec Reviews: 13.04.2024</p>
+
+{{< youtube S9kKRo-87ho >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Setting The Benchmark! Chevy Silverado EV 4WT vs The Rustic Ring Electric Vehicle Towing Challenge</h3>
 <p>Out of Spec Reviews: 31.03.2024</p>
 

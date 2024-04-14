@@ -160,7 +160,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet THERMOTRONIC understøtter forskellige temperaturer i to zoner for fører og passager. Klimasystemet THERMATIC understøtter forskellige temperaturer i fire zoner for føreren, passageren og to separate passagerer på bagsædet.
+Du kan vælge mellem to forskellige klimasystemer. Klimasystemet THERMOTRONIC understøtter forskellige temperaturer i to zoner for fører og passager. Klimasystemet THERMATIC understøtter forskellige temperaturer i fire zoner for føreren, passageren og to separate passagerer på bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
 
 ## Komfort
 
