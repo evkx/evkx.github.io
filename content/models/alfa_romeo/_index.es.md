@@ -9,16 +9,16 @@ weight: 30
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Alfa Romeo MILANO</h3>
+<h3> Alfa Romeo Junior</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="milano"><img src="https://media.evkx.net/multimedia/models/alfa_romeo/milano/milano_veloce/main_1_st.jpg" class="img-fluid" alt="Alfa Romeo MILANO" ></a>
+			<a href="junior"><img src="https://media.evkx.net/multimedia/models/alfa_romeo/junior/junior_veloce/main_1_st.jpg" class="img-fluid" alt="Alfa Romeo Junior" ></a>
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Alfa Romeo MILANO es un crossover disponible en 1 variantes.
+Alfa Romeo Junior es un crossover disponible en 1 variantes.
 </p>
-	<a href="milano/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+	<a href="junior/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
 	</div>
 </div>
