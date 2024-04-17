@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 Twin Performance Ultra range test</h3>
+<p>Bjørn Nyland: 16.04.2024</p>
+
+{{< youtube L2aS-a81nIc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 banana box re-test</h3>
+<p>Bjørn Nyland: 16.04.2024</p>
+
+{{< youtube 3rvSS0Frzxs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 auto parking test</h3>
+<p>Bjørn Nyland: 15.04.2024</p>
+
+{{< youtube KRAaKXTU8nk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Volvo EX30: The Budget Baby Polestar!</h3>
 <p>Fully Charged Show: 06.11.2023</p>
 
