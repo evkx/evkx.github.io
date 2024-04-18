@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-088ffc34
+  translation: SKODA ENYAQ RS er en helelektrisk SUV med en WLTP rekkevidde på opptil 537 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-f4437100
   translation: Mercedes-EQ EQS 580 4MATIC er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 792 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a2b5a5a9
   translation: Ford Explorer Standard Range RWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 380 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-1336d2cc
-  translation: Lotus Emeya S er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 610 km. EVKX.net har alle detaljene.
 

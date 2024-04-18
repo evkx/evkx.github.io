@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-088ffc34
+  translation: SKODA ENYAQ RS est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 537 km (334 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-f4437100
   translation: Mercedes-EQ EQS 580 4MATIC est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 792 km (492 miles). EVKX.net a tous les détails.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a2b5a5a9
   translation: Ford Explorer Standard Range RWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 380 km (236 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-1336d2cc
-  translation: Lotus Emeya S est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 610 km (379 miles). EVKX.net a tous les détails.
 

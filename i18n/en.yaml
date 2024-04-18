@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-088ffc34
+  translation: SKODA ENYAQ RS is an all-electric SUV with a WLTP range of up to 537 km (334 miles). EVKX.net has all the details.
+
 - id: frontpage-description-f4437100
   translation: Mercedes-EQ EQS 580 4MATIC is an all-electric luxury sedan with a WLTP range of up to 792 km (492 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a2b5a5a9
   translation: Ford Explorer Standard Range RWD is an all-electric SUV with a WLTP range of up to 380 km (236 miles). EVKX.net has all the details.
-
-- id: frontpage-description-1336d2cc
-  translation: Lotus Emeya S is an all-electric luxury sedan with a WLTP range of up to 610 km (379 miles). EVKX.net has all the details.
 
