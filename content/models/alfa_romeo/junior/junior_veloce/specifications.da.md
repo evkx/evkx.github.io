@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Alfa Romeo Junior 
 				Popeffekt
 			</td>
 			<td>
-				177 KW (241 hk /237 hk)
+				176 KW (239 hk /236 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Alfa Romeo Junior 
 				Tophastighed
 			</td>
 			<td>
-				180 km/t (112 mph)
+				150 km/t (93 mph)
 			</td>
 		</tr>
 		<tr>

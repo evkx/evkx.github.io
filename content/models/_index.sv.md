@@ -205,7 +205,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Alfa Romeo</h2>
 	<p>
-	Alfa Romeo har 1 modell(er) med totalt 1 varianter.
+	Alfa Romeo har 1 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gå till Alfa Romeo modellöversikt</a>
 </div>
@@ -546,7 +546,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
 	<p>
-	Skoda har 1 modell(er) med totalt 6 varianter.
+	Skoda har 1 modell(er) med totalt 7 varianter.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Gå till Skoda modellöversikt</a>
 </div>

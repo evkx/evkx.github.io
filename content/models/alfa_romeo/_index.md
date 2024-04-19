@@ -16,7 +16,7 @@ The first pure electric vehicle (EV) from Alfa Romeo is set to debut in 2024, wi
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Alfa Romeo Junior is a crossover available in 1 variants.
+Alfa Romeo Junior is a crossover available in 2 variants.
 </p>
 	<a href="junior/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-SKODA Enyaq iV es un SUV/SUV Coupé disponible en 6 variantes.
+SKODA Enyaq iV es un SUV/SUV Coupé disponible en 7 variantes.
 </p>
 	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

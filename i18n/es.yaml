@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-323bc4c4
+  translation: Alfa Romeo Junior es un crossover totalmente eléctrico con un WLTP alcance de hasta 410 km (255 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-088ffc34
   translation: SKODA ENYAQ RS es un SUV totalmente eléctrico con una autonomía WLTP de hasta 537 km (334 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-7a20372a
   translation: Chevrolet Silverado EV SRT es una camioneta totalmente eléctrica con un EPA alcance de hasta 708 km (440 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-a2b5a5a9
-  translation: Ford Explorer Standard Range RWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 380 km (236 millas). EVKX.net tiene todos los detalles.
 

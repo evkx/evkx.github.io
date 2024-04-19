@@ -29,7 +29,7 @@ We have separated our Alfa Romeo Junior Veloce article into sections. If you wan
 
 ## Performance
 
-The Alfa Romeo Junior Veloce has a maximum power of 177 KW (241 hp/237 bhp). The total torque is 400 nm (295 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.9 seconds. The top speed is 180 km/h.
+The Alfa Romeo Junior Veloce has a maximum power of 176 KW (239 hp/236 bhp). The total torque is 400 nm (295 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.9 seconds. The top speed is 150 km/h.
 
 ## Battery, range, and charging
 

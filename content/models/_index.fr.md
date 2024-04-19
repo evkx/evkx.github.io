@@ -205,7 +205,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Alfa Romeo</h2>
 	<p>
-	Alfa Romeo a 1 modèles avec un total de 1 variantes.
+	Alfa Romeo a 1 modèles avec un total de 2 variantes.
 	</p>
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Aller à la Alfa Romeo présentation du modèle EV</a>
 </div>
@@ -546,7 +546,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
 	<p>
-	Skoda a 1 modèles avec un total de 6 variantes.
+	Skoda a 1 modèles avec un total de 7 variantes.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Aller à la Skoda présentation du modèle EV</a>
 </div>

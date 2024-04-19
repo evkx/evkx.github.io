@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-323bc4c4
+  translation: Alfa Romeo Junior er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 410 km (255 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-088ffc34
   translation: SKODA ENYAQ RS er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 537 km (334 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-7a20372a
   translation: Chevrolet Silverado EV SRT er en fuldelektrisk pickup med en EPA rækkevidde på op til 708 km (440 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-a2b5a5a9
-  translation: Ford Explorer Standard Range RWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 380 km (236 miles). EVKX.net har alle detaljerne.
 

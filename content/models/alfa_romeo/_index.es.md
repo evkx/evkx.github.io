@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-Alfa Romeo Junior es un crossover disponible en 1 variantes.
+Alfa Romeo Junior es un crossover disponible en 2 variantes.
 </p>
 	<a href="junior/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

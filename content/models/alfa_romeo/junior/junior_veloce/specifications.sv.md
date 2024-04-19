@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Alfa Romeo Junior Velo
 				Max effekt
 			</td>
 			<td>
-				177 KW (241 hk)
+				176 KW (239 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Alfa Romeo Junior Velo
 				Topphastighet
 			</td>
 			<td>
-				180 km/h
+				150 km/h
 			</td>
 		</tr>
 		<tr>

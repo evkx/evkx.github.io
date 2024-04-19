@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Alfa Romeo Junior V
 				Maks effekt
 			</td>
 			<td>
-				177 KW (241 hk)
+				176 KW (239 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Alfa Romeo Junior V
 				Topphastighet
 			</td>
 			<td>
-				180 km/t
+				150 km/t
 			</td>
 		</tr>
 		<tr>

@@ -16,7 +16,7 @@ weight: 30
 		</div>
 		<div class="col col-12 col-md-6">
 <p>
-SKODA Enyaq iV er en SUV/Coupe SUV tilgjengelig i 6 varianter.
+SKODA Enyaq iV er en SUV/Coupe SUV tilgjengelig i 7 varianter.
 </p>
 	<a href="enyaq_iv/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Alfa Romeo Junior Ve
 				Peak power
 			</td>
 			<td>
-				177 KW (241 hp /237 bhp)
+				176 KW (239 hp /236 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Alfa Romeo Junior Ve
 				Top speed
 			</td>
 			<td>
-				180 kph (112 mph)
+				150 kph (93 mph)
 			</td>
 		</tr>
 		<tr>

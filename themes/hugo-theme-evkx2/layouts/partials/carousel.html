@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/alfa_romeo/junior/junior/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/alfa_romeo/junior/junior/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Alfa Romeo Junior</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-323bc4c4"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/skoda/enyaq_iv/enyaq_rs/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_rs/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Mercedes EQA 250+</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-794466b7"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/chevrolet/equinox_ev/equinox_ev_awd/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/chevrolet/equinox_ev/equinox_ev_awd/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Chevrolet Equinox EV AWD</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-23921abb"}}</p>
 				</div>
 			</div>
 		</div>

@@ -214,7 +214,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		 Alfa Romeo, the Italian luxury car manufacturer, is embracing electrification with a clear strategy. By 2027, Alfa Romeo plans to transform its lineup to be fully electric.
 	</p>
 	<p>
-	Alfa Romeo has 1 models with total 1 variants.
+	Alfa Romeo has 1 models with total 2 variants.
 	</p>
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Go to Alfa Romeo EV-model overview</a>
 </div>
@@ -684,7 +684,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. 
 	</p>
 	<p>
-	Skoda has 1 models with total 6 variants.
+	Skoda has 1 models with total 7 variants.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Go to Skoda EV-model overview</a>
 </div>

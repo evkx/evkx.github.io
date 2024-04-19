@@ -205,7 +205,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Alfa Romeo</h2>
 	<p>
-	Alfa Romeo har 1 modeller med i alt 1 varianter.
+	Alfa Romeo har 1 modeller med i alt 2 varianter.
 	</p>
 	<a href="alfa romeo/" class="btn btn-outline-primary" role="button">Gå til Alfa Romeo EV-modeloversigt</a>
 </div>
@@ -546,7 +546,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
 	<p>
-	Skoda har 1 modeller med i alt 6 varianter.
+	Skoda har 1 modeller med i alt 7 varianter.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Gå til Skoda EV-modeloversigt</a>
 </div>
