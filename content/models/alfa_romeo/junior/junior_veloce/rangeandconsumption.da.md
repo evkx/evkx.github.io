@@ -129,6 +129,28 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 	<tbody>
 		<tr>
 			<td>
+				90kmt/56mph perfekt stand
+			</td>
+			<td>
+				254km / 158 mi
+			</td>
+			<td>
+				20 kWh/100km / 3,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90kmt/56mph med 2KW opvarmning
+			</td>
+			<td>
+				234km /142mi
+			</td>
+			<td>
+				22,2 kWh/100km /2,8 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120kmt/75mph perfekt stand
 			</td>
 			<td>

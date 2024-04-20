@@ -129,6 +129,28 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 	<tbody>
 		<tr>
 			<td>
+				90kmh/56mph parfait état
+			</td>
+			<td>
+				254km / 158 mi
+			</td>
+			<td>
+				20 kWh/100km / 3,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90kmh/56mph avec chauffage 2KW
+			</td>
+			<td>
+				234km /142mi
+			</td>
+			<td>
+				22,2 kWh/100km /2,8 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120kmh/75mph parfait état
 			</td>
 			<td>
