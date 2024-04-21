@@ -15,6 +15,6 @@ The company has also set a roadmap for the gradual phasing out of production of 
 
 ### Headquarters
 
-Audi’s headquarters are located in Ingolstadt, Germany. This city has been the heart of Audi’s operations for many years and continues to be the central hub for the brand’s strategic planning, development, and manufacturing.
+Audi’s headquarters are located in <a href="https://www.audi.com/en/company/strategy/locations/germany.html" target="_blank">Ingolstadt, Germany</a>. This city has been the heart of Audi’s operations for many years and continues to be the central hub for the brand’s strategic planning, development, and manufacturing.
 
 Audi’s approach to electrification and its commitment to innovation and sustainability make it a key player in the future of the automotive industry. With a clear strategy and a focus on electric mobility, Audi is set to remain at the forefront of automotive excellence.
