@@ -12,7 +12,7 @@ weight: 30
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        brandinfo.currentmodels
+                        Modèles actuels
             </button>
         </h2>
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
@@ -97,7 +97,7 @@ Audi Q8 e-tron est un SUV/SUV Coupé de luxe disponible en 7 variantes.
 </div><div class="accordion-item">
     <h2 class="accordion-header">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
-            brandinfo.company
+            À propos de la marque
         </button>
     </h2>
     <div id="module-company" class="accordion-collapse collapse">
