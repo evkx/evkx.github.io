@@ -9,17 +9,17 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>ALL NEW JEEP AVENGER: the new superhero of small electric cars?</h3>
-<p>Electrifying: 20.01.2023</p>
+<h3>MilaNO love for the Alfa junior? We check out Alfa Romeo’s first electric car</h3>
+<p>Electrifying: 18.04.2024</p>
 
-{{< youtube Ofj_X4415R0 >}}
+{{< youtube M6G7JaeVUjw >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Jeep Avenger: The New King Of SMALL EVs?</h3>
-<p>Fully Charged Show: 20.01.2023</p>
+<h3>FIRST LOOK: New Milano/Junior SUV is Alfa Romeo’s First EV!</h3>
+<p>Top Gear: 13.04.2024</p>
 
-{{< youtube OW-0LMwcjgQ >}}
+{{< youtube NcrVf787ENc >}}
 
 </div>
 <div class="mt-3 mb-3">

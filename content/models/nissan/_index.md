@@ -6,19 +6,32 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
- Some of its popular models include the Nissan Altima, Maxima, Sentra, Rogue, Pathfinder, and Armada. In recent years, Nissan has placed a strong emphasis on developing electric vehicles (EVs). It launched the Nissan Leaf, the world's first mass-produced EV, in 2010. Nissan is also involved in other areas of automotive innovation, such as autonomous driving technology and connected car systems.  <br /><br> Nissan is part of the Renault-Nissan-Mitsubishi Alliance, a strategic partnership between Nissan, Renault, and Mitsubishi Motors. The alliance is one of the world's largest automotive groups and aims to promote greater collaboration and cost savings among its member companies. Like other automakers, Nissan has faced challenges in recent years, including declining sales and the COVID-19 pandemic's impact on global supply chains. However, the company continues to invest in research and development and has plans to introduce new electric and autonomous vehicles in the coming years.Nissan has currently 1 all electric models with total 3 variants in the market. Below you find links for each model page.  
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Nissan Ariya</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="ariya"><img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Nissan Ariya" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        Current models
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Nissan Ariya</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="ariya">
+                    <img src="https://media.evkx.net/multimedia/models/nissan/ariya/ariya_63kwh/main_1_st.jpg" class="img-fluid" alt="Nissan Ariya" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Nissan Ariya is a Coupe SUV available in 3 variants.
 </p>
 	<a href="ariya/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

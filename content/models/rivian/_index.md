@@ -6,19 +6,32 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Rivian also has a contract with Amazon to deliver 100,000 electric delivery vans by 2030. Rivian's EV strategy is supported by its access to capital, its partnerships with Ford and Amazon, its in-house battery and motor technology, and its network of charging stations and service centers. Rivian is seen by some analysts as a potential challenger to Tesla, the EV market leader, as it offers a different value proposition and targets a different customer segment.
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Rivian R1</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="r1"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="Rivian R1" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        Current models
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Rivian R1</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="r1">
+                    <img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" class="img-fluid" alt="Rivian R1" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Rivian R1 is a pickup truck / SUV available in 6 variants.
 </p>
 	<a href="r1/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

@@ -8,17 +8,30 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Fiat 600e</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="600e"><img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="Fiat 600e" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        brandinfo.currentmodels
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Fiat 600e</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="600e">
+                    <img src="https://media.evkx.net/multimedia/models/fiat/600e/600e/main_1_st.jpg" class="img-fluid" alt="Fiat 600e" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Fiat 600e est un crossover disponible en 1 variantes.
 </p>
 	<a href="600e/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

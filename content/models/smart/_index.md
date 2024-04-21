@@ -6,33 +6,47 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-The Smart car brand was originally founded in 1994 by Micro Compact Car AG, a joint venture between SMH (makers of the Swatch brand of watches) and Daimler-Benz. The name Smart derives from the cooperation of the Swiss company Swatch with Mercedes-Benz: Swatch Mercedes ART.<br /><br />The Smart car brand is known for its compact and stylish city cars, such as the Fortwo and the Forfour. The Fortwo is a two-seater car that measures only 2.69 meters in length, making it easy to park and maneuver in urban areas. The Forfour is a four-seater car that shares the same design and features as the Fortwo, but with more space and comfort.<br /><br />The Smart car brand has been focusing on electric vehicles since 2007, when it launched the first generation of the Smart electric drive. Since then, it has released three more generations of electric vehicles, with improved performance, range, and charging options
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Smart #1</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="hash1"><img src="https://media.evkx.net/multimedia/models/smart/#1/#1_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #1" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        Current models
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Smart #1</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="hash1">
+                    <img src="https://media.evkx.net/multimedia/models/smart/#1/#1_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #1" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Smart #1 is a crossover available in 3 variants.
 </p>
 	<a href="hash1/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Smart #3</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="hash3"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #3" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Smart #3</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="hash3">
+                    <img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_st.jpg" class="img-fluid" alt="Smart #3" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Smart #3 is a crossover available in 1 variants.
 </p>
 	<a href="hash3/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

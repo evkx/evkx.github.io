@@ -8,73 +8,90 @@ weight: 30
 <!-- markdownlint-disable MD010 -->
 
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Tesla Cybertruck</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="cybertruck"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" class="img-fluid" alt="Tesla Cybertruck" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        brandinfo.currentmodels
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Tesla Cybertruck</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="cybertruck">
+                    <img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" class="img-fluid" alt="Tesla Cybertruck" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Tesla Cybertruck es una camioneta disponible en 2 variantes.
 </p>
 	<a href="cybertruck/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
 	</div>
 </div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Tesla Model 3</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="model_3"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model 3" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Tesla Model 3</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="model_3">
+                    <img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model 3" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Tesla Model 3 es un sedán disponible en 5 variantes.
 </p>
 	<a href="model_3/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
 	</div>
 </div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Tesla Model S</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="model_s"><img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Tesla Model S" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Tesla Model S</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="model_s">
+                    <img src="https://media.evkx.net/multimedia/models/tesla/model_s/model_s/main_1_st.jpg" class="img-fluid" alt="Tesla Model S" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Tesla Model S es un sedán disponible en 3 variantes.
 </p>
 	<a href="model_s/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
 	</div>
 </div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Tesla Model X</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="model_x"><img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" class="img-fluid" alt="Tesla Model X" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Tesla Model X</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="model_x">
+                    <img src="https://media.evkx.net/multimedia/models/tesla/model_x/model_x_plaid/main_1_st.jpg" class="img-fluid" alt="Tesla Model X" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Tesla Model X es un SUV disponible en 3 variantes.
 </p>
 	<a href="model_x/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
 	</div>
 </div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Tesla Model Y</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="model_y"><img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model Y" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Tesla Model Y</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="model_y">
+                    <img src="https://media.evkx.net/multimedia/models/tesla/model_y/model_y_long_range/main_1_st.jpg" class="img-fluid" alt="Tesla Model Y" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Tesla Model Y es un SUV Coupé disponible en 4 variantes.
 </p>
 	<a href="model_y/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

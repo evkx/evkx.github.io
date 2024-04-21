@@ -9,6 +9,48 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 Twin Performance Ultra driving impressions and summary</h3>
+<p>Bjørn Nyland: 21.04.2024</p>
+
+{{< youtube TICbLRB8DzA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I drove Volvo EX30 until the battery died</h3>
+<p>Bjørn Nyland: 20.04.2024</p>
+
+{{< youtube uktrseUA1QA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 interior review</h3>
+<p>Bjørn Nyland: 19.04.2024</p>
+
+{{< youtube rDrJKmSRBFQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 Twin Performance Ultra 1000 km challenge</h3>
+<p>Bjørn Nyland: 18.04.2024</p>
+
+{{< youtube egPIwY0sBOs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 69 kWh charging test</h3>
+<p>Bjørn Nyland: 17.04.2024</p>
+
+{{< youtube Bk4X_utho9g >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 Twin Performance Ultra 90-10 % acceleration test</h3>
+<p>Bjørn Nyland: 17.04.2024</p>
+
+{{< youtube sS4pPPLU6V0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Volvo EX30 Twin Performance Ultra range test</h3>
 <p>Bjørn Nyland: 16.04.2024</p>
 
@@ -20,6 +62,13 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 <p>Bjørn Nyland: 16.04.2024</p>
 
 {{< youtube 3rvSS0Frzxs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 headlights test</h3>
+<p>Bjørn Nyland: 16.04.2024</p>
+
+{{< youtube fGUYqeSFskE >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">

@@ -6,19 +6,32 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-GMC is also committed to an all-electric future as part of GM's vision to create a world with zero crashes, zero emissions and zero congestion. GMC aims to provide EVs for everyone by offering a wide range of electric vehicles that cater to different styles, needs and budgets.
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> GMC Hummer EV</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="hummer_ev"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" class="img-fluid" alt="GMC Hummer EV" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        Current models
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>GMC Hummer EV</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="hummer_ev">
+                    <img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_pickup/main_1_st.jpg" class="img-fluid" alt="GMC Hummer EV" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 GMC Hummer EV is a pickup truck available in 1 variants.
 </p>
 	<a href="hummer_ev/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

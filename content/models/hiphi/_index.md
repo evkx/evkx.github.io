@@ -6,47 +6,62 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Human Horizons is an innovative technology company based in Shanghai, China. It was founded in August 2017 by Ding Lei, a former executive of NIO, another Chinese electric car company. Human Horizons focuses on future travel experience and develops electric cars, autonomous driving and smart transportation technologies. It operates a production and assembly plant in Yancheng, Jiangsu Province, and a prototype factory in Jinqiao, Shanghai . It also has a research and development center in Nanjing. Human Horizons launched its premium electric car brand HiPhi in July 2019 with the HiPhi 1 concept. It aims to redefine human and future mobility with its 3-Smart strategy of smart vehicle, smart transportation and smart city.
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> HiPhi X</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="x"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi X" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        Current models
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>HiPhi X</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="x">
+                    <img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi X" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 HiPhi X is a luxury SUV available in 2 variants.
 </p>
 	<a href="x/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> HiPhi Y</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="y"><img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1_st.jpg" class="img-fluid" alt="HiPhi Y" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>HiPhi Y</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="y">
+                    <img src="https://media.evkx.net/multimedia/models/hiphi/y/y_dual_motor/main_1_st.jpg" class="img-fluid" alt="HiPhi Y" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 HiPhi Y is a premium SUV available in 1 variants.
 </p>
 	<a href="y/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> HiPhi Z</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="z"><img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi Z" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>HiPhi Z</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="z">
+                    <img src="https://media.evkx.net/multimedia/models/hiphi/z/z_4_seater/main_1_st.jpg" class="img-fluid" alt="HiPhi Z" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 HiPhi Z is a luxury sedan available in 2 variants.
 </p>
 	<a href="z/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

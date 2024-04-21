@@ -6,33 +6,47 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Instead, Lotus will focus on developing a range of electric vehicles, including sports cars, SUVs and saloons, that will usher in a new era for the brand.
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Lotus Eletre</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="eletre"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Lotus Eletre" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        Current models
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Lotus Eletre</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="eletre">
+                    <img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_st.jpg" class="img-fluid" alt="Lotus Eletre" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Lotus Eletre is a luxury SUV available in 3 variants.
 </p>
 	<a href="eletre/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Lotus Emeya</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="emeya"><img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/main_1_st.jpg" class="img-fluid" alt="Lotus Emeya" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Lotus Emeya</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="emeya">
+                    <img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/main_1_st.jpg" class="img-fluid" alt="Lotus Emeya" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Lotus Emeya is a luxury sedan available in 3 variants.
 </p>
 	<a href="emeya/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

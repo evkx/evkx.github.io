@@ -6,19 +6,32 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Rolls Royce's EV strategy is based on three pillars: delivering on its commitments, maximising value from existing capabilities, and seizing opportunities for growth. The company aims to capitalise on its long-term customer relationships, its cutting-edge technologies, its system solutions, and its brand and heritage. It also plans to grow its capabilities in sustainable power, harness new digital technologies, and create new business opportunities.        <br /><br />The company's first EV will be the Spectre coupé, which is expected to debut in 2023. It will be followed by all-electric successors to the current Cullinan SUV, Ghost saloon and Phantom limousine. The company has not revealed much details about the technical specifications or the design of its future EVs, but it has said that they will retain the core values of Rolls Royce: effortless performance, refined luxury, and uncompromised quality.
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Rolls-Royce Spectre</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="spectre"><img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Rolls-Royce Spectre" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        Current models
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Rolls-Royce Spectre</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="spectre">
+                    <img src="https://media.evkx.net/multimedia/models/rolls-royce/spectre/spectre/main_1_st.jpg" class="img-fluid" alt="Rolls-Royce Spectre" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Rolls-Royce Spectre is a luxury sedan available in 1 variants.
 </p>
 	<a href="spectre/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>

@@ -6,19 +6,32 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Neta is expanding its presence in overseas markets, especially in Southeast Asia, where it has launched the right-hand drive version of the Neta V in Thailand and Malaysia. Neta also has a factory in Bangkok, Thailand, that can produce 20,000 vehicles per year. Neta plans to enter the European market in 2024 and participate in the Munich auto show in Germany. Neta also has a goal of reaching 1 million sales globally by 2026.
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3> Neta GT</h3>
-	<div class="row">
-		<div class="col col-12 col-md-6">
-			<a href="gt"><img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/main_1_st.jpg" class="img-fluid" alt="Neta GT" ></a>
-		</div>
-		<div class="col col-12 col-md-6">
-<p>
+
+<div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                        Current models
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+            <div class="accordion-body">
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Neta GT</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="gt">
+                    <img src="https://media.evkx.net/multimedia/models/neta/gt/gt_580_awd/main_1_st.jpg" class="img-fluid" alt="Neta GT" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
 Neta GT is a Coupe available in 1 variants.
 </p>
 	<a href="gt/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
 	</div>
 </div>
+        </div>
+    </div>
+</div></div>
