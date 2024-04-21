@@ -9,9 +9,9 @@ Audi er en kendt tysk bilproducent, der har specialiseret sig i luksusbiler. Vir
 
 ### Elektrificering
 
-Audi har aktivt forfulgt elektrificering som en del af sin forpligtelse til bæredygtighed og innovation. Mærket planlægger at tilbyde mindst ét elektrisk køretøj i alle kernesegmenter inden 20271. Fra 2026 vil Audi kun introducere fuldt elektriske modeller på markedet1. Dette er et væsentligt skridt i Audis rejse mod en fuldt elektrisk fremtid, der er på linje med den bredere bilindustris skift væk fra fossile brændstoffer.
+Audi har aktivt forfulgt elektrificering som en del af sin forpligtelse til bæredygtighed og innovation. Mærket planlægger at tilbyde mindst ét elektrisk køretøj i alle kernesegmenter inden 2027. Fra 2026 vil Audi kun introducere fuldt elektriske modeller på markedet1. Dette er et væsentligt skridt i Audis rejse mod en fuldt elektrisk fremtid, der er på linje med den bredere bilindustris skift væk fra fossile brændstoffer.
 
-Virksomheden har også opstillet en køreplan for den gradvise udfasning af produktionen af køretøjer med forbrændingsmotorer (ICE). Inden 2033 sigter Audi mod at have fremstillet sit sidste ICE-køretøj2. Denne overgang understreger Audis dedikation til at reducere kulstofemissioner og bidrage til et renere miljø.
+Virksomheden har også opstillet en køreplan for den gradvise udfasning af produktionen af køretøjer med forbrændingsmotorer (ICE). Inden 2033 sigter Audi mod at have fremstillet sit sidste ICE-køretøj. Denne overgang understreger Audis dedikation til at reducere kulstofemissioner og bidrage til et renere miljø.
 
 ### Hovedkvarter
 
