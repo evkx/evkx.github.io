@@ -5,37 +5,16 @@ weight: 1
 hidden: true
 ---
 
-Audi is a renowned German automobile manufacturer known for producing luxury vehicles with a focus on advanced technology, performance, and design. Here’s an overview of Audi:
+Audi is a renowned German automobile manufacturer that specializes in luxury vehicles. The company is a member of the Volkswagen Group and has its roots dating back to the early 20th century. Audi is known for its advanced engineering, sophisticated design, and innovative technology.
 
-### History and Background:
+### Electrification
 
-Audi's roots can be traced back to the early 20th century. The company's origins date to 1885 when founder August Horch established a motor vehicle company. In 1909, after a legal dispute, August Horch left his company and founded a new one, which eventually became Audi.
-The brand name "Audi" is derived from a Latin translation of the founder's surname "Horch," which means "listen" in German. This translation led to the name Audi, representing the company's commitment to innovative engineering and design.
+Audi has been actively pursuing electrification as part of its commitment to sustainability and innovation. The brand plans to offer at least one electric vehicle in all core segments by 20271. Starting from 2026, Audi will only introduce fully electric models to the market1. This is a significant step in Audi’s journey towards a fully electric future, aligning with the broader automotive industry’s shift away from fossil fuels.
 
+The company has also set a roadmap for the gradual phasing out of production of vehicles with internal combustion engines (ICE). By 2033, Audi aims to have manufactured its last ICE vehicle2. This transition underscores Audi’s dedication to reducing carbon emissions and contributing to a cleaner environment.
 
-### Brand Identity and Reputation:
+### Headquarters
 
-Audi is known for its emphasis on performance, luxury, and cutting-edge technology. It positions itself as a premium brand within the Volkswagen Group, which also includes Volkswagen, Porsche, Bentley, and Lamborghini.
-Audi is recognized for its Quattro all-wheel-drive system, which revolutionized performance cars by providing superior traction and handling in various road conditions.
+Audi’s headquarters are located in Ingolstadt, Germany3. This city has been the heart of Audi’s operations for many years and continues to be the central hub for the brand’s strategic planning, development, and manufacturing.
 
-### Model Range:
-
-Audi's vehicle lineup covers a broad spectrum, including sedans, coupes, SUVs, and sports cars. Some notable models include the Audi A3, A4, A6, A7, A8 sedans, the Q3, Q5, Q7, and Q8 SUVs, and the sporty TT and R8 coupes.
-The company also offers electric vehicles under the "e-tron" branding, showcasing Audi's commitment to sustainable mobility.
-
-
-### Technological Innovation:
-
-Audi is at the forefront of automotive technology, integrating advanced features into its vehicles. This includes virtual cockpit displays, touch-sensitive interfaces, adaptive cruise control, and semi-autonomous driving capabilities.
-The brand has also been a pioneer in developing hybrid and electric vehicles, leveraging its engineering expertise from motorsport and the broader Volkswagen Group.
-### Motorsport Heritage:
-
-Audi has a rich motorsport history, particularly in endurance racing. The Audi Sport division has achieved significant success in events like the Le Mans 24 Hours, showcasing Audi's engineering prowess and commitment to performance.
-
-### Global Presence:
-
-Audi is a global brand with a strong presence in major markets worldwide. Its vehicles are sold in Europe, North America, Asia, and other regions, catering to a diverse customer base seeking luxury, performance, and cutting-edge technology.
-
-### Future Direction:
-
-Audi is transitioning towards electric mobility, with plans to introduce more electric and hybrid models in the coming years. The company aims to establish itself as a leader in sustainable luxury vehicles, combining performance with environmental consciousness.
+Audi’s approach to electrification and its commitment to innovation and sustainability make it a key player in the future of the automotive industry. With a clear strategy and a focus on electric mobility, Audi is set to remain at the forefront of automotive excellence.
