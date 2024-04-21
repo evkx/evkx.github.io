@@ -213,6 +213,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
 	<h2>Audi</h2>
 	<p>
+		Audi er en tysk bilproducent, der er en del af Volkswagen-koncernen. Den er kendt for sine førsteklasses og sportslige køretøjer samt sit slogan 'Vorsprung durch Technik', som betyder 'Progress through Technology'.
+	</p>
+	<p>
 	Audi har 5 modeller med i alt 31 varianter.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gå til Audi EV-modeloversigt</a>

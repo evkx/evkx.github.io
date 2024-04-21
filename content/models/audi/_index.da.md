@@ -1,7 +1,7 @@
 ---
 title: Audi EV-modeller
 linktitle: "Audi"
-description: "Audi is a German car manufacturer that is part of the Volkswagen Group. It is known for its premium and sporty vehicles, as well as its slogan 'Vorsprung durch Technik', which means 'Progress through Technology'. Audi has a history of innovation and excellence, dating back to its founding in 1909 by August Horch."
+description: "Audi er en tysk bilproducent, der er en del af Volkswagen-koncernen. Den er kendt for sine førsteklasses og sportslige køretøjer samt sit slogan 'Vorsprung durch Technik', som betyder 'Progress through Technology'."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

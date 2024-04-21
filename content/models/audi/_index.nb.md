@@ -1,7 +1,7 @@
 ---
 title: Audi elektriske modeller
 linktitle: "Audi"
-description: "Audi er en tysk bilprodusent som er en del av Volkswagen Group. Den er kjent for sine førsteklasses og sporty kjøretøyer, samt slagordet 'Vorsprung durch Technik', som betyr 'Progress through Technology'. Audi har en historie med innovasjon og fortreffelighet, som går tilbake til grunnleggelsen i 1909 av August Horch."
+description: "Audi er en tysk bilprodusent som er en del av Volkswagen Group. Den er kjent for sine førsteklasses og sporty kjøretøyer, samt slagordet 'Vorsprung durch Technik', som betyr 'Progress through Technology'."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

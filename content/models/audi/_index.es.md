@@ -1,7 +1,7 @@
 ---
 title: Audi modelos de vehículos eléctricos
 linktitle: "Audi"
-description: "Audi is a German car manufacturer that is part of the Volkswagen Group. It is known for its premium and sporty vehicles, as well as its slogan 'Vorsprung durch Technik', which means 'Progress through Technology'. Audi has a history of innovation and excellence, dating back to its founding in 1909 by August Horch."
+description: "Audi es un fabricante de automóviles alemán que forma parte del Grupo Volkswagen. Es conocida por sus vehículos premium y deportivos, así como por su lema 'Vorsprung durch Technik', que significa 'Progreso a través de la tecnología'."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

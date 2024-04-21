@@ -213,6 +213,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
 	<h2>Audi</h2>
 	<p>
+		Audi är en tysk biltillverkare som ingår i Volkswagen-koncernen. Det är känt för sina premiumbilar och sportiga fordon, samt sin slogan 'Vorsprung durch Technik', som betyder 'Progress through Technology'.
+	</p>
+	<p>
 	Audi har 5 modell(er) med totalt 31 varianter.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gå till Audi modellöversikt</a>

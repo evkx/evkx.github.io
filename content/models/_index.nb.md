@@ -213,7 +213,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
 	<h2>Audi</h2>
 	<p>
-		Audi er en tysk bilprodusent som er en del av Volkswagen Group. Den er kjent for sine førsteklasses og sporty kjøretøyer, samt slagordet 'Vorsprung durch Technik', som betyr 'Progress through Technology'. Audi har en historie med innovasjon og fortreffelighet, som går tilbake til grunnleggelsen i 1909 av August Horch.
+		Audi er en tysk bilprodusent som er en del av Volkswagen Group. Den er kjent for sine førsteklasses og sporty kjøretøyer, samt slagordet 'Vorsprung durch Technik', som betyr 'Progress through Technology'.
 	</p>
 	<p>
 	Audi har 5 modell(er) med totalt 31 varianter.
