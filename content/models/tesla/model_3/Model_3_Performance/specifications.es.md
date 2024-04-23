@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP
 			</td>
 			<td>
-				547 km
+				528 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP
 			</td>
 			<td>
-				13,7 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -142,7 +142,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				82 kWh
+				78,1 kWh
 			</td>
 		</tr>
 		<tr>

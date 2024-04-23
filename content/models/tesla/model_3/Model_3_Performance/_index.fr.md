@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Performance
 linktitle: "Model 3 Performance"
-description: "Tesla Model 3 Performance est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 547 km (340 miles). EVKX.net a tous les détails."
+description: "Tesla Model 3 Performance est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 528 km (328 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,9 +33,9 @@ Le Tesla Model 3 Performance a une puissance maximale de 393 KW (534 ch/527 ch).
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 82kWh et une capacité nette de 75kWh, ce qui signifie que vous disposez d'une réserve de 7kWh pour la protection. (8,5%).
+La batterie a une capacité brute de 78,1kWh et une capacité nette de 75kWh, ce qui signifie que vous disposez d'une réserve de 3,1kWh pour la protection. (4,0%).
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 547 km (340 mi). La consommation est de 13,7kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 528 km (328 mi). La consommation est de 14,2kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 68 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 119kW. Chaque session de charge prendrait 14 minutes et 23 secondes.
 
@@ -44,10 +44,6 @@ Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et
 ### Chargeur embarqué
 
 Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 6 heures et 49 minutes.
-
-
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/charging_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
-
 
 ### Port de recharge
 
@@ -85,7 +81,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 Les vitres du montant B et de l'arrière sont teintées.
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_st.jpg" title="Tesla Model 3 Performance" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -113,7 +109,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
 
 ### Siège de deuxième rangée
@@ -121,10 +117,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
-
-
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/secondrowseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 Il n'y a qu'un seul type de volant disponible.
@@ -155,7 +147,7 @@ Le Tesla Model 3 Performance a un seul écran pour le pilote. Le centre du table
 Le modèle n'a pas d'affichage tête haute.
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_2_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 ## Infodivertissement
@@ -168,6 +160,10 @@ Le modèle dispose de 4 connexions USB-C en standard.
 ## Lumières
 
 Les phares standards utilisent la technologie LED.
+
+
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Tesla Model 3 Performance dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
@@ -226,7 +222,7 @@ La capacité de chargement dans le coffre est de 561 litres. Avec la banquette a
 Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
 ### Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 01.04.2016 et les livraisons ont commencé en July 2017. Ce modèle a maintenant été abandonné.<div class="mt-3 mb-3">
+Ce modèle a été présenté en première mondiale le 23.04.2024 et les livraisons ont commencé en May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

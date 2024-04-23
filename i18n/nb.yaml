@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-452211c4
+  translation: Tesla Model 3 Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 528 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-323bc4c4
   translation: Alfa Romeo Junior er en helelektrisk delefilter med en WLTP rekkevidde på opptil 410 km. EVKX.net har alle detaljene.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a9a53827
   translation: Maserati Grecale Folgore er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 501 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-7a20372a
-  translation: Chevrolet Silverado EV SRT er en helelektrisk pickup med en EPA rekkevidde på opptil 708 km. EVKX.net har alle detaljene.
 

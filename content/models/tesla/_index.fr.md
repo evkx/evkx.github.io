@@ -41,7 +41,7 @@ Tesla Cybertruck est une camionnette disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Tesla Model 3 est une berline disponible en 5 variantes.
+Tesla Model 3 est une berline disponible en 6 variantes.
 </p>
 	<a href="model_3/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

@@ -27,10 +27,10 @@ navicon: bi-battery-charging
 <td>Vitesse de charge moyenne 10-80%</td><td>97,0 kW</td>
 </tr>
 <tr>
-<td>Taux C maximum</td><td>3,04</td>
+<td>Taux C maximum</td><td>3,19</td>
 </tr>
 <tr>
-<td>Taux C moyen</td><td>1,41</td>
+<td>Taux C moyen</td><td>1,48</td>
 </tr>
 <tr>
 <td>Zone de chargement optimale</td><td>5% - 43%</td>

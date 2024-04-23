@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Performance
 linktitle: "Model 3 Performance"
-description: "Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 547 km (340 miles). EVKX.net has all the details."
+description: "Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 528 km (328 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,9 +33,9 @@ The Tesla Model 3 Performance has a maximum power of 393 KW (534 hp/527 bhp). Th
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 75kWh, meaning you have a 7kWh buffer for protection. (8.5%).
+The battery has a gross capacity of 78,1kWh and a net capacity of 75kWh, meaning you have a 3,1kWh buffer for protection. (4.0%).
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 547 km (340 mi). The consumption is 13.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 528 km (328 mi). The consumption is 14.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 43%, resulting in an actual charge speed, including time loss, of 119kW. Each charge session would take 14 minutes and 23 seconds.
 
@@ -44,10 +44,6 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 ### Onboard charger
 
 For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 6 hours and 49 minutes.
-
-
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/charging_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
-
 
 ### Charge port
 
@@ -85,7 +81,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted.
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_st.jpg" title="Tesla Model 3 Performance" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -113,7 +109,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
 
 ### Second-row seat
@@ -121,10 +117,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
-
-
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/secondrowseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 There is only one type of steering wheel available.
@@ -155,7 +147,7 @@ The Tesla Model 3 Performance has a single screen for the driver. The dashboardâ
 The model does not have a head-up display.
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_2_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 ## Infotainment
@@ -168,6 +160,10 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 The standard headlights use LED technology.
+
+
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+
 ## Advanced driver assistance systems
 
 The Tesla Model 3 Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -226,7 +222,7 @@ The cargo capacity in the trunk is 561 liters. With the rear seat down, it is 12
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
 ### Availability & Pricing
 
-This model had a world premiere on 01.04.2016, and deliveries started in July 2017. This models has now been discontined.<div class="mt-3 mb-3">
+This model had a world premiere on 23.04.2024, and deliveries started in May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-452211c4
+  translation: Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 528 km (328 miles). EVKX.net has all the details.
+
 - id: frontpage-description-323bc4c4
   translation: Alfa Romeo Junior is an all-electric crossover with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-a9a53827
   translation: Maserati Grecale Folgore is an all-electric luxury SUV with a WLTP range of up to 501 km (311 miles). EVKX.net has all the details.
-
-- id: frontpage-description-7a20372a
-  translation: Chevrolet Silverado EV SRT is an all-electric Pickup Truck with a EPA range of up to 708 km (440 miles). EVKX.net has all the details.
 

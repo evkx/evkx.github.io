@@ -1,7 +1,7 @@
 ---
 title: Tesla Model 3 Performance
 linktitle: "Model 3 Performance"
-description: "Tesla Model 3 Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 547 km. EVKX.net har alle detaljene."
+description: "Tesla Model 3 Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 528 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,9 +33,9 @@ Tesla Model 3 Performance har en maksimal effekt på 393 KW (534hk). Totalt drei
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 7kWh-buffer for beskyttelse. (8,5%).
+Batteriet har en bruttokapasitet på 78,1kWh og en nettokapasitet på 75kWh, noe som betyr at du har et 3,1kWh-buffer for beskyttelse. (4,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 547 km. Forbruket er 13,7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 528 km. Forbruket er 14,2kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 68 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 119kW. Hver ladeøkt vil ta 14 minutter og 23 sekunder.
 
@@ -44,10 +44,6 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 ### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 6 timer og 49 minutter.
-
-
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/charging_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
-
 
 ### Ladeport
 
@@ -85,7 +81,7 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 Rutene fra B-stolpen og baksiden er tonet.
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_st.jpg" title="Tesla Model 3 Performance" width="3000" height="1687"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -113,7 +109,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
 
 ### Seter på andre rad
@@ -121,10 +117,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
-
-
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/secondrowseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 Det er bare én type ratt tilgjengelig.
@@ -155,7 +147,7 @@ Tesla Model 3 Performance har en enkelt skjerm. Dashboardsenteret har en enkelt 
 Modellen er ikke tilgjengelig med head-up display.
 
 
-{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_2_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 
 ## Infotainment
@@ -168,6 +160,10 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+
 ## Avanserte førerassistentsystemer
 
 Tesla Model 3 Performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
@@ -226,7 +222,7 @@ Lastkapasiteten i bagasjerommet er 561 liter. Med baksetet nede er det 1234 lite
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 01.04.2016, og leveringene startet i July 2017. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 23.04.2024, og leveringene startet i May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>
