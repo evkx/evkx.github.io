@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-45c91258
+  translation: Mercedes-EQ G580 EQ es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 473 km (294 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-452211c4
   translation: Tesla Model 3 Performance es un sedán totalmente eléctrico con un WLTP alcance de hasta 528 km (328 millas). EVKX.net tiene todos los detalles.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b3f065d3
   translation: XPENG G6 RWD Standard Range es un SUV totalmente eléctrico con una autonomía WLTP de hasta 435 km (270 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-a9a53827
-  translation: Maserati Grecale Folgore es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 501 km (311 millas). EVKX.net tiene todos los detalles.
 

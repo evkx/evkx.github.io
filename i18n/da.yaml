@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-45c91258
+  translation: Mercedes-EQ G580 EQ er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 473 km (294 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-452211c4
   translation: Tesla Model 3 Performance er en fuldelektrisk sedan med en WLTP rækkevidde på op til 528 km (328 miles). EVKX.net har alle detaljerne.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b3f065d3
   translation: XPENG G6 RWD Standard Range er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 435 km (270 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-a9a53827
-  translation: Maserati Grecale Folgore er en fuldelektrisk luksus-SUV med en rækkevidde på WLTP på op til 501 km (311 miles). EVKX.net har alle detaljerne.
 

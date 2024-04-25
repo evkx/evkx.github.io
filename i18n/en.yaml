@@ -109,6 +109,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-45c91258
+  translation: Mercedes-EQ G580 EQ is an all-electric luxury SUV with a WLTP range of up to 473 km (294 miles). EVKX.net has all the details.
+
 - id: frontpage-description-452211c4
   translation: Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 528 km (328 miles). EVKX.net has all the details.
 
@@ -153,7 +156,4 @@
 
 - id: frontpage-description-b3f065d3
   translation: XPENG G6 RWD Standard Range is an all-electric SUV with a WLTP range of up to 435 km (270 miles). EVKX.net has all the details.
-
-- id: frontpage-description-a9a53827
-  translation: Maserati Grecale Folgore is an all-electric luxury SUV with a WLTP range of up to 501 km (311 miles). EVKX.net has all the details.
 
