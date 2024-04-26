@@ -57,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Mercedes-EQ G580 EQ har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 181 mm, og maksimum er 206 mm.
+AIRMATIC-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 250 mm.
 
 ### Styring
 
@@ -249,7 +249,7 @@ Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner 
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 645 liter. Med baksetet nede er det 2100 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 3500 kg, og med basisvekten på 3085 kg kan du maksimalt laste 415 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 415 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Lastkapasiteten i bagasjerommet er 555 liter. Med baksetet nede er det 1990 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 3500 kg, og med basisvekten på 3085 kg kan du maksimalt laste 415 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 415 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris

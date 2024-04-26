@@ -57,7 +57,7 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 Mercedes-EQ G580 EQ tiene un sistema de tracción total sostenido por cuatro motores. Uno para cada rueda. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 181 mm y la máxima es 206 mm.
+La suspensión AIRMATIC tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 250 mm.
 
 ### Dirección
 
@@ -249,7 +249,7 @@ Con el sistema DRIVE PILOT  nivel 3, obtienes funciones de automatización de co
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 645 litros. Con el asiento trasero abatido, es de 2100 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). El peso máximo del automóvil es 3500 kg (7716 lbs), y con el peso base de 3085 kg (6801 lbs), puedes cargar como máximo 415 kg (915 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 415kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
+La capacidad de carga en el maletero es de 555 litros. Con el asiento trasero abatido, es de 1990 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). El peso máximo del automóvil es 3500 kg (7716 lbs), y con el peso base de 3085 kg (6801 lbs), puedes cargar como máximo 415 kg (915 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 415kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
 ### Disponibilidad y precios

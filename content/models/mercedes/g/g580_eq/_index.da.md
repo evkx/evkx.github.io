@@ -57,7 +57,7 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 Mercedes-EQ G580 EQ har et firehjulstræksystem understøttet af fire motorer. En til hvert hjul. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 181 mm, og maksimum er 206 mm.
+AIRMATIC-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 250 mm.
 
 ### Styring
 
@@ -249,7 +249,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3500 kg (7716 lbs), og med basisvægten på 3085 kg (6801 lbs), kan du maksimalt laste 415 kg (915 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 415kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 555 liter. Med bagsædet nede er det 1990 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3500 kg (7716 lbs), og med basisvægten på 3085 kg (6801 lbs), kan du maksimalt laste 415 kg (915 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 415kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 ### Tilgængelighed og priser

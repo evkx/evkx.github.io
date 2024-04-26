@@ -57,7 +57,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Mercedes-EQ G580 EQ has an all-wheel drive system supported by four motors. One for each wheel. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 181 mm, and the maximum is 206 mm.
+The AIRMATIC suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 250 mm.
 
 ### Steering
 
@@ -252,7 +252,7 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 645 liters. With the rear seat down, it is 2100 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3500 kg (7716 lbs), and with the base weight of 3085 kg (6801 lbs), you can max load 415 kg (915 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 415kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 555 liters. With the rear seat down, it is 1990 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3500 kg (7716 lbs), and with the base weight of 3085 kg (6801 lbs), you can max load 415 kg (915 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 415kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
 ### Availability & Pricing

@@ -57,7 +57,7 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 Mercedes-EQ G580 EQ dispose d'un système de transmission intégrale pris en charge par quatre moteurs. Un pour chaque roue. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
-La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 181 mm et la garde au sol maximale est de 206 mm.
+La suspension AIRMATIC a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 250 mm.
 
 ### Pilotage
 
@@ -249,7 +249,7 @@ Avec le système DRIVE PILOT  niveau 3, vous bénéficiez de fonctionnalités d'
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 645 litres. Avec la banquette arrière rabattue, elle est de 2100 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Le poids maximum de la voiture est de 3500 kg (7716 lbs), et avec le poids de base de 3085 kg (6801 lbs), vous pouvez charger au maximum 415 kg (915 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 415kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
+La capacité de chargement dans le coffre est de 555 litres. Avec la banquette arrière rabattue, elle est de 1990 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Le poids maximum de la voiture est de 3500 kg (7716 lbs), et avec le poids de base de 3085 kg (6801 lbs), vous pouvez charger au maximum 415 kg (915 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 415kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
 ### Disponibilité et prix

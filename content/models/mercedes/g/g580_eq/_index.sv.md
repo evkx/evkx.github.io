@@ -57,7 +57,7 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Mercedes-EQ G580 EQ har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hjul. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 181 mm, och maximal är 206 mm.
+AIRMATIC-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 250 mm.
 
 ### Styrning
 
@@ -249,7 +249,7 @@ Med DRIVE PILOT  nivå 3-systemet får du fler körautomationsfunktioner än de 
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 645 liter. Med baksätet nedfällt är det 2100 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3500 kg, och med basvikten på 3085 kg kan du lasta maximalt 415 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 415 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Lastkapaciteten i bagageutrymmet är 555 liter. Med baksätet nedfällt är det 1990 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3500 kg, och med basvikten på 3085 kg kan du lasta maximalt 415 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 415 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
