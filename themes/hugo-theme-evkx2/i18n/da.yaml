@@ -11,6 +11,9 @@
 - id: menu-brands
   translation: Mærker og modeller
 
+- id: menu-about
+  translation: Om EVKX.net
+
 # Common Sections
 - id: language
   translation: Sprog
