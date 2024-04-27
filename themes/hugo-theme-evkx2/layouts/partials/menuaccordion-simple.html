@@ -28,7 +28,7 @@
         </li>
         <li class="list-group-item list-group-item-action">
           <a href="{{ with .Site.GetPage `/about/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
-            <i class="bi bi-info-square"></i>{{ T "menu-about"}}
+            <i class="bi bi-lightning-charge me-2"></i>{{ T "menu-about"}}
           </a>
         </li>
         {{- if and (or .IsPage .IsSection) .Site.Params.editURL -}}
@@ -37,7 +37,7 @@
         {{- with $File.Path -}}
         <li class="list-group-item list-group-item-action">
           <a href="{{ $Site.Params.editURL }}{{ replace $File.Dir "\\" "/" }}{{ $File.LogicalName }}" class="text-decoration-none text-white" target="_blank">
-            <i class="bi bi-github"></i> {{T "Edit-this-page"}}
+            <i class="bi bi-github me-2"></i> {{T "Edit-this-page"}}
           </a>
         </li>
         {{- end -}}
