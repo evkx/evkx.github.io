@@ -9,17 +9,10 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>We Drive A 2022 Tesla Model 3 Performance! Here's How Different It Feels From Earlier Versions</h3>
-<p>Out of Spec Reviews: 23.04.2022</p>
+<h3>NEW 2025 Tesla Model 3 PERFORMANCE Review: Supercar Slayer </h3>
+<p>AutoTrader: 23.04.2024</p>
 
-{{< youtube 6GOSkmiaE_k >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Tesla Model 3 Performance 2021 review: see how quick it is 0-60mph... And easy to drift!</h3>
-<p>carwow: 29.01.2021</p>
-
-{{< youtube PtxMYGxQ9Zc >}}
+{{< youtube SsI8i1nfahs >}}
 
 </div>
 <div class="mt-3 mb-3">

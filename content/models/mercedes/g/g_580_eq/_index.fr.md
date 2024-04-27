@@ -77,7 +77,7 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
-Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
+Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. exterior.roof.optional.panoramic.OnlyFrontOpen.ManualCurtain
 
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/exterior_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
