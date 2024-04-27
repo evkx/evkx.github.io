@@ -16,6 +16,27 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme 1000 km challenge</h3>
+<p>Bjørn Nyland: 26.04.2024</p>
+
+{{< youtube 7sZdPpSR-G0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme interior review</h3>
+<p>Bjørn Nyland: 25.04.2024</p>
+
+{{< youtube IQakoyMu1I4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme 90-10 % acceleration test</h3>
+<p>Bjørn Nyland: 25.04.2024</p>
+
+{{< youtube eMDeQbANKaM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Fisker Ocean Extreme range test</h3>
 <p>Bjørn Nyland: 24.04.2024</p>
 
