@@ -15,6 +15,13 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 {{< youtube SsI8i1nfahs >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: New Tesla Model 3 Performance – Over 500bhp For £59k!</h3>
+<p>Top Gear: 23.04.2024</p>
+
+{{< youtube Srx6VvuKU7c >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galerie  </strong>

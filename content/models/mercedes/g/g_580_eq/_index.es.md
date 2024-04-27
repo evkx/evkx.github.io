@@ -71,7 +71,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+Puedes elegir entre 19 colores de pintura diferentes al pedir este modelo.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 18 a 20 pulgadas.

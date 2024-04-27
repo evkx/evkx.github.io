@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model 3 Perf
 				Popeffekt
 			</td>
 			<td>
-				375 KW (510 hk /503 hk)
+				377 KW (513 hk /506 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model 3 Perf
 				Elektrisk momentudgang
 			</td>
 			<td>
-				741 nm (547 ft-lb)
+				660 nm (487 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model 3 Perf
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3 s
+				3,4 s
 			</td>
 		</tr>
 	</tbody>

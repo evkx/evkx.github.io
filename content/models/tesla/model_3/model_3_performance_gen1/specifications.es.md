@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Tesla Model 3 Perf
 				Potencia máxima
 			</td>
 			<td>
-				375 KW (510 hp /503 bhp)
+				377 KW (513 hp /506 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Tesla Model 3 Perf
 				Salida de par eléctrico
 			</td>
 			<td>
-				741 nm (547 pies-libra)
+				660 nm (487 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Tesla Model 3 Perf
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3 s
+				3,4 s
 			</td>
 		</tr>
 	</tbody>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Perfor
 				Peak power
 			</td>
 			<td>
-				375 KW (510 hp /503 bhp)
+				377 KW (513 hp /506 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Perfor
 				Electrical torque output
 			</td>
 			<td>
-				741 nm (547 ft-lb)
+				660 nm (487 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 Perfor
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3 s
+				3,4 s
 			</td>
 		</tr>
 	</tbody>

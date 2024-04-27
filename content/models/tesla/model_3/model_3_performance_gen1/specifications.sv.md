@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model 3 Performa
 				Max effekt
 			</td>
 			<td>
-				375 KW (510 hk)
+				377 KW (513 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model 3 Performa
 				Vridmoment
 			</td>
 			<td>
-				741 nm
+				660 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Tesla Model 3 Performa
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3 s
+				3,4 s
 			</td>
 		</tr>
 	</tbody>

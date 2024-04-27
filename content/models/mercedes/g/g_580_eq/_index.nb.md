@@ -71,7 +71,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
+Du kan velge mellom 19 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 I tillegg kan du velge mellom 4 hjul med størrelser fra 18 til 20 tommer.

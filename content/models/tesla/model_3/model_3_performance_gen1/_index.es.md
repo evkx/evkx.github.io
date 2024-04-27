@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model 3 Performance (GEN1) en secciones. 
 
 ## Rendimiento
 
-El Tesla Model 3 Performance (GEN1) tiene una potencia máxima de 375 KW (510 hp/503 bhp). El par total es 741 nm (547 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3 segundos. La velocidad máxima es 261 km/h.
+El Tesla Model 3 Performance (GEN1) tiene una potencia máxima de 377 KW (513 hp/506 bhp). El par total es 660 nm (487 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,4 segundos. La velocidad máxima es 261 km/h.
 
 ## Batería, autonomía y carga
 

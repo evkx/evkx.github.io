@@ -71,7 +71,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 9 couleurs de peinture différentes lors de la commande de ce modèle.
+Vous pouvez choisir entre 19 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 18 à 20 pouces.
