@@ -122,21 +122,6 @@ Mercedes EQS SUV is a luxury SUV available in 6 variants.
 		</div>
 	</div>
 </div>
-    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-        <h3>Mercedes G</h3>
-        <div class="row">
-            <div class="col col-12 col-md-6">
-                <a href="g">
-                    <img src="https://media.evkx.net/multimedia/models/mercedes/g/g580_eq/main_1_st.jpg" class="img-fluid" alt="Mercedes G" >
-                </a>
-            </div>
-            <div class="col col-12 col-md-6"><p>
-Mercedes G is a luxury SUV available in 1 variants.
-</p>
-	<a href="g/" class="btn btn-outline-primary" role="button">Go to model info</a>
-		</div>
-	</div>
-</div>
         </div>
     </div>
 </div></div>

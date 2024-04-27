@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Cybertruck: InsideEVs 70 MPH Range Test</h3>
+<p>InsideEvs: 26.04.2024</p>
+
+{{< youtube Th4VczCq338 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>People Say the Tesla Cybertruck Just CAN'T Tow. They're WRONG, But...</h3>
 <p>The Fast Lane Truck: 04.02.2024</p>
 

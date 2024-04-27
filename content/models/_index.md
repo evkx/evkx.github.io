@@ -520,7 +520,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Mercedes-Benz,commonly referred to as Mercedes and sometimes as Benz, is a German luxury and commercial vehicle automotive brand established in 1926. By 2022, Mercedes-Benz will have battery electric vehicles (BEV) in all segments the company serves. 
 	</p>
 	<p>
-	Mercedes has 8 models with total 31 variants.
+	Mercedes has 7 models with total 30 variants.
 	</p>
 	<a href="mercedes/" class="btn btn-outline-primary" role="button">Go to Mercedes EV-model overview</a>
 </div>
