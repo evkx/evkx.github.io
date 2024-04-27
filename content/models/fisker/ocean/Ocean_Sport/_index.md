@@ -39,7 +39,7 @@ The [WLTP range](../../../../guides/understandingrange/wltp/) is 464 km (288 mi)
 
 The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 30 minutes and 40 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 10 hours and 18 minutes. This trip will require four charge session(s) charging from 2% to 63%. The total time lost for charging up the battery will be 119 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 29kWh/100km, 1000km will take 10 hours and 53 minutes. This trip will require five charge session(s) charging from 1% to 64%. The total time lost for charging up the battery will be 154 minutes.
 
 ### Onboard charger
 
@@ -157,7 +157,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The standard headlights use LED technology.
 ## Advanced driver assistance systems
 
 The Fisker Ocean Sport has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

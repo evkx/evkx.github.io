@@ -37,9 +37,9 @@ La batería tiene una capacidad bruta de 113kWh y una capacidad neta de 106,5kWh
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 707 a 701 km (439-436 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,1kWh/100 km para la versión básica y 15,2kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 170kW. Una carga completa del 0 al 100 % tardaría 72 minutos, mientras que un escenario más común del 10 al 80 % tardaría 33 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 57%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 126kW. Cada sesión de carga tardaría 28 minutos y 49 segundos.
+La velocidad máxima de carga de CC es 170kW. Una carga completa del 0 al 100 % tardaría 77 minutos, mientras que un escenario más común del 10 al 80 % tardaría 38 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 46%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 115kW. Cada sesión de carga tardaría 24 minutos y 22 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 24kWh/100 km, 1000 km tomarán 9 horas y 24 minutos. Este viaje requerirá dos sesiones de carga del 2 % al 65 %. El tiempo total perdido para cargar la batería será de 64 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 29kWh/100 km, 1000 km tomarán 9 horas y 56 minutos. Este viaje requerirá tres sesiones de carga del 2 % al 60 %. El tiempo total perdido para cargar la batería será de 96 minutos.
 
 ### Cargador a bordo
 
@@ -172,7 +172,7 @@ Además, con el sistema de navegación para automóvil estándar, obtienes la ay
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 ## Luces
 
-Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
+Los faros estándar utilizan tecnología LED.
 ## Sistemas avanzados de asistencia al conductor
 
 El Fisker Ocean Extreme tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

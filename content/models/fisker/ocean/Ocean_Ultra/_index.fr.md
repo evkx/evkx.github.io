@@ -37,9 +37,9 @@ La batterie a une capacité brute de 113kWh et une capacité nette de 106,5kWh, 
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 690 km (429 mi). La consommation est de 15,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
-La vitesse de charge DC maximale est de 170kW. Une charge complète de 0 à 100 % prendrait 72 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 33 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 57 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 126kW. Chaque session de charge prendrait 28 minutes et 49 secondes.
+La vitesse de charge DC maximale est de 170kW. Une charge complète de 0 à 100 % prendrait 77 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 38 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 46 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 115kW. Chaque session de charge prendrait 24 minutes et 22 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 24kWh/100 km, 1 000 km prendront 9 heures et 24 minutes. Ce trajet nécessitera deux sessions de charge de 2 % à 65 %. Le temps total perdu pour charger la batterie sera de 64 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 29kWh/100 km, 1 000 km prendront 9 heures et 56 minutes. Ce trajet nécessitera trois sessions de charge de 2 % à 60 %. Le temps total perdu pour charger la batterie sera de 96 minutes.
 
 ### Chargeur embarqué
 
@@ -156,7 +156,7 @@ De plus, avec le système de navigation embarqué standard, vous obtenez l'aide 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 ## Lumières
 
-Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
+Les phares standards utilisent la technologie LED.
 ## Systèmes avancés d'aide à la conduite
 
 Le Fisker Ocean Ultra dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.

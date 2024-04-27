@@ -338,7 +338,15 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Coefficient de traînée
 			</td>
 			<td>
-				0,288
+				0,44
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Zone frontale
+			</td>
+			<td>
+				3,217
 			</td>
 		</tr>
 		<tr>

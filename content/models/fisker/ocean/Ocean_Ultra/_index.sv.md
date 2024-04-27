@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 113kWh och en nettokapacitet på 106,5kWh, 
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 690 km. Förbrukningen är 15,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 72 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 57%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 126kW. Varje laddningssession tar 28 minuter och 49 sekunder.
+Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 38 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 115kW. Varje laddningssession tar 24 minuter och 22 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 9 timmar och 24 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 2% till 65%. Total tid som går förlorad för att ladda batteriet kommer att vara 64 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 29kWh/100km, tar 1000km 9 timmar och 56 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 2% till 60%. Total tid som går förlorad för att ladda batteriet kommer att vara 96 minuter.
 
 ### Inbyggd laddare
 
@@ -156,7 +156,7 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 ## Ljus
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+Standardlamporna använder LED-teknik.
 ## Avancerade förarassistanssystem
 
 Fisker Ocean Ultra har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

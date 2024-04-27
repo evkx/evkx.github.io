@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 113kWh og en nettokapacitet på 106,5kWh, h
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 707 til 701 km (439-436 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,1kWh/100 km for basisversionen og 15,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 170kW. En fuld opladning fra 0 - 100 % ville tage 72 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 126kW. Hver opladningssession ville tage 28 minutter og 49 sekunder.
+Den maksimale DC-opladningshastighed er 170kW. En fuld opladning fra 0 - 100 % ville tage 77 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 46%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 115kW. Hver opladningssession ville tage 24 minutter og 22 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24kWh/100 km, vil 1000 km tage 9 timer og 24 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 2 % til 65%. Den samlede tid, der går tabt for at oplade batteriet, vil være 64 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 29kWh/100 km, vil 1000 km tage 9 timer og 56 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 2 % til 60%. Den samlede tid, der går tabt for at oplade batteriet, vil være 96 minutter.
 
 ### Indbygget oplader
 
@@ -172,7 +172,7 @@ Derudover får du med standard navigationssystemet i bilen den hjælp, du har br
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 ## Lys
 
-Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
+Standardlygterne bruger LED-teknologi.
 ## Avancerede førerassistentsystemer
 
 Fisker Ocean Extreme har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.

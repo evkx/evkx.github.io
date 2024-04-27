@@ -9,6 +9,34 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme 1000 km challenge</h3>
+<p>Bjørn Nyland: 26.04.2024</p>
+
+{{< youtube 7sZdPpSR-G0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme range test</h3>
+<p>Bjørn Nyland: 24.04.2024</p>
+
+{{< youtube KHvQcN-ceJ4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme headlights test</h3>
+<p>Bjørn Nyland: 23.04.2024</p>
+
+{{< youtube RFeM2TTajEc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme banana box test</h3>
+<p>Bjørn Nyland: 22.04.2024</p>
+
+{{< youtube OdcWfIjzZgs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>New Fisker Ocean review: SO many cool features!</h3>
 <p>carwow: 20.02.2024</p>
 

@@ -39,7 +39,7 @@ Batteriet har en bruttokapasitet på 73kWh og en nettokapasitet på 70kWh, noe s
 
 Maksimal DC-ladehastighet er 125 kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 86kW. Hver ladeøkt vil ta 30 minutter og 40 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 10 timer og 18 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 2% til 63%. Totalt tapt tid for å lade opp batteriet vil være 119 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 29kWh/100km, vil 1000km ta 10 timer og 53 minutter. Denne turen vil kreve fem ladeøkt(er) lading fra 1% til 64%. Totalt tapt tid for å lade opp batteriet vil være 154 minutter.
 
 ### Ombordlader
 
@@ -157,7 +157,7 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 ## Lys
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+Standardlyktene bruker LED-teknologi.
 ## Avanserte førerassistentsystemer
 
 Fisker Ocean Sport har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

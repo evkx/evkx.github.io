@@ -39,7 +39,7 @@ El [rango WLTP](../../../../guides/understandingrange/wltp/) es 464 km (288 mi).
 
 La velocidad máxima de carga de CC es 125kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 86kW. Cada sesión de carga tardaría 30 minutos y 40 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 24kWh/100 km, 1000 km tomarán 10 horas y 18 minutos. Este viaje requerirá cuatro sesiones de carga del 2 % al 63 %. El tiempo total perdido para cargar la batería será de 119 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 29kWh/100 km, 1000 km tomarán 10 horas y 53 minutos. Este viaje requerirá cinco sesiones de carga del 1 % al 64 %. El tiempo total perdido para cargar la batería será de 154 minutos.
 
 ### Cargador a bordo
 
@@ -157,7 +157,7 @@ Además, con el sistema de navegación para automóvil estándar, obtienes la ay
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 ## Luces
 
-Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
+Los faros estándar utilizan tecnología LED.
 ## Sistemas avanzados de asistencia al conductor
 
 El Fisker Ocean Sport tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

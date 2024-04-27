@@ -39,7 +39,7 @@ La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 464 km (288 
 
 La vitesse de charge DC maximale est de 125kW. Une charge complète de 0 à 100 % prendrait 59 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 63 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 86kW. Chaque session de charge prendrait 30 minutes et 40 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 24kWh/100 km, 1 000 km prendront 10 heures et 18 minutes. Ce trajet nécessitera quatre sessions de charge de 2 % à 63 %. Le temps total perdu pour charger la batterie sera de 119 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 29kWh/100 km, 1 000 km prendront 10 heures et 53 minutes. Ce trajet nécessitera cinq sessions de charge de 1 % à 64 %. Le temps total perdu pour charger la batterie sera de 154 minutes.
 
 ### Chargeur embarqué
 
@@ -157,7 +157,7 @@ De plus, avec le système de navigation embarqué standard, vous obtenez l'aide 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 ## Lumières
 
-Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
+Les phares standards utilisent la technologie LED.
 ## Systèmes avancés d'aide à la conduite
 
 Le Fisker Ocean Sport dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.

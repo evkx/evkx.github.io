@@ -338,7 +338,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Coeficiente de arrastre
 			</td>
 			<td>
-				0,288
+				0,44
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Área frontal
+			</td>
+			<td>
+				3,217
 			</td>
 		</tr>
 		<tr>

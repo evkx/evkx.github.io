@@ -37,9 +37,9 @@ Batteriet har en bruttokapasitet på 113kWh og en nettokapasitet på 106,5kWh, n
 
 [WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 707 til 701 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15,1kWh/100 km for basisversjonen og 15,2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 72 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 126kW. Hver ladeøkt vil ta 28 minutter og 49 sekunder.
+Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 77 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 115kW. Hver ladeøkt vil ta 24 minutter og 22 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 9 timer og 24 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 2% til 65%. Totalt tapt tid for å lade opp batteriet vil være 64 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 29kWh/100km, vil 1000km ta 9 timer og 56 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 2% til 60%. Totalt tapt tid for å lade opp batteriet vil være 96 minutter.
 
 ### Ombordlader
 
@@ -172,7 +172,7 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 ## Lys
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+Standardlyktene bruker LED-teknologi.
 ## Avanserte førerassistentsystemer
 
 Fisker Ocean Extreme har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
