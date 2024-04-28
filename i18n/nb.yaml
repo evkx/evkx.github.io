@@ -10,6 +10,9 @@
 - id: menu-brands
   translation: Merker & Modeller
 
+- id: menu-about
+  translation: Om EVKX.net
+
 - id: language
   translation: Språk
 

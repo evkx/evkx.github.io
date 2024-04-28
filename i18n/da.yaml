@@ -10,6 +10,9 @@
 - id: menu-brands
   translation: Mærker og modeller
 
+- id: menu-about
+  translation: Om EVKX.net
+
 - id: language
   translation: Sprog
 

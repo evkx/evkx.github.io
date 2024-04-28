@@ -10,6 +10,9 @@
 - id: menu-brands
   translation: Marques et modèles
 
+- id: menu-about
+  translation: à propos de EVKX.net
+
 - id: language
   translation: Langue
 

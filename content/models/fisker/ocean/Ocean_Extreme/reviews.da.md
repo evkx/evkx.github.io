@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme driving impressions and summary</h3>
+<p>Bjørn Nyland: 28.04.2024</p>
+
+{{< youtube YxwbCJsbfmo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I drove Fisker Ocean Extreme until the battery died</h3>
+<p>Bjørn Nyland: 27.04.2024</p>
+
+{{< youtube MqpCZ53LxXY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fisker Ocean Extreme charging test vs BMW, Audi and Kia</h3>
+<p>Bjørn Nyland: 27.04.2024</p>
+
+{{< youtube ygG4EozwmNU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Fisker Ocean Extreme 1000 km challenge</h3>
 <p>Bjørn Nyland: 26.04.2024</p>
 

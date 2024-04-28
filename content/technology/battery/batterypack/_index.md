@@ -8,15 +8,16 @@ weight: 4
 ## Battery Configuration
 
 In an electric vehicle (EV), the battery configuration refers to the arrangement of individual battery cells within the battery pack. The battery configuration can affect the voltage, capacity, power output, and other aspects of the battery pack and the overall vehicle performance.
+The most common configuration for EV batteries is a series-parallel hybrid. In this configuration, multiple cells are connected in series to increase the battery pack's voltage, and multiple groups of series-connected cells are then connected in parallel to increase the battery pack's overall capacity.
 
-The most common configuration for EV batteries is a series-parallel hybrid configuration. In this configuration, multiple cells are connected in series to increase the voltage of the battery pack, and multiple groups of series-connected cells are then connected in parallel to increase the overall capacity of the battery pack.
+The series connection of cells increases the battery pack's voltage output, vital for providing the necessary power to drive the vehicle. The parallel connection of cell groups increases the battery pack's capacity, essential for storing the energy required to drive the car to a desired range.
 
-The series connection of cells increases the voltage output of the battery pack, which is important for providing the necessary power output to drive the vehicle.  The parallel connection of cell groups increases the battery pack's capacity, which is essential for storing the energy required to drive the car to a desired range.
+To calculate the gross battery pack size, multiply the total parallel capacity in Ah (ampere-hours) by the battery pack nominal voltage in Volts. The results are in WH watt-hours.
 
 
 ### Example Audi Q8 e-tron 55
 
-The diagram below shows the configuration of a battery module from Audi Q8 e-tron 55. This module contains 12 battery cells, four of which are mounted in parallel, and there are three groups of this parallel configuration in serial. 
+The diagram below shows the configuration of a battery module from Audi Q8 e-tron 55. This module contains 12 battery cells, four of which are mounted in parallel, and there are three groups of this parallel configuration in serial.
 
 <figure>
 <img src="configuration1.drawio.svg" class="img-fluid mx-auto d-block">
@@ -29,54 +30,38 @@ The diagram below shows the configuration of a battery module from Audi Q8 e-tro
 
 Each cell has a nominal voltage of 3.6667 volts and a capacity of 72 AH.
 
-Three cells in serial give a module voltage of 11 Volt. 4 x 72AH in paralell gives a total module capacity of 72 x 4 = 288 AH. Q8 e-tron 55 has a total of 36 modules in serial. 36 x 11 volts gives 396 volts for the pack. 396 x 288 = 114 kWh gross capacity.
+Three cells in serial give a module voltage of 11 Volt. 4 x 72AH in paralell gives a total module capacity of 72 x 4 = 288 AH. Q8 e-tron 55 has a total of 36 modules in serial. 36 x 11 volts gives 396 volts for the pack. 396 Volts x 288 aH = 114048 Wh or 114 kWh gross capacity.
 
-The specific battery configuration used in an EV depends on a variety of factors, such as the desired range, power output, and overall vehicle weight.
 
-{{<evkxdisplayaddarticle />}}
+### Example Tesla Model Y Long Range
 
-### 400 or 800 volts?
+The Tesla Model Y Long Range uses 4416 cells in the small 21700 format, with 96 rows and 46 cells in parallel.
 
-Manufacturers typically configure the packs to be around 400 volts or 800 volts.
+Each cell is 4.8 Ah with a nominal voltage of 3.7 Volt. 4.8ah x 46 gives a total of 220.8 ah. 96 x 3.7 Volt gives a nominal pack voltage of 355 volts. This configuration provides a gross capacity of 355 * 220.8 = 78.4kWh.
 
-A higher voltage battery configuration, such as an 800-volt system, can offer some advantages over a lower voltage 400-volt system but also has potential drawbacks. Here are some of the pros and cons of each configuration:
 
-#### Pros 400 Volt package
+### Example: Kia EV 6 Long-range
 
-**More mature technology:** 400-volt battery systems have been around longer and are more widely used in electric vehicles, which means they are more proven and reliable.
+The Kia EV6 long-range battery has 384 cells in total. The cells are configured in 192 rows, with two cells in parallel, and are structured in modules with 12 cells.
 
-**Lower cost:** Because they are a more established technology, 400-volt battery systems tend to be less expensive to produce than higher voltage systems.
 
-**Widely available charging infrastructure:** There are many public charging stations that support 400-volt charging, making it easier to find places to charge your EV.
+<figure>
+<img src="configuration3.drawio.svg" class="img-fluid mx-auto d-block">
+<figcaption>
+        <p class="lead text-center fw-semibold">
+            6s2p module
+        </p>
+    </figcaption>
+</figure>
 
-**More available cell configurations**  400 Volt packs can be configured in more ways giving the manufactor more cell options.
 
-#### Cons 400 Volt package
+Each cell is 55.6 AH.  2 x 55.6 = 111.2 AH. The nominal voltage is 3.63 per cell. 192 x 3.63 = 696.96 Volts nominal for the pack. 696.96 * 111.2 = 77.5kWh.
 
-Slower charging: A 400-volt battery system typically requires longer charging times than an 800-volt system, which can be a disadvantage if you need to charge your vehicle quickly.
 
-**Limited power output:** 400-volt battery systems may not be able to deliver the same level of power output as an 800-volt system, which could limit the acceleration and performance of the EV.
-
-**Heavier:** A 400-volt battery system may require thicker cables to support same charging speed. 
-
-#### Pros 800 Volt package
-
-Faster charging: An 800-volt battery system can support faster charging times than a 400-volt system, which means you can charge your EV more quickly.
-
-**Higher power output:** An 800-volt battery system can deliver more power output, which can provide better acceleration and performance, but in reality the most powersfull evs are 400 Volt. So this is not a real benefit.
-
-**Lighter weight:** An 800-volt battery system may require thinner cables to support high speed charging.
-
-#### Cons 800 Volt package:
-
-**Limited charging infrastructure**: Fewer public charging stations currently support 800-volt charging, which means it may be harder to find places to charge your EV at full speed. 
-
-For example, the largest charging network,  the Tesla Supercharger network, charges at a maximum of 500 Volts. Charging an 800-volt car on these chargers requires that the EV converts the charger voltage to 800 volts, and conversion typically
-limits the charging speed substantially. The manufacturers use Different techniques for this conversion. See the charging chapter for details.  
-
+### More battery pack examples 
 Here are some configuration examples
 
-<table class="table table-striped ">
+<table class="table table-striped border">
     <thead>
         <tr>
         <th>Model
@@ -142,26 +127,90 @@ Here are some configuration examples
         <td>108s72p</td>
         <td>390 Volt</td>
     </tr>
+      <tr>
+        <td>Porsche Macan / Audi Q6</a></td>
+        <td>100kWh</td>
+        <td>180s1p</td>
+        <td>662 Volt</td>
+    </tr>
 </tbody>
 </table>
+
+
+The specific battery configuration used in an EV depends on a variety of factors, such as the desired range, power output, and overall vehicle weight.
+
+{{<evkxdisplayaddarticle />}}
+
+### 400 or 800 volts?
+
+Manufacturers typically configure the packs to be around 400 volts or 800 volts.
+
+A higher voltage battery configuration, such as an 800-volt system, can offer some advantages over a lower voltage 400-volt system but also has potential drawbacks. Here are some of the pros and cons of each configuration:
+
+#### Pros 400 Volt package
+
+**More mature technology:** 400-volt battery systems have been around longer and are more widely used in electric vehicles, which means they are more proven and reliable.
+
+**Lower cost:** Because they are a more established technology, 400-volt battery systems tend to be less expensive to produce than higher-voltage systems.
+
+**Widely available charging infrastructure:** Many public charging stations support 400-volt charging, making it easier to find places to charge your EV. For example, the Tesla Supercharger network does not support 800 Volts charging.
+
+**More available cell configurations:** 400 Volt packs can be configured in more ways, giving the manufacturer more cell options.
+
+#### Cons 400 Volt package
+
+**Slower charging:** A 400-volt battery system typically requires longer charging times than an 800-volt system, which can be a disadvantage if you need to charge your vehicle quickly. This limitation is because chargers have limitations on current. Many chargers are limited to 500 amps. 500 amps x 400 volts = 200kW. On an 800-volt charger with the same current limitations, the result would be 500 Amps x 800 Volts = 400kW charging power.
+
+**Limited power output:** 400-volt battery systems may not be able to deliver the same power output as an 800-volt system, which could limit the EV’s acceleration and performance. This limitation does not seem to be an issue with current models.
+
+**Heavier:** A 400-volt battery system may require thicker cables to support the same charging speed.
+
+#### Pros 800 Volt package
+
+**Faster charging:** An 800-volt battery system can support faster charging speed than a 400-volt system so you spend less time charging.
+
+**Higher power output:** An 800-volt battery system can deliver more power output, which can provide better acceleration and performance, but in reality, the most powerful batteries are 400 Volts, so this is not a real benefit.
+
+**Lighter weight:** An 800-volt battery system may require thinner cables to support high-speed charging.
+
+#### Cons 800 Volt package:
+
+**Limited charging infrastructure**: Fewer public charging stations currently support 800-volt charging, which means it may be harder to find places to charge your EV at full speed. 
+
+For example, the largest charging network,  the Tesla Supercharger network, charges at a maximum of 500 Volts. Charging an 800-volt car on these chargers requires that the EV converts the charger voltage to 800 volts, and conversion typically
+limits the charging speed substantially. The manufacturers use Different techniques for this conversion. See the charging chapter for details.  
+
+**Requires smaller cells**: Since you would at least need around 170 cells in serial to create an “800 volts” package, this prevents the usage of the largest cells. Larger cells give higher density and less wiring.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Battery pack designs
 
+There are some standard designs used to build the battery pack. 
+
 ## Cell-to-module
 
-Cell-to-module (C2M) is a technology used in electric vehicle (EV) battery packs that allows for a more modular and scalable design compared to traditional battery pack designs.
+Cell-to-module (C2M) design involves assembling multiple battery cells into a single, self-contained module with integrated electronics and cooling systems. The modules can then be easily connected to form the complete battery pack. 
 
-In a traditional EV battery pack, individual battery cells are connected to form a module, and multiple modules are then connected in series and/or parallel to form the complete battery pack. This can be complex and expensive, especially in large battery packs, and may require extensive wiring and cooling systems to ensure even charging and discharging of the cells.
+Each module has its own BMS (battery management system) that monitors and controls the charging and discharging of the cells within the module, allowing for more precise control and monitoring of the individual cells.
 
-{{< sitefiguresized thumb="technology/battery/batterypack/module_lg_pouch_st.jpg" width="3000" height="1790" title="LG battery module" >}}
+{{< sitefiguresized thumb="technology/battery/batterypack/module_q6_1_st.jpg" width="3000" height="1783" title="Audi Q6 e-tron battery module with 15 prismatic cells" >}}
 
 With C2M technology, multiple battery cells are assembled into a single, self-contained module with integrated electronics and cooling systems. The modules can then be easily connected together to form the complete battery pack. Each module has its own BMS (battery management system) that monitors and controls the charging and discharging of the cells within the module, allowing for more precise control and monitoring of the individual cells.
 
-C2M technology has several advantages over traditional battery pack designs. It can simplify the overall design of the battery pack, reduce wiring and cooling requirements, and allow for greater flexibility in the overall pack design. It can also improve the overall reliability of the pack, since each module is self-contained and faults can be detected and isolated more quickly.
+{{< sitefiguresized thumb="technology/battery/batterypack/q6pack_1_st.jpg" width="3000" height="1924" title="Audi Q6 e-tron battery pack with 12 modules" >}}
 
-{{< sitefiguresized thumb="technology/battery/batterypack/batterypack_e-tron-gt_st.jpg" width="3000" height="2062" title="Battery pack with 33 modules" >}}
+### Cell-to-Module (CtM) Advantages:
+
+**Modularity:** CtM designs allow for individual battery modules to be replaced or serviced independently. If a module fails, it can be swapped out without affecting the entire battery pack.
+
+**Thermal Management:** Modules provide space for thermal management components (such as cooling plates or liquid cooling channels). This helps regulate cell temperature and ensures optimal performance.
+
+**Scalability:** CtM designs allow flexibility in configuring battery packs. Manufacturers can adjust the number of modules to meet different vehicle requirements (e.g., range, power, or size).
+
+**Safety:** Isolating cells within modules enhances safety. If a cell experiences thermal runaway or other issues, it won’t directly impact neighboring cells.
+
+**Manufacturing Efficiency:** Building modules separately simplifies assembly and quality control. It also enables parallel production of modules, streamlining the manufacturing process.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,6 +229,16 @@ BYD Blade and CATL Qilin are two examples of CTP batteries. The main difference 
 BYD Blade uses a liquid cooling system while CATL Qilin uses a structural cooling system. The structural cooling system is more efficient than the liquid cooling system used in BYD Blade.
 
 The benefits of CTP batteries include higher energy density and lower cost compared to cell-to-modules.
+
+
+Cell-to-Pack (CtP) Considerations:
+Simplicity: CtP designs eliminate the need for intermediate modules, reducing complexity. The battery pack directly integrates individual cells.
+Space Utilization: Without modules, more space is available for cells, potentially increasing energy density.
+Cost Efficiency: Fewer components (no modules) can lead to cost savings in production and assembly.
+Weight Reduction: Eliminating module casings reduces overall weight, contributing to better vehicle efficiency.
+Structural Integration: Some CtP designs incorporate cells into the vehicle’s structure, enhancing rigidity and safety.
+
+
 
 ## Structural battery pack
 
@@ -209,7 +268,7 @@ The below video show a detailed analysis of the pack by Munro & Associates.
 
 The following table shows how pack density have varied over time between some example battery packs.
 
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <tr>
             <th>Pack</th>
