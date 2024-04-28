@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-d3459866
+  translation: Audi Q6L e-tron quattro es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 625 km (388 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-45c91258
   translation: Mercedes-EQ G 580 EQ es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 473 km (294 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-142ff3fd
   translation: Volkswagen ID. Buzz GTX es un monovolumen totalmente eléctrico con una autonomía WLTP de hasta 400 km (249 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-b3f065d3
-  translation: XPENG G6 RWD Standard Range es un SUV totalmente eléctrico con una autonomía WLTP de hasta 435 km (270 millas). EVKX.net tiene todos los detalles.
 

@@ -216,7 +216,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 		Audi es un fabricante de automóviles alemán que forma parte del Grupo Volkswagen. Es conocida por sus vehículos premium y deportivos, así como por su lema 'Vorsprung durch Technik', que significa 'Progreso a través de la tecnología'.
 	</p>
 	<p>
-	Audi tiene 5 modelos con un total de 31 variantes.
+	Audi tiene 5 modelos con un total de 32 variantes.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Ir a Audi descripción general del modelo EV</a>
 </div>

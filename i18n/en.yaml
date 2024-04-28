@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-d3459866
+  translation: Audi Q6L e-tron quattro is an all-electric premium SUV with a WLTP range of up to 625 km (388 miles). EVKX.net has all the details.
+
 - id: frontpage-description-45c91258
   translation: Mercedes-EQ G 580 EQ is an all-electric luxury SUV with a WLTP range of up to 473 km (294 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-142ff3fd
   translation: Volkswagen ID. Buzz GTX is an all-electric MPV with a WLTP range of up to 400 km (249 miles). EVKX.net has all the details.
-
-- id: frontpage-description-b3f065d3
-  translation: XPENG G6 RWD Standard Range is an all-electric SUV with a WLTP range of up to 435 km (270 miles). EVKX.net has all the details.
 
