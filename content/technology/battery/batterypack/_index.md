@@ -10,12 +10,12 @@ weight: 4
 In an electric vehicle (EV), the battery configuration refers to the arrangement of individual battery cells within the battery pack. The battery configuration can affect the voltage, capacity, power output, and other aspects of the battery pack and the overall vehicle performance.
 The most common configuration for EV batteries is a series-parallel hybrid. In this configuration, multiple cells are connected in series to increase the battery pack's voltage, and multiple groups of series-connected cells are then connected in parallel to increase the battery pack's overall capacity.
 
-The series connection of cells increases the battery pack's voltage output, vital for providing the necessary power to drive the vehicle. The parallel connection of cell groups increases the battery pack's capacity, essential for storing the energy required to drive the car to a desired range.
+The series connection of cells increases the battery pack’s voltage output, which is vital for providing the necessary power to drive the vehicle. The parallel connection of cell groups increases the battery pack’s capacity, which is essential for storing the energy required to drive the car to a desired range.
 
 To calculate the gross battery pack size, multiply the total parallel capacity in Ah (ampere-hours) by the battery pack nominal voltage in Volts. The results are in WH watt-hours.
 
 
-### Example Audi Q8 e-tron 55
+### Example: Audi Q8 e-tron 55
 
 The diagram below shows the configuration of a battery module from Audi Q8 e-tron 55. This module contains 12 battery cells, four of which are mounted in parallel, and there are three groups of this parallel configuration in serial.
 
@@ -33,7 +33,7 @@ Each cell has a nominal voltage of 3.6667 volts and a capacity of 72 AH.
 Three cells in serial give a module voltage of 11 Volt. 4 x 72AH in paralell gives a total module capacity of 72 x 4 = 288 AH. Q8 e-tron 55 has a total of 36 modules in serial. 36 x 11 volts gives 396 volts for the pack. 396 Volts x 288 aH = 114048 Wh or 114 kWh gross capacity.
 
 
-### Example Tesla Model Y Long Range
+### Example: Tesla Model Y Long Range
 
 The Tesla Model Y Long Range uses 4416 cells in the small 21700 format, with 96 rows and 46 cells in parallel.
 
@@ -218,7 +218,7 @@ With C2M technology, multiple battery cells are assembled into a single, self-co
 
 Cell-to-pack (CTP) batteries are a new type of battery technology that eliminates the need for battery modules by integrating the cells directly into the pack.
 
-This technology is being developed by several companies such as Tesla, BYD and CATL.
+Several companies, such as Tesla, BYD, and CATL, are developing this technology.
 
 {{< sitefiguresized thumb="technology/battery/batterypack/catl_qilin_3_st.jpg" width="2222" height="1032" title="CATL Qilin cell-to-pack battery" >}}
 
@@ -226,41 +226,43 @@ BYD Blade and CATL Qilin are two examples of CTP batteries. The main difference 
 
 {{< sitefiguresized thumb="technology/battery/cell/bladebattery_st.jpg" width="3000" height="1351" title="BYD Blade Battery" >}}
 
-BYD Blade uses a liquid cooling system while CATL Qilin uses a structural cooling system. The structural cooling system is more efficient than the liquid cooling system used in BYD Blade.
-
-The benefits of CTP batteries include higher energy density and lower cost compared to cell-to-modules.
-
-
-Cell-to-Pack (CtP) Considerations:
-Simplicity: CtP designs eliminate the need for intermediate modules, reducing complexity. The battery pack directly integrates individual cells.
-Space Utilization: Without modules, more space is available for cells, potentially increasing energy density.
-Cost Efficiency: Fewer components (no modules) can lead to cost savings in production and assembly.
-Weight Reduction: Eliminating module casings reduces overall weight, contributing to better vehicle efficiency.
-Structural Integration: Some CtP designs incorporate cells into the vehicle’s structure, enhancing rigidity and safety.
+BYD Blade uses a liquid cooling system, while CATL Qilin uses a structural cooling system. The 
+structural cooling system is more efficient than the liquid cooling system used in BYD Blade.
 
 
+### Cell-to-Pack (CtP) Advantages:
+
+**Simplicity:** CtP designs eliminate the need for intermediate modules, reducing complexity. The battery pack directly integrates individual cells.
+
+**Space Utilization:** Without modules, more space is available for cells, potentially increasing energy density.
+
+**Cost Efficiency:** Fewer components (no modules) can lead to cost savings in production and assembly.
+
+**Weight Reduction:** Eliminating module casings reduces overall weight, improving vehicle efficiency.
 
 ## Structural battery pack
 
-A structural battery pack is a type of battery pack that is created a way that the pack iteslf becomes a structural component of the EV.
+A structural battery pack is a type of battery pack created so that it becomes a structural component of the EV.
 
-This approach can reduce the EV weight becaus by removing duplicate structure between the pack and the veichle structure because the battery pack itself becomes a part of the veichle structure.
+This approach can reduce the EV’s weight by removing duplicate structures between the pack and the vehicle structure, as the battery pack becomes part of the vehicle structure.
 
-This can improve the EVs overall performance and efficiency.
+This design can improve the EV’s overall performance and efficiency. Structural battery packs are still relatively new, but several companies and research institutions are exploring and developing them.
 
-Structural battery packs are still a relatively new concept, but they are being explored and developed by a number of companies and research institutions.
+Structural battery packs, a game-changer in EV design, offer many benefits. They trim weight and complexity, boost performance, and facilitate seamless integration of battery technology across various applications.
 
-They have the potential to revolutionize the design of electric vehicles and other devices by reducing weight and complexity, improving performance, and making it easier to integrate battery technology into a wide range of applications.
+Tesla Model Y and Tesla Cybertruck are two models that have structural packs. According to Tesla, this solution presents many advantages, such as significantly reducing the number of parts used in both the battery pack and the car.
 
-Currently it is only Tesla Model Y that have structural packs. According to Tesla, this solution presents many advantages, such as a great reduction in the number of parts used in both the battery pack and the car.
+{{< sitefiguresized thumb="technology/battery/batterypack/teslastructuralbattery_1_st.jpg" width="1585" height="714" title="Tesla 4680 Structural pack compared with a traditional pack" >}}
 
-{{< sitefiguresized thumb="technology/battery/batterypack/teslastructuralbattery_1_st.jpg" width="1585" height="714" title="Tesla 4680 Structural pack compared with traditional pack" >}}
-
-More importantly, the company said the new cells together with the structural pack are expected to increase the Model Y's range by 16 percent and decrease the overall weight of the car by 10 percent, resulting in improved acceleration and handling.
+More importantly, the company said the new cells and the structural pack are expected to increase the Model Y's range by 16 percent and decrease the car's overall weight by 10 percent, resulting in improved acceleration and handling.
 
 {{< sitefiguresized thumb="technology/battery/batterypack/teslastructuralbattery_2_st.jpg" width="1344" height="645" title="Tesla structural pack works as the floor on the EV" >}}
 
-The below video show a detailed analysis of the pack by Munro & Associates.
+Tesla uses pink polyurethane foam to encapsulate and secure the components within the structural battery pack. This foam serves as both an insulator and a structural element, providing rigidity and protection. The foam ensures that the battery cells and other critical components remain securely in place and acts as a firewall between different sections of the battery pack.
+
+This foam is as strong as a brick, contributing to the overall structural integrity of the pack2
+
+The below video shows a detailed analysis of the pack by Munro & Associates.
 
 {{< youtube FXpfU6I_T3w >}}
 
