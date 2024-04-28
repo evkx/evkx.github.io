@@ -316,6 +316,13 @@ The following table shows how pack density have varied over time between some ex
             <td>493kg</td>
             <td>166Wh/kg</td>
         </tr>
+          <tr>
+            <td>Tesla Model 3 LFP</td>
+            <td>2021</td>
+            <td>60kWh</td>
+            <td>477kg</td>
+            <td>126Wh/kg</td>
+        </tr>
          <tr>
             <td>Tesla Model S</td>
             <td>2022</td>
@@ -343,6 +350,13 @@ The following table shows how pack density have varied over time between some ex
             <td>107.8kWh</td>
             <td>495kg</td>
             <td>217Wh/kg</td>
+        </tr>
+        <tr>
+            <td>BYD Seal LR (LFP)</td>
+            <td>2022</td>
+            <td>82.56kWh</td>
+            <td>558kg</td>
+            <td>148Wh/kg</td>
         </tr>
          <tr>
             <td>Nio Semi-Solid</td>
