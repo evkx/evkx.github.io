@@ -43,7 +43,7 @@ Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard prend en charge jusqu'à 11,5 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 8 heures et 52 minutes. Vous pouvez également sélectionner un chargeur intégré en option qui prend en charge une charge jusqu'à 19,2 KW. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en 5 heures et 18 minutes.
+Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11,5 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 8 heures et 52 minutes.
 
 ### Port de recharge
 
@@ -57,7 +57,7 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 Acura ZDX Type S dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
-La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 178 mm.
+La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 178 mm.
 
 ### Freins
 

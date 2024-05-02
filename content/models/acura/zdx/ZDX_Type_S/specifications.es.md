@@ -396,7 +396,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Delantero tipo resorte
 			</td>
 			<td>
-				Resorte helicoidal
+				Air
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Trasero tipo resorte
 			</td>
 			<td>
-				Resorte helicoidal
+				Air
 			</td>
 		</tr>
 		<tr>

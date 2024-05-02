@@ -396,7 +396,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Fjedertype foran
 			</td>
 			<td>
-				Spiralfjeder
+				Air
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Fjedertype bagtil
 			</td>
 			<td>
-				Spiralfjeder
+				Air
 			</td>
 		</tr>
 		<tr>

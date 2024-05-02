@@ -396,7 +396,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avant à ressort
 			</td>
 			<td>
-				Ressort hélicoïdal
+				Air
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type à ressort arrière
 			</td>
 			<td>
-				Ressort hélicoïdal
+				Air
 			</td>
 		</tr>
 		<tr>

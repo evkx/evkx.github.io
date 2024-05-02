@@ -396,7 +396,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type fjæring foran
 			</td>
 			<td>
-				Spiralfjær
+				Air
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type fjæring bak
 			</td>
 			<td>
-				Spiralfjær
+				Air
 			</td>
 		</tr>
 		<tr>

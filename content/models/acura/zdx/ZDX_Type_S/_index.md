@@ -43,7 +43,7 @@ For the theoretical 1000km challenge, starting with a full battery and driving a
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes. You can also select an optional onboard charger that supports up to 19.2 KW charging. As a result, you can charge the battery 0-100% from home in about 5 hours and 18 minutes.
+For level 1 and level 2 AC charging, the  onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 52 minutes.
 
 ### Charge port
 
@@ -57,7 +57,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Acura ZDX Type S has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
+The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
 
 ### Brakes
 

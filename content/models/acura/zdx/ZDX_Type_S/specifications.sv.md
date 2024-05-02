@@ -396,7 +396,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre fjädring
 			</td>
 			<td>
-				Skruvfjäder
+				Air
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre fjädring
 			</td>
 			<td>
-				Skruvfjäder
+				Air
 			</td>
 		</tr>
 		<tr>

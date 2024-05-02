@@ -43,7 +43,7 @@ Para el desafío teórico de 1000 km, comenzando con la batería llena y conduci
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11,5 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 8 horas y 52 minutos. También puedes seleccionar un cargador integrado opcional que admita una carga de hasta 19,2 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 5 horas y 18 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11,5 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 8 horas y 52 minutos.
 
 ### Puerto de carga
 
@@ -57,7 +57,7 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 Acura ZDX Type S tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
+La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
 
 ### Frenos
 

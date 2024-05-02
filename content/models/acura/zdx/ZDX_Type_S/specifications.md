@@ -396,7 +396,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Spring type front</a>
 			</td>
 			<td>
-				Coil Spring
+				Air
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Spring type rear</a>
 			</td>
 			<td>
-				Coil Spring
+				Air
 			</td>
 		</tr>
 		<tr>
