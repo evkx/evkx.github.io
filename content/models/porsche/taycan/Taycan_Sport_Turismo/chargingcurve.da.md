@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskellige batteripakker.
 
-### 79,2 kWh
+### 79,2 kWh Performance Battery
 
 <img src="/images/models/porsche/taycan/taycan_sport_turismo/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
@@ -367,7 +367,7 @@ Porsche Taycan Sport Turismo har batteriopvarmning, hvilket gør opladning ved e
 </tbody>
 </table>
 
-### 93,4 kWh
+### 93,4 kWh Performance Battery Plus
 
 <img src="/images/models/porsche/taycan/taycan_sport_turismo/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 

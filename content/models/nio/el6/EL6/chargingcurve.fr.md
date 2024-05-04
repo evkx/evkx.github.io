@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances des différents packs de batteries.
 
-### 100 kWh
+### 100 kWh 100kWh
 
 <img src="/images/models/nio/el6/el6/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
@@ -364,7 +364,7 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 </tbody>
 </table>
 
-### 75 kWh
+### 75 kWh 75kWh
 
 <img src="/images/models/nio/el6/el6/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 

@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda för de olika batteripaketen.
 
-### 100 kWh
+### 100 kWh 100kWh
 
 <img src="/images/models/nio/el6/el6/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
@@ -364,7 +364,7 @@ Laddningskurvan ovan är under **[optimala förhållanden](../../../../../techno
 </tbody>
 </table>
 
-### 75 kWh
+### 75 kWh 75kWh
 
 <img src="/images/models/nio/el6/el6/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 

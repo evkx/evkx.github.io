@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances des différents packs de batteries.
 
-### 105 kWh
+### 105 kWh Performance Battery Plus
 
 <img src="/images/models/porsche/taycan/taycan/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
@@ -367,7 +367,7 @@ Porsche Taycan dispose d'un chauffage de batterie, ce qui facilite la charge à 
 </tbody>
 </table>
 
-### 89 kWh
+### 89 kWh Performance Battery
 
 <img src="/images/models/porsche/taycan/taycan/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 

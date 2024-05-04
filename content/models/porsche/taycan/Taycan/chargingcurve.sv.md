@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda för de olika batteripaketen.
 
-### 105 kWh
+### 105 kWh Performance Battery Plus
 
 <img src="/images/models/porsche/taycan/taycan/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
@@ -367,7 +367,7 @@ Porsche Taycan har batteriuppvärmning, vilket underlättar laddning vid en opti
 </tbody>
 </table>
 
-### 89 kWh
+### 89 kWh Performance Battery
 
 <img src="/images/models/porsche/taycan/taycan/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 

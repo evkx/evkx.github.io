@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous les performances des différents packs de batteries.
 
-### 100 kWh
+### 100 kWh 100kWh
 
 <img src="/images/models/nio/et5/et5/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
@@ -367,7 +367,7 @@ Nio ET5 dispose d'un chauffage de batterie, ce qui facilite la charge à une tem
 </tbody>
 </table>
 
-### 75 kWh
+### 75 kWh 75kWh
 
 <img src="/images/models/nio/et5/et5/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 

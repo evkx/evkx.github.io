@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda för de olika batteripaketen.
 
-### 100 kWh
+### 100 kWh 100kWh
 
 <img src="/images/models/nio/es8/es8/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
@@ -367,7 +367,7 @@ Nio ES8 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 </tbody>
 </table>
 
-### 75 kWh
+### 75 kWh 75kWh
 
 <img src="/images/models/nio/es8/es8/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 

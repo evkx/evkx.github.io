@@ -9,7 +9,7 @@ navicon: bi-battery-charging
 <!-- markdownlint-disable MD033 -->
 Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen for de forskjellige batteripakkene.
 
-### 100 kWh
+### 100 kWh 100kWh
 
 <img src="/images/models/nio/et5/et5_touring/chargingcurve_1.svg" alt="Charge curve" class="img-fluid">
 
@@ -367,7 +367,7 @@ Nio ET5 Touring har batterioppvarming, noe som gjør lading ved en optimal batte
 </tbody>
 </table>
 
-### 75 kWh
+### 75 kWh 75kWh
 
 <img src="/images/models/nio/et5/et5_touring/chargingcurve_2.svg" alt="Charge curve" class="img-fluid">
 
