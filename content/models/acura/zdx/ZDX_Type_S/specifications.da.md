@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Acura ZDX Type S. 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				610 nm (450 ft-lb)
+				737 nm (544 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +267,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2626 kg (5789 lbs)
+				2745 kg (6052 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar højde foran
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar højde bag
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				178 mm (7,0")
+				198 mm (7,8")
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				178 mm (7,0")
+				158 mm (6,2")
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Memory passagersæde
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +931,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Head-up display
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

@@ -349,6 +349,70 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 </table>
 
 
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Bruto batteri
+			</td>
+			<td>
+				70 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Batteri net
+			</td>
+			<td>
+				68,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max DC-opladning
+			</td>
+			<td>
+				250 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfiguration
+			</td>
+			<td>
+				106s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				340
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 
 ### Ladeport
 

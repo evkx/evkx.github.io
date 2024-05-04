@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2024 Model Y RWD (US Spec) Is A Charging Beast! - 0-100% & 10-80% Full Charge Analysis</h3>
+<p>Brandend Flasch: 11.05.2024</p>
+
+{{< youtube 4H5Twt5U2IU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Model Y RWD with BYD Blade battery Geilo test</h3>
 <p>Bjørn Nyland: 19.11.2023</p>
 

@@ -349,6 +349,70 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 </table>
 
 
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Batterie brute
+			</td>
+			<td>
+				70 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réseau de batterie
+			</td>
+			<td>
+				68,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charge CC maximale
+			</td>
+			<td>
+				250 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Configuration du pack
+			</td>
+			<td>
+				106s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tension nominale
+			</td>
+			<td>
+				340
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 
 ### Port de charge
 

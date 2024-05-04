@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Acura ZDX
 				Couple de sortie électrique
 			</td>
 			<td>
-				610 nm (450 ft-lb)
+				737 nm (544 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +267,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2626 kg (5789 lbs)
+				2745 kg (6052 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Avant réglable en hauteur
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur arrière réglable
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				178 mm (7,0")
+				198 mm (7,8")
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				178 mm (7,0")
+				158 mm (6,2")
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Siège passager à mémoire
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +931,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Affichage tête haute
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

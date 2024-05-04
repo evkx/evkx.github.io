@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Acura ZDX Type S. Klic
 				Vridmoment
 			</td>
 			<td>
-				610 nm
+				737 nm
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +267,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2626 kg
+				2745 kg
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd fram
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar höjd bak
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				178 mm
+				198 mm
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				178 mm
+				158 mm
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Memory Passenger Seat
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +931,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Head-up display
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

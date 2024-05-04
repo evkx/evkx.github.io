@@ -29,7 +29,7 @@ We have separated our Acura ZDX Type S article into sections. If you want to wai
 
 ## Performance
 
-The Acura ZDX Type S has a maximum power of 373 KW (507 hp/500 bhp). The total torque is 610 nm (450 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.6 seconds.
+The Acura ZDX Type S has a maximum power of 373 KW (507 hp/500 bhp). The total torque is 737 nm (544 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.6 seconds.
 
 ## Battery, range, and charging
 
@@ -57,7 +57,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Acura ZDX Type S has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
+The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers.
 
 ### Brakes
 
@@ -67,7 +67,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+You can choose between 6 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
@@ -94,6 +94,7 @@ The following functionalities are available on the **** seat.
 - electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
@@ -119,7 +120,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The  climate system supports different temperatures in two zones for the driver and passenger. The  climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
@@ -136,7 +137,7 @@ Keyless go makes it possible to start the car without using the key.
 ## User interface and control
 
 The Acura ZDX Type S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 11.0 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 11.3 inches large and has a 1540 x 720 pixels resolution.
-The model does not have a head-up display.
+A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/screens_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1687"  >}}

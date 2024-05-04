@@ -33,7 +33,7 @@ Tesla Model Y Standard Range har en maximal effekt på 255 KW (347hk). Totalt vr
 
 ## Batteri, räckvidd och laddning
 
-Tesla Model Y Standard Range har tre batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
+Tesla Model Y Standard Range har fyra batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
 ### CATL LFP Europa/China market
 
 Batteriet har en bruttokapacitet på 60kWh och en nettokapacitet på 55kWh, vilket innebär att du har en 5kWh buffert för skydd. (8,3%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
@@ -61,6 +61,15 @@ Batteriet har en bruttokapacitet på 70kWh och en nettokapacitet på 68,5kWh, vi
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 36%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 82kW. Varje laddningssession tar 18 minuter och 60 sekunder.
 
 För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19,5kWh/100km, tar 1000km 9 timmar och 52 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 0% till 37%. Total tid som går förlorad för att ladda batteriet kommer att vara 93 minuter.
+### NMC 21700 US Market Software locked
+
+Batteriet har en bruttokapacitet på 70kWh och en nettokapacitet på 68,5kWh, vilket innebär att du har en 1,5kWh buffert för skydd. (2,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 430 km. Förbrukningen är 12,8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+
+Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 40 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 110kW. Varje laddningssession tar 22 minuter och 59 sekunder.
+
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 19,5kWh/100km, tar 1000km 9 timmar och 29 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 0% till 62%. Total tid som går förlorad för att ladda batteriet kommer att vara 69 minuter.
 
 ### Inbyggd laddare
 

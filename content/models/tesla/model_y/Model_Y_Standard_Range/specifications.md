@@ -349,6 +349,70 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/battery/buffer/">Battery gross</a>
+			</td>
+			<td>
+				70 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/buffer/">Battery net</a>
+			</td>
+			<td>
+				68,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/charging/">Max DC charging</a>
+			</td>
+			<td>
+				250 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+			</td>
+			<td>
+				106s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				340
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 
 ### Chargeport
 

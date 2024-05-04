@@ -349,6 +349,70 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 </table>
 
 
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Batería bruta
+			</td>
+			<td>
+				70 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Batería neta
+			</td>
+			<td>
+				68,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Carga CC máxima
+			</td>
+			<td>
+				250 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Configuración del paquete
+			</td>
+			<td>
+				106s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tensión nominal
+			</td>
+			<td>
+				340
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 
 ### Puerto de carga
 

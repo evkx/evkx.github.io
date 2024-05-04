@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Acura ZDX Type S. K
 				Dreiemoment
 			</td>
 			<td>
-				610 nm
+				737 nm
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +267,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2626 kg
+				2745 kg
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar høyde foran
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar høyde bak
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				178 mm
+				198 mm
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				178 mm
+				158 mm
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minne passasjersete
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +931,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Head-up display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

@@ -349,6 +349,70 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Brutto batteristørrelse
+			</td>
+			<td>
+				70 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Netto batteristørrelse
+			</td>
+			<td>
+				68,5 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				250 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				106s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				340
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 
 ### Ladeport
 

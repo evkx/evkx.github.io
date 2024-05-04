@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Acura ZDX Type S en secciones. Si desea esperar
 
 ## Rendimiento
 
-El Acura ZDX Type S tiene una potencia máxima de 373 KW (507 hp/500 bhp). El par total es 610 nm (450 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,6 segundos.
+El Acura ZDX Type S tiene una potencia máxima de 373 KW (507 hp/500 bhp). El par total es 737 nm (544 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,6 segundos.
 
 ## Batería, autonomía y carga
 
@@ -57,7 +57,7 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 Acura ZDX Type S tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
+La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos.
 
 ### Frenos
 
@@ -67,7 +67,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
+Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
@@ -94,6 +94,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - ajuste eléctrico
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
@@ -119,7 +120,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 
@@ -136,7 +137,7 @@ Keyless go permite arrancar el auto sin usar la llave.
 ## Interfaz de usuario y control
 
 El Acura ZDX Type S tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La  pantalla detrás del volante integrado en el salpicadero mide 11,0 pulgadas de tamaño y tiene una resolución de 1920 x 720 píxeles. La touch pantalla en la parte superior de la consola central mide 11,3 pulgadas de tamaño y tiene una resolución de 1540 x 720 píxeles.
-El modelo no tiene head-up display.
+Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/screens_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1687"  >}}

@@ -29,7 +29,7 @@ Nous avons séparé notre article Acura ZDX Type S en sections. Si vous souhaite
 
 ## Performances
 
-Le Acura ZDX Type S a une puissance maximale de 373 KW (507 ch/500 ch). Le couple total est de 610 nm (450 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,6 secondes.
+Le Acura ZDX Type S a une puissance maximale de 373 KW (507 ch/500 ch). Le couple total est de 737 nm (544 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,6 secondes.
 
 ## Batterie, autonomie et charge
 
@@ -57,7 +57,7 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 Acura ZDX Type S dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
-La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 178 mm.
+La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques.
 
 ### Freins
 
@@ -67,7 +67,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 8 couleurs de peinture différentes lors de la commande de ce modèle.
+Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
@@ -94,6 +94,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - réglage électrique
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
+- [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
@@ -119,7 +120,7 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Vous pouvez choisir parmi deux systèmes climatiques différents. Le système climatique  prend en charge différentes températures dans deux zones pour le conducteur et le passager. Le système climatique  prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière. Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
+Un système climatique est disponible. Le système climatique  prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière. Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
 
 ## Confort
 
@@ -136,7 +137,7 @@ Keyless go permet de démarrer la voiture sans utiliser la clé.
 ## Interface utilisateur et contrôle
 
 Le Acura ZDX Type S possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale. L'écran  derrière le volant intégré au tableau de bord mesure 11,0 pouces et a une résolution de 1920 x 720 pixels. L'écran touch en haut de la console centrale mesure 11,3 pouces et a une résolution de 1540 x 720 pixels.
-Le modèle n'a pas d'affichage tête haute.
+Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/screens_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1687"  >}}

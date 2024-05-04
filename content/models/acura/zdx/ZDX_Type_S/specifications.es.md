@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Acura ZDX Type S. 
 				Salida de par eléctrico
 			</td>
 			<td>
-				610 nm (450 pies-libra)
+				737 nm (544 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +267,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2626 kg (5789 lbs)
+				2745 kg (6052 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Frente regulable en altura
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura trasera ajustable
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				178 mm (7,0")
+				198 mm (7,8")
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				178 mm (7,0")
+				158 mm (6,2")
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asiento del pasajero con memoria
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +931,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla frontal
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

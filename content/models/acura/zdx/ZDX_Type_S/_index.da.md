@@ -29,7 +29,7 @@ Vi har opdelt vores Acura ZDX Type S artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-Acura ZDX Type S har en maksimal effekt på 373 KW (507 hk/500 hk). Det samlede drejningsmoment er 610 nm (450 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder.
+Acura ZDX Type S har en maksimal effekt på 373 KW (507 hk/500 hk). Det samlede drejningsmoment er 737 nm (544 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder.
 
 ## Batteri, rækkevidde og opladning
 
@@ -57,7 +57,7 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 Acura ZDX Type S har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
+Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere.
 
 ### Bremser
 
@@ -67,7 +67,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
+Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -94,6 +94,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
+- [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
@@ -119,7 +120,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet  understøtter forskellige temperaturer i to zoner for fører og passager. klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Der er et tilgængeligt klimasystem. klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
 
 ## Komfort
 
@@ -136,7 +137,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 ## Brugergrænseflade og kontrol
 
 Acura ZDX Type S har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 11,0 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch øverst på midterkonsollen er 11,3 tommer stor og har en opløsning på 1540 x 720 pixels.
-Modellen har ikke et head-up display.
+Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/screens_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1687"  >}}

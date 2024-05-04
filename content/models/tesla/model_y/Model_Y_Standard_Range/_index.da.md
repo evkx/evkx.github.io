@@ -33,7 +33,7 @@ Tesla Model Y Standard Range har en maksimal effekt på 255 KW (347 hk/342 hk). 
 
 ## Batteri, rækkevidde og opladning
 
-Tesla Model Y Standard Range har tre batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
+Tesla Model Y Standard Range har fire batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
 ### CATL LFP Europa/China market
 
 Batteriet har en bruttokapacitet på 60kWh og en nettokapacitet på 55kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (8,3%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
@@ -61,6 +61,15 @@ Batteriet har en bruttokapacitet på 70kWh og en nettokapacitet på 68,5kWh, hvi
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 84 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 36%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 82kW. Hver opladningssession ville tage 18 minutter og 60 sekunder.
 
 Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,5kWh/100 km, vil 1000 km tage 9 timer og 52 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 0 % til 37%. Den samlede tid, der går tabt for at oplade batteriet, vil være 93 minutter.
+### NMC 21700 US Market Software locked
+
+Batteriet har en bruttokapacitet på 70kWh og en nettokapacitet på 68,5kWh, hvilket betyder, at du har en 1,5kWh buffer til beskyttelse. (2,1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 430 km (267 mi). Forbruget er 12,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+
+Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 40 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 110kW. Hver opladningssession ville tage 22 minutter og 59 sekunder.
+
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,5kWh/100 km, vil 1000 km tage 9 timer og 29 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 0 % til 62%. Den samlede tid, der går tabt for at oplade batteriet, vil være 69 minutter.
 
 ### Indbygget oplader
 

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Acura ZDX Type S. Cl
 				Electrical torque output
 			</td>
 			<td>
-				610 nm (450 ft-lb)
+				737 nm (544 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +267,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2626 kg (5789 lbs)
+				2745 kg (6052 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable height front</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -356,7 +356,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable height rear</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				178 mm (7,0")
+				198 mm (7,8")
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				178 mm (7,0")
+				158 mm (6,2")
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -931,7 +931,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Head-up display
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

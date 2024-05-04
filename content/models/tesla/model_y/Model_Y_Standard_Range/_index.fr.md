@@ -33,7 +33,7 @@ Le Tesla Model Y Standard Range a une puissance maximale de 255 KW (347 ch/342 c
 
 ## Batterie, autonomie et charge
 
-Tesla Model Y Standard Range propose trois options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
+Tesla Model Y Standard Range propose quatre options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
 ### CATL LFP Europa/China market
 
 La batterie a une capacité brute de 60kWh et une capacité nette de 55kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (8,3%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
@@ -61,6 +61,15 @@ La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 36 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 82kW. Chaque session de charge prendrait 18 minutes et 60 secondes.
 
 Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 19,5kWh/100 km, 1 000 km prendront 9 heures et 52 minutes. Ce trajet nécessitera cinq sessions de charge de 0 % à 37 %. Le temps total perdu pour charger la batterie sera de 93 minutes.
+### NMC 21700 US Market Software locked
+
+La batterie a une capacité brute de 70kWh et une capacité nette de 68,5kWh, ce qui signifie que vous disposez d'une réserve de 1,5kWh pour la protection. (2,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+
+La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 40 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 24 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 59 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 110kW. Chaque session de charge prendrait 22 minutes et 59 secondes.
+
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 19,5kWh/100 km, 1 000 km prendront 9 heures et 29 minutes. Ce trajet nécessitera trois sessions de charge de 0 % à 62 %. Le temps total perdu pour charger la batterie sera de 69 minutes.
 
 ### Chargeur embarqué
 
