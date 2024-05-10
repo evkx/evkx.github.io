@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-2860c34f
+  translation: Nissan Ariya 87kWh e-4ORCE+ er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 500 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-d3459866
   translation: Audi Q6L e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-eaadc154
   translation: Porsche Taycan Turbo Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 606 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-142ff3fd
-  translation: Volkswagen ID. Buzz GTX er en helelektrisk MPV med en WLTP rekkevidde på opptil 400 km. EVKX.net har alle detaljene.
 

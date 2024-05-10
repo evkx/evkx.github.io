@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-2860c34f
+  translation: Nissan Ariya 87kWh e-4ORCE+ es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 500 km (311 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-d3459866
   translation: Audi Q6L e-tron quattro es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 625 km (388 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-eaadc154
   translation: Porsche Taycan Turbo Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 606 km (377 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-142ff3fd
-  translation: Volkswagen ID. Buzz GTX es un monovolumen totalmente eléctrico con una autonomía WLTP de hasta 400 km (249 millas). EVKX.net tiene todos los detalles.
 

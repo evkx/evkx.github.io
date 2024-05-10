@@ -469,7 +469,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="nissan/"><img src="https://media.evkx.net/multimedia/models/nissan/brandevs_st.jpg" class="img-fluid mb-2" alt="Nissan" ></a>
 	<h2>Nissan</h2>
 	<p>
-	Nissan tiene 1 modelos con un total de 3 variantes.
+	Nissan tiene 1 modelos con un total de 4 variantes.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Ir a Nissan descripción general del modelo EV</a>
 </div>

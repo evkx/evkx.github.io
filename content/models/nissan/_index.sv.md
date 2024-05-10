@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Nissan Ariya är en Coupe SUV tillgänglig i 3 varianter.
+Nissan Ariya är en Coupe SUV tillgänglig i 4 varianter.
 </p>
 	<a href="ariya/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
