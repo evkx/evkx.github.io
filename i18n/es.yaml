@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-bb2550ec
+  translation: Automobili Pininfarina Battista es un hiperauto de lujo totalmente eléctrico con un WLTP alcance de hasta 490 km (305 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-2860c34f
   translation: Nissan Ariya 87kWh e-4ORCE+ es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 500 km (311 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-d794e584
   translation: Peugot E-5008 Long Range es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 660 km (410 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-eaadc154
-  translation: Porsche Taycan Turbo Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 606 km (377 millas). EVKX.net tiene todos los detalles.
 
