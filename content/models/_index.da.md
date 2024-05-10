@@ -22,6 +22,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 			<a href="audi"><img src="https://media.evkx.net/multimedia/models/audi/logo_xst.png" alt="Audi" title="Audi" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="automobili_pininfarina"><img src="https://media.evkx.net/multimedia/models/automobili_pininfarina/logo_xst.png" alt="Automobili Pininfarina" title="Automobili Pininfarina" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="bmw"><img src="https://media.evkx.net/multimedia/models/bmw/logo_xst.png" alt="BMW" title="BMW" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -219,6 +222,13 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	Audi har 5 modeller med i alt 32 varianter.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gå til Audi EV-modeloversigt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Automobili Pininfarina</h2>
+	<p>
+	Automobili Pininfarina har 1 modeller med i alt 1 varianter.
+	</p>
+	<a href="automobili pininfarina/" class="btn btn-outline-primary" role="button">Gå til Automobili Pininfarina EV-modeloversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="bmw/"><img src="https://media.evkx.net/multimedia/models/bmw/brandevs_st.jpg" class="img-fluid mb-2" alt="BMW" ></a>
