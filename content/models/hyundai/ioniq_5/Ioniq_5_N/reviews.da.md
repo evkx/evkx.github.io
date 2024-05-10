@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Electric Sports Car Giant Test 2024 | Are EVs finally fun?</h3>
+<p>CAR Magazine: 09.05.2024</p>
+
+{{< youtube okYc93JEevs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>loniq 5 N: The Day Electric Cars Got Interesting</h3>
+<p>Fully Charged Show: 07.05.2024</p>
+
+{{< youtube dQMwGODdLIM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST DRIVE: Hyundai Ioniq 5 N, 641bhp Hyper-Hatch!</h3>
 <p>Top Gear: 10.10.2023</p>
 
