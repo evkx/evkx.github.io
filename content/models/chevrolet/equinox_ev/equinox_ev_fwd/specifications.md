@@ -129,30 +129,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				150 kW
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Number of modules
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/batterypack/">Pack Configuration</a>
-			</td>
-			<td>
-				3p80
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/batterypack/">Nominal voltage</a>
-			</td>
-			<td>
-				330
-			</td>
-		</tr>
 	</tbody>
 </table>
 

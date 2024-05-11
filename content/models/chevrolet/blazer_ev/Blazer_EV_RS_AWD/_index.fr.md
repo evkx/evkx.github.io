@@ -37,9 +37,9 @@ La batterie a une capacité brute de 89kWh et une capacité nette de 85kWh, ce q
 
 La [plage EPA](../../../../guides/understandingrange/epa/) est de 279 miles (449 km). La consommation est de 3,3mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
-La vitesse de charge DC maximale est de 190kW. Une charge complète de 0 à 100 % prendrait 147 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 26 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 68 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 116kW. Chaque session de charge prendrait 27 minutes et 43 secondes.
+La vitesse de charge DC maximale est de 150kW. Une charge complète de 0 à 100 % prendrait 71 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 37 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 6 % et 58 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 101kW. Chaque session de charge prendrait 26 minutes et 23 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 25kWh/100 km, 1 000 km prendront 9 heures et 45 minutes. Ce trajet nécessitera trois sessions de charge de 7 % à 72 %. Le temps total perdu pour charger la batterie sera de 86 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 25kWh/100 km, 1 000 km prendront 9 heures et 59 minutes. Ce trajet nécessitera quatre sessions de charge de 6 % à 55 %. Le temps total perdu pour charger la batterie sera de 100 minutes.
 
 ### Chargeur embarqué
 

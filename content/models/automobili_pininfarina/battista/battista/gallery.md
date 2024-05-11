@@ -126,6 +126,24 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/exterior_17.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/exterior_17.jpg"
+data-pswp-width="1920"
+data-pswp-height="1281" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/exterior_17_xst.jpg" alt="Automobili Pininfarina Battista" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/exterior_18.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/exterior_18.jpg"
+data-pswp-width="3000"
+data-pswp-height="1981" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/exterior_18_xst.jpg" alt="Automobili Pininfarina Battista" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/exterior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/exterior_2.jpg"
 data-pswp-width="3000"
@@ -207,6 +225,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/headlights_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/headlights_2.jpg"
+data-pswp-width="1920"
+data-pswp-height="1281" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/headlights_2_xst.jpg" alt="Automobili Pininfarina Battista" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/info_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/info_1.jpg"
 data-pswp-width="3000"
@@ -219,7 +246,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/main_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="1981" 
+data-pswp-height="2002" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/main_1_xst.jpg" alt="Automobili Pininfarina Battista" class="img-fluid " />
 		</a>

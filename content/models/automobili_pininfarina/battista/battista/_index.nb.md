@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/main_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1981"  >}}
+{{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/main_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2002"  >}}
 
 Vi har delt vår beskrivelse av Automobili Pininfarina Battista i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 

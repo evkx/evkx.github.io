@@ -129,30 +129,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				150 kW
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Antal moduler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Packkonfiguration
-			</td>
-			<td>
-				3p80
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Nominell spänning
-			</td>
-			<td>
-				330
-			</td>
-		</tr>
 	</tbody>
 </table>
 

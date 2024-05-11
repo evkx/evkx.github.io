@@ -37,9 +37,9 @@ Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 85kWh, noe s
 
 [EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 319 miles (513 km). Forbruket er 3,8mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 147 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 68%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 116kW. Hver ladeøkt vil ta 27 minutter og 43 sekunder.
+Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 71 minutter, mens et mer vanlig scenario på 10-80 % vil ta 37 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 26 minutter og 23 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 9 timer og 45 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 7% til 72%. Totalt tapt tid for å lade opp batteriet vil være 86 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 9 timer og 59 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 6% til 55%. Totalt tapt tid for å lade opp batteriet vil være 100 minutter.
 
 ### Ombordlader
 

@@ -129,30 +129,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				150 kW
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Número de módulos
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Configuración del paquete
-			</td>
-			<td>
-				3p80
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tensión nominal
-			</td>
-			<td>
-				330
-			</td>
-		</tr>
 	</tbody>
 </table>
 

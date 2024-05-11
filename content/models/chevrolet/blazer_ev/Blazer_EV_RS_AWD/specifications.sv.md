@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				190 kW
+				150 kW
 			</td>
 		</tr>
 	</tbody>

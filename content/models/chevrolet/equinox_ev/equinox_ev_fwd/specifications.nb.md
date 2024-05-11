@@ -129,30 +129,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				150 kW
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Antall moduler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Pakkekonfigurasjon
-			</td>
-			<td>
-				3p80
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Nominell spenning
-			</td>
-			<td>
-				330
-			</td>
-		</tr>
 	</tbody>
 </table>
 

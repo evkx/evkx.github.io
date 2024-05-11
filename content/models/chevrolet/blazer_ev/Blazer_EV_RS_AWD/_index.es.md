@@ -37,9 +37,9 @@ La batería tiene una capacidad bruta de 89kWh y una capacidad neta de 85kWh, lo
 
 El [rango EPA](../../../../guides/understandingrange/epa/) es 279 millas (449 km). El consumo es 3,3mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 190kW. Una carga completa del 0 al 100 % tardaría 147 minutos, mientras que un escenario más común del 10 al 80 % tardaría 26 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 68%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 116kW. Cada sesión de carga tardaría 27 minutos y 43 segundos.
+La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 71 minutos, mientras que un escenario más común del 10 al 80 % tardaría 37 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 26 minutos y 23 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 9 horas y 45 minutos. Este viaje requerirá tres sesiones de carga del 7 % al 72 %. El tiempo total perdido para cargar la batería será de 86 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 9 horas y 59 minutos. Este viaje requerirá cuatro sesiones de carga del 6 % al 55 %. El tiempo total perdido para cargar la batería será de 100 minutos.
 
 ### Cargador a bordo
 

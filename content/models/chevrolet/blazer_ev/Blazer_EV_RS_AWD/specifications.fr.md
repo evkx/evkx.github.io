@@ -126,7 +126,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				190 kW
+				150 kW
 			</td>
 		</tr>
 	</tbody>

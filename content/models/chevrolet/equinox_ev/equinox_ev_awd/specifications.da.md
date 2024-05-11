@@ -129,30 +129,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				150 kW
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Antal moduler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Pakkekonfiguration
-			</td>
-			<td>
-				3p80
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Nominel spænding
-			</td>
-			<td>
-				330
-			</td>
-		</tr>
 	</tbody>
 </table>
 

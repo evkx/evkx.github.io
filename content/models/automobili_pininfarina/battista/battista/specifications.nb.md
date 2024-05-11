@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/main_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1981" >}}
+{{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/main_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2002" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Automobili Pininfarina Battista. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Automobili Pininfarina Battista, gå til [chargeinfo](../chargecurve/) for Automobili Pininfarina Battista med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
