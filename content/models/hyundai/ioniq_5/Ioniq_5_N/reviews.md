@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The INSANE Hyundai IONIQ 5 N // REAL Nürburgring Performance!</h3>
+<p>Misha Charoudin: 11.05.2024</p>
+
+{{< youtube HZczpFsv9ZY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Electric Sports Car Giant Test 2024 | Are EVs finally fun?</h3>
 <p>CAR Magazine: 09.05.2024</p>
 
