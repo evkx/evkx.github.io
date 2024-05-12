@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-MG Cyberster is a Convertible available in 1 variants.
+MG Cyberster is a convertible available in 1 variants.
 </p>
 	<a href="cyberster/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

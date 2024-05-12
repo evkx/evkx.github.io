@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-modelintro.Convertible.Luxury
+Maserati GranCabrio est un cabriolet de luxe disponible en 1 variantes.
 </p>
 	<a href="grancabrio/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

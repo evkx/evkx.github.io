@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-modelintro.Convertible.Luxury
+Maserati GranCabrio är en lyx-cabriolet tillgänglig i 1 varianter.
 </p>
 	<a href="grancabrio/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

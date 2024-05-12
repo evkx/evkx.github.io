@@ -1,7 +1,7 @@
 ---
 title: Maserati GranCabrio Folgore
 linktitle: "GranCabrio Folgore"
-description: "intro.convertible.luxury"
+description: "Maserati GranCabrio Folgore est un cabriolet de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 501 km (311 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Maserati GranCabrio Folgore
 linktitle: "GranCabrio Folgore"
-description: "intro.convertible.luxury"
+description: "Maserati GranCabrio Folgore er en fuldelektrisk luksuscabriolet med en WLTP rækkevidde på op til 501 km (311 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

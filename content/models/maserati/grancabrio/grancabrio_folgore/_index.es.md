@@ -1,7 +1,7 @@
 ---
 title: Maserati GranCabrio Folgore
 linktitle: "GranCabrio Folgore"
-description: "intro.convertible.luxury"
+description: "Maserati GranCabrio Folgore es un convertible de lujo totalmente eléctrico con un WLTP alcance de hasta 501 km (311 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
