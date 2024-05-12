@@ -18,6 +18,21 @@ weight: 30
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
             <div class="accordion-body">
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Maserati GranCabrio</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="grancabrio">
+                    <img src="https://media.evkx.net/multimedia/models/maserati/grancabrio/grancabrio_folgore/main_1_st.jpg" class="img-fluid" alt="Maserati GranCabrio" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+modelintro.Convertible.Luxury
+</p>
+	<a href="grancabrio/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Maserati Grecale</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

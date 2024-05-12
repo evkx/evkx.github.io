@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE+
 linktitle: "Ariya 87kWh e-4ORCE+"
-description: "Nissan Ariya 87kWh e-4ORCE+ es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 500 km (311 millas). EVKX.net tiene todos los detalles."
+description: "Nissan Ariya 87kWh e-4ORCE+ es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 507 km (315 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ El Nissan Ariya 87kWh e-4ORCE+ tiene una potencia máxima de 290 KW (394 hp/389 
 
 La batería tiene una capacidad bruta de 91kWh y una capacidad neta de 87kWh, lo que significa que tienes un buffer de 4kWh para protección. (4,4%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 500 a 459 km (311-285 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 17,4kWh/100 km para la versión básica y 19,0kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 507 a 498 km (315-310 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 17,2kWh/100 km para la versión básica y 17,5kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 130kW. Una carga completa del 0 al 100 % tardaría 63 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 98kW. Cada sesión de carga tardaría 28 minutos y 18 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 26kWh/100 km, 1000 km tomarán 10 horas y 6 minutos. Este viaje requerirá cuatro sesiones de carga del 7 % al 57 %. El tiempo total perdido para cargar la batería será de 107 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 24,5kWh/100 km, 1000 km tomarán 9 horas y 58 minutos. Este viaje requerirá tres sesiones de carga del 6 % al 67 %. El tiempo total perdido para cargar la batería será de 98 minutos.
 
 ### Cargador a bordo
 

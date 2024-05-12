@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE+
 linktitle: "Ariya 87kWh e-4ORCE+"
-description: "Nissan Ariya 87kWh e-4ORCE+ er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 500 km (311 miles). EVKX.net har alle detaljerne."
+description: "Nissan Ariya 87kWh e-4ORCE+ er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 507 km (315 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ Nissan Ariya 87kWh e-4ORCE+ har en maksimal effekt på 290 KW (394 hk/389 hk). D
 
 Batteriet har en bruttokapacitet på 91kWh og en nettokapacitet på 87kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,4%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 500 til 459 km (311-285 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17,4kWh/100 km for basisversionen og 19,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 507 til 498 km (315-310 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 17,2kWh/100 km for basisversionen og 17,5kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 130kW. En fuld opladning fra 0 - 100 % ville tage 63 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 98kW. Hver opladningssession ville tage 28 minutter og 18 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26kWh/100 km, vil 1000 km tage 10 timer og 6 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 7 % til 57%. Den samlede tid, der går tabt for at oplade batteriet, vil være 107 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24,5kWh/100 km, vil 1000 km tage 9 timer og 58 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 6 % til 67%. Den samlede tid, der går tabt for at oplade batteriet, vil være 98 minutter.
 
 ### Indbygget oplader
 

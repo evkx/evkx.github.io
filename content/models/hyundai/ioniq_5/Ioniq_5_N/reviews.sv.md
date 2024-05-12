@@ -23,6 +23,13 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2025 Hyundai Ioniq 5 N Review // DRAG RACE & LAP TIME</h3>
+<p>Throttle House: 08.05.2024</p>
+
+{{< youtube JVwfEOh0KBI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>loniq 5 N: The Day Electric Cars Got Interesting</h3>
 <p>Fully Charged Show: 07.05.2024</p>
 

@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE+
 linktitle: "Ariya 87kWh e-4ORCE+"
-description: "Nissan Ariya 87kWh e-4ORCE+ er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 500 km. EVKX.net har alle detaljene."
+description: "Nissan Ariya 87kWh e-4ORCE+ er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 507 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ Nissan Ariya 87kWh e-4ORCE+ har en maksimal effekt på 290 KW (394hk). Totalt dr
 
 Batteriet har en bruttokapasitet på 91kWh og en nettokapasitet på 87kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,4%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 500 til 459 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17,4kWh/100 km for basisversjonen og 19,0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 507 til 498 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17,2kWh/100 km for basisversjonen og 17,5kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 130 kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 98kW. Hver ladeøkt vil ta 28 minutter og 18 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 10 timer og 6 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 7% til 57%. Totalt tapt tid for å lade opp batteriet vil være 107 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24,5kWh/100km, vil 1000km ta 9 timer og 58 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 6% til 67%. Totalt tapt tid for å lade opp batteriet vil være 98 minutter.
 
 ### Ombordlader
 

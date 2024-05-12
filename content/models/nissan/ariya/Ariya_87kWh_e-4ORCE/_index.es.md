@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE
 linktitle: "Ariya 87kWh e-4ORCE"
-description: "Nissan Ariya 87kWh e-4ORCE es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 500 km (311 millas). EVKX.net tiene todos los detalles."
+description: "Nissan Ariya 87kWh e-4ORCE es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 515 km (320 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ El Nissan Ariya 87kWh e-4ORCE tiene una potencia máxima de 225 KW (306 hp/302 b
 
 La batería tiene una capacidad bruta de 91kWh y una capacidad neta de 87kWh, lo que significa que tienes un buffer de 4kWh para protección. (4,4%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 500 a 459 km (311-285 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 17,4kWh/100 km para la versión básica y 19,0kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 515 a 459 km (320-285 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 16,9kWh/100 km para la versión básica y 19,0kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 130kW. Una carga completa del 0 al 100 % tardaría 63 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 98kW. Cada sesión de carga tardaría 28 minutos y 18 segundos.
 

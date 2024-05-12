@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE
 linktitle: "Ariya 87kWh e-4ORCE"
-description: "Nissan Ariya 87kWh e-4ORCE est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 500 km (311 miles). EVKX.net a tous les détails."
+description: "Nissan Ariya 87kWh e-4ORCE est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 515 km (320 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Le Nissan Ariya 87kWh e-4ORCE a une puissance maximale de 225 KW (306 ch/302 ch)
 
 La batterie a une capacité brute de 91kWh et une capacité nette de 87kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (4,4%).
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 500 à 459 km (311-285 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 17,4kWh/100km pour la version de base et 19,0kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 515 à 459 km (320-285 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 16,9kWh/100km pour la version de base et 19,0kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 130kW. Une charge complète de 0 à 100 % prendrait 63 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 6 % et 59 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 98kW. Chaque session de charge prendrait 28 minutes et 18 secondes.
 

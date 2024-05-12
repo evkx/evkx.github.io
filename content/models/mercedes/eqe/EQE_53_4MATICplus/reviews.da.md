@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE SUV 53AMG | Range Test</h3>
+<p>Kris Rifa: 11.05.2024</p>
+
+{{< youtube JaxDcGfacE8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>EQE 53 AMG..... I WAS NOT EXPECTING THIS...</h3>
 <p>Kris Rifa: 20.04.2023</p>
 

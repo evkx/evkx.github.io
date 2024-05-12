@@ -112,11 +112,14 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-0ad41fc5
+  translation: intro.convertible.luxury
+
 - id: frontpage-description-bb2550ec
   translation: Automobili Pininfarina Battista er en helelektrisk hyperbil med en WLTP rekkevidde på opptil 490 km. EVKX.net har alle detaljene.
 
 - id: frontpage-description-2860c34f
-  translation: Nissan Ariya 87kWh e-4ORCE+ er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 500 km. EVKX.net har alle detaljene.
+  translation: Nissan Ariya 87kWh e-4ORCE+ er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 507 km. EVKX.net har alle detaljene.
 
 - id: frontpage-description-d3459866
   translation: Audi Q6L e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-4aced632
   translation: Porsche Taycan Turbo S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 596 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-d794e584
-  translation: Peugot E-5008 Long Range er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 660 km. EVKX.net har alle detaljene.
 

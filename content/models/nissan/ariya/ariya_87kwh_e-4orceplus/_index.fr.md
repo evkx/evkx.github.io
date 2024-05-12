@@ -1,7 +1,7 @@
 ---
 title: Nissan Ariya 87kWh e-4ORCE+
 linktitle: "Ariya 87kWh e-4ORCE+"
-description: "Nissan Ariya 87kWh e-4ORCE+ est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 500 km (311 miles). EVKX.net a tous les détails."
+description: "Nissan Ariya 87kWh e-4ORCE+ est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 507 km (315 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ Le Nissan Ariya 87kWh e-4ORCE+ a une puissance maximale de 290 KW (394 ch/389 ch
 
 La batterie a une capacité brute de 91kWh et une capacité nette de 87kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (4,4%).
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 500 à 459 km (311-285 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 17,4kWh/100km pour la version de base et 19,0kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 507 à 498 km (315-310 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 17,2kWh/100km pour la version de base et 17,5kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 130kW. Une charge complète de 0 à 100 % prendrait 63 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 6 % et 59 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 98kW. Chaque session de charge prendrait 28 minutes et 18 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 26kWh/100 km, 1 000 km prendront 10 heures et 6 minutes. Ce trajet nécessitera quatre sessions de charge de 7 % à 57 %. Le temps total perdu pour charger la batterie sera de 107 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 24,5kWh/100 km, 1 000 km prendront 9 heures et 58 minutes. Ce trajet nécessitera trois sessions de charge de 6 % à 67 %. Le temps total perdu pour charger la batterie sera de 98 minutes.
 
 ### Chargeur embarqué
 

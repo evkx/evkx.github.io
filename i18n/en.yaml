@@ -112,11 +112,14 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-0ad41fc5
+  translation: intro.convertible.luxury
+
 - id: frontpage-description-bb2550ec
   translation: Automobili Pininfarina Battista is an all-electric luxury hypercar with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details.
 
 - id: frontpage-description-2860c34f
-  translation: Nissan Ariya 87kWh e-4ORCE+ is an all-electric coupe SUV with a WLTP range of up to 500 km (311 miles). EVKX.net has all the details.
+  translation: Nissan Ariya 87kWh e-4ORCE+ is an all-electric coupe SUV with a WLTP range of up to 507 km (315 miles). EVKX.net has all the details.
 
 - id: frontpage-description-d3459866
   translation: Audi Q6L e-tron quattro is an all-electric premium SUV with a WLTP range of up to 625 km (388 miles). EVKX.net has all the details.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-4aced632
   translation: Porsche Taycan Turbo S Cross Turismo is an all-electric luxury station wagon with a WLTP range of up to 596 km (370 miles). EVKX.net has all the details.
-
-- id: frontpage-description-d794e584
-  translation: Peugot E-5008 Long Range is an all-electric coupe SUV with a WLTP range of up to 660 km (410 miles). EVKX.net has all the details.
 

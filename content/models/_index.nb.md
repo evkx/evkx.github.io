@@ -432,7 +432,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Maserati</h2>
 	<p>
-	Maserati har 1 modell(er) med totalt 1 varianter.
+	Maserati har 2 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="maserati/" class="btn btn-outline-primary" role="button">Gå til Maserati modelloversikt</a>
 </div>
