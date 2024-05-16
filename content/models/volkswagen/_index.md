@@ -41,7 +41,7 @@ Volkswagen ID. Buzz is a MPV available in 4 variants.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.3 is a hatcback available in 2 variants.
+Volkswagen ID.3 is a hatcback available in 3 variants.
 </p>
 	<a href="id.3/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

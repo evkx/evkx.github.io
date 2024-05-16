@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1999"  >}}
+
 Vi har opdelt vores Volkswagen ID.3 Pro S artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
 - [Ydeevne](#ydeevne)
@@ -76,6 +80,10 @@ Du kan vælge mellem to typer tage på denne model. Standarden er bare et almind
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -133,6 +141,10 @@ Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrume
 
 Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,0 tommer stor og har en opløsning på 1920 x 869 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2001"  >}}
+
 
 ## Infotainment
 
@@ -194,7 +206,14 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2420 kg (5335 lbs), og med basisvægten på 1884 kg (4154 lbs), kan du maksimalt laste 536 kg (1182 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
+Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
+
+### Tilgængelighed og priser
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
 </a>

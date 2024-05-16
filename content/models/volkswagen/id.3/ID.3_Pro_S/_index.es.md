@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1999"  >}}
+
 Hemos separado nuestro artículo Volkswagen ID.3 Pro S en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
@@ -76,6 +80,10 @@ Puedes elegir entre dos tipos de techos en este modelo. El estándar es simpleme
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -133,6 +141,10 @@ El diseño estándar tiene la siguiente configuración. Detrás del volante hay 
 
 El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,0 pulgadas de tamaño y tiene una resolución de 1920 x 869 píxeles.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2001"  >}}
+
 
 ## Infoentretenimiento
 
@@ -194,7 +206,14 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 
 La capacidad de carga en el maletero es de 385 litros. Con el asiento trasero abatido, es de 1267 litros. En el techo, puedes cargar hasta 0 kg (0,0 lbs). El peso máximo del automóvil es 2420 kg (5335 lbs), y con el peso base de 1884 kg (4154 lbs), puedes cargar como máximo 536 kg (1182 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.<div class="mt-3 mb-3">
+Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
+
+### Disponibilidad y precios
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
 </a>

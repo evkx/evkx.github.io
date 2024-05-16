@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1999"  >}}
+
 Nous avons séparé notre article Volkswagen ID.3 Pro S en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
 - [Performances](#performance)
@@ -76,6 +80,10 @@ Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est ju
 
 Les vitres du montant B et de l'arrière sont teintées.
 
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -133,6 +141,10 @@ La disposition standard a la configuration suivante. Derrière le volant se trou
 
 La disposition facultative  a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  sur la colonne de direction mesure 5,0 pouces. L'écran touch au centre du tableau de bord mesure 12,0 pouces et a une résolution de 1920 x 869 pixels.
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2001"  >}}
+
 
 ## Infodivertissement
 
@@ -194,7 +206,14 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 
 La capacité de chargement dans le coffre est de 385 litres. Avec la banquette arrière rabattue, elle est de 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg (0,0 lbs). Le poids maximum de la voiture est de 2420 kg (5335 lbs), et avec le poids de base de 1884 kg (4154 lbs), vous pouvez charger au maximum 536 kg (1182 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
+Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
+
+### Disponibilité et prix
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
 </a>

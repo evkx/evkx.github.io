@@ -41,7 +41,7 @@ Volkswagen ID. Buzz er en MPV tilgængelig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.3 er en hatcback tilgængelig i 2 varianter.
+Volkswagen ID.3 er en hatcback tilgængelig i 3 varianter.
 </p>
 	<a href="id.3/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

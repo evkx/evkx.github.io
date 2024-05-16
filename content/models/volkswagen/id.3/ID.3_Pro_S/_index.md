@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1999"  >}}
+
 We have separated our Volkswagen ID.3 Pro S article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
@@ -76,6 +80,10 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 The windows from B-pillar and back are tinted.
 
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -133,6 +141,10 @@ The standard layout has the following configuration. Behind the steering wheel i
 
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 12.0 inches large and has a 1920 x 869 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2001"  >}}
+
 
 ## Infotainment
 
@@ -194,7 +206,14 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2420 kg (5335 lbs), and with the base weight of 1884 kg (4154 lbs), you can max load 536 kg (1182 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
+
+### Availability & Pricing
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
 </a>

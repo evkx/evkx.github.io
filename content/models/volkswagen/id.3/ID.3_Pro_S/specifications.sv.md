@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1999" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.3 Pro S. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volkswagen ID.3 Pro S, gå till [chargeinfo](../chargecurve/) för Volkswagen ID.3 Pro S med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
