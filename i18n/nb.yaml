@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-41246fd3
+  translation: Volkswagen ID.3 Pro S er en helelektrisk kombi med en WLTP rekkevidde på opptil 553 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-0ad41fc5
   translation: Maserati GranCabrio Folgore er en helelektrisk luksuscabriolet med en WLTP rekkevidde på opptil 501 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-5c5cc7ac
   translation: Porsche Taycan Turbo Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 597 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-4aced632
-  translation: Porsche Taycan Turbo S Cross Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 596 km. EVKX.net har alle detaljene.
 

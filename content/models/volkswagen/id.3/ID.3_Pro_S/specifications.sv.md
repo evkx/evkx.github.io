@@ -8,7 +8,6 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.3 Pro S. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volkswagen ID.3 Pro S, gå till [chargeinfo](../chargecurve/) för Volkswagen ID.3 Pro S med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
@@ -31,7 +30,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.3 Pro S.
 				Max effekt
 			</td>
 			<td>
-				150 KW (204 hk)
+				170 KW (231 hk)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.3 Pro S.
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7,9 s
+				7,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +165,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				120 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +353,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				10,2 meter
+				10,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +378,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				1786 kg
+				1884 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2290 kg
+				2420 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +394,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				504 kg
+				536 kg
 			</td>
 		</tr>
 		<tr>

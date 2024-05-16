@@ -9,10 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998"  >}}
-
 We have separated our Volkswagen ID.3 Pro S article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
@@ -29,7 +25,7 @@ We have separated our Volkswagen ID.3 Pro S article into sections. If you want t
 
 ## Performance
 
-The Volkswagen ID.3 Pro S has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.9 seconds. The top speed is 160 km/h.
+The Volkswagen ID.3 Pro S has a maximum power of 170 KW (231 hp/228 bhp). The total torque is 310 nm (229 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.1 seconds. The top speed is 160 km/h.
 
 ## Battery, range, and charging
 
@@ -37,9 +33,9 @@ The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning y
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 553 to 548 km (344-341 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.9kWh/100km for the basic version and 14.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 66 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53%, resulting in an actual charge speed, including time loss, of 89kW. Each charge session would take 24 minutes and 17 seconds.
+The maximum DC charging speed is 175kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 19 minutes and 43 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 51 minutes. This trip will require four charge session(s) charging from 6% to 50%. The total time lost for charging up the battery will be 91 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 40 minutes. This trip will require four charge session(s) charging from 2% to 46%. The total time lost for charging up the battery will be 80 minutes.
 
 ### Onboard charger
 
@@ -80,10 +76,6 @@ You can choose between two types of roofs on this model. The standard is just a 
 
 The windows from B-pillar and back are tinted.
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 {{<evkxdisplayaddarticle />}}
 
 
@@ -106,19 +98,11 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 ### Second-row seat
 
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 
 
 There is only one type of steering wheel available.
@@ -150,10 +134,6 @@ The standard layout has the following configuration. Behind the steering wheel i
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 12.0 inches large and has a 1920 x 869 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 ## Infotainment
 
 You can choose between two sound systems on the Volkswagen ID.3 Pro S. With the Sound system, you get five speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get seven speakers with a max system output of 450 watts.
@@ -164,10 +144,6 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID.3 Pro S. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/headlights_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1894"  >}}
-
 ## Advanced driver assistance systems
 
 The Volkswagen ID.3 Pro S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -216,13 +192,9 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2290 kg (5049 lbs), and with the base weight of 1786 kg (3937 lbs), you can max load 504 kg (1111 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2420 kg (5335 lbs), and with the base weight of 1884 kg (4154 lbs), you can max load 536 kg (1182 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
 </a>

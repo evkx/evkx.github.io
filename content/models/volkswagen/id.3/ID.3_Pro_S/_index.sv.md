@@ -9,10 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998"  >}}
-
 Vi har delat in vår beskrivning av Volkswagen ID.3 Pro S i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#prestanda)
@@ -29,7 +25,7 @@ Vi har delat in vår beskrivning av Volkswagen ID.3 Pro S i avsnitt. Om du vill 
 
 ## Prestanda
 
-Volkswagen ID.3 Pro S har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 160 km/h.
+Volkswagen ID.3 Pro S har en maximal effekt på 170 KW (231hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 7,1 sekunder. Topphastigheten är 160 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -37,9 +33,9 @@ Batteriet har en bruttokapacitet på 82kWh och en nettokapacitet på 77kWh, vilk
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 553 till 548 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 13,9kWh/100 km för basversionen och 14,1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 89kW. Varje laddningssession tar 24 minuter och 17 sekunder.
+Maximal DC-laddningshastighet är 175 kW. En full laddning från 0 - 100 % tar 62 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 101kW. Varje laddningssession tar 19 minuter och 43 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 21kWh/100km, tar 1000km 9 timmar och 51 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 6% till 50%. Total tid som går förlorad för att ladda batteriet kommer att vara 91 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 21kWh/100km, tar 1000km 9 timmar och 40 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 2% till 46%. Total tid som går förlorad för att ladda batteriet kommer att vara 80 minuter.
 
 ### Inbyggd laddare
 
@@ -80,10 +76,6 @@ Du kan välja mellan två typer av tak på denna modell. Standardinställningen 
 
 B-stolpen och vyerna bak är tonade.
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 {{<evkxdisplayaddarticle />}}
 
 
@@ -106,19 +98,11 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 ### Säten på andra raden
 
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 
 
 Det finns bara en typ av ratt tillgänglig.
@@ -150,10 +134,6 @@ Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt i
 Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 12,0 tum och har en upplösning på 1920 x 869 pixlar.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 ## Infotainment
 
 Du kan välja mellan två ljudsystem på Volkswagen ID.3 Pro S. Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du sju högtalare med en maximal systemeffekt på 450 watt.
@@ -164,10 +144,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Volkswagen ID.3 Pro S. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/headlights_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1894"  >}}
-
 ## Avancerade förarassistanssystem
 
 Volkswagen ID.3 Pro S har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
@@ -216,13 +192,9 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 385 liter. Med baksätet nedfällt är det 1267 liter. På taket kan du lasta upp till 0 kg. Bilens maximala vikt är 2290 kg, och med basvikten på 1786 kg kan du lasta maximalt 504 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 385 liter. Med baksätet nedfällt är det 1267 liter. På taket kan du lasta upp till 0 kg. Bilens maximala vikt är 2420 kg, och med basvikten på 1884 kg kan du lasta maximalt 536 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
 </a>

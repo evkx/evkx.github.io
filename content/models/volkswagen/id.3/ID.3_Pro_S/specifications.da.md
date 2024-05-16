@@ -8,7 +8,6 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998" >}}
 EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.3 Pro S. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volkswagen ID.3 Pro S, besøg [chargeinfo](../chargecurve/) for Volkswagen ID.3 Pro S med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +30,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.3 Pr
 				Popeffekt
 			</td>
 			<td>
-				150 KW (204 hk /201 hk)
+				170 KW (231 hk /228 hk)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.3 Pr
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				7,9 s
+				7,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +165,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				120 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +353,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				10,2 meter (401,6")
+				10,3 meter (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +378,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1786 kg (3937 lbs)
+				1884 kg (4154 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2290 kg (5049 lbs)
+				2420 kg (5335 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +394,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				504 kg (1111 lbs)
+				536 kg (1182 lbs)
 			</td>
 		</tr>
 		<tr>

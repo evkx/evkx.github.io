@@ -9,10 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998"  >}}
-
 Hemos separado nuestro artículo Volkswagen ID.3 Pro S en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
@@ -29,7 +25,7 @@ Hemos separado nuestro artículo Volkswagen ID.3 Pro S en secciones. Si desea es
 
 ## Rendimiento
 
-El Volkswagen ID.3 Pro S tiene una potencia máxima de 150 KW (204 hp/201 bhp). El par total es 310 nm (229 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,9 segundos. La velocidad máxima es 160 km/h.
+El Volkswagen ID.3 Pro S tiene una potencia máxima de 170 KW (231 hp/228 bhp). El par total es 310 nm (229 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,1 segundos. La velocidad máxima es 160 km/h.
 
 ## Batería, autonomía y carga
 
@@ -37,9 +33,9 @@ La batería tiene una capacidad bruta de 82kWh y una capacidad neta de 77kWh, lo
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 553 a 548 km (344-341 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 13,9kWh/100 km para la versión básica y 14,1kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 120kW. Una carga completa del 0 al 100 % tardaría 66 minutos, mientras que un escenario más común del 10 al 80 % tardaría 36 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 53%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 89kW. Cada sesión de carga tardaría 24 minutos y 17 segundos.
+La velocidad máxima de carga de CC es 175kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21kWh/100 km, 1000 km tomarán 9 horas y 51 minutos. Este viaje requerirá cuatro sesiones de carga del 6 % al 50 %. El tiempo total perdido para cargar la batería será de 91 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21kWh/100 km, 1000 km tomarán 9 horas y 40 minutos. Este viaje requerirá cuatro sesiones de carga del 2 % al 46 %. El tiempo total perdido para cargar la batería será de 80 minutos.
 
 ### Cargador a bordo
 
@@ -80,10 +76,6 @@ Puedes elegir entre dos tipos de techos en este modelo. El estándar es simpleme
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 {{<evkxdisplayaddarticle />}}
 
 
@@ -106,19 +98,11 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 ### Asiento de segunda fila
 
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 
 
 Sólo hay un tipo de volante disponible.
@@ -150,10 +134,6 @@ El diseño estándar tiene la siguiente configuración. Detrás del volante hay 
 El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,0 pulgadas de tamaño y tiene una resolución de 1920 x 869 píxeles.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-
-
 ## Infoentretenimiento
 
 Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.3 Pro S. Con el Sound system, obtienes cinco parlantes con una salida máxima del sistema de 140 vatios. Con el Volkswagen Soundsystem, obtienes siete parlantes con una salida máxima del sistema de 450 vatios.
@@ -164,10 +144,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Volkswagen ID.3 Pro S. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/headlights_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1894"  >}}
-
 ## Sistemas avanzados de asistencia al conductor
 
 El Volkswagen ID.3 Pro S tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
@@ -216,13 +192,9 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 385 litros. Con el asiento trasero abatido, es de 1267 litros. En el techo, puedes cargar hasta 0 kg (0,0 lbs). El peso máximo del automóvil es 2290 kg (5049 lbs), y con el peso base de 1786 kg (3937 lbs), puedes cargar como máximo 504 kg (1111 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 385 litros. Con el asiento trasero abatido, es de 1267 litros. En el techo, puedes cargar hasta 0 kg (0,0 lbs). El peso máximo del automóvil es 2420 kg (5335 lbs), y con el peso base de 1884 kg (4154 lbs), puedes cargar como máximo 536 kg (1182 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
 </a>

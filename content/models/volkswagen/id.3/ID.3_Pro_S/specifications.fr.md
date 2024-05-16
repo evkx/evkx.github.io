@@ -8,7 +8,6 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998" >}}
 EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswagen ID.3 Pro S. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Volkswagen ID.3 Pro S, visitez les [chargeinfo](../chargecurve/) pour Volkswagen ID.3 Pro S avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
@@ -31,7 +30,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Puissance de pointe
 			</td>
 			<td>
-				150 KW (204 ch /201 bhp)
+				170 KW (231 ch /228 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7,9 s
+				7,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +165,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				120 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +353,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				10,2 mètre (401,6")
+				10,3 mètre (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +378,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1786 kg (3937 lbs)
+				1884 kg (4154 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2290 kg (5049 lbs)
+				2420 kg (5335 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +394,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				504 kg (1111 lbs)
+				536 kg (1182 lbs)
 			</td>
 		</tr>
 		<tr>

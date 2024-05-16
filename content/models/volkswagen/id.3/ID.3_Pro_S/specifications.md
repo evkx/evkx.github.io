@@ -8,7 +8,6 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.3 Pro S. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.3 Pro S, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.3 Pro S with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +30,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.3 Pro 
 				Peak power
 			</td>
 			<td>
-				150 KW (204 hp /201 bhp)
+				170 KW (231 hp /228 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.3 Pro 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				7,9 s
+				7,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +165,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				120 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +353,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				10,2 meter (401,6")
+				10,3 meter (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +378,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				1786 kg (3937 lbs)
+				1884 kg (4154 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2290 kg (5049 lbs)
+				2420 kg (5335 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +394,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				504 kg (1111 lbs)
+				536 kg (1182 lbs)
 			</td>
 		</tr>
 		<tr>

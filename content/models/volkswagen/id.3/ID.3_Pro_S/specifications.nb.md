@@ -8,7 +8,6 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.3 Pro S. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volkswagen ID.3 Pro S, gå til [chargeinfo](../chargecurve/) for Volkswagen ID.3 Pro S med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +30,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.3 Pro
 				Maks effekt
 			</td>
 			<td>
-				150 KW (204 hk)
+				170 KW (231 hk)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.3 Pro
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				7,9 s
+				7,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +165,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				120 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +353,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				10,2 meter
+				10,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +378,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				1786 kg
+				1884 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2290 kg
+				2420 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +394,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				504 kg
+				536 kg
 			</td>
 		</tr>
 		<tr>

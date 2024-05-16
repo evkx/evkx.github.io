@@ -8,7 +8,6 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/main_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="1998" >}}
 EVKX.net busca tener las especificaciones más completas para Volkswagen ID.3 Pro S. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Volkswagen ID.3 Pro S, visite [chargeinfo](../chargecurve/) para Volkswagen ID.3 Pro S con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
@@ -31,7 +30,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.3 Pr
 				Potencia máxima
 			</td>
 			<td>
-				150 KW (204 hp /201 bhp)
+				170 KW (231 hp /228 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +54,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.3 Pr
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				7,9 s
+				7,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -166,7 +165,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				120 kW
+				175 kW
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +353,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				10,2 metros (401,6")
+				10,3 metros (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +378,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1786 kg (3937 lbs)
+				1884 kg (4154 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +386,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2290 kg (5049 lbs)
+				2420 kg (5335 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +394,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				504 kg (1111 lbs)
+				536 kg (1182 lbs)
 			</td>
 		</tr>
 		<tr>
