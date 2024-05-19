@@ -53,10 +53,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				409 km / 254 mi
+				529 km / 329 mi
 			</td>
 			<td>
-				18,83 kWh/100km / 3,3 mi/kWh
+				14,56 kWh/100km / 4,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -98,10 +98,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række top trim med 2KW AC
 			</td>
 			<td>
-				333 km / 207 mi
+				408 km / 254 mi
 			</td>
 			<td>
-				-18,6%
+				-22,9%
 			</td>
 		</tr>
 	</tbody>

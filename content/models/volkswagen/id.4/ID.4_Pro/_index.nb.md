@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1828"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2039"  >}}
 
 Vi har delt vår beskrivelse av Volkswagen ID.4 Pro i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
@@ -29,13 +29,13 @@ Vi har delt vår beskrivelse av Volkswagen ID.4 Pro i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Volkswagen ID.4 Pro har en maksimal effekt på 128 KW (174hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 10,4 sekunder. Topphastigheten er 160 km/t.
+Volkswagen ID.4 Pro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 545 nm. Den utfører sprinten 0-100 km/t på 6,7 sekunder. Topphastigheten er 160 km/t.
 
 ## Batteri, rekkevidde og lading
 
 Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 529 til 409 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,6kWh/100 km for basisversjonen og 18,8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 529 km. Forbruket er 14,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
 
@@ -44,10 +44,6 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 ### Ombordlader
 
 For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 0 minutter.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/charging_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1765"  >}}
-
 
 ### Ladeport
 
@@ -61,7 +57,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Volkswagen ID.4 Pro har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 180 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 163 mm.
 
 Du kan bestille Volkswagen ID.4 Pro med en alternativ sport hjuloppheng. Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
 
@@ -87,7 +83,7 @@ Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanli
 Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/exterior_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/exterior_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1922"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -130,19 +126,11 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
-
-
 ### Seter på andre rad
 
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
 
 
 Det er bare én type ratt tilgjengelig.
@@ -175,7 +163,7 @@ Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital i
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2206"  >}}
 
 
 ## Infotainment
@@ -188,10 +176,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Volkswagen ID.4 Pro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/headlights_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
-
 ## Avanserte førerassistentsystemer
 
 Volkswagen ID.4 Pro har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
@@ -236,7 +220,7 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 543 liter. Med baksetet nede er det 1575 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2164 kg kan du maksimalt laste 586 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 543 liter. Med baksetet nede er det 1575 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2690 kg, og med basisvekten på 2081 kg kan du maksimalt laste 609 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
 

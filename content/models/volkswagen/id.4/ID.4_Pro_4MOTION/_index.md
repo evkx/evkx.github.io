@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION
 linktitle: "ID.4 Pro 4MOTION"
-description: "Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 530 km (329 miles). EVKX.net has all the details."
+description: "Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 527 km (328 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Volkswagen ID.4 Pro 4MOTION has a maximum power of 210 KW (286 hp/282 bhp). 
 
 The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 530 km (329 mi). The consumption is 14.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 527 km (328 mi). The consumption is 14.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 19 minutes and 43 seconds.
 
@@ -220,7 +220,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2164 kg (4771 lbs), you can max load 586 kg (1292 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2760 kg (6085 lbs), and with the base weight of 2232 kg (4921 lbs), you can max load 528 kg (1164 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 

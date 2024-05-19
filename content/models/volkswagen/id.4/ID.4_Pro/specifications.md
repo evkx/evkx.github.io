@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1828" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2039" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 Pro, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro.
 				Peak power
 			</td>
 			<td>
-				128 KW (174 hp /172 bhp)
+				210 KW (286 hp /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro.
 				Electrical torque output
 			</td>
 			<td>
-				310 nm (229 ft-lb)
+				545 nm (402 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro.
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,7 +80,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
 				529 km
@@ -88,7 +88,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
 				14,6 kWh/100km
@@ -96,34 +96,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				17,9 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
-			</td>
-			<td>
-				409 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
-			</td>
-			<td>
-				18,8 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
-			</td>
-			<td>
-				21,4 kwh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -370,7 +346,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				11,6 meter (456,7")
+				10,3 meter (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -395,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2164 kg (4771 lbs)
+				2081 kg (4588 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2690 kg (5930 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				586 kg (1292 lbs)
+				609 kg (1343 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +504,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +512,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>

@@ -112,8 +112,11 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-4ad084ff
+  translation: Volkswagen ID.4 Pro er en helelektrisk SUV med en WLTP rekkevidde på opptil 529 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-0a5db8ad
-  translation: Volkswagen ID.4 Pro 4MOTION er en helelektrisk SUV med en WLTP rekkevidde på opptil 530 km. EVKX.net har alle detaljene.
+  translation: Volkswagen ID.4 Pro 4MOTION er en helelektrisk SUV med en WLTP rekkevidde på opptil 527 km. EVKX.net har alle detaljene.
 
 - id: frontpage-description-2009d566
   translation: Porsche Taycan 4S Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 616 km. EVKX.net har alle detaljene.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-794466b7
   translation: Mercedes-EQ EQA 250+ er en helelektrisk premium crossover med en WLTP rekkevidde på opptil 560 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-23921abb
-  translation: Chevrolet Equinox EV AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 513 km. EVKX.net har alle detaljene.
 

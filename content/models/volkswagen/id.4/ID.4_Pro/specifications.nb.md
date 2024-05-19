@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1828" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2039" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volkswagen ID.4 Pro, gå til [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro
 				Maks effekt
 			</td>
 			<td>
-				128 KW (174 hk)
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro
 				Dreiemoment
 			</td>
 			<td>
-				310 nm
+				545 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,7 +80,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde
 			</td>
 			<td>
 				529 km
@@ -88,7 +88,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk
 			</td>
 			<td>
 				14,6 kWh/100km
@@ -96,34 +96,10 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				17,9 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-rekkevidde
-			</td>
-			<td>
-				409 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk
-			</td>
-			<td>
-				18,8 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk med ladetap
-			</td>
-			<td>
-				21,4 kwh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -370,7 +346,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				11,6 meter
+				10,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -395,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2164 kg
+				2081 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2750 kg
+				2690 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +387,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				586 kg
+				609 kg
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +504,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				180 mm
+				163 mm
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +512,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				180 mm
+				163 mm
 			</td>
 		</tr>
 		<tr>

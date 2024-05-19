@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION
 linktitle: "ID.4 Pro 4MOTION"
-description: "Volkswagen ID.4 Pro 4MOTION es un SUV totalmente eléctrico con una autonomía WLTP de hasta 530 km (329 millas). EVKX.net tiene todos los detalles."
+description: "Volkswagen ID.4 Pro 4MOTION es un SUV totalmente eléctrico con una autonomía WLTP de hasta 527 km (328 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ El Volkswagen ID.4 Pro 4MOTION tiene una potencia máxima de 210 KW (286 hp/282 
 
 La batería tiene una capacidad bruta de 82kWh y una capacidad neta de 77kWh, lo que significa que tienes un buffer de 5kWh para protección. (6,1%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 530 km (329 mi). El consumo es de 14,5kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 527 km (328 mi). El consumo es de 14,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
 
@@ -220,7 +220,7 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 543 litros. Con el asiento trasero abatido, es de 1575 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2750 kg (6063 lbs), y con el peso base de 2164 kg (4771 lbs), puedes cargar como máximo 586 kg (1292 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 543 litros. Con el asiento trasero abatido, es de 1575 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2760 kg (6085 lbs), y con el peso base de 2232 kg (4921 lbs), puedes cargar como máximo 528 kg (1164 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
 

@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1828" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2039" >}}
 EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pro. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volkswagen ID.4 Pro, besøg [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pr
 				Popeffekt
 			</td>
 			<td>
-				128 KW (174 hk /172 hk)
+				210 KW (286 hk /282 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pr
 				Elektrisk momentudgang
 			</td>
 			<td>
-				310 nm (229 ft-lb)
+				545 nm (402 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pr
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,7 +80,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
-				Basic trim WLTP range
+				WLTP-område
 			</td>
 			<td>
 				529 km
@@ -88,7 +88,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbrug
+				WLTP-forbrug
 			</td>
 			<td>
 				14,6 kWh/100km
@@ -96,34 +96,10 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Grundlæggende trim WLTP-forbrug med opladningstab
+				WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				17,9 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Toptrim WLTP-område
-			</td>
-			<td>
-				409 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Toptrim WLTP-forbrug
-			</td>
-			<td>
-				18,8 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Toptrimmet WLTP-forbrug med opladningstab
-			</td>
-			<td>
-				21,4 kwh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -370,7 +346,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,6 meter (456,7")
+				10,3 meter (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -395,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2164 kg (4771 lbs)
+				2081 kg (4588 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2690 kg (5930 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				586 kg (1292 lbs)
+				609 kg (1343 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +504,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +512,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>

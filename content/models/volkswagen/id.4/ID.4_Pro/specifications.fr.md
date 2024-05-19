@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1828" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2039" >}}
 EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswagen ID.4 Pro. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Volkswagen ID.4 Pro, visitez les [chargeinfo](../chargecurve/) pour Volkswagen ID.4 Pro avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Puissance de pointe
 			</td>
 			<td>
-				128 KW (174 ch /172 bhp)
+				210 KW (286 ch /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Couple de sortie électrique
 			</td>
 			<td>
-				310 nm (229 ft-lb)
+				545 nm (402 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,7 +80,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
-				Gamme WLTP de finition de base
+				Gamme WLTP
 			</td>
 			<td>
 				529 km
@@ -88,7 +88,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Consommation WLTP du trim de base
+				Consommation WLTP
 			</td>
 			<td>
 				14,6 kWh/100km
@@ -96,34 +96,10 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Consommation WLTP trim de base avec perte de charge
+				Consommation WLTP avec perte de charge
 			</td>
 			<td>
-				17,9 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Gamme WLTP haut de gamme
-			</td>
-			<td>
-				409 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation WLTP de la garniture supérieure
-			</td>
-			<td>
-				18,8 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation WLTP de garniture supérieure avec perte de charge
-			</td>
-			<td>
-				21,4 kwh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -370,7 +346,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,6 mètre (456,7")
+				10,3 mètre (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -395,7 +371,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2164 kg (4771 lbs)
+				2081 kg (4588 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +379,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2690 kg (5930 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				586 kg (1292 lbs)
+				609 kg (1343 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +504,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +512,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>

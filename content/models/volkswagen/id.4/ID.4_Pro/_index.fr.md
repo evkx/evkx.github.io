@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1828"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2039"  >}}
 
 Nous avons séparé notre article Volkswagen ID.4 Pro en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
@@ -29,13 +29,13 @@ Nous avons séparé notre article Volkswagen ID.4 Pro en sections. Si vous souha
 
 ## Performances
 
-Le Volkswagen ID.4 Pro a une puissance maximale de 128 KW (174 ch/172 ch). Le couple total est de 310 nm (229 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 10,4 secondes. La vitesse maximale est de 160 km/h.
+Le Volkswagen ID.4 Pro a une puissance maximale de 210 KW (286 ch/282 ch). Le couple total est de 545 nm (402 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,7 secondes. La vitesse maximale est de 160 km/h.
 
 ## Batterie, autonomie et charge
 
 La batterie a une capacité brute de 82kWh et une capacité nette de 77kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (6,1%).
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 529 à 409 km (329-254 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,6kWh/100km pour la version de base et 18,8kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 529 km (329 mi). La consommation est de 14,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 135kW. Une charge complète de 0 à 100 % prendrait 62 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 101kW. Chaque session de charge prendrait 19 minutes et 43 secondes.
 
@@ -44,10 +44,6 @@ Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et
 ### Chargeur embarqué
 
 Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 0 minutes.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/charging_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1765"  >}}
-
 
 ### Port de recharge
 
@@ -61,7 +57,7 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 Volkswagen ID.4 Pro dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 180 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 163 mm.
 
 Vous pouvez commander Volkswagen ID.4 Pro avec une suspension alternative sport. La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension sport a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 163 mm.
 
@@ -87,7 +83,7 @@ Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est ju
 Vous pouvez commander la voiture avec des vitres teintées à partir du montant B et à l'arrière.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/exterior_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/exterior_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1922"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -130,19 +126,11 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
-
-
 ### Siège de deuxième rangée
 
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
 
 
 Il n'y a qu'un seul type de volant disponible.
@@ -175,7 +163,7 @@ La disposition facultative  a la configuration suivante. Derrière le volant se 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2206"  >}}
 
 
 ## Infodivertissement
@@ -188,10 +176,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Volkswagen ID.4 Pro. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/headlights_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
-
 ## Systèmes avancés d'aide à la conduite
 
 Le Volkswagen ID.4 Pro dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
@@ -236,7 +220,7 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 543 litres. Avec la banquette arrière rabattue, elle est de 1575 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2750 kg (6063 lbs), et avec le poids de base de 2164 kg (4771 lbs), vous pouvez charger au maximum 586 kg (1292 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 543 litres. Avec la banquette arrière rabattue, elle est de 1575 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2690 kg (5930 lbs), et avec le poids de base de 2081 kg (4588 lbs), vous pouvez charger au maximum 609 kg (1343 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
 

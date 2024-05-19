@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION
 linktitle: "ID.4 Pro 4MOTION"
-description: "Volkswagen ID.4 Pro 4MOTION est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 530 km (329 miles). EVKX.net a tous les détails."
+description: "Volkswagen ID.4 Pro 4MOTION est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 527 km (328 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Le Volkswagen ID.4 Pro 4MOTION a une puissance maximale de 210 KW (286 ch/282 ch
 
 La batterie a une capacité brute de 82kWh et une capacité nette de 77kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (6,1%).
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 530 km (329 mi). La consommation est de 14,5kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 527 km (328 mi). La consommation est de 14,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 135kW. Une charge complète de 0 à 100 % prendrait 62 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 101kW. Chaque session de charge prendrait 19 minutes et 43 secondes.
 
@@ -220,7 +220,7 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 543 litres. Avec la banquette arrière rabattue, elle est de 1575 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2750 kg (6063 lbs), et avec le poids de base de 2164 kg (4771 lbs), vous pouvez charger au maximum 586 kg (1292 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 543 litres. Avec la banquette arrière rabattue, elle est de 1575 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2760 kg (6085 lbs), et avec le poids de base de 2232 kg (4921 lbs), vous pouvez charger au maximum 528 kg (1164 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1200, et sur une remorque non freinée, il est de 750 kg (2646/1653 lbs).
 

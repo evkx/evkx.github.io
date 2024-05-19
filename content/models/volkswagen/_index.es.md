@@ -56,7 +56,7 @@ Volkswagen ID.3 es un hatchback disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.4 es un SUV disponible en 6 variantes.
+Volkswagen ID.4 es un SUV disponible en 7 variantes.
 </p>
 	<a href="id.4/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

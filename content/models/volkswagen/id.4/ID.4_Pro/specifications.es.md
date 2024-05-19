@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1828" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2039" >}}
 EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 Pro. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Volkswagen ID.4 Pro, visite [chargeinfo](../chargecurve/) para Volkswagen ID.4 Pro con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 Pr
 				Potencia máxima
 			</td>
 			<td>
-				128 KW (174 hp /172 bhp)
+				210 KW (286 hp /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 Pr
 				Salida de par eléctrico
 			</td>
 			<td>
-				310 nm (229 pies-libra)
+				545 nm (402 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 Pr
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,7 +80,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
-				Rango WLTP de equipamiento básico
+				Rango WLTP
 			</td>
 			<td>
 				529 km
@@ -88,7 +88,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Consumo WLTP de ajuste básico
+				Consumo WLTP
 			</td>
 			<td>
 				14,6 kWh/100km
@@ -96,34 +96,10 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Consumo WLTP de ajuste básico con pérdida de carga
+				Consumo WLTP con pérdida de carga
 			</td>
 			<td>
-				17,9 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Rango WLTP de acabado superior
-			</td>
-			<td>
-				409 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP superior
-			</td>
-			<td>
-				18,8 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP superior con pérdida de carga
-			</td>
-			<td>
-				21,4 kwh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -370,7 +346,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,6 metros (456,7")
+				10,3 metros (405,5")
 			</td>
 		</tr>
 	</tbody>
@@ -395,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2164 kg (4771 lbs)
+				2081 kg (4588 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2690 kg (5930 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				586 kg (1292 lbs)
+				609 kg (1343 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +504,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +512,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>

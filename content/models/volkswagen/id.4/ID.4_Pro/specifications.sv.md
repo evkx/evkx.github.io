@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1828" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/main_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2039" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.4 Pro. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Volkswagen ID.4 Pro, gå till [chargeinfo](../chargecurve/) för Volkswagen ID.4 Pro med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.4 Pro. K
 				Max effekt
 			</td>
 			<td>
-				128 KW (174 hk)
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.4 Pro. K
 				Vridmoment
 			</td>
 			<td>
-				310 nm
+				545 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.4 Pro. K
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				10,4 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -80,7 +80,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-räckvidd för grundläggande trim
+				WLTP-räckvidd
 			</td>
 			<td>
 				529 km
@@ -88,7 +88,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-förbrukning
+				WLTP-förbrukning
 			</td>
 			<td>
 				14,6 kWh/100km
@@ -96,34 +96,10 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-förbrukning med laddningsförlust
+				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				17,9 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topptrim WLTP-räckvidd
-			</td>
-			<td>
-				409 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topptrim WLTP-förbrukning
-			</td>
-			<td>
-				18,8 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topp trim WLTP-förbrukning med laddningsförlust
-			</td>
-			<td>
-				21,4 kwh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -370,7 +346,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				11,6 meter
+				10,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -395,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2164 kg
+				2081 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2750 kg
+				2690 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				586 kg
+				609 kg
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +504,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Max markfrigång
 			</td>
 			<td>
-				180 mm
+				163 mm
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +512,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				180 mm
+				163 mm
 			</td>
 		</tr>
 		<tr>
