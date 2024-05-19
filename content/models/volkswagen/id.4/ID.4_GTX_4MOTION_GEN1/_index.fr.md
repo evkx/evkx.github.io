@@ -241,6 +241,9 @@ Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maxim
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
+
+### Disponibilité et prix
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
