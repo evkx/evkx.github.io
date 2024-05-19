@@ -42,10 +42,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				441 km / 274 mi
+				534 km / 332 mi
 			</td>
 			<td>
-				18,96kWh/100km / 3,3 mi/kWh
+				15,66kWh/100km / 4,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -55,10 +55,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				358 km / 222 mi
+				449 km / 279 mi
 			</td>
 			<td>
-				23,35 kWh/100km / 2,7 mi/kWh
+				18,62 kWh/100km / 3,3 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -89,10 +89,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række grundlæggende trim med 2KW AC
 			</td>
 			<td>
-				 359km / 223 mi 
+				 419km / 260 mi 
 			</td>
 			<td>
-				-18,6%
+				-21,5%
 			</td>
 		</tr>
 		<tr>
@@ -100,10 +100,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række top trim med 2KW AC
 			</td>
 			<td>
-				302 km / 188 mi
+				365 km / 227 mi
 			</td>
 			<td>
-				-15,6%
+				-18,7%
 			</td>
 		</tr>
 	</tbody>
@@ -131,13 +131,35 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 	<tbody>
 		<tr>
 			<td>
+				90kmt/56mph perfekt stand
+			</td>
+			<td>
+				492km / 306 mi
+			</td>
+			<td>
+				17 kWh/100km / 3,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90kmt/56mph med 2KW opvarmning
+			</td>
+			<td>
+				448km /270mi
+			</td>
+			<td>
+				19,2 kWh/100km /3,2 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120kmt/75mph perfekt stand
 			</td>
 			<td>
-				380 km / 236 mi
+				398 km / 247 mi
 			</td>
 			<td>
-				22 kWh/100km / 2,8 mi/kWh
+				21 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -145,10 +167,10 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				120kmt/75mph med 2KW opvarmning
 			</td>
 			<td>
-				353 km /219mi
+				369 km /229mi
 			</td>
 			<td>
-				23,7 kWh/100km /2,6 mi/kWh
+				22,7 kWh/100km /2,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -184,7 +206,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				498 km / 309 mi
+				616 km / 383 mi
 			</td>
 			<td>
 				kWh/100km /  mi/kWh
@@ -197,7 +219,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				417 km / 259 mi
+				522 km / 324 mi
 			</td>
 			<td>
 				 kWh/100km /  mi/kWh

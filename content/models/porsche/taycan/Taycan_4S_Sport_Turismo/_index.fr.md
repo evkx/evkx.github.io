@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4S Sport Turismo
 linktitle: "Taycan 4S Sport Turismo"
-description: "Porsche Taycan 4S Sport Turismo est un break de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 498 km (310 miles). EVKX.net a tous les détails."
+description: "Porsche Taycan 4S Sport Turismo est un break de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 616 km (383 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -40,20 +40,20 @@ Porsche Taycan 4S Sport Turismo propose deux options de batterie avec des spéci
 
 La batterie a une capacité brute de 89kWh et une capacité nette de 83,6kWh, ce qui signifie que vous disposez d'une réserve de 5,4kWh pour la protection. (6,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 441 à 358 km (274-223 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 19,0kWh/100km pour la version de base et 23,4kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 534 à 449 km (332-279 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 15,7kWh/100km pour la version de base et 18,6kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 50 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 165kW. Chaque session de charge prendrait 19 minutes et 52 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 22kWh/100 km, 1 000 km prendront 9 heures et 10 minutes. Ce trajet nécessitera trois sessions de charge de 3 % à 58 %. Le temps total perdu pour charger la batterie sera de 51 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 21kWh/100 km, 1 000 km prendront 9 heures et 7 minutes. Ce trajet nécessitera trois sessions de charge de 4 % à 55 %. Le temps total perdu pour charger la batterie sera de 47 minutes.
 ### Performance Battery Plus
 
 La batterie a une capacité brute de 105kWh et une capacité nette de 97kWh, ce qui signifie que vous disposez d'une réserve de 8kWh pour la protection. (7,6%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 498 à 417 km (310-259 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 19,0kWh/100km pour la version de base et 23,4kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 616 à 522 km (383-324 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 15,7kWh/100km pour la version de base et 18,6kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 320kW. Une charge complète de 0 à 100 % prendrait 46 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 15 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 212kW. Chaque session de charge prendrait 18 minutes et 32 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 22kWh/100 km, 1 000 km prendront 8 heures et 55 minutes. Ce trajet nécessitera deux sessions de charge de 1 % à 65 %. Le temps total perdu pour charger la batterie sera de 35 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 21kWh/100 km, 1 000 km prendront 8 heures et 52 minutes. Ce trajet nécessitera deux sessions de charge de 5 % à 64 %. Le temps total perdu pour charger la batterie sera de 33 minutes.
 
 ### Chargeur embarqué
 

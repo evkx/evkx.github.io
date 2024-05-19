@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan 4S Sport Turismo
 linktitle: "Taycan 4S Sport Turismo"
-description: "Porsche Taycan 4S Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 498 km (310 millas). EVKX.net tiene todos los detalles."
+description: "Porsche Taycan 4S Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 616 km (383 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -40,20 +40,20 @@ Porsche Taycan 4S Sport Turismo tiene dos opciones de batería con diferentes es
 
 La batería tiene una capacidad bruta de 89kWh y una capacidad neta de 83,6kWh, lo que significa que tienes un buffer de 5,4kWh para protección. (6,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 441 a 358 km (274-223 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 19,0kWh/100 km para la versión básica y 23,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 534 a 449 km (332-279 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,7kWh/100 km para la versión básica y 18,6kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 50 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 165kW. Cada sesión de carga tardaría 19 minutos y 52 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 9 horas y 10 minutos. Este viaje requerirá tres sesiones de carga del 3 % al 58 %. El tiempo total perdido para cargar la batería será de 51 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21kWh/100 km, 1000 km tomarán 9 horas y 7 minutos. Este viaje requerirá tres sesiones de carga del 4 % al 55 %. El tiempo total perdido para cargar la batería será de 47 minutos.
 ### Performance Battery Plus
 
 La batería tiene una capacidad bruta de 105kWh y una capacidad neta de 97kWh, lo que significa que tienes un buffer de 8kWh para protección. (7,6%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 498 a 417 km (310-259 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 19,0kWh/100 km para la versión básica y 23,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 616 a 522 km (383-324 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,7kWh/100 km para la versión básica y 18,6kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 320kW. Una carga completa del 0 al 100 % tardaría 46 minutos, mientras que un escenario más común del 10 al 80 % tardaría 15 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 212kW. Cada sesión de carga tardaría 18 minutos y 32 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 8 horas y 55 minutos. Este viaje requerirá dos sesiones de carga del 1 % al 65 %. El tiempo total perdido para cargar la batería será de 35 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21kWh/100 km, 1000 km tomarán 8 horas y 52 minutos. Este viaje requerirá dos sesiones de carga del 5 % al 64 %. El tiempo total perdido para cargar la batería será de 33 minutos.
 
 ### Cargador a bordo
 
