@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/main_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/main_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1687"  >}}
 
 Vi har delat in vår beskrivning av Porsche Taycan 4S Sport Turismo i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
@@ -29,35 +29,35 @@ Vi har delat in vår beskrivning av Porsche Taycan 4S Sport Turismo i avsnitt. O
 
 ## Prestanda
 
-Med overboost har Porsche Taycan 4S Sport Turismo en maximal effekt på 390 KW (530hk). Utan overboost är det 320KW (435hp). Vridmomentet är 640 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4 sekunder. Topphastigheten är 230 km/h.
+Med overboost har Porsche Taycan 4S Sport Turismo en maximal effekt på 400 KW (544hk). Utan overboost är det 340KW (462hp). Vridmomentet är 695 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4 sekunder. Topphastigheten är 230 km/h.
 
-Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan 4S Sport Turismo en maximal effekt på 420 KW (571hk). Utan overboost är det 320KW (435hp). Vridmomentet är 650 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4 sekunder. Topphastigheten är 250 km/h.
+Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan 4S Sport Turismo en maximal effekt på 440 KW (598hk). Utan overboost är det 380KW (517hp). Vridmomentet är 710 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4 sekunder. Topphastigheten är 250 km/h.
 
 ## Batteri, räckvidd och laddning
 
 Porsche Taycan 4S Sport Turismo har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
 ### Performance Battery
 
-Batteriet har en bruttokapacitet på 79,2kWh och en nettokapacitet på 71kWh, vilket innebär att du har en 8,2kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 89kWh och en nettokapacitet på 83,6kWh, vilket innebär att du har en 5,4kWh buffert för skydd. (6,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 441 till 358 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16,1kWh/100 km för basversionen och 19,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 441 till 358 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19,0kWh/100 km för basversionen och 23,4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 225 kW. En full laddning från 0 - 100 % tar 45 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 136kW. Varje laddningssession tar 21 minuter och 2 sekunder.
-
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 26 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 0% till 70%. Total tid som går förlorad för att ladda batteriet kommer att vara 66 minuter.
-### Performance Battery Plus
-
-Batteriet har en bruttokapacitet på 93,4kWh och en nettokapacitet på 83,7kWh, vilket innebär att du har en 9,7kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
-
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 498 till 417 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16,1kWh/100 km för basversionen och 19,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
-
-Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 165kW. Varje laddningssession tar 19 minuter och 53 sekunder.
+Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 165kW. Varje laddningssession tar 19 minuter och 52 sekunder.
 
 För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 10 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 3% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 51 minuter.
+### Performance Battery Plus
+
+Batteriet har en bruttokapacitet på 105kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 498 till 417 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19,0kWh/100 km för basversionen och 23,4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+
+Maximal DC-laddningshastighet är 320 kW. En full laddning från 0 - 100 % tar 46 minuter, medan ett vanligare scenario på 10-80 % tar 15 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 212kW. Varje laddningssession tar 18 minuter och 32 sekunder.
+
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 8 timmar och 55 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 65%. Total tid som går förlorad för att ladda batteriet kommer att vara 35 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 6 timmar och 27 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 3 timmar och 13 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 36 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 3 timmar och 48 minuter.
 
 ### Laddningsport
 
@@ -71,7 +71,7 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 Porsche Taycan 4S Sport Turismo har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 127 mm.
+
 
 Du kan beställa Porsche Taycan 4S Sport Turismo med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 127 mm.
 
@@ -97,7 +97,7 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Standardinställningen är bara ett vanligt tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1687"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -154,10 +154,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2001"  >}}
-
-
 ### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Porsche Taycan 4S Sport Turismo.
@@ -171,10 +167,6 @@ Alternativet second är två integrerade säten i andra raden med en tredje mind
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - integrerat nackstöd
-
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1912"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -200,7 +192,7 @@ Porsche Taycan 4S Sport Turismo har flera integrerade skärmar. Bakom ratten fin
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}
 
 
 ## Infotainment
@@ -215,7 +207,7 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 Du kan välja mellan två typer av strålkastare för Porsche Taycan 4S Sport Turismo. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}
 
 ## Avancerade förarassistanssystem
 
@@ -266,10 +258,9 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 Lastkapaciteten i bagageutrymmet är 446 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2875 kg, och med basvikten på 2170 kg kan du lasta maximalt 705 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+### Tillgänglighet och pris
 
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1747"  >}}
-<div class="mt-3 mb-3">
+Denna modell hade världspremiär 07.02.2024 och leveranserna startade i June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

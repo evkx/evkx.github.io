@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/main_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/main_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1687"  >}}
 
 Hemos separado nuestro artículo Porsche Taycan 4S Sport Turismo en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -29,35 +29,35 @@ Hemos separado nuestro artículo Porsche Taycan 4S Sport Turismo en secciones. S
 
 ## Rendimiento
 
-Con overboost, el Porsche Taycan 4S Sport Turismo tiene una potencia máxima de 390 KW (530 hp / 523 bhp). Sin overboost, es de 320 KW (435 CV / 435 CV). El par es 640 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4 segundos. La velocidad máxima es 230 km/h.
+Con overboost, el Porsche Taycan 4S Sport Turismo tiene una potencia máxima de 400 KW (544 hp / 536 bhp). Sin overboost, es de 340 KW (462 CV / 462 CV). El par es 695 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4 segundos. La velocidad máxima es 230 km/h.
 
-Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan 4S Sport Turismo tiene una potencia máxima de 420 KW (571 hp / 563 bhp). Sin overboost, es de 320 KW (435 CV / 435 CV). El par es 650 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4 segundos. La velocidad máxima es 250 km/h.
+Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan 4S Sport Turismo tiene una potencia máxima de 440 KW (598 hp / 590 bhp). Sin overboost, es de 380 KW (517 CV / 517 CV). El par es 710 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4 segundos. La velocidad máxima es 250 km/h.
 
 ## Batería, autonomía y carga
 
 Porsche Taycan 4S Sport Turismo tiene dos opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
 ### Performance Battery
 
-La batería tiene una capacidad bruta de 79,2kWh y una capacidad neta de 71kWh, lo que significa que tienes un buffer de 8,2kWh para protección. (10,4%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería tiene una capacidad bruta de 89kWh y una capacidad neta de 83,6kWh, lo que significa que tienes un buffer de 5,4kWh para protección. (6,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 441 a 358 km (274-223 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 16,1kWh/100 km para la versión básica y 19,8kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 441 a 358 km (274-223 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 19,0kWh/100 km para la versión básica y 23,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 225kW. Una carga completa del 0 al 100 % tardaría 45 minutos, mientras que un escenario más común del 10 al 80 % tardaría 19 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 67%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 136kW. Cada sesión de carga tardaría 21 minutos y 2 segundos.
-
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 9 horas y 26 minutos. Este viaje requerirá tres sesiones de carga del 0 % al 70 %. El tiempo total perdido para cargar la batería será de 66 minutos.
-### Performance Battery Plus
-
-La batería tiene una capacidad bruta de 93,4kWh y una capacidad neta de 83,7kWh, lo que significa que tienes un buffer de 9,7kWh para protección. (10,4%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
-
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 498 a 417 km (310-259 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 16,1kWh/100 km para la versión básica y 19,8kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
-
-La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 50 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 165kW. Cada sesión de carga tardaría 19 minutos y 53 segundos.
+La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 50 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 165kW. Cada sesión de carga tardaría 19 minutos y 52 segundos.
 
 Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 9 horas y 10 minutos. Este viaje requerirá tres sesiones de carga del 3 % al 58 %. El tiempo total perdido para cargar la batería será de 51 minutos.
+### Performance Battery Plus
+
+La batería tiene una capacidad bruta de 105kWh y una capacidad neta de 97kWh, lo que significa que tienes un buffer de 8kWh para protección. (7,6%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 498 a 417 km (310-259 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 19,0kWh/100 km para la versión básica y 23,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+
+La velocidad máxima de carga de CC es 320kW. Una carga completa del 0 al 100 % tardaría 46 minutos, mientras que un escenario más común del 10 al 80 % tardaría 15 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 212kW. Cada sesión de carga tardaría 18 minutos y 32 segundos.
+
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 8 horas y 55 minutos. Este viaje requerirá dos sesiones de carga del 1 % al 65 %. El tiempo total perdido para cargar la batería será de 35 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 6 horas y 27 minutos. También puedes seleccionar un cargador integrado opcional que admita una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 3 horas y 13 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 7 horas y 36 minutos. También puedes seleccionar un cargador integrado opcional que admita una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 3 horas y 48 minutos.
 
 ### Puerto de carga
 
@@ -71,7 +71,7 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 Porsche Taycan 4S Sport Turismo tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 127 mm.
+
 
 Puedes pedir Porsche Taycan 4S Sport Turismo con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 103 mm y la máxima es 127 mm.
 
@@ -97,7 +97,7 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1687"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -154,10 +154,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
 
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2001"  >}}
-
-
 ### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Porsche Taycan 4S Sport Turismo.
@@ -171,10 +167,6 @@ La opción second son dos asientos integrados en la segunda fila con un tercer a
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - reposacabezas integrado
-
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1912"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -200,7 +192,7 @@ El Porsche Taycan 4S Sport Turismo tiene múltiples pantallas integradas. Detrá
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}
 
 
 ## Infoentretenimiento
@@ -215,7 +207,7 @@ Además, con el sistema de navegación para automóvil estándar, obtienes la ay
 Puedes elegir entre dos tipos de faros para el Porsche Taycan 4S Sport Turismo. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
 
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 
@@ -266,10 +258,9 @@ Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización
 La capacidad de carga en el maletero es de 446 litros. Con el asiento trasero abatido, es de 1171 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2875 kg (6338 lbs), y con el peso base de 2170 kg (4784 lbs), puedes cargar como máximo 705 kg (1554 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+### Disponibilidad y precios
 
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1747"  >}}
-<div class="mt-3 mb-3">
+Este modelo tuvo un estreno mundial el 07.02.2024 y las entregas comenzaron en June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

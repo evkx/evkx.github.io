@@ -190,7 +190,7 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 527 litres. Avec la banquette arrière rabattue, elle est de 1578 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 24 litres (0,8 CU FT). Le poids maximum de la voiture est de 2560 kg (5644 lbs), et avec le poids de base de 2045 kg (4508 lbs), vous pouvez charger au maximum 515 kg (1135 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 527 litres. Avec la banquette arrière rabattue, elle est de 1578 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 24 litres (0,8 CU FT). Le poids maximum de la voiture est de 2660 kg (5864 lbs), et avec le poids de base de 2214 kg (4881 lbs), vous pouvez charger au maximum 446 kg (983 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 446kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
 

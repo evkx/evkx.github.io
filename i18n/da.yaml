@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-2009d566
+  translation: Porsche Taycan 4S Sport Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 441 km (274 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-41246fd3
   translation: Volkswagen ID.3 Pro S er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 553 km (344 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-2057d72d
   translation: Chevrolet Equinox EV FWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 513 km (319 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-5c5cc7ac
-  translation: Porsche Taycan Turbo Cross Turismo er en fuldelektrisk luksus stationcar med en WLTP rækkevidde på op til 597 km (371 miles). EVKX.net har alle detaljerne.
 

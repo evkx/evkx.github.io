@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/main_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/main_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1687" >}}
 EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S Sport Turismo. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Porsche Taycan 4S Sport Turismo, visite [chargeinfo](../chargecurve/) para Porsche Taycan 4S Sport Turismo con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima
 			</td>
 			<td>
-				320 KW (435 hp /429 bhp)
+				340 KW (462 hp /456 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				390 Kw
+				400 Kw
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				640 Nm
+				695 Nm
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima
 			</td>
 			<td>
-				320 KW (435 hp /429 bhp)
+				380 KW (517 hp /510 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				420 Kw
+				440 Kw
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +103,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				650 Nm
+				710 Nm
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +155,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				16,1 kWh/100km
+				19,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				19,8 kWh/100km
+				23,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +219,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				16,1 kWh/100km
+				19,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +243,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				19,8 kWh/100km
+				23,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -278,7 +278,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				79,2 kWh
+				89 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +286,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				71 kWh
+				83,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +294,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				225 kW
+				270 kW
 			</td>
 		</tr>
 		<tr>
@@ -302,7 +302,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Número de módulos
 			</td>
 			<td>
-				28
+				33
 			</td>
 		</tr>
 		<tr>
@@ -310,7 +310,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Configuración del paquete
 			</td>
 			<td>
-				168s2p
+				198s2p
 			</td>
 		</tr>
 		<tr>
@@ -318,7 +318,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				615
+				725
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +350,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +358,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -366,7 +366,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -720,131 +720,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 </table>
 
 ## Suspensión
-
-El modelo ofrece 2 variantes de suspensión
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Suspensión adaptativa
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación delantera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación trasera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Frente regulable en altura
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Altura trasera ajustable
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia máxima al suelo
-			</td>
-			<td>
-				127 mm (5,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia mínima al suelo
-			</td>
-			<td>
-				127 mm (5,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador delantero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador trasero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Delantero tipo resorte
-			</td>
-			<td>
-				Resorte helicoidal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Trasero tipo resorte
-			</td>
-			<td>
-				Resorte helicoidal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión delantera
-			</td>
-			<td>
-				Suspensión de doble horquilla
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión trasera
-			</td>
-			<td>
-				Multienlace
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension
 
 <table class="table table-striped border">
 	<thead>
