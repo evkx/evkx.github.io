@@ -61,7 +61,7 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Chevrolet Silverado EV SRT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 176 mm, og maksimum er 278 mm.
+Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 176 mm, og maksimum er 278 mm. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
 
@@ -190,7 +190,7 @@ Med Super Cruise  niveau 1-systemet får du følgende køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1286 mm, og længden er 1803 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 303 liter (10,7 CU FT). Bilens maksimale vægt er 4531 kg (9989 lbs), og med basisvægten på 3882 kg (8558 lbs), kan du maksimalt laste 649 kg (1431 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1286 mm, og længden er 1803 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 303 liter (10,7 CU FT). Bilens maksimale vægt er 4763 kg (10501 lbs), og med basisvægten på 4061 kg (8953 lbs), kan du maksimalt laste 702 kg (1548 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 4536, og på ubremset er den 750 kg (10000/1653 lbs).
 

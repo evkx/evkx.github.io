@@ -61,7 +61,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Chevrolet Silverado EV SRT tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 176 mm y la máxima es 278 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 176 mm y la máxima es 278 mm. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
 
@@ -190,7 +190,7 @@ Con el sistema Super Cruise  nivel 1, obtienes las siguientes funciones de autom
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en la plataforma del camión es 1039 litros. El ancho de la plataforma es 1286 mm y el largo es 1803 mm. El peso máximo de carga en la plataforma es 614 kg. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 303 litros (10,7 CU FT). El peso máximo del automóvil es 4531 kg (9989 lbs), y con el peso base de 3882 kg (8558 lbs), puedes cargar como máximo 649 kg (1431 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en la plataforma del camión es 1039 litros. El ancho de la plataforma es 1286 mm y el largo es 1803 mm. El peso máximo de carga en la plataforma es 614 kg. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 303 litros (10,7 CU FT). El peso máximo del automóvil es 4763 kg (10501 lbs), y con el peso base de 4061 kg (8953 lbs), puedes cargar como máximo 702 kg (1548 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 4536, y sin freno, es de 750 kg (10000/1653 lbs).
 

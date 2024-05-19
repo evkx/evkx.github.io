@@ -61,7 +61,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Chevrolet Silverado EV SRT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 176 mm, och maximal är 278 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 176 mm, och maximal är 278 mm. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar
 
@@ -190,7 +190,7 @@ Med Super Cruise  nivå 1-systemet får du följande körautomationsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten för lastbilen är 1039 liter. Bredden på lastflaket är 1286 mm och längden är 1803 mm. Den maximala lastvikten i lastflaket är 614 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 303 liter. Bilens maximala vikt är 4531 kg, och med basvikten på 3882 kg kan du lasta maximalt 649 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten för lastbilen är 1039 liter. Bredden på lastflaket är 1286 mm och längden är 1803 mm. Den maximala lastvikten i lastflaket är 614 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 303 liter. Bilens maximala vikt är 4763 kg, och med basvikten på 4061 kg kan du lasta maximalt 702 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 4536, och på en obromsad är den 750 kg.
 

@@ -61,7 +61,7 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 Chevrolet Silverado EV SRT dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 176 mm et la garde au sol maximale est de 278 mm.
+La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 176 mm et la garde au sol maximale est de 278 mm. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
 ### Freins
 
@@ -190,7 +190,7 @@ Avec le système Super Cruise  niveau 1, vous bénéficiez des fonctionnalités 
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans la caisse du camion est de 1039 litres. La largeur de la caisse est de 1286 mm et la longueur est de 1803 mm. Le poids de charge maximal dans la caisse est de 614 kg. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 303 litres (10,7 CU FT). Le poids maximum de la voiture est de 4531 kg (9989 lbs), et avec le poids de base de 3882 kg (8558 lbs), vous pouvez charger au maximum 649 kg (1431 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans la caisse du camion est de 1039 litres. La largeur de la caisse est de 1286 mm et la longueur est de 1803 mm. Le poids de charge maximal dans la caisse est de 614 kg. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 303 litres (10,7 CU FT). Le poids maximum de la voiture est de 4763 kg (10501 lbs), et avec le poids de base de 4061 kg (8953 lbs), vous pouvez charger au maximum 702 kg (1548 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 4536, et sur une remorque non freinée, il est de 750 kg (10000/1653 lbs).
 

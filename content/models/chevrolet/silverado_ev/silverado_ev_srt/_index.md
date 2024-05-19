@@ -61,7 +61,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Chevrolet Silverado EV SRT has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 176 mm, and the maximum is 278 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 176 mm, and the maximum is 278 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
@@ -190,7 +190,7 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 303 liters (10.7 CU FT). The maxium weight of the car is 4531 kg (9989 lbs), and with the base weight of 3882 kg (8558 lbs), you can max load 649 kg (1431 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 303 liters (10.7 CU FT). The maxium weight of the car is 4763 kg (10501 lbs), and with the base weight of 4061 kg (8953 lbs), you can max load 702 kg (1548 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 4536, and on unbraked, it is 750 kg (10000/1653 lbs).
 

@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				3882 kg (8558 lbs)
+				4061 kg (8953 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				4531 kg (9989 lbs)
+				4763 kg (10501 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				649 kg (1431 lbs)
+				702 kg (1548 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				100 kg (220 lbs)
+				454 kg (1001 lbs)
 			</td>
 		</tr>
 	</tbody>

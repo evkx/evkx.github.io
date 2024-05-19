@@ -61,7 +61,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Chevrolet Silverado EV SRT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 176 mm, og maksimum er 278 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 176 mm, og maksimum er 278 mm. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
 
@@ -190,7 +190,7 @@ Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksj
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1039 liter. Bredden på lasteplanet er 1286 mm, og lengden er 1803 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 303 liter. Maksimumsvekten til bilen er 4531 kg, og med basisvekten på 3882 kg kan du maksimalt laste 649 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i lastebilen er 1039 liter. Bredden på lasteplanet er 1286 mm, og lengden er 1803 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 303 liter. Maksimumsvekten til bilen er 4763 kg, og med basisvekten på 4061 kg kan du maksimalt laste 702 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 4536, og på ubremset er den 750 kg.
 

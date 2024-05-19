@@ -323,7 +323,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				3882 kg
+				4061 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				4531 kg
+				4763 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				649 kg
+				702 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>
-				100 kg
+				454 kg
 			</td>
 		</tr>
 	</tbody>
