@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039"  >}}
 
 Nous avons séparé notre article Volkswagen ID.4 Pro 4MOTION en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
@@ -29,7 +29,7 @@ Nous avons séparé notre article Volkswagen ID.4 Pro 4MOTION en sections. Si vo
 
 ## Performances
 
-Le Volkswagen ID.4 Pro 4MOTION a une puissance maximale de 195 KW (265 ch/262 ch). Le couple total est de 425 nm (314 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,9 secondes. La vitesse maximale est de 180 km/h.
+Le Volkswagen ID.4 Pro 4MOTION a une puissance maximale de 210 KW (286 ch/282 ch). Le couple total est de 679 nm (501 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,6 secondes. La vitesse maximale est de 180 km/h.
 
 ## Batterie, autonomie et charge
 
@@ -83,7 +83,7 @@ Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est ju
 Vous pouvez commander la voiture avec des vitres teintées à partir du montant B et à l'arrière.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="1922"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -126,19 +126,11 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-
-
 ### Siège de deuxième rangée
 
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
 
 
 Il n'y a qu'un seul type de volant disponible.
@@ -171,7 +163,7 @@ La disposition facultative  a la configuration suivante. Derrière le volant se 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2206"  >}}
 
 
 ## Infodivertissement
@@ -184,10 +176,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Volkswagen ID.4 Pro 4MOTION. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/headlights_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-
 ## Systèmes avancés d'aide à la conduite
 
 Le Volkswagen ID.4 Pro 4MOTION dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.

@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039" >}}
 EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswagen ID.4 Pro 4MOTION. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Volkswagen ID.4 Pro 4MOTION, visitez les [chargeinfo](../chargecurve/) pour Volkswagen ID.4 Pro 4MOTION avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Puissance de pointe
 			</td>
 			<td>
-				195 KW (265 ch /261 bhp)
+				210 KW (286 ch /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Couple de sortie électrique
 			</td>
 			<td>
-				425 nm (314 ft-lb)
+				679 nm (501 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				6,9 s
+				6,6 s
 			</td>
 		</tr>
 	</tbody>

@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039"  >}}
 
 We have separated our Volkswagen ID.4 Pro 4MOTION article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.4 Pro 4MOTION article into sections. If you 
 
 ## Performance
 
-The Volkswagen ID.4 Pro 4MOTION has a maximum power of 195 KW (265 hp/262 bhp). The total torque is 425 nm (314 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.9 seconds. The top speed is 180 km/h.
+The Volkswagen ID.4 Pro 4MOTION has a maximum power of 210 KW (286 hp/282 bhp). The total torque is 679 nm (501 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.6 seconds. The top speed is 180 km/h.
 
 ## Battery, range, and charging
 
@@ -83,7 +83,7 @@ You can choose between two types of roofs on this model. The standard is just a 
 You can order the car with tinted windows from B-pillar and back.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="1922"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -126,19 +126,11 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-
-
 ### Second-row seat
 
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
 
 
 There is only one type of steering wheel available.
@@ -171,7 +163,7 @@ The optional  layout has the following configuration. Behind the steering wheel 
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2206"  >}}
 
 
 ## Infotainment
@@ -184,10 +176,6 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID.4 Pro 4MOTION. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/headlights_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-
 ## Advanced driver assistance systems
 
 The Volkswagen ID.4 Pro 4MOTION has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039" >}}
 EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 Pro 4MOTION. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Volkswagen ID.4 Pro 4MOTION, visite [chargeinfo](../chargecurve/) para Volkswagen ID.4 Pro 4MOTION con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 Pr
 				Potencia máxima
 			</td>
 			<td>
-				195 KW (265 hp /261 bhp)
+				210 KW (286 hp /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 Pr
 				Salida de par eléctrico
 			</td>
 			<td>
-				425 nm (314 pies-libra)
+				679 nm (501 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 Pr
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6,9 s
+				6,6 s
 			</td>
 		</tr>
 	</tbody>

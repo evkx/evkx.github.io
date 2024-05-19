@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039" >}}
 EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 4MOTION. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Volkswagen ID.4 Pro 4MOTION, visit the [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro 4MOTION with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 
 				Peak power
 			</td>
 			<td>
-				195 KW (265 hp /261 bhp)
+				210 KW (286 hp /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 
 				Electrical torque output
 			</td>
 			<td>
-				425 nm (314 ft-lb)
+				679 nm (501 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				6,9 s
+				6,6 s
 			</td>
 		</tr>
 	</tbody>

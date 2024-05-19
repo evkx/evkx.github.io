@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro 4MOTION. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Volkswagen ID.4 Pro 4MOTION, gå til [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro 4MOTION med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro
 				Maks effekt
 			</td>
 			<td>
-				195 KW (265 hk)
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro
 				Dreiemoment
 			</td>
 			<td>
-				425 nm
+				679 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 Pro
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6,9 s
+				6,6 s
 			</td>
 		</tr>
 	</tbody>

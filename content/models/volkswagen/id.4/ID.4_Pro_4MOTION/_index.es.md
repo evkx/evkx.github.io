@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039"  >}}
 
 Hemos separado nuestro artículo Volkswagen ID.4 Pro 4MOTION en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Volkswagen ID.4 Pro 4MOTION en secciones. Si de
 
 ## Rendimiento
 
-El Volkswagen ID.4 Pro 4MOTION tiene una potencia máxima de 195 KW (265 hp/262 bhp). El par total es 425 nm (314 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,9 segundos. La velocidad máxima es 180 km/h.
+El Volkswagen ID.4 Pro 4MOTION tiene una potencia máxima de 210 KW (286 hp/282 bhp). El par total es 679 nm (501 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,6 segundos. La velocidad máxima es 180 km/h.
 
 ## Batería, autonomía y carga
 
@@ -83,7 +83,7 @@ Puedes elegir entre dos tipos de techos en este modelo. El estándar es simpleme
 Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="1922"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -126,19 +126,11 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-
-
 ### Asiento de segunda fila
 
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
 
 
 Sólo hay un tipo de volante disponible.
@@ -171,7 +163,7 @@ El diseño opcional  tiene la siguiente configuración. Detrás del volante hay 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2206"  >}}
 
 
 ## Infoentretenimiento
@@ -184,10 +176,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Volkswagen ID.4 Pro 4MOTION. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/headlights_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-
 ## Sistemas avanzados de asistencia al conductor
 
 El Volkswagen ID.4 Pro 4MOTION tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

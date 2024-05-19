@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039"  >}}
 
 Vi har delat in vår beskrivning av Volkswagen ID.4 Pro 4MOTION i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volkswagen ID.4 Pro 4MOTION i avsnitt. Om du
 
 ## Prestanda
 
-Volkswagen ID.4 Pro 4MOTION har en maximal effekt på 195 KW (265hk). Totalt vridmoment är 425 Nm. Den gör sprinten 0-100 km/h på 6,9 sekunder. Topphastigheten är 180 km/h.
+Volkswagen ID.4 Pro 4MOTION har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 6,6 sekunder. Topphastigheten är 180 km/h.
 
 ## Batteri, räckvidd och laddning
 
@@ -83,7 +83,7 @@ Du kan välja mellan två typer av tak på denna modell. Standardinställningen 
 Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="1922"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -126,19 +126,11 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-
-
 ### Säten på andra raden
 
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
 
 
 Det finns bara en typ av ratt tillgänglig.
@@ -171,7 +163,7 @@ Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digit
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2206"  >}}
 
 
 ## Infotainment
@@ -184,10 +176,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Volkswagen ID.4 Pro 4MOTION. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
-
-
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/headlights_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-
 ## Avancerade förarassistanssystem
 
 Volkswagen ID.4 Pro 4MOTION har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

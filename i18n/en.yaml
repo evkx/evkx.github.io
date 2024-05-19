@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-0a5db8ad
+  translation: Volkswagen ID.4 Pro 4MOTION is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net has all the details.
+
 - id: frontpage-description-2009d566
   translation: Porsche Taycan 4S Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 616 km (383 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-23921abb
   translation: Chevrolet Equinox EV AWD is an all-electric SUV with a EPA range of up to 513 km (319 miles). EVKX.net has all the details.
-
-- id: frontpage-description-2057d72d
-  translation: Chevrolet Equinox EV FWD is an all-electric SUV with a EPA range of up to 513 km (319 miles). EVKX.net has all the details.
 

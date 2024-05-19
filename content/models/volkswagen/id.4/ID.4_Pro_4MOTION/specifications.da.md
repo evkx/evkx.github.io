@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039" >}}
 EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pro 4MOTION. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volkswagen ID.4 Pro 4MOTION, besøg [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pro 4MOTION med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pr
 				Popeffekt
 			</td>
 			<td>
-				195 KW (265 hk /261 hk)
+				210 KW (286 hk /282 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pr
 				Elektrisk momentudgang
 			</td>
 			<td>
-				425 nm (314 ft-lb)
+				679 nm (501 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pr
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6,9 s
+				6,6 s
 			</td>
 		</tr>
 	</tbody>
