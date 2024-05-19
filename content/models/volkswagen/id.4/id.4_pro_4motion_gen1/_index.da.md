@@ -26,6 +26,12 @@ Vi har opdelt vores Volkswagen ID.4 Pro 4MOTION (GEN1) artikel i sektioner. Hvis
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Volkswagen ID.4 Pro 4MOTION](/models/volkswagen/id.4/id.4_pro_4motion/).
+
+</div>
+
 
 ## Ydeevne
 
@@ -238,6 +244,9 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
+
+### Tilgængelighed og priser
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>

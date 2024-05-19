@@ -26,6 +26,12 @@ Hemos separado nuestro artículo Volkswagen ID.4 Pro 4MOTION (GEN1) en secciones
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
+<div class="alert alert-secondary" role="alert">
+
+Este modelo ha sido reemplazado por [Volkswagen ID.4 Pro 4MOTION](/models/volkswagen/id.4/id.4_pro_4motion/).
+
+</div>
+
 
 ## Rendimiento
 
@@ -238,6 +244,9 @@ Puedes pedir el automóvil con una barra de remolque. El peso total máximo en u
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
+
+### Disponibilidad y precios
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>

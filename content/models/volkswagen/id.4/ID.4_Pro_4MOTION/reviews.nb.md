@@ -40,7 +40,7 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 <h3>VW ID4 Pro 4Motion 1000 km challenge with broken battery cooling</h3>
 <p>Bjørn Nyland: 13.05.2024</p>
 
-{{< youtube pC47dwn7dXQ >}}
+{{< youtube kPdpFd8oGfw >}}
 
 </div>
 <div class="mt-3 mb-3">

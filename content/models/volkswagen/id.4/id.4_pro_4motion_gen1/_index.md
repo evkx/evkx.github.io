@@ -26,6 +26,12 @@ We have separated our Volkswagen ID.4 Pro 4MOTION (GEN1) article into sections. 
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
+<div class="alert alert-secondary" role="alert">
+
+This model has been replaced by [Volkswagen ID.4 Pro 4MOTION](/models/volkswagen/id.4/id.4_pro_4motion/).
+
+</div>
+
 
 ## Performance
 
@@ -238,6 +244,9 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
+
+### Availability & Pricing
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>

@@ -26,6 +26,12 @@ Vi har delt vår beskrivelse av Volkswagen ID.4 Pro 4MOTION (GEN1) i seksjoner. 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne modellen er erstattet av [Volkswagen ID.4 Pro 4MOTION](/models/volkswagen/id.4/id.4_pro_4motion/).
+
+</div>
+
 
 ## Ytelse
 
@@ -238,6 +244,9 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
+
+### Tilgjengelighet & pris
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>

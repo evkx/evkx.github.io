@@ -226,7 +226,10 @@ Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maxim
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 10.11.2023 et les livraisons ont commencé en January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
 </a>
