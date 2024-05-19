@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Velocidad máxima
 			</td>
 			<td>
-				230 kph (143 mph)
+				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -705,7 +705,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1171 litro (41 pies cúbicos)
+				1212 litro (43 pies cúbicos)
 			</td>
 		</tr>
 		<tr>

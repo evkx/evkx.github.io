@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Porsche Taycan 4S Sport Turismo i avsnitt. O
 
 ## Prestanda
 
-Med overboost har Porsche Taycan 4S Sport Turismo en maximal effekt på 400 KW (544hk). Utan overboost är det 340KW (462hp). Vridmomentet är 695 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4 sekunder. Topphastigheten är 230 km/h.
+Med overboost har Porsche Taycan 4S Sport Turismo en maximal effekt på 400 KW (544hk). Utan overboost är det 340KW (462hp). Vridmomentet är 695 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 3,7 sekunder. Topphastigheten är 250 km/h.
 
 Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan 4S Sport Turismo en maximal effekt på 440 KW (598hk). Utan overboost är det 380KW (517hp). Vridmomentet är 710 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4 sekunder. Topphastigheten är 250 km/h.
 
@@ -255,7 +255,7 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 446 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2875 kg, och med basvikten på 2170 kg kan du lasta maximalt 705 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 446 liter. Med baksätet nedfällt är det 1212 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 84 liter. Bilens maximala vikt är 2875 kg, och med basvikten på 2170 kg kan du lasta maximalt 705 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 ### Tillgänglighet och pris

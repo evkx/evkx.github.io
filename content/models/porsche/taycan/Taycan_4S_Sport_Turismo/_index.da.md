@@ -29,7 +29,7 @@ Vi har opdelt vores Porsche Taycan 4S Sport Turismo artikel i sektioner. Hvis du
 
 ## Ydeevne
 
-Med overboost har Porsche Taycan 4S Sport Turismo en maksimal effekt på 400 KW (544 hk / 462 bhp). Uden overboost er den 340 KW (462 hk / 536 hk). Momentet er 695 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Tophastigheden er 230 km/t.
+Med overboost har Porsche Taycan 4S Sport Turismo en maksimal effekt på 400 KW (544 hk / 462 bhp). Uden overboost er den 340 KW (462 hk / 536 hk). Momentet er 695 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3,7 sekunder. Tophastigheden er 250 km/t.
 
 Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan 4S Sport Turismo en maksimal effekt på 440 KW (598 hk / 517 bhp). Uden overboost er den 380 KW (517 hk / 590 hk). Momentet er 710 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 4 sekunder. Tophastigheden er 250 km/t.
 
@@ -255,7 +255,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 446 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2875 kg (6338 lbs), og med basisvægten på 2170 kg (4784 lbs), kan du maksimalt laste 705 kg (1554 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 446 liter. Med bagsædet nede er det 1212 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 84 liter (3,0 CU FT). Bilens maksimale vægt er 2875 kg (6338 lbs), og med basisvægten på 2170 kg (4784 lbs), kan du maksimalt laste 705 kg (1554 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser

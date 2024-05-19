@@ -29,7 +29,7 @@ We have separated our Porsche Taycan 4S Sport Turismo article into sections. If 
 
 ## Performance
 
-With overboost, the Porsche Taycan 4S Sport Turismo has a maximum power of 400 KW (544 hp / 536 bhp). Without overboost, it is 340 KW (462 hp / 462 bhp). The torque is 695 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 230 km/h.
+With overboost, the Porsche Taycan 4S Sport Turismo has a maximum power of 400 KW (544 hp / 536 bhp). Without overboost, it is 340 KW (462 hp / 462 bhp). The torque is 695 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 3.7 seconds. The top speed is 250 km/h.
 
 With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan 4S Sport Turismo has a maximum power of 440 KW (598 hp / 590 bhp). Without overboost, it is 380 KW (517 hp / 517 bhp). The torque is 710 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 250 km/h.
 
@@ -264,7 +264,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2875 kg (6338 lbs), and with the base weight of 2170 kg (4784 lbs), you can max load 705 kg (1554 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1212 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 84 liters (3.0 CU FT). The maxium weight of the car is 2875 kg (6338 lbs), and with the base weight of 2170 kg (4784 lbs), you can max load 705 kg (1554 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 ### Availability & Pricing

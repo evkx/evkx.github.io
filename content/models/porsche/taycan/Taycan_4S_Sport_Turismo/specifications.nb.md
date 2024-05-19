@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S S
 				Topphastighet
 			</td>
 			<td>
-				230 km/t
+				250 km/t
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S S
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -705,7 +705,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1171 liter
+				1212 liter
 			</td>
 		</tr>
 		<tr>

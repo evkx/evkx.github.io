@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4S Spor
 				Topphastighet
 			</td>
 			<td>
-				230 km/h
+				250 km/h
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4S Spor
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -705,7 +705,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1171 liter
+				1212 liter
 			</td>
 		</tr>
 		<tr>

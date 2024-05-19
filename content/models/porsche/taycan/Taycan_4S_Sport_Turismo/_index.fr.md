@@ -29,7 +29,7 @@ Nous avons séparé notre article Porsche Taycan 4S Sport Turismo en sections. S
 
 ## Performances
 
-Avec overboost, le Porsche Taycan 4S Sport Turismo a une puissance maximale de 400 KW (544 ch / 536 ch). Sans overboost, il est de 340 KW (462 ch / 462 ch). Le couple est de 695 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4 secondes. La vitesse maximale est de 230 km/h.
+Avec overboost, le Porsche Taycan 4S Sport Turismo a une puissance maximale de 400 KW (544 ch / 536 ch). Sans overboost, il est de 340 KW (462 ch / 462 ch). Le couple est de 695 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,7 secondes. La vitesse maximale est de 250 km/h.
 
 Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, le Porsche Taycan 4S Sport Turismo a une puissance maximale de 440 KW (598 ch / 590 ch). Sans overboost, il est de 380 KW (517 ch / 517 ch). Le couple est de 710 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4 secondes. La vitesse maximale est de 250 km/h.
 
@@ -255,7 +255,7 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 446 litres. Avec la banquette arrière rabattue, elle est de 1171 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2875 kg (6338 lbs), et avec le poids de base de 2170 kg (4784 lbs), vous pouvez charger au maximum 705 kg (1554 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 446 litres. Avec la banquette arrière rabattue, elle est de 1212 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 84 litres (3,0 CU FT). Le poids maximum de la voiture est de 2875 kg (6338 lbs), et avec le poids de base de 2170 kg (4784 lbs), vous pouvez charger au maximum 705 kg (1554 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
 ### Disponibilité et prix

@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 				Top speed
 			</td>
 			<td>
-				230 kph (143 mph)
+				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4 s
+				3,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -705,7 +705,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1171 liter (41 cu-ft)
+				1212 liter (43 cu-ft)
 			</td>
 		</tr>
 		<tr>

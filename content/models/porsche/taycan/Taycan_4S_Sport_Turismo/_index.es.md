@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Porsche Taycan 4S Sport Turismo en secciones. S
 
 ## Rendimiento
 
-Con overboost, el Porsche Taycan 4S Sport Turismo tiene una potencia máxima de 400 KW (544 hp / 536 bhp). Sin overboost, es de 340 KW (462 CV / 462 CV). El par es 695 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4 segundos. La velocidad máxima es 230 km/h.
+Con overboost, el Porsche Taycan 4S Sport Turismo tiene una potencia máxima de 400 KW (544 hp / 536 bhp). Sin overboost, es de 340 KW (462 CV / 462 CV). El par es 695 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,7 segundos. La velocidad máxima es 250 km/h.
 
 Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan 4S Sport Turismo tiene una potencia máxima de 440 KW (598 hp / 590 bhp). Sin overboost, es de 380 KW (517 CV / 517 CV). El par es 710 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4 segundos. La velocidad máxima es 250 km/h.
 
@@ -255,7 +255,7 @@ Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 446 litros. Con el asiento trasero abatido, es de 1171 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2875 kg (6338 lbs), y con el peso base de 2170 kg (4784 lbs), puedes cargar como máximo 705 kg (1554 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 446 litros. Con el asiento trasero abatido, es de 1212 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 84 litros (3,0 CU FT). El peso máximo del automóvil es 2875 kg (6338 lbs), y con el peso base de 2170 kg (4784 lbs), puedes cargar como máximo 705 kg (1554 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
 ### Disponibilidad y precios
