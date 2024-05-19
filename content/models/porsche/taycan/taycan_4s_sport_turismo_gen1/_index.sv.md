@@ -26,6 +26,12 @@ Vi har delat in vår beskrivning av Porsche Taycan 4S Sport Turismo (GEN1) i avs
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
+<div class="alert alert-secondary" role="alert">
+
+Denna modell har ersatts av [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/).
+
+</div>
+
 
 ## Prestanda
 

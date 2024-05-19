@@ -43,7 +43,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				450 km / 280 mi
 			</td>
 			<td>
-				18,67kWh/100km / 3,3 mi/kWh
+				17,78kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				450 km / 280 mi
 			</td>
 			<td>
-				18,67 kWh/100km / 3,3 mi/kWh
+				17,78 kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range basic trim with 2KW AC
 			</td>
 			<td>
-				 366km / 227 mi 
+				 362km / 225 mi 
 			</td>
 			<td>
-				-18,7%
+				-19,6%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range top trim with 2KW AC
 			</td>
 			<td>
-				366 km / 227 mi
+				362 km / 225 mi
 			</td>
 			<td>
-				-18,7%
+				-19,6%
 			</td>
 		</tr>
 	</tbody>
@@ -129,10 +129,32 @@ The table below shows some estimated real-world examples in perfect condition an
 	<tbody>
 		<tr>
 			<td>
-				120kmh/75mph perfect condition
+				90kmh/56mph perfect condition
 			</td>
 			<td>
-				350 km / 217 mi
+				364km / 226 mi
+			</td>
+			<td>
+				22 kWh/100km / 2,8 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90kmh/56mph with 2KW heating
+			</td>
+			<td>
+				338km /206mi
+			</td>
+			<td>
+				24,2 kWh/100km /2,6 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112kmh perfect condition
+			</td>
+			<td>
+				333 km / 207 mi
 			</td>
 			<td>
 				24 kWh/100km / 2,6 mi/kWh
@@ -140,13 +162,35 @@ The table below shows some estimated real-world examples in perfect condition an
 		</tr>
 		<tr>
 			<td>
+				70mph/112kmh with 2KW heating
+			</td>
+			<td>
+				310km / 193mi
+			</td>
+			<td>
+				25,8 kWh/100km / 2,4 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120kmh/75mph perfect condition
+			</td>
+			<td>
+				308 km / 191 mi
+			</td>
+			<td>
+				26 kWh/100km / 2,4 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120kmh/75mph with 2KW heating
 			</td>
 			<td>
-				327 km /203mi
+				289 km /180mi
 			</td>
 			<td>
-				25,7 kWh/100km /2,4 mi/kWh
+				27,7 kWh/100km /2,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>

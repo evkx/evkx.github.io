@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				18,7 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +150,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				89 kWh
+				84 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				84 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>

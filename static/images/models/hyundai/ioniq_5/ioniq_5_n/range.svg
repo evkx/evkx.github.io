@@ -79,62 +79,100 @@
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
                     text-anchor="middle">Rated WLTP range maxium trim - 450 km  / 280 mi</text>
             </switch>
-        </g>    <rect x="1" y="440" width="350" height="40" fill="#177fd4" stroke="#2d7600" />
+        </g>    <rect x="1" y="440" width="364" height="40" fill="#177fd4" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%"
                     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
                     style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 348px; height: 1px; padding-top: 460px; margin-left: 2px;">
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 362px; height: 1px; padding-top: 460px; margin-left: 2px;">
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Range 120km/h perfect condition - 350 km / 217 mi
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Range 90km/h perfect condition - 364 km / 226 mi
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
-                    text-anchor="middle">Range 120km/h perfect condition - 350 km / 217 mi</text>
+                    text-anchor="middle">Range 90km/h perfect condition - 364 km / 226 mi</text>
             </switch>
-        </g>    <rect x="1" y="500" width="366" height="40" fill="#d417c4" stroke="#2d7600" />
+        </g>    <rect x="1" y="500" width="333" height="40" fill="#177fd4" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%"
                     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
                     style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 364px; height: 1px; padding-top: 520px; margin-left: 2px;">
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 331px; height: 1px; padding-top: 520px; margin-left: 2px;">
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">WLTP basic trim with 2kW heating - 366 km / 227 mi
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Range 112km/h/70mph perfect condition - 333 km / 207 mi
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
-                    text-anchor="middle">WLTP basic trim with 2kW heating - 366 km / 227 mi</text>
+                    text-anchor="middle">Range 112km/h/70mph perfect condition - 333 km / 207 mi</text>
             </switch>
-        </g>    <rect x="1" y="560" width="366" height="40" fill="#d417c4" stroke="#2d7600" />
+        </g>    <rect x="1" y="560" width="308" height="40" fill="#177fd4" stroke="#2d7600" />
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%"
                     requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
                     style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 364px; height: 1px; padding-top: 580px; margin-left: 2px;">
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 306px; height: 1px; padding-top: 580px; margin-left: 2px;">
                         <div data-drawio-colors="color: #ffffff; "
                             style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div
-                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">WLTP top trim with 2kW heating - 366 km / 227 mi
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">Range 120km/h perfect condition - 308 km / 191 mi
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
-                    text-anchor="middle">WLTP top trim with 2kW heating - 366 km / 227 mi</text>
+                    text-anchor="middle">Range 120km/h perfect condition - 308 km / 191 mi</text>
+            </switch>
+        </g>    <rect x="1" y="620" width="362" height="40" fill="#d417c4" stroke="#2d7600" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 360px; height: 1px; padding-top: 640px; margin-left: 2px;">
+                        <div data-drawio-colors="color: #ffffff; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">WLTP basic trim with 2kW heating - 362 km / 225 mi
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
+                    text-anchor="middle">WLTP basic trim with 2kW heating - 362 km / 225 mi</text>
+            </switch>
+        </g>    <rect x="1" y="680" width="362" height="40" fill="#d417c4" stroke="#2d7600" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%"
+                    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+                    style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 360px; height: 1px; padding-top: 700px; margin-left: 2px;">
+                        <div data-drawio-colors="color: #ffffff; "
+                            style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div
+                                style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">WLTP top trim with 2kW heating - 362 km / 225 mi
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="151" y="304" fill="#ffffff" font-family="Helvetica" font-size="14px"
+                    text-anchor="middle">WLTP top trim with 2kW heating - 362 km / 225 mi</text>
             </switch>
         </g> <rect x="275" y="1060" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
@@ -301,13 +339,13 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1118px; height: 1px; padding-top: 1105px; margin-left: 26px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
-                                evkx.net - Range for Hyundai Ioniq 5 N 89 kWh
+                                evkx.net - Range for Hyundai Ioniq 5 N 84 kWh
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="585" y="1114" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px" text-anchor="middle">
-                    evkx.net - Range for Hyundai Ioniq 5 N 89 kWh
+                    evkx.net - Range for Hyundai Ioniq 5 N 84 kWh
                 </text>
             </switch>
         </g>

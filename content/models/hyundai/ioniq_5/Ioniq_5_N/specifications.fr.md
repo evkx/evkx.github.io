@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP
 			</td>
 			<td>
-				18,7 kWh/100km
+				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +150,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				89 kWh
+				84 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				84 kWh
+				80 kWh
 			</td>
 		</tr>
 		<tr>

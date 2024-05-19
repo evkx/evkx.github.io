@@ -26,6 +26,12 @@ Vi har opdelt vores Porsche Taycan 4S Sport Turismo (GEN1) artikel i sektioner. 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
+<div class="alert alert-secondary" role="alert">
+
+Denne model er blevet erstattet af [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/).
+
+</div>
+
 
 ## Ydeevne
 

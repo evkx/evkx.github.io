@@ -33,17 +33,17 @@ Med overboost har Hyundai Ioniq 5 N en maksimal effekt på 478 KW (650hk). Uten 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 89kWh og en nettokapasitet på 84kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (5,6%).
+Batteriet har en bruttokapasitet på 84kWh og en nettokapasitet på 80kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,8%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 450 km. Forbruket er 18,7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 450 km. Forbruket er 17,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 43 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 156kW. Hver ladeøkt vil ta 24 minutter og 57 sekunder.
+Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 41 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 154kW. Hver ladeøkt vil ta 23 minutter og 21 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24kWh/100km, vil 1000km ta 9 timer og 21 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 63%. Totalt tapt tid for å lade opp batteriet vil være 61 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 9 timer og 30 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 76%. Totalt tapt tid for å lade opp batteriet vil være 70 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 38 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 16 minutter.
 
 ### Ladeport
 

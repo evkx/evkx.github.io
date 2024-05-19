@@ -33,17 +33,17 @@ Avec overboost, le Hyundai Ioniq 5 N a une puissance maximale de 478 KW (650 ch 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 89kWh et une capacité nette de 84kWh, ce qui signifie que vous disposez d'une réserve de 5kWh pour la protection. (5,6%).
+La batterie a une capacité brute de 84kWh et une capacité nette de 80kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (4,8%).
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 450 km (280 mi). La consommation est de 18,7kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 450 km (280 mi). La consommation est de 17,8kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
-La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 43 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 75 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 156kW. Chaque session de charge prendrait 24 minutes et 57 secondes.
+La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 41 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 154kW. Chaque session de charge prendrait 23 minutes et 21 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 24kWh/100 km, 1 000 km prendront 9 heures et 21 minutes. Ce trajet nécessitera trois sessions de charge de 1 % à 63 %. Le temps total perdu pour charger la batterie sera de 61 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 26kWh/100 km, 1 000 km prendront 9 heures et 30 minutes. Ce trajet nécessitera trois sessions de charge de 1 % à 76 %. Le temps total perdu pour charger la batterie sera de 70 minutes.
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 38 minutes.
+Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 16 minutes.
 
 ### Port de recharge
 

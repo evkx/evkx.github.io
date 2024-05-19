@@ -33,17 +33,17 @@ Con overboost, el Hyundai Ioniq 5 N tiene una potencia máxima de 478 KW (650 hp
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 89kWh y una capacidad neta de 84kWh, lo que significa que tienes un buffer de 5kWh para protección. (5,6%).
+La batería tiene una capacidad bruta de 84kWh y una capacidad neta de 80kWh, lo que significa que tienes un buffer de 4kWh para protección. (4,8%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 450 km (280 mi). El consumo es de 18,7kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 450 km (280 mi). El consumo es de 17,8kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 43 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 75%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 156kW. Cada sesión de carga tardaría 24 minutos y 57 segundos.
+La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 41 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 154kW. Cada sesión de carga tardaría 23 minutos y 21 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 24kWh/100 km, 1000 km tomarán 9 horas y 21 minutos. Este viaje requerirá tres sesiones de carga del 1 % al 63 %. El tiempo total perdido para cargar la batería será de 61 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 26kWh/100 km, 1000 km tomarán 9 horas y 30 minutos. Este viaje requerirá tres sesiones de carga del 1 % al 76 %. El tiempo total perdido para cargar la batería será de 70 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 7 horas y 38 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 7 horas y 16 minutos.
 
 ### Puerto de carga
 

@@ -33,17 +33,17 @@ Med overboost har Hyundai Ioniq 5 N en maksimal effekt på 478 KW (650 hk / 609 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 84kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5,6%).
+Batteriet har en bruttokapacitet på 84kWh og en nettokapacitet på 80kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,8%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 450 km (280 mi). Forbruget er 18,7kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 450 km (280 mi). Forbruget er 17,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 43 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 75%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 156kW. Hver opladningssession ville tage 24 minutter og 57 sekunder.
+Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 41 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 154kW. Hver opladningssession ville tage 23 minutter og 21 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24kWh/100 km, vil 1000 km tage 9 timer og 21 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 63%. Den samlede tid, der går tabt for at oplade batteriet, vil være 61 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26kWh/100 km, vil 1000 km tage 9 timer og 30 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 76%. Den samlede tid, der går tabt for at oplade batteriet, vil være 70 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 38 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 16 minutter.
 
 ### Ladeport
 

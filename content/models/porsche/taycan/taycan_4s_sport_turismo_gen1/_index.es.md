@@ -26,6 +26,12 @@ Hemos separado nuestro artículo Porsche Taycan 4S Sport Turismo (GEN1) en secci
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
+<div class="alert alert-secondary" role="alert">
+
+Este modelo ha sido reemplazado por [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/).
+
+</div>
+
 
 ## Rendimiento
 

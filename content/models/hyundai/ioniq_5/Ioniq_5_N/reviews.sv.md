@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 5N | Range Test</h3>
+<p>Kris Rifa: 17.05.2024</p>
+
+{{< youtube 29JoWyFOkw8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The INSANE Hyundai IONIQ 5 N // REAL Nürburgring Performance!</h3>
 <p>Misha Charoudin: 11.05.2024</p>
 
