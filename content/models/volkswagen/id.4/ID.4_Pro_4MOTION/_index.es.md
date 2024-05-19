@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION
 linktitle: "ID.4 Pro 4MOTION"
-description: "Volkswagen ID.4 Pro 4MOTION es un SUV totalmente eléctrico con una autonomía WLTP de hasta 510 km (317 millas). EVKX.net tiene todos los detalles."
+description: "Volkswagen ID.4 Pro 4MOTION es un SUV totalmente eléctrico con una autonomía WLTP de hasta 530 km (329 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ El Volkswagen ID.4 Pro 4MOTION tiene una potencia máxima de 210 KW (286 hp/282 
 
 La batería tiene una capacidad bruta de 82kWh y una capacidad neta de 77kWh, lo que significa que tienes un buffer de 5kWh para protección. (6,1%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 510 a 409 km (317-254 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,1kWh/100 km para la versión básica y 18,8kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 530 km (329 mi). El consumo es de 14,5kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 9 horas y 46 minutos. Este viaje requerirá cuatro sesiones de carga del 2 % al 49 %. El tiempo total perdido para cargar la batería será de 86 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21,8kWh/100 km, 1000 km tomarán 9 horas y 44 minutos. Este viaje requerirá cuatro sesiones de carga del 2 % al 48 %. El tiempo total perdido para cargar la batería será de 84 minutos.
 
 ### Cargador a bordo
 

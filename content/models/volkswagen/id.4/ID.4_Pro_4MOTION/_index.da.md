@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION
 linktitle: "ID.4 Pro 4MOTION"
-description: "Volkswagen ID.4 Pro 4MOTION er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 510 km (317 miles). EVKX.net har alle detaljerne."
+description: "Volkswagen ID.4 Pro 4MOTION er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 530 km (329 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ Volkswagen ID.4 Pro 4MOTION har en maksimal effekt på 210 KW (286 hk/282 hk). D
 
 Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (6,1%).
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 510 til 409 km (317-254 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,1kWh/100 km for basisversionen og 18,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 530 km (329 mi). Forbruget er 14,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 46 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 2 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 86 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21,8kWh/100 km, vil 1000 km tage 9 timer og 44 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 2 % til 48%. Den samlede tid, der går tabt for at oplade batteriet, vil være 84 minutter.
 
 ### Indbygget oplader
 

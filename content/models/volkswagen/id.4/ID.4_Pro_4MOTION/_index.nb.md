@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.4 Pro 4MOTION
 linktitle: "ID.4 Pro 4MOTION"
-description: "Volkswagen ID.4 Pro 4MOTION er en helelektrisk SUV med en WLTP rekkevidde på opptil 510 km. EVKX.net har alle detaljene."
+description: "Volkswagen ID.4 Pro 4MOTION er en helelektrisk SUV med en WLTP rekkevidde på opptil 530 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,11 +35,11 @@ Volkswagen ID.4 Pro 4MOTION har en maksimal effekt på 210 KW (286hk). Totalt dr
 
 Batteriet har en bruttokapasitet på 82kWh og en nettokapasitet på 77kWh, noe som betyr at du har et 5kWh-buffer for beskyttelse. (6,1%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 510 til 409 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 15,1kWh/100 km for basisversjonen og 18,8kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 530 km. Forbruket er 14,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 46 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 2% til 49%. Totalt tapt tid for å lade opp batteriet vil være 86 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21,8kWh/100km, vil 1000km ta 9 timer og 44 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 2% til 48%. Totalt tapt tid for å lade opp batteriet vil være 84 minutter.
 
 ### Ombordlader
 
