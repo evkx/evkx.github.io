@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/main_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2039"  >}}
+
 Vi har opdelt vores Volkswagen ID.4 Pure artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
 - [Ydeevne](#ydeevne)
@@ -78,6 +82,10 @@ Du kan vælge mellem to typer tage på denne model. Standarden er bare et almind
 
 Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå.
 
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/exterior_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="1922"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -129,7 +137,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet 2-zone Climatronic understøtter forskellige temperaturer i to zoner for fører og passager. 3-zone climatronic klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Du kan vælge mellem to forskellige klimasystemer. Klimasystemet 2-zone Climatronic understøtter forskellige temperaturer i to zoner for fører og passager. 3-zone climatronic klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
 ## Komfort
 
@@ -153,6 +161,10 @@ Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrume
 
 Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,0 tommer stor og har en opløsning på 1920 x 869 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/screens_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2206"  >}}
+
 
 ## Infotainment
 
@@ -211,6 +223,10 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 Lagekapaciteten i bagagerummet er 543 liter. Med bagsædet nede er det 1575 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2690 kg (5930 lbs), og med basisvægten på 2081 kg (4588 lbs), kan du maksimalt laste 609 kg (1343 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/trunk_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2000"  >}}
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 10.11.2023, og leveringerne startede i January 2024.<div class="mt-3 mb-3">

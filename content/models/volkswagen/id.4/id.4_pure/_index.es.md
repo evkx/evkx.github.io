@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/main_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2039"  >}}
+
 Hemos separado nuestro artículo Volkswagen ID.4 Pure en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
@@ -78,6 +82,10 @@ Puedes elegir entre dos tipos de techos en este modelo. El estándar es simpleme
 
 Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
 
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/exterior_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="1922"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -129,7 +137,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático 2-zone Climatronic admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático 3-zone climatronic admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático 2-zone Climatronic admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático 3-zone climatronic admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 
@@ -153,6 +161,10 @@ El diseño estándar tiene la siguiente configuración. Detrás del volante hay 
 
 El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,0 pulgadas de tamaño y tiene una resolución de 1920 x 869 píxeles.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/screens_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2206"  >}}
+
 
 ## Infoentretenimiento
 
@@ -211,6 +223,10 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 543 litros. Con el asiento trasero abatido, es de 1575 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2690 kg (5930 lbs), y con el peso base de 2081 kg (4588 lbs), puedes cargar como máximo 609 kg (1343 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/trunk_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2000"  >}}
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 10.11.2023 y las entregas comenzaron en January 2024.<div class="mt-3 mb-3">

@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/main_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2039" >}}
 EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pure. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Volkswagen ID.4 Pure, besøg [chargeinfo](../chargecurve/) for Volkswagen ID.4 Pure med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 

@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/main_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2039"  >}}
+
 Nous avons séparé notre article Volkswagen ID.4 Pure en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
 - [Performances](#performance)
@@ -78,6 +82,10 @@ Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est ju
 
 Vous pouvez commander la voiture avec des vitres teintées à partir du montant B et à l'arrière.
 
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/exterior_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="1922"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -129,7 +137,7 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Vous pouvez choisir parmi deux systèmes climatiques différents. Le système climatique 2-zone Climatronic prend en charge différentes températures dans deux zones pour le conducteur et le passager. Le système climatique 3-zone climatronic prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière. Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
+Vous pouvez choisir parmi deux systèmes climatiques différents. Le système climatique 2-zone Climatronic prend en charge différentes températures dans deux zones pour le conducteur et le passager. Le système climatique 3-zone climatronic prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière. Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
 ## Confort
 
@@ -153,6 +161,10 @@ La disposition standard a la configuration suivante. Derrière le volant se trou
 
 La disposition facultative  a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  sur la colonne de direction mesure 5,0 pouces. L'écran touch au centre du tableau de bord mesure 12,0 pouces et a une résolution de 1920 x 869 pixels.
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/screens_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2206"  >}}
+
 
 ## Infodivertissement
 
@@ -211,6 +223,10 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement dans le coffre est de 543 litres. Avec la banquette arrière rabattue, elle est de 1575 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2690 kg (5930 lbs), et avec le poids de base de 2081 kg (4588 lbs), vous pouvez charger au maximum 609 kg (1343 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/trunk_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2000"  >}}
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 10.11.2023 et les livraisons ont commencé en January 2024.<div class="mt-3 mb-3">

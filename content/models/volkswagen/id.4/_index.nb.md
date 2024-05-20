@@ -86,7 +86,7 @@ weight: 30
 <h3>Volkswagen ID.4 Pure</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="id.4_pure/"><img src="" class="img-fluid" width="400px" height="0px" alt="ID.4 Pure" ></a>
+			<a href="id.4_pure/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pure/main_1_xst.jpg" class="img-fluid" width="400px" height="271px" alt="ID.4 Pure" ></a>
 <i class="bi bi-battery-full"></i> 58 kWh <i class="bi bi-ev-station"></i> 110 kW 
 		</div>
 		<div class="col col-12 col-md-6">
