@@ -504,7 +504,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				163 mm (6,4")
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +512,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				163 mm (6,4")
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>

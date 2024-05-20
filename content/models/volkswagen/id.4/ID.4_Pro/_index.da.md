@@ -57,7 +57,7 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 Volkswagen ID.4 Pro har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 163 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 180 mm.
 
 Du kan bestille Volkswagen ID.4 Pro med en alternativ sport hjulophæng. Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 163 mm.
 

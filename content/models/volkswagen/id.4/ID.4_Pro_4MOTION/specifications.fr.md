@@ -504,7 +504,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				163 mm (6,4")
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +512,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				163 mm (6,4")
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>

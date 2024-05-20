@@ -504,7 +504,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Max markfrigång
 			</td>
 			<td>
-				163 mm
+				180 mm
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +512,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				163 mm
+				180 mm
 			</td>
 		</tr>
 		<tr>

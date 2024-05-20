@@ -57,7 +57,7 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Volkswagen ID.4 Pro har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 163 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 180 mm.
 
 Du kan beställa Volkswagen ID.4 Pro med en alternativ sport-upphängning. Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 163 mm.
 

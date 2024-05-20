@@ -504,7 +504,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				163 mm (6,4")
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +512,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				163 mm (6,4")
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>
