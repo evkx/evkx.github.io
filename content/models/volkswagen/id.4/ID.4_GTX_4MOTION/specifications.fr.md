@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1637 mm (64,4")
+				1632 mm (64,3")
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +512,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>

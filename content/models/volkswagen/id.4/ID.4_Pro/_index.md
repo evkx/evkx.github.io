@@ -39,7 +39,7 @@ The [WLTP range](../../../../guides/understandingrange/wltp/) is 529 km (329 mi)
 
 The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 19 minutes and 43 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 46 minutes. This trip will require four charge session(s) charging from 2% to 49%. The total time lost for charging up the battery will be 86 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21.5kWh/100km, 1000km will take 9 hours and 42 minutes. This trip will require four charge session(s) charging from 2% to 47%. The total time lost for charging up the battery will be 82 minutes.
 
 ### Onboard charger
 
@@ -157,7 +157,7 @@ You have wireless charging for your phone.
 
 Two different screen setups are available on the Volkswagen ID.4 Pro.
 
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 10.0 inches large.
+The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 12.9 inches large.
 
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 12.0 inches large and has a 1920 x 869 pixels resolution.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
@@ -226,7 +226,10 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/trunk_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Availability & Pricing
+
+This model had a world premiere on 10.11.2023, and deliveries started in January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
 </a>

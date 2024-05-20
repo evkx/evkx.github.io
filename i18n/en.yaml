@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-c8748a2a
+  translation: Volkswagen ID.4 Pure is an all-electric SUV with a WLTP range of up to 363 km (226 miles). EVKX.net has all the details.
+
 - id: frontpage-description-4ad084ff
   translation: Volkswagen ID.4 Pro is an all-electric SUV with a WLTP range of up to 529 km (329 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-78483ee7
   translation: Alfa Romeo Junior Veloce is an all-electric crossover with a WLTP range of up to 370 km (230 miles). EVKX.net has all the details.
-
-- id: frontpage-description-794466b7
-  translation: Mercedes-EQ EQA 250+ is an all-electric premium crossover with a WLTP range of up to 560 km (348 miles). EVKX.net has all the details.
 

@@ -39,7 +39,7 @@ Batteriet har en bruttokapacitet på 82kWh og en nettokapacitet på 77kWh, hvilk
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 62 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 101kW. Hver opladningssession ville tage 19 minutter og 43 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 46 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 2 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 86 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21,5kWh/100 km, vil 1000 km tage 9 timer og 42 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 2 % til 47%. Den samlede tid, der går tabt for at oplade batteriet, vil være 82 minutter.
 
 ### Indbygget oplader
 
@@ -157,7 +157,7 @@ Du har trådløs opladning til din telefon.
 
 To forskellige skærmopsætninger er tilgængelige på Volkswagen ID.4 Pro.
 
-Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 10,0 tommer stor.
+Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,9 tommer stor.
 
 Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,0 tommer stor og har en opløsning på 1920 x 869 pixels.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
@@ -226,7 +226,10 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/trunk_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 10.11.2023, og leveringerne startede i January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
 </a>

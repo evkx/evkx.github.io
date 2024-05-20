@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1637 mm (64,4")
+				1632 mm (64,3")
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +512,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				180 mm (7,1")
+				163 mm (6,4")
 			</td>
 		</tr>
 		<tr>

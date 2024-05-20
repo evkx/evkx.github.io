@@ -39,7 +39,7 @@ La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 529 km (329 
 
 La vitesse de charge DC maximale est de 135kW. Une charge complète de 0 à 100 % prendrait 62 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 101kW. Chaque session de charge prendrait 19 minutes et 43 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 22kWh/100 km, 1 000 km prendront 9 heures et 46 minutes. Ce trajet nécessitera quatre sessions de charge de 2 % à 49 %. Le temps total perdu pour charger la batterie sera de 86 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 21,5kWh/100 km, 1 000 km prendront 9 heures et 42 minutes. Ce trajet nécessitera quatre sessions de charge de 2 % à 47 %. Le temps total perdu pour charger la batterie sera de 82 minutes.
 
 ### Chargeur embarqué
 
@@ -157,7 +157,7 @@ Vous disposez d'une recharge sans fil pour votre téléphone.
 
 Deux configurations d'écran différentes sont disponibles sur le Volkswagen ID.4 Pro.
 
-La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  sur la colonne de direction mesure 5,0 pouces. L'écran touch au centre du tableau de bord mesure 10,0 pouces.
+La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  sur la colonne de direction mesure 5,0 pouces. L'écran touch au centre du tableau de bord mesure 12,9 pouces.
 
 La disposition facultative  a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  sur la colonne de direction mesure 5,0 pouces. L'écran touch au centre du tableau de bord mesure 12,0 pouces et a une résolution de 1920 x 869 pixels.
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
@@ -226,7 +226,10 @@ Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maxim
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/trunk_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 10.11.2023 et les livraisons ont commencé en January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
 </a>

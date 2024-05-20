@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-c8748a2a
+  translation: Volkswagen ID.4 Pure er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 363 km (226 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-4ad084ff
   translation: Volkswagen ID.4 Pro er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 529 km (329 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-78483ee7
   translation: Alfa Romeo Junior Veloce er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 370 km (230 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-794466b7
-  translation: Mercedes-EQ EQA 250+ er en fuldelektrisk premium crossover med en WLTP rækkevidde på op til 560 km (348 miles). EVKX.net har alle detaljerne.
 

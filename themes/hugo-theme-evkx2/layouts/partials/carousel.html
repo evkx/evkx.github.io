@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/volkswagen/id.4/id.4_pure/`}}{{.RelPermalink}}{{end}}">
+					<img src="" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Volkswagen ID.4 Pure</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-c8748a2a"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/volkswagen/id.4/id.4_pro/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Maserati GranCabrio Folgore</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-0ad41fc5"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/automobili_pininfarina/battista/battista/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/automobili_pininfarina/battista/battista/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Automobili Pininfarina Battista</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-bb2550ec"}}</p>
 				</div>
 			</div>
 		</div>

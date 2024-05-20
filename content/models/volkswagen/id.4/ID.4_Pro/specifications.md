@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4582 mm (180,4")
+				4584 mm (180,5")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1637 mm (64,4")
+				1634 mm (64,3")
 			</td>
 		</tr>
 		<tr>

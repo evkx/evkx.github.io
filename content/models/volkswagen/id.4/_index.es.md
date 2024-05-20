@@ -82,6 +82,25 @@ weight: 30
 		</div>
 	</div>
 </div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3>Volkswagen ID.4 Pure</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.4_pure/"><img src="" class="img-fluid" width="400px" height="0px" alt="ID.4 Pure" ></a>
+<i class="bi bi-battery-full"></i> 58 kWh <i class="bi bi-ev-station"></i> 110 kW 
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.4_pure/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Descripción</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pure/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rango</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pure/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Curva de carga</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pure/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Especificaciones</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pure/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galería</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.4_pure/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reseñas</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
 <h2>Discontinued variants</h2>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">

@@ -39,7 +39,7 @@ El [rango WLTP](../../../../guides/understandingrange/wltp/) es 529 km (329 mi).
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 9 horas y 46 minutos. Este viaje requerirá cuatro sesiones de carga del 2 % al 49 %. El tiempo total perdido para cargar la batería será de 86 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21,5kWh/100 km, 1000 km tomarán 9 horas y 42 minutos. Este viaje requerirá cuatro sesiones de carga del 2 % al 47 %. El tiempo total perdido para cargar la batería será de 82 minutos.
 
 ### Cargador a bordo
 
@@ -157,7 +157,7 @@ Tienes carga inalámbrica para tu teléfono.
 
 Hay dos configuraciones de pantalla diferentes disponibles en Volkswagen ID.4 Pro.
 
-El diseño estándar tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 10,0 pulgadas de tamaño.
+El diseño estándar tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,9 pulgadas de tamaño.
 
 El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,0 pulgadas de tamaño y tiene una resolución de 1920 x 869 píxeles.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
@@ -226,7 +226,10 @@ Puedes pedir el automóvil con una barra de remolque. El peso total máximo en u
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/trunk_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+
+### Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 10.11.2023 y las entregas comenzaron en January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
 </a>

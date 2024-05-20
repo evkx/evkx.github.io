@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-c8748a2a
+  translation: Volkswagen ID.4 Pure es un SUV totalmente eléctrico con una autonomía WLTP de hasta 363 km (226 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-4ad084ff
   translation: Volkswagen ID.4 Pro es un SUV totalmente eléctrico con una autonomía WLTP de hasta 529 km (329 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-78483ee7
   translation: Alfa Romeo Junior Veloce es un crossover totalmente eléctrico con un WLTP alcance de hasta 370 km (230 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-794466b7
-  translation: Mercedes-EQ EQA 250+ es un crossover premium totalmente eléctrico con un WLTP alcance de hasta 560 km (348 millas). EVKX.net tiene todos los detalles.
 

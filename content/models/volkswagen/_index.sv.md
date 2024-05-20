@@ -56,7 +56,7 @@ Volkswagen ID.3 är en halvkombi tillgänglig i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.4 är en SUV tillgänglig i 7 varianter.
+Volkswagen ID.4 är en SUV tillgänglig i 8 varianter.
 </p>
 	<a href="id.4/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
