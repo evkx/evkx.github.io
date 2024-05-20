@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Volvo EX30 RWD ER range test</h3>
+<p>Bjørn Nyland: 20.05.2024</p>
+
+{{< youtube VD5SX2B84NE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Volvo EX30 vs Hyundai Kona Electric: Result Shock!</h3>
 <p>Electrifying: 08.04.2024</p>
 

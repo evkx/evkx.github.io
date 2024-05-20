@@ -39,7 +39,7 @@ El [rango WLTP](../../../../guides/understandingrange/wltp/) es 460 km (286 mi).
 
 La velocidad máxima de carga de CC es 153kW. Una carga completa del 0 al 100 % tardaría 67 minutos, mientras que un escenario más común del 10 al 80 % tardaría 28 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 48%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 96kW. Cada sesión de carga tardaría 17 minutos y 10 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 28kWh/100 km, 1000 km tomarán 10 horas y 37 minutos. Este viaje requerirá ocho sesiones de carga del 5 % al 48 %. El tiempo total perdido para cargar la batería será de 137 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 220kWh/100 km, 1000 km tomarán 6 horas y 35 minutos. Este viaje requerirá 76 sesiones de carga del 5 % al 49 %. El tiempo total perdido para cargar la batería será de 1336 minutos.
 
 ### Cargador a bordo
 
