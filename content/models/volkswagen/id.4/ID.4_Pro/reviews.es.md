@@ -29,6 +29,27 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 {{< youtube yc9xr2YpIxQ >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Volkswagen ID.4 Gets Huge Updates For 2024! Software, Hardware, & Pricing Updates For America</h3>
+<p>Out of Spec Reviews: 13.03.2024</p>
+
+{{< youtube 86eXxHSBc1c >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Is the 2024 VW ID.4 a BETTER new SUV to buy than a Honda Prologue?</h3>
+<p>Raiti's Rides: 28.02.2024</p>
+
+{{< youtube 86eXxHSBc1c >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The 2024 Volkswagen ID.4 Pro S Is A More Buzz Worthy Electric SUV For The People</h3>
+<p>Redline Reviews: 28.02.2024</p>
+
+{{< youtube YfmmI241ZaE >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galería  </strong>
