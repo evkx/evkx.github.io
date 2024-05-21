@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The AMAZING Electric Car Made By A Phone Company??</h3>
+<p>Fully Charged Show: 21.05.2024</p>
+
+{{< youtube KlJNfu8JX6Y >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Don't Imitate Porsche, Just Be Yourself - Xiaomi SU7 Review</h3>
 <p>Telescop: 29.03.2024</p>
 
