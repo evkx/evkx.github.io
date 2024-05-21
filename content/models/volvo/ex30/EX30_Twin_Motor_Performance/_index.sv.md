@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 69kWh och en nettokapacitet på 64kWh, vilk
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 460 km. Förbrukningen är 13,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 153 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 48%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 96kW. Varje laddningssession tar 17 minuter och 10 sekunder.
+Maximal DC-laddningshastighet är 153 kW. En full laddning från 0 - 100 % tar 71 minuter, medan ett vanligare scenario på 10-80 % tar 29 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 11% till 52%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 92kW. Varje laddningssession tar 17 minuter och 10 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 10 timmar och 10 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 5% till 51%. Total tid som går förlorad för att ladda batteriet kommer att vara 110 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 10 timmar och 16 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 11% till 57%. Total tid som går förlorad för att ladda batteriet kommer att vara 117 minuter.
 
 ### Inbyggd laddare
 

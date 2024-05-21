@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hyundai Ioniq 5N | Long Trip Test</h3>
+<p>Kris Rifa: 21.05.2024</p>
+
+{{< youtube 6aA_T2H1D-k >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Hyundai Ioniq 5N | Range Test</h3>
 <p>Kris Rifa: 17.05.2024</p>
 
