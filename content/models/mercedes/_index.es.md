@@ -86,7 +86,7 @@ Mercedes EQE es un sedán de lujo disponible en 6 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQE SUV es un SUV de lujo disponible en 4 variantes.
+Mercedes EQE SUV es un SUV de lujo disponible en 5 variantes.
 </p>
 	<a href="eqe_suv/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

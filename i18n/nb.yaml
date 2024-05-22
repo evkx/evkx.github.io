@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-a70c1778
+  translation: Mercedes-EQ EQE 350+ SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 628 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-fbb26dbb
+  translation: Mercedes-EQ EQE 350+ SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 628 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-3419a59c
   translation: Volkswagen ID.3 GTX er en helelektrisk kombi med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-323bc4c4
   translation: Alfa Romeo Junior er en helelektrisk delefilter med en WLTP rekkevidde på opptil 410 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-088ffc34
-  translation: SKODA ENYAQ RS er en helelektrisk SUV med en WLTP rekkevidde på opptil 537 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-f4437100
-  translation: Mercedes-EQ EQS 580 4MATIC er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 792 km. EVKX.net har alle detaljene.
 

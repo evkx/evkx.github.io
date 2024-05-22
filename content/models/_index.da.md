@@ -440,7 +440,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="mercedes/"><img src="https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg" class="img-fluid mb-2" alt="Mercedes" ></a>
 	<h2>Mercedes</h2>
 	<p>
-	Mercedes har 8 modeller med i alt 31 varianter.
+	Mercedes har 8 modeller med i alt 32 varianter.
 	</p>
 	<a href="mercedes/" class="btn btn-outline-primary" role="button">Gå til Mercedes EV-modeloversigt</a>
 </div>

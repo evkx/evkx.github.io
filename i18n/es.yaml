@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-a70c1778
+  translation: Mercedes-EQ EQE 350+ SUV es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 628 km (390 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-fbb26dbb
+  translation: Mercedes-EQ EQE 350+ SUV es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 628 km (390 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-3419a59c
   translation: Volkswagen ID.3 GTX es un hatchback totalmente eléctrico con un WLTP alcance de hasta 600 km (373 millas). EVKX.net tiene todos los detalles.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-323bc4c4
   translation: Alfa Romeo Junior es un crossover totalmente eléctrico con un WLTP alcance de hasta 410 km (255 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-088ffc34
-  translation: SKODA ENYAQ RS es un SUV totalmente eléctrico con una autonomía WLTP de hasta 537 km (334 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-f4437100
-  translation: Mercedes-EQ EQS 580 4MATIC es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 792 km (492 millas). EVKX.net tiene todos los detalles.
 

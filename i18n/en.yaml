@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-a70c1778
+  translation: Mercedes-EQ EQE 350+ SUV is an all-electric luxury SUV with a WLTP range of up to 628 km (390 miles). EVKX.net has all the details.
+
+- id: frontpage-description-fbb26dbb
+  translation: Mercedes-EQ EQE 350+ SUV is an all-electric luxury SUV with a WLTP range of up to 628 km (390 miles). EVKX.net has all the details.
+
 - id: frontpage-description-3419a59c
   translation: Volkswagen ID.3 GTX is an all-electric hatchback with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-323bc4c4
   translation: Alfa Romeo Junior is an all-electric crossover with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details.
-
-- id: frontpage-description-088ffc34
-  translation: SKODA ENYAQ RS is an all-electric SUV with a WLTP range of up to 537 km (334 miles). EVKX.net has all the details.
-
-- id: frontpage-description-f4437100
-  translation: Mercedes-EQ EQS 580 4MATIC is an all-electric luxury sedan with a WLTP range of up to 792 km (492 miles). EVKX.net has all the details.
 

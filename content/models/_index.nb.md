@@ -440,7 +440,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="mercedes/"><img src="https://media.evkx.net/multimedia/models/mercedes/brandevs_st.jpg" class="img-fluid mb-2" alt="Mercedes" ></a>
 	<h2>Mercedes</h2>
 	<p>
-	Mercedes har 8 modell(er) med totalt 31 varianter.
+	Mercedes har 8 modell(er) med totalt 32 varianter.
 	</p>
 	<a href="mercedes/" class="btn btn-outline-primary" role="button">Gå til Mercedes modelloversikt</a>
 </div>

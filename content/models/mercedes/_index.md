@@ -86,7 +86,7 @@ Mercedes EQE is a luxury sedan available in 6 variants.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Mercedes EQE SUV is a luxury SUV available in 4 variants.
+Mercedes EQE SUV is a luxury SUV available in 5 variants.
 </p>
 	<a href="eqe_suv/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>
