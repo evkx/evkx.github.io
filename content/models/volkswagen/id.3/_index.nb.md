@@ -7,6 +7,25 @@ weight: 30
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3>Volkswagen ID.3 GTX</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="id.3_gtx/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_gtx/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.3 GTX" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="id.3_gtx/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_gtx/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_gtx/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_gtx/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_gtx/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="id.3_gtx/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>Volkswagen ID.3 Pro</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

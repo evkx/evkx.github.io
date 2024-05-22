@@ -41,7 +41,7 @@ Volkswagen ID. Buzz est un monospace disponible en 4 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.3 est un hayon disponible en 3 variantes.
+Volkswagen ID.3 est un hayon disponible en 4 variantes.
 </p>
 	<a href="id.3/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

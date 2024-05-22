@@ -41,7 +41,7 @@ Volkswagen ID. Buzz är en MPV tillgänglig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.3 är en halvkombi tillgänglig i 3 varianter.
+Volkswagen ID.3 är en halvkombi tillgänglig i 4 varianter.
 </p>
 	<a href="id.3/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

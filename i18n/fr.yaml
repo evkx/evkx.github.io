@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-3419a59c
+  translation: Volkswagen ID.3 GTX est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-8aed56ab
+  translation: Volkswagen ID.3 GTX est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 553 km (344 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-c8748a2a
   translation: Volkswagen ID.4 Pure est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 363 km (226 miles). EVKX.net a tous les détails.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-f4437100
   translation: Mercedes-EQ EQS 580 4MATIC est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 792 km (492 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-a0c92104
-  translation: Tesla Model Y Long Range RWD est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-78483ee7
-  translation: Alfa Romeo Junior Veloce est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 370 km (230 miles). EVKX.net a tous les détails.
 

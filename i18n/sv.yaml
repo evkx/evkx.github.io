@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-3419a59c
+  translation: Volkswagen ID.3 GTX är en helelektrisk halvkombi med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer.
+
+- id: frontpage-description-8aed56ab
+  translation: Volkswagen ID.3 GTX är en helelektrisk halvkombi med en WLTP räckvidd på upp till 553 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-c8748a2a
   translation: Volkswagen ID.4 Pure är en helelektrisk SUV med en WLTP räckvidd på upp till 363 km. EVKX.net har alla detaljer.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-f4437100
   translation: Mercedes-EQ EQS 580 4MATIC är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 792 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-a0c92104
-  translation: Tesla Model Y Long Range RWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-78483ee7
-  translation: Alfa Romeo Junior Veloce är en helelektrisk crossover med en WLTP räckvidd på upp till 370 km. EVKX.net har alla detaljer.
 
