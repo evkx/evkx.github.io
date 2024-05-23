@@ -15,6 +15,13 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 {{< youtube QxMC3N4alBQ >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Mercedes EQE Could Really Benefit From Higher Voltage! DC Fast Charging 0-100% Analysis</h3>
+<p>Out of Spec Reviews: 15.05.2024</p>
+
+{{< youtube Z8w9POCrMeI >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galerie  </strong>
