@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2660 kg (5864 lbs)
+				2631 kg (5800 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				475 kg (1047 lbs)
+				446 kg (983 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				53 litro (2 pies cúbicos)
+				52 litro (2 pies cúbicos)
 			</td>
 		</tr>
 		<tr>

@@ -210,7 +210,7 @@ Avec le système Smart Pilot  niveau 2, vous bénéficiez des fonctionnalités d
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 402 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 53 litres (1,9 CU FT). Le poids maximum de la voiture est de 2660 kg (5864 lbs), et avec le poids de base de 2185 kg (4817 lbs), vous pouvez charger au maximum 475 kg (1047 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement du coffre est de 402 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 52 litres (1,8 CU FT). Le poids maximum de la voiture est de 2631 kg (5800 lbs), et avec le poids de base de 2185 kg (4817 lbs), vous pouvez charger au maximum 446 kg (983 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

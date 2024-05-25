@@ -347,7 +347,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2660 kg
+				2631 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				475 kg
+				446 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek frunk
 			</td>
 			<td>
-				53 liter
+				52 liter
 			</td>
 		</tr>
 		<tr>

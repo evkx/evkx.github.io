@@ -347,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2660 kg (5864 lbs)
+				2631 kg (5800 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				475 kg (1047 lbs)
+				446 kg (983 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				53 liter (2 cu-ft)
+				52 liter (2 cu-ft)
 			</td>
 		</tr>
 		<tr>

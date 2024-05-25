@@ -210,7 +210,7 @@ Con el sistema Smart Pilot  nivel 2, obtienes las siguientes funciones de automa
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 402 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 53 litros (1,9 CU FT). El peso máximo del automóvil es 2660 kg (5864 lbs), y con el peso base de 2185 kg (4817 lbs), puedes cargar como máximo 475 kg (1047 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 402 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 52 litros (1,8 CU FT). El peso máximo del automóvil es 2631 kg (5800 lbs), y con el peso base de 2185 kg (4817 lbs), puedes cargar como máximo 446 kg (983 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

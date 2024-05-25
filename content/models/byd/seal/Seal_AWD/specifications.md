@@ -347,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2660 kg (5864 lbs)
+				2631 kg (5800 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				475 kg (1047 lbs)
+				446 kg (983 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>
-				53 liter (2 cu-ft)
+				52 liter (2 cu-ft)
 			</td>
 		</tr>
 		<tr>

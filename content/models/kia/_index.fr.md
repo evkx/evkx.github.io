@@ -18,6 +18,21 @@ weight: 30
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
             <div class="accordion-body">
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Kia EV3</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="ev3">
+                    <img src="https://media.evkx.net/multimedia/models/kia/ev3/ev3_long_range/main_1_st.jpg" class="img-fluid" alt="Kia EV3" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Kia EV3 est un crossover disponible en 1 variantes.
+</p>
+	<a href="ev3/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Kia EV6</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW BMW i5 TOURING : Driving the best electric estate in the world !</h3>
+<p>Electrifying: 25.05.2024</p>
+
+{{< youtube 8vImBT6Jo14 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The all-new BMW 5 Series Touring G61 is now a Shooting Brake! REVEAL REVIEW with i5</h3>
 <p>Autogefühl: 07.02.2024</p>
 

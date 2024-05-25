@@ -210,7 +210,7 @@ With the Smart Pilot  level 2 system, you get the following driving automation f
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 402 liters. Under the hood, there is frunk with more storage room. This frunk is 53 liters (1.9 CU FT). The maxium weight of the car is 2660 kg (5864 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 475 kg (1047 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 402 liters. Under the hood, there is frunk with more storage room. This frunk is 52 liters (1.8 CU FT). The maxium weight of the car is 2631 kg (5800 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 446 kg (983 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

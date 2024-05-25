@@ -347,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2660 kg (5864 lbs)
+				2631 kg (5800 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				475 kg (1047 lbs)
+				446 kg (983 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				53 litre (2 pieds cubes)
+				52 litre (2 pieds cubes)
 			</td>
 		</tr>
 		<tr>

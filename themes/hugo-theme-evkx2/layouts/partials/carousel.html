@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/kia/ev3/ev3_long_range/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/kia/ev3/ev3_long_range/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Kia EV3 Long Range</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-b8575e72"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/mercedes/eqe_suv/eqe_350plus_suv/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/mercedes/eqe_suv/eqe_350plus_suv/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Volkswagen ID.4 Pure</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-c8748a2a"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/volkswagen/id.4/id.4_pro/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Volkswagen ID.4 Pro</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-4ad084ff"}}</p>
 				</div>
 			</div>
 		</div>

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-b8575e72
+  translation: Kia EV3 Long Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-a70c1778
   translation: Mercedes-EQ EQE 350+ SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 628 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-452211c4
   translation: Tesla Model 3 Performance er en helelektrisk sedan med en WLTP rekkevidde på opptil 528 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-323bc4c4
-  translation: Alfa Romeo Junior er en helelektrisk delefilter med en WLTP rekkevidde på opptil 410 km. EVKX.net har alle detaljene.
 

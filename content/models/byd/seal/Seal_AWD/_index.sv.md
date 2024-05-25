@@ -210,7 +210,7 @@ Med Smart Pilot  nivå 2-systemet får du följande körautomatiseringsfunktione
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 402 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 53 liter. Bilens maximala vikt är 2660 kg, och med basvikten på 2185 kg kan du lasta maximalt 475 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmets kapacitet är 402 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 52 liter. Bilens maximala vikt är 2631 kg, och med basvikten på 2185 kg kan du lasta maximalt 446 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -210,7 +210,7 @@ Med Smart Pilot  niveau 2-systemet får du følgende køreautomatiseringsfunktio
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 402 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 53 liter (1,9 CU FT). Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 475 kg (1047 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 402 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 52 liter (1,8 CU FT). Bilens maksimale vægt er 2631 kg (5800 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 446 kg (983 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

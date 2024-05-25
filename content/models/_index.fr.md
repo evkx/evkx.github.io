@@ -386,7 +386,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
 	<h2>Kia</h2>
 	<p>
-	Kia a 3 modèles avec un total de 10 variantes.
+	Kia a 4 modèles avec un total de 11 variantes.
 	</p>
 	<a href="kia/" class="btn btn-outline-primary" role="button">Aller à la Kia présentation du modèle EV</a>
 </div>

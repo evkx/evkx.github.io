@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-b8575e72
+  translation: Kia EV3 Long Range is an all-electric crossover with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details.
+
 - id: frontpage-description-a70c1778
   translation: Mercedes-EQ EQE 350+ SUV is an all-electric luxury SUV with a WLTP range of up to 628 km (390 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-452211c4
   translation: Tesla Model 3 Performance is an all-electric sedan with a WLTP range of up to 528 km (328 miles). EVKX.net has all the details.
-
-- id: frontpage-description-323bc4c4
-  translation: Alfa Romeo Junior is an all-electric crossover with a WLTP range of up to 410 km (255 miles). EVKX.net has all the details.
 
