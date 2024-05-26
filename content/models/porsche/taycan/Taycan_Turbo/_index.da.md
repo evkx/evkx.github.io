@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo
 linktitle: "Taycan Turbo"
-description: "Porsche Taycan Turbo er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 507 km (315 miles). EVKX.net har alle detaljerne."
+description: "Porsche Taycan Turbo er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 630 km (392 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -31,13 +31,13 @@ Vi har opdelt vores Porsche Taycan Turbo artikel i sektioner. Hvis du vil vente 
 
 
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan Turbo en maksimal effekt på 500 KW (680 hk / 625 bhp). Uden overboost er den 460 KW (625 hk / 671 hk). Momentet er 850 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 3,2 sekunder. Tophastigheden er 260 km/t.
+Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan Turbo en maksimal effekt på 650 KW (884 hk / 707 bhp). Uden overboost er den 520 KW (707 hk / 872 hk). Momentet er 890 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 2,7 sekunder. Tophastigheden er 260 km/t.
 
 ## Batteri, rækkevidde og opladning
 
 Batteriet har en bruttokapacitet på 105kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km (315-270 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19,1kWh/100 km for basisversionen og 22,3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 630 til 557 km (392-346 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,4kWh/100 km for basisversionen og 17,4kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 15 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 212kW. Hver opladningssession ville tage 18 minutter og 32 sekunder.
 

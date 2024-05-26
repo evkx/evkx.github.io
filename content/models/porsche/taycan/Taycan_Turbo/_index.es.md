@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo
 linktitle: "Taycan Turbo"
-description: "Porsche Taycan Turbo es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 507 km (315 millas). EVKX.net tiene todos los detalles."
+description: "Porsche Taycan Turbo es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 630 km (392 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -31,13 +31,13 @@ Hemos separado nuestro artículo Porsche Taycan Turbo en secciones. Si desea esp
 
 
 
-Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan Turbo tiene una potencia máxima de 500 KW (680 hp / 671 bhp). Sin overboost, es de 460 KW (625 CV / 625 CV). El par es 850 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,2 segundos. La velocidad máxima es 260 km/h.
+Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan Turbo tiene una potencia máxima de 650 KW (884 hp / 872 bhp). Sin overboost, es de 520 KW (707 CV / 707 CV). El par es 890 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,7 segundos. La velocidad máxima es 260 km/h.
 
 ## Batería, autonomía y carga
 
 La batería tiene una capacidad bruta de 105kWh y una capacidad neta de 97kWh, lo que significa que tienes un buffer de 8kWh para protección. (7,6%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 507 a 435 km (315-270 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 19,1kWh/100 km para la versión básica y 22,3kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 630 a 557 km (392-346 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 15,4kWh/100 km para la versión básica y 17,4kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 320kW. Una carga completa del 0 al 100 % tardaría 46 minutos, mientras que un escenario más común del 10 al 80 % tardaría 15 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 212kW. Cada sesión de carga tardaría 18 minutos y 32 segundos.
 

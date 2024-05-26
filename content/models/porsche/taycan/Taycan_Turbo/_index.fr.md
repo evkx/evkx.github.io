@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo
 linktitle: "Taycan Turbo"
-description: "Porsche Taycan Turbo est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 507 km (315 miles). EVKX.net a tous les détails."
+description: "Porsche Taycan Turbo est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 630 km (392 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -31,13 +31,13 @@ Nous avons séparé notre article Porsche Taycan Turbo en sections. Si vous souh
 
 
 
-Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, le Porsche Taycan Turbo a une puissance maximale de 500 KW (680 ch / 671 ch). Sans overboost, il est de 460 KW (625 ch / 625 ch). Le couple est de 850 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,2 secondes. La vitesse maximale est de 260 km/h.
+Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, le Porsche Taycan Turbo a une puissance maximale de 650 KW (884 ch / 872 ch). Sans overboost, il est de 520 KW (707 ch / 707 ch). Le couple est de 890 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 2,7 secondes. La vitesse maximale est de 260 km/h.
 
 ## Batterie, autonomie et charge
 
 La batterie a une capacité brute de 105kWh et une capacité nette de 97kWh, ce qui signifie que vous disposez d'une réserve de 8kWh pour la protection. (7,6%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 507 à 435 km (315-270 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 19,1kWh/100km pour la version de base et 22,3kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 630 à 557 km (392-346 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 15,4kWh/100km pour la version de base et 17,4kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 320kW. Une charge complète de 0 à 100 % prendrait 46 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 15 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 212kW. Chaque session de charge prendrait 18 minutes et 32 secondes.
 

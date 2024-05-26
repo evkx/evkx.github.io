@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo
 linktitle: "Taycan Turbo"
-description: "Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 507 km (315 miles). EVKX.net has all the details."
+description: "Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 630 km (392 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -31,13 +31,13 @@ We have separated our Porsche Taycan Turbo article into sections. If you want to
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Turbo has a maximum power of 500 KW (680 hp / 671 bhp). Without overboost, it is 460 KW (625 hp / 625 bhp). The torque is 850 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 3.2 seconds. The top speed is 260 km/h.
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Turbo has a maximum power of 650 KW (884 hp / 872 bhp). Without overboost, it is 520 KW (707 hp / 707 bhp). The torque is 890 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 2.7 seconds. The top speed is 260 km/h.
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 105kWh and a net capacity of 97kWh, meaning you have a 8kWh buffer for protection. (7.6%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 507 to 435 km (315-270 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 19.1kWh/100km for the basic version and 22.3kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 630 to 557 km (392-346 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 15.4kWh/100km for the basic version and 17.4kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 320kW. A full charge from 0 - 100% would take 46 minutes, while a more common scenario of 10-80% would take 15 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 65%, resulting in an actual charge speed, including time loss, of 212kW. Each charge session would take 18 minutes and 32 seconds.
 

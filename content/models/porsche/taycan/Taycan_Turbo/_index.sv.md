@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo
 linktitle: "Taycan Turbo"
-description: "Porsche Taycan Turbo är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 507 km. EVKX.net har alla detaljer."
+description: "Porsche Taycan Turbo är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 630 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -31,13 +31,13 @@ Vi har delat in vår beskrivning av Porsche Taycan Turbo i avsnitt. Om du vill v
 
 
 
-Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan Turbo en maximal effekt på 500 KW (680hk). Utan overboost är det 460KW (625hp). Vridmomentet är 850 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 3,2 sekunder. Topphastigheten är 260 km/h.
+Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan Turbo en maximal effekt på 650 KW (884hk). Utan overboost är det 520KW (707hp). Vridmomentet är 890 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 2,7 sekunder. Topphastigheten är 260 km/h.
 
 ## Batteri, räckvidd och laddning
 
 Batteriet har en bruttokapacitet på 105kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 507 till 435 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19,1kWh/100 km för basversionen och 22,3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 630 till 557 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 15,4kWh/100 km för basversionen och 17,4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 320 kW. En full laddning från 0 - 100 % tar 46 minuter, medan ett vanligare scenario på 10-80 % tar 15 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 212kW. Varje laddningssession tar 18 minuter och 32 sekunder.
 
