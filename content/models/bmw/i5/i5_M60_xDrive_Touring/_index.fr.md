@@ -100,7 +100,7 @@ Vous pouvez choisir entre différents types de sièges, matériaux de siège et 
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du BMW i5 M60 xDrive Touring.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 - réglage électrique (facultatif)
 - appui-tête réglable en hauteur
@@ -112,14 +112,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
-Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
-- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- White [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
-
-
-Les fonctionnalités suivantes sont disponibles sur le siège **M Sport**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats**.
 
 - réglage électrique
 - appui-tête réglable en hauteur

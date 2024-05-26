@@ -104,7 +104,7 @@ Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Si
 
 Det finns två sätestyper du kan välja mellan för den främre raden av BMW i5 xDrive40.
 
-Följande funktioner är tillgängliga på **standard** sätet.
+Följande funktioner är tillgängliga på **Sport** sätet.
 
 - elektrisk justering (valfritt)
 - höjdjusterbart nackstöd
@@ -116,14 +116,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
-- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- White [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-
-
-
-Följande funktioner är tillgängliga på **M Sport** sätet.
+Följande funktioner är tillgängliga på **Comfort seats** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd

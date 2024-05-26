@@ -15,6 +15,13 @@ Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../g
 {{< youtube rThPHKLw0I8 >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BMW i5 M60 Touring - Full review: This is not a joke</h3>
+<p>It's Only Electric: 25.05.2024</p>
+
+{{< youtube T-G-X4x1ZLk >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galleri  </strong>

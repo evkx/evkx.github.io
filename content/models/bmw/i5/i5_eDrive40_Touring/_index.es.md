@@ -104,7 +104,7 @@ Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estil
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el BMW i5 eDrive40 Touring.
 
-Las siguientes funcionalidades están disponibles en el asiento **standard**.
+Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
@@ -116,14 +116,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
-Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
-- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- White [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
-
-
-Las siguientes funcionalidades están disponibles en el asiento **M Sport**.
+Las siguientes funcionalidades están disponibles en el asiento **Comfort seats**.
 
 - ajuste eléctrico
 - reposacabezas ajustable en altura

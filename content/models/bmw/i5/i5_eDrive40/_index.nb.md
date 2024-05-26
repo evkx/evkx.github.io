@@ -104,7 +104,7 @@ Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteopps
 
 Det er to setetyper du kan velge mellom for første rad i BMW i5 eDrive40.
 
-Følgende funksjoner er tilgjengelige på **standard** setet.
+Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 - elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte
@@ -116,14 +116,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
-- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- White [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-
-
-
-Følgende funksjoner er tilgjengelige på **M Sport** setet.
+Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 
 - elektrisk justering
 - høydejusterbar hodestøtte

@@ -100,7 +100,7 @@ You can choose between different types of seats, seat materials, and interior st
 
 There are two seat types you can choose from for the front row in the BMW i5 M60 xDrive Touring.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **Sport** seat.
 
 - electric adjustment (optional)
 - height adjustable headrest
@@ -112,14 +112,7 @@ The following functionalities are available on the **standard** seat.
 - integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 3 different materials/colors for this seat type.
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
-
-
-The following functionalities are available on the **M Sport** seat.
+The following functionalities are available on the **Comfort seats** seat.
 
 - electric adjustment
 - height adjustable headrest

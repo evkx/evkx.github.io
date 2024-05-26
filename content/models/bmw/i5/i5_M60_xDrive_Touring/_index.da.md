@@ -100,7 +100,7 @@ Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesig
 
 Der er to sædetyper, du kan vælge imellem til forreste række i BMW i5 M60 xDrive Touring.
 
-Følgende funktioner er tilgængelige på **standard** sædet.
+Følgende funktioner er tilgængelige på **Sport** sædet.
 
 - elektrisk justering (valgfrit)
 - højdejusterbar nakkestøtte
@@ -112,14 +112,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
-Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
-- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- White [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Black [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
-
-
-Følgende funktioner er tilgængelige på **M Sport** sædet.
+Følgende funktioner er tilgængelige på **Comfort seats** sædet.
 
 - elektrisk justering
 - højdejusterbar nakkestøtte
