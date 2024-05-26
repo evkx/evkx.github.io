@@ -1,7 +1,7 @@
 ---
-title: Porsche Taycan Turbo rækkevidde og forbrug
-linktitle: "Range"
-description: "Her finder du alle detaljer om rækkevidde og forbrug for Porsche Taycan Turbo."
+title: Porsche Taycan Turbo plage et consommation
+linktitle: "Plage"
+description: "Vous trouverez ici tous les détails sur l'autonomie et la consommation pour Porsche Taycan Turbo."
 weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -9,14 +9,14 @@ navicon: bi-file-earmark-bar-graph
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-Rækkevidden vil variere afhængigt af flere faktorer. Som hvor hurtigt du kører, temperaturen, våd eller tør vej og det udstyrede udstyr. På denne side finder du et diagram og tabeller med standard testcyklusresultater som WLTP og EPA og estimeret rækkevidde i den virkelige verden i forskellige miljøer.
+L'autonomie variera en fonction de plusieurs facteurs. Comme la vitesse à laquelle vous conduisez, la température, la route mouillée ou sèche, et l'équipement équipé. Sur cette page, vous trouverez un schéma et des tableaux avec les résultats du cycle de test standard comme WLTP et EPA et autonomie réelle estimée dans différents environnements.
 
 <img class="img-fluid" alt="Charge curve" src="/images//models/porsche/taycan/taycan_turbo/range.svg"/>
 <a href="/images/models/porsche/taycan/taycan_turbo/range.svg">Full screen</a>
 
-### Officielle testcyklusresultater
+### Résultats officiels du cycle de test
 
-Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/vekselstrøm slukket. Klik på linkene i tabellen for flere detaljer om testprocedurer.
+Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont effectués avec le chauffage/la climatisation éteints. Cliquez sur les liens dans le tableau pour plus de détails sur les procédures de test.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -25,10 +25,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 			<th>
 			</th>
 			<th>
-				Range
+				Autonomie
 			</th>
 			<th>
-				Forbrug
+				Consommation
 			</th>
 		</tr>
 	</thead>
@@ -36,7 +36,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP række grundlæggende trim
+					Garniture de base de la gamme WLTP
 				</a>
 			</td>
 			<td>
@@ -49,7 +49,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 		<tr>
 			<td>
 				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP række top trim
+					Garniture haut de gamme WLTP
 				</a>
 			</td>
 			<td>
@@ -63,9 +63,9 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 </table>
 </div>
 
-### Officielle testcyklusresultater med tilføjet opvarmning
+### Résultats officiels du cycle de test avec chauffage ajouté
 
-Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/varm dag påvirker den officielle rækkevidde.
+Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement par temps froid/chaud affecte l'autonomie officielle.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -74,17 +74,17 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 			<th>
 			</th>
 			<th>
-				Range
+				Autonomie
 			</th>
 			<th>
-				Reduktion af rækkevidde
+				Réduction d'autonomie
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				WLTP række grundlæggende trim med 2KW AC
+				Garniture de base de la gamme WLTP avec 2KW AC
 			</td>
 			<td>
 				 414km / 257 mi 
@@ -95,7 +95,7 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 		</tr>
 		<tr>
 			<td>
-				WLTP række top trim med 2KW AC
+				Garniture supérieure de gamme WLTP avec 2KW AC
 			</td>
 			<td>
 				365 km / 227 mi
@@ -108,9 +108,9 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 </table>
 </div>
 
-### Estimat for rækkevidde fra den virkelige verden
+### Estimations de l'autonomie réelle
 
-Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i perfekt stand og under forhold, der kræver aircondition til at opvarme eller afkøle køretøjer. Se vores [range guide](../../../../../guides/understandingrange/) for at se, hvordan rækkevidden påvirkes i den virkelige verden.
+Le tableau ci-dessous montre quelques exemples réels estimés en parfait état et dans des conditions nécessitant la climatisation pour chauffer ou refroidir les véhicules. Consultez notre [guide de gamme](../../../../../guides/understandingrange/) pour voir comment la portée est affectée dans le monde réel.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -119,17 +119,17 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 			<th>
 			</th>
 			<th>
-				Range
+				Autonomie
 			</th>
 			<th>
-				Forbrug
+				Consommation
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				90kmt/56mph perfekt stand
+				90kmh/56mph parfait état
 			</td>
 			<td>
 				571km / 355 mi
@@ -140,7 +140,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 		<tr>
 			<td>
-				90kmt/56mph med 2KW opvarmning
+				90kmh/56mph avec chauffage 2KW
 			</td>
 			<td>
 				520km /314mi
@@ -151,7 +151,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 		<tr>
 			<td>
-				70mph/112kmh perfekt stand
+				70mph/112kmh parfait état
 			</td>
 			<td>
 				606 km / 377 mi
@@ -162,7 +162,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 		<tr>
 			<td>
-				70mph/112kmh med 2KW opvarmning
+				70mph/112kmh avec chauffage 2KW
 			</td>
 			<td>
 				545km / 339mi
@@ -173,7 +173,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 		<tr>
 			<td>
-				120kmt/75mph perfekt stand
+				120kmh/75mph parfait état
 			</td>
 			<td>
 				462 km / 287 mi
@@ -184,7 +184,7 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 		<tr>
 			<td>
-				120kmt/75mph med 2KW opvarmning
+				120kmh/75mph avec chauffage 2KW
 			</td>
 			<td>
 				428 km /266mi
@@ -201,6 +201,6 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 <strong><i class="bi-arrow-left"></i> Porsche Taycan Turbo </strong>
 </a>
 <a href="../chargingcurve/" class="text-decoration-none text-black float-end">
-<strong>Opladningskurve <i class="bi-arrow-right"></i></strong>
+<strong>Courbe de charge <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

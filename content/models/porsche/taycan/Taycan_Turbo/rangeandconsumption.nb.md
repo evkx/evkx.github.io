@@ -11,8 +11,8 @@ navicon: bi-file-earmark-bar-graph
 
 Rekkevidden vil variere avhengig av flere faktorer. Som hvor fort du kjører, temperaturen, våt eller tørr vei, og utstyrt utstyr. På denne siden finner du et diagram og tabeller med standard testsyklusresultater som WLTP og EPA og estimert rekkevidde i den virkelige verden i forskjellige miljøer.
 
-<img class="img-fluid" alt="Charge curve" src="../range.svg"/>
-<a href="../range.svg">Full screen</a>
+<img class="img-fluid" alt="Charge curve" src="/images//models/porsche/taycan/taycan_turbo/range.svg"/>
+<a href="/images/models/porsche/taycan/taycan_turbo/range.svg">Full screen</a>
 
 ### Offisielle testsyklusresultater
 
@@ -43,7 +43,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				507 km / 315 mi
 			</td>
 			<td>
-				16,51kWh/100km / 3,8 mi/kWh
+				19,13kWh/100km / 3,2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				435 km / 270 mi
 			</td>
 			<td>
-				19,24 kWh/100km / 3,2 mi/kWh
+				22,30 kWh/100km / 2,8 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				WLTP rekkevidde grunnleggende utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				 402km / 250 mi 
+				 414km / 257 mi 
 			</td>
 			<td>
-				-20,7%
+				-18,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				WLTP rekkevidde maks utstyrsniv med 2KW AC
 			</td>
 			<td>
-				356 km / 221 mi
+				365 km / 227 mi
 			</td>
 			<td>
-				-18,2%
+				-16,1%
 			</td>
 		</tr>
 	</tbody>
@@ -129,13 +129,57 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 	<tbody>
 		<tr>
 			<td>
+				90 kmt/56 mph under perfekte forhold
+			</td>
+			<td>
+				571km / 355 mi
+			</td>
+			<td>
+				17 kWh/100km / 3,7 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90 kmt/56 mph med 2KW oppvarming
+			</td>
+			<td>
+				520km /314mi
+			</td>
+			<td>
+				19,2 kWh/100km /3,2 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/t under perfekte forhold
+			</td>
+			<td>
+				606 km / 377 mi
+			</td>
+			<td>
+				16 kWh/100km / 3,9 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70 mph/112 km/t med 2KW oppvarming
+			</td>
+			<td>
+				545km / 339mi
+			</td>
+			<td>
+				17,8 kWh/100km / 3,5 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120 kmt/75 mph under perfekte forhold
 			</td>
 			<td>
-				380 km / 236 mi
+				462 km / 287 mi
 			</td>
 			<td>
-				22 kWh/100km / 2,8 mi/kWh
+				21 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -143,10 +187,10 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt /75mph med 2KW oppvarming
 			</td>
 			<td>
-				353 km /219mi
+				428 km /266mi
 			</td>
 			<td>
-				23,7 kWh/100km /2,6 mi/kWh
+				22,7 kWh/100km /2,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>

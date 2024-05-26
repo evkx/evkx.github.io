@@ -15,14 +15,14 @@ navicon: bi-car-front
 
 Vi har delat in vår beskrivning av Porsche Taycan Turbo i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
-- [Ytelse](#ytelse)
-- [Batteri, räckvidd och laddning](#battery-range-and-charging)
-- [Drivetrain (fjädring, bromsar, styrning)](#drivetrain)
+- [Ytelse](#prestanda)
+- [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
+- [Drivetrain (fjädring, bromsar, styrning)](#drivlina)
 - [Exteriör (lackfärger, hjul ++)](#exteriör)
-- [Interiör (säten++)](#interior)
-- [Användargränssnitt och kontroll](#userinterface-and-control)
+- [Interiör (säten++)](#interiör)
+- [Användargränssnitt och kontroll](#användargränssnitt-och-kontroll)
 - [Infotainment](#infotainment)
-- [Lights](#lights)
+- [Lights](#ljus)
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
@@ -35,17 +35,17 @@ Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffro
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 93,4kWh och en nettokapacitet på 83,7kWh, vilket innebär att du har en 9,7kWh buffert för skydd. (10,4%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Batteriet har en bruttokapacitet på 105kWh och en nettokapacitet på 97kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,6%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 507 till 435 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 16.5kWh/100 km för basversionen och 19.2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 507 till 435 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19,1kWh/100 km för basversionen och 22,3kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 165kW. Varje laddningssession tar 19 minuter och 53 sekunder.
+Maximal DC-laddningshastighet är 320 kW. En full laddning från 0 - 100 % tar 46 minuter, medan ett vanligare scenario på 10-80 % tar 15 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 212kW. Varje laddningssession tar 18 minuter och 32 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 9 timmar och 10 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 3% till 58%. Total tid som går förlorad för att ladda batteriet kommer att vara 51 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 21kWh/100km, tar 1000km 8 timmar och 52 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 5% till 64%. Total tid som går förlorad för att ladda batteriet kommer att vara 33 minuter.
 
 ### Inbyggd laddare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 36 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 3 timmar och 48 minuter.
+För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 8 timmar och 49 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 4 timmar och 24 minuter.
 
 ### Laddningsport
 
@@ -103,9 +103,9 @@ Det finns tre sätestyper du kan välja mellan för den främre raden av Porsche
 Följande funktioner är tillgängliga på **Comfort** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - integrerat nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
@@ -115,10 +115,10 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -127,13 +127,13 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#heating)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#lumbar-support)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustment)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
+- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
@@ -148,12 +148,12 @@ Du kan välja två sätestyper för den andra raden i Porsche Taycan Turbo.
 
 Alternativet standard är två integrerade säten i andra raden. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - integrerat nackstöd
 
 Alternativet second är två integrerade säten i andra raden med en tredje mindre säte emellan. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#heating) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - integrerat nackstöd
 
 Det finns bara en typ av ratt tillgänglig.
@@ -176,7 +176,7 @@ Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
 
 ## Användargränssnitt och kontroll
 
-Porsche Taycan Turbo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digital-instruments), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 16.8 tum. Skärmen touch översta mittkonsolen är 10.9 tum. Skärmen touch botten av mittkonsolen är 8.4 tum. Skärmen touch framför passageraren i instrumentbrädan är 10.9 tum.
+Porsche Taycan Turbo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 16,8 tum. Skärmen touch översta mittkonsolen är 10,9 tum. Skärmen touch botten av mittkonsolen är 8,4 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
@@ -222,7 +222,7 @@ Porsche Taycan Turbo har [**automatisk nödbroms**](../../../../technology/drive
 
 ### Körautomation
 
-Porsche Taycan Turbo erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
+Porsche Taycan Turbo erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande körautomationsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
@@ -245,6 +245,9 @@ Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn m
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2250"  >}}
+
+### Tillgänglighet och pris
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>

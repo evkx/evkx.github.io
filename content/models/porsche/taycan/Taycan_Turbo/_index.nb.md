@@ -35,17 +35,17 @@ Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. M
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 93,4kWh og en nettokapasitet på 83,7kWh, noe som betyr at du har et 9,7kWh-buffer for beskyttelse. (10,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Batteriet har en bruttokapasitet på 105kWh og en nettokapasitet på 97kWh, noe som betyr at du har et 8kWh-buffer for beskyttelse. (7,6%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 16.5kWh/100 km for basisversjonen og 19.2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 19,1kWh/100 km for basisversjonen og 22,3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
-Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 53 sekunder.
+Maksimal DC-ladehastighet er 320 kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 15 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 212kW. Hver ladeøkt vil ta 18 minutter og 32 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 9 timer og 10 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 3% til 58%. Totalt tapt tid for å lade opp batteriet vil være 51 minutter.
+For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 8 timer og 52 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 5% til 64%. Totalt tapt tid for å lade opp batteriet vil være 33 minutter.
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 22 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
+For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 49 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 22 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 24 minutter.
 
 ### Ladeport
 
@@ -176,7 +176,7 @@ Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 ## Brukergrensesnitt og kontroll
 
-Porsche Taycan Turbo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16.8 tommer stor. touch-skjermen øverst på midtkonsollen er 10.9 tommer stor. touch-skjermen nederst på midtkonsollen er 8.4 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10.9 tommer stor.
+Porsche Taycan Turbo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16,8 tommer stor. touch-skjermen øverst på midtkonsollen er 10,9 tommer stor. touch-skjermen nederst på midtkonsollen er 8,4 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 
@@ -245,6 +245,9 @@ Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2250"  >}}
+
+### Tilgjengelighet & pris
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>

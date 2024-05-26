@@ -1,7 +1,7 @@
 ---
-title: Porsche Taycan Turbo ladekurve og ladeytelse
-linktitle: "Ladekurve"
-description: "Her finner du ladekurven for Porsche Taycan Turbo."
+title: Porsche Taycan Turbo courbe de charge et performances
+linktitle: "Courbe de charge"
+description: "Ici vous trouvez la courbe de charge pour Porsche Taycan Turbo."
 weight: 3
 hidden: true
 navicon: bi-battery-charging
@@ -15,46 +15,46 @@ navicon: bi-battery-charging
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>126,3 kW</td>
+<td>Vitesse de charge moyenne 0 - 100%</td><td>126,3 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>119,4 kW</td>
+<td>Vitesse de charge moyenne 10-100%</td><td>119,4 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>207,7 kW</td>
+<td>Vitesse de charge moyenne 10-90%</td><td>207,7 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>265,1 kW</td>
+<td>Vitesse de charge moyenne 10-80%</td><td>265,1 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rate</td><td>3,16</td>
+<td>Taux C maximum</td><td>3,16</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rate</td><td>2,32</td>
+<td>Taux C moyen</td><td>2,32</td>
 </tr>
 <tr>
-<td>Optimalt ladeområde</td><td>1% - 65%</td>
+<td>Zone de chargement optimale</td><td>1% - 65%</td>
 </tr>
 <tr>
-<td>Optimal ladehastighet inkludert 5 minutters tap</td><td>212,5kW</td>
+<td>Vitesse de charge optimale incluant 5 minutes de perte</td><td>212,5kW</td>
 </tr>
 <tr>
-<td>Optimal ladestopptid</td><td>18m32s</td>
+<td>Durée d'arrêt de charge optimale</td><td>18m32s</td>
 </tr>
 </tbody>
 </table>
 
 
-Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
+La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
 
 
-Porsche Taycan Turbo har batterioppvarming, noe som gjør lading ved en optimal batteritemperatur enklere.
+Porsche Taycan Turbo dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
 
 
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped border">
 <thead>
-<tr><th>SOC</th><th>Hastighet</th><th>Tid</th><th>Energi ladet</th></tr>
+<tr><th>SOC</th><th>Vitesse</th><th>Heure</th><th>Énergie chargée</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -365,9 +365,9 @@ Porsche Taycan Turbo har batterioppvarming, noe som gjør lading ved en optimal 
 
 <div class="mt-3 mb-3">
 <a href="../rangeandconsumption/" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Rekkevidde </strong>
+<strong><i class="bi-arrow-left"></i> Plage </strong>
 </a>
 <a href="../specifications/" class="text-decoration-none text-black float-end">
-<strong>Spesifikasjoner <i class="bi-arrow-right"></i></strong>
+<strong>Spécifications <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

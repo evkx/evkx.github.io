@@ -13,18 +13,18 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/main_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2000"  >}}
 
-Vi har opdelt vores Porsche Taycan Turbo artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer]( specifikationer/), et [billedgalleri](galleri/), detaljerede oplysninger om [opladningsydelse](opladningskurve/), og nogle [online anmeldelser](anmeldelser/). Vores sektioner:
+Vi har opdelt vores Porsche Taycan Turbo artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
-- [Ydeevne](#performance)
-- [Batteri, rækkevidde og opladning](#battery-range-and-charging)
+- [Ydeevne](#ydeevne)
+- [Batteri, rækkevidde og opladning](#batteri-rækkevidde-og-opladning)
 - [Drivetrain (affjedring, bremser, styring)](#drivetrain)
-- [Eksteriør (lakfarver, hjul ++)](#eksteriør)
-- [Interiør (sæder++)](#interior)
+- [Eksteriør (lakfarver, hjul ++)](#udvendig)
+- [Interiør (sæder++)](#interiør)
 - [Brugergrænseflade og kontrol](#brugergrænseflade-og-kontrol)
 - [Infotainment](#infotainment)
-- [Lys](#lights)
-- [Avancerede driver-assistance-systemer](#advanced-driver-assistance-systems)
-- [Lastkapacitet og bugseringsevne](#cargo-capacity-and-towing-ability)
+- [Lys](#lys)
+- [Avancerede driver-assistance-systemer](#køreautomatisering)
+- [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
 
 ## Ydeevne
@@ -35,17 +35,17 @@ Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Me
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 93,4kWh og en nettokapacitet på 83,7kWh, hvilket betyder, at du har en 9,7kWh buffer til beskyttelse. (10,4%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Batteriet har en bruttokapacitet på 105kWh og en nettokapacitet på 97kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,6%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km (315-270 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16.5kWh/100 km for basisversionen og 19.2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 507 til 435 km (315-270 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 19,1kWh/100 km for basisversionen og 22,3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 50 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 165kW. Hver opladningssession ville tage 19 minutter og 53 sekunder.
+Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 15 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 212kW. Hver opladningssession ville tage 18 minutter og 32 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 9 timer og 10 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 3 % til 58%. Den samlede tid, der går tabt for at oplade batteriet, vil være 51 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21kWh/100 km, vil 1000 km tage 8 timer og 52 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 5 % til 64%. Den samlede tid, der går tabt for at oplade batteriet, vil være 33 minutter.
 
 ### Indbygget oplader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
+Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede standard-oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 8 timer og 49 minutter. Du kan også vælge en valgfri indbygget oplader, der understøtter op til 22 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 4 timer og 24 minutter.
 
 ### Ladeport
 
@@ -176,7 +176,7 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 
 ## Brugergrænseflade og kontrol
 
-Porsche Taycan Turbo har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen). Skærmen touch bag rattet integreret i instrumentbrættet er 16.8 tommer stor. Skærmen touch øverst på midterkonsollen er 10.9 tommer stor. Skærmen touch i bunden af midterkonsollen er 8.4 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10.9 tommer stor.
+Porsche Taycan Turbo har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen). Skærmen touch bag rattet integreret i instrumentbrættet er 16,8 tommer stor. Skærmen touch øverst på midterkonsollen er 10,9 tommer stor. Skærmen touch i bunden af midterkonsollen er 8,4 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor.
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 
@@ -245,6 +245,9 @@ Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du 
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2250"  >}}
+
+### Tilgængelighed og priser
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
