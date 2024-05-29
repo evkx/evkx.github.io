@@ -243,7 +243,7 @@ Con el sistema DRIVE PILOT  nivel 3, obtienes funciones de automatización de co
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 610 litros. Con el asiento trasero abatido, es de 1770 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). El peso máximo del automóvil es 3225 kg (7110 lbs), y con el peso base de 2580 kg (5688 lbs), puedes cargar como máximo 645 kg (1422 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 610 litros. Con el asiento trasero abatido, es de 1770 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3225 kg (7110 lbs), y con el peso base de 2580 kg (5688 lbs), puedes cargar como máximo 645 kg (1422 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
 

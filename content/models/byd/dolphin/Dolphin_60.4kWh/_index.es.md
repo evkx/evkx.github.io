@@ -215,7 +215,7 @@ Con el sistema   nivel 1, obtienes las siguientes funciones de automatización d
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 345 litros. Con el asiento trasero abatido, es de 1310 litros. En el techo, puedes cargar hasta 50 kg (110,2 lbs). El peso máximo del automóvil es 2068 kg (4559 lbs), y con el peso base de 1683 kg (3710 lbs), puedes cargar como máximo 385 kg (849 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 345 litros. Con el asiento trasero abatido, es de 1310 litros. En el techo, puedes cargar hasta 50 kg (110,2 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2068 kg (4559 lbs), y con el peso base de 1683 kg (3710 lbs), puedes cargar como máximo 385 kg (849 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 0, y sin freno, es de 0 kg (0/0 lbs).
 

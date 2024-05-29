@@ -215,7 +215,7 @@ Avec le système Smart Pilot  niveau 2, vous bénéficiez de fonctionnalités d'
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 192 litres. Avec la banquette arrière rabattue, elle est de 763 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Le poids maximum de la voiture est de 3060 kg (6746 lbs), et avec le poids de base de 2489 kg (5487 lbs), vous pouvez charger au maximum 571 kg (1259 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 192 litres. Avec la banquette arrière rabattue, elle est de 763 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3060 kg (6746 lbs), et avec le poids de base de 2489 kg (5487 lbs), vous pouvez charger au maximum 571 kg (1259 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

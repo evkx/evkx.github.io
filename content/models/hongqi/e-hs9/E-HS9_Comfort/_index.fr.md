@@ -211,7 +211,7 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 225 litres. Avec le siège de troisième rangée abaissé, elle est de 622 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Le poids maximum de la voiture est de 3130 kg (6900 lbs), et avec le poids de base de 2505 kg (5523 lbs), vous pouvez charger au maximum 625 kg (1378 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement du coffre est de 225 litres. Avec le siège de troisième rangée abaissé, elle est de 622 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3130 kg (6900 lbs), et avec le poids de base de 2505 kg (5523 lbs), vous pouvez charger au maximum 625 kg (1378 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -219,7 +219,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 		Audi er en tysk bilprodusent som er en del av Volkswagen Group. Den er kjent for sine førsteklasses og sporty kjøretøyer, samt slagordet 'Vorsprung durch Technik', som betyr 'Progress through Technology'.
 	</p>
 	<p>
-	Audi har 5 modell(er) med totalt 32 varianter.
+	Audi har 5 modell(er) med totalt 33 varianter.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gå til Audi modelloversikt</a>
 </div>

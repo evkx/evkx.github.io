@@ -192,7 +192,7 @@ Avec le système DS Drive Assist  niveau 1, vous bénéficiez des fonctionnalit�
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 352 litres. Avec la banquette arrière rabattue, elle est de 1268 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Le poids maximum de la voiture est de 2100 kg (4630 lbs), et avec le poids de base de 1736 kg (3827 lbs), vous pouvez charger au maximum 364 kg (802 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 352 litres. Avec la banquette arrière rabattue, elle est de 1268 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Le poids maximum de la voiture est de 2100 kg (4630 lbs), et avec le poids de base de 1736 kg (3827 lbs), vous pouvez charger au maximum 364 kg (802 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
 

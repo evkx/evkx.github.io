@@ -209,7 +209,7 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 367 liter. Med den tredje sätesraden nere är den 1451 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2245 kg, och med basvikten på 1810 kg kan du lasta maximalt 435 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 367 liter. Med den tredje sätesraden nere är den 1451 liter. På taket kan du lasta upp till 80 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2245 kg, och med basvikten på 1810 kg kan du lasta maximalt 435 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}

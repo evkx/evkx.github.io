@@ -195,7 +195,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 432 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 432 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-1dab2cfe
+  translation: Audi Q6 e-tron performance er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-6fb104c0
   translation: Porsche Taycan Turbo er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 630 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-d3459866
   translation: Audi Q6L e-tron quattro er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 625 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-45c91258
-  translation: Mercedes-EQ G 580 EQ er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 473 km. EVKX.net har alle detaljene.
 

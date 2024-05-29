@@ -203,7 +203,7 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 432 liter. På taket kan du laste opptil 80 kg. Maksimumsvekten til bilen er 2610 kg, og med basisvekten på 2020 kg kan du maksimalt laste 590 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 432 liter. På taket kan du laste opptil 80 kg. Takrails er standard på denne modellen, noe som gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2610 kg, og med basisvekten på 2020 kg kan du maksimalt laste 590 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

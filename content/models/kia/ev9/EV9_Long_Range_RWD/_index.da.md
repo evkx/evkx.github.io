@@ -227,7 +227,7 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 333 liter. Med bagsædet nede er det 2393 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 55 liter (1,9 CU FT). Bilens maksimale vægt er 3190 kg (7033 lbs), og med basisvægten på 2637 kg (5814 lbs), kan du maksimalt laste 553 kg (1219 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 333 liter. Med bagsædet nede er det 2393 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 55 liter (1,9 CU FT). Bilens maksimale vægt er 3190 kg (7033 lbs), og med basisvægten på 2637 kg (5814 lbs), kan du maksimalt laste 553 kg (1219 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2500, og på ubremset er den 750 kg (5512/1653 lbs).
 

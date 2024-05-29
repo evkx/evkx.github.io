@@ -192,7 +192,7 @@ Con el sistema DS Drive Assist  nivel 1, obtienes las siguientes funciones de au
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 352 litros. Con el asiento trasero abatido, es de 1268 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). El peso máximo del automóvil es 1950 kg (4299 lbs), y con el peso base de 1584 kg (3492 lbs), puedes cargar como máximo 366 kg (807 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 352 litros. Con el asiento trasero abatido, es de 1268 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 1950 kg (4299 lbs), y con el peso base de 1584 kg (3492 lbs), puedes cargar como máximo 366 kg (807 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
 

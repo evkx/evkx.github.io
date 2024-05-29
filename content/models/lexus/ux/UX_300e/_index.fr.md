@@ -209,7 +209,7 @@ Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 367 litres. Avec le siège de troisième rangée abaissé, elle est de 1451 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2245 kg (4949 lbs), et avec le poids de base de 1810 kg (3990 lbs), vous pouvez charger au maximum 435 kg (959 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement du coffre est de 367 litres. Avec le siège de troisième rangée abaissé, elle est de 1451 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2245 kg (4949 lbs), et avec le poids de base de 1810 kg (3990 lbs), vous pouvez charger au maximum 435 kg (959 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}

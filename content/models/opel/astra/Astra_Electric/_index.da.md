@@ -192,7 +192,7 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 352 liter. Med bagsædet nede er det 1268 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2100 kg (4630 lbs), og med basisvægten på 1736 kg (3827 lbs), kan du maksimalt laste 364 kg (802 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 352 liter. Med bagsædet nede er det 1268 liter. På taget kan du laste op til 70 kg (154,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2100 kg (4630 lbs), og med basisvægten på 1736 kg (3827 lbs), kan du maksimalt laste 364 kg (802 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 

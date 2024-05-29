@@ -209,7 +209,7 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3135 kg (6911 lbs), and with the base weight of 2510 kg (5534 lbs), you can max load 625 kg (1378 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3135 kg (6911 lbs), and with the base weight of 2510 kg (5534 lbs), you can max load 625 kg (1378 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2500, and on unbraked, it is 750 kg (5512/1653 lbs).
 

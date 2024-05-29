@@ -233,7 +233,7 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 340 liter. Med baksetet nede er det 1320 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2535 kg, og med basisvekten på 2030 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 340 liter. Med baksetet nede er det 1320 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2535 kg, og med basisvekten på 2030 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
 

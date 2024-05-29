@@ -188,7 +188,7 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 548 liter. Med baksetet nede er det 1574 liter. På taket kan du laste opptil 70 kg. Maksimumsvekten til bilen er 2175 kg, og med basisvekten på 1716 kg kan du maksimalt laste 459 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 548 liter. Med baksetet nede er det 1574 liter. På taket kan du laste opptil 70 kg. Takrails er standard på denne modellen, noe som gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2175 kg, og med basisvekten på 1716 kg kan du maksimalt laste 459 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
 ### Tilgjengelighet & pris

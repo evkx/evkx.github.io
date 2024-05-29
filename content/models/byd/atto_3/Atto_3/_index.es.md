@@ -215,7 +215,7 @@ Con el sistema   nivel 1, obtienes las siguientes funciones de automatización d
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 440 litros. Con el asiento trasero abatido, es de 1338 litros. En el techo, puedes cargar hasta 50 kg (110,2 lbs). El peso máximo del automóvil es 2160 kg (4762 lbs), y con el peso base de 1750 kg (3858 lbs), puedes cargar como máximo 410 kg (904 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 440 litros. Con el asiento trasero abatido, es de 1338 litros. En el techo, puedes cargar hasta 50 kg (110,2 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2160 kg (4762 lbs), y con el peso base de 1750 kg (3858 lbs), puedes cargar como máximo 410 kg (904 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

@@ -195,7 +195,7 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 432 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2610 kg, och med basvikten på 2020 kg kan du lasta maximalt 590 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmets kapacitet är 432 liter. På taket kan du lasta upp till 80 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Bilens maximala vikt är 2610 kg, och med basvikten på 2020 kg kan du lasta maximalt 590 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

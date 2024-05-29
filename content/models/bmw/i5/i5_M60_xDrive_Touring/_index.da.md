@@ -230,7 +230,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1700 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2960 kg (6526 lbs), og med basisvægten på 2350 kg (5181 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1700 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2960 kg (6526 lbs), og med basisvægten på 2350 kg (5181 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
 

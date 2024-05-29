@@ -244,7 +244,7 @@ Avec le système DRIVE PILOT  niveau 3, vous bénéficiez de fonctionnalités d'
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 555 litres. Avec la banquette arrière rabattue, elle est de 1990 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Le poids maximum de la voiture est de 3500 kg (7716 lbs), et avec le poids de base de 3010 kg (6636 lbs), vous pouvez charger au maximum 490 kg (1080 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 490kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
+La capacité de chargement dans le coffre est de 555 litres. Avec la banquette arrière rabattue, elle est de 1990 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3500 kg (7716 lbs), et avec le poids de base de 3010 kg (6636 lbs), vous pouvez charger au maximum 490 kg (1080 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 490kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
 ### Disponibilité et prix

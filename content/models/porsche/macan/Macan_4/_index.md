@@ -248,7 +248,7 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2920 kg (6437 lbs), and with the base weight of 2255 kg (4971 lbs), you can max load 665 kg (1466 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1348 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2920 kg (6437 lbs), and with the base weight of 2255 kg (4971 lbs), you can max load 665 kg (1466 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 

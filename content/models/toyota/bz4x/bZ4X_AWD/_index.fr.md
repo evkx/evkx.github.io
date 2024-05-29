@@ -185,7 +185,7 @@ Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 452 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2530 kg (5578 lbs), et avec le poids de base de 2015 kg (4442 lbs), vous pouvez charger au maximum 515 kg (1135 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement du coffre est de 452 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2530 kg (5578 lbs), et avec le poids de base de 2015 kg (4442 lbs), vous pouvez charger au maximum 515 kg (1135 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
 

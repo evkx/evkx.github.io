@@ -203,7 +203,7 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 432 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2610 kg (5754 lbs), et avec le poids de base de 2020 kg (4453 lbs), vous pouvez charger au maximum 590 kg (1301 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement du coffre est de 432 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Le poids maximum de la voiture est de 2610 kg (5754 lbs), et avec le poids de base de 2020 kg (4453 lbs), vous pouvez charger au maximum 590 kg (1301 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

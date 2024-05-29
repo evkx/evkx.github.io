@@ -215,7 +215,7 @@ Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisa
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 440 litres. Avec la banquette arrière rabattue, elle est de 1338 litres. Sur le toit, vous pouvez charger jusqu'à 50 kg (110,2 lbs). Le poids maximum de la voiture est de 2160 kg (4762 lbs), et avec le poids de base de 1750 kg (3858 lbs), vous pouvez charger au maximum 410 kg (904 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 440 litres. Avec la banquette arrière rabattue, elle est de 1338 litres. Sur le toit, vous pouvez charger jusqu'à 50 kg (110,2 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2160 kg (4762 lbs), et avec le poids de base de 1750 kg (3858 lbs), vous pouvez charger au maximum 410 kg (904 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

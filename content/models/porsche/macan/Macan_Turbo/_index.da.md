@@ -234,7 +234,7 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1288 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2950 kg (6504 lbs), og med basisvægten på 2330 kg (5137 lbs), kan du maksimalt laste 620 kg (1367 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1288 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2950 kg (6504 lbs), og med basisvægten på 2330 kg (5137 lbs), kan du maksimalt laste 620 kg (1367 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
 

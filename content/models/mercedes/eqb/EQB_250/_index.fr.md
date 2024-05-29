@@ -227,7 +227,7 @@ Avec le système Driver Assistance Package  niveau 1, vous bénéficiez des fonc
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 495 litres. Avec la banquette arrière rabattue, elle est de 1410 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2520 kg (5556 lbs), et avec le poids de base de 2035 kg (4486 lbs), vous pouvez charger au maximum 485 kg (1069 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 485kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
+La capacité de chargement dans le coffre est de 495 litres. Avec la banquette arrière rabattue, elle est de 1410 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2520 kg (5556 lbs), et avec le poids de base de 2035 kg (4486 lbs), vous pouvez charger au maximum 485 kg (1069 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 485kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
 

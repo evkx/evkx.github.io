@@ -198,7 +198,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 522 liter. Med sædet på tredje række nede er det 1451 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 1980 kg (4365 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 522 liter. Med sædet på tredje række nede er det 1451 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 1980 kg (4365 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
 

@@ -222,7 +222,7 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 363 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 363 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
 ### Tilgængelighed og priser

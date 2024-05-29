@@ -234,7 +234,7 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 440 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2735 kg (6030 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 440 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2735 kg (6030 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
 ### Tilgængelighed og priser

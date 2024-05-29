@@ -233,7 +233,7 @@ Con el sistema NIO Pilot Complete Pack  nivel 2, obtienes funciones de automatiz
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 570 litros. Con el asiento trasero abatido, es de 1545 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). El peso máximo del automóvil es 2850 kg (6283 lbs), y con el peso base de 2366 kg (5216 lbs), puedes cargar como máximo 484 kg (1067 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 484kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
+La capacidad de carga en el maletero es de 570 litros. Con el asiento trasero abatido, es de 1545 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2850 kg (6283 lbs), y con el peso base de 2366 kg (5216 lbs), puedes cargar como máximo 484 kg (1067 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 484kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
 

@@ -71,7 +71,7 @@ Audi Q4 e-tron er en premium SUV/Coupe SUV tilgængelig i 14 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q6 e-tron er en premium SUV tilgængelig i 3 varianter.
+Audi Q6 e-tron er en premium SUV tilgængelig i 4 varianter.
 </p>
 	<a href="q6_e-tron/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

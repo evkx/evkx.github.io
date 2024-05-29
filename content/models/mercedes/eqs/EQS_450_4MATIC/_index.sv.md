@@ -247,7 +247,7 @@ Med DRIVE PILOT  nivå 3-systemet får du fler körautomationsfunktioner än de 
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 610 liter. Med baksätet nedfällt är det 1770 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3060 kg, och med basvikten på 2540 kg kan du lasta maximalt 520 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 610 liter. Med baksätet nedfällt är det 1770 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3060 kg, och med basvikten på 2540 kg kan du lasta maximalt 520 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
 

@@ -225,7 +225,7 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez des
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 490 litres. Avec la banquette arrière rabattue, elle est de 1495 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2580 kg (5688 lbs), et avec le poids de base de 2010 kg (4431 lbs), vous pouvez charger au maximum 570 kg (1257 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 490 litres. Avec la banquette arrière rabattue, elle est de 1495 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2580 kg (5688 lbs), et avec le poids de base de 2010 kg (4431 lbs), vous pouvez charger au maximum 570 kg (1257 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1200, et sur une remorque non freinée, il est de 750 kg (2646/1653 lbs).
 

@@ -185,7 +185,7 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 452 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2195 kg, och med basvikten på 1945 kg kan du lasta maximalt 250 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 250 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Lastutrymmets kapacitet är 452 liter. På taket kan du lasta upp till 80 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2195 kg, och med basvikten på 1945 kg kan du lasta maximalt 250 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 250 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
 

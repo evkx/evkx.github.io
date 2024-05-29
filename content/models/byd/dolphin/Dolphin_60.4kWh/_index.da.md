@@ -215,7 +215,7 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 345 liter. Med bagsædet nede er det 1310 liter. På taget kan du laste op til 50 kg (110,2 lbs). Bilens maksimale vægt er 2068 kg (4559 lbs), og med basisvægten på 1683 kg (3710 lbs), kan du maksimalt laste 385 kg (849 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 345 liter. Med bagsædet nede er det 1310 liter. På taget kan du laste op til 50 kg (110,2 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2068 kg (4559 lbs), og med basisvægten på 1683 kg (3710 lbs), kan du maksimalt laste 385 kg (849 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 0, og på ubremset er den 0 kg (0/0 lbs).
 

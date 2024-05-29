@@ -240,7 +240,7 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du fler körautomatise
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 430 liter. Med baksätet nedfällt är det 895 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3095 kg, och med basvikten på 2450 kg kan du lasta maximalt 645 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 430 liter. Med baksätet nedfällt är det 895 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3095 kg, och med basvikten på 2450 kg kan du lasta maximalt 645 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
 

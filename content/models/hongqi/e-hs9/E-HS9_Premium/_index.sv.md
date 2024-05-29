@@ -211,7 +211,7 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 225 liter. Med den tredje sätesraden nere är den 622 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3205 kg, och med basvikten på 2660 kg kan du lasta maximalt 545 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 225 liter. Med den tredje sätesraden nere är den 622 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3205 kg, och med basvikten på 2660 kg kan du lasta maximalt 545 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

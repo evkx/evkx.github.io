@@ -209,7 +209,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 367 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176.4 lbs). The maxium weight of the car is 2245 kg (4949 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 435 kg (959 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 367 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2245 kg (4949 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 435 kg (959 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
