@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron performance
 linktitle: "Q6 e-tron performance"
-description: "Audi Q6 e-tron performance est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 625 km (388 miles). EVKX.net a tous les détails."
+description: "Audi Q6 e-tron performance est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 641 km (398 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Le Audi Q6 e-tron performance a une puissance maximale de 240 KW (326 ch/322 ch)
 
 La batterie a une capacité brute de 100kWh et une capacité nette de 94,9kWh, ce qui signifie que vous disposez d'une réserve de 5,1kWh pour la protection. (5,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 625 à 540 km (388-336 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 15,2kWh/100km pour la version de base et 17,6kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 641 à 587 km (398-365 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,8kWh/100km pour la version de base et 16,2kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 20 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 63 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 170kW. Chaque session de charge prendrait 20 minutes et 4 secondes.
 
