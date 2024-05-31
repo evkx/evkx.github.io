@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q6 e-tron perf
 				Dreiemoment
 			</td>
 			<td>
-				450 nm
+				485 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q6 e-tron perf
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				6,6 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				587 km
+				556 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				16,2 kWh/100km
+				17,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -433,7 +433,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2325 kg
+				2200 kg
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2965 kg
+				2815 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				640 kg
+				615 kg
 			</td>
 		</tr>
 		<tr>

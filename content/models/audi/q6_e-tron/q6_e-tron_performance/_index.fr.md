@@ -29,13 +29,13 @@ Nous avons séparé notre article Audi Q6 e-tron performance en sections. Si vou
 
 ## Performances
 
-Le Audi Q6 e-tron performance a une puissance maximale de 240 KW (326 ch/322 ch). Le couple total est de 450 nm (332 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,6 secondes. La vitesse maximale est de 210 km/h.
+Le Audi Q6 e-tron performance a une puissance maximale de 240 KW (326 ch/322 ch). Le couple total est de 485 nm (358 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,7 secondes. La vitesse maximale est de 210 km/h.
 
 ## Batterie, autonomie et charge
 
 La batterie a une capacité brute de 100kWh et une capacité nette de 94,9kWh, ce qui signifie que vous disposez d'une réserve de 5,1kWh pour la protection. (5,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 641 à 587 km (398-365 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,8kWh/100km pour la version de base et 16,2kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 641 à 556 km (398-346 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,8kWh/100km pour la version de base et 17,1kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
 La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 20 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 63 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 170kW. Chaque session de charge prendrait 20 minutes et 4 secondes.
 
@@ -260,7 +260,7 @@ Avec le système Adaptive Cruise Assist  niveau 2, vous bénéficiez de fonction
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 526 litres. Avec la banquette arrière rabattue, elle est de 1529 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 64 litres (2,3 CU FT). Le poids maximum de la voiture est de 2965 kg (6537 lbs), et avec le poids de base de 2325 kg (5126 lbs), vous pouvez charger au maximum 640 kg (1411 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 526 litres. Avec la banquette arrière rabattue, elle est de 1529 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 64 litres (2,3 CU FT). Le poids maximum de la voiture est de 2815 kg (6206 lbs), et avec le poids de base de 2200 kg (4850 lbs), vous pouvez charger au maximum 615 kg (1356 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2400, et sur une remorque non freinée, il est de 750 kg (5291/1653 lbs).
 

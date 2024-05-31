@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q6 e-tron perform
 				Vridmoment
 			</td>
 			<td>
-				450 nm
+				485 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q6 e-tron perform
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6,6 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				587 km
+				556 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				16,2 kWh/100km
+				17,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -433,7 +433,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2325 kg
+				2200 kg
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2965 kg
+				2815 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				640 kg
+				615 kg
 			</td>
 		</tr>
 		<tr>

@@ -53,10 +53,10 @@ Below are the officially rated ranges. The tests are performed with the heating/
 				</a>
 			</td>
 			<td>
-				587 km / 365 mi
+				556 km / 345 mi
 			</td>
 			<td>
-				16,17 kWh/100km / 3,8 mi/kWh
+				17,07 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -98,10 +98,10 @@ The table below shows how turning on heating/cooling on a cold/hot day affects t
 				WLTP range top trim with 2KW AC
 			</td>
 			<td>
-				464 km / 288 mi
+				444 km / 276 mi
 			</td>
 			<td>
-				-21,0%
+				-20,1%
 			</td>
 		</tr>
 	</tbody>

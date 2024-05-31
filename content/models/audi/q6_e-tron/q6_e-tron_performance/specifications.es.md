@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi Q6 e-tron per
 				Salida de par eléctrico
 			</td>
 			<td>
-				450 nm (332 pies-libra)
+				485 nm (358 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Audi Q6 e-tron per
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				6,6 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				587 km
+				556 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				16,2 kWh/100km
+				17,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -433,7 +433,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2325 kg (5126 lbs)
+				2200 kg (4850 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2815 kg (6206 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				640 kg (1411 lbs)
+				615 kg (1356 lbs)
 			</td>
 		</tr>
 		<tr>

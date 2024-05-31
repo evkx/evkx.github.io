@@ -29,13 +29,13 @@ We have separated our Audi Q6 e-tron performance article into sections. If you w
 
 ## Performance
 
-The Audi Q6 e-tron performance has a maximum power of 240 KW (326 hp/322 bhp). The total torque is 450 nm (332 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.6 seconds. The top speed is 210 km/h.
+The Audi Q6 e-tron performance has a maximum power of 240 KW (326 hp/322 bhp). The total torque is 485 nm (358 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.7 seconds. The top speed is 210 km/h.
 
 ## Battery, range, and charging
 
 The battery has a gross capacity of 100kWh and a net capacity of 94,9kWh, meaning you have a 5,1kWh buffer for protection. (5.1%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 641 to 587 km (398-365 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.8kWh/100km for the basic version and 16.2kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 641 to 556 km (398-346 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.8kWh/100km for the basic version and 17.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
 The maximum DC charging speed is 270kW. A full charge from 0 - 100% would take 57 minutes, while a more common scenario of 10-80% would take 20 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 63%, resulting in an actual charge speed, including time loss, of 170kW. Each charge session would take 20 minutes and 4 seconds.
 
@@ -260,7 +260,7 @@ With the Adaptive Cruise Assist  level 2 system, you get additional driving auto
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1529 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 64 liters (2.3 CU FT). The maxium weight of the car is 2965 kg (6537 lbs), and with the base weight of 2325 kg (5126 lbs), you can max load 640 kg (1411 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1529 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 64 liters (2.3 CU FT). The maxium weight of the car is 2815 kg (6206 lbs), and with the base weight of 2200 kg (4850 lbs), you can max load 615 kg (1356 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2400, and on unbraked, it is 750 kg (5291/1653 lbs).
 

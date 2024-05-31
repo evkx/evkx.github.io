@@ -29,13 +29,13 @@ Vi har opdelt vores Audi Q6 e-tron performance artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Audi Q6 e-tron performance har en maksimal effekt på 240 KW (326 hk/322 hk). Det samlede drejningsmoment er 450 nm (332 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,6 sekunder. Tophastigheden er 210 km/t.
+Audi Q6 e-tron performance har en maksimal effekt på 240 KW (326 hk/322 hk). Det samlede drejningsmoment er 485 nm (358 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,7 sekunder. Tophastigheden er 210 km/t.
 
 ## Batteri, rækkevidde og opladning
 
 Batteriet har en bruttokapacitet på 100kWh og en nettokapacitet på 94,9kWh, hvilket betyder, at du har en 5,1kWh buffer til beskyttelse. (5,1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 641 til 587 km (398-365 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,8kWh/100 km for basisversionen og 16,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 641 til 556 km (398-346 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,8kWh/100 km for basisversionen og 17,1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 57 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 170kW. Hver opladningssession ville tage 20 minutter og 4 sekunder.
 
@@ -260,7 +260,7 @@ Med Adaptive Cruise Assist  niveau 2-systemet får du yderligere køreautomatise
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 526 liter. Med bagsædet nede er det 1529 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 64 liter (2,3 CU FT). Bilens maksimale vægt er 2965 kg (6537 lbs), og med basisvægten på 2325 kg (5126 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 526 liter. Med bagsædet nede er det 1529 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 64 liter (2,3 CU FT). Bilens maksimale vægt er 2815 kg (6206 lbs), og med basisvægten på 2200 kg (4850 lbs), kan du maksimalt laste 615 kg (1356 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2400, og på ubremset er den 750 kg (5291/1653 lbs).
 

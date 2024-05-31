@@ -29,13 +29,13 @@ Hemos separado nuestro artículo Audi Q6 e-tron performance en secciones. Si des
 
 ## Rendimiento
 
-El Audi Q6 e-tron performance tiene una potencia máxima de 240 KW (326 hp/322 bhp). El par total es 450 nm (332 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,6 segundos. La velocidad máxima es 210 km/h.
+El Audi Q6 e-tron performance tiene una potencia máxima de 240 KW (326 hp/322 bhp). El par total es 485 nm (358 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,7 segundos. La velocidad máxima es 210 km/h.
 
 ## Batería, autonomía y carga
 
 La batería tiene una capacidad bruta de 100kWh y una capacidad neta de 94,9kWh, lo que significa que tienes un buffer de 5,1kWh para protección. (5,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 641 a 587 km (398-365 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 14,8kWh/100 km para la versión básica y 16,2kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 641 a 556 km (398-346 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 14,8kWh/100 km para la versión básica y 17,1kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 57 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 170kW. Cada sesión de carga tardaría 20 minutos y 4 segundos.
 
@@ -260,7 +260,7 @@ Con el sistema Adaptive Cruise Assist  nivel 2, obtienes funciones de automatiza
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 526 litros. Con el asiento trasero abatido, es de 1529 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 64 litros (2,3 CU FT). El peso máximo del automóvil es 2965 kg (6537 lbs), y con el peso base de 2325 kg (5126 lbs), puedes cargar como máximo 640 kg (1411 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 526 litros. Con el asiento trasero abatido, es de 1529 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 64 litros (2,3 CU FT). El peso máximo del automóvil es 2815 kg (6206 lbs), y con el peso base de 2200 kg (4850 lbs), puedes cargar como máximo 615 kg (1356 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2400, y sin freno, es de 750 kg (5291/1653 lbs).
 

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q6 e-tron perfo
 				Electrical torque output
 			</td>
 			<td>
-				450 nm (332 ft-lb)
+				485 nm (358 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q6 e-tron perfo
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				6,6 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				587 km
+				556 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				16,2 kWh/100km
+				17,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -433,7 +433,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2325 kg (5126 lbs)
+				2200 kg (4850 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2815 kg (6206 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				640 kg (1411 lbs)
+				615 kg (1356 lbs)
 			</td>
 		</tr>
 		<tr>

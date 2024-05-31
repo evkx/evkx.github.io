@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Audi Q6 e-tron performance i avsnitt. Om du 
 
 ## Prestanda
 
-Audi Q6 e-tron performance har en maximal effekt på 240 KW (326hk). Totalt vridmoment är 450 Nm. Den gör sprinten 0-100 km/h på 6,6 sekunder. Topphastigheten är 210 km/h.
+Audi Q6 e-tron performance har en maximal effekt på 240 KW (326hk). Totalt vridmoment är 485 Nm. Den gör sprinten 0-100 km/h på 6,7 sekunder. Topphastigheten är 210 km/h.
 
 ## Batteri, räckvidd och laddning
 
 Batteriet har en bruttokapacitet på 100kWh och en nettokapacitet på 94,9kWh, vilket innebär att du har en 5,1kWh buffert för skydd. (5,1%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 641 till 587 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,8kWh/100 km för basversionen och 16,2kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 641 till 556 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,8kWh/100 km för basversionen och 17,1kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 170kW. Varje laddningssession tar 20 minuter och 4 sekunder.
 
@@ -260,7 +260,7 @@ Med Adaptive Cruise Assist  nivå 2-systemet får du fler körautomatiseringsfun
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 526 liter. Med baksätet nedfällt är det 1529 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 64 liter. Bilens maximala vikt är 2965 kg, och med basvikten på 2325 kg kan du lasta maximalt 640 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 526 liter. Med baksätet nedfällt är det 1529 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 64 liter. Bilens maximala vikt är 2815 kg, och med basvikten på 2200 kg kan du lasta maximalt 615 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2400, och på en obromsad är den 750 kg.
 
