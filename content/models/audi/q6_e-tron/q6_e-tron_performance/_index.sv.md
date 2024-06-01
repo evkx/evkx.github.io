@@ -262,7 +262,7 @@ Med Adaptive Cruise Assist  nivå 2-systemet får du fler körautomatiseringsfun
 
 Lastkapaciteten i bagageutrymmet är 526 liter. Med baksätet nedfällt är det 1529 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 64 liter. Bilens maximala vikt är 2815 kg, och med basvikten på 2200 kg kan du lasta maximalt 615 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2400, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/trunk_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}

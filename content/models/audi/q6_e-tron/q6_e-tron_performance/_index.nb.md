@@ -262,7 +262,7 @@ Med Adaptive Cruise Assist  nivå 2-systemet får du flere kjøreautomatiserings
 
 Lastkapasiteten i bagasjerommet er 526 liter. Med baksetet nede er det 1529 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 64 liter. Maksimumsvekten til bilen er 2815 kg, og med basisvekten på 2200 kg kan du maksimalt laste 615 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2400, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/trunk_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}

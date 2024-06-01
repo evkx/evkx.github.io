@@ -489,7 +489,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>

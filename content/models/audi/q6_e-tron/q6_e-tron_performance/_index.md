@@ -262,7 +262,7 @@ With the Adaptive Cruise Assist  level 2 system, you get additional driving auto
 
 The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1529 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 64 liters (2.3 CU FT). The maxium weight of the car is 2815 kg (6206 lbs), and with the base weight of 2200 kg (4850 lbs), you can max load 615 kg (1356 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2400, and on unbraked, it is 750 kg (5291/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/trunk_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
