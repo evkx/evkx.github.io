@@ -147,7 +147,7 @@ Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner til
 
 
 
-Den tredje raden har en to-seters benk med en 50:50 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig.
 

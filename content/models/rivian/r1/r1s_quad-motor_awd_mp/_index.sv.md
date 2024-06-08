@@ -128,7 +128,7 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 
 
-Den tredje raden har en valfri tvåsitsbänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
+Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
 Det finns bara en typ av ratt tillgänglig.
 

@@ -124,7 +124,7 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 
 
-Den tredje raden har en valgfri to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Den tredje raden har en to-seters benk med en -deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig.
 
@@ -214,7 +214,7 @@ Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med b
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 26.11.2018, og leveringene startet i December 2021.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 26.11.2018, og leveringene startet i December 2021. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

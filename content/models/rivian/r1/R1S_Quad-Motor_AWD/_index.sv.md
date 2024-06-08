@@ -124,7 +124,7 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 
 
-Den tredje raden har en valfri tvåsitsbänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
+Den tredje raden har en tvåsitsig bänk med en -delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -214,7 +214,7 @@ Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en 
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 26.11.2018 och leveranserna startade i December 2021.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 26.11.2018 och leveranser startade i December 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

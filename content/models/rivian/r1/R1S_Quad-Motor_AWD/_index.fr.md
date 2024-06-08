@@ -124,7 +124,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 
 
-La troisième rangée dispose d'une banquette à deux places en option avec une répartition 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
+La troisième rangée est dotée d'une banquette à deux places divisée en . Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -214,7 +214,7 @@ Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maxim
 
 ### Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 26.11.2018 et les livraisons ont commencé en December 2021.<div class="mt-3 mb-3">
+Ce modèle a été présenté en première mondiale le 26.11.2018 et les livraisons ont commencé en December 2021. Ce modèle a maintenant été abandonné.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

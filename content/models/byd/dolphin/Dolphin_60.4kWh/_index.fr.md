@@ -37,9 +37,9 @@ La batterie a une capacité brute de 60,4kWh et une capacité nette de 62kWh, ce
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 427 km (265 mi). La consommation est de 14,5kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
-La vitesse de charge DC maximale est de 88kW. Une charge complète de 0 à 100 % prendrait 48 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 26 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 60 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 88kW. Chaque session de charge prendrait 24 minutes et 12 secondes.
+La vitesse de charge DC maximale est de 88kW. Une charge complète de 0 à 100 % prendrait 70 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 40 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 63kW. Chaque session de charge prendrait 24 minutes et 2 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 25kWh/100 km, 1 000 km prendront 10 heures et 31 minutes. Ce trajet nécessitera cinq sessions de charge de 1 % à 62 %. Le temps total perdu pour charger la batterie sera de 131 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 22kWh/100 km, 1 000 km prendront 10 heures et 51 minutes. Ce trajet nécessitera six sessions de charge de 1 % à 44 %. Le temps total perdu pour charger la batterie sera de 151 minutes.
 
 ### Chargeur embarqué
 
@@ -168,7 +168,7 @@ Un type de système audio est disponible pour le BYD Dolphin 60.4kWh. Avec le Di
 
 De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
+Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -215,7 +215,7 @@ Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisa
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 345 litres. Avec la banquette arrière rabattue, elle est de 1310 litres. Sur le toit, vous pouvez charger jusqu'à 50 kg (110,2 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2068 kg (4559 lbs), et avec le poids de base de 1683 kg (3710 lbs), vous pouvez charger au maximum 385 kg (849 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 345 litres. Avec la banquette arrière rabattue, elle est de 1310 litres. Sur le toit, vous pouvez charger jusqu'à 50 kg (110,2 lbs). Le poids maximum de la voiture est de 2068 kg (4559 lbs), et avec le poids de base de 1658 kg (3655 lbs), vous pouvez charger au maximum 410 kg (904 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 0, et sur une remorque non freinée, il est de 0 kg (0/0 lbs).
 

@@ -9,6 +9,34 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Dolphin interior review</h3>
+<p>Bjørn Nyland: 08.06.2024</p>
+
+{{< youtube VXZhS-q_jfg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Dolphin range test</h3>
+<p>Bjørn Nyland: 07.06.2024</p>
+
+{{< youtube EDK2bTPoIns >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Dolphin range test</h3>
+<p>Bjørn Nyland: 07.06.2024</p>
+
+{{< youtube EDK2bTPoIns >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Dolphin banana box test</h3>
+<p>Bjørn Nyland: 04.06.2024</p>
+
+{{< youtube Pp_C-naS8gU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Is BYD the new Volkswagen? Dolphin vs ID.3. HEAD-TO-HEAD </h3>
 <p>Electrifying: 10.10.2023</p>
 

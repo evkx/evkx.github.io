@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1683 kg (3710 lbs)
+				1658 kg (3655 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				385 kg (849 lbs)
+				410 kg (904 lbs)
 			</td>
 		</tr>
 		<tr>

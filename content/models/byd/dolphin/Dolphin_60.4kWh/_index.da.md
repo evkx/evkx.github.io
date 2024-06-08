@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 60,4kWh og en nettokapacitet på 62kWh, hvi
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 427 km (265 mi). Forbruget er 14,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 88kW. En fuld opladning fra 0 - 100 % ville tage 48 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 88kW. Hver opladningssession ville tage 24 minutter og 12 sekunder.
+Den maksimale DC-opladningshastighed er 88kW. En fuld opladning fra 0 - 100 % ville tage 70 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 40 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 63kW. Hver opladningssession ville tage 24 minutter og 2 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 10 timer og 31 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 1 % til 62%. Den samlede tid, der går tabt for at oplade batteriet, vil være 131 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 10 timer og 51 minutter. Denne tur vil kræve seks opladningssession(er) opladning fra 1 % til 44%. Den samlede tid, der går tabt for at oplade batteriet, vil være 151 minutter.
 
 ### Indbygget oplader
 
@@ -168,7 +168,7 @@ Modellen har ikke et head-up display.
 
 Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
+Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -215,7 +215,7 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 345 liter. Med bagsædet nede er det 1310 liter. På taget kan du laste op til 50 kg (110,2 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2068 kg (4559 lbs), og med basisvægten på 1683 kg (3710 lbs), kan du maksimalt laste 385 kg (849 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 345 liter. Med bagsædet nede er det 1310 liter. På taget kan du laste op til 50 kg (110,2 lbs). Bilens maksimale vægt er 2068 kg (4559 lbs), og med basisvægten på 1658 kg (3655 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 0, og på ubremset er den 0 kg (0/0 lbs).
 

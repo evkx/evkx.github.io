@@ -138,7 +138,7 @@ Alternativet third er to kapteinstoler. I tillegg er følgende funksjoner tilgje
 
 
 
-Den tredje raden har en to-seters benk med en 50:50 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}

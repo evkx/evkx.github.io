@@ -124,7 +124,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 
 
-La tercera fila tiene un banco de dos asientos opcional con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
+La tercera fila tiene un banco de dos asientos con una división . Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 Sólo hay un tipo de volante disponible.
 
@@ -214,7 +214,7 @@ Puedes pedir el automóvil con una barra de remolque. El peso total máximo en u
 
 ### Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 26.11.2018 y las entregas comenzaron en December 2021.<div class="mt-3 mb-3">
+Este modelo tuvo un estreno mundial el 26.11.2018 y las entregas comenzaron en December 2021. Este modelo ahora ha sido descontinuado.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

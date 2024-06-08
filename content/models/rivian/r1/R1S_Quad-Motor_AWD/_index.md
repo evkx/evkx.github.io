@@ -124,7 +124,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 
 
-The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
+The third row has a two-seat bench with a  split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 There is only one type of steering wheel available.
 
@@ -214,7 +214,7 @@ You can order the car with a towbar. The maximum total weight on a braked traile
 
 ### Availability & Pricing
 
-This model had a world premiere on 26.11.2018, and deliveries started in December 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 26.11.2018, and deliveries started in December 2021. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

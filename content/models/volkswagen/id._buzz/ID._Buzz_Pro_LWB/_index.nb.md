@@ -146,7 +146,7 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 
 
 
-Den tredje raden har en to-seters benk med en 50:50 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}

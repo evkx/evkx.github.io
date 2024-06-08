@@ -128,7 +128,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 
 
-La troisième rangée dispose d'une banquette à deux places en option avec une répartition 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
+La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
 Il n'y a qu'un seul type de volant disponible.
 

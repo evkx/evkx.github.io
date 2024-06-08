@@ -37,9 +37,9 @@ La batería tiene una capacidad bruta de 60,4kWh y una capacidad neta de 62kWh, 
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 427 km (265 mi). El consumo es de 14,5kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 88kW. Una carga completa del 0 al 100 % tardaría 48 minutos, mientras que un escenario más común del 10 al 80 % tardaría 26 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 60%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 88kW. Cada sesión de carga tardaría 24 minutos y 12 segundos.
+La velocidad máxima de carga de CC es 88kW. Una carga completa del 0 al 100 % tardaría 70 minutos, mientras que un escenario más común del 10 al 80 % tardaría 40 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 63kW. Cada sesión de carga tardaría 24 minutos y 2 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 10 horas y 31 minutos. Este viaje requerirá cinco sesiones de carga del 1 % al 62 %. El tiempo total perdido para cargar la batería será de 131 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 10 horas y 51 minutos. Este viaje requerirá seis sesiones de carga del 1 % al 44 %. El tiempo total perdido para cargar la batería será de 151 minutos.
 
 ### Cargador a bordo
 
@@ -168,7 +168,7 @@ Un tipo de sistema de sonido está disponible para el BYD Dolphin 60.4kWh. Con e
 
 Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
+El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -215,7 +215,7 @@ Con el sistema   nivel 1, obtienes las siguientes funciones de automatización d
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 345 litros. Con el asiento trasero abatido, es de 1310 litros. En el techo, puedes cargar hasta 50 kg (110,2 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2068 kg (4559 lbs), y con el peso base de 1683 kg (3710 lbs), puedes cargar como máximo 385 kg (849 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 345 litros. Con el asiento trasero abatido, es de 1310 litros. En el techo, puedes cargar hasta 50 kg (110,2 lbs). El peso máximo del automóvil es 2068 kg (4559 lbs), y con el peso base de 1658 kg (3655 lbs), puedes cargar como máximo 410 kg (904 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 0, y sin freno, es de 0 kg (0/0 lbs).
 

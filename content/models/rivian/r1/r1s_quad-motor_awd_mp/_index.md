@@ -128,7 +128,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 
 
-The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
+The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 There is only one type of steering wheel available.
 

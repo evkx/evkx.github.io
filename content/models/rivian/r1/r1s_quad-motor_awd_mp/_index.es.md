@@ -128,7 +128,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 
 
-La tercera fila tiene un banco de dos asientos opcional con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
+La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 Sólo hay un tipo de volante disponible.
 

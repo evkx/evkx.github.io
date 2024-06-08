@@ -124,7 +124,7 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 
 
-Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du folde sæderne ned, når de ikke bruges for at skabe en større lastkapacitet.
+Den tredje række har en to-sæders bænk med en -deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
 Der er kun én type rat tilgængelig.
 
@@ -214,7 +214,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 26.11.2018, og leveringerne startede i December 2021.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 26.11.2018, og leveringerne startede i December 2021. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

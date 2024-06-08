@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 60,4kWh och en nettokapacitet på 62kWh, vi
 
 [WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 427 km. Förbrukningen är 14,5kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
 
-Maximal DC-laddningshastighet är 88 kW. En full laddning från 0 - 100 % tar 48 minuter, medan ett vanligare scenario på 10-80 % tar 26 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 88kW. Varje laddningssession tar 24 minuter och 12 sekunder.
+Maximal DC-laddningshastighet är 88 kW. En full laddning från 0 - 100 % tar 70 minuter, medan ett vanligare scenario på 10-80 % tar 40 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 63kW. Varje laddningssession tar 24 minuter och 2 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 10 timmar och 31 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 1% till 62%. Total tid som går förlorad för att ladda batteriet kommer att vara 131 minuter.
+För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 10 timmar och 51 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 1% till 44%. Total tid som går förlorad för att ladda batteriet kommer att vara 151 minuter.
 
 ### Inbyggd laddare
 
@@ -168,7 +168,7 @@ En typ av ljudsystem är tillgänglig för BYD Dolphin 60.4kWh. Med Dirac får d
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
+Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -215,7 +215,7 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 345 liter. Med baksätet nedfällt är det 1310 liter. På taket kan du lasta upp till 50 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2068 kg, och med basvikten på 1683 kg kan du lasta maximalt 385 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 345 liter. Med baksätet nedfällt är det 1310 liter. På taket kan du lasta upp till 50 kg. Bilens maximala vikt är 2068 kg, och med basvikten på 1658 kg kan du lasta maximalt 410 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 0, och på en obromsad är den 0 kg.
 

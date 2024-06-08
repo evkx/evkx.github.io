@@ -130,7 +130,7 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 
 
-Den tredje raden har en to-seters benk med en 50:50 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
+Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig.
 

@@ -128,7 +128,7 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 
 
-Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du folde sæderne ned, når de ikke bruges for at skabe en større lastkapacitet.
+Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
 Der er kun én type rat tilgængelig.
 
