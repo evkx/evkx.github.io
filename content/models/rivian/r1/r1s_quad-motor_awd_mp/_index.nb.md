@@ -63,6 +63,17 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 Dynamisk styring er standard-funksjonen på Rivian R1S Quad-Motor AWD MP. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
+### Kjøremoduser
+
+Rivian R1S Quad-Motor AWD MP lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
+
+- Sport: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
+drivetrain.drivetrain.drivemodes.BalancedNormalBalancedEfficientNotSet
+- All-Purpose: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
+- Soft sand: Balansert styring, høy fjæringshøyde med balansert gass og demping.
+- All-Terrain: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+
+
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 343mm, og de bakre skivene er 328mm.
@@ -72,6 +83,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
+I tillegg kan du velge mellom 5 hjul med størrelser fra 20 til 22 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [delt bakluke](../../../../technology/doors/#split-bakluke) der den nederste delen faller og den øvre delen løftes.
 
@@ -165,7 +177,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Rivian R1S Quad-Motor AWD MP. Med Rivian Elevation audio system får du 22 høyttalere med en maksimal systemeffekt på 1100 watt.
+Én type lydsystem er tilgjengelig for Rivian R1S Quad-Motor AWD MP. Med Rivian Premium Audio får du 19 høyttalere med en maksimal systemeffekt på 960 watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
@@ -209,7 +221,7 @@ Med Driver+  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 ### Sensorer og kameraer
 
 Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsystemene.
-Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , 11 [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -219,7 +231,7 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 
 Lastkapasiteten i bagasjerommet er 498 liter. Med baksetet nede er det 2965 liter. På taket kan du laste opptil 113 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 314 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3500, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3492, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}

@@ -363,7 +363,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				3500 kg
+				3492 kg
 			</td>
 		</tr>
 		<tr>

@@ -63,6 +63,17 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 La direction dynamique est une fonctionnalité un standard sur le Rivian R1S Quad-Motor AWD MP. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
 
+### Modes de conduite
+
+Le Rivian R1S Quad-Motor AWD MP permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
+
+- Sport : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
+drivetrain.drivetrain.drivemodes.BalancedNormalBalancedEfficientNotSet
+- All-Purpose : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
+- Soft sand : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
+- All-Terrain : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+
+
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 343 mm et les disques arrière mesurent 328 mm.
@@ -72,6 +83,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 ## Extérieur
 
 Vous pouvez choisir entre 9 couleurs de peinture différentes lors de la commande de ce modèle.
+De plus, vous pouvez choisir entre 5 roues avec des tailles allant de 20 à 22 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon divisé](../../../../technology/doors/#split-tailgate) où la partie inférieure tombe et la partie supérieure se soulève.
 
@@ -165,7 +177,7 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
-Un type de système audio est disponible pour le Rivian R1S Quad-Motor AWD MP. Avec le Rivian Elevation audio system, vous obtenez 22 haut-parleurs avec une puissance système maximale de 1100 watts.
+Un type de système audio est disponible pour le Rivian R1S Quad-Motor AWD MP. Avec le Rivian Premium Audio, vous obtenez 19 haut-parleurs avec une puissance système maximale de 960 watts.
 
 De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
@@ -209,7 +221,7 @@ Avec le système Driver+  niveau 2, vous bénéficiez des fonctionnalités d'aut
 ### Capteurs et caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs à ultrasons pour les systèmes d'aide à la conduite.
-Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), 11 [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -219,7 +231,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 La capacité de chargement dans le coffre est de 498 litres. Avec la banquette arrière rabattue, elle est de 2965 litres. Sur le toit, vous pouvez charger jusqu'à 113 kg (249,1 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 314 litres (11,1 CU FT).
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3500, et sur une remorque non freinée, il est de 750 kg (7716/1653 lbs).
+Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3492, et sur une remorque non freinée, il est de 750 kg (7699/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}

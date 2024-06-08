@@ -63,6 +63,17 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 Dynamic steering is a standard feature on the Rivian R1S Quad-Motor AWD MP. Dynamic steering varies the steering ratio as a function of driving speed.
 
+### Drive modes
+
+The Rivian R1S Quad-Motor AWD MP lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
+
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+drivetrain.drivetrain.drivemodes.BalancedNormalBalancedEfficientNotSet
+- All-Purpose: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Soft sand: Balanced steering, high suspension height with balanced throttle and damping.
+- All-Terrain: Balanced steering, max suspension height with balanced throttle and damping.
+
+
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343mm, and the rear discs are 328mm.
@@ -72,6 +83,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 You can choose between 9 different paint colors when ordering this model.
+Additionally, you can choose between 5 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts.
 
@@ -165,7 +177,7 @@ This model is equipped with voice control as standard. The voice control lets yo
 
 ## Infotainment
 
-One type of sound system is available for the Rivian R1S Quad-Motor AWD MP. With the Rivian Elevation audio system, you get 22 speakers with a max system output of 1100 watts.
+One type of sound system is available for the Rivian R1S Quad-Motor AWD MP. With the Rivian Premium Audio, you get 19 speakers with a max system output of 960 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination.
 
@@ -209,7 +221,7 @@ With the Driver+  level 2 system, you get the following driving automation featu
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), 11 [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -219,7 +231,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113 kg (249.1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11.1 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, it is 750 kg (7716/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 3492, and on unbraked, it is 750 kg (7699/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}

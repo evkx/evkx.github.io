@@ -63,6 +63,17 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 La dirección dinámica es una característica un estándar en el Rivian R1S Quad-Motor AWD MP. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
 
+### Modos de conducción
+
+El Rivian R1S Quad-Motor AWD MP permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
+
+- Sport: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+drivetrain.drivetrain.drivemodes.BalancedNormalBalancedEfficientNotSet
+- All-Purpose: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Soft sand: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
+- All-Terrain: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 343 mm y los discos traseros de 328 mm.
@@ -72,6 +83,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 ## Exterior
 
 Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+Adicionalmente, puedes elegir entre 5 ruedas con tamaños de 20 a 22 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero dividido](../../../../technology/doors/#split-tailgate) donde la parte inferior cae y la parte superior se levanta.
 
@@ -165,7 +177,7 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
-Un tipo de sistema de sonido está disponible para el Rivian R1S Quad-Motor AWD MP. Con el Rivian Elevation audio system, obtienes 22 parlantes con una salida máxima del sistema de 1100 vatios.
+Un tipo de sistema de sonido está disponible para el Rivian R1S Quad-Motor AWD MP. Con el Rivian Premium Audio, obtienes 19 parlantes con una salida máxima del sistema de 960 vatios.
 
 Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
@@ -209,7 +221,7 @@ Con el sistema Driver+  nivel 2, obtienes las siguientes funciones de automatiza
 ### Sensores y cámaras
 
 Este modelo utiliza cámaras, radar y sensores ultrasónicos para los sistemas de asistencia al conductor.
-Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), 11 [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -219,7 +231,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 La capacidad de carga en el maletero es de 498 litros. Con el asiento trasero abatido, es de 2965 litros. En el techo, puedes cargar hasta 113 kg (249,1 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 314 litros (11,1 CU FT).
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 3500, y sin freno, es de 750 kg (7716/1653 lbs).
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 3492, y sin freno, es de 750 kg (7699/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
