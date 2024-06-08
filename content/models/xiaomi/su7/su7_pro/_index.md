@@ -29,7 +29,7 @@ We have separated our Xiaomi SU7 Pro article into sections. If you want to wait 
 
 ## Performance
 
-The Xiaomi SU7 Pro has a maximum power of 220 KW (299 hp/295 bhp). The total torque is 400 nm (295 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.7 seconds. The top speed is 210 km/h.
+The Xiaomi SU7 Pro has a maximum power of 220 KW (299 hp/295 bhp) and a total torque of 400 nm (295 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.7 seconds and has a top speed of 210 km/h (130.5 mph).
 
 ## Battery, range, and charging
 

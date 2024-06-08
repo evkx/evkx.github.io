@@ -29,7 +29,7 @@ We have separated our CUPRA Tavascan VZ article into sections. If you want to wa
 
 ## Performance
 
-The CUPRA Tavascan VZ has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 679 nm (501 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.6 seconds. The top speed is 180 km/h.
+The CUPRA Tavascan VZ has a maximum power of 250 KW (340 hp/335 bhp) and a total torque of 679 nm (501 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.6 seconds and has a top speed of 180 km/h (111.9 mph).
 
 ## Battery, range, and charging
 

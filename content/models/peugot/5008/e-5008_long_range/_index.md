@@ -29,7 +29,7 @@ We have separated our Peugot E-5008 Long Range article into sections. If you wan
 
 ## Performance
 
-The Peugot E-5008 Long Range has a maximum power of 170 KW (231 hp/228 bhp). The total torque is 345 nm (255 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9.7 seconds. The top speed is 170 km/h.
+The Peugot E-5008 Long Range has a maximum power of 170 KW (231 hp/228 bhp) and a total torque of 345 nm (255 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 9.7 seconds and has a top speed of 170 km/h (105.7 mph).
 
 ## Battery, range, and charging
 

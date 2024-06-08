@@ -29,7 +29,7 @@ We have separated our BMW i7 M70 xDrive article into sections. If you want to wa
 
 ## Performance
 
-The BMW i7 M70 xDrive has a maximum power of 485 KW (659 hp/650 bhp). The total torque is 1015 nm (749 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.7 seconds. The top speed is 250 km/h.
+The BMW i7 M70 xDrive has a maximum power of 485 KW (659 hp/650 bhp) and a total torque of 1015 nm (749 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.7 seconds and has a top speed of 250 km/h (155.4 mph).
 
 ## Battery, range, and charging
 

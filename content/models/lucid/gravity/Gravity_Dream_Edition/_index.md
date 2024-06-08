@@ -29,7 +29,7 @@ We have separated our Lucid Gravity Dream Edition article into sections. If you 
 
 ## Performance
 
-The Lucid Gravity Dream Edition has a maximum power of 600 KW (816 hp/805 bhp). The total torque is 1000 nm (738 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.5 seconds. The top speed is 250 km/h.
+The Lucid Gravity Dream Edition has a maximum power of 600 KW (816 hp/805 bhp) and a total torque of 1000 nm (738 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.5 seconds and has a top speed of 250 km/h (155.4 mph).
 
 ## Battery, range, and charging
 

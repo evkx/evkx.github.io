@@ -29,7 +29,7 @@ We have separated our Maserati Grecale Folgore article into sections. If you wan
 
 ## Performance
 
-The Maserati Grecale Folgore has a maximum power of 410 KW (557 hp/550 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.1 seconds. The top speed is 220 km/h.
+The Maserati Grecale Folgore has a maximum power of 410 KW (557 hp/550 bhp) and a total torque of 820 nm (605 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.1 seconds and has a top speed of 220 km/h (136.7 mph).
 
 ## Battery, range, and charging
 

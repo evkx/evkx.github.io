@@ -29,7 +29,7 @@ We have separated our Lucid Air Sapphire article into sections. If you want to w
 
 ## Performance
 
-The Lucid Air Sapphire has a maximum power of 920 KW (1251 hp/1234 bhp). The total torque is 1390 nm (1026 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 1.95 seconds. The top speed is 330 km/h.
+The Lucid Air Sapphire has a maximum power of 920 KW (1251 hp/1234 bhp) and a total torque of 1390 nm (1026 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 1.95 seconds and has a top speed of 330 km/h (205.1 mph).
 
 ## Battery, range, and charging
 

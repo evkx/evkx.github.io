@@ -29,7 +29,7 @@ We have separated our Opel Astra Sports Tourer Electric article into sections. I
 
 ## Performance
 
-The Opel Astra Sports Tourer Electric has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 260 nm (192 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 10.5 seconds. The top speed is 170 km/h.
+The Opel Astra Sports Tourer Electric has a maximum power of 115 KW (156 hp/154 bhp) and a total torque of 260 nm (192 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 10.5 seconds and has a top speed of 170 km/h (105.7 mph).
 
 ## Battery, range, and charging
 

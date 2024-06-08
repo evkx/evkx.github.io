@@ -29,7 +29,7 @@ We have separated our Polestar 4 Long range Dual motor article into sections. If
 
 ## Performance
 
-The Polestar 4 Long range Dual motor has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 686 nm (506 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.8 seconds. The top speed is 210 km/h.
+The Polestar 4 Long range Dual motor has a maximum power of 400 KW (544 hp/536 bhp) and a total torque of 686 nm (506 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.8 seconds and has a top speed of 210 km/h (130.5 mph).
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We have separated our Fisker Ocean Extreme article into sections. If you want to
 
 ## Performance
 
-With overboost, the Fisker Ocean Extreme has a maximum power of 415 KW (564 hp / 557 bhp). Without overboost, it is 344 KW (468 hp / 468 bhp). The torque is 737 nm with overboost and 696 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4 seconds. The top speed is 205 km/h.
+With overboost, the Fisker Ocean Extreme has a maximum power of 415 KW (564 hp / 557 bhp). Without overboost, it is 344 KW (468 hp / 468 bhp) The torque is 737 nm with overboost and 696 without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 4 seconds and has a top speed of 205 km/h (127.4 mph).
 
 ## Battery, range, and charging
 

@@ -31,7 +31,7 @@ We have separated our Porsche Taycan Turbo Sport Turismo (GEN1) article into sec
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Turbo Sport Turismo (GEN1) has a maximum power of 650 KW (884 hp / 872 bhp). Without overboost, it is 520 KW (707 hp / 707 bhp). The torque is 940 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 3.2 seconds. The top speed is 260 km/h.
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Turbo Sport Turismo (GEN1) has a maximum power of 650 KW (884 hp / 872 bhp). Without overboost, it is 520 KW (707 hp / 707 bhp) The torque is 940 nm with overboost and  without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 3.2 seconds and has a top speed of 260 km/h (161.6 mph).
 
 ## Battery, range, and charging
 

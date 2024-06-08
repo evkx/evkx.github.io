@@ -29,7 +29,7 @@ We have separated our Volvo EX40 Twin Motor article into sections. If you want t
 
 ## Performance
 
-The Volvo EX40 Twin Motor has a maximum power of 300 KW (408 hp/402 bhp). The total torque is 670 nm (494 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.8 seconds. The top speed is 180 km/h.
+The Volvo EX40 Twin Motor has a maximum power of 300 KW (408 hp/402 bhp) and a total torque of 670 nm (494 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.8 seconds and has a top speed of 180 km/h (111.9 mph).
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We have separated our Jaguar I-Pace EV400 article into sections. If you want to 
 
 ## Performance
 
-The Jaguar I-Pace EV400 has a maximum power of 294 KW (400 hp/394 bhp). The total torque is 696 nm (514 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.8 seconds. The top speed is 200 km/h.
+The Jaguar I-Pace EV400 has a maximum power of 294 KW (400 hp/394 bhp) and a total torque of 696 nm (514 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.8 seconds and has a top speed of 200 km/h (124.3 mph).
 
 ## Battery, range, and charging
 

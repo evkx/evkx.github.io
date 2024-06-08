@@ -29,7 +29,7 @@ We have separated our Volvo EX30 Single Motor Extended Range article into sectio
 
 ## Performance
 
-The Volvo EX30 Single Motor Extended Range has a maximum power of 200 KW (272 hp/268 bhp). The total torque is 343 nm (253 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.3 seconds. The top speed is 180 km/h.
+The Volvo EX30 Single Motor Extended Range has a maximum power of 200 KW (272 hp/268 bhp) and a total torque of 343 nm (253 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.3 seconds and has a top speed of 180 km/h (111.9 mph).
 
 ## Battery, range, and charging
 

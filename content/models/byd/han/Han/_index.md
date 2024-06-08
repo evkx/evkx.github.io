@@ -29,7 +29,7 @@ We have separated our BYD Han article into sections. If you want to wait to read
 
 ## Performance
 
-The BYD Han has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.9 seconds. The top speed is 180 km/h.
+The BYD Han has a maximum power of 380 KW (517 hp/510 bhp) and a total torque of 700 nm (517 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 180 km/h (111.9 mph).
 
 ## Battery, range, and charging
 

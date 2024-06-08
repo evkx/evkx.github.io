@@ -29,7 +29,7 @@ We have separated our Rimac Nevera article into sections. If you want to wait to
 
 ## Performance
 
-The Rimac Nevera has a maximum power of 1400 KW (1904 hp/1877 bhp). The total torque is 2340 nm (1727 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 1.81 seconds. The top speed is 412 km/h.
+The Rimac Nevera has a maximum power of 1400 KW (1904 hp/1877 bhp) and a total torque of 2340 nm (1727 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 1.81 seconds and has a top speed of 412 km/h (256.1 mph).
 
 ## Battery, range, and charging
 

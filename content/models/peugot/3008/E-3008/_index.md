@@ -29,7 +29,7 @@ We have separated our Peugot E-3008 article into sections. If you want to wait t
 
 ## Performance
 
-The Peugot E-3008 has a maximum power of 157 KW (214 hp/211 bhp). The total torque is 345 nm (255 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8.8 seconds. The top speed is 170 km/h.
+The Peugot E-3008 has a maximum power of 157 KW (214 hp/211 bhp) and a total torque of 345 nm (255 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 8.8 seconds and has a top speed of 170 km/h (105.7 mph).
 
 ## Battery, range, and charging
 

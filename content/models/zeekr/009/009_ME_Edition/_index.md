@@ -29,7 +29,7 @@ We have separated our Zeekr 009 ME Edition article into sections. If you want to
 
 ## Performance
 
-The Zeekr 009 ME Edition has a maximum power of 400 KW (544 hp/536 bhp). The total torque is 686 nm (506 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds. The top speed is 190 km/h.
+The Zeekr 009 ME Edition has a maximum power of 400 KW (544 hp/536 bhp) and a total torque of 686 nm (506 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 190 km/h (118.1 mph).
 
 ## Battery, range, and charging
 

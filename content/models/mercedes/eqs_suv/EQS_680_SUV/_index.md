@@ -29,7 +29,7 @@ We have separated our Mercedes-Maybach EQS 680 SUV article into sections. If you
 
 ## Performance
 
-The Mercedes-Maybach EQS 680 SUV has a maximum power of 484 KW (658 hp/649 bhp). The total torque is 950 nm (701 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.4 seconds. The top speed is 210 km/h.
+The Mercedes-Maybach EQS 680 SUV has a maximum power of 484 KW (658 hp/649 bhp) and a total torque of 950 nm (701 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.4 seconds and has a top speed of 210 km/h (130.5 mph).
 
 ## Battery, range, and charging
 

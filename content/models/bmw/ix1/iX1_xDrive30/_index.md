@@ -29,7 +29,7 @@ We have separated our BMW iX1 xDrive30 article into sections. If you want to wai
 
 ## Performance
 
-The BMW iX1 xDrive30 has a maximum power of 230 KW (313 hp/308 bhp). The total torque is 494 nm (365 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.6 seconds. The top speed is 180 km/h.
+The BMW iX1 xDrive30 has a maximum power of 230 KW (313 hp/308 bhp) and a total torque of 494 nm (365 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.6 seconds and has a top speed of 180 km/h (111.9 mph).
 
 ## Battery, range, and charging
 

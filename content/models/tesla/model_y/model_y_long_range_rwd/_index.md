@@ -29,7 +29,7 @@ We have separated our Tesla Model Y Long Range RWD article into sections. If you
 
 ## Performance
 
-The Tesla Model Y Long Range RWD has a maximum power of 250 KW (340 hp/335 bhp). The total torque is 450 nm (332 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.9 seconds. The top speed is 217 km/h.
+The Tesla Model Y Long Range RWD has a maximum power of 250 KW (340 hp/335 bhp) and a total torque of 450 nm (332 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.9 seconds and has a top speed of 217 km/h (134.9 mph).
 
 ## Battery, range, and charging
 

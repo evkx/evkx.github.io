@@ -29,7 +29,7 @@ We have separated our Chevrolet Equinox EV FWD article into sections. If you wan
 
 ## Performance
 
-The Chevrolet Equinox EV FWD has a maximum power of 159 KW (216 hp/213 bhp). The total torque is 320 nm (236 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7 seconds.
+The Chevrolet Equinox EV FWD has a maximum power of 159 KW (216 hp/213 bhp) and a total torque of 320 nm (236 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7 seconds
 
 ## Battery, range, and charging
 

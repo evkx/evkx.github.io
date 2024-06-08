@@ -29,7 +29,7 @@ We have separated our Nissan Ariya 63kWh article into sections. If you want to w
 
 ## Performance
 
-The Nissan Ariya 63kWh has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 7.5 seconds. The top speed is 160 km/h.
+The Nissan Ariya 63kWh has a maximum power of 160 KW (218 hp/215 bhp) and a total torque of 300 nm (221 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.5 seconds and has a top speed of 160 km/h (99.4 mph).
 
 ## Battery, range, and charging
 

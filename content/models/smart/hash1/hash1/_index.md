@@ -29,7 +29,7 @@ We have separated our Smart #1 article into sections. If you want to wait to rea
 
 ## Performance
 
-The Smart #1 has a maximum power of 315 KW (428 hp/422 bhp). The total torque is 584 nm (431 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.9 seconds. The top speed is 180 km/h.
+The Smart #1 has a maximum power of 315 KW (428 hp/422 bhp) and a total torque of 584 nm (431 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 180 km/h (111.9 mph).
 
 ## Battery, range, and charging
 

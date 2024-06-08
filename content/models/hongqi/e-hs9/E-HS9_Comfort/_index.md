@@ -29,7 +29,7 @@ We have separated our Hongqi E-HS9 Comfort article into sections. If you want to
 
 ## Performance
 
-The Hongqi E-HS9 Comfort has a maximum power of 320 KW (435 hp/429 bhp). The total torque is 300 nm (221 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 6.5 seconds. The top speed is 200 km/h.
+The Hongqi E-HS9 Comfort has a maximum power of 320 KW (435 hp/429 bhp) and a total torque of 300 nm (221 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.5 seconds and has a top speed of 200 km/h (124.3 mph).
 
 ## Battery, range, and charging
 

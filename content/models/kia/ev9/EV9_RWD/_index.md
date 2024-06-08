@@ -29,7 +29,7 @@ We have separated our Kia EV9 RWD article into sections. If you want to wait to 
 
 ## Performance
 
-The Kia EV9 RWD has a maximum power of 160 KW (218 hp/215 bhp). The total torque is 350 nm (258 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 9.4 seconds. The top speed is 185 km/h.
+The Kia EV9 RWD has a maximum power of 160 KW (218 hp/215 bhp) and a total torque of 350 nm (258 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 9.4 seconds and has a top speed of 185 km/h (115.0 mph).
 
 ## Battery, range, and charging
 

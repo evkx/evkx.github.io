@@ -29,7 +29,7 @@ We have separated our Hongqi E-HS9 Exclusive article into sections. If you want 
 
 ## Performance
 
-The Hongqi E-HS9 Exclusive has a maximum power of 405 KW (551 hp/543 bhp). The total torque is 670 nm (494 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.9 seconds. The top speed is 200 km/h.
+The Hongqi E-HS9 Exclusive has a maximum power of 405 KW (551 hp/543 bhp) and a total torque of 670 nm (494 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.9 seconds and has a top speed of 200 km/h (124.3 mph).
 
 ## Battery, range, and charging
 

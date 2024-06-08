@@ -29,7 +29,7 @@ We have separated our HiPhi X 4 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi X 4 Seater has a maximum power of 433 KW (589 hp/581 bhp). The total torque is 820 nm (605 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.9 seconds.
+The HiPhi X 4 Seater has a maximum power of 433 KW (589 hp/581 bhp) and a total torque of 820 nm (605 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds
 
 ## Battery, range, and charging
 

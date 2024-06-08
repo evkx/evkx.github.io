@@ -29,7 +29,7 @@ We have separated our BMW iX M60 article into sections. If you want to wait to r
 
 ## Performance
 
-The BMW iX M60 has a maximum power of 455 KW (619 hp/610 bhp). The total torque is 765 nm (565 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.8 seconds. The top speed is 250 km/h.
+The BMW iX M60 has a maximum power of 455 KW (619 hp/610 bhp) and a total torque of 765 nm (565 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.8 seconds and has a top speed of 250 km/h (155.4 mph).
 
 ## Battery, range, and charging
 

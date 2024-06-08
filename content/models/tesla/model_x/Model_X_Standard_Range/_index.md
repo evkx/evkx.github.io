@@ -29,7 +29,7 @@ We have separated our Tesla Model X Standard Range article into sections. If you
 
 ## Performance
 
-The Tesla Model X Standard Range has a maximum power of 381 KW (518 hp/511 bhp). The total torque is 700 nm (517 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.2 seconds. The top speed is 250 km/h.
+The Tesla Model X Standard Range has a maximum power of 381 KW (518 hp/511 bhp) and a total torque of 700 nm (517 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.2 seconds and has a top speed of 250 km/h (155.4 mph).
 
 ## Battery, range, and charging
 

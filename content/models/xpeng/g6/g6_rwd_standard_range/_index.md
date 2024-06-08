@@ -29,7 +29,7 @@ We have separated our XPENG G6 RWD Standard Range article into sections. If you 
 
 ## Performance
 
-The XPENG G6 RWD Standard Range has a maximum power of 218 KW (296 hp/292 bhp). The total torque is 440 nm (325 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.9 seconds. The top speed is 202 km/h.
+The XPENG G6 RWD Standard Range has a maximum power of 218 KW (296 hp/292 bhp) and a total torque of 440 nm (325 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.9 seconds and has a top speed of 202 km/h (125.5 mph).
 
 ## Battery, range, and charging
 

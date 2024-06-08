@@ -29,7 +29,7 @@ We have separated our YangWang U9 article into sections. If you want to wait to 
 
 ## Performance
 
-The YangWang U9 has a maximum power of 960 KW (1305 hp/1287 bhp). The total torque is 1680 nm (1240 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 2.36 seconds. The top speed is 309 km/h.
+The YangWang U9 has a maximum power of 960 KW (1305 hp/1287 bhp) and a total torque of 1680 nm (1240 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.36 seconds and has a top speed of 309 km/h (192.0 mph).
 
 ## Battery, range, and charging
 

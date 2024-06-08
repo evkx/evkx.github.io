@@ -29,7 +29,7 @@ We have separated our Rivian R1T Performance Dual-Motor AWD MP article into sect
 
 ## Performance
 
-The Rivian R1T Performance Dual-Motor AWD MP has a maximum power of 495 KW (673 hp/664 bhp). The total torque is 1124 nm (830 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.5 seconds. The top speed is 201 km/h.
+The Rivian R1T Performance Dual-Motor AWD MP has a maximum power of 495 KW (673 hp/664 bhp) and a total torque of 1124 nm (830 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.5 seconds and has a top speed of 201 km/h (124.9 mph).
 
 ## Battery, range, and charging
 

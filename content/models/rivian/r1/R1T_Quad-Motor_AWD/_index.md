@@ -29,7 +29,7 @@ We have separated our Rivian R1T Quad-Motor AWD article into sections. If you wa
 
 ## Performance
 
-The Rivian R1T Quad-Motor AWD has a maximum power of 620 KW (843 hp/831 bhp). The total torque is 1231 nm (908 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.1 seconds. The top speed is 201 km/h.
+The Rivian R1T Quad-Motor AWD has a maximum power of 620 KW (843 hp/831 bhp) and a total torque of 1231 nm (908 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.1 seconds and has a top speed of 201 km/h (124.9 mph).
 
 ## Battery, range, and charging
 

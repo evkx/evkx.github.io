@@ -29,7 +29,7 @@ We have separated our BMW i5 xDrive40 article into sections. If you want to wait
 
 ## Performance
 
-The BMW i5 xDrive40 has a maximum power of 290 KW (394 hp/389 bhp). The total torque is 590 nm (435 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 5.4 seconds. The top speed is 230 km/h.
+The BMW i5 xDrive40 has a maximum power of 290 KW (394 hp/389 bhp) and a total torque of 590 nm (435 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.4 seconds and has a top speed of 230 km/h (142.9 mph).
 
 ## Battery, range, and charging
 

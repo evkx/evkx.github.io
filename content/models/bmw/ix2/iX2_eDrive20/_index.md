@@ -29,7 +29,7 @@ We have separated our BMW iX2 eDrive20 article into sections. If you want to wai
 
 ## Performance
 
-The BMW iX2 eDrive20 has a maximum power of 150 KW (204 hp/201 bhp). The total torque is 247 nm (182 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8.6 seconds. The top speed is 170 km/h.
+The BMW iX2 eDrive20 has a maximum power of 150 KW (204 hp/201 bhp) and a total torque of 247 nm (182 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 8.6 seconds and has a top speed of 170 km/h (105.7 mph).
 
 ## Battery, range, and charging
 

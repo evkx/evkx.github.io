@@ -29,7 +29,7 @@ We have separated our Chevrolet Silverado EV 3WT article into sections. If you w
 
 ## Performance
 
-The Chevrolet Silverado EV 3WT has a maximum power of 375 KW (510 hp/503 bhp). The total torque is 834 nm (615 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds. The top speed is 170 km/h.
+The Chevrolet Silverado EV 3WT has a maximum power of 375 KW (510 hp/503 bhp) and a total torque of 834 nm (615 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 170 km/h (105.7 mph).
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We have separated our Lotus Emeya article into sections. If you want to wait to 
 
 ## Performance
 
-The Lotus Emeya has a maximum power of 450 KW (612 hp/604 bhp). The total torque is 710 nm (524 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.2 seconds. The top speed is 250 km/h.
+The Lotus Emeya has a maximum power of 450 KW (612 hp/604 bhp) and a total torque of 710 nm (524 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.2 seconds and has a top speed of 250 km/h (155.4 mph).
 
 ## Battery, range, and charging
 

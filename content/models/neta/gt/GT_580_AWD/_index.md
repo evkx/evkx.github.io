@@ -29,7 +29,7 @@ We have separated our Neta GT 580 AWD article into sections. If you want to wait
 
 ## Performance
 
-The Neta GT 580 AWD has a maximum power of 340 KW (462 hp/456 bhp). The total torque is 620 nm (458 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 3.7 seconds.
+The Neta GT 580 AWD has a maximum power of 340 KW (462 hp/456 bhp) and a total torque of 620 nm (458 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.7 seconds
 
 ## Battery, range, and charging
 

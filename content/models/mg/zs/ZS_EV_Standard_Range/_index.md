@@ -29,7 +29,7 @@ We have separated our MG ZS EV Standard Range article into sections. If you want
 
 ## Performance
 
-The MG ZS EV Standard Range has a maximum power of 115 KW (156 hp/154 bhp). The total torque is 280 nm (207 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 8.6 seconds. The top speed is 175 km/h.
+The MG ZS EV Standard Range has a maximum power of 115 KW (156 hp/154 bhp) and a total torque of 280 nm (207 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 8.6 seconds and has a top speed of 175 km/h (108.8 mph).
 
 ## Battery, range, and charging
 

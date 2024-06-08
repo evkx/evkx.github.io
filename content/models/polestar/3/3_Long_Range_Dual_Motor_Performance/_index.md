@@ -29,7 +29,7 @@ We have separated our Polestar 3 Long Range Dual Motor Performance article into 
 
 ## Performance
 
-The Polestar 3 Long Range Dual Motor Performance has a maximum power of 380 KW (517 hp/510 bhp). The total torque is 910 nm (672 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.7 seconds. The top speed is 210 km/h.
+The Polestar 3 Long Range Dual Motor Performance has a maximum power of 380 KW (517 hp/510 bhp) and a total torque of 910 nm (672 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.7 seconds and has a top speed of 210 km/h (130.5 mph).
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We have separated our Cadillac ESCALADE IQ article into sections. If you want to
 
 ## Performance
 
-The Cadillac ESCALADE IQ has a maximum power of 560 KW (761 hp/751 bhp). The total torque is 1064 nm (785 ft-lb). It performs the 0-100km/h sprint (0-62mph) in 4.7 seconds. The top speed is 200 km/h.
+The Cadillac ESCALADE IQ has a maximum power of 560 KW (761 hp/751 bhp) and a total torque of 1064 nm (785 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.7 seconds and has a top speed of 200 km/h (124.3 mph).
 
 ## Battery, range, and charging
 
