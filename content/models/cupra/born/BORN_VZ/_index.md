@@ -29,7 +29,7 @@ We have separated our CUPRA BORN VZ article into sections. If you want to wait t
 
 ## Performance
 
-The CUPRA BORN VZ has a maximum power of 240 KW (326 hp/322 bhp) and a total torque of 545 nm (402 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.7 seconds and has a top speed of 200 km/h (124.3 mph).
+The CUPRA BORN VZ has a maximum power of 240 KW (326 hp/322 bhp) and a total torque of 545 nm (402 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.7 seconds and has a top speed of 200 km/h (124 mph).
 
 ## Battery, range, and charging
 

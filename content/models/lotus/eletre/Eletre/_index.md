@@ -29,7 +29,7 @@ We have separated our Lotus Eletre article into sections. If you want to wait to
 
 ## Performance
 
-The Lotus Eletre has a maximum power of 450 KW (612 hp/604 bhp) and a total torque of 710 nm (524 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 258 km/h (160.3 mph).
+The Lotus Eletre has a maximum power of 450 KW (612 hp/604 bhp) and a total torque of 710 nm (524 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 258 km/h (160 mph).
 
 ## Battery, range, and charging
 

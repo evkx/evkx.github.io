@@ -29,7 +29,7 @@ We have separated our Nio ET5 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio ET5 has a maximum power of 480 KW (653 hp/644 bhp) and a total torque of 850 nm (627 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 200 km/h (124.3 mph).
+The Nio ET5 has a maximum power of 480 KW (653 hp/644 bhp) and a total torque of 850 nm (627 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 200 km/h (124 mph).
 
 ## Battery, range, and charging
 

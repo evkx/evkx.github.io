@@ -35,7 +35,7 @@ This model has been replaced by [Tesla Model 3 Long Range](/models/tesla/model_3
 
 ## Performance
 
-The Tesla Model 3 (GEN1) has a maximum power of 208 KW (283 hp/279 bhp) and a total torque of 420 nm (310 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.1 seconds and has a top speed of 225 km/h (139.8 mph).
+The Tesla Model 3 (GEN1) has a maximum power of 208 KW (283 hp/279 bhp) and a total torque of 420 nm (310 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.1 seconds and has a top speed of 225 km/h (140 mph).
 
 ## Battery, range, and charging
 

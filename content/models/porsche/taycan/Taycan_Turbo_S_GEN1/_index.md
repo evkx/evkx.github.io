@@ -35,7 +35,7 @@ This model has been replaced by [Porsche Taycan Turbo S](/models/porsche/taycan/
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo S (GEN1) has a maximum power of 560 KW (761 hp / 751 bhp). Without overboost, it is 460 KW (625 hp / 625 bhp) The torque is 850 nm with overboost and  without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 2.8 seconds and has a top speed of 260 km/h (161.6 mph).
+With overboost, the Porsche Taycan Turbo S (GEN1) has a maximum power of 560 KW (761 hp / 751 bhp). Without overboost, it is 460 KW (625 hp / 625 bhp) The torque is 850 nm with overboost and  without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 2.8 seconds and has a top speed of 260 km/h (162 mph).
 
 ## Battery, range, and charging
 

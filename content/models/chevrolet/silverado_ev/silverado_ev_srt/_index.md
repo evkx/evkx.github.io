@@ -29,7 +29,7 @@ We have separated our Chevrolet Silverado EV SRT article into sections. If you w
 
 ## Performance
 
-The Chevrolet Silverado EV SRT has a maximum power of 562 KW (764 hp/754 bhp) and a total torque of 1064 nm (785 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 170 km/h (105.7 mph).
+The Chevrolet Silverado EV SRT has a maximum power of 562 KW (764 hp/754 bhp) and a total torque of 1064 nm (785 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 170 km/h (106 mph).
 
 ## Battery, range, and charging
 

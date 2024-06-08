@@ -29,7 +29,7 @@ We have separated our BMW i4 eDrive35 article into sections. If you want to wait
 
 ## Performance
 
-The BMW i4 eDrive35 has a maximum power of 250 KW (340 hp/335 bhp) and a total torque of 400 nm (295 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6 seconds and has a top speed of 190 km/h (118.1 mph).
+The BMW i4 eDrive35 has a maximum power of 250 KW (340 hp/335 bhp) and a total torque of 400 nm (295 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6 seconds and has a top speed of 190 km/h (118 mph).
 
 ## Battery, range, and charging
 

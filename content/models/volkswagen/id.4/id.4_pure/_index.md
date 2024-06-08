@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.4 Pure article into sections. If you want to
 
 ## Performance
 
-The Volkswagen ID.4 Pure has a maximum power of 210 KW (286 hp/282 bhp) and a total torque of 545 nm (402 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.7 seconds and has a top speed of 160 km/h (99.4 mph).
+The Volkswagen ID.4 Pure has a maximum power of 210 KW (286 hp/282 bhp) and a total torque of 545 nm (402 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.7 seconds and has a top speed of 160 km/h (99 mph).
 
 ## Battery, range, and charging
 

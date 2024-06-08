@@ -29,7 +29,7 @@ We have separated our XPENG G6 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG G6 AWD Performance has a maximum power of 358 KW (487 hp/480 bhp) and a total torque of 660 nm (487 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 202 km/h (125.5 mph).
+The XPENG G6 AWD Performance has a maximum power of 358 KW (487 hp/480 bhp) and a total torque of 660 nm (487 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 202 km/h (126 mph).
 
 ## Battery, range, and charging
 

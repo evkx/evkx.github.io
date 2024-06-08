@@ -35,7 +35,7 @@ This model has been replaced by [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_
 
 ## Performance
 
-The Volvo C40 Recharge Twin Motor has a maximum power of 300 KW (408 hp/402 bhp) and a total torque of 670 nm (494 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.7 seconds and has a top speed of 180 km/h (111.9 mph).
+The Volvo C40 Recharge Twin Motor has a maximum power of 300 KW (408 hp/402 bhp) and a total torque of 670 nm (494 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.7 seconds and has a top speed of 180 km/h (112 mph).
 
 ## Battery, range, and charging
 

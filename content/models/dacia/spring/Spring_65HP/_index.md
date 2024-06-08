@@ -29,7 +29,7 @@ We have separated our Dacia Spring 65HP article into sections. If you want to wa
 
 ## Performance
 
-The Dacia Spring 65HP has a maximum power of 48 KW (65 hp/64 bhp) and a total torque of 113 nm (83 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 13.7 seconds and has a top speed of 125 km/h (77.7 mph).
+The Dacia Spring 65HP has a maximum power of 48 KW (65 hp/64 bhp) and a total torque of 113 nm (83 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 13.7 seconds and has a top speed of 125 km/h (78 mph).
 
 ## Battery, range, and charging
 

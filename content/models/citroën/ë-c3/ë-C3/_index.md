@@ -29,7 +29,7 @@ We have separated our Citroën ë-C3 article into sections. If you want to wait 
 
 ## Performance
 
-The Citroën ë-C3 has a maximum power of 83 KW (113 hp/111 bhp) and a total torque of  nm ( ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 11 seconds and has a top speed of 135 km/h (83.9 mph).
+The Citroën ë-C3 has a maximum power of 83 KW (113 hp/111 bhp) and a total torque of  nm ( ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 11 seconds and has a top speed of 135 km/h (84 mph).
 
 ## Battery, range, and charging
 

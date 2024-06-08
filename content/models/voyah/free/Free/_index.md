@@ -29,7 +29,7 @@ We have separated our VOYAH FREE article into sections. If you want to wait to r
 
 ## Performance
 
-The VOYAH FREE has a maximum power of 360 KW (490 hp/483 bhp) and a total torque of 720 nm (531 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.4 seconds and has a top speed of 200 km/h (124.3 mph).
+The VOYAH FREE has a maximum power of 360 KW (490 hp/483 bhp) and a total torque of 720 nm (531 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.4 seconds and has a top speed of 200 km/h (124 mph).
 
 ## Battery, range, and charging
 

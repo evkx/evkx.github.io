@@ -29,7 +29,7 @@ We have separated our Xiaomi SU7 article into sections. If you want to wait to r
 
 ## Performance
 
-The Xiaomi SU7 has a maximum power of 220 KW (299 hp/295 bhp) and a total torque of 400 nm (295 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.28 seconds and has a top speed of 210 km/h (130.5 mph).
+The Xiaomi SU7 has a maximum power of 220 KW (299 hp/295 bhp) and a total torque of 400 nm (295 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.28 seconds and has a top speed of 210 km/h (131 mph).
 
 ## Battery, range, and charging
 

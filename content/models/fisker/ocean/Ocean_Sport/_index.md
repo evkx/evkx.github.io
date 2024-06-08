@@ -29,7 +29,7 @@ We have separated our Fisker Ocean Sport article into sections. If you want to w
 
 ## Performance
 
-With overboost, the Fisker Ocean Sport has a maximum power of 209 KW (284 hp / 280 bhp). Without overboost, it is 180 KW (245 hp / 245 bhp) The torque is 386 nm with overboost and 386 without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 7.9 seconds and has a top speed of 188 km/h (116.8 mph).
+With overboost, the Fisker Ocean Sport has a maximum power of 209 KW (284 hp / 280 bhp). Without overboost, it is 180 KW (245 hp / 245 bhp) The torque is 386 nm with overboost and 386 without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 7.9 seconds and has a top speed of 188 km/h (117 mph).
 
 ## Battery, range, and charging
 

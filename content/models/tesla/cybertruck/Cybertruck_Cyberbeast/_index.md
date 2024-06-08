@@ -29,7 +29,7 @@ We have separated our Tesla Cybertruck Cyberbeast article into sections. If you 
 
 ## Performance
 
-The Tesla Cybertruck Cyberbeast has a maximum power of 630 KW (857 hp/845 bhp) and a total torque of 930 nm (686 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.7 seconds and has a top speed of 209 km/h (129.9 mph).
+The Tesla Cybertruck Cyberbeast has a maximum power of 630 KW (857 hp/845 bhp) and a total torque of 930 nm (686 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.7 seconds and has a top speed of 209 km/h (130 mph).
 
 ## Battery, range, and charging
 

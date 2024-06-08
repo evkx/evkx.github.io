@@ -29,7 +29,7 @@ We have separated our Audi Q6 e-tron quattro article into sections. If you want 
 
 ## Performance
 
-The Audi Q6 e-tron quattro has a maximum power of 285 KW (388 hp/382 bhp) and a total torque of 650 nm (480 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.9 seconds and has a top speed of 210 km/h (130.5 mph).
+The Audi Q6 e-tron quattro has a maximum power of 285 KW (388 hp/382 bhp) and a total torque of 650 nm (480 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.9 seconds and has a top speed of 210 km/h (131 mph).
 
 ## Battery, range, and charging
 

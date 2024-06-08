@@ -29,7 +29,7 @@ We have separated our Maserati GranCabrio Folgore article into sections. If you 
 
 ## Performance
 
-The Maserati GranCabrio Folgore has a maximum power of 410 KW (557 hp/550 bhp) and a total torque of 820 nm (605 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.1 seconds and has a top speed of 220 km/h (136.7 mph).
+The Maserati GranCabrio Folgore has a maximum power of 410 KW (557 hp/550 bhp) and a total torque of 820 nm (605 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.1 seconds and has a top speed of 220 km/h (137 mph).
 
 ## Battery, range, and charging
 

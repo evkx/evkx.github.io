@@ -29,7 +29,7 @@ We have separated our Lucid Air Dream Edition Performance article into sections.
 
 ## Performance
 
-The Lucid Air Dream Edition Performance has a maximum power of 828 KW (1126 hp/1110 bhp) and a total torque of 1390 nm (1026 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.7 seconds and has a top speed of 270 km/h (167.8 mph).
+The Lucid Air Dream Edition Performance has a maximum power of 828 KW (1126 hp/1110 bhp) and a total torque of 1390 nm (1026 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.7 seconds and has a top speed of 270 km/h (168 mph).
 
 ## Battery, range, and charging
 

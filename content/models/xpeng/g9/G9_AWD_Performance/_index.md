@@ -29,7 +29,7 @@ We have separated our XPENG G9 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG G9 AWD Performance has a maximum power of 405 KW (551 hp/543 bhp) and a total torque of 717 nm (529 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 205 km/h (127.4 mph).
+The XPENG G9 AWD Performance has a maximum power of 405 KW (551 hp/543 bhp) and a total torque of 717 nm (529 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 205 km/h (127 mph).
 
 ## Battery, range, and charging
 

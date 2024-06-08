@@ -29,7 +29,7 @@ We have separated our Tesla Model X article into sections. If you want to wait t
 
 ## Performance
 
-The Tesla Model X has a maximum power of 493 KW (670 hp/661 bhp) and a total torque of 800 nm (590 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 250 km/h (155.4 mph).
+The Tesla Model X has a maximum power of 493 KW (670 hp/661 bhp) and a total torque of 800 nm (590 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 250 km/h (155 mph).
 
 ## Battery, range, and charging
 

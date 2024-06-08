@@ -29,7 +29,7 @@ We have separated our Subaru Solterra AWD article into sections. If you want to 
 
 ## Performance
 
-The Subaru Solterra AWD has a maximum power of 160 KW (218 hp/215 bhp) and a total torque of 337 nm (249 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.9 seconds and has a top speed of 160 km/h (99.4 mph).
+The Subaru Solterra AWD has a maximum power of 160 KW (218 hp/215 bhp) and a total torque of 337 nm (249 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.9 seconds and has a top speed of 160 km/h (99 mph).
 
 ## Battery, range, and charging
 

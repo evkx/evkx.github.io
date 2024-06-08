@@ -29,9 +29,9 @@ We have separated our Mercedes-AMG EQE 53 4MATIC+ SUV article into sections. If 
 
 ## Performance
 
-The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 460 KW (625 hp/617 bhp) and a total torque of 950 nm (701 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.7 seconds and has a top speed of 220 km/h (136.7 mph).
+The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 460 KW (625 hp/617 bhp) and a total torque of 950 nm (701 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.7 seconds and has a top speed of 220 km/h (137 mph).
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 505 KW (687 hp/677 bhp) and a total torque of 1000 nm (738 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.5 seconds and has a top speed of 240 km/h (149.2 mph).
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ SUV has a maximum power of 505 KW (687 hp/677 bhp) and a total torque of 1000 nm (738 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.5 seconds and has a top speed of 240 km/h (149 mph).
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We have separated our Ford F150 Lightning Standard Range article into sections. 
 
 ## Performance
 
-The Ford F150 Lightning Standard Range has a maximum power of 433 KW (589 hp/581 bhp) and a total torque of 1050 nm (775 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.2 seconds and has a top speed of 180 km/h (111.9 mph).
+The Ford F150 Lightning Standard Range has a maximum power of 433 KW (589 hp/581 bhp) and a total torque of 1050 nm (775 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.2 seconds and has a top speed of 180 km/h (112 mph).
 
 ## Battery, range, and charging
 

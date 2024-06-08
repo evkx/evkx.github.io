@@ -29,7 +29,7 @@ We have separated our Lotus Eletre R article into sections. If you want to wait 
 
 ## Performance
 
-The Lotus Eletre R has a maximum power of 675 KW (918 hp/905 bhp) and a total torque of 985 nm (727 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.9 seconds and has a top speed of 265 km/h (164.7 mph).
+The Lotus Eletre R has a maximum power of 675 KW (918 hp/905 bhp) and a total torque of 985 nm (727 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.9 seconds and has a top speed of 265 km/h (165 mph).
 
 ## Battery, range, and charging
 

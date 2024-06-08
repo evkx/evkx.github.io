@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQE 350 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQE 350 4MATIC has a maximum power of 215 KW (292 hp/288 bhp) and a total torque of 565 nm (417 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.3 seconds and has a top speed of 210 km/h (130.5 mph).
+The Mercedes-EQ EQE 350 4MATIC has a maximum power of 215 KW (292 hp/288 bhp) and a total torque of 565 nm (417 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.3 seconds and has a top speed of 210 km/h (131 mph).
 
 ## Battery, range, and charging
 

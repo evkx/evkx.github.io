@@ -35,7 +35,7 @@ This model has been replaced by [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-
 
 ## Performance
 
-The Audi e-tron 50 Sportback has a maximum power of 230 KW (313 hp/308 bhp) and a total torque of 540 nm (399 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.8 seconds and has a top speed of 200 km/h (124.3 mph).
+The Audi e-tron 50 Sportback has a maximum power of 230 KW (313 hp/308 bhp) and a total torque of 540 nm (399 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.8 seconds and has a top speed of 200 km/h (124 mph).
 
 ## Battery, range, and charging
 

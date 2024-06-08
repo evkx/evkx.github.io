@@ -29,7 +29,7 @@ We have separated our XPENG G9 RWD Long Range article into sections. If you want
 
 ## Performance
 
-The XPENG G9 RWD Long Range has a maximum power of 230 KW (313 hp/308 bhp) and a total torque of 430 nm (317 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.4 seconds and has a top speed of 200 km/h (124.3 mph).
+The XPENG G9 RWD Long Range has a maximum power of 230 KW (313 hp/308 bhp) and a total torque of 430 nm (317 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.4 seconds and has a top speed of 200 km/h (124 mph).
 
 ## Battery, range, and charging
 

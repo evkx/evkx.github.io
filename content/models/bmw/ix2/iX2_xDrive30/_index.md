@@ -29,7 +29,7 @@ We have separated our BMW iX2 xDrive30 article into sections. If you want to wai
 
 ## Performance
 
-The BMW iX2 xDrive30 has a maximum power of 230 KW (313 hp/308 bhp) and a total torque of 494 nm (365 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.6 seconds and has a top speed of 180 km/h (111.9 mph).
+The BMW iX2 xDrive30 has a maximum power of 230 KW (313 hp/308 bhp) and a total torque of 494 nm (365 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.6 seconds and has a top speed of 180 km/h (112 mph).
 
 ## Battery, range, and charging
 

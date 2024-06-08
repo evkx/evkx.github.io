@@ -29,7 +29,7 @@ We have separated our Lexus UX 300e article into sections. If you want to wait t
 
 ## Performance
 
-The Lexus UX 300e has a maximum power of 150 KW (204 hp/201 bhp) and a total torque of 300 nm (221 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.5 seconds and has a top speed of 160 km/h (99.4 mph).
+The Lexus UX 300e has a maximum power of 150 KW (204 hp/201 bhp) and a total torque of 300 nm (221 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.5 seconds and has a top speed of 160 km/h (99 mph).
 
 ## Battery, range, and charging
 

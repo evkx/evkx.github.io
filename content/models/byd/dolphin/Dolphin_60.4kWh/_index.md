@@ -29,7 +29,7 @@ We have separated our BYD Dolphin 60.4kWh article into sections. If you want to 
 
 ## Performance
 
-The BYD Dolphin 60.4kWh has a maximum power of 150 KW (204 hp/201 bhp) and a total torque of 310 nm (229 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7 seconds and has a top speed of 160 km/h (99.4 mph).
+The BYD Dolphin 60.4kWh has a maximum power of 150 KW (204 hp/201 bhp) and a total torque of 310 nm (229 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7 seconds and has a top speed of 160 km/h (99 mph).
 
 ## Battery, range, and charging
 

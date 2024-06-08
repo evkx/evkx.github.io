@@ -29,7 +29,7 @@ We have separated our Hyundai Ioniq 6 Long Range RWD article into sections. If y
 
 ## Performance
 
-The Hyundai Ioniq 6 Long Range RWD has a maximum power of 168 KW (228 hp/225 bhp) and a total torque of 350 nm (258 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.4 seconds and has a top speed of 185 km/h (115.0 mph).
+The Hyundai Ioniq 6 Long Range RWD has a maximum power of 168 KW (228 hp/225 bhp) and a total torque of 350 nm (258 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.4 seconds and has a top speed of 185 km/h (115 mph).
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We have separated our Tesla Model 3 Performance article into sections. If you wa
 
 ## Performance
 
-The Tesla Model 3 Performance has a maximum power of 393 KW (534 hp/527 bhp) and a total torque of 660 nm (487 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.3 seconds and has a top speed of 261 km/h (162.2 mph).
+The Tesla Model 3 Performance has a maximum power of 393 KW (534 hp/527 bhp) and a total torque of 660 nm (487 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.3 seconds and has a top speed of 261 km/h (162 mph).
 
 ## Battery, range, and charging
 

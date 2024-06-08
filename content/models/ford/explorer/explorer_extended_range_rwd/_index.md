@@ -29,7 +29,7 @@ We have separated our Ford Explorer Extended Range RWD article into sections. If
 
 ## Performance
 
-The Ford Explorer Extended Range RWD has a maximum power of 210 KW (286 hp/282 bhp) and a total torque of 545 nm (402 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.4 seconds and has a top speed of 180 km/h (111.9 mph).
+The Ford Explorer Extended Range RWD has a maximum power of 210 KW (286 hp/282 bhp) and a total torque of 545 nm (402 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.4 seconds and has a top speed of 180 km/h (112 mph).
 
 ## Battery, range, and charging
 

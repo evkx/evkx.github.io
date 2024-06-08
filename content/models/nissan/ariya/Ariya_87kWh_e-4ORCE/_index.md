@@ -29,7 +29,7 @@ We have separated our Nissan Ariya 87kWh e-4ORCE article into sections. If you w
 
 ## Performance
 
-The Nissan Ariya 87kWh e-4ORCE has a maximum power of 225 KW (306 hp/302 bhp) and a total torque of 600 nm (443 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.7 seconds and has a top speed of 200 km/h (124.3 mph).
+The Nissan Ariya 87kWh e-4ORCE has a maximum power of 225 KW (306 hp/302 bhp) and a total torque of 600 nm (443 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.7 seconds and has a top speed of 200 km/h (124 mph).
 
 ## Battery, range, and charging
 

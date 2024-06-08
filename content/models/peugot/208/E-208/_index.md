@@ -29,7 +29,7 @@ We have separated our Peugot E-208 article into sections. If you want to wait to
 
 ## Performance
 
-The Peugot E-208 has a maximum power of 115 KW (156 hp/154 bhp) and a total torque of 260 nm (192 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 8.1 seconds and has a top speed of 150 km/h (93.2 mph).
+The Peugot E-208 has a maximum power of 115 KW (156 hp/154 bhp) and a total torque of 260 nm (192 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 8.1 seconds and has a top speed of 150 km/h (93 mph).
 
 ## Battery, range, and charging
 

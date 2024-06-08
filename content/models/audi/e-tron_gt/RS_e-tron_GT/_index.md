@@ -29,7 +29,7 @@ We have separated our Audi RS e-tron GT article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the Audi RS e-tron GT has a maximum power of 475 KW (646 hp / 637 bhp). Without overboost, it is 440 KW (598 hp / 598 bhp) The torque is 830 nm with overboost and 830 without overboost. It performs the 0-100km/h sprint (0-62mph) in 3.3 seconds with overboost and 4.5 seconds without overboost and has a top speed of 250 km/h (155.4 mph).
+With overboost, the Audi RS e-tron GT has a maximum power of 475 KW (646 hp / 637 bhp). Without overboost, it is 440 KW (598 hp / 598 bhp) The torque is 830 nm with overboost and 830 without overboost. It performs the 0-100km/h sprint (0-62mph) in 3.3 seconds with overboost and 4.5 seconds without overboost and has a top speed of 250 km/h (155 mph).
 
 ## Battery, range, and charging
 

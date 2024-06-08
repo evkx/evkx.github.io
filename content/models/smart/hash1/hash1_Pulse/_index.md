@@ -29,7 +29,7 @@ We have separated our Smart #1 Pulse article into sections. If you want to wait 
 
 ## Performance
 
-The Smart #1 Pulse has a maximum power of 315 KW (428 hp/422 bhp) and a total torque of 584 nm (431 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 180 km/h (111.9 mph).
+The Smart #1 Pulse has a maximum power of 315 KW (428 hp/422 bhp) and a total torque of 584 nm (431 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 180 km/h (112 mph).
 
 ## Battery, range, and charging
 

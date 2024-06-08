@@ -29,7 +29,7 @@ We have separated our BMW i5 M60 xDrive Touring article into sections. If you wa
 
 ## Performance
 
-The BMW i5 M60 xDrive Touring has a maximum power of 442 KW (601 hp/593 bhp) and a total torque of 795 nm (587 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.8 seconds and has a top speed of 230 km/h (142.9 mph).
+The BMW i5 M60 xDrive Touring has a maximum power of 442 KW (601 hp/593 bhp) and a total torque of 795 nm (587 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.8 seconds and has a top speed of 230 km/h (143 mph).
 
 ## Battery, range, and charging
 

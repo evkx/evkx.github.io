@@ -29,7 +29,7 @@ We have separated our XPENG X9 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG X9 AWD Performance has a maximum power of 370 KW (503 hp/496 bhp) and a total torque of 640 nm (472 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.7 seconds and has a top speed of 200 km/h (124.3 mph).
+The XPENG X9 AWD Performance has a maximum power of 370 KW (503 hp/496 bhp) and a total torque of 640 nm (472 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.7 seconds and has a top speed of 200 km/h (124 mph).
 
 ## Battery, range, and charging
 

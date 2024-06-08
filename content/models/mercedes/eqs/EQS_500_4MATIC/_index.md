@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQS 500 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQS 500 4MATIC has a maximum power of 330 KW (449 hp/443 bhp) and a total torque of 828 nm (611 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.8 seconds and has a top speed of 210 km/h (130.5 mph).
+The Mercedes-EQ EQS 500 4MATIC has a maximum power of 330 KW (449 hp/443 bhp) and a total torque of 828 nm (611 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.8 seconds and has a top speed of 210 km/h (131 mph).
 
 ## Battery, range, and charging
 

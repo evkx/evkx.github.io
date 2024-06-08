@@ -29,7 +29,7 @@ We have separated our Lucid Air Grand Touring article into sections. If you want
 
 ## Performance
 
-The Lucid Air Grand Touring has a maximum power of 597 KW (812 hp/801 bhp) and a total torque of 1200 nm (886 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3 seconds and has a top speed of 270 km/h (167.8 mph).
+The Lucid Air Grand Touring has a maximum power of 597 KW (812 hp/801 bhp) and a total torque of 1200 nm (886 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3 seconds and has a top speed of 270 km/h (168 mph).
 
 ## Battery, range, and charging
 

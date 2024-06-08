@@ -29,7 +29,7 @@ We have separated our Tesla Model S Plaid article into sections. If you want to 
 
 ## Performance
 
-The Tesla Model S Plaid has a maximum power of 760 KW (1033 hp/1019 bhp) and a total torque of 1420 nm (1048 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.1 seconds and has a top speed of 322 km/h (200.1 mph).
+The Tesla Model S Plaid has a maximum power of 760 KW (1033 hp/1019 bhp) and a total torque of 1420 nm (1048 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.1 seconds and has a top speed of 322 km/h (200 mph).
 
 ## Battery, range, and charging
 
