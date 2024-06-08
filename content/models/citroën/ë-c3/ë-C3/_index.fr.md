@@ -67,7 +67,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
-
+À basse vitesse, le mode de conduite à une pédale permettra à la voiture d'avancer.
 
 ## Extérieur
 
@@ -128,7 +128,7 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Un système climatique est disponible. Le système climatique standard ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+Un système climatique est disponible. Le système climatique standard ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture. Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
 ## Confort
 

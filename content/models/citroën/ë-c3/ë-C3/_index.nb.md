@@ -67,7 +67,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
-
+Ved lave hastigheter vil en-pedal kjøremodus holde bilen krypende fremover.
 
 ## Eksteriør
 
@@ -128,7 +128,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen.
+Det er ett tilgjengelig klimasystem. Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen. Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
 ## Komfort
 

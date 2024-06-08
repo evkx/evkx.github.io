@@ -67,7 +67,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
-
+A bajas velocidades, el modo de conducción con un solo pedal mantendrá el automóvil avanzando lentamente.
 
 ## Exterior
 
@@ -128,7 +128,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático standard solo admite el control de una zona compartida para todo el automóvil.
+Hay un sistema climático disponible. El sistema climático standard solo admite el control de una zona compartida para todo el automóvil. Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Comodidad
 

@@ -55,7 +55,7 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-Chevrolet Equinox EV AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Chevrolet Equinox EV AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakslen og [induktionsmotorer] (../../../../technology/motors/asm/) på bagakslen.
 
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 193 mm.
 

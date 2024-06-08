@@ -67,7 +67,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-
+At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
 ## Exterior
 
@@ -128,7 +128,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The standard climate system supports only controlling one shared zone for the whole car.
+There is one climate system available. The standard climate system supports only controlling one shared zone for the whole car. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort
 

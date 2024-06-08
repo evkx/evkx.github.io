@@ -67,7 +67,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
-
+Vid låga hastigheter kommer körläget med en pedal att hålla bilen krypande framåt.
 
 ## Exteriör
 
@@ -128,7 +128,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet standard stöder endast kontroll av en delad zon för hela bilen.
+Det finns ett tillgängligt klimatsystem. Klimatsystemet standard stöder endast kontroll av en delad zon för hela bilen. Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
 ## Tröst
 

@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Rivian R1 is a pickup truck / SUV available in 6 variants.
+Rivian R1 is a pickup truck / SUV available in 7 variants.
 </p>
 	<a href="r1/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

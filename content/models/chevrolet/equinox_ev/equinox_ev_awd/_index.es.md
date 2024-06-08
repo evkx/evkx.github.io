@@ -55,7 +55,7 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 ## Tren de transmisión
 
-Chevrolet Equinox EV AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Chevrolet Equinox EV AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/) en el eje delantero y [Motores de inducción] (../../../../technology/motors/asm/) en el eje trasero.
 
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 193 mm.
 
