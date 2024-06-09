@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Lucid Air Sapphire i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Lucid Air Sapphire har en maksimal effekt på 920 KW (1251hk). Totalt dreiemoment er 1390 nm. Den utfører sprinten 0-100 km/t på 1,95 sekunder. Topphastigheten er 330 km/t.
+Lucid Air Sapphire leverer en imponerende maksimal effekt på 920 KW (1251 hk) og et massivt dreiemoment på 1390 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 1,95 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 330 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
 
 ## Batteri, rekkevidde og lading
 

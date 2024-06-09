@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lucid Air Dream Edition Performance en seccione
 
 ## Rendimiento
 
-El Lucid Air Dream Edition Performance tiene una potencia máxima de 828 KW (1126 hp/1110 bhp). El par total es 1390 nm (1026 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,7 segundos. La velocidad máxima es 270 km/h.
+El Lucid Air Dream Edition Performance entrega una impresionante potencia máxima de 828 kW (1126 hp) y un enorme torque de 1390 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 2,7 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 270 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
 ## Batería, autonomía y carga
 

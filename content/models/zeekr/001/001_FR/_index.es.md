@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Zeekr 001 FR en secciones. Si desea esperar par
 
 ## Rendimiento
 
-El Zeekr 001 FR tiene una potencia máxima de 930 KW (1264 hp/1247 bhp). El par total es 1200 nm (886 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,02 segundos. La velocidad máxima es 280 km/h.
+El Zeekr 001 FR entrega una impresionante potencia máxima de 930 kW (1264 hp) y un enorme torque de 1200 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 2,02 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 280 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
 ## Batería, autonomía y carga
 

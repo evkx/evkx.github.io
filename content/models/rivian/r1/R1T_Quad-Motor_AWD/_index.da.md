@@ -29,7 +29,7 @@ Vi har opdelt vores Rivian R1T Quad-Motor AWD artikel i sektioner. Hvis du vil v
 
 ## Ydeevne
 
-Rivian R1T Quad-Motor AWD har en maksimal effekt på 620 KW (843 hk/831 hk). Det samlede drejningsmoment er 1231 nm (908 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,1 sekunder. Tophastigheden er 201 km/t.
+Rivian R1T Quad-Motor AWD leverer en imponerende maksimal effekt på 620 KW (843 hk) og et massivt drejningsmoment på 1231 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 3,1 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 201 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
 
 ## Batteri, rækkevidde og opladning
 

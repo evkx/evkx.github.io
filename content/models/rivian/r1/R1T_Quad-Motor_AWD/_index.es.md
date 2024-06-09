@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Rivian R1T Quad-Motor AWD en secciones. Si dese
 
 ## Rendimiento
 
-El Rivian R1T Quad-Motor AWD tiene una potencia máxima de 620 KW (843 hp/831 bhp). El par total es 1231 nm (908 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,1 segundos. La velocidad máxima es 201 km/h.
+El Rivian R1T Quad-Motor AWD entrega una impresionante potencia máxima de 620 kW (843 hp) y un enorme torque de 1231 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 3,1 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 201 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
 ## Batería, autonomía y carga
 

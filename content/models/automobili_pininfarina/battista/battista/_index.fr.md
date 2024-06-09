@@ -29,7 +29,7 @@ Nous avons séparé notre article Automobili Pininfarina Battista en sections. S
 
 ## Performances
 
-Le Automobili Pininfarina Battista a une puissance maximale de 1400 KW (1904 ch/1877 ch). Le couple total est de 2340 nm (1727 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 1,86 secondes. La vitesse maximale est de 350 km/h.
+La Automobili Pininfarina Battista délivre une puissance maximale impressionnante de 1400 kW (1904 ch) et un couple massif de 2340 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 1,86 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 350 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
 
 ## Batterie, autonomie et charge
 

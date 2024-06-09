@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av YangWang U9 i seksjoner. Hvis du vil vente med �
 
 ## Ytelse
 
-YangWang U9 har en maksimal effekt på 960 KW (1305hk). Totalt dreiemoment er 1680 nm. Den utfører sprinten 0-100 km/t på 2,36 sekunder. Topphastigheten er 309 km/t.
+YangWang U9 leverer en imponerende maksimal effekt på 960 KW (1305 hk) og et massivt dreiemoment på 1680 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,36 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 309 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
 
 ## Batteri, rekkevidde og lading
 

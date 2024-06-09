@@ -29,7 +29,7 @@ Nous avons séparé notre article YangWang U9 en sections. Si vous souhaitez att
 
 ## Performances
 
-Le YangWang U9 a une puissance maximale de 960 KW (1305 ch/1287 ch). Le couple total est de 1680 nm (1240 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 2,36 secondes. La vitesse maximale est de 309 km/h.
+La YangWang U9 délivre une puissance maximale impressionnante de 960 kW (1305 ch) et un couple massif de 1680 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 2,36 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 309 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
 
 ## Batterie, autonomie et charge
 

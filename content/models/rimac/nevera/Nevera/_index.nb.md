@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Rimac Nevera i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Rimac Nevera har en maksimal effekt på 1400 KW (1904hk). Totalt dreiemoment er 2340 nm. Den utfører sprinten 0-100 km/t på 1,81 sekunder. Topphastigheten er 412 km/t.
+Rimac Nevera leverer en imponerende maksimal effekt på 1400 KW (1904 hk) og et massivt dreiemoment på 2340 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 1,81 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 412 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
 
 ## Batteri, rekkevidde og lading
 

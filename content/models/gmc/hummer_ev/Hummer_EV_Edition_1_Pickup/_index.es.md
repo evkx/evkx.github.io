@@ -29,7 +29,7 @@ Hemos separado nuestro artículo GMC Hummer EV Edition 1 Pickup en secciones. Si
 
 ## Rendimiento
 
-El GMC Hummer EV Edition 1 Pickup tiene una potencia máxima de 746 KW (1014 hp/1000 bhp). El par total es 1150 nm (849 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,5 segundos. La velocidad máxima es 170 km/h.
+El GMC Hummer EV Edition 1 Pickup entrega una impresionante potencia máxima de 746 kW (1014 hp) y un enorme torque de 1150 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 3,5 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 170 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lucid Air Dream Edition Range en secciones. Si 
 
 ## Rendimiento
 
-El Lucid Air Dream Edition Range tiene una potencia máxima de 696 KW (946 hp/933 bhp). El par total es 1390 nm (1026 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,9 segundos. La velocidad máxima es 270 km/h.
+El Lucid Air Dream Edition Range entrega una impresionante potencia máxima de 696 kW (946 hp) y un enorme torque de 1390 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 2,9 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 270 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
 ## Batería, autonomía y carga
 

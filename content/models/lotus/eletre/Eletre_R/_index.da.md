@@ -29,7 +29,7 @@ Vi har opdelt vores Lotus Eletre R artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Lotus Eletre R har en maksimal effekt på 675 KW (918 hk/905 hk). Det samlede drejningsmoment er 985 nm (727 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,9 sekunder. Tophastigheden er 265 km/t.
+Lotus Eletre R leverer en imponerende maksimal effekt på 675 KW (918 hk) og et massivt drejningsmoment på 985 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 2,9 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 265 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Automobili Pininfarina Battista i seksjoner. Hvi
 
 ## Ytelse
 
-Automobili Pininfarina Battista har en maksimal effekt på 1400 KW (1904hk). Totalt dreiemoment er 2340 nm. Den utfører sprinten 0-100 km/t på 1,86 sekunder. Topphastigheten er 350 km/t.
+Automobili Pininfarina Battista leverer en imponerende maksimal effekt på 1400 KW (1904 hk) og et massivt dreiemoment på 2340 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 1,86 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 350 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
 
 ## Batteri, rekkevidde og lading
 

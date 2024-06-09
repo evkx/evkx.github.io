@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Tesla Model X Plaid i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Tesla Model X Plaid har en maksimal effekt på 760 KW (1033hk). Totalt dreiemoment er 1020 nm. Den utfører sprinten 0-100 km/t på 2,6 sekunder. Topphastigheten er 262 km/t.
+Tesla Model X Plaid leverer en imponerende maksimal effekt på 760 KW (1033 hk) og et massivt dreiemoment på 1020 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,6 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 262 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Lucid Air Dream Edition Performance i avsnit
 
 ## Prestanda
 
-Lucid Air Dream Edition Performance har en maximal effekt på 828 KW (1126hk). Totalt vridmoment är 1390 Nm. Den gör sprinten 0-100 km/h på 2,7 sekunder. Topphastigheten är 270 km/h.
+Lucid Air Dream Edition Performance levererar en häpnadsväckande maximal effekt på 828 KW (1126 hk) och ett massivt vridmoment på 1390 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 2,7 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 270 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
 
 ## Batteri, räckvidd och laddning
 

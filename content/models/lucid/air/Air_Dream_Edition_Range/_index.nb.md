@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Lucid Air Dream Edition Range i seksjoner. Hvis 
 
 ## Ytelse
 
-Lucid Air Dream Edition Range har en maksimal effekt på 696 KW (946hk). Totalt dreiemoment er 1390 nm. Den utfører sprinten 0-100 km/t på 2,9 sekunder. Topphastigheten er 270 km/t.
+Lucid Air Dream Edition Range leverer en imponerende maksimal effekt på 696 KW (946 hk) og et massivt dreiemoment på 1390 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,9 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 270 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
 
 ## Batteri, rekkevidde og lading
 

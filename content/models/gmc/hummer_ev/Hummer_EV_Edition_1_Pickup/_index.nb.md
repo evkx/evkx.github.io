@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av GMC Hummer EV Edition 1 Pickup i seksjoner. Hvis
 
 ## Ytelse
 
-GMC Hummer EV Edition 1 Pickup har en maksimal effekt på 746 KW (1014hk). Totalt dreiemoment er 1150 nm. Den utfører sprinten 0-100 km/t på 3,5 sekunder. Topphastigheten er 170 km/t.
+GMC Hummer EV Edition 1 Pickup leverer en imponerende maksimal effekt på 746 KW (1014 hk) og et massivt dreiemoment på 1150 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 3,5 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 170 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
 
 ## Batteri, rekkevidde og lading
 

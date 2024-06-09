@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Rivian R1S Quad-Motor AWD MP i avsnitt. Om d
 
 ## Prestanda
 
-Rivian R1S Quad-Motor AWD MP har en maximal effekt på 764 KW (1039hk). Totalt vridmoment är 1623 Nm. Den gör sprinten 0-100 km/h på 2,6 sekunder. Topphastigheten är 201 km/h.
+Rivian R1S Quad-Motor AWD MP levererar en häpnadsväckande maximal effekt på 764 KW (1039 hk) och ett massivt vridmoment på 1623 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 2,6 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 201 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
 
 ## Batteri, räckvidd och laddning
 

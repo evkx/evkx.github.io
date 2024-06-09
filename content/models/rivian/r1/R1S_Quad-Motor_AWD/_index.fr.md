@@ -29,7 +29,7 @@ Nous avons séparé notre article Rivian R1S Quad-Motor AWD en sections. Si vous
 
 ## Performances
 
-Le Rivian R1S Quad-Motor AWD a une puissance maximale de 620 KW (843 ch/831 ch). Le couple total est de 1231 nm (908 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,1 secondes. La vitesse maximale est de 201 km/h.
+La Rivian R1S Quad-Motor AWD délivre une puissance maximale impressionnante de 620 kW (843 ch) et un couple massif de 1231 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 3,1 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 201 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
 
 ## Batterie, autonomie et charge
 

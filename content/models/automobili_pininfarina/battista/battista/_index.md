@@ -29,7 +29,7 @@ We have separated our Automobili Pininfarina Battista article into sections. If 
 
 ## Performance
 
-The Automobili Pininfarina Battista has a maximum power of 1400 KW (1904 hp/1877 bhp) and a total torque of 2340 nm (1727 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 1.86 seconds and has a top speed of 350 km/h (218 mph).
+The Automobili Pininfarina Battista delivers a jaw-dropping maximum power of 1400 KW (1904 hp/1877 bhp) and a massive total torque of 2340 Nm (1727 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 1.86 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 350 km/h (218 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 

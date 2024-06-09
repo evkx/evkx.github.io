@@ -29,7 +29,7 @@ Nous avons séparé notre article Lucid Air Sapphire en sections. Si vous souhai
 
 ## Performances
 
-Le Lucid Air Sapphire a une puissance maximale de 920 KW (1251 ch/1234 ch). Le couple total est de 1390 nm (1026 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 1,95 secondes. La vitesse maximale est de 330 km/h.
+La Lucid Air Sapphire délivre une puissance maximale impressionnante de 920 kW (1251 ch) et un couple massif de 1390 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 1,95 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 330 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
 
 ## Batterie, autonomie et charge
 

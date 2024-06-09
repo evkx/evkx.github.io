@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Rimac Nevera en secciones. Si desea esperar par
 
 ## Rendimiento
 
-El Rimac Nevera tiene una potencia máxima de 1400 KW (1904 hp/1877 bhp). El par total es 2340 nm (1727 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 1,81 segundos. La velocidad máxima es 412 km/h.
+El Rimac Nevera entrega una impresionante potencia máxima de 1400 kW (1904 hp) y un enorme torque de 2340 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 1,81 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 412 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
 ## Batería, autonomía y carga
 

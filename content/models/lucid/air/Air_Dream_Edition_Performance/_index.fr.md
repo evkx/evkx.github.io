@@ -29,7 +29,7 @@ Nous avons séparé notre article Lucid Air Dream Edition Performance en section
 
 ## Performances
 
-Le Lucid Air Dream Edition Performance a une puissance maximale de 828 KW (1126 ch/1110 ch). Le couple total est de 1390 nm (1026 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 2,7 secondes. La vitesse maximale est de 270 km/h.
+La Lucid Air Dream Edition Performance délivre une puissance maximale impressionnante de 828 kW (1126 ch) et un couple massif de 1390 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 2,7 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 270 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
 
 ## Batterie, autonomie et charge
 

@@ -29,7 +29,7 @@ Vi har opdelt vores Zeekr 001 FR artikel i sektioner. Hvis du vil vente med at l
 
 ## Ydeevne
 
-Zeekr 001 FR har en maksimal effekt på 930 KW (1264 hk/1247 hk). Det samlede drejningsmoment er 1200 nm (886 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,02 sekunder. Tophastigheden er 280 km/t.
+Zeekr 001 FR leverer en imponerende maksimal effekt på 930 KW (1264 hk) og et massivt drejningsmoment på 1200 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 2,02 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 280 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
 
 ## Batteri, rækkevidde og opladning
 

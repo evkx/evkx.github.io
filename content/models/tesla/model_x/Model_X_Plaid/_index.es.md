@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model X Plaid en secciones. Si desea espe
 
 ## Rendimiento
 
-El Tesla Model X Plaid tiene una potencia máxima de 760 KW (1033 hp/1019 bhp). El par total es 1020 nm (753 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,6 segundos. La velocidad máxima es 262 km/h.
+El Tesla Model X Plaid entrega una impresionante potencia máxima de 760 kW (1033 hp) y un enorme torque de 1020 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 2,6 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 262 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
 ## Batería, autonomía y carga
 

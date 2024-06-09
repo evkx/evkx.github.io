@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av YangWang U9 i avsnitt. Om du vill vänta med
 
 ## Prestanda
 
-YangWang U9 har en maximal effekt på 960 KW (1305hk). Totalt vridmoment är 1680 Nm. Den gör sprinten 0-100 km/h på 2,36 sekunder. Topphastigheten är 309 km/h.
+YangWang U9 levererar en häpnadsväckande maximal effekt på 960 KW (1305 hk) och ett massivt vridmoment på 1680 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 2,36 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 309 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
 
 ## Batteri, räckvidd och laddning
 

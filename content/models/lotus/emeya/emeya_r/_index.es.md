@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lotus Emeya R en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El Lotus Emeya R tiene una potencia máxima de 675 KW (918 hp/905 bhp). El par total es 985 nm (727 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,78 segundos. La velocidad máxima es 256 km/h.
+El Lotus Emeya R entrega una impresionante potencia máxima de 675 kW (918 hp) y un enorme torque de 985 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 2,78 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 256 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
 
 ## Batería, autonomía y carga
 
