@@ -74,6 +74,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				3,3 s
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Augmentation de 0 à 100 km/h (0 à 62 mph)
+			</td>
+			<td>
+				3,3 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 

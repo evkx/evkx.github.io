@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Hyundai Ioniq 5 N i avsnitt. Om du vill vän
 
 ## Prestanda
 
-Med overboost har Hyundai Ioniq 5 N en maximal effekt på 478 KW (650hk). Utan overboost är det 448KW (609hp). Vridmomentet är 770 Nm med överboost och 714 utan överboost. Den gör sprinten 0-100 km/h på 3,4 sekunder med överboost och 3,5 sekunder utan överboost. Topphastigheten är 260 km/h.
+Med överboost når Hyundai Ioniq 5 N en maximal effekt på 478 kW (650 hk). Utan överboost ger den en stark effekt på 448 kW (609 hk). Det maximala vridmomentet är 770 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 3,4 sekunder och har en topphastighet på 260 km/h, vilket visar dess imponerande prestanda.
 
 ## Batteri, räckvidd och laddning
 

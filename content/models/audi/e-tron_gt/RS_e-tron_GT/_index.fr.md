@@ -29,7 +29,7 @@ Nous avons séparé notre article Audi RS e-tron GT en sections. Si vous souhait
 
 ## Performances
 
-Avec overboost, le Audi RS e-tron GT a une puissance maximale de 475 KW (646 ch / 637 ch). Sans overboost, il est de 440 KW (598 ch / 598 ch). Le couple est de 830 nm avec overboost et de 830 sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,3 secondes avec overboost et 4,5 secondes sans overboost. La vitesse maximale est de 250 km/h.
+Avec l'overboost, la Audi RS e-tron GT atteint une puissance maximale de 475 kW (639 ch). Sans overboost, elle offre une puissance solide de 440 kW (598 ch). Le couple maximal est de 830 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 3,3 secondes et atteint une vitesse maximale de 250 km/h, démontrant ses performances impressionnantes.
 
 ## Batterie, autonomie et charge
 

@@ -29,7 +29,7 @@ We have separated our Hyundai Ioniq 5 N article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the Hyundai Ioniq 5 N has a maximum power of 478 KW (650 hp / 641 bhp). Without overboost, it is 448 KW (609 hp / 609 bhp) The torque is 770 nm with overboost and 714 without overboost. It performs the 0-100km/h sprint (0-62mph) in 3.4 seconds with overboost and 3.5 seconds without overboost and has a top speed of 260 km/h (162 mph).
+With overboost, the Hyundai Ioniq 5 N reaches a maximum power of 478 kW (650 hp / 641 bhp). Without overboost, it provides a strong 448 kW (609 hp / 601 bhp). The maxium torque is at 770 Nm (568 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.4 seconds and reaches a top speed of 260 km/h (162 mph), showcasing its impressive performance.
 
 ## Battery, range, and charging
 

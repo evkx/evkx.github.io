@@ -29,7 +29,7 @@ Nous avons séparé notre article Hyundai Ioniq 5 N en sections. Si vous souhait
 
 ## Performances
 
-Avec overboost, le Hyundai Ioniq 5 N a une puissance maximale de 478 KW (650 ch / 641 ch). Sans overboost, il est de 448 KW (609 ch / 609 ch). Le couple est de 770 nm avec overboost et de 714 sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,4 secondes avec overboost et 3,5 secondes sans overboost. La vitesse maximale est de 260 km/h.
+Avec l'overboost, la Hyundai Ioniq 5 N atteint une puissance maximale de 478 kW (639 ch). Sans overboost, elle offre une puissance solide de 448 kW (609 ch). Le couple maximal est de 770 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 3,4 secondes et atteint une vitesse maximale de 260 km/h, démontrant ses performances impressionnantes.
 
 ## Batterie, autonomie et charge
 

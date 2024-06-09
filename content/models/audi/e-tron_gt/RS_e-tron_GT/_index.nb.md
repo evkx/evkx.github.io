@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi RS e-tron GT i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Med overboost har Audi RS e-tron GT en maksimal effekt på 475 KW (646hk). Uten overboost er den 440KW (598hk). Dreiemomentet er 830 nm med overboost og 830 uten overboost. Den utfører sprinten 0-100 km/t på 3,3 sekunder med overboost og 4,5 sekunder uten overboost. Topphastigheten er 250 km/t.
+Med overboost når Audi RS e-tron GT en maksimal effekt på 475 kW (646 hk / 637 bhp). Uten overboost leverer den solide 440 kW (598 hk). Maksimalt dreiemoment er på 830 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 3,3 sekunder og har en topphastighet på 250 km/t, som viser frem dens imponerende ytelse.
 
 ## Batteri, rekkevidde og lading
 

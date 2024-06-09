@@ -74,6 +74,14 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan Turb
 				3,3 s
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Aumento de 0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				3,3 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 

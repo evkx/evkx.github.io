@@ -29,7 +29,7 @@ Nous avons séparé notre article Porsche Macan Turbo en sections. Si vous souha
 
 ## Performances
 
-Avec overboost, le Porsche Macan Turbo a une puissance maximale de 470 KW (639 ch / 630 ch). Sans overboost, il est de 430 KW (585 ch / 585 ch). Le couple est de 1130 nm avec overboost et de 1130 sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,3 secondes. La vitesse maximale est de 260 km/h.
+Avec l'overboost, la Porsche Macan Turbo atteint une puissance maximale de 470 kW (639 ch). Sans overboost, elle offre une puissance solide de 430 kW (585 ch). Le couple maximal est de 1130 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 3,3 secondes et atteint une vitesse maximale de 260 km/h, démontrant ses performances impressionnantes.
 
 ## Batterie, autonomie et charge
 

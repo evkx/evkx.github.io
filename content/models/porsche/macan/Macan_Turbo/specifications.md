@@ -74,6 +74,14 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan Turbo.
 				3,3 s
 			</td>
 		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph) boost
+			</td>
+			<td>
+				3,3 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
