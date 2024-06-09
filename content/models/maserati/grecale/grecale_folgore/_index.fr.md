@@ -29,7 +29,7 @@ Nous avons séparé notre article Maserati Grecale Folgore en sections. Si vous 
 
 ## Performances
 
-Le Maserati Grecale Folgore a une puissance maximale de 410 KW (557 ch/550 ch). Le couple total est de 820 nm (605 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,1 secondes. La vitesse maximale est de 220 km/h.
+La Maserati Grecale Folgore impressionne avec une puissance maximale de 410 kW (557 ch) et un couple total impressionnant de 820 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,1 secondes, et atteint une vitesse maximale de 220 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

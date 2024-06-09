@@ -29,9 +29,9 @@ We have separated our Mercedes-AMG EQS 53 4MATIC+ article into sections. If you 
 
 ## Performance
 
-The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 484 KW (658 hp/649 bhp) and a total torque of 858 nm (633 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.8 seconds and has a top speed of 220 km/h (137 mph).
+The Mercedes-AMG EQS 53 4MATIC+ packs an impressive punch with a maximum power of 484 kW (658 hp / 649 bhp) and a commanding total torque of 858 Nm (633 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 220 km/h (137 mph), making it a standout in its class.
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQS 53 4MATIC+ has a maximum power of 560 KW (761 hp/751 bhp) and a total torque of 1020 nm (753 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.4 seconds and has a top speed of 250 km/h (155 mph).
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQS 53 4MATIC+ packs an impressive punch with a maximum power of 560 kW (761 hp / 751 bhp) and a commanding total torque of 1020 Nm (753 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.4 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

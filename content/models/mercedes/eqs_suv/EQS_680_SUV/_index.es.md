@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Mercedes-Maybach EQS 680 SUV en secciones. Si d
 
 ## Rendimiento
 
-El Mercedes-Maybach EQS 680 SUV tiene una potencia máxima de 484 KW (658 hp/649 bhp). El par total es 950 nm (701 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,4 segundos. La velocidad máxima es 210 km/h.
+El Mercedes-Maybach EQS 680 SUV impresiona con una potencia máxima de 484 kW (658 hp) y un impresionante par total de 950 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,4 segundos y alcanza una velocidad máxima de 210 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

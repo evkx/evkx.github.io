@@ -29,7 +29,7 @@ Vi har opdelt vores Xiaomi SU7 Max artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Xiaomi SU7 Max har en maksimal effekt på 495 KW (673 hk/664 hk). Det samlede drejningsmoment er 838 nm (618 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,78 sekunder. Tophastigheden er 265 km/t.
+Xiaomi SU7 Max imponerer med en maksimal effekt på 495 kW (673 hk) og et imponerende samlet drejningsmoment på 838 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 2,78 sekunder og har en topfart på 265 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

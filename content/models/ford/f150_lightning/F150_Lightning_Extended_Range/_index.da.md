@@ -29,7 +29,7 @@ Vi har opdelt vores Ford F150 Lightning Extended Range artikel i sektioner. Hvis
 
 ## Ydeevne
 
-Ford F150 Lightning Extended Range har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 1050 nm (775 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Tophastigheden er 180 km/t.
+Ford F150 Lightning Extended Range imponerer med en maksimal effekt på 433 kW (589 hk) og et imponerende samlet drejningsmoment på 1050 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,2 sekunder og har en topfart på 180 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

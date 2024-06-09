@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Tesla Cybertruck AWD i avsnitt. Om du vill v
 
 ## Prestanda
 
-Tesla Cybertruck AWD har en maximal effekt på 448 KW (609hk). Totalt vridmoment är 671 Nm. Den gör sprinten 0-100 km/h på 4,1 sekunder. Topphastigheten är 180 km/h.
+Tesla Cybertruck AWD imponerar med en imponerande kraft på 448 kW (609 hk) och ett imponerande totalt vridmoment på 671 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,1 sekunder och når en topphastighet på 180 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

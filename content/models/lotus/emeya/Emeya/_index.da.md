@@ -29,7 +29,7 @@ Vi har opdelt vores Lotus Emeya artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-Lotus Emeya har en maksimal effekt på 450 KW (612 hk/604 hk). Det samlede drejningsmoment er 710 nm (524 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,2 sekunder. Tophastigheden er 250 km/t.
+Lotus Emeya imponerer med en maksimal effekt på 450 kW (612 hk) og et imponerende samlet drejningsmoment på 710 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,2 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

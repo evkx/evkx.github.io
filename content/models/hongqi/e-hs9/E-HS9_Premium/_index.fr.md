@@ -29,7 +29,7 @@ Nous avons séparé notre article Hongqi E-HS9 Premium en sections. Si vous souh
 
 ## Performances
 
-Le Hongqi E-HS9 Premium a une puissance maximale de 405 KW (551 ch/543 ch). Le couple total est de 670 nm (494 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,9 secondes. La vitesse maximale est de 200 km/h.
+La Hongqi E-HS9 Premium impressionne avec une puissance maximale de 405 kW (551 ch) et un couple total impressionnant de 670 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,9 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

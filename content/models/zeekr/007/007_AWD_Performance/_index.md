@@ -29,7 +29,7 @@ We have separated our Zeekr 007 AWD Performance article into sections. If you wa
 
 ## Performance
 
-The Zeekr 007 AWD Performance has a maximum power of 475 KW (646 hp/637 bhp) and a total torque of 710 nm (524 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 2.84 seconds and has a top speed of 200 km/h (124 mph).
+The Zeekr 007 AWD Performance packs an impressive punch with a maximum power of 475 kW (646 hp / 637 bhp) and a commanding total torque of 710 Nm (524 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 2.84 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

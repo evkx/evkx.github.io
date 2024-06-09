@@ -29,9 +29,9 @@ Vi har opdelt vores Mercedes-AMG EQE 53 4MATIC+ artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Mercedes-AMG EQE 53 4MATIC+ har en maksimal effekt på 460 KW (625 hk/617 hk). Det samlede drejningsmoment er 950 nm (701 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Tophastigheden er 220 km/t.
+Mercedes-AMG EQE 53 4MATIC+ imponerer med en maksimal effekt på 460 kW (625 hk) og et imponerende samlet drejningsmoment på 950 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,5 sekunder og har en topfart på 220 km/h, hvilket gør den til en standout i sin klasse.
 
-Hvis du ikke er tilfreds nok med standardydelsen, kan du tilføje ydelsesmuligheden AMG Dynamic Plus. Så er tallene forbedret. Mercedes-AMG EQE 53 4MATIC+ har en maksimal effekt på 505 KW (687 hk/677 hk). Det samlede drejningsmoment er 1000 nm (738 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,3 sekunder. Tophastigheden er 240 km/t.
+Hvis du ikke er tilfreds nok med standardydelsen, kan du tilføje ydelsesmuligheden AMG Dynamic Plus. Så er tallene forbedret. Mercedes-AMG EQE 53 4MATIC+ imponerer med en maksimal effekt på 505 kW (687 hk) og et imponerende samlet drejningsmoment på 1000 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,3 sekunder og har en topfart på 240 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

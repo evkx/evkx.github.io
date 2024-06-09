@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Zeekr 007 AWD Performance i avsnitt. Om du v
 
 ## Prestanda
 
-Zeekr 007 AWD Performance har en maximal effekt på 475 KW (646hk). Totalt vridmoment är 710 Nm. Den gör sprinten 0-100 km/h på 2,84 sekunder. Topphastigheten är 200 km/h.
+Zeekr 007 AWD Performance imponerar med en imponerande kraft på 475 kW (646 hk) och ett imponerande totalt vridmoment på 710 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 2,84 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

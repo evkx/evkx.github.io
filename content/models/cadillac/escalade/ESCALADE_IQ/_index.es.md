@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Cadillac ESCALADE IQ en secciones. Si desea esp
 
 ## Rendimiento
 
-El Cadillac ESCALADE IQ tiene una potencia máxima de 560 KW (761 hp/751 bhp). El par total es 1064 nm (785 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,7 segundos. La velocidad máxima es 200 km/h.
+El Cadillac ESCALADE IQ impresiona con una potencia máxima de 560 kW (761 hp) y un impresionante par total de 1064 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,7 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

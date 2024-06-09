@@ -29,7 +29,7 @@ We have separated our Ford F150 Lightning Extended Range article into sections. 
 
 ## Performance
 
-The Ford F150 Lightning Extended Range has a maximum power of 433 KW (589 hp/581 bhp) and a total torque of 1050 nm (775 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.2 seconds and has a top speed of 180 km/h (112 mph).
+The Ford F150 Lightning Extended Range packs an impressive punch with a maximum power of 433 kW (589 hp / 581 bhp) and a commanding total torque of 1050 Nm (775 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.2 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

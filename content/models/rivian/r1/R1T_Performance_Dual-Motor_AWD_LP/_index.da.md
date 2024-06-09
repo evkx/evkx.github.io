@@ -29,7 +29,7 @@ Vi har opdelt vores Rivian R1T Performance Dual-Motor AWD LP artikel i sektioner
 
 ## Ydeevne
 
-Rivian R1T Performance Dual-Motor AWD LP har en maksimal effekt på 495 KW (673 hk/664 hk). Det samlede drejningsmoment er 1124 nm (830 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Tophastigheden er 201 km/t.
+Rivian R1T Performance Dual-Motor AWD LP imponerer med en maksimal effekt på 495 kW (673 hk) og et imponerende samlet drejningsmoment på 1124 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,5 sekunder og har en topfart på 201 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

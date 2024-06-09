@@ -29,7 +29,7 @@ Nous avons séparé notre article XPENG G9 AWD Performance en sections. Si vous 
 
 ## Performances
 
-Le XPENG G9 AWD Performance a une puissance maximale de 405 KW (551 ch/543 ch). Le couple total est de 717 nm (529 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,9 secondes. La vitesse maximale est de 205 km/h.
+La XPENG G9 AWD Performance impressionne avec une puissance maximale de 405 kW (551 ch) et un couple total impressionnant de 717 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,9 secondes, et atteint une vitesse maximale de 205 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

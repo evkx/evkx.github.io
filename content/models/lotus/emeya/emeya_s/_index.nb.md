@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Lotus Emeya S i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Lotus Emeya S har en maksimal effekt på 450 KW (612hk). Totalt dreiemoment er 710 nm. Den utfører sprinten 0-100 km/t på 4,2 sekunder. Topphastigheten er 250 km/t.
+Lotus Emeya S imponerer med en imponerende kraft på 450 kW (612 hk) og et betydelig dreiemoment på 710 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,2 sekunder og har en toppfart på 250 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

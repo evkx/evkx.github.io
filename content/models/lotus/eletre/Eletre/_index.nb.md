@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Lotus Eletre i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Lotus Eletre har en maksimal effekt på 450 KW (612hk). Totalt dreiemoment er 710 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 258 km/t.
+Lotus Eletre imponerer med en imponerende kraft på 450 kW (612 hk) og et betydelig dreiemoment på 710 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,5 sekunder og har en toppfart på 258 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

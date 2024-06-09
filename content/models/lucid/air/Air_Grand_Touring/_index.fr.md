@@ -29,7 +29,7 @@ Nous avons séparé notre article Lucid Air Grand Touring en sections. Si vous s
 
 ## Performances
 
-Le Lucid Air Grand Touring a une puissance maximale de 597 KW (812 ch/801 ch). Le couple total est de 1200 nm (886 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3 secondes. La vitesse maximale est de 270 km/h.
+La Lucid Air Grand Touring impressionne avec une puissance maximale de 597 kW (812 ch) et un couple total impressionnant de 1200 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3 secondes, et atteint une vitesse maximale de 270 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

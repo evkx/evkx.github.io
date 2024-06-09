@@ -29,7 +29,7 @@ Vi har opdelt vores Lucid Gravity Dream Edition artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Lucid Gravity Dream Edition har en maksimal effekt på 600 KW (816 hk/805 hk). Det samlede drejningsmoment er 1000 nm (738 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,5 sekunder. Tophastigheden er 250 km/t.
+Lucid Gravity Dream Edition imponerer med en maksimal effekt på 600 kW (816 hk) og et imponerende samlet drejningsmoment på 1000 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,5 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article Tesla Cybertruck AWD en sections. Si vous souh
 
 ## Performances
 
-Le Tesla Cybertruck AWD a une puissance maximale de 448 KW (609 ch/601 ch). Le couple total est de 671 nm (495 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,1 secondes. La vitesse maximale est de 180 km/h.
+La Tesla Cybertruck AWD impressionne avec une puissance maximale de 448 kW (609 ch) et un couple total impressionnant de 671 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,1 secondes, et atteint une vitesse maximale de 180 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

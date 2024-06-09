@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Mercedes-EQ G 580 EQ en secciones. Si desea esp
 
 ## Rendimiento
 
-El Mercedes-EQ G 580 EQ tiene una potencia máxima de 432 KW (587 hp/579 bhp). El par total es 1164 nm (859 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,7 segundos. La velocidad máxima es 180 km/h.
+El Mercedes-EQ G 580 EQ impresiona con una potencia máxima de 432 kW (587 hp) y un impresionante par total de 1164 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,7 segundos y alcanza una velocidad máxima de 180 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

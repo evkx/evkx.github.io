@@ -29,9 +29,9 @@ Nous avons séparé notre article Mercedes-AMG EQE 53 4MATIC+ en sections. Si vo
 
 ## Performances
 
-Le Mercedes-AMG EQE 53 4MATIC+ a une puissance maximale de 460 KW (625 ch/617 ch). Le couple total est de 950 nm (701 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,5 secondes. La vitesse maximale est de 220 km/h.
+La Mercedes-AMG EQE 53 4MATIC+ impressionne avec une puissance maximale de 460 kW (625 ch) et un couple total impressionnant de 950 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,5 secondes, et atteint une vitesse maximale de 220 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
-Si vous n'êtes pas assez satisfait des performances standard, vous pouvez ajouter l'option de performances AMG Dynamic Plus. Les chiffres sont alors améliorés. Le Mercedes-AMG EQE 53 4MATIC+ a une puissance maximale de 505 KW (687 ch/677 ch). Le couple total est de 1000 nm (738 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,3 secondes. La vitesse maximale est de 240 km/h.
+Si vous n'êtes pas assez satisfait des performances standard, vous pouvez ajouter l'option de performances AMG Dynamic Plus. Les chiffres sont alors améliorés. La Mercedes-AMG EQE 53 4MATIC+ impressionne avec une puissance maximale de 505 kW (687 ch) et un couple total impressionnant de 1000 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,3 secondes, et atteint une vitesse maximale de 240 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

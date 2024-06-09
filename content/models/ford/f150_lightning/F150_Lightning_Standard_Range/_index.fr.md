@@ -29,7 +29,7 @@ Nous avons séparé notre article Ford F150 Lightning Standard Range en sections
 
 ## Performances
 
-Le Ford F150 Lightning Standard Range a une puissance maximale de 433 KW (589 ch/581 ch). Le couple total est de 1050 nm (775 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,2 secondes. La vitesse maximale est de 180 km/h.
+La Ford F150 Lightning Standard Range impressionne avec une puissance maximale de 433 kW (589 ch) et un couple total impressionnant de 1050 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,2 secondes, et atteint une vitesse maximale de 180 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

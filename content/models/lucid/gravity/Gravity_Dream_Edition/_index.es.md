@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lucid Gravity Dream Edition en secciones. Si de
 
 ## Rendimiento
 
-El Lucid Gravity Dream Edition tiene una potencia máxima de 600 KW (816 hp/805 bhp). El par total es 1000 nm (738 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,5 segundos. La velocidad máxima es 250 km/h.
+El Lucid Gravity Dream Edition impresiona con una potencia máxima de 600 kW (816 hp) y un impresionante par total de 1000 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,5 segundos y alcanza una velocidad máxima de 250 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

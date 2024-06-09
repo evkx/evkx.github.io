@@ -35,7 +35,7 @@ Denna modell har ersatts av [Mercedes EQS 680 SUV](/models/mercedes/eqs_suv/eqs_
 
 ## Prestanda
 
-Mercedes-Maybach EQS 680 SUV har en maximal effekt på 484 KW (658hk). Totalt vridmoment är 950 Nm. Den gör sprinten 0-100 km/h på 4,4 sekunder. Topphastigheten är 210 km/h.
+Mercedes-Maybach EQS 680 SUV imponerar med en imponerande kraft på 484 kW (658 hk) och ett imponerande totalt vridmoment på 950 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,4 sekunder och når en topphastighet på 210 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

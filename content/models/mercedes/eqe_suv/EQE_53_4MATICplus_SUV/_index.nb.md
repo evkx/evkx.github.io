@@ -29,9 +29,9 @@ Vi har delt vår beskrivelse av Mercedes-AMG EQE 53 4MATIC+ SUV i seksjoner. Hvi
 
 ## Ytelse
 
-Mercedes-AMG EQE 53 4MATIC+ SUV har en maksimal effekt på 460 KW (625hk). Totalt dreiemoment er 950 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 220 km/t.
+Mercedes-AMG EQE 53 4MATIC+ SUV imponerer med en imponerende kraft på 460 kW (625 hk) og et betydelig dreiemoment på 950 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,7 sekunder og har en toppfart på 220 km/t, noe som gjør den til en markant modell i sin klasse.
 
-Hvis du ikke er fornøyd nok med standardytelsen, kan du legge til ytelsesalternativet AMG Dynamic Plus. Da er tallene forbedret. Mercedes-AMG EQE 53 4MATIC+ SUV har en maksimal effekt på 505 KW (687hk). Totalt dreiemoment er 1000 nm. Den utfører sprinten 0-100 km/t på 3,5 sekunder. Topphastigheten er 240 km/t.
+Hvis du ikke er fornøyd nok med standardytelsen, kan du legge til ytelsesalternativet AMG Dynamic Plus. Da er tallene forbedret. Mercedes-AMG EQE 53 4MATIC+ SUV imponerer med en imponerende kraft på 505 kW (687 hk) og et betydelig dreiemoment på 1000 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,5 sekunder og har en toppfart på 240 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

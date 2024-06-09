@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Nio ET9 i avsnitt. Om du vill vänta med att
 
 ## Prestanda
 
-Nio ET9 har en maximal effekt på 520 KW (707hk). Totalt vridmoment är 900 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder. Topphastigheten är 200 km/h.
+Nio ET9 imponerar med en imponerande kraft på 520 kW (707 hk) och ett imponerande totalt vridmoment på 900 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,8 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

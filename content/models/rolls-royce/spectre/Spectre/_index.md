@@ -29,7 +29,7 @@ We have separated our Rolls-Royce Spectre article into sections. If you want to 
 
 ## Performance
 
-The Rolls-Royce Spectre has a maximum power of 430 KW (585 hp/577 bhp) and a total torque of 900 nm (664 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.5 seconds and has a top speed of 250 km/h (155 mph).
+The Rolls-Royce Spectre packs an impressive punch with a maximum power of 430 kW (585 hp / 577 bhp) and a commanding total torque of 900 Nm (664 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article BMW i7 M70 xDrive en sections. Si vous souhait
 
 ## Performances
 
-Le BMW i7 M70 xDrive a une puissance maximale de 485 KW (659 ch/650 ch). Le couple total est de 1015 nm (749 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,7 secondes. La vitesse maximale est de 250 km/h.
+La BMW i7 M70 xDrive impressionne avec une puissance maximale de 485 kW (659 ch) et un couple total impressionnant de 1015 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,7 secondes, et atteint une vitesse maximale de 250 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

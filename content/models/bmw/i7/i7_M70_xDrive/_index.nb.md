@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW i7 M70 xDrive i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-BMW i7 M70 xDrive har en maksimal effekt på 485 KW (659hk). Totalt dreiemoment er 1015 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 250 km/t.
+BMW i7 M70 xDrive imponerer med en imponerende kraft på 485 kW (659 hk) og et betydelig dreiemoment på 1015 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,7 sekunder og har en toppfart på 250 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

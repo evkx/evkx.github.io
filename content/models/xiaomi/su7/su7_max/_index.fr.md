@@ -29,7 +29,7 @@ Nous avons séparé notre article Xiaomi SU7 Max en sections. Si vous souhaitez 
 
 ## Performances
 
-Le Xiaomi SU7 Max a une puissance maximale de 495 KW (673 ch/664 ch). Le couple total est de 838 nm (618 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 2,78 secondes. La vitesse maximale est de 265 km/h.
+La Xiaomi SU7 Max impressionne avec une puissance maximale de 495 kW (673 ch) et un couple total impressionnant de 838 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 2,78 secondes, et atteint une vitesse maximale de 265 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

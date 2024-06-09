@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lotus Eletre en secciones. Si desea esperar par
 
 ## Rendimiento
 
-El Lotus Eletre tiene una potencia máxima de 450 KW (612 hp/604 bhp). El par total es 710 nm (524 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,5 segundos. La velocidad máxima es 258 km/h.
+El Lotus Eletre impresiona con una potencia máxima de 450 kW (612 hp) y un impresionante par total de 710 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,5 segundos y alcanza una velocidad máxima de 258 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

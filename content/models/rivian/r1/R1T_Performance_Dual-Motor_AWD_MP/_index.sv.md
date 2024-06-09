@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Rivian R1T Performance Dual-Motor AWD MP i a
 
 ## Prestanda
 
-Rivian R1T Performance Dual-Motor AWD MP har en maximal effekt på 495 KW (673hk). Totalt vridmoment är 1124 Nm. Den gör sprinten 0-100 km/h på 3,5 sekunder. Topphastigheten är 201 km/h.
+Rivian R1T Performance Dual-Motor AWD MP imponerar med en imponerande kraft på 495 kW (673 hk) och ett imponerande totalt vridmoment på 1124 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,5 sekunder och når en topphastighet på 201 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

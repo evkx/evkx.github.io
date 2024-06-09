@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Lucid Air Grand Touring i seksjoner. Hvis du vil
 
 ## Ytelse
 
-Lucid Air Grand Touring har en maksimal effekt på 597 KW (812hk). Totalt dreiemoment er 1200 nm. Den utfører sprinten 0-100 km/t på 3 sekunder. Topphastigheten er 270 km/t.
+Lucid Air Grand Touring imponerer med en imponerende kraft på 597 kW (812 hk) og et betydelig dreiemoment på 1200 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3 sekunder og har en toppfart på 270 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

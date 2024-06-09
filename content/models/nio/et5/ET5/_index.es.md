@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Nio ET5 en secciones. Si desea esperar para lee
 
 ## Rendimiento
 
-El Nio ET5 tiene una potencia máxima de 480 KW (653 hp/644 bhp). El par total es 850 nm (627 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,9 segundos. La velocidad máxima es 200 km/h.
+El Nio ET5 impresiona con una potencia máxima de 480 kW (653 hp) y un impresionante par total de 850 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,9 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

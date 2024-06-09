@@ -29,7 +29,7 @@ Nous avons séparé notre article Rolls-Royce Spectre en sections. Si vous souha
 
 ## Performances
 
-Le Rolls-Royce Spectre a une puissance maximale de 430 KW (585 ch/577 ch). Le couple total est de 900 nm (664 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,5 secondes. La vitesse maximale est de 250 km/h.
+La Rolls-Royce Spectre impressionne avec une puissance maximale de 430 kW (585 ch) et un couple total impressionnant de 900 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,5 secondes, et atteint une vitesse maximale de 250 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

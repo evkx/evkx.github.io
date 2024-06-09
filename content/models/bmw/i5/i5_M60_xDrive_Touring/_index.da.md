@@ -29,7 +29,7 @@ Vi har opdelt vores BMW i5 M60 xDrive Touring artikel i sektioner. Hvis du vil v
 
 ## Ydeevne
 
-BMW i5 M60 xDrive Touring har en maksimal effekt på 442 KW (601 hk/593 hk). Det samlede drejningsmoment er 795 nm (587 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Tophastigheden er 230 km/t.
+BMW i5 M60 xDrive Touring imponerer med en maksimal effekt på 442 kW (601 hk) og et imponerende samlet drejningsmoment på 795 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,8 sekunder og har en topfart på 230 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

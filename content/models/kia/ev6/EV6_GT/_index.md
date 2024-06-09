@@ -29,7 +29,7 @@ We have separated our Kia EV6 GT article into sections. If you want to wait to r
 
 ## Performance
 
-The Kia EV6 GT has a maximum power of 430 KW (585 hp/577 bhp) and a total torque of 740 nm (546 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.5 seconds and has a top speed of 260 km/h (162 mph).
+The Kia EV6 GT packs an impressive punch with a maximum power of 430 kW (585 hp / 577 bhp) and a commanding total torque of 740 Nm (546 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 260 km/h (162 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Cadillac ESCALADE IQ i avsnitt. Om du vill v
 
 ## Prestanda
 
-Cadillac ESCALADE IQ har en maximal effekt på 560 KW (761hk). Totalt vridmoment är 1064 Nm. Den gör sprinten 0-100 km/h på 4,7 sekunder. Topphastigheten är 200 km/h.
+Cadillac ESCALADE IQ imponerar med en imponerande kraft på 560 kW (761 hk) och ett imponerande totalt vridmoment på 1064 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,7 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

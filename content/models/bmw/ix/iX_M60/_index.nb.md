@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW iX M60 i seksjoner. Hvis du vil vente med å
 
 ## Ytelse
 
-BMW iX M60 har en maksimal effekt på 455 KW (619hk). Totalt dreiemoment er 765 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 250 km/t.
+BMW iX M60 imponerer med en imponerende kraft på 455 kW (619 hk) og et betydelig dreiemoment på 765 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,8 sekunder og har en toppfart på 250 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

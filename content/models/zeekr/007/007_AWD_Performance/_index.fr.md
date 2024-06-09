@@ -29,7 +29,7 @@ Nous avons séparé notre article Zeekr 007 AWD Performance en sections. Si vous
 
 ## Performances
 
-Le Zeekr 007 AWD Performance a une puissance maximale de 475 KW (646 ch/637 ch). Le couple total est de 710 nm (524 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 2,84 secondes. La vitesse maximale est de 200 km/h.
+La Zeekr 007 AWD Performance impressionne avec une puissance maximale de 475 kW (646 ch) et un couple total impressionnant de 710 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 2,84 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

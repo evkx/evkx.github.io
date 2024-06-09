@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Seres 5 4WD Premium en secciones. Si desea espe
 
 ## Rendimiento
 
-El Seres 5 4WD Premium tiene una potencia máxima de 430 KW (585 hp/577 bhp). El par total es 940 nm (694 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4 segundos. La velocidad máxima es 200 km/h.
+El Seres 5 4WD Premium impresiona con una potencia máxima de 430 kW (585 hp) y un impresionante par total de 940 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

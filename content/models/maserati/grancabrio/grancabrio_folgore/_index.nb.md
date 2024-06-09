@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Maserati GranCabrio Folgore i seksjoner. Hvis du
 
 ## Ytelse
 
-Maserati GranCabrio Folgore har en maksimal effekt på 410 KW (557hk). Totalt dreiemoment er 820 nm. Den utfører sprinten 0-100 km/t på 4,1 sekunder. Topphastigheten er 220 km/t.
+Maserati GranCabrio Folgore imponerer med en imponerende kraft på 410 kW (557 hk) og et betydelig dreiemoment på 820 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,1 sekunder og har en toppfart på 220 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

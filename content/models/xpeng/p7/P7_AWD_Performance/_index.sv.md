@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av XPENG P7 AWD Performance i avsnitt. Om du vi
 
 ## Prestanda
 
-XPENG P7 AWD Performance har en maximal effekt på 405 KW (551hk). Totalt vridmoment är 717 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 205 km/h.
+XPENG P7 AWD Performance imponerar med en imponerande kraft på 405 kW (551 hk) och ett imponerande totalt vridmoment på 717 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och når en topphastighet på 205 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ Vi har opdelt vores Zeekr 007 AWD Performance artikel i sektioner. Hvis du vil v
 
 ## Ydeevne
 
-Zeekr 007 AWD Performance har en maksimal effekt på 475 KW (646 hk/637 hk). Det samlede drejningsmoment er 710 nm (524 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 2,84 sekunder. Tophastigheden er 200 km/t.
+Zeekr 007 AWD Performance imponerer med en maksimal effekt på 475 kW (646 hk) og et imponerende samlet drejningsmoment på 710 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 2,84 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

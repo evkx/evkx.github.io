@@ -29,7 +29,7 @@ Nous avons séparé notre article Chevrolet Silverado EV SRT en sections. Si vou
 
 ## Performances
 
-Le Chevrolet Silverado EV SRT a une puissance maximale de 562 KW (764 ch/754 ch). Le couple total est de 1064 nm (785 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,5 secondes. La vitesse maximale est de 170 km/h.
+La Chevrolet Silverado EV SRT impressionne avec une puissance maximale de 562 kW (764 ch) et un couple total impressionnant de 1064 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,5 secondes, et atteint une vitesse maximale de 170 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

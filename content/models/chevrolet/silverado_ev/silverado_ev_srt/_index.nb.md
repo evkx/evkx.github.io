@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Chevrolet Silverado EV SRT i seksjoner. Hvis du 
 
 ## Ytelse
 
-Chevrolet Silverado EV SRT har en maksimal effekt på 562 KW (764hk). Totalt dreiemoment er 1064 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 170 km/t.
+Chevrolet Silverado EV SRT imponerer med en imponerende kraft på 562 kW (764 hk) og et betydelig dreiemoment på 1064 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,5 sekunder og har en toppfart på 170 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

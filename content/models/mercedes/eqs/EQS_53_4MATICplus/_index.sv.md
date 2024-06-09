@@ -29,9 +29,9 @@ Vi har delat in vår beskrivning av Mercedes-AMG EQS 53 4MATIC+ i avsnitt. Om du
 
 ## Prestanda
 
-Mercedes-AMG EQS 53 4MATIC+ har en maximal effekt på 484 KW (658hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 3,8 sekunder. Topphastigheten är 220 km/h.
+Mercedes-AMG EQS 53 4MATIC+ imponerar med en imponerande kraft på 484 kW (658 hk) och ett imponerande totalt vridmoment på 858 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,8 sekunder och når en topphastighet på 220 km/h, vilket gör den till en stjärna i sin klass.
 
-Om du inte är tillräckligt nöjd med standardprestandan kan du lägga till prestandaalternativet AMG Dynamic Plus. Då förbättras siffrorna. Mercedes-AMG EQS 53 4MATIC+ har en maximal effekt på 560 KW (761hk). Totalt vridmoment är 1020 Nm. Den gör sprinten 0-100 km/h på 3,4 sekunder. Topphastigheten är 250 km/h.
+Om du inte är tillräckligt nöjd med standardprestandan kan du lägga till prestandaalternativet AMG Dynamic Plus. Då förbättras siffrorna. Mercedes-AMG EQS 53 4MATIC+ imponerar med en imponerande kraft på 560 kW (761 hk) och ett imponerande totalt vridmoment på 1020 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,4 sekunder och når en topphastighet på 250 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

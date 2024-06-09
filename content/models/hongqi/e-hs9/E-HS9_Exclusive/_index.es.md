@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Hongqi E-HS9 Exclusive en secciones. Si desea e
 
 ## Rendimiento
 
-El Hongqi E-HS9 Exclusive tiene una potencia máxima de 405 KW (551 hp/543 bhp). El par total es 670 nm (494 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,9 segundos. La velocidad máxima es 200 km/h.
+El Hongqi E-HS9 Exclusive impresiona con una potencia máxima de 405 kW (551 hp) y un impresionante par total de 670 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,9 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

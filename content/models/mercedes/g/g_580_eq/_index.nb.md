@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Mercedes-EQ G 580 EQ i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Mercedes-EQ G 580 EQ har en maksimal effekt på 432 KW (587hk). Totalt dreiemoment er 1164 nm. Den utfører sprinten 0-100 km/t på 4,7 sekunder. Topphastigheten er 180 km/t.
+Mercedes-EQ G 580 EQ imponerer med en imponerende kraft på 432 kW (587 hk) og et betydelig dreiemoment på 1164 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,7 sekunder og har en toppfart på 180 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

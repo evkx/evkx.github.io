@@ -29,7 +29,7 @@ Vi har opdelt vores Rolls-Royce Spectre artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Rolls-Royce Spectre har en maksimal effekt på 430 KW (585 hk/577 hk). Det samlede drejningsmoment er 900 nm (664 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Tophastigheden er 250 km/t.
+Rolls-Royce Spectre imponerer med en maksimal effekt på 430 kW (585 hk) og et imponerende samlet drejningsmoment på 900 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,5 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

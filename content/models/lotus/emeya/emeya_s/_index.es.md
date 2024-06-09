@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lotus Emeya S en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El Lotus Emeya S tiene una potencia máxima de 450 KW (612 hp/604 bhp). El par total es 710 nm (524 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,2 segundos. La velocidad máxima es 250 km/h.
+El Lotus Emeya S impresiona con una potencia máxima de 450 kW (612 hp) y un impresionante par total de 710 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,2 segundos y alcanza una velocidad máxima de 250 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

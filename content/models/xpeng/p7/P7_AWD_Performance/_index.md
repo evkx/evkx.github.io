@@ -29,7 +29,7 @@ We have separated our XPENG P7 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG P7 AWD Performance has a maximum power of 405 KW (551 hp/543 bhp) and a total torque of 717 nm (529 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 205 km/h (127 mph).
+The XPENG P7 AWD Performance packs an impressive punch with a maximum power of 405 kW (551 hp / 543 bhp) and a commanding total torque of 717 Nm (529 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds, and it reaches a top speed of 205 km/h (127 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

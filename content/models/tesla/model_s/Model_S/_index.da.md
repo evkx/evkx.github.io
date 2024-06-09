@@ -29,7 +29,7 @@ Vi har opdelt vores Tesla Model S artikel i sektioner. Hvis du vil vente med at 
 
 ## Ydeevne
 
-Tesla Model S har en maksimal effekt på 493 KW (670 hk/661 hk). Det samlede drejningsmoment er 800 nm (590 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,2 sekunder. Tophastigheden er 250 km/t.
+Tesla Model S imponerer med en maksimal effekt på 493 kW (670 hk) og et imponerende samlet drejningsmoment på 800 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,2 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Tesla Model X i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Tesla Model X har en maximal effekt på 493 KW (670hk). Totalt vridmoment är 800 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 250 km/h.
+Tesla Model X imponerar med en imponerande kraft på 493 kW (670 hk) och ett imponerande totalt vridmoment på 800 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och når en topphastighet på 250 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

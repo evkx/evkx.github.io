@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model X en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El Tesla Model X tiene una potencia máxima de 493 KW (670 hp/661 bhp). El par total es 800 nm (590 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,9 segundos. La velocidad máxima es 250 km/h.
+El Tesla Model X impresiona con una potencia máxima de 493 kW (670 hp) y un impresionante par total de 800 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,9 segundos y alcanza una velocidad máxima de 250 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 
