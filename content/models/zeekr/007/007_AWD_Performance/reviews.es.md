@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr 007 Review - If James Bond Drove Chinese, He'd Drive This</h3>
+<p>Inside China Auto: 09.06.2024</p>
+
+{{< youtube bkuGlBuqwFY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Trumps Model 3 in Every Way - Zeekr 007 Review</h3>
 <p>Telescope: 14.01.2024</p>
 
