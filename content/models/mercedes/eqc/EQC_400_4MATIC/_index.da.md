@@ -29,7 +29,7 @@ Vi har opdelt vores Mercedes-EQ EQC 400 4MATIC artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Mercedes-EQ EQC 400 4MATIC har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 760 nm (561 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,1 sekunder. Tophastigheden er 180 km/t.
+Mercedes-EQ EQC 400 4MATIC leverer en solid præstation med en maksimal effekt på 300 kW (408 hk) og et totalt drejningsmoment på 760 Nm. Den kan accelerere fra 0 til 100 km/t på 5,1 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

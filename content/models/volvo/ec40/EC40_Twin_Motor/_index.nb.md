@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Volvo EC40 Twin Motor i seksjoner. Hvis du vil v
 
 ## Ytelse
 
-Volvo EC40 Twin Motor har en maksimal effekt på 300 KW (408hk). Totalt dreiemoment er 670 nm. Den utfører sprinten 0-100 km/t på 4,7 sekunder. Topphastigheten er 180 km/t.
+Volvo EC40 Twin Motor leverer solid ytelse med en maksimal effekt på 300 kW (408 hk) og et totalt dreiemoment på 670 Nm. Den kan akselerere fra 0 til 100 km/t på 4,7 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

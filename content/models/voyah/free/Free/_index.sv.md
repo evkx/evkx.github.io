@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av VOYAH FREE i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-VOYAH FREE har en maximal effekt på 360 KW (490hk). Totalt vridmoment är 720 Nm. Den gör sprinten 0-100 km/h på 4,4 sekunder. Topphastigheten är 200 km/h.
+VOYAH FREE levererar en solid prestanda med en maximal effekt på 360 kW (490 hk) och ett totalt vridmoment på 720 Nm. Den kan accelerera från 0 till 100 km/h på 4,4 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

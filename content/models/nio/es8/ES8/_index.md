@@ -29,7 +29,7 @@ We have separated our Nio ES8 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio ES8 has a maximum power of 400 KW (544 hp/536 bhp) and a total torque of 725 nm (535 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.9 seconds and has a top speed of 200 km/h (124 mph).
+The Nio ES8 packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 725 Nm (535 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

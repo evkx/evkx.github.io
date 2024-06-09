@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi SQ8 Sportback e-tron i seksjoner. Hvis du v
 
 ## Ytelse
 
-Med overboost har Audi SQ8 Sportback e-tron en maksimal effekt på 370 KW (503hk). Uten overboost er den 320KW (435hk). Dreiemomentet er 973 nm med overboost og 561 uten overboost. Den utfører sprinten 0-100 km/t på 4,5 sekunder med overboost og 6,6 sekunder uten overboost. Topphastigheten er 200 km/t.
+Med overboost når Audi SQ8 Sportback e-tronen maksimal effekt på 370 kW (503 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 973 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 200 km/t, noe som viser dens solide ytelse.
 
 ## Batteri, rekkevidde og lading
 

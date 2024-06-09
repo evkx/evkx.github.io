@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Ford Mustang Mach-E GT en secciones. Si desea e
 
 ## Rendimiento
 
-El Ford Mustang Mach-E GT tiene una potencia máxima de 358 KW (487 hp/480 bhp). El par total es 860 nm (635 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,7 segundos. La velocidad máxima es 200 km/h.
+El Ford Mustang Mach-E GT ofrece un rendimiento sólido con una potencia máxima de 358 kW (487 hp) y un par total de 860 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

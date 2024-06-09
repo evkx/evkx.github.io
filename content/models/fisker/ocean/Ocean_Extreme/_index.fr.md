@@ -29,7 +29,7 @@ Nous avons séparé notre article Fisker Ocean Extreme en sections. Si vous souh
 
 ## Performances
 
-Avec overboost, le Fisker Ocean Extreme a une puissance maximale de 415 KW (564 ch / 557 ch). Sans overboost, il est de 344 KW (468 ch / 468 ch). Le couple est de 737 nm avec overboost et de 696 sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4 secondes. La vitesse maximale est de 205 km/h.
+La Fisker Ocean Extreme offre des performances solides avec une puissance maximale de 344 kW (468 ch) et un couple total de 696 Nm. Elle peut accélérer de 0 à 100 km/h en 4 secondes et atteindre une vitesse maximale de 205 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

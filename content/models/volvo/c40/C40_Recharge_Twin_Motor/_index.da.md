@@ -35,7 +35,7 @@ Denne model er blevet erstattet af [Volvo EC40 Twin Motor](/models/volvo/ec40/ec
 
 ## Ydeevne
 
-Volvo C40 Recharge Twin Motor har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 670 nm (494 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,7 sekunder. Tophastigheden er 180 km/t.
+Volvo C40 Recharge Twin Motor leverer en solid præstation med en maksimal effekt på 300 kW (408 hk) og et totalt drejningsmoment på 670 Nm. Den kan accelerere fra 0 til 100 km/t på 4,7 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

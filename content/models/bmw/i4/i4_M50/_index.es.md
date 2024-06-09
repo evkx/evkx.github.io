@@ -29,7 +29,7 @@ Hemos separado nuestro artículo BMW i4 M50 en secciones. Si desea esperar para 
 
 ## Rendimiento
 
-El BMW i4 M50 tiene una potencia máxima de 400 KW (544 hp/536 bhp). El par total es 795 nm (587 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,9 segundos. La velocidad máxima es 225 km/h.
+El BMW i4 M50 impresiona con una potencia máxima de 400 kW (544 hp) y un impresionante par total de 795 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,9 segundos y alcanza una velocidad máxima de 225 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

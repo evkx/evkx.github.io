@@ -29,7 +29,7 @@ Vi har opdelt vores Smart #1 Brabus artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-Smart #1 Brabus har en maksimal effekt på 315 KW (428 hk/422 hk). Det samlede drejningsmoment er 584 nm (431 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder. Tophastigheden er 180 km/t.
+Smart #1 Brabus leverer en solid præstation med en maksimal effekt på 315 kW (428 hk) og et totalt drejningsmoment på 584 Nm. Den kan accelerere fra 0 til 100 km/t på 3,9 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

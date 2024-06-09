@@ -29,7 +29,7 @@ We have separated our BMW i7 xDrive60 article into sections. If you want to wait
 
 ## Performance
 
-The BMW i7 xDrive60 has a maximum power of 400 KW (544 hp/536 bhp) and a total torque of 745 nm (550 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.7 seconds and has a top speed of 240 km/h (149 mph).
+The BMW i7 xDrive60 packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 745 Nm (550 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.7 seconds, and it reaches a top speed of 240 km/h (149 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

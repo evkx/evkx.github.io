@@ -29,7 +29,7 @@ Nous avons séparé notre article BYD Han en sections. Si vous souhaitez attendr
 
 ## Performances
 
-Le BYD Han a une puissance maximale de 380 KW (517 ch/510 ch). Le couple total est de 700 nm (517 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,9 secondes. La vitesse maximale est de 180 km/h.
+La BYD Han offre des performances solides avec une puissance maximale de 380 kW (517 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 3,9 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

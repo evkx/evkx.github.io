@@ -29,7 +29,7 @@ Nous avons séparé notre article Tesla Model S Standard Range en sections. Si v
 
 ## Performances
 
-Le Tesla Model S Standard Range a une puissance maximale de 381 KW (518 ch/511 ch). Le couple total est de 700 nm (517 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,9 secondes. La vitesse maximale est de 250 km/h.
+La Tesla Model S Standard Range offre des performances solides avec une puissance maximale de 381 kW (518 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 3,9 secondes et atteindre une vitesse maximale de 250 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

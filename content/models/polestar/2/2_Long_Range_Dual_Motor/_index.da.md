@@ -29,7 +29,7 @@ Vi har opdelt vores Polestar 2 Long Range Dual Motor artikel i sektioner. Hvis d
 
 ## Ydeevne
 
-Polestar 2 Long Range Dual Motor har en maksimal effekt på 310 KW (422 hk/416 hk). Det samlede drejningsmoment er 740 nm (546 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Tophastigheden er 205 km/t.
+Polestar 2 Long Range Dual Motor leverer en solid præstation med en maksimal effekt på 310 kW (422 hk) og et totalt drejningsmoment på 740 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 205 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

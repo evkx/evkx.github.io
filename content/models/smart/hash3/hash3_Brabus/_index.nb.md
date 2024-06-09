@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Smart #3 Brabus i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Smart #3 Brabus har en maksimal effekt på 315 KW (428hk). Totalt dreiemoment er 543 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 180 km/t.
+Smart #3 Brabus leverer solid ytelse med en maksimal effekt på 315 kW (428 hk) og et totalt dreiemoment på 543 Nm. Den kan akselerere fra 0 til 100 km/t på 3,7 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

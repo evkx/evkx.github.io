@@ -29,7 +29,7 @@ Vi har opdelt vores Chevrolet Silverado EV 3WT artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Chevrolet Silverado EV 3WT har en maksimal effekt på 375 KW (510 hk/503 hk). Det samlede drejningsmoment er 834 nm (615 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,5 sekunder. Tophastigheden er 170 km/t.
+Chevrolet Silverado EV 3WT leverer en solid præstation med en maksimal effekt på 375 kW (510 hk) og et totalt drejningsmoment på 834 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 170 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

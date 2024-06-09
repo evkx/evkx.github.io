@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Tesla Model 3 Performance i seksjoner. Hvis du v
 
 ## Ytelse
 
-Tesla Model 3 Performance har en maksimal effekt på 393 KW (534hk). Totalt dreiemoment er 660 nm. Den utfører sprinten 0-100 km/t på 3,3 sekunder. Topphastigheten er 261 km/t.
+Tesla Model 3 Performance leverer solid ytelse med en maksimal effekt på 393 kW (534 hk) og et totalt dreiemoment på 660 Nm. Den kan akselerere fra 0 til 100 km/t på 3,3 sekunder og når en topphastighet på 261 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

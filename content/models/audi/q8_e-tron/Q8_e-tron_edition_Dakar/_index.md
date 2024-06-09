@@ -29,7 +29,7 @@ We have separated our Audi Q8 e-tron edition Dakar article into sections. If you
 
 ## Performance
 
-With overboost, the Audi Q8 e-tron edition Dakar has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 265 KW (360 hp / 360 bhp) The torque is 664 nm with overboost and 561 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5.8 seconds with overboost and 6.8 seconds without overboost and has a top speed of 200 km/h (124 mph).
+With overboost, the Audi Q8 e-tron edition Dakar reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 265 kW (360 hp / 355 bhp). The maximum torque is 664 Nm (490 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.8 seconds and reaches a top speed of 200 km/h (124 mph), demonstrating its solid performance.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article Audi SQ8 Sportback e-tron en sections. Si vous
 
 ## Performances
 
-Avec overboost, le Audi SQ8 Sportback e-tron a une puissance maximale de 370 KW (503 ch / 496 ch). Sans overboost, il est de 320 KW (435 ch / 435 ch). Le couple est de 973 nm avec overboost et de 561 sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,5 secondes avec overboost et 6,6 secondes sans overboost. La vitesse maximale est de 200 km/h.
+Avec overboost, l'Audi SQ8 Sportback e-tron atteint une puissance maximale de  370 kW (503 ch). Sans overboost, elle délivre 320 kW (435 ch). Le couple maximal est de 973 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteint une vitesse maximale de 200 km/h, démontrant ses performances solides.
 
 ## Batterie, autonomie et charge
 

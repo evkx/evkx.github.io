@@ -29,7 +29,7 @@ Vi har opdelt vores BMW i5 xDrive40 artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-BMW i5 xDrive40 har en maksimal effekt på 290 KW (394 hk/389 hk). Det samlede drejningsmoment er 590 nm (435 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,4 sekunder. Tophastigheden er 230 km/t.
+BMW i5 xDrive40 leverer en solid præstation med en maksimal effekt på 290 kW (394 hk) og et totalt drejningsmoment på 590 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 230 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

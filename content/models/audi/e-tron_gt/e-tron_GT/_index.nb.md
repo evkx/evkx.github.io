@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi e-tron GT i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Med overboost har Audi e-tron GT en maksimal effekt på 390 KW (530hk). Uten overboost er den 350KW (476hk). Dreiemomentet er 640 nm med overboost og 630 uten overboost. Den utfører sprinten 0-100 km/t på 4,1 sekunder med overboost og 4,5 sekunder uten overboost. Topphastigheten er 245 km/t.
+Med overboost når Audi e-tron GTen maksimal effekt på 390 kW (530 hk). Uten overboost leverer den 350 kW (476 hk). Maksimalt dreiemoment er 640 Nm. Den kan akselerere fra 0 til 100 km/t på 4,1 sekunder og når en topphastighet på 245 km/t, noe som viser dens solide ytelse.
 
 ## Batteri, rekkevidde og lading
 

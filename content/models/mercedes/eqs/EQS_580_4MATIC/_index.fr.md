@@ -29,7 +29,7 @@ Nous avons séparé notre article Mercedes-EQ EQS 580 4MATIC en sections. Si vou
 
 ## Performances
 
-Le Mercedes-EQ EQS 580 4MATIC a une puissance maximale de 385 KW (524 ch/516 ch). Le couple total est de 858 nm (633 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,3 secondes. La vitesse maximale est de 210 km/h.
+La Mercedes-EQ EQS 580 4MATIC offre des performances solides avec une puissance maximale de 385 kW (524 ch) et un couple total de 858 Nm. Elle peut accélérer de 0 à 100 km/h en 4,3 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

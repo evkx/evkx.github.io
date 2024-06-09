@@ -35,7 +35,7 @@ Denne model er blevet erstattet af [Audi Q8 Sportback 55 e-tron](/models/audi/q8
 
 ## Ydeevne
 
-Med overboost har Audi e-tron 55 Sportback en maksimal effekt på 300 KW (408 hk / 360 bhp). Uden overboost er den 265 KW (360 hk / 402 hk). Momentet er 664 nm med overboost og 561 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder med overboost og 6,6 sekunder uden overboost. Tophastigheden er 200 km/t.
+Med overboost når Audi e-tron 55 Sportback en maksimal effekt på 300 kW (408 hk). Uden overboost leverer den 265 kW (360 hk). Det maksimale drejningsmoment er 664 Nm. Den kan accelerere fra 0 til 100 km/t på 5,7 sekunder og når en topfart på 200 km/t, hvilket demonstrerer dens solide præstation.
 
 ## Batteri, rækkevidde og opladning
 

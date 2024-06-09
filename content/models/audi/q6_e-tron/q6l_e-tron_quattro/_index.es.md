@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Audi Q6L e-tron quattro en secciones. Si desea 
 
 ## Rendimiento
 
-El Audi Q6L e-tron quattro tiene una potencia máxima de 345 KW (469 hp/463 bhp). El par total es 650 nm (480 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,9 segundos. La velocidad máxima es 210 km/h.
+El Audi Q6L e-tron quattro ofrece un rendimiento sólido con una potencia máxima de 345 kW (469 hp) y un par total de 650 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Polestar 3 Long Range Dual Motor Performance
 
 ## Prestanda
 
-Polestar 3 Long Range Dual Motor Performance har en maximal effekt på 380 KW (517hk). Totalt vridmoment är 910 Nm. Den gör sprinten 0-100 km/h på 4,7 sekunder. Topphastigheten är 210 km/h.
+Polestar 3 Long Range Dual Motor Performance levererar en solid prestanda med en maximal effekt på 380 kW (517 hk) och ett totalt vridmoment på 910 Nm. Den kan accelerera från 0 till 100 km/h på 4,7 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

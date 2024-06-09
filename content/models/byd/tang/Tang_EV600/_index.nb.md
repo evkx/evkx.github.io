@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BYD Tang EV600 i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-BYD Tang EV600 har en maksimal effekt på 380 KW (517hk). Totalt dreiemoment er 680 nm. Den utfører sprinten 0-100 km/t på 4,6 sekunder. Topphastigheten er 180 km/t.
+BYD Tang EV600 leverer solid ytelse med en maksimal effekt på 380 kW (517 hk) og et totalt dreiemoment på 680 Nm. Den kan akselerere fra 0 til 100 km/t på 4,6 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

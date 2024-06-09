@@ -29,7 +29,7 @@ Nous avons séparé notre article BMW i7 xDrive60 en sections. Si vous souhaitez
 
 ## Performances
 
-Le BMW i7 xDrive60 a une puissance maximale de 400 KW (544 ch/536 ch). Le couple total est de 745 nm (550 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,7 secondes. La vitesse maximale est de 240 km/h.
+La BMW i7 xDrive60 impressionne avec une puissance maximale de 400 kW (544 ch) et un couple total impressionnant de 745 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,7 secondes, et atteint une vitesse maximale de 240 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

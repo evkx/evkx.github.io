@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW i7 eDrive50 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW i7 eDrive50 har en maksimal effekt på 335 KW (456hk). Totalt dreiemoment er 650 nm. Den utfører sprinten 0-100 km/t på 5,5 sekunder. Topphastigheten er 205 km/t.
+BMW i7 eDrive50 leverer solid ytelse med en maksimal effekt på 335 kW (456 hk) og et totalt dreiemoment på 650 Nm. Den kan akselerere fra 0 til 100 km/t på 5,5 sekunder og når en topphastighet på 205 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

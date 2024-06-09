@@ -29,7 +29,7 @@ Nous avons séparé notre article Chevrolet Silverado EV 3WT en sections. Si vou
 
 ## Performances
 
-Le Chevrolet Silverado EV 3WT a une puissance maximale de 375 KW (510 ch/503 ch). Le couple total est de 834 nm (615 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,5 secondes. La vitesse maximale est de 170 km/h.
+La Chevrolet Silverado EV 3WT offre des performances solides avec une puissance maximale de 375 kW (510 ch) et un couple total de 834 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 170 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

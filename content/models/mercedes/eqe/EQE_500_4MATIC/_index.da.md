@@ -29,7 +29,7 @@ Vi har opdelt vores Mercedes-EQ EQE 500 4MATIC artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Mercedes-EQ EQE 500 4MATIC har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 858 nm (633 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,7 sekunder. Tophastigheden er 210 km/t.
+Mercedes-EQ EQE 500 4MATIC leverer en solid præstation med en maksimal effekt på 300 kW (408 hk) og et totalt drejningsmoment på 858 Nm. Den kan accelerere fra 0 til 100 km/t på 4,7 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

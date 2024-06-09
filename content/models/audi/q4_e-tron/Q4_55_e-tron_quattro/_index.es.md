@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Audi Q4 55 e-tron quattro en secciones. Si dese
 
 ## Rendimiento
 
-El Audi Q4 55 e-tron quattro tiene una potencia máxima de 250 KW (340 hp/335 bhp). El par total es 679 nm (501 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,4 segundos. La velocidad máxima es 180 km/h.
+El Audi Q4 55 e-tron quattro ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 679 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

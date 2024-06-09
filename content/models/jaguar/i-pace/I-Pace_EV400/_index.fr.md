@@ -29,7 +29,7 @@ Nous avons séparé notre article Jaguar I-Pace EV400 en sections. Si vous souha
 
 ## Performances
 
-Le Jaguar I-Pace EV400 a une puissance maximale de 294 KW (400 ch/394 ch). Le couple total est de 696 nm (514 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,8 secondes. La vitesse maximale est de 200 km/h.
+La Jaguar I-Pace EV400 offre des performances solides avec une puissance maximale de 294 kW (400 ch) et un couple total de 696 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

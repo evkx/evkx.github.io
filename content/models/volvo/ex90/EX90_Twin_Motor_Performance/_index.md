@@ -29,7 +29,7 @@ We have separated our Volvo EX90 Twin Motor Performance article into sections. I
 
 ## Performance
 
-The Volvo EX90 Twin Motor Performance has a maximum power of 380 KW (517 hp/510 bhp) and a total torque of 910 nm (672 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.7 seconds and has a top speed of 210 km/h (131 mph).
+The Volvo EX90 Twin Motor Performance delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 910 Nm (672 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.7 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

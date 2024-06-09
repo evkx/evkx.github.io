@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Kia EV9 GT-Line AWD i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Kia EV9 GT-Line AWD har en maksimal effekt på 283 KW (385hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 5,3 sekunder. Topphastigheten er 200 km/t.
+Kia EV9 GT-Line AWD leverer solid ytelse med en maksimal effekt på 283 kW (385 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 5,3 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

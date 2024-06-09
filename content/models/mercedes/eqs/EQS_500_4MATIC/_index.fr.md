@@ -29,7 +29,7 @@ Nous avons séparé notre article Mercedes-EQ EQS 500 4MATIC en sections. Si vou
 
 ## Performances
 
-Le Mercedes-EQ EQS 500 4MATIC a une puissance maximale de 330 KW (449 ch/443 ch). Le couple total est de 828 nm (611 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,8 secondes. La vitesse maximale est de 210 km/h.
+La Mercedes-EQ EQS 500 4MATIC offre des performances solides avec une puissance maximale de 330 kW (449 ch) et un couple total de 828 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

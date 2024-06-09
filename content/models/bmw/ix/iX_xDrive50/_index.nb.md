@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW iX xDrive50 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW iX xDrive50 har en maksimal effekt på 385 KW (524hk). Totalt dreiemoment er 765 nm. Den utfører sprinten 0-100 km/t på 4,6 sekunder. Topphastigheten er 200 km/t.
+BMW iX xDrive50 leverer solid ytelse med en maksimal effekt på 385 kW (524 hk) og et totalt dreiemoment på 765 Nm. Den kan akselerere fra 0 til 100 km/t på 4,6 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

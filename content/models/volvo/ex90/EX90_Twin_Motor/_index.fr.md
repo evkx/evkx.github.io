@@ -29,7 +29,7 @@ Nous avons séparé notre article Volvo EX90 Twin Motor en sections. Si vous sou
 
 ## Performances
 
-Le Volvo EX90 Twin Motor a une puissance maximale de 300 KW (408 ch/402 ch). Le couple total est de 770 nm (568 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,9 secondes. La vitesse maximale est de 180 km/h.
+La Volvo EX90 Twin Motor offre des performances solides avec une puissance maximale de 300 kW (408 ch) et un couple total de 770 Nm. Elle peut accélérer de 0 à 100 km/h en 5,9 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

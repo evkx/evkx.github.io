@@ -35,7 +35,7 @@ Este modelo ha sido reemplazado por [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q
 
 ## Rendimiento
 
-Con overboost, el Audi e-tron 55 tiene una potencia máxima de 300 KW (408 hp / 402 bhp). Sin overboost, es de 265 KW (360 CV / 360 CV). El par es 664 nm con overboost y 561 sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,7 segundos con overboost y 6,6 segundos sin overboost. La velocidad máxima es 200 km/h.
+Con overboost, el Audi e-tron 55 alcanza una potencia máxima de 300 kW (408 hp). Sin overboost, entrega 265 kW (360 hp). El par máximo es de 664 Nm. Puede acelerar de 0 a 100 km/h en 5,7 segundos y alcanza una velocidad máxima de 200 km/h, demostrando su sólido rendimiento.
 
 ## Batería, autonomía y carga
 

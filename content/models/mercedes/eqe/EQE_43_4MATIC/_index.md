@@ -29,7 +29,7 @@ We have separated our Mercedes-AMG EQE 43 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-AMG EQE 43 4MATIC has a maximum power of 350 KW (476 hp/469 bhp) and a total torque of 858 nm (633 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.2 seconds and has a top speed of 210 km/h (131 mph).
+The Mercedes-AMG EQE 43 4MATIC delivers a solid performance with a maximum power of 350 kW (476 hp / 469 bhp) and a total torque of 858 Nm (633 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.2 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

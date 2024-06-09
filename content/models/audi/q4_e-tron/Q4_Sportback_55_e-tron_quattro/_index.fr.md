@@ -29,7 +29,7 @@ Nous avons séparé notre article Audi Q4 Sportback 55 e-tron quattro en section
 
 ## Performances
 
-Le Audi Q4 Sportback 55 e-tron quattro a une puissance maximale de 250 KW (340 ch/335 ch). Le couple total est de 679 nm (501 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,4 secondes. La vitesse maximale est de 180 km/h.
+La Audi Q4 Sportback 55 e-tron quattro offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 679 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

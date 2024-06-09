@@ -29,7 +29,7 @@ Nous avons séparé notre article VOYAH FREE en sections. Si vous souhaitez atte
 
 ## Performances
 
-Le VOYAH FREE a une puissance maximale de 360 KW (490 ch/483 ch). Le couple total est de 720 nm (531 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,4 secondes. La vitesse maximale est de 200 km/h.
+La VOYAH FREE offre des performances solides avec une puissance maximale de 360 kW (490 ch) et un couple total de 720 Nm. Elle peut accélérer de 0 à 100 km/h en 4,4 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

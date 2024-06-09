@@ -29,7 +29,7 @@ Nous avons séparé notre article Genesis Electrified GV70 en sections. Si vous 
 
 ## Performances
 
-Avec overboost, le Genesis Electrified GV70 a une puissance maximale de 360 KW (490 ch / 483 ch). Sans overboost, il est de 320 KW (435 ch / 435 ch). Le couple total est de 700 nm (517 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,2 secondes avec overboost et 4,8 secondes sans overboost. La vitesse maximale est de 235 km/h.
+La Genesis Electrified GV70 offre des performances solides avec une puissance maximale de 320 kW (435 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteindre une vitesse maximale de 235 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

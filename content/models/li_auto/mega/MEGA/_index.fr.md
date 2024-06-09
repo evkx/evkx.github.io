@@ -29,7 +29,7 @@ Nous avons séparé notre article Li Auto MEGA en sections. Si vous souhaitez at
 
 ## Performances
 
-Le Li Auto MEGA a une puissance maximale de 400 KW (544 ch/536 ch). Le couple total est de 542 nm (400 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,5 secondes. La vitesse maximale est de 190 km/h.
+La Li Auto MEGA offre des performances solides avec une puissance maximale de 400 kW (544 ch) et un couple total de 542 Nm. Elle peut accélérer de 0 à 100 km/h en 5,5 secondes et atteindre une vitesse maximale de 190 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

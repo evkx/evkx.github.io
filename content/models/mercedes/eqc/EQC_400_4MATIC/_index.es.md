@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Mercedes-EQ EQC 400 4MATIC en secciones. Si des
 
 ## Rendimiento
 
-El Mercedes-EQ EQC 400 4MATIC tiene una potencia máxima de 300 KW (408 hp/402 bhp). El par total es 760 nm (561 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,1 segundos. La velocidad máxima es 180 km/h.
+El Mercedes-EQ EQC 400 4MATIC ofrece un rendimiento sólido con una potencia máxima de 300 kW (408 hp) y un par total de 760 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Mercedes-AMG EQE 43 4MATIC SUV i avsnitt. Om
 
 ## Prestanda
 
-Mercedes-AMG EQE 43 4MATIC SUV har en maximal effekt på 350 KW (476hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4,3 sekunder. Topphastigheten är 210 km/h.
+Mercedes-AMG EQE 43 4MATIC SUV levererar en solid prestanda med en maximal effekt på 350 kW (476 hk) och ett totalt vridmoment på 858 Nm. Den kan accelerera från 0 till 100 km/h på 4,3 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

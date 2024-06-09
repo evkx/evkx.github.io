@@ -29,7 +29,7 @@ Nous avons séparé notre article Volvo EX30 Twin Motor Performance en sections.
 
 ## Performances
 
-Le Volvo EX30 Twin Motor Performance a une puissance maximale de 315 KW (428 ch/422 ch). Le couple total est de 543 nm (401 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,6 secondes. La vitesse maximale est de 180 km/h.
+La Volvo EX30 Twin Motor Performance offre des performances solides avec une puissance maximale de 315 kW (428 ch) et un couple total de 543 Nm. Elle peut accélérer de 0 à 100 km/h en 3,6 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

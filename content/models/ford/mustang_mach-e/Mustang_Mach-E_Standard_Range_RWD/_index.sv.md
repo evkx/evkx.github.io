@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Ford Mustang Mach-E Standard Range RWD i avs
 
 ## Prestanda
 
-Ford Mustang Mach-E Standard Range RWD har en maximal effekt på 258 KW (351hk). Totalt vridmoment är 580 Nm. Den gör sprinten 0-100 km/h på 5,8 sekunder. Topphastigheten är 180 km/h.
+Ford Mustang Mach-E Standard Range RWD levererar en solid prestanda med en maximal effekt på 258 kW (351 hk) och ett totalt vridmoment på 580 Nm. Den kan accelerera från 0 till 100 km/h på 5,8 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

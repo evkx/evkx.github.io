@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Kia EV9 Long Range AWD en secciones. Si desea e
 
 ## Rendimiento
 
-El Kia EV9 Long Range AWD tiene una potencia máxima de 283 KW (385 hp/380 bhp). El par total es 600 nm (443 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6 segundos. La velocidad máxima es 200 km/h.
+El Kia EV9 Long Range AWD ofrece un rendimiento sólido con una potencia máxima de 283 kW (385 hp) y un par total de 600 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

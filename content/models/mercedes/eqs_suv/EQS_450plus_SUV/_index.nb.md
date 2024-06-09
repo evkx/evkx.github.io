@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQS 450+ SUV i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Mercedes-EQ EQS 450+ SUV har en maksimal effekt på 265 KW (360hk). Totalt dreiemoment er 568 nm. Den utfører sprinten 0-100 km/t på 6,7 sekunder. Topphastigheten er 210 km/t.
+Mercedes-EQ EQS 450+ SUV leverer solid ytelse med en maksimal effekt på 265 kW (360 hk) og et totalt dreiemoment på 568 Nm. Den kan akselerere fra 0 til 100 km/t på 6,7 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

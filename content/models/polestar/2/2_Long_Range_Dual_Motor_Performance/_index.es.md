@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Polestar 2 Long Range Dual Motor Performance en
 
 ## Rendimiento
 
-El Polestar 2 Long Range Dual Motor Performance tiene una potencia máxima de 350 KW (476 hp/469 bhp). El par total es 740 nm (546 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,2 segundos. La velocidad máxima es 205 km/h.
+El Polestar 2 Long Range Dual Motor Performance ofrece un rendimiento sólido con una potencia máxima de 350 kW (476 hp) y un par total de 740 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

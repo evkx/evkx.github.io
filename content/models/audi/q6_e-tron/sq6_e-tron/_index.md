@@ -29,7 +29,7 @@ We have separated our Audi SQ6 e-tron article into sections. If you want to wait
 
 ## Performance
 
-With overboost, the Audi SQ6 e-tron has a maximum power of 385 KW (524 hp / 516 bhp). Without overboost, it is 355 KW (483 hp / 483 bhp) The torque is 650 nm with overboost and 650 without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 4.4 seconds and has a top speed of 230 km/h (143 mph).
+The Audi SQ6 e-tron delivers a solid performance with a maximum power of 355 kW (483 hp / 476 bhp) and a total torque of 650 Nm (480 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 230 km/h (143 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

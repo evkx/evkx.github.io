@@ -35,7 +35,7 @@ Denne modellen er erstattet av [Mercedes EQS 580 4MATIC](/models/mercedes/eqs/eq
 
 ## Ytelse
 
-Mercedes-EQ EQS 580 4MATIC har en maksimal effekt på 385 KW (524hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t på 4,3 sekunder. Topphastigheten er 210 km/t.
+Mercedes-EQ EQS 580 4MATIC leverer solid ytelse med en maksimal effekt på 385 kW (524 hk) og et totalt dreiemoment på 858 Nm. Den kan akselerere fra 0 til 100 km/t på 4,3 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

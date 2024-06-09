@@ -29,7 +29,7 @@ We have separated our Volkswagen ID. Buzz GTX LWB article into sections. If you 
 
 ## Performance
 
-The Volkswagen ID. Buzz GTX LWB has a maximum power of 250 KW (340 hp/335 bhp) and a total torque of 560 nm (413 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.5 seconds and has a top speed of 160 km/h (99 mph).
+The Volkswagen ID. Buzz GTX LWB delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 560 Nm (413 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.5 seconds and reaches a top speed of 160 km/h (99 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

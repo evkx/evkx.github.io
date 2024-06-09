@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Zeekr 001 Performance AWD en secciones. Si dese
 
 ## Rendimiento
 
-El Zeekr 001 Performance AWD tiene una potencia máxima de 400 KW (544 hp/536 bhp). El par total es 686 nm (506 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,8 segundos. La velocidad máxima es 200 km/h.
+El Zeekr 001 Performance AWD impresiona con una potencia máxima de 400 kW (544 hp) y un impresionante par total de 686 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,8 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volkswagen ID. Buzz GTX i avsnitt. Om du vil
 
 ## Prestanda
 
-Volkswagen ID. Buzz GTX har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 560 Nm. Den gör sprinten 0-100 km/h på 6,5 sekunder. Topphastigheten är 160 km/h.
+Volkswagen ID. Buzz GTX levererar en solid prestanda med en maximal effekt på 250 kW (340 hk) och ett totalt vridmoment på 560 Nm. Den kan accelerera från 0 till 100 km/h på 6,5 sekunder och når en topphastighet på 160 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

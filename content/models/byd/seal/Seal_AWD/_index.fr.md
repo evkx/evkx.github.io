@@ -29,7 +29,7 @@ Nous avons séparé notre article BYD Seal AWD en sections. Si vous souhaitez at
 
 ## Performances
 
-Le BYD Seal AWD a une puissance maximale de 390 KW (530 ch/523 ch). Le couple total est de 670 nm (494 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,8 secondes. La vitesse maximale est de 180 km/h.
+La BYD Seal AWD offre des performances solides avec une puissance maximale de 390 kW (530 ch) et un couple total de 670 Nm. Elle peut accélérer de 0 à 100 km/h en 3,8 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

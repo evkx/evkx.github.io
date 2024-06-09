@@ -29,7 +29,7 @@ Nous avons séparé notre article BMW iX xDrive50 en sections. Si vous souhaitez
 
 ## Performances
 
-Le BMW iX xDrive50 a une puissance maximale de 385 KW (524 ch/516 ch). Le couple total est de 765 nm (565 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,6 secondes. La vitesse maximale est de 200 km/h.
+La BMW iX xDrive50 offre des performances solides avec une puissance maximale de 385 kW (524 ch) et un couple total de 765 Nm. Elle peut accélérer de 0 à 100 km/h en 4,6 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

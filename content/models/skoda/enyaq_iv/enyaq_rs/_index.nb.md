@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av SKODA ENYAQ RS i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-SKODA ENYAQ RS har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 5,5 sekunder. Topphastigheten er 180 km/t.
+SKODA ENYAQ RS leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 679 Nm. Den kan akselerere fra 0 til 100 km/t på 5,5 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

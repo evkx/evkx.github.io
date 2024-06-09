@@ -35,7 +35,7 @@ This model has been replaced by [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tr
 
 ## Performance
 
-With overboost, the Audi e-tron S Sportback has a maximum power of 370 KW (503 hp / 496 bhp). Without overboost, it is 320 KW (435 hp / 435 bhp) The torque is 973 nm with overboost and 561 without overboost. It performs the 0-100km/h sprint (0-62mph) in 4.5 seconds with overboost and 6.6 seconds without overboost and has a top speed of 200 km/h (124 mph).
+With overboost, the Audi e-tron S Sportback reaches a maximum power of 370 kW (503 hp / 496 bhp). Without overboost, it delivers 320 kW (435 hp / 429 bhp). The maximum torque is 973 Nm (718 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 200 km/h (124 mph), demonstrating its solid performance.
 
 ## Battery, range, and charging
 

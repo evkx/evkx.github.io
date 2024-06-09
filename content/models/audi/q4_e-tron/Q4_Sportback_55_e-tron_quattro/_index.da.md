@@ -29,7 +29,7 @@ Vi har opdelt vores Audi Q4 Sportback 55 e-tron quattro artikel i sektioner. Hvi
 
 ## Ydeevne
 
-Audi Q4 Sportback 55 e-tron quattro har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 679 nm (501 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,4 sekunder. Tophastigheden er 180 km/t.
+Audi Q4 Sportback 55 e-tron quattro leverer en solid præstation med en maksimal effekt på 250 kW (340 hk) og et totalt drejningsmoment på 679 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

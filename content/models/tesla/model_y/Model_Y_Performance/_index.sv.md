@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Tesla Model Y Performance i avsnitt. Om du v
 
 ## Prestanda
 
-Tesla Model Y Performance har en maximal effekt på 393 KW (534hk). Totalt vridmoment är 660 Nm. Den gör sprinten 0-100 km/h på 3,7 sekunder. Topphastigheten är 250 km/h.
+Tesla Model Y Performance levererar en solid prestanda med en maximal effekt på 393 kW (534 hk) och ett totalt vridmoment på 660 Nm. Den kan accelerera från 0 till 100 km/h på 3,7 sekunder och når en topphastighet på 250 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

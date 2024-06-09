@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Nio ES8 i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-Nio ES8 har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 725 nm. Den utfører sprinten 0-100 km/t på 4,9 sekunder. Topphastigheten er 200 km/t.
+Nio ES8 imponerer med en imponerende kraft på 400 kW (544 hk) og et betydelig dreiemoment på 725 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,9 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

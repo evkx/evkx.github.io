@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Mercedes-EQ EQS 580 4MATIC SUV en secciones. Si
 
 ## Rendimiento
 
-El Mercedes-EQ EQS 580 4MATIC SUV tiene una potencia máxima de 400 KW (544 hp/536 bhp). El par total es 858 nm (633 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,6 segundos. La velocidad máxima es 210 km/h.
+El Mercedes-EQ EQS 580 4MATIC SUV impresiona con una potencia máxima de 400 kW (544 hp) y un impresionante par total de 858 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,6 segundos y alcanza una velocidad máxima de 210 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

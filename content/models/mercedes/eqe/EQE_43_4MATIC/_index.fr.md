@@ -29,7 +29,7 @@ Nous avons séparé notre article Mercedes-AMG EQE 43 4MATIC en sections. Si vou
 
 ## Performances
 
-Le Mercedes-AMG EQE 43 4MATIC a une puissance maximale de 350 KW (476 ch/469 ch). Le couple total est de 858 nm (633 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,2 secondes. La vitesse maximale est de 210 km/h.
+La Mercedes-AMG EQE 43 4MATIC offre des performances solides avec une puissance maximale de 350 kW (476 ch) et un couple total de 858 Nm. Elle peut accélérer de 0 à 100 km/h en 4,2 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

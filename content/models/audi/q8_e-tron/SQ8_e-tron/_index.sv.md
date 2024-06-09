@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Audi SQ8 e-tron i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-Med overboost har Audi SQ8 e-tron en maximal effekt på 370 KW (503hk). Utan overboost är det 320KW (435hp). Vridmomentet är 973 Nm med överboost och 561 utan överboost. Den gör sprinten 0-100 km/h på 4,5 sekunder med överboost och 6,6 sekunder utan överboost. Topphastigheten är 200 km/h.
+Med overboost når Audi SQ8 e-tron en maximal effekt på 370 kW (503 hk). Utan overboost levererar den 320 kW (435 hk). Det maximala vridmomentet är 973 Nm. Den kan accelerera från 0 till 100 km/h på 4,5 sekunder och når en topphastighet på 200 km/h, vilket demonstrerar dess solida prestanda.
 
 ## Batteri, räckvidd och laddning
 

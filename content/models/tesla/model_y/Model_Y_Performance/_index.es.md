@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model Y Performance en secciones. Si dese
 
 ## Rendimiento
 
-El Tesla Model Y Performance tiene una potencia máxima de 393 KW (534 hp/527 bhp). El par total es 660 nm (487 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,7 segundos. La velocidad máxima es 250 km/h.
+El Tesla Model Y Performance ofrece un rendimiento sólido con una potencia máxima de 393 kW (534 hp) y un par total de 660 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Ford Mustang Mach-E Standard Range AWD i seksjon
 
 ## Ytelse
 
-Ford Mustang Mach-E Standard Range AWD har en maksimal effekt på 258 KW (351hk). Totalt dreiemoment er 580 nm. Den utfører sprinten 0-100 km/t på 5,8 sekunder. Topphastigheten er 180 km/t.
+Ford Mustang Mach-E Standard Range AWD leverer solid ytelse med en maksimal effekt på 258 kW (351 hk) og et totalt dreiemoment på 580 Nm. Den kan akselerere fra 0 til 100 km/t på 5,8 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

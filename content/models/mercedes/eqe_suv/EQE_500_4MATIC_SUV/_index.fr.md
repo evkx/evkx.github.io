@@ -29,7 +29,7 @@ Nous avons séparé notre article Mercedes-EQ EQE 500 4MATIC SUV en sections. Si
 
 ## Performances
 
-Le Mercedes-EQ EQE 500 4MATIC SUV a une puissance maximale de 300 KW (408 ch/402 ch). Le couple total est de 858 nm (633 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,9 secondes. La vitesse maximale est de 210 km/h.
+La Mercedes-EQ EQE 500 4MATIC SUV offre des performances solides avec une puissance maximale de 300 kW (408 ch) et un couple total de 858 Nm. Elle peut accélérer de 0 à 100 km/h en 4,9 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

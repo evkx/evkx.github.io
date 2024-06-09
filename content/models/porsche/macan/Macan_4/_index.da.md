@@ -29,7 +29,7 @@ Vi har opdelt vores Porsche Macan 4 artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-Med overboost har Porsche Macan 4 en maksimal effekt på 300 KW (408 hk / 388 bhp). Uden overboost er den 285 KW (388 hk / 402 hk). Momentet er 650 nm med overboost og 650 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,2 sekunder. Tophastigheden er 220 km/t.
+Porsche Macan 4 leverer en solid præstation med en maksimal effekt på 285 kW (388 hk) og et totalt drejningsmoment på 650 Nm. Den kan accelerere fra 0 til 100 km/t på 5,2 sekunder og når en topfart på 220 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

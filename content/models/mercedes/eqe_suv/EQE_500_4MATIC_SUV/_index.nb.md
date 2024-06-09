@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQE 500 4MATIC SUV i seksjoner. Hvis
 
 ## Ytelse
 
-Mercedes-EQ EQE 500 4MATIC SUV har en maksimal effekt på 300 KW (408hk). Totalt dreiemoment er 858 nm. Den utfører sprinten 0-100 km/t på 4,9 sekunder. Topphastigheten er 210 km/t.
+Mercedes-EQ EQE 500 4MATIC SUV leverer solid ytelse med en maksimal effekt på 300 kW (408 hk) og et totalt dreiemoment på 858 Nm. Den kan akselerere fra 0 til 100 km/t på 4,9 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

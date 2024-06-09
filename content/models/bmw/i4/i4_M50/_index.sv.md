@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av BMW i4 M50 i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-BMW i4 M50 har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 795 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 225 km/h.
+BMW i4 M50 imponerar med en imponerande kraft på 400 kW (544 hk) och ett imponerande totalt vridmoment på 795 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och når en topphastighet på 225 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

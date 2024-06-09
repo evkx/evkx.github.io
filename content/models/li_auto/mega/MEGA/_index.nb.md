@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Li Auto MEGA i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-Li Auto MEGA har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 542 nm. Den utfører sprinten 0-100 km/t på 5,5 sekunder. Topphastigheten er 190 km/t.
+Li Auto MEGA leverer solid ytelse med en maksimal effekt på 400 kW (544 hk) og et totalt dreiemoment på 542 Nm. Den kan akselerere fra 0 til 100 km/t på 5,5 sekunder og når en topphastighet på 190 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

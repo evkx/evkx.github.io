@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av MG Cyberster AWD Long Range i avsnitt. Om du
 
 ## Prestanda
 
-MG Cyberster AWD Long Range har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 725 Nm. Den gör sprinten 0-100 km/h på 3,2 sekunder. Topphastigheten är 200 km/h.
+MG Cyberster AWD Long Range imponerar med en imponerande kraft på 400 kW (544 hk) och ett imponerande totalt vridmoment på 725 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,2 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

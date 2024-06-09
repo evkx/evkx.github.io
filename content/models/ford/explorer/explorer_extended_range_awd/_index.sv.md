@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Ford Explorer Extended Range AWD i avsnitt. 
 
 ## Prestanda
 
-Ford Explorer Extended Range AWD har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 679 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 180 km/h.
+Ford Explorer Extended Range AWD levererar en solid prestanda med en maximal effekt på 250 kW (340 hk) och ett totalt vridmoment på 679 Nm. Den kan accelerera från 0 till 100 km/h på 5,5 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

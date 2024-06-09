@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Genesis GV60 AWD Performance i seksjoner. Hvis d
 
 ## Ytelse
 
-Med overboost har Genesis GV60 AWD Performance en maksimal effekt på 360 KW (490hk). Uten overboost er den 320KW (435hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 4 sekunder. Topphastigheten er 235 km/t.
+Genesis GV60 AWD Performance leverer solid ytelse med en maksimal effekt på 320 kW (435 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 4 sekunder og når en topphastighet på 235 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

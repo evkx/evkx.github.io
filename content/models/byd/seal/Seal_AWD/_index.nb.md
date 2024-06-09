@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BYD Seal AWD i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-BYD Seal AWD har en maksimal effekt på 390 KW (530hk). Totalt dreiemoment er 670 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 180 km/t.
+BYD Seal AWD leverer solid ytelse med en maksimal effekt på 390 kW (530 hk) og et totalt dreiemoment på 670 Nm. Den kan akselerere fra 0 til 100 km/t på 3,8 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

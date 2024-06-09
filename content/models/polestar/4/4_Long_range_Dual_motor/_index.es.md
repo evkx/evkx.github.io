@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Polestar 4 Long range Dual motor en secciones. 
 
 ## Rendimiento
 
-El Polestar 4 Long range Dual motor tiene una potencia máxima de 400 KW (544 hp/536 bhp). El par total es 686 nm (506 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,8 segundos. La velocidad máxima es 210 km/h.
+El Polestar 4 Long range Dual motor impresiona con una potencia máxima de 400 kW (544 hp) y un impresionante par total de 686 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,8 segundos y alcanza una velocidad máxima de 210 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

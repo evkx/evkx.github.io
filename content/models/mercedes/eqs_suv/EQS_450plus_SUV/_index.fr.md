@@ -29,7 +29,7 @@ Nous avons séparé notre article Mercedes-EQ EQS 450+ SUV en sections. Si vous 
 
 ## Performances
 
-Le Mercedes-EQ EQS 450+ SUV a une puissance maximale de 265 KW (360 ch/355 ch). Le couple total est de 568 nm (419 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,7 secondes. La vitesse maximale est de 210 km/h.
+La Mercedes-EQ EQS 450+ SUV offre des performances solides avec une puissance maximale de 265 kW (360 ch) et un couple total de 568 Nm. Elle peut accélérer de 0 à 100 km/h en 6,7 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

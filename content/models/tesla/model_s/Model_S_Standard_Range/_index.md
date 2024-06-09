@@ -29,7 +29,7 @@ We have separated our Tesla Model S Standard Range article into sections. If you
 
 ## Performance
 
-The Tesla Model S Standard Range has a maximum power of 381 KW (518 hp/511 bhp) and a total torque of 700 nm (517 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 250 km/h (155 mph).
+The Tesla Model S Standard Range delivers a solid performance with a maximum power of 381 kW (518 hp / 511 bhp) and a total torque of 700 Nm (517 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.9 seconds and reaches a top speed of 250 km/h (155 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

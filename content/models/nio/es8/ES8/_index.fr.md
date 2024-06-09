@@ -29,7 +29,7 @@ Nous avons séparé notre article Nio ES8 en sections. Si vous souhaitez attendr
 
 ## Performances
 
-Le Nio ES8 a une puissance maximale de 400 KW (544 ch/536 ch). Le couple total est de 725 nm (535 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,9 secondes. La vitesse maximale est de 200 km/h.
+La Nio ES8 impressionne avec une puissance maximale de 400 kW (544 ch) et un couple total impressionnant de 725 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,9 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

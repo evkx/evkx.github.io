@@ -29,7 +29,7 @@ Vi har opdelt vores Audi Q6L e-tron quattro artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-Audi Q6L e-tron quattro har en maksimal effekt på 345 KW (469 hk/463 hk). Det samlede drejningsmoment er 650 nm (480 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,9 sekunder. Tophastigheden er 210 km/t.
+Audi Q6L e-tron quattro leverer en solid præstation med en maksimal effekt på 345 kW (469 hk) og et totalt drejningsmoment på 650 Nm. Den kan accelerere fra 0 til 100 km/t på 5,9 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Nio ET7 i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-Nio ET7 har en maksimal effekt på 360 KW (490hk). Totalt dreiemoment er 700 nm. Den utfører sprinten 0-100 km/t på 3,8 sekunder. Topphastigheten er 200 km/t.
+Nio ET7 leverer solid ytelse med en maksimal effekt på 360 kW (490 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 3,8 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

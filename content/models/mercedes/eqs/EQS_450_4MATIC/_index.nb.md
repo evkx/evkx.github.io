@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQS 450 4MATIC i seksjoner. Hvis du 
 
 ## Ytelse
 
-Mercedes-EQ EQS 450 4MATIC har en maksimal effekt på 265 KW (360hk). Totalt dreiemoment er 800 nm. Den utfører sprinten 0-100 km/t på 5,6 sekunder. Topphastigheten er 210 km/t.
+Mercedes-EQ EQS 450 4MATIC leverer solid ytelse med en maksimal effekt på 265 kW (360 hk) og et totalt dreiemoment på 800 Nm. Den kan akselerere fra 0 til 100 km/t på 5,6 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Zeekr X Privilege AWD en secciones. Si desea es
 
 ## Rendimiento
 
-El Zeekr X Privilege AWD tiene una potencia máxima de 315 KW (428 hp/422 bhp). El par total es 543 nm (401 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,8 segundos. La velocidad máxima es 180 km/h.
+El Zeekr X Privilege AWD ofrece un rendimiento sólido con una potencia máxima de 315 kW (428 hp) y un par total de 543 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

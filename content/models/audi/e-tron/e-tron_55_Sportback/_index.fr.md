@@ -35,7 +35,7 @@ Ce modèle a été remplacé par [Audi Q8 Sportback 55 e-tron](/models/audi/q8_e
 
 ## Performances
 
-Avec overboost, le Audi e-tron 55 Sportback a une puissance maximale de 300 KW (408 ch / 402 ch). Sans overboost, il est de 265 KW (360 ch / 360 ch). Le couple est de 664 nm avec overboost et de 561 sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,7 secondes avec overboost et 6,6 secondes sans overboost. La vitesse maximale est de 200 km/h.
+Avec overboost, l'Audi e-tron 55 Sportback atteint une puissance maximale de  300 kW (408 ch). Sans overboost, elle délivre 265 kW (360 ch). Le couple maximal est de 664 Nm. Elle peut accélérer de 0 à 100 km/h en 5,7 secondes et atteint une vitesse maximale de 200 km/h, démontrant ses performances solides.
 
 ## Batterie, autonomie et charge
 

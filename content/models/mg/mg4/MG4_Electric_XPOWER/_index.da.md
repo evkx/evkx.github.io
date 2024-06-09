@@ -29,7 +29,7 @@ Vi har opdelt vores MG MG4 Electric XPOWER artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-MG MG4 Electric XPOWER har en maksimal effekt på 320 KW (435 hk/429 hk). Det samlede drejningsmoment er 600 nm (443 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,8 sekunder. Tophastigheden er 160 km/t.
+MG MG4 Electric XPOWER leverer en solid præstation med en maksimal effekt på 320 kW (435 hk) og et totalt drejningsmoment på 600 Nm. Den kan accelerere fra 0 til 100 km/t på 3,8 sekunder og når en topfart på 160 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

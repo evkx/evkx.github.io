@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av XPENG G6 AWD Performance i avsnitt. Om du vi
 
 ## Prestanda
 
-XPENG G6 AWD Performance har en maximal effekt på 358 KW (487hk). Totalt vridmoment är 660 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 202 km/h.
+XPENG G6 AWD Performance levererar en solid prestanda med en maximal effekt på 358 kW (487 hk) och ett totalt vridmoment på 660 Nm. Den kan accelerera från 0 till 100 km/h på 3,9 sekunder och når en topphastighet på 202 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

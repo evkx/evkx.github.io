@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW i7 xDrive60 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW i7 xDrive60 har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 745 nm. Den utfører sprinten 0-100 km/t på 4,7 sekunder. Topphastigheten er 240 km/t.
+BMW i7 xDrive60 imponerer med en imponerende kraft på 400 kW (544 hk) og et betydelig dreiemoment på 745 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,7 sekunder og har en toppfart på 240 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

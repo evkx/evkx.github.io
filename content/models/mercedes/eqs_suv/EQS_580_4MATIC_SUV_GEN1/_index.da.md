@@ -29,7 +29,7 @@ Vi har opdelt vores Mercedes-EQ EQS 580 4MATIC SUV artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-Mercedes-EQ EQS 580 4MATIC SUV har en maksimal effekt på 400 KW (544 hk/536 hk). Det samlede drejningsmoment er 858 nm (633 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 4,6 sekunder. Tophastigheden er 210 km/t.
+Mercedes-EQ EQS 580 4MATIC SUV imponerer med en maksimal effekt på 400 kW (544 hk) og et imponerende samlet drejningsmoment på 858 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,6 sekunder og har en topfart på 210 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

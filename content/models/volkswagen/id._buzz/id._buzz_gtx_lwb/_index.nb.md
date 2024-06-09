@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Volkswagen ID. Buzz GTX LWB i seksjoner. Hvis du
 
 ## Ytelse
 
-Volkswagen ID. Buzz GTX LWB har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 560 nm. Den utfører sprinten 0-100 km/t på 6,5 sekunder. Topphastigheten er 160 km/t.
+Volkswagen ID. Buzz GTX LWB leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 560 Nm. Den kan akselerere fra 0 til 100 km/t på 6,5 sekunder og når en topphastighet på 160 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

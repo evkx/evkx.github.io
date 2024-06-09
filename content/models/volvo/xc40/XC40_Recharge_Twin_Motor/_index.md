@@ -35,7 +35,7 @@ This model has been replaced by [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_
 
 ## Performance
 
-The Volvo XC40 Recharge Twin Motor has a maximum power of 300 KW (408 hp/402 bhp) and a total torque of 670 nm (494 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.8 seconds and has a top speed of 180 km/h (112 mph).
+The Volvo XC40 Recharge Twin Motor delivers a solid performance with a maximum power of 300 kW (408 hp / 402 bhp) and a total torque of 670 Nm (494 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

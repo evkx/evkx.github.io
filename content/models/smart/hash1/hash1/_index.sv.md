@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Smart #1 i avsnitt. Om du vill vänta med at
 
 ## Prestanda
 
-Smart #1 har en maximal effekt på 315 KW (428hk). Totalt vridmoment är 584 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder. Topphastigheten är 180 km/h.
+Smart #1 levererar en solid prestanda med en maximal effekt på 315 kW (428 hk) och ett totalt vridmoment på 584 Nm. Den kan accelerera från 0 till 100 km/h på 3,9 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

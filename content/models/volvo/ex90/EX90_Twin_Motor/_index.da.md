@@ -29,7 +29,7 @@ Vi har opdelt vores Volvo EX90 Twin Motor artikel i sektioner. Hvis du vil vente
 
 ## Ydeevne
 
-Volvo EX90 Twin Motor har en maksimal effekt på 300 KW (408 hk/402 hk). Det samlede drejningsmoment er 770 nm (568 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,9 sekunder. Tophastigheden er 180 km/t.
+Volvo EX90 Twin Motor leverer en solid præstation med en maksimal effekt på 300 kW (408 hk) og et totalt drejningsmoment på 770 Nm. Den kan accelerere fra 0 til 100 km/t på 5,9 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

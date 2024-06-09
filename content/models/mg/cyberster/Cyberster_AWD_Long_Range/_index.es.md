@@ -29,7 +29,7 @@ Hemos separado nuestro artículo MG Cyberster AWD Long Range en secciones. Si de
 
 ## Rendimiento
 
-El MG Cyberster AWD Long Range tiene una potencia máxima de 400 KW (544 hp/536 bhp). El par total es 725 nm (535 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,2 segundos. La velocidad máxima es 200 km/h.
+El MG Cyberster AWD Long Range impresiona con una potencia máxima de 400 kW (544 hp) y un impresionante par total de 725 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,2 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

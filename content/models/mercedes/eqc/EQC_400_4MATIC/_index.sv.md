@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQC 400 4MATIC i avsnitt. Om du 
 
 ## Prestanda
 
-Mercedes-EQ EQC 400 4MATIC har en maximal effekt på 300 KW (408hk). Totalt vridmoment är 760 Nm. Den gör sprinten 0-100 km/h på 5,1 sekunder. Topphastigheten är 180 km/h.
+Mercedes-EQ EQC 400 4MATIC levererar en solid prestanda med en maximal effekt på 300 kW (408 hk) och ett totalt vridmoment på 760 Nm. Den kan accelerera från 0 till 100 km/h på 5,1 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article BMW i5 xDrive40 en sections. Si vous souhaitez
 
 ## Performances
 
-Le BMW i5 xDrive40 a une puissance maximale de 290 KW (394 ch/389 ch). Le couple total est de 590 nm (435 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,4 secondes. La vitesse maximale est de 230 km/h.
+La BMW i5 xDrive40 offre des performances solides avec une puissance maximale de 290 kW (394 ch) et un couple total de 590 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteindre une vitesse maximale de 230 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

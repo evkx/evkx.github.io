@@ -29,7 +29,7 @@ We have separated our BMW i4 M50 article into sections. If you want to wait to r
 
 ## Performance
 
-The BMW i4 M50 has a maximum power of 400 KW (544 hp/536 bhp) and a total torque of 795 nm (587 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds and has a top speed of 225 km/h (140 mph).
+The BMW i4 M50 packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 795 Nm (587 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds, and it reaches a top speed of 225 km/h (140 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

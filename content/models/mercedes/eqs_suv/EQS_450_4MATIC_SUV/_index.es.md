@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Mercedes-EQ EQS 450 4MATIC SUV en secciones. Si
 
 ## Rendimiento
 
-El Mercedes-EQ EQS 450 4MATIC SUV tiene una potencia máxima de 265 KW (360 hp/355 bhp). El par total es 800 nm (590 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6 segundos. La velocidad máxima es 210 km/h.
+El Mercedes-EQ EQS 450 4MATIC SUV ofrece un rendimiento sólido con una potencia máxima de 265 kW (360 hp) y un par total de 800 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

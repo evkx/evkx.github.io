@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Zeekr 009 ME Edition i avsnitt. Om du vill v
 
 ## Prestanda
 
-Zeekr 009 ME Edition har en maximal effekt på 400 KW (544hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 4,5 sekunder. Topphastigheten är 190 km/h.
+Zeekr 009 ME Edition imponerar med en imponerande kraft på 400 kW (544 hk) och ett imponerande totalt vridmoment på 686 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,5 sekunder och når en topphastighet på 190 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

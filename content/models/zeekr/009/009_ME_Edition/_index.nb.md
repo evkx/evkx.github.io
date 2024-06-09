@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Zeekr 009 ME Edition i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Zeekr 009 ME Edition har en maksimal effekt på 400 KW (544hk). Totalt dreiemoment er 686 nm. Den utfører sprinten 0-100 km/t på 4,5 sekunder. Topphastigheten er 190 km/t.
+Zeekr 009 ME Edition imponerer med en imponerende kraft på 400 kW (544 hk) og et betydelig dreiemoment på 686 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,5 sekunder og har en toppfart på 190 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

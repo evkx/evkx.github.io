@@ -29,7 +29,7 @@ We have separated our BMW i7 eDrive50 article into sections. If you want to wait
 
 ## Performance
 
-The BMW i7 eDrive50 has a maximum power of 335 KW (456 hp/449 bhp) and a total torque of 650 nm (480 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.5 seconds and has a top speed of 205 km/h (127 mph).
+The BMW i7 eDrive50 delivers a solid performance with a maximum power of 335 kW (456 hp / 449 bhp) and a total torque of 650 Nm (480 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 205 km/h (127 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

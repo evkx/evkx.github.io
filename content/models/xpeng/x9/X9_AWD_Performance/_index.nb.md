@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av XPENG X9 AWD Performance i seksjoner. Hvis du vi
 
 ## Ytelse
 
-XPENG X9 AWD Performance har en maksimal effekt på 370 KW (503hk). Totalt dreiemoment er 640 nm. Den utfører sprinten 0-100 km/t på 5,7 sekunder. Topphastigheten er 200 km/t.
+XPENG X9 AWD Performance leverer solid ytelse med en maksimal effekt på 370 kW (503 hk) og et totalt dreiemoment på 640 Nm. Den kan akselerere fra 0 til 100 km/t på 5,7 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQS 580 4MATIC i avsnitt. Om du 
 
 ## Prestanda
 
-Mercedes-EQ EQS 580 4MATIC har en maximal effekt på 385 KW (524hk). Totalt vridmoment är 858 Nm. Den gör sprinten 0-100 km/h på 4,3 sekunder. Topphastigheten är 210 km/h.
+Mercedes-EQ EQS 580 4MATIC levererar en solid prestanda med en maximal effekt på 385 kW (524 hk) och ett totalt vridmoment på 858 Nm. Den kan accelerera från 0 till 100 km/h på 4,3 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

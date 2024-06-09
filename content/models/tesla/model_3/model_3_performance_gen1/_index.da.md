@@ -29,7 +29,7 @@ Vi har opdelt vores Tesla Model 3 Performance (GEN1) artikel i sektioner. Hvis d
 
 ## Ydeevne
 
-Tesla Model 3 Performance (GEN1) har en maksimal effekt på 377 KW (513 hk/506 hk). Det samlede drejningsmoment er 660 nm (487 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,4 sekunder. Tophastigheden er 261 km/t.
+Tesla Model 3 Performance (GEN1) leverer en solid præstation med en maksimal effekt på 377 kW (513 hk) og et totalt drejningsmoment på 660 Nm. Den kan accelerere fra 0 til 100 km/t på 3,4 sekunder og når en topfart på 261 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

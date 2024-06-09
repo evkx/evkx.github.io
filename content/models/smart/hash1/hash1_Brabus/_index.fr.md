@@ -29,7 +29,7 @@ Nous avons séparé notre article Smart #1 Brabus en sections. Si vous souhaitez
 
 ## Performances
 
-Le Smart #1 Brabus a une puissance maximale de 315 KW (428 ch/422 ch). Le couple total est de 584 nm (431 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,9 secondes. La vitesse maximale est de 180 km/h.
+La Smart #1 Brabus offre des performances solides avec une puissance maximale de 315 kW (428 ch) et un couple total de 584 Nm. Elle peut accélérer de 0 à 100 km/h en 3,9 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

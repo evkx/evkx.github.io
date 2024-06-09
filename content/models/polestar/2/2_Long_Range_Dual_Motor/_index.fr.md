@@ -29,7 +29,7 @@ Nous avons séparé notre article Polestar 2 Long Range Dual Motor en sections. 
 
 ## Performances
 
-Le Polestar 2 Long Range Dual Motor a une puissance maximale de 310 KW (422 ch/416 ch). Le couple total est de 740 nm (546 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,5 secondes. La vitesse maximale est de 205 km/h.
+La Polestar 2 Long Range Dual Motor offre des performances solides avec une puissance maximale de 310 kW (422 ch) et un couple total de 740 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 205 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

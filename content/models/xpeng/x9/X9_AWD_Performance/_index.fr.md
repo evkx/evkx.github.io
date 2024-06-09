@@ -29,7 +29,7 @@ Nous avons séparé notre article XPENG X9 AWD Performance en sections. Si vous 
 
 ## Performances
 
-Le XPENG X9 AWD Performance a une puissance maximale de 370 KW (503 ch/496 ch). Le couple total est de 640 nm (472 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,7 secondes. La vitesse maximale est de 200 km/h.
+La XPENG X9 AWD Performance offre des performances solides avec une puissance maximale de 370 kW (503 ch) et un couple total de 640 Nm. Elle peut accélérer de 0 à 100 km/h en 5,7 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

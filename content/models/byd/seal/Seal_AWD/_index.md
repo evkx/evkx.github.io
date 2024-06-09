@@ -29,7 +29,7 @@ We have separated our BYD Seal AWD article into sections. If you want to wait to
 
 ## Performance
 
-The BYD Seal AWD has a maximum power of 390 KW (530 hp/523 bhp) and a total torque of 670 nm (494 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.8 seconds and has a top speed of 180 km/h (112 mph).
+The BYD Seal AWD delivers a solid performance with a maximum power of 390 kW (530 hp / 523 bhp) and a total torque of 670 Nm (494 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

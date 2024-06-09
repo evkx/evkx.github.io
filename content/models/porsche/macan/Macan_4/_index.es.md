@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Porsche Macan 4 en secciones. Si desea esperar 
 
 ## Rendimiento
 
-Con overboost, el Porsche Macan 4 tiene una potencia máxima de 300 KW (408 hp / 402 bhp). Sin overboost, es de 285 KW (388 CV / 388 CV). El par es 650 nm con overboost y 650 sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,2 segundos. La velocidad máxima es 220 km/h.
+El Porsche Macan 4 ofrece un rendimiento sólido con una potencia máxima de 285 kW (388 hp) y un par total de 650 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
