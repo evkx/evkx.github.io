@@ -67,11 +67,11 @@ La dirección dinámica es una característica un estándar en el Rivian R1S Qua
 
 El Rivian R1S Quad-Motor AWD MP permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
-- Sport: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
-drivetrain.drivetrain.drivemodes.BalancedNormalBalancedEfficientNotSet
+- Sport: dirección dinámica, suspensión baja con acelerador y suspensión dinámicos.
+- Snow: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
 - All-Purpose: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
-- Soft sand: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
-- All-Terrain: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+- Soft sand: Dirección equilibrada, altura máxima de suspensión con acelerador equilibrado y amortiguación de suspensión cómoda.
+- All-Terrain: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
 
 
 ### Frenos
