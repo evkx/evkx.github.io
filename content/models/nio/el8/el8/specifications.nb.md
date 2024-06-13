@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Nio EL8. Klikk på 
 				Dreiemoment
 			</td>
 			<td>
-				725 nm
+				850 nm
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				310 liter
+				552 liter
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
-				1500 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>

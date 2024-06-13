@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Nio EL8 en secciones. Si desea esperar para lee
 
 ## Rendimiento
 
-El Nio EL8 impresiona con una potencia máxima de 480 kW (653 hp) y un impresionante par total de 725 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,1 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
+El Nio EL8 impresiona con una potencia máxima de 480 kW (653 hp) y un impresionante par total de 850 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,1 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 
@@ -87,7 +87,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 ## Exterior
 
 Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
-Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 19 a 21 pulgadas.
+Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 20 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
@@ -236,9 +236,9 @@ Con el sistema NIO Pilot Complete Pack  nivel 2, obtienes funciones de automatiz
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 310 litros. Con el asiento trasero abatido, es de 1901 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3099 kg (6832 lbs), y con el peso base de 2440 kg (5379 lbs), puedes cargar como máximo 659 kg (1453 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 552 litros. Con el asiento trasero abatido, es de 1901 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3099 kg (6832 lbs), y con el peso base de 2440 kg (5379 lbs), puedes cargar como máximo 659 kg (1453 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1500, y sin freno, es de 750 kg (3307/1653 lbs).
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
 ### Disponibilidad y precios
 
 <div class="mt-3 mb-3">

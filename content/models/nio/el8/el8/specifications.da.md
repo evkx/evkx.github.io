@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio EL8. Klik på 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				725 nm (535 ft-lb)
+				850 nm (627 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				310 liter (11 cu-ft)
+				552 liter (19 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>

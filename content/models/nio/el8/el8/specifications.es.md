@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Nio EL8. Haga clic
 				Salida de par eléctrico
 			</td>
 			<td>
-				725 nm (535 pies-libra)
+				850 nm (627 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				310 litro (11 pies cúbicos)
+				552 litro (19 pies cúbicos)
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>

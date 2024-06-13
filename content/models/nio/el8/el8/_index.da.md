@@ -29,7 +29,7 @@ Vi har opdelt vores Nio EL8 artikel i sektioner. Hvis du vil vente med at læse 
 
 ## Ydeevne
 
-Nio EL8 imponerer med en maksimal effekt på 480 kW (653 hk) og et imponerende samlet drejningsmoment på 725 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,1 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
+Nio EL8 imponerer med en maksimal effekt på 480 kW (653 hk) og et imponerende samlet drejningsmoment på 850 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,1 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 
@@ -87,7 +87,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 4 hjul med størrelser fra 19 til 21 tommer.
+Derudover kan du vælge mellem 3 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -236,9 +236,9 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 310 liter. Med bagsædet nede er det 1901 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3099 kg (6832 lbs), og med basisvægten på 2440 kg (5379 lbs), kan du maksimalt laste 659 kg (1453 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 552 liter. Med bagsædet nede er det 1901 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3099 kg (6832 lbs), og med basisvægten på 2440 kg (5379 lbs), kan du maksimalt laste 659 kg (1453 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
+Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
 ### Tilgængelighed og priser
 
 <div class="mt-3 mb-3">

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio EL8. 
 				Couple de sortie électrique
 			</td>
 			<td>
-				725 nm (535 ft-lb)
+				850 nm (627 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				310 litre (11 pieds cubes)
+				552 litre (19 pieds cubes)
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Nio EL8 i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-Nio EL8 imponerer med en imponerende kraft på 480 kW (653 hk) og et betydelig dreiemoment på 725 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,1 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
+Nio EL8 imponerer med en imponerende kraft på 480 kW (653 hk) og et betydelig dreiemoment på 850 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,1 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
@@ -87,7 +87,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 4 hjul med størrelser fra 19 til 21 tommer.
+I tillegg kan du velge mellom 3 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -236,9 +236,9 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du flere kjøreautomatisering
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 310 liter. Med baksetet nede er det 1901 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3099 kg, og med basisvekten på 2440 kg kan du maksimalt laste 659 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 552 liter. Med baksetet nede er det 1901 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3099 kg, og med basisvekten på 2440 kg kan du maksimalt laste 659 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
 
 <div class="mt-3 mb-3">

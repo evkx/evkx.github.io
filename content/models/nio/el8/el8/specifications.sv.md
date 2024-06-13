@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Nio EL8. Klicka på bi
 				Vridmoment
 			</td>
 			<td>
-				725 nm
+				850 nm
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				310 liter
+				552 liter
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				1500 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>

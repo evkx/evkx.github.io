@@ -29,7 +29,7 @@ Nous avons séparé notre article Nio EL8 en sections. Si vous souhaitez attendr
 
 ## Performances
 
-La Nio EL8 impressionne avec une puissance maximale de 480 kW (653 ch) et un couple total impressionnant de 725 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,1 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
+La Nio EL8 impressionne avec une puissance maximale de 480 kW (653 ch) et un couple total impressionnant de 850 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,1 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
@@ -87,7 +87,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 ## Extérieur
 
 Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
-De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 19 à 21 pouces.
+De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 20 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
@@ -236,9 +236,9 @@ Avec le système NIO Pilot Complete Pack  niveau 2, vous bénéficiez de fonctio
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 310 litres. Avec la banquette arrière rabattue, elle est de 1901 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3099 kg (6832 lbs), et avec le poids de base de 2440 kg (5379 lbs), vous pouvez charger au maximum 659 kg (1453 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 552 litres. Avec la banquette arrière rabattue, elle est de 1901 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3099 kg (6832 lbs), et avec le poids de base de 2440 kg (5379 lbs), vous pouvez charger au maximum 659 kg (1453 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 750 kg (3307/1653 lbs).
+Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2000, et sur une remorque non freinée, il est de 750 kg (4409/1653 lbs).
 ### Disponibilité et prix
 
 <div class="mt-3 mb-3">

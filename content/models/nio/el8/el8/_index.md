@@ -29,7 +29,7 @@ We have separated our Nio EL8 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio EL8 packs an impressive punch with a maximum power of 480 kW (653 hp / 644 bhp) and a commanding total torque of 725 Nm (535 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.1 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+The Nio EL8 packs an impressive punch with a maximum power of 480 kW (653 hp / 644 bhp) and a commanding total torque of 850 Nm (627 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.1 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
@@ -87,7 +87,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 You can choose between 5 different paint colors when ordering this model.
-Additionally, you can choose between 4 wheels with sizes from 19 to 21 inches.
+Additionally, you can choose between 3 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
@@ -236,9 +236,9 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1901 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3099 kg (6832 lbs), and with the base weight of 2440 kg (5379 lbs), you can max load 659 kg (1453 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 552 liters. With the rear seat down, it is 1901 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3099 kg (6832 lbs), and with the base weight of 2440 kg (5379 lbs), you can max load 659 kg (1453 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 ### Availability & Pricing
 
 <div class="mt-3 mb-3">

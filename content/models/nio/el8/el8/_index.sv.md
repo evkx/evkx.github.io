@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Nio EL8 i avsnitt. Om du vill vänta med att
 
 ## Prestanda
 
-Nio EL8 imponerar med en imponerande kraft på 480 kW (653 hk) och ett imponerande totalt vridmoment på 725 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,1 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
+Nio EL8 imponerar med en imponerande kraft på 480 kW (653 hk) och ett imponerande totalt vridmoment på 850 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,1 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 
@@ -87,7 +87,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 4 hjul i storlek från 19 till 21 tum.
+Dessutom kan du välja mellan 3 hjul i storlek från 20 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -236,9 +236,9 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du fler körautomatiseringsfu
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 310 liter. Med baksätet nedfällt är det 1901 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3099 kg, och med basvikten på 2440 kg kan du lasta maximalt 659 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 552 liter. Med baksätet nedfällt är det 1901 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3099 kg, och med basvikten på 2440 kg kan du lasta maximalt 659 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
 ### Tillgänglighet och pris
 
 <div class="mt-3 mb-3">

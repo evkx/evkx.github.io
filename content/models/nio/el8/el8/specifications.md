@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Nio EL8. Click on im
 				Electrical torque output
 			</td>
 			<td>
-				725 nm (535 ft-lb)
+				850 nm (627 ft-lb)
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				310 liter (11 cu-ft)
+				552 liter (19 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>
