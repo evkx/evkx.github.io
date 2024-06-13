@@ -320,6 +320,30 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
+				Poids à vide
+			</td>
+			<td>
+				3216 kg (7090 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Poids total maximum
+			</td>
+			<td>
+				3870 kg (8532 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charge maximale incluant le poids du conducteur
+			</td>
+			<td>
+				654 kg (1442 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Faire du chargement sur le toit
 			</td>
 			<td>

@@ -320,6 +320,30 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
+				Tomvikt
+			</td>
+			<td>
+				3216 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillåten totalvikt
+			</td>
+			<td>
+				3870 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max nyttolast inklusive förarens vikt
+			</td>
+			<td>
+				654 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tillåten taklast
 			</td>
 			<td>

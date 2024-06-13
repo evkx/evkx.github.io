@@ -48,6 +48,21 @@ Nio EL7 es un SUV disponible en 1 variantes.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Nio EL8</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="el8">
+                    <img src="https://media.evkx.net/multimedia/models/nio/el8/el8/main_1_st.jpg" class="img-fluid" alt="Nio EL8" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Nio EL8 es un SUV disponible en 1 variantes.
+</p>
+	<a href="el8/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Nio ES8</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

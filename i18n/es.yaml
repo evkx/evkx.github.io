@@ -112,8 +112,11 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-ae075015
+  translation: Nio EL8 es un SUV totalmente eléctrico con una autonomía WLTP de hasta 510 km (317 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-ca5fed04
-  translation: Rivian R1S Quad-Motor AWD MP es un SUV totalmente eléctrico con una autonomía EPA de hasta 516 km (321 millas). EVKX.net tiene todos los detalles.
+  translation: Rivian R1S Quad-Motor AWD MP es un SUV premium totalmente eléctrico con una EPA autonomía de hasta 516 km (321 millas). EVKX.net tiene todos los detalles.
 
 - id: frontpage-description-1dab2cfe
   translation: Audi Q6 e-tron performance es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 641 km (398 millas). EVKX.net tiene todos los detalles.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-bb2550ec
   translation: Automobili Pininfarina Battista es un hiperauto de lujo totalmente eléctrico con un WLTP alcance de hasta 490 km (305 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-2860c34f
-  translation: Nissan Ariya 87kWh e-4ORCE+ es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 507 km (315 millas). EVKX.net tiene todos los detalles.
 

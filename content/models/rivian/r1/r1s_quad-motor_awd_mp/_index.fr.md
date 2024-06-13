@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Quad-Motor AWD MP
 linktitle: "R1S Quad-Motor AWD MP"
-description: "Rivian R1S Quad-Motor AWD MP est un SUV entièrement électrique avec une autonomie EPA allant jusqu'à 516 km (321 miles). EVKX.net a tous les détails."
+description: "Rivian R1S Quad-Motor AWD MP est un SUV premium entièrement électrique avec une autonomie EPA allant jusqu'à 516 km (321 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -229,7 +229,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 498 litres. Avec la banquette arrière rabattue, elle est de 2965 litres. Sur le toit, vous pouvez charger jusqu'à 113 kg (249,1 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 314 litres (11,1 CU FT).
+La capacité de chargement dans le coffre est de 498 litres. Avec la banquette arrière rabattue, elle est de 2965 litres. Sur le toit, vous pouvez charger jusqu'à 113 kg (249,1 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 314 litres (11,1 CU FT). Le poids maximum de la voiture est de 3870 kg (8532 lbs), et avec le poids de base de 3216 kg (7090 lbs), vous pouvez charger au maximum 654 kg (1442 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3492, et sur une remorque non freinée, il est de 750 kg (7699/1653 lbs).
 

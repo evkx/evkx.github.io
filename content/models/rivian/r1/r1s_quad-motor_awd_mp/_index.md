@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Quad-Motor AWD MP
 linktitle: "R1S Quad-Motor AWD MP"
-description: "Rivian R1S Quad-Motor AWD MP is an all-electric SUV with a EPA range of up to 516 km (321 miles). EVKX.net has all the details."
+description: "Rivian R1S Quad-Motor AWD MP is an all-electric premium SUV with a EPA range of up to 516 km (321 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -229,7 +229,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), 11 
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113 kg (249.1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11.1 CU FT).
+The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113 kg (249.1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11.1 CU FT). The maxium weight of the car is 3870 kg (8532 lbs), and with the base weight of 3216 kg (7090 lbs), you can max load 654 kg (1442 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3492, and on unbraked, it is 750 kg (7699/1653 lbs).
 

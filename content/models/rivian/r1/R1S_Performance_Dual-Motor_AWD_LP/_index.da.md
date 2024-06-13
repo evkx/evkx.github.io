@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Performance Dual-Motor AWD LP
 linktitle: "R1S Performance Dual-Motor AWD LP"
-description: "Rivian R1S Performance Dual-Motor AWD LP er en fuldelektrisk SUV med en rækkevidde på EPA på op til 515 km (320 miles). EVKX.net har alle detaljerne."
+description: "Rivian R1S Performance Dual-Motor AWD LP er en fuldelektrisk premium-SUV med en rækkevidde på EPA på op til 515 km (320 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

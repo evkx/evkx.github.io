@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Rivian R1 er en pickup/SUV tilgængelig i 7 varianter.
+Rivian R1 er en premum pickup/SUV tilgængelig i 7 varianter.
 </p>
 	<a href="r1/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Quad-Motor AWD
 linktitle: "R1S Quad-Motor AWD"
-description: "Rivian R1S Quad-Motor AWD es un SUV totalmente eléctrico con una autonomía EPA de hasta 516 km (321 millas). EVKX.net tiene todos los detalles."
+description: "Rivian R1S Quad-Motor AWD es un SUV premium totalmente eléctrico con una EPA autonomía de hasta 516 km (321 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Rivian R1 es una camioneta/SUV disponible en 7 variantes.
+Rivian R1 es una camioneta/SUV premium disponible en 7 variantes.
 </p>
 	<a href="r1/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

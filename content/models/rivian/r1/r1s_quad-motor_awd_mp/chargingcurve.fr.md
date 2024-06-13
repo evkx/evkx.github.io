@@ -48,6 +48,9 @@ navicon: bi-battery-charging
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
 
 
+Rivian R1S Quad-Motor AWD MP dispose d'un chauffage de batterie, ce qui facilite la charge à une température optimale de la batterie.
+
+
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped border">
 <thead>

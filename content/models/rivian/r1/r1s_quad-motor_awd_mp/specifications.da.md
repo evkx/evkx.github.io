@@ -320,6 +320,30 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
+				Køreklar vægt
+			</td>
+			<td>
+				3216 kg (7090 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal totalvægt
+			</td>
+			<td>
+				3870 kg (8532 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksimal belastning inklusive vægtdriver
+			</td>
+			<td>
+				654 kg (1442 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Masser taglast
 			</td>
 			<td>

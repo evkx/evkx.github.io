@@ -471,7 +471,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>
 	<h2>Nio</h2>
 	<p>
-	Nio a 6 modèles avec un total de 7 variantes.
+	Nio a 7 modèles avec un total de 8 variantes.
 	</p>
 	<a href="nio/" class="btn btn-outline-primary" role="button">Aller à la Nio présentation du modèle EV</a>
 </div>

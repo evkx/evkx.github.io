@@ -1,7 +1,7 @@
 ---
 title: Rivian R1T Quad-Motor AWD
 linktitle: "R1T Quad-Motor AWD"
-description: "Rivian R1T Quad-Motor AWD es una camioneta totalmente eléctrica con un EPA alcance de hasta 516 km (321 millas). EVKX.net tiene todos los detalles."
+description: "Rivian R1T Quad-Motor AWD es una camioneta premium totalmente eléctrica con un EPA alcance de hasta 516 km (321 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true

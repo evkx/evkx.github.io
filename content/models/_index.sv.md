@@ -471,7 +471,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>
 	<h2>Nio</h2>
 	<p>
-	Nio har 6 modell(er) med totalt 7 varianter.
+	Nio har 7 modell(er) med totalt 8 varianter.
 	</p>
 	<a href="nio/" class="btn btn-outline-primary" role="button">Gå till Nio modellöversikt</a>
 </div>

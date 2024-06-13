@@ -320,6 +320,30 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
+				Peso en vacío
+			</td>
+			<td>
+				3216 kg (7090 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso total máximo
+			</td>
+			<td>
+				3870 kg (8532 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Carga máxima incluido el controlador de peso
+			</td>
+			<td>
+				654 kg (1442 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Hace carga en el techo
 			</td>
 			<td>

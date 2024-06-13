@@ -1,7 +1,7 @@
 ---
 title: Rivian R1T Performance Dual-Motor AWD MP
 linktitle: "R1T Performance Dual-Motor AWD MP"
-description: "Rivian R1T Performance Dual-Motor AWD MP es una camioneta totalmente eléctrica con un EPA alcance de hasta 660 km (410 millas). EVKX.net tiene todos los detalles."
+description: "Rivian R1T Performance Dual-Motor AWD MP es una camioneta premium totalmente eléctrica con un EPA alcance de hasta 660 km (410 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true

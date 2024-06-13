@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Performance Dual-Motor AWD LP
 linktitle: "R1S Performance Dual-Motor AWD LP"
-description: "Rivian R1S Performance Dual-Motor AWD LP es un SUV totalmente eléctrico con una autonomía EPA de hasta 515 km (320 millas). EVKX.net tiene todos los detalles."
+description: "Rivian R1S Performance Dual-Motor AWD LP es un SUV premium totalmente eléctrico con una EPA autonomía de hasta 515 km (320 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Rivian R1T Quad-Motor AWD
 linktitle: "R1T Quad-Motor AWD"
-description: "Rivian R1T Quad-Motor AWD er en fuldelektrisk pickup med en EPA rækkevidde på op til 516 km (321 miles). EVKX.net har alle detaljerne."
+description: "Rivian R1T Quad-Motor AWD er en fuldelektrisk premium pickup med en EPA rækkevidde på op til 516 km (321 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

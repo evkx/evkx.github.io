@@ -576,7 +576,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Nio Inc  is a Chinese multinational automobile manufacturer headquartered in Shanghai, specializing in designing and developing electric vehicles. The company develops battery-swapping stations for its vehicles, as an alternative to conventional charging stations. 
 	</p>
 	<p>
-	Nio has 6 models with total 7 variants.
+	Nio has 7 models with total 8 variants.
 	</p>
 	<a href="nio/" class="btn btn-outline-primary" role="button">Go to Nio EV-model overview</a>
 </div>

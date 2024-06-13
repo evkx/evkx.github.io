@@ -1,7 +1,7 @@
 ---
 title: Rivian R1T Quad-Motor AWD
 linktitle: "R1T Quad-Motor AWD"
-description: "Rivian R1T Quad-Motor AWD est une camionnette entièrement électrique avec une autonomie de EPA allant jusqu'à 516 km (321 miles). EVKX.net a tous les détails."
+description: "Rivian R1T Quad-Motor AWD est une camionnette premium entièrement électrique avec une autonomie de EPA allant jusqu'à 516 km (321 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true

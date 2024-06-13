@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Quad-Motor AWD
 linktitle: "R1S Quad-Motor AWD"
-description: "Rivian R1S Quad-Motor AWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 516 km (321 miles). EVKX.net har alle detaljerne."
+description: "Rivian R1S Quad-Motor AWD er en fuldelektrisk premium-SUV med en rækkevidde på EPA på op til 516 km (321 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

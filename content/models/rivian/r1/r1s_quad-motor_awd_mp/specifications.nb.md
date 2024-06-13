@@ -320,6 +320,30 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
+				Egenvekt
+			</td>
+			<td>
+				3216 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillatt totalvekt
+			</td>
+			<td>
+				3870 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks nyttelast inkludert vekt fører
+			</td>
+			<td>
+				654 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Maks taklast
 			</td>
 			<td>

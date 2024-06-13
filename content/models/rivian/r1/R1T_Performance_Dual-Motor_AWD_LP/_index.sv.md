@@ -1,7 +1,7 @@
 ---
 title: Rivian R1T Performance Dual-Motor AWD LP
 linktitle: "R1T Performance Dual-Motor AWD LP"
-description: "Rivian R1T Performance Dual-Motor AWD LP är en helelektrisk pickup med en EPA räckvidd på upp till 566 km. EVKX.net har alla detaljer."
+description: "Rivian R1T Performance Dual-Motor AWD LP är en helelektrisk premium pickup med en EPA räckvidd på upp till 566 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true

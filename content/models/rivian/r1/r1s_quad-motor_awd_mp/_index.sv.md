@@ -1,7 +1,7 @@
 ---
 title: Rivian R1S Quad-Motor AWD MP
 linktitle: "R1S Quad-Motor AWD MP"
-description: "Rivian R1S Quad-Motor AWD MP är en helelektrisk SUV med en EPA räckvidd på upp till 516 km. EVKX.net har alla detaljer."
+description: "Rivian R1S Quad-Motor AWD MP är en helelektrisk premium-SUV med en EPA räckvidd på upp till 516 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -229,7 +229,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), 1
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 498 liter. Med baksätet nedfällt är det 2965 liter. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter.
+Lastkapaciteten i bagageutrymmet är 498 liter. Med baksätet nedfällt är det 2965 liter. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter. Bilens maximala vikt är 3870 kg, och med basvikten på 3216 kg kan du lasta maximalt 654 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3492, och på en obromsad är den 750 kg.
 

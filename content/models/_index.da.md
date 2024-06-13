@@ -471,7 +471,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="nio/"><img src="https://media.evkx.net/multimedia/models/nio/brandevs_st.jpg" class="img-fluid mb-2" alt="Nio" ></a>
 	<h2>Nio</h2>
 	<p>
-	Nio har 6 modeller med i alt 7 varianter.
+	Nio har 7 modeller med i alt 8 varianter.
 	</p>
 	<a href="nio/" class="btn btn-outline-primary" role="button">Gå til Nio EV-modeloversigt</a>
 </div>

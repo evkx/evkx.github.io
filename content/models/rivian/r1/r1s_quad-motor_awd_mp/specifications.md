@@ -320,6 +320,30 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+				<a href="/technology/cargoandtowing/">Curb weight</a>
+			</td>
+			<td>
+				3216 kg (7090 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum total weight</a>
+			</td>
+			<td>
+				3870 kg (8532 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
+			</td>
+			<td>
+				654 kg (1442 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
