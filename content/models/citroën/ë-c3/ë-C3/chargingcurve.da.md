@@ -12,6 +12,9 @@ navicon: bi-battery-charging
 [Full screen](/images/models/citroën/ë-c3/ë-c3/chargingcurve.svg)
 
 
+<div class="alert alert-primary" role="alert">
+Opladningskurven for denne model er baseret på producentdata og indsigt i opladningsydelsen af lignende batteripakker.
+</div>
 <table class="table table-striped border">
 <tbody>
 <tr>
