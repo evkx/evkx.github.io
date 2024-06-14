@@ -131,12 +131,25 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 ### Säten på andra raden
 
+Du kan välja två sätestyper för den andra raden i Nio EL8.
 
+Alternativ standard är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
-För den andra raden har den här modellen två kaptensstolar. Dessutom är följande funktioner tillgängliga.
-
+- elektrisk justering
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
+- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
+
+Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
+
+- elektrisk justering
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
+- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
@@ -229,6 +242,10 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du fler körautomatiseringsfu
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
 - Avancerad farthållare som följer navigeringen och slår på och av huvudvägarna för att nå destinationen.
 
+### Sensorer och kameror
+
+Denna modell använder kameror, LiDAR och ultraljudssensorer för förarassistanssystemen.
+Upp till en [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
 

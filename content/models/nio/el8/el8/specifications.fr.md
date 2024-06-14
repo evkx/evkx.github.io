@@ -920,7 +920,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -936,7 +936,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Ventilation du siège
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -944,7 +944,120 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Fonction massage
 			</td>
 			<td>
+				Fonctionnalité facultative
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Executive
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Type de siège
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en hauteur
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en longueur
+			</td>
+			<td>
 				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de cuisse réglable
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du dossier
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du coussin de siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui de cuisse réglable électriquement
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Repose-pieds passagers
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de jambe passager
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage lombaire électrique
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilation du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fonction massage
+			</td>
+			<td>
+				Fonctionnalité facultative
 			</td>
 		</tr>
 	</tbody>

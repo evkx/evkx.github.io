@@ -920,7 +920,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -936,7 +936,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -944,7 +944,120 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Massagefunktion
 			</td>
 			<td>
+				Valgfri funktion
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Executive
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sædetype
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Højdejusterbar nakkestøtte
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Længdejusterbar nakkestøtte
+			</td>
+			<td>
 				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af sædehyndes sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justerbar lårstøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fodstøttepassagerer
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassager
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk lændejustering
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædeventilation
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Valgfri funktion
 			</td>
 		</tr>
 	</tbody>

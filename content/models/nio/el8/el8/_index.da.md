@@ -129,14 +129,27 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Sæde på anden række
+### Sæder på anden række
 
+Du kan vælge to sædetyper til anden række i Nio EL8.
 
+Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
-For anden række har denne model to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
-
+- elektrisk justering
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
+- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
+
+Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
+
+- elektrisk justering
+- højdejusterbar nakkestøtte
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
+- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
@@ -229,6 +242,10 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten, hvis det er nødvendigt i trafik. Systemet begrænser, hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og drejer af og på større veje for at nå målet.
 
+### Sensorer og kameraer
+
+Denne model bruger kameraer, LiDAR og ultralydssensorer til førerassistentsystemerne.
+Op til én [LiDAR sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -129,14 +129,27 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Second-row seat
+### Second-row seats
 
+You can choose two seat types for the second row in the Nio EL8.
 
+The standard option is two captain chairs. In addition, the following functionalities are available.
 
-For the second row, this model has two captain chairs. In addition, the following functionalities are available.
-
+- electric adjustment
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
+
+The second option is two captain chairs. In addition, the following functionalities are available.
+
+- electric adjustment
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
@@ -229,6 +242,10 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 
+### Sensors & Cameras
+
+This model uses cameras, LiDAR, and ultrasonic sensors for the driver assist systems.
+Up to one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 

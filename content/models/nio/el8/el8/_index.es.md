@@ -129,14 +129,27 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Asiento de segunda fila
+### Asientos de la segunda fila
 
+Puedes elegir dos tipos de asientos para la segunda fila en el Nio EL8.
 
+La opción standard son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
-Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
-
+- ajuste eléctrico
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
+
+La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
+
+- ajuste eléctrico
+- reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
@@ -229,6 +242,10 @@ Con el sistema NIO Pilot Complete Pack  nivel 2, obtienes funciones de automatiz
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y gira y gira en las carreteras principales para alcanzar el objetivo.
 
+### Sensores y cámaras
+
+Este modelo utiliza cámaras, LiDAR y sensores ultrasónicos para los sistemas de asistencia al conductor.
+Hasta uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

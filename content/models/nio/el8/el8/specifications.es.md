@@ -920,7 +920,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -936,7 +936,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -944,7 +944,120 @@ Este modelo está disponible con una configuración de seis asientos.
 				Función de masaje
 			</td>
 			<td>
+				Función opcional
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Executive
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
 				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable eléctricamente
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				Función opcional
 			</td>
 		</tr>
 	</tbody>

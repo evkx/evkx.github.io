@@ -131,12 +131,25 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 ### Seter på andre rad
 
+Du kan velge to setetyper for den andre raden i Nio EL8.
 
+Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
-For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
-
+- elektrisk justering
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
+- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
+
+Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
+
+- elektrisk justering
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
+- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
@@ -229,6 +242,10 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du flere kjøreautomatisering
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - Avansert cruisekontroll som følger navigasjonen og svinger av og på hovedveier for å nå målet.
 
+### Sensorer og kameraer
+
+Denne modellen bruker kameraer, LiDAR og ultralydsensorer for førerassistentsystemene.
+Opptil en [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

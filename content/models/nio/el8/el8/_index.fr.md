@@ -129,14 +129,27 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Siège de deuxième rangée
+### Sièges de deuxième rangée
 
+Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Nio EL8.
 
+L'option standard est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 
-Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
-
+- réglage électrique
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
+- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
+
+L'option second est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
+
+- réglage électrique
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
+- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
@@ -229,6 +242,10 @@ Avec le système NIO Pilot Complete Pack  niveau 2, vous bénéficiez de fonctio
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/) : maintient la voiture dans votre voie de circulation et ralentit si nécessaire dans la circulation. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 - Régulateur de vitesse avancé qui suit la navigation et s'éteint sur les routes principales pour atteindre la cible.
 
+### Capteurs et caméras
+
+Ce modèle utilise des caméras, du LiDAR et des capteurs à ultrasons pour les systèmes d'aide à la conduite.
+Jusqu'à un [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 
