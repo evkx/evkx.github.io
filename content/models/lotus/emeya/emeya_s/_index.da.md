@@ -37,9 +37,9 @@ Batteriet har en bruttokapacitet på 102kWh og en nettokapacitet på 100kWh, hvi
 
 [WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 610 til 500 km (379-311 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,4kWh/100 km for basisversionen og 20,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 189kW. Hver opladningssession ville tage 22 minutter og 36 sekunder.
+Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 40 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 13 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 79%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 238kW. Hver opladningssession ville tage 19 minutter og 10 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 27kWh/100 km, vil 1000 km tage 9 timer og 15 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 2 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 55 minutter.
+Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 27kWh/100 km, vil 1000 km tage 9 timer og 4 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 4 % til 61%. Den samlede tid, der går tabt for at oplade batteriet, vil være 45 minutter.
 
 ### Indbygget oplader
 
