@@ -40,9 +40,9 @@ The battery has a gross capacity of 100kWh and a net capacity of 90kWh, meaning 
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 510 km (317 mi). The consumption is 17.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 240kW. A full charge from 0 - 100% would take 83 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 72%, resulting in an actual charge speed, including time loss, of 79kW. Each charge session would take 44 minutes and 24 seconds.
+The maximum DC charging speed is 240kW. A full charge from 0 - 100% would take 75 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 44%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 27 minutes and 2 seconds.
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 11 hours and 1 minutes. This trip will require four charge session(s) charging from 8% to 67%. The total time lost for charging up the battery will be 162 minutes.
+For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 10 hours and 47 minutes. This trip will require six charge session(s) charging from 1% to 40%. The total time lost for charging up the battery will be 147 minutes.
 ### 75kWh
 
 The battery has a gross capacity of 75kWh and a net capacity of 70,5kWh, meaning you have a 4,5kWh buffer for protection. (6.0%).
@@ -72,7 +72,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio EL8 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 111 mm, and the maximum is 161 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 110 mm, and the maximum is 200 mm.
 
 ### Steering
 
@@ -236,7 +236,7 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 552 liters. With the rear seat down, it is 1901 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3099 kg (6832 lbs), and with the base weight of 2440 kg (5379 lbs), you can max load 659 kg (1453 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 552 liters. With the third-row seat down, it is 810 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2190 kg (4828 lbs), and with the base weight of 2612 kg (5758 lbs), you can max load -422 kg (-930 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. -422kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 ### Availability & Pricing

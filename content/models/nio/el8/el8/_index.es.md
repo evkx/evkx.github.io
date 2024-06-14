@@ -40,9 +40,9 @@ La batería tiene una capacidad bruta de 100kWh y una capacidad neta de 90kWh, l
 
 El [rango WLTP](../../../../guides/understandingrange/wltp/) es 510 km (317 mi). El consumo es de 17,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
-La velocidad máxima de carga de CC es 240kW. Una carga completa del 0 al 100 % tardaría 83 minutos, mientras que un escenario más común del 10 al 80 % tardaría 43 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 72%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 79kW. Cada sesión de carga tardaría 44 minutos y 24 segundos.
+La velocidad máxima de carga de CC es 240kW. Una carga completa del 0 al 100 % tardaría 75 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 44%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 86kW. Cada sesión de carga tardaría 27 minutos y 2 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 30kWh/100 km, 1000 km tomarán 11 horas y 1 minutos. Este viaje requerirá cuatro sesiones de carga del 8 % al 67 %. El tiempo total perdido para cargar la batería será de 162 minutos.
+Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 30kWh/100 km, 1000 km tomarán 10 horas y 47 minutos. Este viaje requerirá seis sesiones de carga del 1 % al 40 %. El tiempo total perdido para cargar la batería será de 147 minutos.
 ### 75kWh
 
 La batería tiene una capacidad bruta de 75kWh y una capacidad neta de 70,5kWh, lo que significa que tienes un buffer de 4,5kWh para protección. (6,0%).
@@ -72,7 +72,7 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 
 Nio EL8 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 111 mm y la máxima es 161 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 110 mm y la máxima es 200 mm.
 
 ### Dirección
 
@@ -236,7 +236,7 @@ Con el sistema NIO Pilot Complete Pack  nivel 2, obtienes funciones de automatiz
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 552 litros. Con el asiento trasero abatido, es de 1901 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3099 kg (6832 lbs), y con el peso base de 2440 kg (5379 lbs), puedes cargar como máximo 659 kg (1453 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 552 litros. Con el asiento de la tercera fila abatido, es de 810 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2190 kg (4828 lbs), y con el peso base de 2612 kg (5758 lbs), puedes cargar como máximo -422 kg (-930 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. -422kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
 ### Disponibilidad y precios

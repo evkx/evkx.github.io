@@ -427,7 +427,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2440 kg (5379 lbs)
+				2612 kg (5758 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				3099 kg (6832 lbs)
+				2190 kg (4828 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				659 kg (1453 lbs)
+				-422 kg (-930 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -464,18 +464,10 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Bagumskapacitet med alle bagsæder foldet
-			</td>
-			<td>
-				1901 liter (67 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Bagumskapacitet med foldede sæder på tredje række
 			</td>
 			<td>
-				871 liter (31 cu-ft)
+				810 liter (29 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +556,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				161 mm (6,3")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +564,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				111 mm (4,4")
+				110 mm (4,3")
 			</td>
 		</tr>
 		<tr>

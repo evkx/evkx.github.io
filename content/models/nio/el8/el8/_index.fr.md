@@ -40,9 +40,9 @@ La batterie a une capacité brute de 100kWh et une capacité nette de 90kWh, ce 
 
 La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 510 km (317 mi). La consommation est de 17,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
 
-La vitesse de charge DC maximale est de 240kW. Une charge complète de 0 à 100 % prendrait 83 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 43 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 72 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 79kW. Chaque session de charge prendrait 44 minutes et 24 secondes.
+La vitesse de charge DC maximale est de 240kW. Une charge complète de 0 à 100 % prendrait 75 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 44 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 86kW. Chaque session de charge prendrait 27 minutes et 2 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 30kWh/100 km, 1 000 km prendront 11 heures et 1 minutes. Ce trajet nécessitera quatre sessions de charge de 8 % à 67 %. Le temps total perdu pour charger la batterie sera de 162 minutes.
+Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 30kWh/100 km, 1 000 km prendront 10 heures et 47 minutes. Ce trajet nécessitera six sessions de charge de 1 % à 40 %. Le temps total perdu pour charger la batterie sera de 147 minutes.
 ### 75kWh
 
 La batterie a une capacité brute de 75kWh et une capacité nette de 70,5kWh, ce qui signifie que vous disposez d'une réserve de 4,5kWh pour la protection. (6,0%).
@@ -72,7 +72,7 @@ Ce modèle prend en charge l'échange de batterie. L'échange de batterie signif
 
 Nio EL8 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 111 mm et la garde au sol maximale est de 161 mm.
+La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 110 mm et la garde au sol maximale est de 200 mm.
 
 ### Pilotage
 
@@ -236,7 +236,7 @@ Avec le système NIO Pilot Complete Pack  niveau 2, vous bénéficiez de fonctio
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 552 litres. Avec la banquette arrière rabattue, elle est de 1901 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3099 kg (6832 lbs), et avec le poids de base de 2440 kg (5379 lbs), vous pouvez charger au maximum 659 kg (1453 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement du coffre est de 552 litres. Avec le siège de troisième rangée abaissé, elle est de 810 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2190 kg (4828 lbs), et avec le poids de base de 2612 kg (5758 lbs), vous pouvez charger au maximum -422 kg (-930 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. -422kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2000, et sur une remorque non freinée, il est de 750 kg (4409/1653 lbs).
 ### Disponibilité et prix

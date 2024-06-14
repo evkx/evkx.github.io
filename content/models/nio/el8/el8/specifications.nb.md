@@ -427,7 +427,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2440 kg
+				2612 kg
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				3099 kg
+				2190 kg
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				659 kg
+				-422 kg
 			</td>
 		</tr>
 		<tr>
@@ -464,18 +464,10 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Størrelse med alle bakseter lagt ned
-			</td>
-			<td>
-				1901 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Størrelse med tredje rad lagt ned
 			</td>
 			<td>
-				871 liter
+				810 liter
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +556,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				161 mm
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +564,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				111 mm
+				110 mm
 			</td>
 		</tr>
 		<tr>

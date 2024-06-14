@@ -427,7 +427,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2440 kg (5379 lbs)
+				2612 kg (5758 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				3099 kg (6832 lbs)
+				2190 kg (4828 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				659 kg (1453 lbs)
+				-422 kg (-930 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -464,18 +464,10 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Capacidad del maletero con todos los asientos traseros plegados
-			</td>
-			<td>
-				1901 litro (67 pies cúbicos)
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Capacidad del maletero con los asientos de la tercera fila plegados
 			</td>
 			<td>
-				871 litro (31 pies cúbicos)
+				810 litro (29 pies cúbicos)
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +556,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				161 mm (6,3")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +564,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				111 mm (4,4")
+				110 mm (4,3")
 			</td>
 		</tr>
 		<tr>

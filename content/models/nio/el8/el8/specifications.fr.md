@@ -427,7 +427,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2440 kg (5379 lbs)
+				2612 kg (5758 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				3099 kg (6832 lbs)
+				2190 kg (4828 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				659 kg (1453 lbs)
+				-422 kg (-930 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -464,18 +464,10 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Capacité du coffre avec tous les sièges arrière rabattus
-			</td>
-			<td>
-				1901 litre (67 pieds cubes)
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Capacité du coffre avec les sièges de troisième rangée rabattus
 			</td>
 			<td>
-				871 litre (31 pieds cubes)
+				810 litre (29 pieds cubes)
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +556,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				161 mm (6,3")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +564,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				111 mm (4,4")
+				110 mm (4,3")
 			</td>
 		</tr>
 		<tr>

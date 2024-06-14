@@ -427,7 +427,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2440 kg (5379 lbs)
+				2612 kg (5758 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				3099 kg (6832 lbs)
+				2190 kg (4828 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				659 kg (1453 lbs)
+				-422 kg (-930 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -464,18 +464,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
-			</td>
-			<td>
-				1901 liter (67 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with third row seats folded</a>
 			</td>
 			<td>
-				871 liter (31 cu-ft)
+				810 liter (29 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +556,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				161 mm (6,3")
+				200 mm (7,9")
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +564,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				111 mm (4,4")
+				110 mm (4,3")
 			</td>
 		</tr>
 		<tr>

@@ -427,7 +427,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2440 kg
+				2612 kg
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				3099 kg
+				2190 kg
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				659 kg
+				-422 kg
 			</td>
 		</tr>
 		<tr>
@@ -464,18 +464,10 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Bagagerumsvolym, med nedfällda säten
-			</td>
-			<td>
-				1901 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Bagagerumsvolym, med nedfällda säten tredje rad
 			</td>
 			<td>
-				871 liter
+				810 liter
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +556,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				161 mm
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -572,7 +564,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				111 mm
+				110 mm
 			</td>
 		</tr>
 		<tr>
