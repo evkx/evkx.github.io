@@ -80,7 +80,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område
+				Basic trim WLTP range
 			</td>
 			<td>
 				510 km
@@ -88,7 +88,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbrug
+				Basic trim WLTP-forbrug
 			</td>
 			<td>
 				17,6 kWh/100km
@@ -96,10 +96,34 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbrug med opladningstab
+				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
 				23 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrim WLTP-område
+			</td>
+			<td>
+				493 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrim WLTP-forbrug
+			</td>
+			<td>
+				18,3 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrimmet WLTP-forbrug med opladningstab
+			</td>
+			<td>
+				23,0 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -120,15 +144,15 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område
+				Basic trim WLTP range
 			</td>
 			<td>
-				350 km
+				390 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbrug
+				Basic trim WLTP-forbrug
 			</td>
 			<td>
 				17,6 kWh/100km
@@ -136,10 +160,34 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbrug med opladningstab
+				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
 				23 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrim WLTP-område
+			</td>
+			<td>
+				379 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrim WLTP-forbrug
+			</td>
+			<td>
+				18,3 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Toptrimmet WLTP-forbrug med opladningstab
+			</td>
+			<td>
+				23,0 kwh/100km
 			</td>
 		</tr>
 	</tbody>

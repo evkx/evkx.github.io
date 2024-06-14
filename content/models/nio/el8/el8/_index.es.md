@@ -38,7 +38,7 @@ Nio EL8 tiene dos opciones de batería con diferentes especificaciones. A contin
 
 La batería tiene una capacidad bruta de 100kWh y una capacidad neta de 90kWh, lo que significa que tienes un buffer de 10kWh para protección. (10,0%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 510 km (317 mi). El consumo es de 17,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 510 a 493 km (317-306 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 17,6kWh/100 km para la versión básica y 18,3kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 240kW. Una carga completa del 0 al 100 % tardaría 75 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 44%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 86kW. Cada sesión de carga tardaría 27 minutos y 2 segundos.
 
@@ -47,7 +47,7 @@ Para el desafío teórico de 1000 km, comenzando con la batería llena y conduci
 
 La batería tiene una capacidad bruta de 75kWh y una capacidad neta de 70,5kWh, lo que significa que tienes un buffer de 4,5kWh para protección. (6,0%).
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 350 km (218 mi). El consumo es de 17,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 390 a 379 km (242-236 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 17,6kWh/100 km para la versión básica y 18,3kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
 
 La velocidad máxima de carga de CC es 140kW. Una carga completa del 0 al 100 % tardaría 65 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 74%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 77kW. Cada sesión de carga tardaría 37 minutos y 57 segundos.
 
@@ -70,7 +70,7 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 
 ## Tren de transmisión
 
-Nio EL8 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
+Nio EL8 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/) en el eje delantero y [Motores de inducción] (../../../../technology/motors/asm/) en el eje trasero.
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 110 mm y la máxima es 200 mm.
 

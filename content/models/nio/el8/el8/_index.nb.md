@@ -38,7 +38,7 @@ Nio EL8 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor se
 
 Batteriet har en bruttokapasitet på 100kWh og en nettokapasitet på 90kWh, noe som betyr at du har et 10kWh-buffer for beskyttelse. (10,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 510 km. Forbruket er 17,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 510 til 493 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17,6kWh/100 km for basisversjonen og 18,3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 240 kW. En full lading fra 0 - 100 % vil ta 75 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 44%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 86kW. Hver ladeøkt vil ta 27 minutter og 2 sekunder.
 
@@ -47,7 +47,7 @@ For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 
 
 Batteriet har en bruttokapasitet på 75kWh og en nettokapasitet på 70,5kWh, noe som betyr at du har et 4,5kWh-buffer for beskyttelse. (6,0%).
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 350 km. Forbruket er 17,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 390 til 379 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 17,6kWh/100 km for basisversjonen og 18,3kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
 
 Maksimal DC-ladehastighet er 140 kW. En full lading fra 0 - 100 % vil ta 65 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 77kW. Hver ladeøkt vil ta 37 minutter og 57 sekunder.
 
@@ -70,7 +70,7 @@ Denne modellen støtter batteribytte. Batteribytte betyr at du kan kjøre til en
 
 ## Drivverk
 
-Nio EL8 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
+Nio EL8 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakselen og [induksjonsmotorer](../../../../technology/motors/asm/) på bakakselen.
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 110 mm, og maksimum er 200 mm.
 
