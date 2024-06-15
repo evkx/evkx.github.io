@@ -18,6 +18,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/dynamic_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/dynamic_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/dynamic_2_xst.jpg" alt="Lotus Emeya" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/exterior_1.jpg"
 data-pswp-width="3000"

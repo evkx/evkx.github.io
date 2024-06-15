@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-808290c2
+  translation: Porsche Taycan Turbo GT Weissach is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net has all the details.
+
 - id: frontpage-description-ae075015
   translation: Nio EL8 is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-0ad41fc5
   translation: Maserati GranCabrio Folgore is an all-electric luxury convertible with a WLTP range of up to 501 km (311 miles). EVKX.net has all the details.
-
-- id: frontpage-description-bb2550ec
-  translation: Automobili Pininfarina Battista is an all-electric luxury hypercar with a WLTP range of up to 490 km (305 miles). EVKX.net has all the details.
 

@@ -70,62 +70,6 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Turbo G
 </table>
 
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Max effekt
-			</td>
-			<td>
-				815 KW (1108 hk)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max effekt med boost
-			</td>
-			<td>
-				815 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vridmoment med boost
-			</td>
-			<td>
-				1340 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topphastighet
-			</td>
-			<td>
-				300 km/h
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100 km/h (0-62 mph) boost
-			</td>
-			<td>
-				2,2 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
 
 ## Räckvidd och förbrukning
 

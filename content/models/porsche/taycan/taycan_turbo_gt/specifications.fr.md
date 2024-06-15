@@ -70,62 +70,6 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 </table>
 
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Puissance de pointe
-			</td>
-			<td>
-				815 KW (1108 ch /1093 bhp)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Puissance maximale avec boost
-			</td>
-			<td>
-				815 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Augmentation de la sortie de couple électrique
-			</td>
-			<td>
-				1340 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vitesse maximale
-			</td>
-			<td>
-				300 km/h (186 mph)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Augmentation de 0 à 100 km/h (0 à 62 mph)
-			</td>
-			<td>
-				2,2 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
 
 ## Plage et consommation
 

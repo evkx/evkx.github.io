@@ -41,7 +41,7 @@ Porsche Macan es un SUV Coupé premium disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Taycan es un sedán/camioneta de lujo disponible en 23 variantes.
+Porsche Taycan es un sedán/camioneta de lujo disponible en 24 variantes.
 </p>
 	<a href="taycan/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

@@ -29,7 +29,7 @@ We have separated our Porsche Taycan Turbo GT article into sections. If you want
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo GT delivers an astonishing maximum power of 815 kW (1108 hp / 1093 bhp). Even without overboost, it boasts a formidable 815 kW (1108 hp / 1093 bhp). The maximum torque reaches an incredible 1340 Nm (989 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.3 seconds and achieves a top speed of 300 km/h (186 mph), underscoring its breathtaking performance. With overboost, the Porsche Taycan Turbo GT delivers an astonishing maximum power of 815 kW (1108 hp / 1093 bhp). Even without overboost, it boasts a formidable 815 kW (1108 hp / 1093 bhp). The maximum torque reaches an incredible 1340 Nm (989 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.2 seconds and achieves a top speed of 300 km/h (186 mph), underscoring its breathtaking performance.
+With overboost, the Porsche Taycan Turbo GT delivers an astonishing maximum power of 815 kW (1108 hp / 1093 bhp). Even without overboost, it boasts a formidable 815 kW (1108 hp / 1093 bhp). The maximum torque reaches an incredible 1340 Nm (989 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.3 seconds and achieves a top speed of 300 km/h (186 mph), underscoring its breathtaking performance.
 
 ## Battery, range, and charging
 
@@ -101,7 +101,7 @@ The standard is just a regular roof. As an option, you can order this model with
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling.
+You can choose between different types of seats, seat materials, and interior styling. This model offers a four-seat layout or an optional 4+1 layout.
 
 ### First row seats
 

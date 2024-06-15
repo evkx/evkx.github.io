@@ -70,62 +70,6 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo
 </table>
 
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Peak power
-			</td>
-			<td>
-				815 KW (1108 hp /1093 bhp)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Peak power with  boost
-			</td>
-			<td>
-				815 Kw
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electrical torque output boost
-			</td>
-			<td>
-				1340 Nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Top speed
-			</td>
-			<td>
-				300 kph (186 mph)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				0-100km/h (0-62 mph) boost
-			</td>
-			<td>
-				2,2 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
 
 ## Range & Consumption
 

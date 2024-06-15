@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Porsche Taycan Turbo GT en secciones. Si desea 
 
 ## Rendimiento
 
-Con el overboost, el Porsche Taycan Turbo GT ofrece una asombrosa potencia máxima de 815 kW (1108 hp). Incluso sin overboost, cuenta con una formidable potencia de 815 kW (1108 hp). El par máximo alcanza unos increíbles 1340 Nm. Esta máquina puede acelerar de 0 a 100 km/h en solo 2,3 segundos y alcanza una velocidad máxima de 300 km/h, lo que subraya su impresionante rendimiento. Con el overboost, el Porsche Taycan Turbo GT ofrece una asombrosa potencia máxima de 815 kW (1108 hp). Incluso sin overboost, cuenta con una formidable potencia de 815 kW (1108 hp). El par máximo alcanza unos increíbles 1340 Nm. Esta máquina puede acelerar de 0 a 100 km/h en solo 2,2 segundos y alcanza una velocidad máxima de 300 km/h, lo que subraya su impresionante rendimiento.
+Con el overboost, el Porsche Taycan Turbo GT ofrece una asombrosa potencia máxima de 815 kW (1108 hp). Incluso sin overboost, cuenta con una formidable potencia de 815 kW (1108 hp). El par máximo alcanza unos increíbles 1340 Nm. Esta máquina puede acelerar de 0 a 100 km/h en solo 2,3 segundos y alcanza una velocidad máxima de 300 km/h, lo que subraya su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 
@@ -92,7 +92,7 @@ El estándar es simplemente un techo normal. Como opción, puedes pedir este mod
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior.
+Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
 
 ### Asientos de primera fila
 

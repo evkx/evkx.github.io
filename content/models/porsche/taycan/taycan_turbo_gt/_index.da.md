@@ -29,7 +29,7 @@ Vi har opdelt vores Porsche Taycan Turbo GT artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-Med overboost leverer Porsche Taycan Turbo GT en fantastisk maksimal effekt på 815 kW (1108 hk). Selv uden overboost har den en formidabel effekt på 815 kW (1108 hk). Det maksimale drejningsmoment når utrolige 1340 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på kun 2,3 sekunder og opnår en topfart på 300 km/t, hvilket understreger dens betagende ydeevne. Med overboost leverer Porsche Taycan Turbo GT en fantastisk maksimal effekt på 815 kW (1108 hk). Selv uden overboost har den en formidabel effekt på 815 kW (1108 hk). Det maksimale drejningsmoment når utrolige 1340 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på kun 2,2 sekunder og opnår en topfart på 300 km/t, hvilket understreger dens betagende ydeevne.
+Med overboost leverer Porsche Taycan Turbo GT en fantastisk maksimal effekt på 815 kW (1108 hk). Selv uden overboost har den en formidabel effekt på 815 kW (1108 hk). Det maksimale drejningsmoment når utrolige 1340 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på kun 2,3 sekunder og opnår en topfart på 300 km/t, hvilket understreger dens betagende ydeevne.
 
 ## Batteri, rækkevidde og opladning
 
@@ -92,7 +92,7 @@ Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne mo
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign.
+Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
 ### Første række sæder
 

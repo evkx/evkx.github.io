@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-808290c2
+  translation: Porsche Taycan Turbo GT Weissach es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 555 km (345 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-ae075015
   translation: Nio EL8 es un SUV totalmente eléctrico con una autonomía WLTP de hasta 510 km (317 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-0ad41fc5
   translation: Maserati GranCabrio Folgore es un convertible de lujo totalmente eléctrico con un WLTP alcance de hasta 501 km (311 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-bb2550ec
-  translation: Automobili Pininfarina Battista es un hiperauto de lujo totalmente eléctrico con un WLTP alcance de hasta 490 km (305 millas). EVKX.net tiene todos los detalles.
 
