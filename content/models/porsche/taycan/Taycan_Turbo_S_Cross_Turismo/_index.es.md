@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Porsche Taycan Turbo S Cross Turismo en seccion
 
 ## Rendimiento
 
-Con overboost, el Porsche Taycan Turbo S Cross Turismo alcanza una potencia máxima de 700 kW (952 hp). Sin overboost, proporciona una sólida potencia de 570 kW (775 hp). El par máximo es de 1110 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 2,5 segundos y alcanza una velocidad máxima de 250 km/h, mostrando su impresionante rendimiento.
+Con el overboost, el Porsche Taycan Turbo S Cross Turismo ofrece una asombrosa potencia máxima de 700 kW (952 hp). Incluso sin overboost, cuenta con una formidable potencia de 570 kW (775 hp). El par máximo alcanza unos increíbles 1110 Nm. Esta máquina puede acelerar de 0 a 100 km/h en solo 2,5 segundos y alcanza una velocidad máxima de 250 km/h, lo que subraya su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 

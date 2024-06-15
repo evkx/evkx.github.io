@@ -31,7 +31,7 @@ Vi har delat in vår beskrivning av Porsche Taycan i avsnitt. Om du vill vänta 
 
 
 
-Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan en maximal effekt på 320 KW (435hk). Utan overboost är det 320KW (435hp). Vridmomentet är 420 Nm med överboost och 420 utan överboost. Den gör sprinten 0-100 km/h på 4,8 sekunder med överboost och  sekunder utan överboost. Topphastigheten är 230 km/h. Med overboost har Porsche Taycan en maximal effekt på 300 KW (408hk). Utan overboost är det 300KW (408hp). Vridmomentet är 410 Nm med överboost och 410 utan överboost. Den gör sprinten 0-100 km/h på 4,8 sekunder med överboost och  sekunder utan överboost. Topphastigheten är 230 km/h.
+Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost når Porsche Taycan en maximal effekt på 320 kW (435 hk). Utan overboost levererar den 320 kW (435 hk). Det maximala vridmomentet är 420 Nm. Den kan accelerera från 0 till 100 km/h på 4,8 sekunder och når en topphastighet på 230 km/h, vilket demonstrerar dess solida prestanda. Med overboost når Porsche Taycan en maximal effekt på 300 kW (408 hk). Utan overboost levererar den 300 kW (408 hk). Det maximala vridmomentet är 410 Nm. Den kan accelerera från 0 till 100 km/h på 4,8 sekunder och når en topphastighet på 230 km/h, vilket demonstrerar dess solida prestanda.
 
 ## Batteri, räckvidd och laddning
 

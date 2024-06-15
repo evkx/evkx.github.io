@@ -35,9 +35,9 @@ Denne model er blevet erstattet af [Porsche Taycan](/models/porsche/taycan/tayca
 
 ## Ydeevne
 
-Med overboost har Porsche Taycan (GEN1) en maksimal effekt på 300 KW (408 hk / 326 bhp). Uden overboost er den 240 KW (326 hk / 402 hk). Momentet er 345 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,4 sekunder med overboost og  sekunder uden overboost. Tophastigheden er 230 km/t.
+Med overboost når Porsche Taycan (GEN1) en maksimal effekt på 300 kW (408 hk). Uden overboost leverer den 240 kW (326 hk). Det maksimale drejningsmoment er 345 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost har Porsche Taycan (GEN1) en maksimal effekt på 350 KW (476 hk / 381 bhp). Uden overboost er den 280 KW (381 hk / 469 hk). Momentet er 357 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,4 sekunder med overboost og  sekunder uden overboost. Tophastigheden er 230 km/t.
+Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost når Porsche Taycan (GEN1) en maksimal effekt på 350 kW (476 hk). Uden overboost leverer den 280 kW (381 hk). Det maksimale drejningsmoment er 357 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
 
 ## Batteri, rækkevidde og opladning
 

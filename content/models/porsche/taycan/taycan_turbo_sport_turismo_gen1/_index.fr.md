@@ -31,7 +31,7 @@ Nous avons séparé notre article Porsche Taycan Turbo Sport Turismo (GEN1) en s
 
 
 
-Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec l'overboost, la Porsche Taycan Turbo Sport Turismo (GEN1) atteint une puissance maximale de 650 kW (884 ch). Sans overboost, elle offre une puissance solide de 520 kW (707 ch). Le couple maximal est de 940 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 3,2 secondes et atteint une vitesse maximale de 260 km/h, démontrant ses performances impressionnantes.
+Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Grâce à l'overboost, la Porsche Taycan Turbo Sport Turismo (GEN1) délivre une puissance maximale époustouflante de 650 kW (884 ch). Même sans l'overboost, elle offre une puissance formidable de 520 kW (707 ch). Le couple maximal atteint un incroyable 940 Nm. Cette bête de puissance peut passer de 0 à 100 km/h en seulement 3,2 secondes et atteint une vitesse maximale de 260 km/h, soulignant ainsi ses performances à couper le souffle.
 
 ## Batterie, autonomie et charge
 

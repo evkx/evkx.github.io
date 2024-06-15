@@ -29,7 +29,7 @@ We have separated our Porsche Taycan Turbo GT article into sections. If you want
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo GT reaches a maximum power of 815 kW (1108 hp / 1093 bhp). Without overboost, it provides a strong 815 kW (1108 hp / 1093 bhp). The maxium torque is at 1340 Nm (989 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 2.3 seconds and reaches a top speed of 300 km/h (186 mph), showcasing its impressive performance. With overboost, the Porsche Taycan Turbo GT reaches a maximum power of 815 kW (1108 hp / 1093 bhp). Without overboost, it provides a strong 815 kW (1108 hp / 1093 bhp). The maxium torque is at 1340 Nm (989 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 2.2 seconds and reaches a top speed of 300 km/h (186 mph), showcasing its impressive performance.
+With overboost, the Porsche Taycan Turbo GT delivers an astonishing maximum power of 815 kW (1108 hp / 1093 bhp). Even without overboost, it boasts a formidable 815 kW (1108 hp / 1093 bhp). The maximum torque reaches an incredible 1340 Nm (989 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.3 seconds and achieves a top speed of 300 km/h (186 mph), underscoring its breathtaking performance. With overboost, the Porsche Taycan Turbo GT delivers an astonishing maximum power of 815 kW (1108 hp / 1093 bhp). Even without overboost, it boasts a formidable 815 kW (1108 hp / 1093 bhp). The maximum torque reaches an incredible 1340 Nm (989 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.2 seconds and achieves a top speed of 300 km/h (186 mph), underscoring its breathtaking performance.
 
 ## Battery, range, and charging
 

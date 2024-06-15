@@ -35,9 +35,9 @@ This model has been replaced by [Porsche Taycan](/models/porsche/taycan/taycan/)
 
 ## Performance
 
-With overboost, the Porsche Taycan (GEN1) has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 240 KW (326 hp / 326 bhp) The torque is 345 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 5.4 seconds with overboost and  seconds without overboost and has a top speed of 230 km/h (143 mph).
+With overboost, the Porsche Taycan (GEN1) reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 240 kW (326 hp / 322 bhp). The maximum torque is 345 Nm (255 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan (GEN1) has a maximum power of 350 KW (476 hp / 469 bhp). Without overboost, it is 280 KW (381 hp / 381 bhp) The torque is 357 nm with overboost and  without overboost. It performs the 0-100km/h sprint (0-62mph) in 5.4 seconds with overboost and  seconds without overboost and has a top speed of 230 km/h (143 mph).
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan (GEN1) reaches a maximum power of 350 kW (476 hp / 469 bhp). Without overboost, it delivers 280 kW (381 hp / 376 bhp). The maximum torque is 357 Nm (263 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
 
 ## Battery, range, and charging
 

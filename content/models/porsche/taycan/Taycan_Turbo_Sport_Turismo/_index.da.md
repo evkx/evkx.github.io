@@ -31,7 +31,7 @@ Vi har opdelt vores Porsche Taycan Turbo Sport Turismo artikel i sektioner. Hvis
 
 
 
-Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost når Porsche Taycan Turbo Sport Turismo en maksimal effekt på 650 kW (884 hk). Uden overboost leverer den en stærk 520 kW (707 hk). Det maksimale drejningsmoment er på 940 Nm. Denne kraftkarl kan accelerere fra 0 til 100 km/t på blot 2,7 sekunder og har en topfart på 260 km/t, hvilket fremhæver dens imponerende præstationer.
+Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Med overboost leverer Porsche Taycan Turbo Sport Turismo en fantastisk maksimal effekt på 650 kW (884 hk). Selv uden overboost har den en formidabel effekt på 520 kW (707 hk). Det maksimale drejningsmoment når utrolige 940 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på kun 2,7 sekunder og opnår en topfart på 260 km/t, hvilket understreger dens betagende ydeevne.
 
 ## Batteri, rækkevidde og opladning
 
