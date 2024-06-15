@@ -35,7 +35,7 @@ Denne modellen er erstattet av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tr
 
 ## Ytelse
 
-Med overboost når Audi e-tron Sen maksimal effekt på 370 kW (503 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 973 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 200 km/t, noe som viser dens solide ytelse.
+Med overboost når Audi e-tron S en maksimal effekt på 370 kW (503 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 973 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 200 km/t, noe som viser dens solide ytelse.
 
 ## Batteri, rekkevidde og lading
 

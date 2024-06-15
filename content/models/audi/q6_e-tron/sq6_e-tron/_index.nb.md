@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi SQ6 e-tron i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Med overboost når Audi SQ6 e-tronen maksimal effekt på 385 kW (524 hk). Uten overboost leverer den 355 kW (483 hk). Maksimalt dreiemoment er 650 Nm. Den kan akselerere fra 0 til 100 km/t på 4,4 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
+Med overboost når Audi SQ6 e-tron en maksimal effekt på 385 kW (524 hk). Uten overboost leverer den 355 kW (483 hk). Maksimalt dreiemoment er 650 Nm. Den kan akselerere fra 0 til 100 km/t på 4,4 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
 
 ## Batteri, rekkevidde og lading
 

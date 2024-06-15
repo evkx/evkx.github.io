@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av CUPRA BORN 77 e-BOOST i avsnitt. Om du vill 
 
 ## Prestanda
 
-Med overboost har CUPRA BORN 77 e-BOOST en maximal effekt på 170 KW (231hk). Utan overboost är det 150KW (204hp). Vridmomentet är 310 Nm med överboost och 310 utan överboost. Den gör sprinten 0-100 km/h på 7 sekunder med överboost och 7,9 sekunder utan överboost. Topphastigheten är 160 km/h.
+Med overboost når CUPRA BORN 77 e-BOOST en maximal effekt på 170 kW (231 hk). Utan overboost levererar den 150 kW (204 hk). Det maximala vridmomentet är 310 Nm. Den accelererar från 0 till 100 km/h på 7 sekunder och når en topphastighet på 160 km/h, vilket ger prestanda som är mer lik traditionella förbränningsmotorbilar.
 
 ## Batteri, räckvidd och laddning
 

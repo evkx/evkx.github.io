@@ -29,7 +29,7 @@ Vi har opdelt vores CUPRA BORN 58 e-BOOST artikel i sektioner. Hvis du vil vente
 
 ## Ydeevne
 
-Med overboost har CUPRA BORN 58 e-BOOST en maksimal effekt på 170 KW (231 hk / 204 bhp). Uden overboost er den 150 KW (204 hk / 228 hk). Momentet er 310 nm med overboost og 310 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 6,6 sekunder med overboost og 7,3 sekunder uden overboost. Tophastigheden er 160 km/t.
+Med overboost når CUPRA BORN 58 e-BOOST en maksimal effekt på 170 kW (231 hk). Uden overboost leverer den 150 kW (204 hk). Det maksimale drejningsmoment er 310 Nm. Den accelererer fra 0 til 100 km/t på 6,6 sekunder og når en topfart på 160 km/t, hvilket giver en ydelse, der minder mere om traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

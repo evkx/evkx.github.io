@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi Q4 50 e-tron quattro i seksjoner. Hvis du v
 
 ## Ytelse
 
-Med overboost har Audi Q4 50 e-tron quattro en maksimal effekt på 220 KW (299hk). Uten overboost er den 195KW (265hk). Dreiemomentet er 460 nm med overboost og 425 uten overboost. Den utfører sprinten 0-100 km/t på 6,2 sekunder med overboost og 6,9 sekunder uten overboost. Topphastigheten er 180 km/t.
+Med overboost oppnår Audi Q4 50 e-tron quattro en maksimal effekt på 220 kW (299 hk). Uten overboost leverer den 195 kW (265 hk). Maksimalt dreiemoment er 460 Nm. Den akselererer fra 0 til 100 km/t på 6,2 sekunder og når en toppfart på 180 km/t, og tilbyr ytelse som ligner mer på tradisjonelle forbrenningsmotorbiler.
 
 ## Batteri, rekkevidde og lading
 

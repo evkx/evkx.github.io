@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av SKODA ENYAQ RS iV (GEN1) i avsnitt. Om du vi
 
 ## Prestanda
 
-Med overboost har SKODA ENYAQ RS iV (GEN1) en maximal effekt på 220 KW (299hk). Utan overboost är det 195KW (265hp). Vridmomentet är 460 Nm med överboost och 425 utan överboost. Den gör sprinten 0-100 km/h på 6,5 sekunder med överboost och 6,9 sekunder utan överboost. Topphastigheten är 180 km/h.
+Med overboost når SKODA ENYAQ RS iV (GEN1) en maximal effekt på 220 kW (299 hk). Utan overboost levererar den 195 kW (265 hk). Det maximala vridmomentet är 460 Nm. Den accelererar från 0 till 100 km/h på 6,5 sekunder och når en topphastighet på 180 km/h, vilket ger prestanda som är mer lik traditionella förbränningsmotorbilar.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article CUPRA BORN 58 e-BOOST en sections. Si vous sou
 
 ## Performances
 
-Avec overboost, le CUPRA BORN 58 e-BOOST a une puissance maximale de 170 KW (231 ch / 228 ch). Sans overboost, il est de 150 KW (204 ch / 204 ch). Le couple est de 310 nm avec overboost et de 310 sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,6 secondes avec overboost et 7,3 secondes sans overboost. La vitesse maximale est de 160 km/h.
+Grâce à l'overboost, l'CUPRA BORN 58 e-BOOST atteint une puissance maximale de 170 kW (231 ch). Sans overboost, elle délivre 150 kW (204 ch). Le couple maximal est de 310 Nm. Elle accélère de 0 à 100 km/h en 6,6 secondes et atteint une vitesse maximale de 160 km/h, offrant des performances plus proches des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

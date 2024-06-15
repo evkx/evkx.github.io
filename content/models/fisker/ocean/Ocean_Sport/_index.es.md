@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Fisker Ocean Sport en secciones. Si desea esper
 
 ## Rendimiento
 
-Con overboost, el Fisker Ocean Sport tiene una potencia máxima de 209 KW (284 hp / 280 bhp). Sin overboost, es de 180 KW (245 CV / 245 CV). El par es 386 nm con overboost y 386 sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,9 segundos con overboost y  segundos sin overboost. La velocidad máxima es 188 km/h.
+Con overboost, el Fisker Ocean Sport alcanza una potencia máxima de 209 kW (284 hp). Sin overboost, ofrece 180 kW (245 hp). El par máximo es de 386 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y alcanza una velocidad máxima de 188 km/h, ofreciendo un rendimiento más similar a los vehículos tradicionales de motor de combustión interna.
 
 ## Batería, autonomía y carga
 
