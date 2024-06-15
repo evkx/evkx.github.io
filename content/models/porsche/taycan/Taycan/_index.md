@@ -44,7 +44,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 15 minutes with an average charging speed at 265 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 212 kW, with each charging session taking about 18 minutes and 32 seconds..
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 8 hours and 52 minutes. This trip will require two charge session(s) charging from 5% to 64%. The total time lost for charging up the battery will be 33 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 8 hours and 52 minutes. This journey would require two charging stops from 5% to 64%, with a total charging time of 33 minutes.
 ### Performance Battery
 
 The electric vehicle features a high-capacity battery with a gross capacity of 89 kWh and a net usable capacity of 83,6 kWh, providing an 5,4 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
@@ -53,7 +53,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 65%. This results in an effective charging speed, including time lost, of 165 kW, with each charging session taking about 19 minutes and 52 seconds..
 
-For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 7 minutes. This trip will require three charge session(s) charging from 4% to 55%. The total time lost for charging up the battery will be 47 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 7 minutes. This journey would require three charging stops from 4% to 55%, with a total charging time of 47 minutes.
 
 ### Onboard charger
 
