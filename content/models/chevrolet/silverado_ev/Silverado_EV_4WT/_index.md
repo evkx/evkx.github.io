@@ -37,7 +37,7 @@ The electric vehicle features a high-capacity battery with a gross capacity of 2
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 450 miles (724 km). The consumption is 2.1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 83 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 266 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 58%, resulting in an actual charge speed, including time loss, of 253kW. Each charge session would take 29 minutes and 1 seconds.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 83 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 266 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 58%. This results in an effective charging speed, including time lost, of 253 kW, with each charging session taking about 29 minutes and 1 seconds..
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 35kWh/100km, 1000km will take 8 hours and 52 minutes. This trip will require one charge session(s) charging from 0% to 63%. The total time lost for charging up the battery will be 32 minutes.
 

@@ -37,7 +37,7 @@ The electric vehicle features a high-capacity battery with a gross capacity of 5
 
 The [WLTP range](../../../../guides/understandingrange/wltp/) is 363 km (226 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 56 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 71 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 75kW. Each charge session would take 19 minutes and 47 seconds.
+The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 56 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 71 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 19 minutes and 47 seconds..
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21.5kWh/100km, 1000km will take 10 hours and 31 minutes. This trip will require seven charge session(s) charging from 0% to 45%. The total time lost for charging up the battery will be 132 minutes.
 

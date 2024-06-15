@@ -37,7 +37,7 @@ The electric vehicle features a high-capacity battery with a gross capacity of 7
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 10.4kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical charging scenario from 10% to 80% takes 25 minutes with an average charging speed at 124 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 72%, resulting in an actual charge speed, including time loss, of 108kW. Each charge session would take 28 minutes and 1 seconds.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical charging scenario from 10% to 80% takes 25 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 72%. This results in an effective charging speed, including time lost, of 108 kW, with each charging session taking about 28 minutes and 1 seconds..
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 16kWh/100km, 1000km will take 9 hours and 9 minutes. This trip will require two charge session(s) charging from 3% to 63%. The total time lost for charging up the battery will be 49 minutes.
 
