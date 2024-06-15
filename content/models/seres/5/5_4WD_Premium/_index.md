@@ -33,11 +33,11 @@ The Seres 5 4WD Premium packs an impressive punch with a maximum power of 430 kW
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 80kWh and a net capacity of 78kWh, meaning you have a 2kWh buffer for protection. (2.5%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The electric vehicle features a high-capacity battery with a gross capacity of 80 kWh and a net usable capacity of 78 kWh, providing an 2 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 483 km (300 mi). The consumption is 16.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 483 km (300 mi). The consumption is 16.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 91 minutes, while a more common scenario of 10-80% would take 41 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 61%, resulting in an actual charge speed, including time loss, of 79kW. Each charge session would take 32 minutes and 51 seconds.
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 91 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 79 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 61%, resulting in an actual charge speed, including time loss, of 79kW. Each charge session would take 32 minutes and 51 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 10 hours and 32 minutes. This trip will require four charge session(s) charging from 6% to 62%. The total time lost for charging up the battery will be 132 minutes.
 

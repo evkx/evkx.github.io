@@ -33,11 +33,11 @@ The XPENG G3i offers modest performance with a maximum power of 145 kW (197 hp /
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 66kWh and a net capacity of 55,9kWh, meaning you have a 10,1kWh buffer for protection. (15.3%).
+The electric vehicle features a high-capacity battery with a gross capacity of 66 kWh and a net usable capacity of 55,9 kWh, providing an 10,1 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 420 km (261 mi). The consumption is 13.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 420 km (261 mi). The consumption is 13.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 89 minutes, while a more common scenario of 10-80% would take 51 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 79%, resulting in an actual charge speed, including time loss, of 42kW. Each charge session would take 57 minutes and 43 seconds.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 89 minutes, while a more typical charging scenario from 10% to 80% takes 51 minutes with an average charging speed at 46 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 79%, resulting in an actual charge speed, including time loss, of 42kW. Each charge session would take 57 minutes and 43 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 12 hours and 59 minutes. This trip will require five charge session(s) charging from 9% to 79%. The total time lost for charging up the battery will be 280 minutes.
 

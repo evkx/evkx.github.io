@@ -33,11 +33,11 @@ The Xiaomi SU7 offers modest performance with a maximum power of 220 kW (299 hp 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 73,6kWh and a net capacity of 73kWh, meaning you have a 0,6kWh buffer for protection. (0.8%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The electric vehicle features a high-capacity battery with a gross capacity of 73,6 kWh and a net usable capacity of 73 kWh, providing an 0,6 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 10.4kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 10.4kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 25 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 72%, resulting in an actual charge speed, including time loss, of 108kW. Each charge session would take 28 minutes and 1 seconds.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical charging scenario from 10% to 80% takes 25 minutes with an average charging speed at 124 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 72%, resulting in an actual charge speed, including time loss, of 108kW. Each charge session would take 28 minutes and 1 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 16kWh/100km, 1000km will take 9 hours and 9 minutes. This trip will require two charge session(s) charging from 3% to 63%. The total time lost for charging up the battery will be 49 minutes.
 

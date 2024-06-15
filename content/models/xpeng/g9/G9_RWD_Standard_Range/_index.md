@@ -33,11 +33,11 @@ The XPENG G9 RWD Standard Range offers modest performance with a maximum power o
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 78,2kWh and a net capacity of 75kWh, meaning you have a 3,2kWh buffer for protection. (4.1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The electric vehicle features a high-capacity battery with a gross capacity of 78,2 kWh and a net usable capacity of 75 kWh, providing an 3,2 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 460 km (286 mi). The consumption is 16.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 460 km (286 mi). The consumption is 16.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 45 minutes, while a more common scenario of 10-80% would take 21 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 54%, resulting in an actual charge speed, including time loss, of 144kW. Each charge session would take 17 minutes and 30 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical charging scenario from 10% to 80% takes 21 minutes with an average charging speed at 150 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 54%, resulting in an actual charge speed, including time loss, of 144kW. Each charge session would take 17 minutes and 30 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 33 minutes. This trip will require five charge session(s) charging from 1% to 48%. The total time lost for charging up the battery will be 74 minutes.
 

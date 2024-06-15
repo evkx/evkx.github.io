@@ -33,11 +33,11 @@ The HiPhi Z 4 Seater packs an impressive punch with a maximum power of 494 kW (6
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 113kWh, meaning you have a 7kWh buffer for protection. (5.8%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The electric vehicle features a high-capacity battery with a gross capacity of 120 kWh and a net usable capacity of 113 kWh, providing an 7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 555 km (345 mi). The consumption is 20.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 555 km (345 mi). The consumption is 20.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 92 minutes, while a more common scenario of 10-80% would take 47 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 48%, resulting in an actual charge speed, including time loss, of 103kW. Each charge session would take 29 minutes and 59 seconds.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 92 minutes, while a more typical charging scenario from 10% to 80% takes 47 minutes with an average charging speed at 100 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 48%, resulting in an actual charge speed, including time loss, of 103kW. Each charge session would take 29 minutes and 59 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 9 hours and 58 minutes. This trip will require four charge session(s) charging from 5% to 42%. The total time lost for charging up the battery will be 98 minutes.
 

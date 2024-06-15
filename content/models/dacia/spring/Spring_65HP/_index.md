@@ -33,11 +33,11 @@ The Dacia Spring 65HP kWh provides basic performance with a maximum power of 48 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 26,8kWh and a net capacity of 25kWh, meaning you have a 1,8kWh buffer for protection. (6.7%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The electric vehicle features a high-capacity battery with a gross capacity of 26,8 kWh and a net usable capacity of 25 kWh, providing an 1,8 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 220 km (137 mi). The consumption is 11.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 220 km (137 mi). The consumption is 11.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 30kW. A full charge from 0 - 100% would take 80 minutes, while a more common scenario of 10-80% would take 40 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 67%, resulting in an actual charge speed, including time loss, of 25kW. Each charge session would take 39 minutes and 30 seconds.
+The vehicle supports fast DC charging with a maximum power of 30 kW. Charging from 0% to 100% takes approximately 80 minutes, while a more typical charging scenario from 10% to 80% takes 40 minutes with an average charging speed at 26 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 67%, resulting in an actual charge speed, including time loss, of 25kW. Each charge session would take 39 minutes and 30 seconds.
 
 ### Onboard charger
 

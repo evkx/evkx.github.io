@@ -33,11 +33,11 @@ The Genesis Electrified GV70 delivers a solid performance with a maximum power o
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77,4kWh and a net capacity of 74kWh, meaning you have a 3,4kWh buffer for protection. (4.4%).
+The electric vehicle features a high-capacity battery with a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 470 km (292 mi). The consumption is 15.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 470 km (292 mi). The consumption is 15.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 38 minutes, while a more common scenario of 10-80% would take 16 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76%, resulting in an actual charge speed, including time loss, of 152kW. Each charge session would take 22 minutes and 59 seconds.
+The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical charging scenario from 10% to 80% takes 16 minutes with an average charging speed at 192 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76%, resulting in an actual charge speed, including time loss, of 152kW. Each charge session would take 22 minutes and 59 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24kWh/100km, 1000km will take 9 hours and 25 minutes. This trip will require three charge session(s) charging from 1% to 76%. The total time lost for charging up the battery will be 66 minutes.
 

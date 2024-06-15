@@ -33,11 +33,11 @@ The Volvo EX30 Single Motor offers modest performance with a maximum power of 20
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 51kWh and a net capacity of 49kWh, meaning you have a 2kWh buffer for protection. (3.9%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The electric vehicle features a high-capacity battery with a gross capacity of 51 kWh and a net usable capacity of 49 kWh, providing an 2 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 344 km (214 mi). The consumption is 14.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 344 km (214 mi). The consumption is 14.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 153kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 24 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 56%, resulting in an actual charge speed, including time loss, of 84kW. Each charge session would take 18 minutes and 15 seconds.
+The vehicle supports fast DC charging with a maximum power of 153 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical charging scenario from 10% to 80% takes 24 minutes with an average charging speed at 87 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 56%, resulting in an actual charge speed, including time loss, of 84kW. Each charge session would take 18 minutes and 15 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 28kWh/100km, 1000km will take 11 hours and 7 minutes. This trip will require eight charge session(s) charging from 3% to 62%. The total time lost for charging up the battery will be 167 minutes.
 

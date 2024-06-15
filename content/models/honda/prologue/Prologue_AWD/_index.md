@@ -33,11 +33,11 @@ The Honda Prologue AWD offers modest performance with a maximum power of 214 kW 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 89kWh and a net capacity of 85kWh, meaning you have a 4kWh buffer for protection. (4.5%).
+The electric vehicle features a high-capacity battery with a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
 
-The [EPA range](../../../../guides/understandingrange/epa/) varies from 281 to 273 miles (452-439 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 3.3mi/kWh for the basic version and 3.2mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) varies from 281 to 273 miles (452-439 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 3.3mi/kWh for the basic version and 3.2mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 150kW. A full charge from 0 - 100% would take 66 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 56%, resulting in an actual charge speed, including time loss, of 102kW. Each charge session would take 25 minutes and 56 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 113 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 56%, resulting in an actual charge speed, including time loss, of 102kW. Each charge session would take 25 minutes and 56 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 9 hours and 57 minutes. This trip will require four charge session(s) charging from 6% to 55%. The total time lost for charging up the battery will be 98 minutes.
 

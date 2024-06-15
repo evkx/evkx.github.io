@@ -33,11 +33,11 @@ With overboost, the Hyundai Ioniq 5 N reaches a maximum power of 478 kW (650 hp 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 84kWh and a net capacity of 80kWh, meaning you have a 4kWh buffer for protection. (4.8%).
+The electric vehicle features a high-capacity battery with a gross capacity of 84 kWh and a net usable capacity of 80 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 450 km (280 mi). The consumption is 17.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 450 km (280 mi). The consumption is 17.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 233kW. A full charge from 0 - 100% would take 41 minutes, while a more common scenario of 10-80% would take 18 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76%, resulting in an actual charge speed, including time loss, of 154kW. Each charge session would take 23 minutes and 21 seconds.
+The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 41 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 192 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 76%, resulting in an actual charge speed, including time loss, of 154kW. Each charge session would take 23 minutes and 21 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 26kWh/100km, 1000km will take 9 hours and 30 minutes. This trip will require three charge session(s) charging from 1% to 76%. The total time lost for charging up the battery will be 70 minutes.
 

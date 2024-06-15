@@ -33,11 +33,11 @@ The Cadillac ESCALADE IQ packs an impressive punch with a maximum power of 560 k
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 215kWh and a net capacity of 200kWh, meaning you have a 15kWh buffer for protection. (7.0%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The electric vehicle features a high-capacity battery with a gross capacity of 215 kWh and a net usable capacity of 200 kWh, providing an 15 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 450 miles (724 km). The consumption is 2.3mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) is 450 miles (724 km). The consumption is 2.3mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 130 minutes, while a more common scenario of 10-80% would take 45 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 53%, resulting in an actual charge speed, including time loss, of 242kW. Each charge session would take 26 minutes and 49 seconds.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 130 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed at 186 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 53%, resulting in an actual charge speed, including time loss, of 242kW. Each charge session would take 26 minutes and 49 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 35kWh/100km, 1000km will take 8 hours and 58 minutes. This trip will require two charge session(s) charging from 1% to 39%. The total time lost for charging up the battery will be 39 minutes.
 

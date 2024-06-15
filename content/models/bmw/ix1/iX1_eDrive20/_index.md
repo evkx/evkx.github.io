@@ -33,11 +33,11 @@ The BMW iX1 eDrive20 offers modest performance with a maximum power of 150 kW (2
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 68kWh and a net capacity of 64,7kWh, meaning you have a 3,3kWh buffer for protection. (4.9%).
+The electric vehicle features a high-capacity battery with a gross capacity of 68 kWh and a net usable capacity of 64,7 kWh, providing an 3,3 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 475 to 430 km (295-267 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.6kWh/100km for the basic version and 15.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 475 to 430 km (295-267 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.6 kWh/100 km for the base model and 15.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 33 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51%, resulting in an actual charge speed, including time loss, of 85kW. Each charge session would take 23 minutes and 55 seconds.
+The vehicle supports fast DC charging with a maximum power of 130 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 33 minutes with an average charging speed at 83 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 51%, resulting in an actual charge speed, including time loss, of 85kW. Each charge session would take 23 minutes and 55 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 10 hours and 12 minutes. This trip will require five charge session(s) charging from 1% to 50%. The total time lost for charging up the battery will be 112 minutes.
 

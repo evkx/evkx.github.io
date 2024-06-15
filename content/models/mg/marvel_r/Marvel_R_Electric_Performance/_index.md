@@ -33,11 +33,11 @@ The MG Marvel R Electric Performance offers modest performance with a maximum po
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 75kWh and a net capacity of 70kWh, meaning you have a 5kWh buffer for protection. (6.7%).
+The electric vehicle features a high-capacity battery with a gross capacity of 75 kWh and a net usable capacity of 70 kWh, providing an 5 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 370 km (230 mi). The consumption is 18.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 370 km (230 mi). The consumption is 18.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 94kW. A full charge from 0 - 100% would take 114 minutes, while a more common scenario of 10-80% would take 43 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 61%, resulting in an actual charge speed, including time loss, of 63kW. Each charge session would take 35 minutes and 7 seconds.
+The vehicle supports fast DC charging with a maximum power of 94 kW. Charging from 0% to 100% takes approximately 114 minutes, while a more typical charging scenario from 10% to 80% takes 43 minutes with an average charging speed at 69 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 8% to 61%, resulting in an actual charge speed, including time loss, of 63kW. Each charge session would take 35 minutes and 7 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 24.5kWh/100km, 1000km will take 11 hours and 6 minutes. This trip will require five charge session(s) charging from 9% to 59%. The total time lost for charging up the battery will be 166 minutes.
 

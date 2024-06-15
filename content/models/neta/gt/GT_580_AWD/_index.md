@@ -33,11 +33,11 @@ The Neta GT 580 AWD delivers a solid performance with a maximum power of 340 kW 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 78kWh and a net capacity of 75kWh, meaning you have a 3kWh buffer for protection. (3.8%).
+The electric vehicle features a high-capacity battery with a gross capacity of 78 kWh and a net usable capacity of 75 kWh, providing an 3 kWh buffer (3.6%) for battery protection.
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 580 km ( miles). The consumption is 12.9kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [CLTC range](../../../../guides/understandingrange/cltc/) is 580 km ( miles). The consumption is 12.9kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 120kW. A full charge from 0 - 100% would take 61 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 76%, resulting in an actual charge speed, including time loss, of 90kW. Each charge session would take 36 minutes and 6 seconds.
+The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 102 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 76%, resulting in an actual charge speed, including time loss, of 90kW. Each charge session would take 36 minutes and 6 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 10 hours and 3 minutes. This trip will require three charge session(s) charging from 5% to 74%. The total time lost for charging up the battery will be 104 minutes.
 

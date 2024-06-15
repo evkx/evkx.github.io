@@ -33,11 +33,11 @@ The Volkswagen ID.5 Pro offers modest performance with a maximum power of 210 kW
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 77kWh, meaning you have a 5kWh buffer for protection. (6.1%).
+The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 556 km (346 mi). The consumption is 13.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 556 km (346 mi). The consumption is 13.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 35 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 19 minutes and 43 seconds.
+The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed at 94 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 43%, resulting in an actual charge speed, including time loss, of 101kW. Each charge session would take 19 minutes and 43 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 46 minutes. This trip will require four charge session(s) charging from 2% to 49%. The total time lost for charging up the battery will be 86 minutes.
 

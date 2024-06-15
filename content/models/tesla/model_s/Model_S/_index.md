@@ -33,11 +33,11 @@ The Tesla Model S packs an impressive punch with a maximum power of 493 kW (670 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 104,96kWh and a net capacity of 96kWh, meaning you have a 8,96kWh buffer for protection. (8.5%).
+The electric vehicle features a high-capacity battery with a gross capacity of 104,96 kWh and a net usable capacity of 96 kWh, providing an 8,96 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 649 to 634 km (403-394 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.8kWh/100km for the basic version and 15.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 649 to 634 km (403-394 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.8 kWh/100 km for the base model and 15.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 80 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 47%, resulting in an actual charge speed, including time loss, of 143kW. Each charge session would take 16 minutes and 9 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 80 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 132 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 7% to 47%, resulting in an actual charge speed, including time loss, of 143kW. Each charge session would take 16 minutes and 9 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.7kWh/100km, 1000km will take 9 hours and 3 minutes. This trip will require three charge session(s) charging from 8% to 44%. The total time lost for charging up the battery will be 44 minutes.
 

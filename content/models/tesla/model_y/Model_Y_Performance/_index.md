@@ -33,11 +33,11 @@ The Tesla Model Y Performance delivers a solid performance with a maximum power 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 75kWh, meaning you have a 7kWh buffer for protection. (8.5%).
+The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 75 kWh, providing an 7 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 514 km (320 mi). The consumption is 14.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 514 km (320 mi). The consumption is 14.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 250kW. A full charge from 0 - 100% would take 62 minutes, while a more common scenario of 10-80% would take 31 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 46%, resulting in an actual charge speed, including time loss, of 109kW. Each charge session would take 17 minutes and 55 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 101 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 46%, resulting in an actual charge speed, including time loss, of 109kW. Each charge session would take 17 minutes and 55 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.5kWh/100km, 1000km will take 9 hours and 26 minutes. This trip will require four charge session(s) charging from 5% to 45%. The total time lost for charging up the battery will be 66 minutes.
 

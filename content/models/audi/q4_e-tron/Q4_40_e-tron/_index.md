@@ -39,11 +39,11 @@ The Audi Q4 40 e-tron offers modest performance with a maximum power of 160 kW (
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 82kWh and a net capacity of 76,6kWh, meaning you have a 5,4kWh buffer for protection. (6.6%).
+The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 76,6 kWh, providing an 5,4 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 521 to 447 km (324-278 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 14.7kWh/100km for the basic version and 17.1kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 521 to 447 km (324-278 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.7 kWh/100 km for the base model and 17.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 65 minutes, while a more common scenario of 10-80% would take 36 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53%, resulting in an actual charge speed, including time loss, of 89kW. Each charge session would take 24 minutes and 11 seconds.
+The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 36 minutes with an average charging speed at 90 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 53%, resulting in an actual charge speed, including time loss, of 89kW. Each charge session would take 24 minutes and 11 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 22kWh/100km, 1000km will take 9 hours and 56 minutes. This trip will require four charge session(s) charging from 6% to 53%. The total time lost for charging up the battery will be 97 minutes.
 

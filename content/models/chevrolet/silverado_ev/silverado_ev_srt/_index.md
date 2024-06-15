@@ -33,11 +33,11 @@ The Chevrolet Silverado EV SRT packs an impressive punch with a maximum power of
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 240kWh and a net capacity of 215kWh, meaning you have a 25kWh buffer for protection. (10.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The electric vehicle features a high-capacity battery with a gross capacity of 240 kWh and a net usable capacity of 215 kWh, providing an 25 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km). The consumption is 2.0mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km). The consumption is 2.0mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 350kW. A full charge from 0 - 100% would take 140 minutes, while a more common scenario of 10-80% would take 49 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 52%, resulting in an actual charge speed, including time loss, of 245kW. Each charge session would take 27 minutes and 51 seconds.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 140 minutes, while a more typical charging scenario from 10% to 80% takes 49 minutes with an average charging speed at 186 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 1% to 52%, resulting in an actual charge speed, including time loss, of 245kW. Each charge session would take 27 minutes and 51 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 38kWh/100km, 1000km will take 9 hours and 1 minutes. This trip will require two charge session(s) charging from 1% to 40%. The total time lost for charging up the battery will be 42 minutes.
 

@@ -33,11 +33,11 @@ The Peugot E-208 offers modest performance with a maximum power of 115 kW (156 h
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 51kWh and a net capacity of 48,1kWh, meaning you have a 2,9kWh buffer for protection. (5.7%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The electric vehicle features a high-capacity battery with a gross capacity of 51 kWh and a net usable capacity of 48,1 kWh, providing an 2,9 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 12.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 12.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 54 minutes, while a more common scenario of 10-80% would take 27 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 57%, resulting in an actual charge speed, including time loss, of 65kW. Each charge session would take 23 minutes and 23 seconds.
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 74 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 4% to 57%, resulting in an actual charge speed, including time loss, of 65kW. Each charge session would take 23 minutes and 23 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 25kWh/100km, 1000km will take 11 hours and 26 minutes. This trip will require seven charge session(s) charging from 3% to 63%. The total time lost for charging up the battery will be 186 minutes.
 

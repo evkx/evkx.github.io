@@ -33,11 +33,11 @@ The Rivian R1S Performance Dual-Motor AWD MP packs an impressive punch with a ma
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 149kWh and a net capacity of 142,3kWh, meaning you have a 6,7kWh buffer for protection. (4.5%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The electric vehicle features a high-capacity battery with a gross capacity of 149 kWh and a net usable capacity of 142,3 kWh, providing an 6,7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 410 miles (660 km). The consumption is 2.9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [EPA range](../../../../guides/understandingrange/epa/) is 410 miles (660 km). The consumption is 2.9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is kW. A full charge from 0 - 100% would take 119 minutes, while a more common scenario of 10-80% would take 48 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 141kW. Each charge session would take 27 minutes and 12 seconds.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 119 minutes, while a more typical charging scenario from 10% to 80% takes 48 minutes with an average charging speed at 125 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 45%, resulting in an actual charge speed, including time loss, of 141kW. Each charge session would take 27 minutes and 12 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 30kWh/100km, 1000km will take 9 hours and 28 minutes. This trip will require three charge session(s) charging from 0% to 37%. The total time lost for charging up the battery will be 68 minutes.
 

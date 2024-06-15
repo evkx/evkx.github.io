@@ -33,11 +33,11 @@ With overboost, the Fisker Ocean Sport achieves a maximum power of 209 kW (284 h
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 73kWh and a net capacity of 70kWh, meaning you have a 3kWh buffer for protection. (4.1%). The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The electric vehicle features a high-capacity battery with a gross capacity of 73 kWh and a net usable capacity of 70 kWh, providing an 3 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 464 km (288 mi). The consumption is 15.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 464 km (288 mi). The consumption is 15.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 125kW. A full charge from 0 - 100% would take 59 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 30 minutes and 40 seconds.
+The vehicle supports fast DC charging with a maximum power of 125 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 91 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 2% to 63%, resulting in an actual charge speed, including time loss, of 86kW. Each charge session would take 30 minutes and 40 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 29kWh/100km, 1000km will take 10 hours and 53 minutes. This trip will require five charge session(s) charging from 1% to 64%. The total time lost for charging up the battery will be 154 minutes.
 

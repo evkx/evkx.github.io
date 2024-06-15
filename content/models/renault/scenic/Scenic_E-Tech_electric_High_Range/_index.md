@@ -33,11 +33,11 @@ The Renault Scenic E-Tech electric High Range offers modest performance with a m
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 91kWh and a net capacity of 87kWh, meaning you have a 4kWh buffer for protection. (4.4%).
+The electric vehicle features a high-capacity battery with a gross capacity of 91 kWh and a net usable capacity of 87 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) varies from 625 to 622 km (388-387 mi), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 13.9kWh/100km for the basic version and 14.0kWh/100km for the top trim version for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 625 to 622 km (388-387 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.9 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 130kW. A full charge from 0 - 100% would take 63 minutes, while a more common scenario of 10-80% would take 34 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 59%, resulting in an actual charge speed, including time loss, of 98kW. Each charge session would take 28 minutes and 18 seconds.
+The vehicle supports fast DC charging with a maximum power of 130 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 107 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 6% to 59%, resulting in an actual charge speed, including time loss, of 98kW. Each charge session would take 28 minutes and 18 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 23kWh/100km, 1000km will take 9 hours and 48 minutes. This trip will require three charge session(s) charging from 6% to 61%. The total time lost for charging up the battery will be 88 minutes.
 

@@ -33,11 +33,11 @@ The MG MG4 Electric Extended Range offers modest performance with a maximum powe
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 77kWh and a net capacity of 74,4kWh, meaning you have a 2,6kWh buffer for protection. (3.4%). The Lithium-Ion battery uses [NMC technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The electric vehicle features a high-capacity battery with a gross capacity of 77 kWh and a net usable capacity of 74,4 kWh, providing an 2,6 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 101 minutes, while a more common scenario of 10-80% would take 32 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 58%, resulting in an actual charge speed, including time loss, of 100kW. Each charge session would take 25 minutes and 33 seconds.
+The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 101 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 96 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 3% to 58%, resulting in an actual charge speed, including time loss, of 100kW. Each charge session would take 25 minutes and 33 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 21kWh/100km, 1000km will take 9 hours and 43 minutes. This trip will require three charge session(s) charging from 2% to 63%. The total time lost for charging up the battery will be 83 minutes.
 

@@ -33,11 +33,11 @@ The Hongqi E-HS9 Exclusive+ packs an impressive punch with a maximum power of 40
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 120kWh and a net capacity of 110kWh, meaning you have a 10kWh buffer for protection. (8.3%).
+The electric vehicle features a high-capacity battery with a gross capacity of 120 kWh and a net usable capacity of 110 kWh, providing an 10 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 515 km (320 mi). The consumption is 21.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 515 km (320 mi). The consumption is 21.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 135kW. A full charge from 0 - 100% would take 114 minutes, while a more common scenario of 10-80% would take 62 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 39%, resulting in an actual charge speed, including time loss, of 87kW. Each charge session would take 30 minutes and 35 seconds.
+The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 114 minutes, while a more typical charging scenario from 10% to 80% takes 62 minutes with an average charging speed at 74 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 0% to 39%, resulting in an actual charge speed, including time loss, of 87kW. Each charge session would take 30 minutes and 35 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 32kWh/100km, 1000km will take 10 hours and 46 minutes. This trip will require six charge session(s) charging from 1% to 33%. The total time lost for charging up the battery will be 147 minutes.
 

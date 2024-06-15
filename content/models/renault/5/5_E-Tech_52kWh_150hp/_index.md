@@ -33,11 +33,11 @@ The Renault 5 E-Tech 52kWh 150hp offers modest performance with a maximum power 
 
 ## Battery, range, and charging
 
-The battery has a gross capacity of 55kWh and a net capacity of 52kWh, meaning you have a 3kWh buffer for protection. (5.5%).
+The electric vehicle features a high-capacity battery with a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing an 3 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 13.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model's [range and consumption](rangeandconsumption/) page.
+The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 13.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The maximum DC charging speed is 100kW. A full charge from 0 - 100% would take 68 minutes, while a more common scenario of 10-80% would take 29 minutes. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 58%, resulting in an actual charge speed, including time loss, of 69kW. Each charge session would take 24 minutes and 2 seconds.
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 68 minutes, while a more typical charging scenario from 10% to 80% takes 29 minutes with an average charging speed at 75 kW. If you assume you lose 5 minutes driving per charge stop in addition to the charge time, the optimum charge area is from 5% to 58%, resulting in an actual charge speed, including time loss, of 69kW. Each charge session would take 24 minutes and 2 seconds.
 
 For the theoretical 1000km challenge, starting with a full battery and driving at 120km/h (75 mph), assuming optimal driving conditions and consumption of 19.9kWh/100km, 1000km will take 10 hours and 29 minutes. This trip will require five charge session(s) charging from 4% to 61%. The total time lost for charging up the battery will be 130 minutes.
 
