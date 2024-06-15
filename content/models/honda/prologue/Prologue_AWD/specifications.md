@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				1588 kg (3501 lbs)
+				680 kg (1499 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				680 kg (1499 lbs)
 			</td>
 		</tr>
 	</tbody>

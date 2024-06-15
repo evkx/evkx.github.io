@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Mini Cooper SE i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Mini Cooper SE har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 330 nm. Den utfører sprinten 0-100 km/t på  sekunder.
+Mini Cooper SE tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (218 hk) og et totalt dreiemoment på 330 Nm. Den akselererer fra 0 til 100 km/t på 6,7 sekunder og har en toppfart på 170 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av HiPhi X 4 Seater i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-HiPhi X 4 Seater har en maximal effekt på 433 KW (589hk). Totalt vridmoment är 820 Nm. Den gör sprinten 0-100 km/h på 3,9 sekunder.
+HiPhi X 4 Seater imponerar med en imponerande kraft på 433 kW (589 hk) och ett imponerande totalt vridmoment på 820 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 

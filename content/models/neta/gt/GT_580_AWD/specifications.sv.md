@@ -44,6 +44,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för Neta GT 580 AWD. Klick
 		</tr>
 		<tr>
 			<td>
+				Topphastighet
+			</td>
+			<td>
+				190 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>

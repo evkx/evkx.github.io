@@ -29,7 +29,7 @@ We have separated our HiPhi Y Performance article into sections. If you want to 
 
 ## Performance
 
-The HiPhi Y Performance has a maximum power of 371 KW (504 hp/498 bhp) and a total torque of 620 nm (458 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.7 seconds
+The HiPhi Y Performance delivers a solid performance with a maximum power of 371 kW (504 hp / 498 bhp) and a total torque of 620 Nm (458 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

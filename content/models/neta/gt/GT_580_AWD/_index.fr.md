@@ -29,7 +29,7 @@ Nous avons séparé notre article Neta GT 580 AWD en sections. Si vous souhaitez
 
 ## Performances
 
-Le Neta GT 580 AWD a une puissance maximale de 340 KW (462 ch/456 ch). Le couple total est de 620 nm (458 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,7 secondes.
+La Neta GT 580 AWD offre des performances solides avec une puissance maximale de 340 kW (462 ch) et un couple total de 620 Nm. Elle peut accélérer de 0 à 100 km/h en 3,7 secondes et atteindre une vitesse maximale de 190 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

@@ -198,7 +198,7 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 Lagekapaciteten i bagagerummet er 793 liter. Med bagsædet nede er det 1723 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1588, og på ubremset er den 750 kg (3501/1653 lbs).
+Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 680, og på ubremset er den 680 kg (1499/1499 lbs).
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/trunk_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2001"  >}}

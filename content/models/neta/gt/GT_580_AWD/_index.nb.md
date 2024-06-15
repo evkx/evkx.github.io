@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Neta GT 580 AWD i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Neta GT 580 AWD har en maksimal effekt på 340 KW (462hk). Totalt dreiemoment er 620 nm. Den utfører sprinten 0-100 km/t på 3,7 sekunder.
+Neta GT 580 AWD leverer solid ytelse med en maksimal effekt på 340 kW (462 hk) og et totalt dreiemoment på 620 Nm. Den kan akselerere fra 0 til 100 km/t på 3,7 sekunder og når en topphastighet på 190 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

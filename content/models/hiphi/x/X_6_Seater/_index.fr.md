@@ -29,7 +29,7 @@ Nous avons séparé notre article HiPhi X 6 Seater en sections. Si vous souhaite
 
 ## Performances
 
-Le HiPhi X 6 Seater a une puissance maximale de 433 KW (589 ch/581 ch). Le couple total est de 820 nm (605 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,9 secondes.
+La HiPhi X 6 Seater impressionne avec une puissance maximale de 433 kW (589 ch) et un couple total impressionnant de 820 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,9 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

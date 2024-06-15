@@ -29,7 +29,7 @@ We have separated our HiPhi X 6 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi X 6 Seater has a maximum power of 433 KW (589 hp/581 bhp) and a total torque of 820 nm (605 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.9 seconds
+The HiPhi X 6 Seater packs an impressive punch with a maximum power of 433 kW (589 hp / 581 bhp) and a commanding total torque of 820 Nm (605 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

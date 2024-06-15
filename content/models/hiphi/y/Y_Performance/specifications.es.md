@@ -44,6 +44,14 @@ EVKX.net busca tener las especificaciones más completas para HiPhi Y Performanc
 		</tr>
 		<tr>
 			<td>
+				Velocidad máxima
+			</td>
+			<td>
+				200 kph (124 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>

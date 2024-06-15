@@ -42,6 +42,22 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mini Coop
 				330 nm (244 ft-lb)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vitesse maximale
+			</td>
+			<td>
+				170 km/h (106 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				6,7 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 

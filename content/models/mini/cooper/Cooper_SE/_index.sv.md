@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Mini Cooper SE i avsnitt. Om du vill vänta 
 
 ## Prestanda
 
-Mini Cooper SE har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 330 Nm. Den gör sprinten 0-100 km/h på  sekunder.
+Mini Cooper SE erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 330 Nm. Den accelererar från 0 till 100 km/h på 6,7 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

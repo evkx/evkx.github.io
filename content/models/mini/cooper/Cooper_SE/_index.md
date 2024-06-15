@@ -29,7 +29,7 @@ We have separated our Mini Cooper SE article into sections. If you want to wait 
 
 ## Performance
 
-The Mini Cooper SE has a maximum power of 160 KW (218 hp/215 bhp) and a total torque of 330 nm (244 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in  seconds
+The Mini Cooper SE offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 330 Nm (244 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

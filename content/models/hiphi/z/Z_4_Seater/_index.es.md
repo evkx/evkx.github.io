@@ -29,7 +29,7 @@ Hemos separado nuestro artículo HiPhi Z 4 Seater en secciones. Si desea esperar
 
 ## Rendimiento
 
-El HiPhi Z 4 Seater tiene una potencia máxima de 494 KW (672 hp/663 bhp). El par total es 820 nm (605 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,8 segundos.
+El HiPhi Z 4 Seater impresiona con una potencia máxima de 494 kW (672 hp) y un impresionante par total de 820 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,8 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

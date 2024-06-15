@@ -198,7 +198,7 @@ With the   level 1 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 793 liters. With the rear seat down, it is 1723 liters.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, it is 750 kg (3501/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 680, and on unbraked, it is 680 kg (1499/1499 lbs).
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/trunk_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2001"  >}}

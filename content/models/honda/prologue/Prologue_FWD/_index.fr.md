@@ -198,7 +198,7 @@ Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisa
 
 La capacité de chargement dans le coffre est de 793 litres. Avec la banquette arrière rabattue, elle est de 1723 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1588, et sur une remorque non freinée, il est de 750 kg (3501/1653 lbs).
+Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 680, et sur une remorque non freinée, il est de 680 kg (1499/1499 lbs).
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/trunk_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2001"  >}}

@@ -44,6 +44,14 @@ EVKX.net seeks to have the most complete specifications for HiPhi X 4 Seater. Cl
 		</tr>
 		<tr>
 			<td>
+				Top speed
+			</td>
+			<td>
+				200 kph (124 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph)
 			</td>
 			<td>

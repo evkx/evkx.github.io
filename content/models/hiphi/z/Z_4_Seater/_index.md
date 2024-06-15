@@ -29,7 +29,7 @@ We have separated our HiPhi Z 4 Seater article into sections. If you want to wai
 
 ## Performance
 
-The HiPhi Z 4 Seater has a maximum power of 494 KW (672 hp/663 bhp) and a total torque of 820 nm (605 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 3.8 seconds
+The HiPhi Z 4 Seater packs an impressive punch with a maximum power of 494 kW (672 hp / 663 bhp) and a commanding total torque of 820 Nm (605 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 

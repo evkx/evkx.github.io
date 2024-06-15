@@ -42,6 +42,22 @@ EVKX.net busca tener las especificaciones más completas para Mini Cooper SE. Ha
 				330 nm (244 pies-libra)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Velocidad máxima
+			</td>
+			<td>
+				170 kph (106 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				6,7 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 

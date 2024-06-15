@@ -42,6 +42,22 @@ EVKX.net seeks to have the most complete specifications for Mini Cooper SE. Clic
 				330 nm (244 ft-lb)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Top speed
+			</td>
+			<td>
+				170 kph (106 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				6,7 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article Mini Cooper SE en sections. Si vous souhaitez 
 
 ## Performances
 
-Le Mini Cooper SE a une puissance maximale de 160 KW (218 ch/215 ch). Le couple total est de 330 nm (244 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en  secondes.
+L'Mini Cooper SE offre des performances modestes avec une puissance maximale de 160 kW (218 ch) et un couple total de 330 Nm. Il accélère de 0 à 100 km/h en 6,7 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

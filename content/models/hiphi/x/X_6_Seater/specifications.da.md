@@ -44,6 +44,14 @@ EVKX.net søger at have de mest komplette specifikationer for HiPhi X 6 Seater. 
 		</tr>
 		<tr>
 			<td>
+				Tophastighed
+			</td>
+			<td>
+				200 km/t (124 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>

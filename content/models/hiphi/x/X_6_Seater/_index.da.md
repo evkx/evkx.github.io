@@ -29,7 +29,7 @@ Vi har opdelt vores HiPhi X 6 Seater artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-HiPhi X 6 Seater har en maksimal effekt på 433 KW (589 hk/581 hk). Det samlede drejningsmoment er 820 nm (605 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 3,9 sekunder.
+HiPhi X 6 Seater imponerer med en maksimal effekt på 433 kW (589 hk) og et imponerende samlet drejningsmoment på 820 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,9 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

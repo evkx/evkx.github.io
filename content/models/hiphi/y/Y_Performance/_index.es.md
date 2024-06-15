@@ -29,7 +29,7 @@ Hemos separado nuestro artículo HiPhi Y Performance en secciones. Si desea espe
 
 ## Rendimiento
 
-El HiPhi Y Performance tiene una potencia máxima de 371 KW (504 hp/498 bhp). El par total es 620 nm (458 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,7 segundos.
+El HiPhi Y Performance ofrece un rendimiento sólido con una potencia máxima de 371 kW (504 hp) y un par total de 620 Nm. Puede acelerar de 0 a 100 km/h en 4,7 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

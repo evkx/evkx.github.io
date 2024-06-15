@@ -198,7 +198,7 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 
 Lastkapaciteten i bagageutrymmet är 793 liter. Med baksätet nedfällt är det 1723 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1588, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 680, och på en obromsad är den 680 kg.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/trunk_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2001"  >}}

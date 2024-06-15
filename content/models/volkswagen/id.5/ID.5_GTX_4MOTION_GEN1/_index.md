@@ -35,7 +35,7 @@ This model has been replaced by [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen
 
 ## Performance
 
-With overboost, the Volkswagen ID.5 GTX 4MOTION (GEN1) reaches a maximum power of 220 kW (299 hp / 295 bhp). Without overboost, it delivers 195 kW (265 hp / 262 bhp). The maximum torque is 460 Nm (339 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.3 seconds and reaches a top speed of 180 km/h (112 mph), demonstrating its solid performance.
+With overboost, the Volkswagen ID.5 GTX 4MOTION (GEN1) achieves a maximum power of 220 kW (299 hp / 295 bhp). Without overboost, it delivers 195 kW (265 hp / 262 bhp). The maximum torque is 460 Nm (339 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.3 seconds and reaches a top speed of 180 km/h (112 mph), offering performance more akin to traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

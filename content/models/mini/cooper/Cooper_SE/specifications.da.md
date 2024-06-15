@@ -42,6 +42,22 @@ EVKX.net søger at have de mest komplette specifikationer for Mini Cooper SE. Kl
 				330 nm (244 ft-lb)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tophastighed
+			</td>
+			<td>
+				170 km/t (106 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				6,7 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 

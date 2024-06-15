@@ -44,6 +44,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi X 4
 		</tr>
 		<tr>
 			<td>
+				Vitesse maximale
+			</td>
+			<td>
+				200 km/h (124 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
