@@ -1,18 +1,18 @@
 ---
 title: Battery basics
 linktitle: Battery basics
-description: The basic principle of a Li-ion battery is that electrical energy is created by an electrochemical reaction between two metals of different affinities.
+description: The fundamental principle of a lithium-ion (Li-ion) battery is that it generates electrical energy through an electrochemical reaction between two different metals with varying affinities for electrons.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-A Lithium-ion battery is made up of two electrodes (Anode & Cathode), a separator, an electrolyte, and two current collectors (positive and negative).
+A Li-ion battery consists of several key components: two electrodes (anode and cathode), a separator, an electrolyte, and two current collectors (positive and negative).
 
-During discharge, an electrochemical reaction in Anode causes it to release positive lithium ions into the electrolyte. The electrolyte carries the positively charged lithium ions from the Anode to the Cathode.
+### How it works:
 
-This reaction in Anode is called reduction, and the Anode is known as the reducing agent because it loses lithium atoms.
-
-The Cathode is known as the oxidizing agent because it accepts lithium ions from the Anode.
+- **During Discharge:** When the battery discharges, a chemical reaction at the anode releases positive lithium ions into the electrolyte. The electrolyte then transports these lithium ions to the cathode.
+- The anode undergoes oxidation, losing lithium atoms and releasing electrons, which accumulate in the anode, making it negatively charged.- This process is known as oxidation.
+- Simultaneously, the cathode undergoes reduction, gaining lithium ions from the electrolyte and electrons from the external circuit, making it positively charged. This process is known as reduction.
 
 <figure>
 <img src="batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
@@ -23,23 +23,21 @@ The Cathode is known as the oxidizing agent because it accepts lithium ions from
     </figcaption>
 </figure>
 
-When the Anode releases positive Lithium-ions, at the same time, it frees electrons from the lithium atoms of the electrode.
 
-These free electrons congregate inside the anode. As a result, the two electrodes have different charges:
+- **Charge Difference:** The anode becomes negatively charged due to the buildup of electrons, while the cathode becomes positively charged due to the influx of lithium ions.
+- This charge difference creates a potential difference, measured in volts, which depends on the battery's state of charge (SOC) and its specific chemistry. For instance, a typical lithium-ion cell has a voltage range of 3.2 to 4.2 volts.
 
-The anode becomes negatively charged as electrons are released, and the cathode becomes positively charged as positive lithium-ions are consumed.
+### External Circuit:
+
+In an electric vehicle (EV), this potential difference can be harnessed by creating an external circuit through an electric motor or other electronic components. Electrons flow from the anode to the cathode through this external circuit, driving the motor and powering the vehicle.
 
 {{<evkxdisplayaddarticle />}}
 
-This difference in charge causes the electrons to want to move toward the positively charged cathode. However, they don't have a way to get there inside the battery because the separator prevents them from doing so. The charge is measured in volts and depends on the chemistry used.
+### Current Collectors:
 
-For example, a typical Lithium-ion cell has an electrical charge between 3.2 - 4.2 volts depending on the state of charge (SOC).
+- The current collectors act as electrical conductors, facilitating the transfer of electrons between the electrodes and the external circuit.
 
-In an EV, we can use that desire for the electrons to re-unite with the positive lithium-ions in the Cathode. If we create an external circuit through an electric motor or another electronic component, we can see the flow of electrons drives the motor.
-
-The current collectors work as an electrical conductors between the electrode and external circuits.
-
-If you want to go to the next level, understand how a Lithium Ion battery works. See this genuinely fantastic video from the Limiting Factor.
+For those interested in a deeper understanding of how a lithium-ion battery functions, we highly recommend watching this insightful video from The Limiting Factor.
 
 {{< youtube 4-1psMHSpKs >}}
 
