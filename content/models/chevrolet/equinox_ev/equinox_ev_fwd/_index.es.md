@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Chevrolet Equinox EV FWD en secciones. Si desea
 
 ## Rendimiento
 
-El Chevrolet Equinox EV FWD tiene una potencia máxima de 159 KW (216 hp/213 bhp). El par total es 320 nm (236 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7 segundos.
+El Chevrolet Equinox EV FWD ofrece un rendimiento modesto con una potencia máxima de 159 kW (216 hp) y un par total de 320 Nm. Acelera de 0 a 100 km/h en 7 segundos y tiene una velocidad máxima 190 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

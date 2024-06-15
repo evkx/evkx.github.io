@@ -44,6 +44,14 @@ EVKX.net busca tener las especificaciones más completas para Chevrolet Blazer E
 		</tr>
 		<tr>
 			<td>
+				Velocidad máxima
+			</td>
+			<td>
+				210 kph (131 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>

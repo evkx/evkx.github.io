@@ -36,6 +36,14 @@ EVKX.net busca tener las especificaciones más completas para Citroën ë-C3. Ha
 		</tr>
 		<tr>
 			<td>
+				Salida de par eléctrico
+			</td>
+			<td>
+				120 nm (89 pies-libra)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Velocidad máxima
 			</td>
 			<td>

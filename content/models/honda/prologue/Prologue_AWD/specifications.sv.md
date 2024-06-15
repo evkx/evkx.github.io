@@ -44,6 +44,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för Honda Prologue AWD. Kl
 		</tr>
 		<tr>
 			<td>
+				Topphastighet
+			</td>
+			<td>
+				185 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>

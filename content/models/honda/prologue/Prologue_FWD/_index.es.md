@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Honda Prologue FWD en secciones. Si desea esper
 
 ## Rendimiento
 
-El Honda Prologue FWD tiene una potencia máxima de 158 KW (215 hp/212 bhp). El par total es 320 nm (236 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,5 segundos.
+El Honda Prologue FWD ofrece un rendimiento modesto con una potencia máxima de 158 kW (215 hp) y un par total de 320 Nm. Acelera de 0 a 100 km/h en 7,5 segundos y tiene una velocidad máxima 182 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

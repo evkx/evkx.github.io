@@ -29,7 +29,7 @@ We have separated our Honda Prologue AWD article into sections. If you want to w
 
 ## Performance
 
-The Honda Prologue AWD has a maximum power of 214 KW (291 hp/287 bhp) and a total torque of 451 nm (333 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6 seconds
+The Honda Prologue AWD offers modest performance with a maximum power of 214 kW (291 hp / 287 bhp) and a total torque of 451 Nm (333 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

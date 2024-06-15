@@ -44,6 +44,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Acura ZDX
 		</tr>
 		<tr>
 			<td>
+				Vitesse maximale
+			</td>
+			<td>
+				210 km/h (131 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph)
 			</td>
 			<td>

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Cadillac LYRIQ RWD en secciones. Si desea esper
 
 ## Rendimiento
 
-El Cadillac LYRIQ RWD tiene una potencia máxima de 255 KW (347 hp/342 bhp). El par total es 450 nm (332 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,7 segundos.
+El Cadillac LYRIQ RWD ofrece un rendimiento sólido con una potencia máxima de 255 kW (347 hp) y un par total de 450 Nm. Puede acelerar de 0 a 100 km/h en 5,7 segundos y alcanza una velocidad máxima de 190 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

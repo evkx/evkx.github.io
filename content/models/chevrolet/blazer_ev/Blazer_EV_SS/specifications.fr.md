@@ -44,6 +44,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Chevrolet
 		</tr>
 		<tr>
 			<td>
+				Vitesse maximale
+			</td>
+			<td>
+				190 km/h (118 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph)
 			</td>
 			<td>

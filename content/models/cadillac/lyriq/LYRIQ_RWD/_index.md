@@ -29,7 +29,7 @@ We have separated our Cadillac LYRIQ RWD article into sections. If you want to w
 
 ## Performance
 
-The Cadillac LYRIQ RWD has a maximum power of 255 KW (347 hp/342 bhp) and a total torque of 450 nm (332 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5.7 seconds
+The Cadillac LYRIQ RWD delivers a solid performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 450 Nm (332 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

@@ -36,6 +36,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Citroën 
 		</tr>
 		<tr>
 			<td>
+				Couple de sortie électrique
+			</td>
+			<td>
+				120 nm (89 ft-lb)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vitesse maximale
 			</td>
 			<td>

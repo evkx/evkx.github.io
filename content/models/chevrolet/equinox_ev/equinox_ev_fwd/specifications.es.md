@@ -44,6 +44,14 @@ EVKX.net busca tener las especificaciones más completas para Chevrolet Equinox 
 		</tr>
 		<tr>
 			<td>
+				Velocidad máxima
+			</td>
+			<td>
+				190 kph (118 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>

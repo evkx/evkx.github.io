@@ -29,7 +29,7 @@ Nous avons séparé notre article Honda Prologue FWD en sections. Si vous souhai
 
 ## Performances
 
-Le Honda Prologue FWD a une puissance maximale de 158 KW (215 ch/212 ch). Le couple total est de 320 nm (236 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 7,5 secondes.
+L'Honda Prologue FWD offre des performances modestes avec une puissance maximale de 158 kW (215 ch) et un couple total de 320 Nm. Il accélère de 0 à 100 km/h en 7,5 secondes et atteint une vitesse maximale de 182 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

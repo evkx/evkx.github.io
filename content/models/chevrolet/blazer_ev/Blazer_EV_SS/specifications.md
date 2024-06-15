@@ -44,6 +44,14 @@ EVKX.net seeks to have the most complete specifications for Chevrolet Blazer EV 
 		</tr>
 		<tr>
 			<td>
+				Top speed
+			</td>
+			<td>
+				190 kph (118 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph)
 			</td>
 			<td>

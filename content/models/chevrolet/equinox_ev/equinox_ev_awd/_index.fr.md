@@ -29,7 +29,7 @@ Nous avons séparé notre article Chevrolet Equinox EV AWD en sections. Si vous 
 
 ## Performances
 
-Le Chevrolet Equinox EV AWD a une puissance maximale de 215 KW (292 ch/288 ch). Le couple total est de 469 nm (346 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,9 secondes.
+L'Chevrolet Equinox EV AWD offre des performances modestes avec une puissance maximale de 215 kW (292 ch) et un couple total de 469 Nm. Il accélère de 0 à 100 km/h en 5,9 secondes et atteint une vitesse maximale de 210 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

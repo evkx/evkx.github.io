@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Citroën ë-C3 i avsnitt. Om du vill vänta 
 
 ## Prestanda
 
-Citroën ë-C3 har en maximal effekt på 83 KW (113hk). Totalt vridmoment är  Nm. Den gör sprinten 0-100 km/h på 11 sekunder. Topphastigheten är 135 km/h.
+Citroën ë-C3 erbjuder grundläggande prestanda med en maximal effekt på 83 kW (113 hk) och ett totalt vridmoment på 120 Nm. Den accelererar från 0 till 100 km/h på 11 sekunder och når en topphastighet på 135 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

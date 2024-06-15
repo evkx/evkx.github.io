@@ -36,6 +36,14 @@ EVKX.net søger at have de mest komplette specifikationer for Citroën ë-C3. Kl
 		</tr>
 		<tr>
 			<td>
+				Elektrisk momentudgang
+			</td>
+			<td>
+				120 nm (89 ft-lb)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tophastighed
 			</td>
 			<td>

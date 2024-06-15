@@ -44,6 +44,14 @@ EVKX.net busca tener las especificaciones más completas para Honda Prologue FWD
 		</tr>
 		<tr>
 			<td>
+				Velocidad máxima
+			</td>
+			<td>
+				182 kph (113 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>

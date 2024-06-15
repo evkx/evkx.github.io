@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Chevrolet Blazer EV SS en secciones. Si desea e
 
 ## Rendimiento
 
-El Chevrolet Blazer EV SS tiene una potencia máxima de 410 KW (557 hp/550 bhp). El par total es 880 nm (649 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4 segundos.
+El Chevrolet Blazer EV SS impresiona con una potencia máxima de 410 kW (557 hp) y un impresionante par total de 880 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4 segundos y alcanza una velocidad máxima de 190 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Cadillac LYRIQ RWD i seksjoner. Hvis du vil vent
 
 ## Ytelse
 
-Cadillac LYRIQ RWD har en maksimal effekt på 255 KW (347hk). Totalt dreiemoment er 450 nm. Den utfører sprinten 0-100 km/t på 5,7 sekunder.
+Cadillac LYRIQ RWD leverer solid ytelse med en maksimal effekt på 255 kW (347 hk) og et totalt dreiemoment på 450 Nm. Den kan akselerere fra 0 til 100 km/t på 5,7 sekunder og når en topphastighet på 190 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

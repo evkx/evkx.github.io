@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Citroën ë-C3 en secciones. Si desea esperar p
 
 ## Rendimiento
 
-El Citroën ë-C3 tiene una potencia máxima de 83 KW (113 hp/111 bhp). El par total es  nm ( ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 11 segundos. La velocidad máxima es 135 km/h.
+El Citroën ë-C3 kWh ofrece un rendimiento básico con una potencia máxima de 83 kW (113 hp) y un par total de 120 Nm. Acelera de 0 a 100 km/h en 11 segundos y alcanza una velocidad máxima de 135 km/h, lo que es más comparable a los modelos de entrada de vehículos tradicionales de motor de combustión interna.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Chevrolet Blazer EV RS AWD i seksjoner. Hvis du 
 
 ## Ytelse
 
-Chevrolet Blazer EV RS AWD har en maksimal effekt på 214 KW (291hk). Totalt dreiemoment er 451 nm. Den utfører sprinten 0-100 km/t på 6 sekunder.
+Chevrolet Blazer EV RS AWD tilbyr beskjedne ytelser med en maksimal effekt på 214 kW (291 hk) og et totalt dreiemoment på 451 Nm. Den akselererer fra 0 til 100 km/t på 6 sekunder og har en toppfart på 210 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har opdelt vores Honda Prologue FWD artikel i sektioner. Hvis du vil vente me
 
 ## Ydeevne
 
-Honda Prologue FWD har en maksimal effekt på 158 KW (215 hk/212 hk). Det samlede drejningsmoment er 320 nm (236 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder.
+Honda Prologue FWD tilbyder beskedne præstationer med en maksimal effekt på 158 kW (215 hk) og et samlet drejningsmoment på 320 Nm. Den accelererer fra 0 til 100 km/t på 7,5 sekunder og har en topfart på 182 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

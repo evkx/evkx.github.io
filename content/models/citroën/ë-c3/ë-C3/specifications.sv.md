@@ -36,6 +36,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för Citroën ë-C3. Klicka
 		</tr>
 		<tr>
 			<td>
+				Vridmoment
+			</td>
+			<td>
+				120 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Topphastighet
 			</td>
 			<td>

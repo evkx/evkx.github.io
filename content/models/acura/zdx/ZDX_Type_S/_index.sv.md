@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Acura ZDX Type S i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-Acura ZDX Type S har en maximal effekt på 373 KW (507hk). Totalt vridmoment är 737 Nm. Den gör sprinten 0-100 km/h på 4,6 sekunder.
+Acura ZDX Type S levererar en solid prestanda med en maximal effekt på 373 kW (507 hk) och ett totalt vridmoment på 737 Nm. Den kan accelerera från 0 till 100 km/h på 4,6 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

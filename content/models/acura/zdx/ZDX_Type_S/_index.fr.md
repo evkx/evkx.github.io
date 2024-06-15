@@ -29,7 +29,7 @@ Nous avons séparé notre article Acura ZDX Type S en sections. Si vous souhaite
 
 ## Performances
 
-Le Acura ZDX Type S a une puissance maximale de 373 KW (507 ch/500 ch). Le couple total est de 737 nm (544 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 4,6 secondes.
+La Acura ZDX Type S offre des performances solides avec une puissance maximale de 373 kW (507 ch) et un couple total de 737 Nm. Elle peut accélérer de 0 à 100 km/h en 4,6 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

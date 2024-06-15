@@ -44,6 +44,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Honda Pro
 		</tr>
 		<tr>
 			<td>
+				Vitesse maximale
+			</td>
+			<td>
+				185 km/h (115 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph)
 			</td>
 			<td>

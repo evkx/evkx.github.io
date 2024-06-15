@@ -44,6 +44,14 @@ EVKX.net søger at have de mest komplette specifikationer for Cadillac LYRIQ AWD
 		</tr>
 		<tr>
 			<td>
+				Tophastighed
+			</td>
+			<td>
+				210 km/t (131 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>

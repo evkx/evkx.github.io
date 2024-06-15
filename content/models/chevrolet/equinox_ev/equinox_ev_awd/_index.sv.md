@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Chevrolet Equinox EV AWD i avsnitt. Om du vi
 
 ## Prestanda
 
-Chevrolet Equinox EV AWD har en maximal effekt på 215 KW (292hk). Totalt vridmoment är 469 Nm. Den gör sprinten 0-100 km/h på 5,9 sekunder.
+Chevrolet Equinox EV AWD erbjuder blygsamma prestanda med en maximal effekt på 215 kW (292 hk) och ett totalt vridmoment på 469 Nm. Den accelererar från 0 till 100 km/h på 5,9 sekunder och har en topphastighet på 210 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

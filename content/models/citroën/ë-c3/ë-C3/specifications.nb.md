@@ -36,6 +36,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Citroën ë-C3. Kli
 		</tr>
 		<tr>
 			<td>
+				Dreiemoment
+			</td>
+			<td>
+				120 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Topphastighet
 			</td>
 			<td>

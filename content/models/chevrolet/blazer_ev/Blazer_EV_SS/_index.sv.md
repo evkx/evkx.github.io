@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Chevrolet Blazer EV SS i avsnitt. Om du vill
 
 ## Prestanda
 
-Chevrolet Blazer EV SS har en maximal effekt på 410 KW (557hk). Totalt vridmoment är 880 Nm. Den gör sprinten 0-100 km/h på 4 sekunder.
+Chevrolet Blazer EV SS imponerar med en imponerande kraft på 410 kW (557 hk) och ett imponerande totalt vridmoment på 880 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4 sekunder och når en topphastighet på 190 km/h, vilket gör den till en stjärna i sin klass.
 
 ## Batteri, räckvidd och laddning
 
