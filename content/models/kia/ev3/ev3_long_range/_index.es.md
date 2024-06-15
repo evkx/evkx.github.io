@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Kia EV3 Long Range en secciones. Si desea esper
 
 ## Rendimiento
 
-El Kia EV3 Long Range tiene una potencia máxima de 150 KW (204 hp/201 bhp). El par total es 283 nm (209 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,5 segundos. La velocidad máxima es 170 km/h.
+El Kia EV3 Long Range ofrece un rendimiento modesto con una potencia máxima de 150 kW (156 hp) y un par total de 283 Nm. Acelera de 0 a 100 km/h en 7,5 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

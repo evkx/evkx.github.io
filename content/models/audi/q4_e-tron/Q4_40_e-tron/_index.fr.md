@@ -35,7 +35,7 @@ Ce modèle a été remplacé par [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_4
 
 ## Performances
 
-Le Audi Q4 40 e-tron a une puissance maximale de 160 KW (218 ch/215 ch). Le couple total est de 310 nm (229 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 8,5 secondes. La vitesse maximale est de 160 km/h.
+L'Audi Q4 40 e-tron offre des performances modestes avec une puissance maximale de 160 kW (218 ch) et un couple total de 310 Nm. Il accélère de 0 à 100 km/h en 8,5 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

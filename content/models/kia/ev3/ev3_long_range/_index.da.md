@@ -29,7 +29,7 @@ Vi har opdelt vores Kia EV3 Long Range artikel i sektioner. Hvis du vil vente me
 
 ## Ydeevne
 
-Kia EV3 Long Range har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 283 nm (209 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,5 sekunder. Tophastigheden er 170 km/t.
+Kia EV3 Long Range tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 283 Nm. Den accelererer fra 0 til 100 km/t på 7,5 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

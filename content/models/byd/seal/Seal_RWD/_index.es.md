@@ -29,7 +29,7 @@ Hemos separado nuestro artículo BYD Seal RWD en secciones. Si desea esperar par
 
 ## Rendimiento
 
-El BYD Seal RWD tiene una potencia máxima de 230 KW (313 hp/308 bhp). El par total es 360 nm (266 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,9 segundos. La velocidad máxima es 180 km/h.
+El BYD Seal RWD ofrece un rendimiento modesto con una potencia máxima de 230 kW (156 hp) y un par total de 360 Nm. Acelera de 0 a 100 km/h en 5,9 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

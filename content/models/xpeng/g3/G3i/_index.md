@@ -29,7 +29,7 @@ We have separated our XPENG G3i article into sections. If you want to wait to re
 
 ## Performance
 
-The XPENG G3i has a maximum power of 145 KW (197 hp/194 bhp) and a total torque of 300 nm (221 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 8.6 seconds and has a top speed of 170 km/h (106 mph).
+The XPENG G3i offers modest performance with a maximum power of 145 kW (197 hp / 194 bhp) and a total torque of 300 Nm (221 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

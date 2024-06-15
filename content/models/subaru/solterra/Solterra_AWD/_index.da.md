@@ -29,7 +29,7 @@ Vi har opdelt vores Subaru Solterra AWD artikel i sektioner. Hvis du vil vente m
 
 ## Ydeevne
 
-Subaru Solterra AWD har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 337 nm (249 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,9 sekunder. Tophastigheden er 160 km/t.
+Subaru Solterra AWD tilbyder beskedne præstationer med en maksimal effekt på 160 kW (218 hk) og et samlet drejningsmoment på 337 Nm. Den accelererer fra 0 til 100 km/t på 6,9 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

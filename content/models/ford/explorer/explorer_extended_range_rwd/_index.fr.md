@@ -29,7 +29,7 @@ Nous avons séparé notre article Ford Explorer Extended Range RWD en sections. 
 
 ## Performances
 
-Le Ford Explorer Extended Range RWD a une puissance maximale de 210 KW (286 ch/282 ch). Le couple total est de 545 nm (402 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,4 secondes. La vitesse maximale est de 180 km/h.
+L'Ford Explorer Extended Range RWD offre des performances modestes avec une puissance maximale de 210 kW (286 ch) et un couple total de 545 Nm. Il accélère de 0 à 100 km/h en 6,4 secondes et atteint une vitesse maximale de 180 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

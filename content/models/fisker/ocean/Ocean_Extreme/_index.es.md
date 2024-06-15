@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Fisker Ocean Extreme en secciones. Si desea esp
 
 ## Rendimiento
 
-El Fisker Ocean Extreme ofrece un rendimiento sólido con una potencia máxima de 344 kW (468 hp) y un par total de 696 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Fisker Ocean Extreme ofrece un rendimiento sólido con una potencia máxima de 344 kW (468 hp) y un par total de 696 Nm. Puede acelerar de 0 a 100 km/h en 4 segundos y alcanza una velocidad máxima de 205 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

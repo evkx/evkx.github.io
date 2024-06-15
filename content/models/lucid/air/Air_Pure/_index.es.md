@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lucid Air Pure en secciones. Si desea esperar p
 
 ## Rendimiento
 
-El Lucid Air Pure tiene una potencia máxima de 320 KW (435 hp/429 bhp). El par total es 400 nm (295 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,5 segundos. La velocidad máxima es 200 km/h.
+El Lucid Air Pure ofrece un rendimiento modesto con una potencia máxima de 320 kW (156 hp) y un par total de 400 Nm. Acelera de 0 a 100 km/h en 4,5 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volvo EX30 Single Motor i avsnitt. Om du vil
 
 ## Prestanda
 
-Volvo EX30 Single Motor har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 343 Nm. Den gör sprinten 0-100 km/h på 5,3 sekunder. Topphastigheten är 180 km/h.
+Volvo EX30 Single Motor erbjuder blygsamma prestanda med en maximal effekt på 200 kW (272 hk) och ett totalt vridmoment på 343 Nm. Den accelererar från 0 till 100 km/h på 5,3 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

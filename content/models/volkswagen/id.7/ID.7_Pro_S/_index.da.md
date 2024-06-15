@@ -29,7 +29,7 @@ Vi har opdelt vores Volkswagen ID.7 Pro S artikel i sektioner. Hvis du vil vente
 
 ## Ydeevne
 
-Volkswagen ID.7 Pro S har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 550 nm (406 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder. Tophastigheden er 180 km/t.
+Volkswagen ID.7 Pro S tilbyder beskedne præstationer med en maksimal effekt på 210 kW (286 hk) og et samlet drejningsmoment på 550 Nm. Den accelererer fra 0 til 100 km/t på 6,5 sekunder og har en topfart på 180 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

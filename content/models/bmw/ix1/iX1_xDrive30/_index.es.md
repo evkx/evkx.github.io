@@ -29,7 +29,7 @@ Hemos separado nuestro artículo BMW iX1 xDrive30 en secciones. Si desea esperar
 
 ## Rendimiento
 
-El BMW iX1 xDrive30 tiene una potencia máxima de 230 KW (313 hp/308 bhp). El par total es 494 nm (365 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,6 segundos. La velocidad máxima es 180 km/h.
+El BMW iX1 xDrive30 ofrece un rendimiento modesto con una potencia máxima de 230 kW (156 hp) y un par total de 494 Nm. Acelera de 0 a 100 km/h en 5,6 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

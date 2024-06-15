@@ -29,7 +29,7 @@ Nous avons séparé notre article DS 3 E-Tense en sections. Si vous souhaitez at
 
 ## Performances
 
-Le DS 3 E-Tense a une puissance maximale de 115 KW (156 ch/154 ch). Le couple total est de 260 nm (192 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 9 secondes. La vitesse maximale est de 150 km/h.
+L'DS 3 E-Tense offre des performances modestes avec une puissance maximale de 115 kW (156 ch) et un couple total de 260 Nm. Il accélère de 0 à 100 km/h en 9 secondes et atteint une vitesse maximale de 150 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

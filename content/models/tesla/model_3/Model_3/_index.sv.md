@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Tesla Model 3 i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Tesla Model 3 har en maximal effekt på 208 KW (283hk). Totalt vridmoment är 420 Nm. Den gör sprinten 0-100 km/h på 6,1 sekunder. Topphastigheten är 225 km/h.
+Tesla Model 3 erbjuder blygsamma prestanda med en maximal effekt på 208 kW (283 hk) och ett totalt vridmoment på 420 Nm. Den accelererar från 0 till 100 km/h på 6,1 sekunder och har en topphastighet på 225 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

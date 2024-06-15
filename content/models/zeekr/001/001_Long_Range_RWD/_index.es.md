@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Zeekr 001 Long Range RWD en secciones. Si desea
 
 ## Rendimiento
 
-El Zeekr 001 Long Range RWD tiene una potencia máxima de 200 KW (272 hp/268 bhp). El par total es 343 nm (253 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,2 segundos. La velocidad máxima es 200 km/h.
+El Zeekr 001 Long Range RWD ofrece un rendimiento modesto con una potencia máxima de 200 kW (156 hp) y un par total de 343 Nm. Acelera de 0 a 100 km/h en 7,2 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

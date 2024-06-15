@@ -29,7 +29,7 @@ Vi har opdelt vores Honda e:Ny1 artikel i sektioner. Hvis du vil vente med at l�
 
 ## Ydeevne
 
-Honda e:Ny1 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,7 sekunder. Tophastigheden er 160 km/t.
+Honda e:Ny1 tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 7,7 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

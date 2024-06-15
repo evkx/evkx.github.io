@@ -29,7 +29,7 @@ Nous avons séparé notre article Zeekr 001 Long Range RWD en sections. Si vous 
 
 ## Performances
 
-Le Zeekr 001 Long Range RWD a une puissance maximale de 200 KW (272 ch/268 ch). Le couple total est de 343 nm (253 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 7,2 secondes. La vitesse maximale est de 200 km/h.
+L'Zeekr 001 Long Range RWD offre des performances modestes avec une puissance maximale de 200 kW (272 ch) et un couple total de 343 Nm. Il accélère de 0 à 100 km/h en 7,2 secondes et atteint une vitesse maximale de 200 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

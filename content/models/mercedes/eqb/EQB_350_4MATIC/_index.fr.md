@@ -29,7 +29,7 @@ Nous avons séparé notre article Mercedes-EQ EQB 350 4MATIC en sections. Si vou
 
 ## Performances
 
-Le Mercedes-EQ EQB 350 4MATIC a une puissance maximale de 215 KW (292 ch/288 ch). Le couple total est de 520 nm (384 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,2 secondes. La vitesse maximale est de 160 km/h.
+L'Mercedes-EQ EQB 350 4MATIC offre des performances modestes avec une puissance maximale de 215 kW (292 ch) et un couple total de 520 Nm. Il accélère de 0 à 100 km/h en 6,2 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

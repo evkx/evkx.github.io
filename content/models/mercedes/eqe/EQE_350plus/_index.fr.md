@@ -29,7 +29,7 @@ Nous avons séparé notre article Mercedes-EQ EQE 350+ en sections. Si vous souh
 
 ## Performances
 
-Le Mercedes-EQ EQE 350+ a une puissance maximale de 215 KW (292 ch/288 ch). Le couple total est de 565 nm (417 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,4 secondes. La vitesse maximale est de 210 km/h.
+L'Mercedes-EQ EQE 350+ offre des performances modestes avec une puissance maximale de 215 kW (292 ch) et un couple total de 565 Nm. Il accélère de 0 à 100 km/h en 6,4 secondes et atteint une vitesse maximale de 210 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article MG MG4 Electric Long Range en sections. Si vou
 
 ## Performances
 
-Le MG MG4 Electric Long Range a une puissance maximale de 150 KW (204 ch/201 ch). Le couple total est de 250 nm (184 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 7,9 secondes. La vitesse maximale est de 160 km/h.
+L'MG MG4 Electric Long Range offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 250 Nm. Il accélère de 0 à 100 km/h en 7,9 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

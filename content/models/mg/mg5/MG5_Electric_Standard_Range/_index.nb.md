@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av MG MG5 Electric Standard Range i seksjoner. Hvis
 
 ## Ytelse
 
-MG MG5 Electric Standard Range har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 280 nm. Den utfører sprinten 0-100 km/t på 8,3 sekunder. Topphastigheten er 185 km/t.
+MG MG5 Electric Standard Range tilbyr beskjedne ytelser med en maksimal effekt på 115 kW (156 hk) og et totalt dreiemoment på 280 Nm. Den akselererer fra 0 til 100 km/t på 8,3 sekunder og har en toppfart på 185 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

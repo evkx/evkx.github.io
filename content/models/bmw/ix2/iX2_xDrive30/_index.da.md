@@ -29,7 +29,7 @@ Vi har opdelt vores BMW iX2 xDrive30 artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-BMW iX2 xDrive30 har en maksimal effekt på 230 KW (313 hk/308 hk). Det samlede drejningsmoment er 494 nm (365 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,6 sekunder. Tophastigheden er 180 km/t.
+BMW iX2 xDrive30 tilbyder beskedne præstationer med en maksimal effekt på 230 kW (313 hk) og et samlet drejningsmoment på 494 Nm. Den accelererer fra 0 til 100 km/t på 5,6 sekunder og har en topfart på 180 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article BMW i5 eDrive40 en sections. Si vous souhaitez
 
 ## Performances
 
-Le BMW i5 eDrive40 a une puissance maximale de 250 KW (340 ch/335 ch). Le couple total est de 430 nm (317 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6 secondes. La vitesse maximale est de 193 km/h.
+L'BMW i5 eDrive40 offre des performances modestes avec une puissance maximale de 250 kW (340 ch) et un couple total de 430 Nm. Il accélère de 0 à 100 km/h en 6 secondes et atteint une vitesse maximale de 193 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

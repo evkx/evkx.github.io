@@ -29,7 +29,7 @@ Nous avons séparé notre article Opel Astra Sports Tourer Electric en sections.
 
 ## Performances
 
-Le Opel Astra Sports Tourer Electric a une puissance maximale de 115 KW (156 ch/154 ch). Le couple total est de 260 nm (192 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 10,5 secondes. La vitesse maximale est de 170 km/h.
+L'Opel Astra Sports Tourer Electric offre des performances modestes avec une puissance maximale de 115 kW (156 ch) et un couple total de 260 Nm. Il accélère de 0 à 100 km/h en 10,5 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

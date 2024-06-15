@@ -29,7 +29,7 @@ We have separated our MG ZS EV Long Range article into sections. If you want to 
 
 ## Performance
 
-The MG ZS EV Long Range has a maximum power of 115 KW (156 hp/154 bhp) and a total torque of 280 nm (207 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 8.6 seconds and has a top speed of 175 km/h (109 mph).
+The MG ZS EV Long Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of175 km/h (109 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

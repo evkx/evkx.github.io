@@ -29,7 +29,7 @@ Hemos separado nuestro artículo MG MG4 Electric XPOWER en secciones. Si desea e
 
 ## Rendimiento
 
-El MG MG4 Electric XPOWER ofrece un rendimiento sólido con una potencia máxima de 320 kW (435 hp) y un par total de 600 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El MG MG4 Electric XPOWER ofrece un rendimiento sólido con una potencia máxima de 320 kW (435 hp) y un par total de 600 Nm. Puede acelerar de 0 a 100 km/h en 3,8 segundos y alcanza una velocidad máxima de 160 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

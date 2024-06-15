@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQA 250 i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Mercedes-EQ EQA 250 har en maksimal effekt på 168 KW (228hk). Totalt dreiemoment er 390 nm. Den utfører sprinten 0-100 km/t på 7,7 sekunder. Topphastigheten er 160 km/t.
+Mercedes-EQ EQA 250 tilbyr beskjedne ytelser med en maksimal effekt på 168 kW (228 hk) og et totalt dreiemoment på 390 Nm. Den akselererer fra 0 til 100 km/t på 7,7 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

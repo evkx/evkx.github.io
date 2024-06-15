@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av BMW iX3 i avsnitt. Om du vill vänta med att
 
 ## Prestanda
 
-BMW iX3 har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 400 Nm. Den gör sprinten 0-100 km/h på 6,8 sekunder. Topphastigheten är 180 km/h.
+BMW iX3 erbjuder blygsamma prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 400 Nm. Den accelererar från 0 till 100 km/h på 6,8 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

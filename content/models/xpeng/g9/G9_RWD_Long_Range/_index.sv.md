@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av XPENG G9 RWD Long Range i avsnitt. Om du vil
 
 ## Prestanda
 
-XPENG G9 RWD Long Range har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 6,4 sekunder. Topphastigheten är 200 km/h.
+XPENG G9 RWD Long Range erbjuder blygsamma prestanda med en maximal effekt på 230 kW (313 hk) och ett totalt vridmoment på 430 Nm. Den accelererar från 0 till 100 km/h på 6,4 sekunder och har en topphastighet på 200 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

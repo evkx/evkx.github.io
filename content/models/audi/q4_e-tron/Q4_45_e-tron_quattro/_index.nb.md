@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi Q4 45 e-tron quattro i seksjoner. Hvis du v
 
 ## Ytelse
 
-Audi Q4 45 e-tron quattro har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 679 nm. Den utfører sprinten 0-100 km/t på 6,9 sekunder. Topphastigheten er 180 km/t.
+Audi Q4 45 e-tron quattro tilbyr beskjedne ytelser med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 679 Nm. Den akselererer fra 0 til 100 km/t på 6,9 sekunder og har en toppfart på 180 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

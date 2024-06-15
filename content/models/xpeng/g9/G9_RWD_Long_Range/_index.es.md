@@ -29,7 +29,7 @@ Hemos separado nuestro artículo XPENG G9 RWD Long Range en secciones. Si desea 
 
 ## Rendimiento
 
-El XPENG G9 RWD Long Range tiene una potencia máxima de 230 KW (313 hp/308 bhp). El par total es 430 nm (317 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,4 segundos. La velocidad máxima es 200 km/h.
+El XPENG G9 RWD Long Range ofrece un rendimiento modesto con una potencia máxima de 230 kW (156 hp) y un par total de 430 Nm. Acelera de 0 a 100 km/h en 6,4 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

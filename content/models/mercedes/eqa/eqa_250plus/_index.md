@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQA 250+ article into sections. If you want to
 
 ## Performance
 
-The Mercedes-EQ EQA 250+ has a maximum power of 140 KW (190 hp/188 bhp) and a total torque of 385 nm (284 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 8.6 seconds and has a top speed of 160 km/h (99 mph).
+The Mercedes-EQ EQA 250+ offers modest performance with a maximum power of 140 kW (190 hp / 188 bhp) and a total torque of 385 Nm (284 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

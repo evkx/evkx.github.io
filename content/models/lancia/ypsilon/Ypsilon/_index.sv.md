@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Lancia Ypsilon i avsnitt. Om du vill vänta 
 
 ## Prestanda
 
-Lancia Ypsilon har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260 Nm. Den gör sprinten 0-100 km/h på 10,5 sekunder. Topphastigheten är 170 km/h.
+Lancia Ypsilon erbjuder blygsamma prestanda med en maximal effekt på 115 kW (156 hk) och ett totalt vridmoment på 260 Nm. Den accelererar från 0 till 100 km/h på 10,5 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

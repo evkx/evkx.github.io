@@ -35,7 +35,7 @@ Ce modèle a été remplacé par [Tesla Model 3 Long Range](/models/tesla/model_
 
 ## Performances
 
-Le Tesla Model 3 (GEN1) a une puissance maximale de 208 KW (283 ch/279 ch). Le couple total est de 420 nm (310 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,1 secondes. La vitesse maximale est de 225 km/h.
+L'Tesla Model 3 (GEN1) offre des performances modestes avec une puissance maximale de 208 kW (283 ch) et un couple total de 420 Nm. Il accélère de 0 à 100 km/h en 6,1 secondes et atteint une vitesse maximale de 225 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

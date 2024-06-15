@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Nissan Ariya 63kWh i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Nissan Ariya 63kWh har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 7,5 sekunder. Topphastigheten är 160 km/h.
+Nissan Ariya 63kWh erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 300 Nm. Den accelererar från 0 till 100 km/h på 7,5 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

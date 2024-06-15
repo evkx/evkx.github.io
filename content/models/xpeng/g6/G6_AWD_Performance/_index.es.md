@@ -29,7 +29,7 @@ Hemos separado nuestro artículo XPENG G6 AWD Performance en secciones. Si desea
 
 ## Rendimiento
 
-El XPENG G6 AWD Performance ofrece un rendimiento sólido con una potencia máxima de 358 kW (487 hp) y un par total de 660 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El XPENG G6 AWD Performance ofrece un rendimiento sólido con una potencia máxima de 358 kW (487 hp) y un par total de 660 Nm. Puede acelerar de 0 a 100 km/h en 3,9 segundos y alcanza una velocidad máxima de 202 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

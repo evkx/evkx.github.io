@@ -29,7 +29,7 @@ Vi har opdelt vores Kia EV6 Long Range 2WD artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-Kia EV6 Long Range 2WD har en maksimal effekt på 168 KW (228 hk/225 hk). Det samlede drejningsmoment er 350 nm (258 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 185 km/t.
+Kia EV6 Long Range 2WD tilbyder beskedne præstationer med en maksimal effekt på 168 kW (228 hk) og et samlet drejningsmoment på 350 Nm. Den accelererer fra 0 til 100 km/t på 7,3 sekunder og har en topfart på 185 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

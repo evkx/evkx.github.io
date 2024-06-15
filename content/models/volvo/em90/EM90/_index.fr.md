@@ -29,7 +29,7 @@ Nous avons séparé notre article Volvo EM90 en sections. Si vous souhaitez atte
 
 ## Performances
 
-Le Volvo EM90 a une puissance maximale de 200 KW (272 ch/268 ch). Le couple total est de 686 nm (506 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 8,3 secondes. La vitesse maximale est de 190 km/h.
+L'Volvo EM90 offre des performances modestes avec une puissance maximale de 200 kW (272 ch) et un couple total de 686 Nm. Il accélère de 0 à 100 km/h en 8,3 secondes et atteint une vitesse maximale de 190 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

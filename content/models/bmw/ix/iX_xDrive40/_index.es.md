@@ -29,7 +29,7 @@ Hemos separado nuestro artículo BMW iX xDrive40 en secciones. Si desea esperar 
 
 ## Rendimiento
 
-El BMW iX xDrive40 tiene una potencia máxima de 240 KW (326 hp/322 bhp). El par total es 630 nm (465 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,1 segundos. La velocidad máxima es 200 km/h.
+El BMW iX xDrive40 ofrece un rendimiento modesto con una potencia máxima de 240 kW (156 hp) y un par total de 630 Nm. Acelera de 0 a 100 km/h en 6,1 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ We have separated our Kia EV9 Long Range RWD article into sections. If you want 
 
 ## Performance
 
-The Kia EV9 Long Range RWD has a maximum power of 150 KW (204 hp/201 bhp) and a total torque of 350 nm (258 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 9.4 seconds and has a top speed of 185 km/h (115 mph).
+The Kia EV9 Long Range RWD offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 350 Nm (258 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.4 seconds and has a top speed of185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

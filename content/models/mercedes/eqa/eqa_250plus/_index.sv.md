@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQA 250+ i avsnitt. Om du vill v
 
 ## Prestanda
 
-Mercedes-EQ EQA 250+ har en maximal effekt på 140 KW (190hk). Totalt vridmoment är 385 Nm. Den gör sprinten 0-100 km/h på 8,6 sekunder. Topphastigheten är 160 km/h.
+Mercedes-EQ EQA 250+ erbjuder blygsamma prestanda med en maximal effekt på 140 kW (190 hk) och ett totalt vridmoment på 385 Nm. Den accelererar från 0 till 100 km/h på 8,6 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

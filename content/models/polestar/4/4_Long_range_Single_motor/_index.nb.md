@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Polestar 4 Long range Single motor i seksjoner. 
 
 ## Ytelse
 
-Polestar 4 Long range Single motor har en maksimal effekt på 200 KW (272hk). Totalt dreiemoment er 343 nm. Den utfører sprinten 0-100 km/t på 7,4 sekunder. Topphastigheten er 180 km/t.
+Polestar 4 Long range Single motor tilbyr beskjedne ytelser med en maksimal effekt på 200 kW (272 hk) og et totalt dreiemoment på 343 Nm. Den akselererer fra 0 til 100 km/t på 7,4 sekunder og har en toppfart på 180 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

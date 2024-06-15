@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Hyundai Ioniq 5 Long Range 2WD i avsnitt. Om
 
 ## Prestanda
 
-Hyundai Ioniq 5 Long Range 2WD har en maximal effekt på 168 KW (228hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 185 km/h.
+Hyundai Ioniq 5 Long Range 2WD erbjuder blygsamma prestanda med en maximal effekt på 168 kW (228 hk) och ett totalt vridmoment på 350 Nm. Den accelererar från 0 till 100 km/h på 7,3 sekunder och har en topphastighet på 185 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Polestar 2 Long Range Single Motor en secciones
 
 ## Rendimiento
 
-El Polestar 2 Long Range Single Motor tiene una potencia máxima de 220 KW (299 hp/295 bhp). El par total es 490 nm (362 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,2 segundos. La velocidad máxima es 205 km/h.
+El Polestar 2 Long Range Single Motor ofrece un rendimiento modesto con una potencia máxima de 220 kW (156 hp) y un par total de 490 Nm. Acelera de 0 a 100 km/h en 6,2 segundos y tiene una velocidad máxima 205 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

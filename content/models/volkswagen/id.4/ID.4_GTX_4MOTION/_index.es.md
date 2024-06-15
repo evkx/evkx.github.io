@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Volkswagen ID.4 GTX 4MOTION en secciones. Si de
 
 ## Rendimiento
 
-El Volkswagen ID.4 GTX 4MOTION ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 679 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Volkswagen ID.4 GTX 4MOTION ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 679 Nm. Puede acelerar de 0 a 100 km/h en 5,5 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

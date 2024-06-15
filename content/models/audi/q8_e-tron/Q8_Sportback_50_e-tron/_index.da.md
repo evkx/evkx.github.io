@@ -29,7 +29,7 @@ Vi har opdelt vores Audi Q8 Sportback 50 e-tron artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Audi Q8 Sportback 50 e-tron har en maksimal effekt på 230 KW (313 hk/308 hk). Det samlede drejningsmoment er 540 nm (399 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,8 sekunder. Tophastigheden er 200 km/t.
+Audi Q8 Sportback 50 e-tron tilbyder beskedne præstationer med en maksimal effekt på 230 kW (313 hk) og et samlet drejningsmoment på 540 Nm. Den accelererer fra 0 til 100 km/t på 6,8 sekunder og har en topfart på 200 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

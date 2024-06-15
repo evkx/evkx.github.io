@@ -29,7 +29,7 @@ Nous avons séparé notre article Xiaomi SU7 Pro en sections. Si vous souhaitez 
 
 ## Performances
 
-Le Xiaomi SU7 Pro a une puissance maximale de 220 KW (299 ch/295 ch). Le couple total est de 400 nm (295 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,7 secondes. La vitesse maximale est de 210 km/h.
+L'Xiaomi SU7 Pro offre des performances modestes avec une puissance maximale de 220 kW (299 ch) et un couple total de 400 Nm. Il accélère de 0 à 100 km/h en 5,7 secondes et atteint une vitesse maximale de 210 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

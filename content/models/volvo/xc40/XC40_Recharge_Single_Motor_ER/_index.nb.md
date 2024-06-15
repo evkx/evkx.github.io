@@ -35,7 +35,7 @@ Denne modellen er erstattet av [Volvo EX40 Single Motor ER](/models/volvo/ex40/e
 
 ## Ytelse
 
-Volvo XC40 Recharge Single Motor ER har en maksimal effekt på 185 KW (252hk). Totalt dreiemoment er 420 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 160 km/t.
+Volvo XC40 Recharge Single Motor ER tilbyr beskjedne ytelser med en maksimal effekt på 185 kW (252 hk) og et totalt dreiemoment på 420 Nm. Den akselererer fra 0 til 100 km/t på 7,3 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

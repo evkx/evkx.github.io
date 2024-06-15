@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Kia Niro EV i avsnitt. Om du vill vänta med
 
 ## Prestanda
 
-Kia Niro EV har en maximal effekt på 150 KW (204hk). Totalt vridmoment är 255 Nm. Den gör sprinten 0-100 km/h på 7,8 sekunder. Topphastigheten är 167 km/h.
+Kia Niro EV erbjuder blygsamma prestanda med en maximal effekt på 150 kW (204 hk) och ett totalt vridmoment på 255 Nm. Den accelererar från 0 till 100 km/h på 7,8 sekunder och har en topphastighet på 167 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

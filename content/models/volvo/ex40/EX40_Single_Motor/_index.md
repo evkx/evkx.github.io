@@ -29,7 +29,7 @@ We have separated our Volvo EX40 Single Motor article into sections. If you want
 
 ## Performance
 
-The Volvo EX40 Single Motor has a maximum power of 175 KW (238 hp/235 bhp) and a total torque of 420 nm (310 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.3 seconds and has a top speed of 180 km/h (112 mph).
+The Volvo EX40 Single Motor offers modest performance with a maximum power of 175 kW (238 hp / 235 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

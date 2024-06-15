@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Mercedes-EQ EQE 350 4MATIC SUV en secciones. Si
 
 ## Rendimiento
 
-El Mercedes-EQ EQE 350 4MATIC SUV tiene una potencia máxima de 215 KW (292 hp/288 bhp). El par total es 765 nm (565 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,6 segundos. La velocidad máxima es 210 km/h.
+El Mercedes-EQ EQE 350 4MATIC SUV ofrece un rendimiento modesto con una potencia máxima de 215 kW (156 hp) y un par total de 765 Nm. Acelera de 0 a 100 km/h en 6,6 segundos y tiene una velocidad máxima 210 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

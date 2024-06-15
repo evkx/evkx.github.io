@@ -29,7 +29,7 @@ Vi har opdelt vores Tesla Model Y Long Range RWD artikel i sektioner. Hvis du vi
 
 ## Ydeevne
 
-Tesla Model Y Long Range RWD har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 450 nm (332 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,9 sekunder. Tophastigheden er 217 km/t.
+Tesla Model Y Long Range RWD tilbyder beskedne præstationer med en maksimal effekt på 250 kW (340 hk) og et samlet drejningsmoment på 450 Nm. Den accelererer fra 0 til 100 km/t på 5,9 sekunder og har en topfart på 217 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

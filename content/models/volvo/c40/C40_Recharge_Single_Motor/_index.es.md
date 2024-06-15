@@ -35,7 +35,7 @@ Este modelo ha sido reemplazado por [Volvo EC40 Single Motor](/models/volvo/ec40
 
 ## Rendimiento
 
-El Volvo C40 Recharge Single Motor tiene una potencia máxima de 175 KW (238 hp/235 bhp). El par total es 420 nm (310 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,3 segundos. La velocidad máxima es 180 km/h.
+El Volvo C40 Recharge Single Motor ofrece un rendimiento modesto con una potencia máxima de 175 kW (156 hp) y un par total de 420 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

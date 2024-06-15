@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Volkswagen ID.7 Tourer Pro S i seksjoner. Hvis d
 
 ## Ytelse
 
-Volkswagen ID.7 Tourer Pro S har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 550 nm. Den utfører sprinten 0-100 km/t på 6,5 sekunder. Topphastigheten er 180 km/t.
+Volkswagen ID.7 Tourer Pro S tilbyr beskjedne ytelser med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 550 Nm. Den akselererer fra 0 til 100 km/t på 6,5 sekunder og har en toppfart på 180 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

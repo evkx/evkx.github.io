@@ -29,7 +29,7 @@ Nous avons séparé notre article Kia EV9 RWD en sections. Si vous souhaitez att
 
 ## Performances
 
-Le Kia EV9 RWD a une puissance maximale de 160 KW (218 ch/215 ch). Le couple total est de 350 nm (258 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 9,4 secondes. La vitesse maximale est de 185 km/h.
+L'Kia EV9 RWD offre des performances modestes avec une puissance maximale de 160 kW (218 ch) et un couple total de 350 Nm. Il accélère de 0 à 100 km/h en 9,4 secondes et atteint une vitesse maximale de 185 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

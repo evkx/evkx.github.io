@@ -29,7 +29,7 @@ Vi har opdelt vores Volvo EM90 artikel i sektioner. Hvis du vil vente med at læ
 
 ## Ydeevne
 
-Volvo EM90 har en maksimal effekt på 200 KW (272 hk/268 hk). Det samlede drejningsmoment er 686 nm (506 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,3 sekunder. Tophastigheden er 190 km/t.
+Volvo EM90 tilbyder beskedne præstationer med en maksimal effekt på 200 kW (272 hk) og et samlet drejningsmoment på 686 Nm. Den accelererer fra 0 til 100 km/t på 8,3 sekunder og har en topfart på 190 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

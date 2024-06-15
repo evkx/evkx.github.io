@@ -29,7 +29,7 @@ Nous avons séparé notre article BYD Seal U Design en sections. Si vous souhait
 
 ## Performances
 
-Le BYD Seal U Design a une puissance maximale de 160 KW (218 ch/215 ch). Le couple total est de 310 nm (229 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 9,3 secondes. La vitesse maximale est de 175 km/h.
+L'BYD Seal U Design offre des performances modestes avec une puissance maximale de 160 kW (218 ch) et un couple total de 310 Nm. Il accélère de 0 à 100 km/h en 9,3 secondes et atteint une vitesse maximale de 175 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

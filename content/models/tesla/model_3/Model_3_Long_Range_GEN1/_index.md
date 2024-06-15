@@ -35,7 +35,7 @@ This model has been replaced by [Tesla Model 3 Long Range](/models/tesla/model_3
 
 ## Performance
 
-The Tesla Model 3 Long Range (GEN1) has a maximum power of 324 KW (441 hp/435 bhp) and a total torque of 493 nm (364 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 4.4 seconds and has a top speed of 233 km/h (145 mph).
+The Tesla Model 3 Long Range (GEN1) offers modest performance with a maximum power of 324 kW (441 hp / 435 bhp) and a total torque of 493 Nm (364 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and has a top speed of233 km/h (145 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

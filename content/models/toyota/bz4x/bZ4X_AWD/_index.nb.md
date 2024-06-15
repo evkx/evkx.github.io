@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Toyota bZ4X AWD i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-Toyota bZ4X AWD har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 337 nm. Den utfører sprinten 0-100 km/t på 6,9 sekunder. Topphastigheten er 160 km/t.
+Toyota bZ4X AWD tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (218 hk) og et totalt dreiemoment på 337 Nm. Den akselererer fra 0 til 100 km/t på 6,9 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

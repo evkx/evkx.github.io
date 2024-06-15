@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Hyundai Kona Long Range en secciones. Si desea 
 
 ## Rendimiento
 
-El Hyundai Kona Long Range tiene una potencia máxima de 160 KW (218 hp/215 bhp). El par total es 255 nm (188 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,3 segundos. La velocidad máxima es 185 km/h.
+El Hyundai Kona Long Range ofrece un rendimiento modesto con una potencia máxima de 160 kW (156 hp) y un par total de 255 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

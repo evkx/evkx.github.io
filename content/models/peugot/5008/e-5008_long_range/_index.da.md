@@ -29,7 +29,7 @@ Vi har opdelt vores Peugot E-5008 Long Range artikel i sektioner. Hvis du vil ve
 
 ## Ydeevne
 
-Peugot E-5008 Long Range har en maksimal effekt på 170 KW (231 hk/228 hk). Det samlede drejningsmoment er 345 nm (255 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9,7 sekunder. Tophastigheden er 170 km/t.
+Peugot E-5008 Long Range tilbyder beskedne præstationer med en maksimal effekt på 170 kW (231 hk) og et samlet drejningsmoment på 345 Nm. Den accelererer fra 0 til 100 km/t på 9,7 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

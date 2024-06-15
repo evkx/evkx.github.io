@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Peugot E-2008 i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Peugot E-2008 har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 260 Nm. Den gör sprinten 0-100 km/h på 9,1 sekunder. Topphastigheten är 150 km/h.
+Peugot E-2008 erbjuder blygsamma prestanda med en maximal effekt på 115 kW (156 hk) och ett totalt vridmoment på 260 Nm. Den accelererar från 0 till 100 km/h på 9,1 sekunder och har en topphastighet på 150 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

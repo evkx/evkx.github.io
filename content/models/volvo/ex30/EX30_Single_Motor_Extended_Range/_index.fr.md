@@ -29,7 +29,7 @@ Nous avons séparé notre article Volvo EX30 Single Motor Extended Range en sect
 
 ## Performances
 
-Le Volvo EX30 Single Motor Extended Range a une puissance maximale de 200 KW (272 ch/268 ch). Le couple total est de 343 nm (253 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,3 secondes. La vitesse maximale est de 180 km/h.
+L'Volvo EX30 Single Motor Extended Range offre des performances modestes avec une puissance maximale de 200 kW (272 ch) et un couple total de 343 Nm. Il accélère de 0 à 100 km/h en 5,3 secondes et atteint une vitesse maximale de 180 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

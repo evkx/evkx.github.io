@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Opel Mokka Electric i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Opel Mokka Electric har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 9,1 sekunder. Topphastigheten er 150 km/t.
+Opel Mokka Electric tilbyr beskjedne ytelser med en maksimal effekt på 115 kW (156 hk) og et totalt dreiemoment på 260 Nm. Den akselererer fra 0 til 100 km/t på 9,1 sekunder og har en toppfart på 150 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har opdelt vores Peugot E-308 SW artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-Peugot E-308 SW har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 10,5 sekunder. Tophastigheden er 170 km/t.
+Peugot E-308 SW tilbyder beskedne præstationer med en maksimal effekt på 115 kW (156 hk) og et samlet drejningsmoment på 260 Nm. Den accelererer fra 0 til 100 km/t på 10,5 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

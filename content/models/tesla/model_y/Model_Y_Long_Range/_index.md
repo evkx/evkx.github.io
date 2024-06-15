@@ -29,7 +29,7 @@ We have separated our Tesla Model Y Long Range article into sections. If you wan
 
 ## Performance
 
-The Tesla Model Y Long Range has a maximum power of 324 KW (441 hp/435 bhp) and a total torque of 493 nm (364 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 5 seconds and has a top speed of 217 km/h (135 mph).
+The Tesla Model Y Long Range offers modest performance with a maximum power of 324 kW (441 hp / 435 bhp) and a total torque of 493 Nm (364 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5 seconds and has a top speed of217 km/h (135 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volvo EM90 i avsnitt. Om du vill vänta med 
 
 ## Prestanda
 
-Volvo EM90 har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 686 Nm. Den gör sprinten 0-100 km/h på 8,3 sekunder. Topphastigheten är 190 km/h.
+Volvo EM90 erbjuder blygsamma prestanda med en maximal effekt på 200 kW (272 hk) och ett totalt vridmoment på 686 Nm. Den accelererar från 0 till 100 km/h på 8,3 sekunder och har en topphastighet på 190 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

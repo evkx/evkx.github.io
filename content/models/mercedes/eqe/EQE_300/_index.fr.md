@@ -29,7 +29,7 @@ Nous avons séparé notre article Mercedes-EQ EQE 300 en sections. Si vous souha
 
 ## Performances
 
-Le Mercedes-EQ EQE 300 a une puissance maximale de 180 KW (245 ch/241 ch). Le couple total est de 565 nm (417 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 7,3 secondes. La vitesse maximale est de 210 km/h.
+L'Mercedes-EQ EQE 300 offre des performances modestes avec une puissance maximale de 180 kW (245 ch) et un couple total de 565 Nm. Il accélère de 0 à 100 km/h en 7,3 secondes et atteint une vitesse maximale de 210 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

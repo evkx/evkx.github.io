@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.3 Pro S article into sections. If you want t
 
 ## Performance
 
-The Volkswagen ID.3 Pro S has a maximum power of 170 KW (231 hp/228 bhp) and a total torque of 310 nm (229 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.1 seconds and has a top speed of 160 km/h (99 mph).
+The Volkswagen ID.3 Pro S offers modest performance with a maximum power of 170 kW (231 hp / 228 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.1 seconds and has a top speed of160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

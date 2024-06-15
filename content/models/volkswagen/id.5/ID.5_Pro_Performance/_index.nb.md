@@ -35,7 +35,7 @@ Denne modellen er erstattet av [Volkswagen ID.5 Pro](/models/volkswagen/id.5/id.
 
 ## Ytelse
 
-Volkswagen ID.5 Pro Performance har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 8,4 sekunder. Topphastigheten er 160 km/t.
+Volkswagen ID.5 Pro Performance tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) og et totalt dreiemoment på 310 Nm. Den akselererer fra 0 til 100 km/t på 8,4 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

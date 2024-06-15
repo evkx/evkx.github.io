@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Volkswagen ID.3 Pro S en secciones. Si desea es
 
 ## Rendimiento
 
-El Volkswagen ID.3 Pro S tiene una potencia máxima de 170 KW (231 hp/228 bhp). El par total es 310 nm (229 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,1 segundos. La velocidad máxima es 160 km/h.
+El Volkswagen ID.3 Pro S ofrece un rendimiento modesto con una potencia máxima de 170 kW (156 hp) y un par total de 310 Nm. Acelera de 0 a 100 km/h en 7,1 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

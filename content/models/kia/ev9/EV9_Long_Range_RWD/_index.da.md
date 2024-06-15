@@ -29,7 +29,7 @@ Vi har opdelt vores Kia EV9 Long Range RWD artikel i sektioner. Hvis du vil vent
 
 ## Ydeevne
 
-Kia EV9 Long Range RWD har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 350 nm (258 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9,4 sekunder. Tophastigheden er 185 km/t.
+Kia EV9 Long Range RWD tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 350 Nm. Den accelererer fra 0 til 100 km/t på 9,4 sekunder og har en topfart på 185 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

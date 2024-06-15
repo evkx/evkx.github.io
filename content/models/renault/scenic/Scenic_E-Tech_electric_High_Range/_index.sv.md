@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Renault Scenic E-Tech electric High Range i 
 
 ## Prestanda
 
-Renault Scenic E-Tech electric High Range har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 300 Nm. Den gör sprinten 0-100 km/h på 8,4 sekunder. Topphastigheten är 170 km/h.
+Renault Scenic E-Tech electric High Range erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 300 Nm. Den accelererar från 0 till 100 km/h på 8,4 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

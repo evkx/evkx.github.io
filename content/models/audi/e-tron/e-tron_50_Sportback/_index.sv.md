@@ -35,7 +35,7 @@ Denna modell har ersatts av [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-tron
 
 ## Prestanda
 
-Audi e-tron 50 Sportback har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 540 Nm. Den gör sprinten 0-100 km/h på 6,8 sekunder. Topphastigheten är 200 km/h.
+Audi e-tron 50 Sportback erbjuder blygsamma prestanda med en maximal effekt på 230 kW (313 hk) och ett totalt vridmoment på 540 Nm. Den accelererar från 0 till 100 km/h på 6,8 sekunder och har en topphastighet på 200 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

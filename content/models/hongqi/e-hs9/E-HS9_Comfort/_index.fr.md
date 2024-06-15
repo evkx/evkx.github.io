@@ -29,7 +29,7 @@ Nous avons séparé notre article Hongqi E-HS9 Comfort en sections. Si vous souh
 
 ## Performances
 
-Le Hongqi E-HS9 Comfort a une puissance maximale de 320 KW (435 ch/429 ch). Le couple total est de 300 nm (221 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,5 secondes. La vitesse maximale est de 200 km/h.
+L'Hongqi E-HS9 Comfort offre des performances modestes avec une puissance maximale de 320 kW (435 ch) et un couple total de 300 Nm. Il accélère de 0 à 100 km/h en 6,5 secondes et atteint une vitesse maximale de 200 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

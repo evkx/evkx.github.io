@@ -29,7 +29,7 @@ Vi har opdelt vores Fiat 600e artikel i sektioner. Hvis du vil vente med at læs
 
 ## Ydeevne
 
-Fiat 600e har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 260 nm (192 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Tophastigheden er 150 km/t.
+Fiat 600e tilbyder beskedne præstationer med en maksimal effekt på 115 kW (156 hk) og et samlet drejningsmoment på 260 Nm. Den accelererer fra 0 til 100 km/t på 9 sekunder og har en topfart på 150 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ Vi har opdelt vores Tesla Model Y Standard Range artikel i sektioner. Hvis du vi
 
 ## Ydeevne
 
-Tesla Model Y Standard Range har en maksimal effekt på 255 KW (347 hk/342 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,9 sekunder. Tophastigheden er 217 km/t.
+Tesla Model Y Standard Range tilbyder beskedne præstationer med en maksimal effekt på 255 kW (347 hk) og et samlet drejningsmoment på 420 Nm. Den accelererer fra 0 til 100 km/t på 6,9 sekunder og har en topfart på 217 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

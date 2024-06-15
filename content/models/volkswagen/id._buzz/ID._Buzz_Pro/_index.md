@@ -29,7 +29,7 @@ We have separated our Volkswagen ID. Buzz Pro article into sections. If you want
 
 ## Performance
 
-The Volkswagen ID. Buzz Pro has a maximum power of 150 KW (204 hp/201 bhp) and a total torque of 310 nm (229 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 10.2 seconds and has a top speed of 145 km/h (90 mph).
+The Volkswagen ID. Buzz Pro offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 10.2 seconds and has a top speed of145 km/h (90 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

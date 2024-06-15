@@ -29,7 +29,7 @@ Vi har opdelt vores MG ZS EV Standard Range artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-MG ZS EV Standard Range har en maksimal effekt på 115 KW (156 hk/154 hk). Det samlede drejningsmoment er 280 nm (207 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Tophastigheden er 175 km/t.
+MG ZS EV Standard Range tilbyder beskedne præstationer med en maksimal effekt på 115 kW (156 hk) og et samlet drejningsmoment på 280 Nm. Den accelererer fra 0 til 100 km/t på 8,6 sekunder og har en topfart på 175 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

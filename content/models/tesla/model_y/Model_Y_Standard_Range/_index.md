@@ -29,7 +29,7 @@ We have separated our Tesla Model Y Standard Range article into sections. If you
 
 ## Performance
 
-The Tesla Model Y Standard Range has a maximum power of 255 KW (347 hp/342 bhp) and a total torque of 420 nm (310 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.9 seconds and has a top speed of 217 km/h (135 mph).
+The Tesla Model Y Standard Range offers modest performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and has a top speed of217 km/h (135 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

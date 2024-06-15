@@ -29,7 +29,7 @@ Vi har opdelt vores Audi Q4 35 e-tron artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-Audi Q4 35 e-tron har en maksimal effekt på 125 KW (170 hk/168 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 9 sekunder. Tophastigheden er 160 km/t.
+Audi Q4 35 e-tron tilbyder beskedne præstationer med en maksimal effekt på 125 kW (170 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 9 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

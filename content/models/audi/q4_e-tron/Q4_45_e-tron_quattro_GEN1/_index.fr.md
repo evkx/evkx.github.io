@@ -35,7 +35,7 @@ Ce modèle a été remplacé par [Audi Q4 45 e-tron quattro](/models/audi/q4_e-t
 
 ## Performances
 
-Le Audi Q4 45 e-tron quattro (GEN1) a une puissance maximale de 195 KW (265 ch/262 ch). Le couple total est de 425 nm (314 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,9 secondes. La vitesse maximale est de 180 km/h.
+L'Audi Q4 45 e-tron quattro (GEN1) offre des performances modestes avec une puissance maximale de 195 kW (265 ch) et un couple total de 425 Nm. Il accélère de 0 à 100 km/h en 6,9 secondes et atteint une vitesse maximale de 180 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

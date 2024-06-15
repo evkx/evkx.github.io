@@ -35,7 +35,7 @@ Denne model er blevet erstattet af [Volvo EC40 Single Motor ER](/models/volvo/ec
 
 ## Ydeevne
 
-Volvo C40 Recharge Single Motor ER har en maksimal effekt på 185 KW (252 hk/248 hk). Det samlede drejningsmoment er 420 nm (310 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,3 sekunder. Tophastigheden er 160 km/t.
+Volvo C40 Recharge Single Motor ER tilbyder beskedne præstationer med en maksimal effekt på 185 kW (252 hk) og et samlet drejningsmoment på 420 Nm. Den accelererer fra 0 til 100 km/t på 7,3 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

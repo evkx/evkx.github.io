@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Peugot E-3008 i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Peugot E-3008 har en maximal effekt på 157 KW (214hk). Totalt vridmoment är 345 Nm. Den gör sprinten 0-100 km/h på 8,8 sekunder. Topphastigheten är 170 km/h.
+Peugot E-3008 erbjuder blygsamma prestanda med en maximal effekt på 157 kW (214 hk) och ett totalt vridmoment på 345 Nm. Den accelererar från 0 till 100 km/h på 8,8 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

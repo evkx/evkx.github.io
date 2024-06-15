@@ -35,7 +35,7 @@ Denne modellen er erstattet av [Tesla Model 3 Long Range](/models/tesla/model_3/
 
 ## Ytelse
 
-Tesla Model 3 (GEN1) har en maksimal effekt på 208 KW (283hk). Totalt dreiemoment er 420 nm. Den utfører sprinten 0-100 km/t på 6,1 sekunder. Topphastigheten er 225 km/t.
+Tesla Model 3 (GEN1) tilbyr beskjedne ytelser med en maksimal effekt på 208 kW (283 hk) og et totalt dreiemoment på 420 Nm. Den akselererer fra 0 til 100 km/t på 6,1 sekunder og har en toppfart på 225 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

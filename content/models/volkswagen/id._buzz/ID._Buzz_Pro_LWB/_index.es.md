@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Volkswagen ID. Buzz Pro LWB en secciones. Si de
 
 ## Rendimiento
 
-El Volkswagen ID. Buzz Pro LWB tiene una potencia máxima de 210 KW (286 hp/282 bhp). El par total es 550 nm (406 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,9 segundos. La velocidad máxima es 160 km/h.
+El Volkswagen ID. Buzz Pro LWB ofrece un rendimiento modesto con una potencia máxima de 210 kW (156 hp) y un par total de 550 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

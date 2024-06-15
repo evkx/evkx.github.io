@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Tesla Model 3 Long Range i avsnitt. Om du vi
 
 ## Prestanda
 
-Tesla Model 3 Long Range har en maximal effekt på 324 KW (441hk). Totalt vridmoment är 493 Nm. Den gör sprinten 0-100 km/h på 4,4 sekunder. Topphastigheten är 201 km/h.
+Tesla Model 3 Long Range erbjuder blygsamma prestanda med en maximal effekt på 324 kW (441 hk) och ett totalt vridmoment på 493 Nm. Den accelererar från 0 till 100 km/h på 4,4 sekunder och har en topphastighet på 201 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

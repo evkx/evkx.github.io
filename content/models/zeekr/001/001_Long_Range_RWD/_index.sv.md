@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Zeekr 001 Long Range RWD i avsnitt. Om du vi
 
 ## Prestanda
 
-Zeekr 001 Long Range RWD har en maximal effekt på 200 KW (272hk). Totalt vridmoment är 343 Nm. Den gör sprinten 0-100 km/h på 7,2 sekunder. Topphastigheten är 200 km/h.
+Zeekr 001 Long Range RWD erbjuder blygsamma prestanda med en maximal effekt på 200 kW (272 hk) och ett totalt vridmoment på 343 Nm. Den accelererar från 0 till 100 km/h på 7,2 sekunder och har en topphastighet på 200 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ Nous avons séparé notre article Nissan Ariya 87kWh e-4ORCE en sections. Si vou
 
 ## Performances
 
-Le Nissan Ariya 87kWh e-4ORCE a une puissance maximale de 225 KW (306 ch/302 ch). Le couple total est de 600 nm (443 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,7 secondes. La vitesse maximale est de 200 km/h.
+L'Nissan Ariya 87kWh e-4ORCE offre des performances modestes avec une puissance maximale de 225 kW (306 ch) et un couple total de 600 Nm. Il accélère de 0 à 100 km/h en 5,7 secondes et atteint une vitesse maximale de 200 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

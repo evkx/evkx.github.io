@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model 3 Performance en secciones. Si dese
 
 ## Rendimiento
 
-El Tesla Model 3 Performance ofrece un rendimiento sólido con una potencia máxima de 393 kW (534 hp) y un par total de 660 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Tesla Model 3 Performance ofrece un rendimiento sólido con una potencia máxima de 393 kW (534 hp) y un par total de 660 Nm. Puede acelerar de 0 a 100 km/h en 3,3 segundos y alcanza una velocidad máxima de 261 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

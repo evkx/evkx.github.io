@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Volvo EX40 Twin Motor en secciones. Si desea es
 
 ## Rendimiento
 
-El Volvo EX40 Twin Motor ofrece un rendimiento sólido con una potencia máxima de 300 kW (408 hp) y un par total de 670 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Volvo EX40 Twin Motor ofrece un rendimiento sólido con una potencia máxima de 300 kW (408 hp) y un par total de 670 Nm. Puede acelerar de 0 a 100 km/h en 4,8 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

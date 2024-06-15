@@ -29,7 +29,7 @@ Vi har opdelt vores Mercedes-EQ EQA 300 4MATIC artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Mercedes-EQ EQA 300 4MATIC har en maksimal effekt på 168 KW (228 hk/225 hk). Det samlede drejningsmoment er 390 nm (288 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,7 sekunder. Tophastigheden er 160 km/t.
+Mercedes-EQ EQA 300 4MATIC tilbyder beskedne præstationer med en maksimal effekt på 168 kW (228 hk) og et samlet drejningsmoment på 390 Nm. Den accelererer fra 0 til 100 km/t på 7,7 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

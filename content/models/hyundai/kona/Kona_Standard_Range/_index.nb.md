@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Hyundai Kona Standard Range i seksjoner. Hvis du
 
 ## Ytelse
 
-Hyundai Kona Standard Range har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 255 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 185 km/t.
+Hyundai Kona Standard Range tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (218 hk) og et totalt dreiemoment på 255 Nm. Den akselererer fra 0 til 100 km/t på 7,3 sekunder og har en toppfart på 185 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

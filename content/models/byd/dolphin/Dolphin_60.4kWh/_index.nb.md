@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BYD Dolphin 60.4kWh i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-BYD Dolphin 60.4kWh har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7 sekunder. Topphastigheten er 160 km/t.
+BYD Dolphin 60.4kWh tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) og et totalt dreiemoment på 310 Nm. Den akselererer fra 0 til 100 km/t på 7 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

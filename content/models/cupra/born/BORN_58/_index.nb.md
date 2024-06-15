@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av CUPRA BORN 58 i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-CUPRA BORN 58 har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 7,3 sekunder. Topphastigheten er 160 km/t.
+CUPRA BORN 58 tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) og et totalt dreiemoment på 310 Nm. Den akselererer fra 0 til 100 km/t på 7,3 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

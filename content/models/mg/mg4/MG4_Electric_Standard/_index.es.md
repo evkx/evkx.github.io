@@ -29,7 +29,7 @@ Hemos separado nuestro artículo MG MG4 Electric Standard en secciones. Si desea
 
 ## Rendimiento
 
-El MG MG4 Electric Standard tiene una potencia máxima de 150 KW (204 hp/201 bhp). El par total es 250 nm (184 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7,9 segundos. La velocidad máxima es 160 km/h.
+El MG MG4 Electric Standard ofrece un rendimiento modesto con una potencia máxima de 150 kW (156 hp) y un par total de 250 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

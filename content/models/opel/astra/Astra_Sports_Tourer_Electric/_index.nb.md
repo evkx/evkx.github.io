@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Opel Astra Sports Tourer Electric i seksjoner. H
 
 ## Ytelse
 
-Opel Astra Sports Tourer Electric har en maksimal effekt på 115 KW (156hk). Totalt dreiemoment er 260 nm. Den utfører sprinten 0-100 km/t på 10,5 sekunder. Topphastigheten er 170 km/t.
+Opel Astra Sports Tourer Electric tilbyr beskjedne ytelser med en maksimal effekt på 115 kW (156 hk) og et totalt dreiemoment på 260 Nm. Den akselererer fra 0 til 100 km/t på 10,5 sekunder og har en toppfart på 170 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

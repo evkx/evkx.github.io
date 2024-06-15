@@ -29,7 +29,7 @@ Vi har opdelt vores Volkswagen ID.3 Pro S artikel i sektioner. Hvis du vil vente
 
 ## Ydeevne
 
-Volkswagen ID.3 Pro S har en maksimal effekt på 170 KW (231 hk/228 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 7,1 sekunder. Tophastigheden er 160 km/t.
+Volkswagen ID.3 Pro S tilbyder beskedne præstationer med en maksimal effekt på 170 kW (231 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 7,1 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model 3 Long Range en secciones. Si desea
 
 ## Rendimiento
 
-El Tesla Model 3 Long Range tiene una potencia máxima de 324 KW (441 hp/435 bhp). El par total es 493 nm (364 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 4,4 segundos. La velocidad máxima es 201 km/h.
+El Tesla Model 3 Long Range ofrece un rendimiento modesto con una potencia máxima de 324 kW (156 hp) y un par total de 493 Nm. Acelera de 0 a 100 km/h en 4,4 segundos y tiene una velocidad máxima 201 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

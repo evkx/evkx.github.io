@@ -29,7 +29,7 @@ Nous avons séparé notre article Lexus RZ 450e en sections. Si vous souhaitez a
 
 ## Performances
 
-Le Lexus RZ 450e a une puissance maximale de 230 KW (313 ch/308 ch). Le couple total est de 435 nm (321 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,3 secondes. La vitesse maximale est de 160 km/h.
+L'Lexus RZ 450e offre des performances modestes avec une puissance maximale de 230 kW (313 ch) et un couple total de 435 Nm. Il accélère de 0 à 100 km/h en 5,3 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

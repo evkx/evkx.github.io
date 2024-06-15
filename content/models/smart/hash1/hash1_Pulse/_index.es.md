@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Smart #1 Pulse en secciones. Si desea esperar p
 
 ## Rendimiento
 
-El Smart #1 Pulse ofrece un rendimiento sólido con una potencia máxima de 315 kW (428 hp) y un par total de 584 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Smart #1 Pulse ofrece un rendimiento sólido con una potencia máxima de 315 kW (428 hp) y un par total de 584 Nm. Puede acelerar de 0 a 100 km/h en 4,5 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

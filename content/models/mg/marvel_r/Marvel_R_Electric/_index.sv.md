@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av MG Marvel R Electric i avsnitt. Om du vill v
 
 ## Prestanda
 
-MG Marvel R Electric har en maximal effekt på 132 KW (180hk). Totalt vridmoment är 410 Nm. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 160 km/h.
+MG Marvel R Electric erbjuder blygsamma prestanda med en maximal effekt på 132 kW (180 hk) och ett totalt vridmoment på 410 Nm. Den accelererar från 0 till 100 km/h på 7,9 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

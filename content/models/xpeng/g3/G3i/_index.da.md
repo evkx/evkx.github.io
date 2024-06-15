@@ -29,7 +29,7 @@ Vi har opdelt vores XPENG G3i artikel i sektioner. Hvis du vil vente med at læs
 
 ## Ydeevne
 
-XPENG G3i har en maksimal effekt på 145 KW (197 hk/194 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Tophastigheden er 170 km/t.
+XPENG G3i tilbyder beskedne præstationer med en maksimal effekt på 145 kW (197 hk) og et samlet drejningsmoment på 300 Nm. Den accelererer fra 0 til 100 km/t på 8,6 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

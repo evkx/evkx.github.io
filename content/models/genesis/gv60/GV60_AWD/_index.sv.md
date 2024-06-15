@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Genesis GV60 AWD i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-Genesis GV60 AWD har en maximal effekt på 234 KW (318hk). Totalt vridmoment är 605 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 185 km/h.
+Genesis GV60 AWD erbjuder blygsamma prestanda med en maximal effekt på 234 kW (318 hk) och ett totalt vridmoment på 605 Nm. Den accelererar från 0 till 100 km/h på 5,5 sekunder och har en topphastighet på 185 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

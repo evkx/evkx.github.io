@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW i4 eDrive40 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW i4 eDrive40 har en maksimal effekt på 250 KW (340hk). Totalt dreiemoment er 430 nm. Den utfører sprinten 0-100 km/t på 5,7 sekunder. Topphastigheten er 190 km/t.
+BMW i4 eDrive40 tilbyr beskjedne ytelser med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 430 Nm. Den akselererer fra 0 til 100 km/t på 5,7 sekunder og har en toppfart på 190 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

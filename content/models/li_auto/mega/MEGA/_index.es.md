@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Li Auto MEGA en secciones. Si desea esperar par
 
 ## Rendimiento
 
-El Li Auto MEGA ofrece un rendimiento sólido con una potencia máxima de 400 kW (544 hp) y un par total de 542 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Li Auto MEGA ofrece un rendimiento sólido con una potencia máxima de 400 kW (544 hp) y un par total de 542 Nm. Puede acelerar de 0 a 100 km/h en 5,5 segundos y alcanza una velocidad máxima de 190 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

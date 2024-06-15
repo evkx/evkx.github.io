@@ -29,7 +29,7 @@ Nous avons séparé notre article XPENG G3i en sections. Si vous souhaitez atten
 
 ## Performances
 
-Le XPENG G3i a une puissance maximale de 145 KW (197 ch/194 ch). Le couple total est de 300 nm (221 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 8,6 secondes. La vitesse maximale est de 170 km/h.
+L'XPENG G3i offre des performances modestes avec une puissance maximale de 145 kW (197 ch) et un couple total de 300 Nm. Il accélère de 0 à 100 km/h en 8,6 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

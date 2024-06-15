@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av MG ZS EV Long Range i avsnitt. Om du vill v�
 
 ## Prestanda
 
-MG ZS EV Long Range har en maximal effekt på 115 KW (156hk). Totalt vridmoment är 280 Nm. Den gör sprinten 0-100 km/h på 8,6 sekunder. Topphastigheten är 175 km/h.
+MG ZS EV Long Range erbjuder blygsamma prestanda med en maximal effekt på 115 kW (156 hk) och ett totalt vridmoment på 280 Nm. Den accelererar från 0 till 100 km/h på 8,6 sekunder och har en topphastighet på 175 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Kia EV9 GT-Line AWD en secciones. Si desea espe
 
 ## Rendimiento
 
-El Kia EV9 GT-Line AWD ofrece un rendimiento sólido con una potencia máxima de 283 kW (385 hp) y un par total de 700 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Kia EV9 GT-Line AWD ofrece un rendimiento sólido con una potencia máxima de 283 kW (385 hp) y un par total de 700 Nm. Puede acelerar de 0 a 100 km/h en 5,3 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

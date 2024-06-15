@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Fisker Ocean Sport i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Med overboost har Fisker Ocean Sport en maximal effekt på 209 KW (284hk). Utan overboost är det 180KW (245hp). Vridmomentet är 386 Nm med överboost och 386 utan överboost. Den gör sprinten 0-100 km/h på 7,9 sekunder. Topphastigheten är 188 km/h.
+Fisker Ocean Sport erbjuder blygsamma prestanda med en maximal effekt på 180 kW (245 hk) och ett totalt vridmoment på 386 Nm. Den accelererar från 0 till 100 km/h på 7,9 sekunder och har en topphastighet på 188 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

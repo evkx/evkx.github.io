@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Toyota bZ4X FWD en secciones. Si desea esperar 
 
 ## Rendimiento
 
-El Toyota bZ4X FWD tiene una potencia máxima de 160 KW (218 hp/215 bhp). El par total es 337 nm (249 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,9 segundos. La velocidad máxima es 160 km/h.
+El Toyota bZ4X FWD ofrece un rendimiento modesto con una potencia máxima de 160 kW (156 hp) y un par total de 337 Nm. Acelera de 0 a 100 km/h en 6,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

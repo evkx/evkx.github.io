@@ -29,7 +29,7 @@ Hemos separado nuestro artículo SKODA ENYAQ COUPÉ 85x en secciones. Si desea e
 
 ## Rendimiento
 
-El SKODA ENYAQ COUPÉ 85x tiene una potencia máxima de 210 KW (286 hp/282 bhp). El par total es 679 nm (501 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,6 segundos. La velocidad máxima es 180 km/h.
+El SKODA ENYAQ COUPÉ 85x ofrece un rendimiento modesto con una potencia máxima de 210 kW (156 hp) y un par total de 679 Nm. Acelera de 0 a 100 km/h en 6,6 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

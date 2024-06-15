@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Renault 5 E-Tech 52kWh 150hp i seksjoner. Hvis d
 
 ## Ytelse
 
-Renault 5 E-Tech 52kWh 150hp har en maksimal effekt på 110 KW (150hk). Totalt dreiemoment er 245 nm. Den utfører sprinten 0-100 km/t på 7,9 sekunder. Topphastigheten er 150 km/t.
+Renault 5 E-Tech 52kWh 150hp tilbyr beskjedne ytelser med en maksimal effekt på 110 kW (150 hk) og et totalt dreiemoment på 245 Nm. Den akselererer fra 0 til 100 km/t på 7,9 sekunder og har en toppfart på 150 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

@@ -29,7 +29,7 @@ Vi har opdelt vores Ford Explorer Extended Range RWD artikel i sektioner. Hvis d
 
 ## Ydeevne
 
-Ford Explorer Extended Range RWD har en maksimal effekt på 210 KW (286 hk/282 hk). Det samlede drejningsmoment er 545 nm (402 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,4 sekunder. Tophastigheden er 180 km/t.
+Ford Explorer Extended Range RWD tilbyder beskedne præstationer med en maksimal effekt på 210 kW (286 hk) og et samlet drejningsmoment på 545 Nm. Den accelererer fra 0 til 100 km/t på 6,4 sekunder og har en topfart på 180 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

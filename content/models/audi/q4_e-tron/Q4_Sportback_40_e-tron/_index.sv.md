@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Audi Q4 Sportback 40 e-tron i avsnitt. Om du
 
 ## Prestanda
 
-Audi Q4 Sportback 40 e-tron har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 8,5 sekunder. Topphastigheten är 160 km/h.
+Audi Q4 Sportback 40 e-tron erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 310 Nm. Den accelererar från 0 till 100 km/h på 8,5 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

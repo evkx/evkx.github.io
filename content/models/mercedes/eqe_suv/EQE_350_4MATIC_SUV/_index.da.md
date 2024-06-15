@@ -29,7 +29,7 @@ Vi har opdelt vores Mercedes-EQ EQE 350 4MATIC SUV artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-Mercedes-EQ EQE 350 4MATIC SUV har en maksimal effekt på 215 KW (292 hk/288 hk). Det samlede drejningsmoment er 765 nm (565 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,6 sekunder. Tophastigheden er 210 km/t.
+Mercedes-EQ EQE 350 4MATIC SUV tilbyder beskedne præstationer med en maksimal effekt på 215 kW (292 hk) og et samlet drejningsmoment på 765 Nm. Den accelererer fra 0 til 100 km/t på 6,6 sekunder og har en topfart på 210 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

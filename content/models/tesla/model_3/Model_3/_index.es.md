@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model 3 en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El Tesla Model 3 tiene una potencia máxima de 208 KW (283 hp/279 bhp). El par total es 420 nm (310 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,1 segundos. La velocidad máxima es 225 km/h.
+El Tesla Model 3 ofrece un rendimiento modesto con una potencia máxima de 208 kW (156 hp) y un par total de 420 Nm. Acelera de 0 a 100 km/h en 6,1 segundos y tiene una velocidad máxima 225 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

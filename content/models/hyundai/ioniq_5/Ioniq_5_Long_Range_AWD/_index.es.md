@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Hyundai Ioniq 5 Long Range AWD en secciones. Si
 
 ## Rendimiento
 
-El Hyundai Ioniq 5 Long Range AWD tiene una potencia máxima de 239 KW (325 hp/321 bhp). El par total es 605 nm (446 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,1 segundos. La velocidad máxima es 185 km/h.
+El Hyundai Ioniq 5 Long Range AWD ofrece un rendimiento modesto con una potencia máxima de 239 kW (156 hp) y un par total de 605 Nm. Acelera de 0 a 100 km/h en 5,1 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

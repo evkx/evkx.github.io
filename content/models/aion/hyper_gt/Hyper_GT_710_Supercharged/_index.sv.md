@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Aion Hyper GT 710 Supercharged i avsnitt. Om
 
 ## Prestanda
 
-Aion Hyper GT 710 Supercharged har en maximal effekt på 250 KW (340hk). Totalt vridmoment är 430 Nm. Den gör sprinten 0-100 km/h på 4,9 sekunder. Topphastigheten är 257 km/h.
+Aion Hyper GT 710 Supercharged erbjuder blygsamma prestanda med en maximal effekt på 250 kW (340 hk) och ett totalt vridmoment på 430 Nm. Den accelererar från 0 till 100 km/h på 4,9 sekunder och har en topphastighet på 257 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ We have separated our Fiat 600e article into sections. If you want to wait to re
 
 ## Performance
 
-The Fiat 600e has a maximum power of 115 KW (156 hp/154 bhp) and a total torque of 260 nm (192 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 9 seconds and has a top speed of 150 km/h (93 mph).
+The Fiat 600e offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volkswagen ID.4 Pro i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Volkswagen ID.4 Pro har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 545 Nm. Den gör sprinten 0-100 km/h på 6,7 sekunder. Topphastigheten är 160 km/h.
+Volkswagen ID.4 Pro erbjuder blygsamma prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 545 Nm. Den accelererar från 0 till 100 km/h på 6,7 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

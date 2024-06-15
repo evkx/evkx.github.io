@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Genesis GV60 2WD i avsnitt. Om du vill vänt
 
 ## Prestanda
 
-Genesis GV60 2WD har en maximal effekt på 168 KW (228hk). Totalt vridmoment är 350 Nm. Den gör sprinten 0-100 km/h på 5,5 sekunder. Topphastigheten är 185 km/h.
+Genesis GV60 2WD erbjuder blygsamma prestanda med en maximal effekt på 168 kW (228 hk) och ett totalt vridmoment på 350 Nm. Den accelererar från 0 till 100 km/h på 5,5 sekunder och har en topphastighet på 185 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

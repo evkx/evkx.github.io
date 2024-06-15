@@ -29,7 +29,7 @@ Nous avons séparé notre article MG ZS EV Long Range en sections. Si vous souha
 
 ## Performances
 
-Le MG ZS EV Long Range a une puissance maximale de 115 KW (156 ch/154 ch). Le couple total est de 280 nm (207 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 8,6 secondes. La vitesse maximale est de 175 km/h.
+L'MG ZS EV Long Range offre des performances modestes avec une puissance maximale de 115 kW (156 ch) et un couple total de 280 Nm. Il accélère de 0 à 100 km/h en 8,6 secondes et atteint une vitesse maximale de 175 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

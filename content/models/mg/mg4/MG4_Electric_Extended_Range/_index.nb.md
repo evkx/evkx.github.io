@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av MG MG4 Electric Extended Range i seksjoner. Hvis
 
 ## Ytelse
 
-MG MG4 Electric Extended Range har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 250 nm. Den utfører sprinten 0-100 km/t på 7,9 sekunder. Topphastigheten er 160 km/t.
+MG MG4 Electric Extended Range tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) og et totalt dreiemoment på 250 Nm. Den akselererer fra 0 til 100 km/t på 7,9 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

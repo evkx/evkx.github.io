@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av SKODA Enyaq iV80x i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-SKODA Enyaq iV80x har en maksimal effekt på 195 KW (265hk). Totalt dreiemoment er 425 nm. Den utfører sprinten 0-100 km/t på 6,9 sekunder. Topphastigheten er 160 km/t.
+SKODA Enyaq iV80x tilbyr beskjedne ytelser med en maksimal effekt på 195 kW (265 hk) og et totalt dreiemoment på 425 Nm. Den akselererer fra 0 til 100 km/t på 6,9 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

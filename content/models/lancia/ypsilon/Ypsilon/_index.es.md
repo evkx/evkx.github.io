@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lancia Ypsilon en secciones. Si desea esperar p
 
 ## Rendimiento
 
-El Lancia Ypsilon tiene una potencia máxima de 115 KW (156 hp/154 bhp). El par total es 260 nm (192 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 10,5 segundos. La velocidad máxima es 170 km/h.
+El Lancia Ypsilon ofrece un rendimiento modesto con una potencia máxima de 115 kW (156 hp) y un par total de 260 Nm. Acelera de 0 a 100 km/h en 10,5 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

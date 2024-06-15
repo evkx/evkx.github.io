@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Mercedes-EQ EQS 450+ en secciones. Si desea esp
 
 ## Rendimiento
 
-El Mercedes-EQ EQS 450+ ofrece un rendimiento sólido con una potencia máxima de 265 kW (360 hp) y un par total de 800 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Mercedes-EQ EQS 450+ ofrece un rendimiento sólido con una potencia máxima de 265 kW (360 hp) y un par total de 800 Nm. Puede acelerar de 0 a 100 km/h en 5,6 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

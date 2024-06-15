@@ -29,7 +29,7 @@ Hemos separado nuestro artículo CUPRA BORN VZ en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El CUPRA BORN VZ tiene una potencia máxima de 240 KW (326 hp/322 bhp). El par total es 545 nm (402 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,7 segundos. La velocidad máxima es 200 km/h.
+El CUPRA BORN VZ ofrece un rendimiento modesto con una potencia máxima de 240 kW (156 hp) y un par total de 545 Nm. Acelera de 0 a 100 km/h en 5,7 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

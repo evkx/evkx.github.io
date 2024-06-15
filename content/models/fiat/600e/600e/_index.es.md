@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Fiat 600e en secciones. Si desea esperar para l
 
 ## Rendimiento
 
-El Fiat 600e tiene una potencia máxima de 115 KW (156 hp/154 bhp). El par total es 260 nm (192 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 9 segundos. La velocidad máxima es 150 km/h.
+El Fiat 600e ofrece un rendimiento modesto con una potencia máxima de 115 kW (156 hp) y un par total de 260 Nm. Acelera de 0 a 100 km/h en 9 segundos y tiene una velocidad máxima 150 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

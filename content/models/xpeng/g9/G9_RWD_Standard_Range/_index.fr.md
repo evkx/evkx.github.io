@@ -29,7 +29,7 @@ Nous avons séparé notre article XPENG G9 RWD Standard Range en sections. Si vo
 
 ## Performances
 
-Le XPENG G9 RWD Standard Range a une puissance maximale de 230 KW (313 ch/308 ch). Le couple total est de 430 nm (317 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 6,4 secondes. La vitesse maximale est de 200 km/h.
+L'XPENG G9 RWD Standard Range offre des performances modestes avec une puissance maximale de 230 kW (313 ch) et un couple total de 430 Nm. Il accélère de 0 à 100 km/h en 6,4 secondes et atteint une vitesse maximale de 200 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

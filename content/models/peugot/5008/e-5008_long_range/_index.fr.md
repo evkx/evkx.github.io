@@ -29,7 +29,7 @@ Nous avons séparé notre article Peugot E-5008 Long Range en sections. Si vous 
 
 ## Performances
 
-Le Peugot E-5008 Long Range a une puissance maximale de 170 KW (231 ch/228 ch). Le couple total est de 345 nm (255 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 9,7 secondes. La vitesse maximale est de 170 km/h.
+L'Peugot E-5008 Long Range offre des performances modestes avec une puissance maximale de 170 kW (231 ch) et un couple total de 345 Nm. Il accélère de 0 à 100 km/h en 9,7 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

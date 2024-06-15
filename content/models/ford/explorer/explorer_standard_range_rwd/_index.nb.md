@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Ford Explorer Standard Range RWD i seksjoner. Hv
 
 ## Ytelse
 
-Ford Explorer Standard Range RWD har en maksimal effekt på 125 KW (170hk). Totalt dreiemoment er 310 nm. Den utfører sprinten 0-100 km/t på 9 sekunder. Topphastigheten er 160 km/t.
+Ford Explorer Standard Range RWD tilbyr beskjedne ytelser med en maksimal effekt på 125 kW (170 hk) og et totalt dreiemoment på 310 Nm. Den akselererer fra 0 til 100 km/t på 9 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

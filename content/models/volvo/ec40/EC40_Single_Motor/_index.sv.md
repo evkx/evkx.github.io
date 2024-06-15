@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volvo EC40 Single Motor i avsnitt. Om du vil
 
 ## Prestanda
 
-Volvo EC40 Single Motor har en maximal effekt på 175 KW (238hk). Totalt vridmoment är 420 Nm. Den gör sprinten 0-100 km/h på 7,3 sekunder. Topphastigheten är 180 km/h.
+Volvo EC40 Single Motor erbjuder blygsamma prestanda med en maximal effekt på 175 kW (238 hk) och ett totalt vridmoment på 420 Nm. Den accelererar från 0 till 100 km/h på 7,3 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ Vi har opdelt vores SKODA Enyaq iV80 artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-SKODA Enyaq iV80 har en maksimal effekt på 150 KW (204 hk/201 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,6 sekunder. Tophastigheden er 160 km/t.
+SKODA Enyaq iV80 tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 8,6 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

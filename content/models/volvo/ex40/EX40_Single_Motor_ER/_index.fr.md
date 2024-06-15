@@ -29,7 +29,7 @@ Nous avons séparé notre article Volvo EX40 Single Motor ER en sections. Si vou
 
 ## Performances
 
-Le Volvo EX40 Single Motor ER a une puissance maximale de 185 KW (252 ch/248 ch). Le couple total est de 420 nm (310 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 7,3 secondes. La vitesse maximale est de 160 km/h.
+L'Volvo EX40 Single Motor ER offre des performances modestes avec une puissance maximale de 185 kW (252 ch) et un couple total de 420 Nm. Il accélère de 0 à 100 km/h en 7,3 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

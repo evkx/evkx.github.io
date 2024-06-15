@@ -35,7 +35,7 @@ Ce modèle a été remplacé par [Volvo EX40 Single Motor](/models/volvo/ex40/ex
 
 ## Performances
 
-Le Volvo XC40 Recharge Single Motor a une puissance maximale de 175 KW (238 ch/235 ch). Le couple total est de 420 nm (310 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 7,3 secondes. La vitesse maximale est de 180 km/h.
+L'Volvo XC40 Recharge Single Motor offre des performances modestes avec une puissance maximale de 175 kW (238 ch) et un couple total de 420 Nm. Il accélère de 0 à 100 km/h en 7,3 secondes et atteint une vitesse maximale de 180 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

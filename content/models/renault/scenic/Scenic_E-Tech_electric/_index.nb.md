@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Renault Scenic E-Tech electric i seksjoner. Hvis
 
 ## Ytelse
 
-Renault Scenic E-Tech electric har en maksimal effekt på 160 KW (218hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t på 8,4 sekunder. Topphastigheten er 170 km/t.
+Renault Scenic E-Tech electric tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (218 hk) og et totalt dreiemoment på 300 Nm. Den akselererer fra 0 til 100 km/t på 8,4 sekunder og har en toppfart på 170 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

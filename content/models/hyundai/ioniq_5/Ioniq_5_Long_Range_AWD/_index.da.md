@@ -29,7 +29,7 @@ Vi har opdelt vores Hyundai Ioniq 5 Long Range AWD artikel i sektioner. Hvis du 
 
 ## Ydeevne
 
-Hyundai Ioniq 5 Long Range AWD har en maksimal effekt på 239 KW (325 hk/321 hk). Det samlede drejningsmoment er 605 nm (446 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,1 sekunder. Tophastigheden er 185 km/t.
+Hyundai Ioniq 5 Long Range AWD tilbyder beskedne præstationer med en maksimal effekt på 239 kW (325 hk) og et samlet drejningsmoment på 605 Nm. Den accelererer fra 0 til 100 km/t på 5,1 sekunder og har en topfart på 185 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

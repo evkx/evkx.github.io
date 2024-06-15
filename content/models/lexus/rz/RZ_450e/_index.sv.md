@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Lexus RZ 450e i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-Lexus RZ 450e har en maximal effekt på 230 KW (313hk). Totalt vridmoment är 435 Nm. Den gör sprinten 0-100 km/h på 5,3 sekunder. Topphastigheten är 160 km/h.
+Lexus RZ 450e erbjuder blygsamma prestanda med en maximal effekt på 230 kW (313 hk) och ett totalt vridmoment på 435 Nm. Den accelererar från 0 till 100 km/h på 5,3 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

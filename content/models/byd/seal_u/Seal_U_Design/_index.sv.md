@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av BYD Seal U Design i avsnitt. Om du vill vän
 
 ## Prestanda
 
-BYD Seal U Design har en maximal effekt på 160 KW (218hk). Totalt vridmoment är 310 Nm. Den gör sprinten 0-100 km/h på 9,3 sekunder. Topphastigheten är 175 km/h.
+BYD Seal U Design erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 310 Nm. Den accelererar från 0 till 100 km/h på 9,3 sekunder och har en topphastighet på 175 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

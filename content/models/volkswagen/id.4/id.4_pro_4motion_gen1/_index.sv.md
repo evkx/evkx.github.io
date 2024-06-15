@@ -35,7 +35,7 @@ Denna modell har ersatts av [Volkswagen ID.4 Pro 4MOTION](/models/volkswagen/id.
 
 ## Prestanda
 
-Volkswagen ID.4 Pro 4MOTION (GEN1) har en maximal effekt på 195 KW (265hk). Totalt vridmoment är 425 Nm. Den gör sprinten 0-100 km/h på 6,9 sekunder. Topphastigheten är 180 km/h.
+Volkswagen ID.4 Pro 4MOTION (GEN1) erbjuder blygsamma prestanda med en maximal effekt på 195 kW (265 hk) och ett totalt vridmoment på 425 Nm. Den accelererar från 0 till 100 km/h på 6,9 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

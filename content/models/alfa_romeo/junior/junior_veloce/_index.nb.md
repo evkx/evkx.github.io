@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Alfa Romeo Junior Veloce i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Alfa Romeo Junior Veloce har en maksimal effekt på 176 KW (239hk). Totalt dreiemoment er 400 nm. Den utfører sprinten 0-100 km/t på 5,9 sekunder. Topphastigheten er 150 km/t.
+Alfa Romeo Junior Veloce tilbyr beskjedne ytelser med en maksimal effekt på 176 kW (239 hk) og et totalt dreiemoment på 400 Nm. Den akselererer fra 0 til 100 km/t på 5,9 sekunder og har en toppfart på 150 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

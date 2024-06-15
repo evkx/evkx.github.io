@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Volkswagen ID.4 Pure i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Volkswagen ID.4 Pure har en maksimal effekt på 210 KW (286hk). Totalt dreiemoment er 545 nm. Den utfører sprinten 0-100 km/t på 6,7 sekunder. Topphastigheten er 160 km/t.
+Volkswagen ID.4 Pure tilbyr beskjedne ytelser med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 545 Nm. Den akselererer fra 0 til 100 km/t på 6,7 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

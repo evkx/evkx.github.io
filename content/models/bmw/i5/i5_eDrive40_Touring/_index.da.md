@@ -29,7 +29,7 @@ Vi har opdelt vores BMW i5 eDrive40 Touring artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-BMW i5 eDrive40 Touring har en maksimal effekt på 250 KW (340 hk/335 hk). Det samlede drejningsmoment er 430 nm (317 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,1 sekunder. Tophastigheden er 193 km/t.
+BMW i5 eDrive40 Touring tilbyder beskedne præstationer med en maksimal effekt på 250 kW (340 hk) og et samlet drejningsmoment på 430 Nm. Den accelererer fra 0 til 100 km/t på 6,1 sekunder og har en topfart på 193 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

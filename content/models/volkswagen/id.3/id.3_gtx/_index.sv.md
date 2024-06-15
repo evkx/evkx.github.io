@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volkswagen ID.3 GTX i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Volkswagen ID.3 GTX har en maximal effekt på 210 KW (286hk). Totalt vridmoment är 545 Nm. Den gör sprinten 0-100 km/h på 6 sekunder. Topphastigheten är 180 km/h.
+Volkswagen ID.3 GTX erbjuder blygsamma prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 545 Nm. Den accelererar från 0 till 100 km/h på 6 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

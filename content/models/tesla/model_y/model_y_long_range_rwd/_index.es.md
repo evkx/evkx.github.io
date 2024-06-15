@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model Y Long Range RWD en secciones. Si d
 
 ## Rendimiento
 
-El Tesla Model Y Long Range RWD tiene una potencia máxima de 250 KW (340 hp/335 bhp). El par total es 450 nm (332 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,9 segundos. La velocidad máxima es 217 km/h.
+El Tesla Model Y Long Range RWD ofrece un rendimiento modesto con una potencia máxima de 250 kW (156 hp) y un par total de 450 Nm. Acelera de 0 a 100 km/h en 5,9 segundos y tiene una velocidad máxima 217 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

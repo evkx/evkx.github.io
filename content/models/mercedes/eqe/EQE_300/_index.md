@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQE 300 article into sections. If you want to 
 
 ## Performance
 
-The Mercedes-EQ EQE 300 has a maximum power of 180 KW (245 hp/241 bhp) and a total torque of 565 nm (417 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.3 seconds and has a top speed of 210 km/h (131 mph).
+The Mercedes-EQ EQE 300 offers modest performance with a maximum power of 180 kW (245 hp / 241 bhp) and a total torque of 565 Nm (417 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

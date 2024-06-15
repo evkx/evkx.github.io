@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi Q6 e-tron performance i seksjoner. Hvis du 
 
 ## Ytelse
 
-Audi Q6 e-tron performance har en maksimal effekt på 240 KW (326hk). Totalt dreiemoment er 485 nm. Den utfører sprinten 0-100 km/t på 6,7 sekunder. Topphastigheten er 210 km/t.
+Audi Q6 e-tron performance tilbyr beskjedne ytelser med en maksimal effekt på 240 kW (326 hk) og et totalt dreiemoment på 485 Nm. Den akselererer fra 0 til 100 km/t på 6,7 sekunder og har en toppfart på 210 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

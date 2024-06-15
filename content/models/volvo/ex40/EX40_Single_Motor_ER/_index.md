@@ -29,7 +29,7 @@ We have separated our Volvo EX40 Single Motor ER article into sections. If you w
 
 ## Performance
 
-The Volvo EX40 Single Motor ER has a maximum power of 185 KW (252 hp/248 bhp) and a total torque of 420 nm (310 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 7.3 seconds and has a top speed of 160 km/h (99 mph).
+The Volvo EX40 Single Motor ER offers modest performance with a maximum power of 185 kW (252 hp / 248 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

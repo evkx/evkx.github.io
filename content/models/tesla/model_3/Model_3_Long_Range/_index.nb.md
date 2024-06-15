@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Tesla Model 3 Long Range i seksjoner. Hvis du vi
 
 ## Ytelse
 
-Tesla Model 3 Long Range har en maksimal effekt på 324 KW (441hk). Totalt dreiemoment er 493 nm. Den utfører sprinten 0-100 km/t på 4,4 sekunder. Topphastigheten er 201 km/t.
+Tesla Model 3 Long Range tilbyr beskjedne ytelser med en maksimal effekt på 324 kW (441 hk) og et totalt dreiemoment på 493 Nm. Den akselererer fra 0 til 100 km/t på 4,4 sekunder og har en toppfart på 201 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

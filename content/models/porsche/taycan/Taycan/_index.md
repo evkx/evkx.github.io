@@ -31,7 +31,7 @@ We have separated our Porsche Taycan article into sections. If you want to wait 
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan has a maximum power of 320 KW (435 hp / 429 bhp). Without overboost, it is 320 KW (435 hp / 435 bhp) The torque is 420 nm with overboost and 420 without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 4.8 seconds and has a top speed of 230 km/h (143 mph). With overboost, the Porsche Taycan has a maximum power of 300 KW (408 hp / 402 bhp). Without overboost, it is 300 KW (408 hp / 408 bhp) The torque is 410 nm with overboost and 410 without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 4.8 seconds and has a top speed of 230 km/h (143 mph).
+With the optional Performance Battery Plus battery, you get other performance numbers. The Porsche Taycan offers modest performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and has a top speed of230 km/h (143 mph), aligning more closely with traditional internal combustion engine vehicles. The Porsche Taycan offers modest performance with a maximum power of 300 kW (408 hp / 402 bhp) and a total torque of 410 Nm (303 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and has a top speed of230 km/h (143 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

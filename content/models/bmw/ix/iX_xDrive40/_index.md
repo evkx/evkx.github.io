@@ -29,7 +29,7 @@ We have separated our BMW iX xDrive40 article into sections. If you want to wait
 
 ## Performance
 
-The BMW iX xDrive40 has a maximum power of 240 KW (326 hp/322 bhp) and a total torque of 630 nm (465 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 6.1 seconds and has a top speed of 200 km/h (124 mph).
+The BMW iX xDrive40 offers modest performance with a maximum power of 240 kW (326 hp / 322 bhp) and a total torque of 630 Nm (465 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and has a top speed of200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

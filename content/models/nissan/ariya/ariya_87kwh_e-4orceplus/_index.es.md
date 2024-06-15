@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Nissan Ariya 87kWh e-4ORCE+ en secciones. Si de
 
 ## Rendimiento
 
-El Nissan Ariya 87kWh e-4ORCE+ ofrece un rendimiento sólido con una potencia máxima de 290 kW (394 hp) y un par total de 600 Nm. Puede acelerar de 0 a 100 km/h en 4.6 segundos y alcanza una velocidad máxima de 200 km/h (124 mph), lo que lo hace competitivo en su clase.
+El Nissan Ariya 87kWh e-4ORCE+ ofrece un rendimiento sólido con una potencia máxima de 290 kW (394 hp) y un par total de 600 Nm. Puede acelerar de 0 a 100 km/h en 5,1 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

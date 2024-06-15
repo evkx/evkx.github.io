@@ -29,7 +29,7 @@ Vi har opdelt vores Xiaomi SU7 Pro artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Xiaomi SU7 Pro har en maksimal effekt på 220 KW (299 hk/295 hk). Det samlede drejningsmoment er 400 nm (295 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 5,7 sekunder. Tophastigheden er 210 km/t.
+Xiaomi SU7 Pro tilbyder beskedne præstationer med en maksimal effekt på 220 kW (299 hk) og et samlet drejningsmoment på 400 Nm. Den accelererer fra 0 til 100 km/t på 5,7 sekunder og har en topfart på 210 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

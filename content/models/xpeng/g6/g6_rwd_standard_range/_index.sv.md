@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av XPENG G6 RWD Standard Range i avsnitt. Om du
 
 ## Prestanda
 
-XPENG G6 RWD Standard Range har en maximal effekt på 218 KW (296hk). Totalt vridmoment är 440 Nm. Den gör sprinten 0-100 km/h på 5,9 sekunder. Topphastigheten är 202 km/h.
+XPENG G6 RWD Standard Range erbjuder blygsamma prestanda med en maximal effekt på 218 kW (296 hk) och ett totalt vridmoment på 440 Nm. Den accelererar från 0 till 100 km/h på 5,9 sekunder och har en topphastighet på 202 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

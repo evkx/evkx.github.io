@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Lexus UX 300e i seksjoner. Hvis du vil vente med
 
 ## Ytelse
 
-Lexus UX 300e har en maksimal effekt på 150 KW (204hk). Totalt dreiemoment er 300 nm. Den utfører sprinten 0-100 km/t på 7,5 sekunder. Topphastigheten er 160 km/t.
+Lexus UX 300e tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) og et totalt dreiemoment på 300 Nm. Den akselererer fra 0 til 100 km/t på 7,5 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 

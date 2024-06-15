@@ -35,7 +35,7 @@ Ce modèle a été remplacé par [Volkswagen ID.5 Pro](/models/volkswagen/id.5/i
 
 ## Performances
 
-Le Volkswagen ID.5 Pro Performance a une puissance maximale de 150 KW (204 ch/201 ch). Le couple total est de 310 nm (229 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 8,4 secondes. La vitesse maximale est de 160 km/h.
+L'Volkswagen ID.5 Pro Performance offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 310 Nm. Il accélère de 0 à 100 km/h en 8,4 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

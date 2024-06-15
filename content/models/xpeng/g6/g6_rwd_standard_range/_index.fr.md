@@ -29,7 +29,7 @@ Nous avons séparé notre article XPENG G6 RWD Standard Range en sections. Si vo
 
 ## Performances
 
-Le XPENG G6 RWD Standard Range a une puissance maximale de 218 KW (296 ch/292 ch). Le couple total est de 440 nm (325 ft-lb). Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,9 secondes. La vitesse maximale est de 202 km/h.
+L'XPENG G6 RWD Standard Range offre des performances modestes avec une puissance maximale de 218 kW (296 ch) et un couple total de 440 Nm. Il accélère de 0 à 100 km/h en 5,9 secondes et atteint une vitesse maximale de 202 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
 
 ## Batterie, autonomie et charge
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Kia EV6 Standard Range AWD en secciones. Si des
 
 ## Rendimiento
 
-El Kia EV6 Standard Range AWD tiene una potencia máxima de 173 KW (235 hp/232 bhp). El par total es 605 nm (446 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 6,2 segundos. La velocidad máxima es 185 km/h.
+El Kia EV6 Standard Range AWD ofrece un rendimiento modesto con una potencia máxima de 173 kW (156 hp) y un par total de 605 Nm. Acelera de 0 a 100 km/h en 6,2 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

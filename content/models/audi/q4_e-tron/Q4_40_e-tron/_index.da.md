@@ -35,7 +35,7 @@ Denne model er blevet erstattet af [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4
 
 ## Ydeevne
 
-Audi Q4 40 e-tron har en maksimal effekt på 160 KW (218 hk/215 hk). Det samlede drejningsmoment er 310 nm (229 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 8,5 sekunder. Tophastigheden er 160 km/t.
+Audi Q4 40 e-tron tilbyder beskedne præstationer med en maksimal effekt på 160 kW (218 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 8,5 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

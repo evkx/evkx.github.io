@@ -29,7 +29,7 @@ Vi har opdelt vores Hongqi E-HS9 Comfort artikel i sektioner. Hvis du vil vente 
 
 ## Ydeevne
 
-Hongqi E-HS9 Comfort har en maksimal effekt på 320 KW (435 hk/429 hk). Det samlede drejningsmoment er 300 nm (221 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 6,5 sekunder. Tophastigheden er 200 km/t.
+Hongqi E-HS9 Comfort tilbyder beskedne præstationer med en maksimal effekt på 320 kW (435 hk) og et samlet drejningsmoment på 300 Nm. Den accelererer fra 0 til 100 km/t på 6,5 sekunder og har en topfart på 200 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

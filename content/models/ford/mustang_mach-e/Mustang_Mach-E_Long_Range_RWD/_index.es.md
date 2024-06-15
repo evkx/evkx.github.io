@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Ford Mustang Mach-E Long Range RWD en secciones
 
 ## Rendimiento
 
-El Ford Mustang Mach-E Long Range RWD tiene una potencia máxima de 216 KW (294 hp/290 bhp). El par total es 430 nm (317 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 7 segundos. La velocidad máxima es 180 km/h.
+El Ford Mustang Mach-E Long Range RWD ofrece un rendimiento modesto con una potencia máxima de 216 kW (156 hp) y un par total de 430 Nm. Acelera de 0 a 100 km/h en 7 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 
