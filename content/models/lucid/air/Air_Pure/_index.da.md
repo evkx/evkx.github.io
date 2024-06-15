@@ -29,7 +29,7 @@ Vi har opdelt vores Lucid Air Pure artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-Lucid Air Pure tilbyder beskedne præstationer med en maksimal effekt på 320 kW (435 hk) og et samlet drejningsmoment på 400 Nm. Den accelererer fra 0 til 100 km/t på 4,5 sekunder og har en topfart på 200 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Lucid Air Pure leverer en solid præstation med en maksimal effekt på 320 kW (435 hk) og et totalt drejningsmoment på 400 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

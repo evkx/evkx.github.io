@@ -29,7 +29,7 @@ Vi har opdelt vores Tesla Model Y Long Range artikel i sektioner. Hvis du vil ve
 
 ## Ydeevne
 
-Tesla Model Y Long Range tilbyder beskedne præstationer med en maksimal effekt på 324 kW (441 hk) og et samlet drejningsmoment på 493 Nm. Den accelererer fra 0 til 100 km/t på 5 sekunder og har en topfart på 217 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Tesla Model Y Long Range leverer en solid præstation med en maksimal effekt på 324 kW (441 hk) og et totalt drejningsmoment på 493 Nm. Den kan accelerere fra 0 til 100 km/t på 5 sekunder og når en topfart på 217 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

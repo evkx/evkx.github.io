@@ -29,7 +29,7 @@ Nous avons séparé notre article BMW i4 eDrive35 en sections. Si vous souhaitez
 
 ## Performances
 
-L'BMW i4 eDrive35 offre des performances modestes avec une puissance maximale de 250 kW (340 ch) et un couple total de 400 Nm. Il accélère de 0 à 100 km/h en 6 secondes et atteint une vitesse maximale de 190 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+La BMW i4 eDrive35 offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 400 Nm. Elle peut accélérer de 0 à 100 km/h en 6 secondes et atteindre une vitesse maximale de 190 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

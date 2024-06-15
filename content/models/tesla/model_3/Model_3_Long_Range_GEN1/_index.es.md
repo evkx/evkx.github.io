@@ -35,7 +35,7 @@ Este modelo ha sido reemplazado por [Tesla Model 3 Long Range](/models/tesla/mod
 
 ## Rendimiento
 
-El Tesla Model 3 Long Range (GEN1) ofrece un rendimiento modesto con una potencia máxima de 324 kW (441 hp) y un par total de 493 Nm. Acelera de 0 a 100 km/h en 4,4 segundos y tiene una velocidad máxima 233 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Tesla Model 3 Long Range (GEN1) ofrece un rendimiento sólido con una potencia máxima de 324 kW (441 hp) y un par total de 493 Nm. Puede acelerar de 0 a 100 km/h en 4,4 segundos y alcanza una velocidad máxima de 233 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

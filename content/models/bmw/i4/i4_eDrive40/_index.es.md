@@ -29,7 +29,7 @@ Hemos separado nuestro artículo BMW i4 eDrive40 en secciones. Si desea esperar 
 
 ## Rendimiento
 
-El BMW i4 eDrive40 ofrece un rendimiento modesto con una potencia máxima de 250 kW (340 hp) y un par total de 430 Nm. Acelera de 0 a 100 km/h en 5,7 segundos y tiene una velocidad máxima 190 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El BMW i4 eDrive40 ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 430 Nm. Puede acelerar de 0 a 100 km/h en 5,7 segundos y alcanza una velocidad máxima de 190 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

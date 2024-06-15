@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model Y Standard Range en secciones. Si d
 
 ## Rendimiento
 
-El Tesla Model Y Standard Range ofrece un rendimiento modesto con una potencia máxima de 255 kW (347 hp) y un par total de 420 Nm. Acelera de 0 a 100 km/h en 6,9 segundos y tiene una velocidad máxima 217 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Tesla Model Y Standard Range ofrece un rendimiento sólido con una potencia máxima de 255 kW (347 hp) y un par total de 420 Nm. Puede acelerar de 0 a 100 km/h en 6,9 segundos y alcanza una velocidad máxima de 217 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

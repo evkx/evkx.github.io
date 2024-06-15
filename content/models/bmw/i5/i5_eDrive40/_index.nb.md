@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW i5 eDrive40 i seksjoner. Hvis du vil vente m
 
 ## Ytelse
 
-BMW i5 eDrive40 tilbyr beskjedne ytelser med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 430 Nm. Den akselererer fra 0 til 100 km/t på 6 sekunder og har en toppfart på 193 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+BMW i5 eDrive40 leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 430 Nm. Den kan akselerere fra 0 til 100 km/t på 6 sekunder og når en topphastighet på 193 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

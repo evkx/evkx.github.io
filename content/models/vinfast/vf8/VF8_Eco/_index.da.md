@@ -29,7 +29,7 @@ Vi har opdelt vores VinFast VF8 Eco artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-VinFast VF8 Eco tilbyder beskedne præstationer med en maksimal effekt på 260 kW (354 hk) og et samlet drejningsmoment på 500 Nm. Den accelererer fra 0 til 100 km/t på 5,9 sekunder og har en topfart på 200 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+VinFast VF8 Eco leverer en solid præstation med en maksimal effekt på 260 kW (354 hk) og et totalt drejningsmoment på 500 Nm. Den kan accelerere fra 0 til 100 km/t på 5,9 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ We have separated our BMW i5 eDrive40 Touring article into sections. If you want
 
 ## Performance
 
-The BMW i5 eDrive40 Touring offers modest performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 430 Nm (317 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and has a top speed of 193 km/h (120 mph), aligning more closely with traditional internal combustion engine vehicles.
+The BMW i5 eDrive40 Touring delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 430 Nm (317 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and reaches a top speed of 193 km/h (120 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
