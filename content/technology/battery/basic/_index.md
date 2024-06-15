@@ -8,6 +8,9 @@ weight: 1
 
 A Li-ion battery consists of several key components: two electrodes (anode and cathode), a separator, an electrolyte, and two current collectors (positive and negative).
 
+
+{{<evkxdisplayaddarticle />}}
+
 ### How it works:
 
 - **During Discharge:** When the battery discharges, a chemical reaction at the anode releases positive lithium ions into the electrolyte. The electrolyte then transports these lithium ions to the cathode.
@@ -31,7 +34,6 @@ A Li-ion battery consists of several key components: two electrodes (anode and c
 
 In an electric vehicle (EV), this potential difference can be harnessed by creating an external circuit through an electric motor or other electronic components. Electrons flow from the anode to the cathode through this external circuit, driving the motor and powering the vehicle.
 
-{{<evkxdisplayaddarticle />}}
 
 ### Current Collectors:
 
