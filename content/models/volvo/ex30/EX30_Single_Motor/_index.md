@@ -29,7 +29,7 @@ We have separated our Volvo EX30 Single Motor article into sections. If you want
 
 ## Performance
 
-The Volvo EX30 Single Motor offers modest performance with a maximum power of 200 kW (272 hp / 268 bhp) and a total torque of 343 Nm (253 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.3 seconds and has a top speed of180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Volvo EX30 Single Motor offers modest performance with a maximum power of 200 kW (272 hp / 268 bhp) and a total torque of 343 Nm (253 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.3 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

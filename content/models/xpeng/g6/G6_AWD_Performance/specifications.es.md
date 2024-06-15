@@ -649,7 +649,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>

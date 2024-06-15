@@ -99,6 +99,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.

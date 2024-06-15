@@ -29,7 +29,7 @@ Hemos separado nuestro artículo BYD Seagull 38kWh en secciones. Si desea espera
 
 ## Rendimiento
 
-El BYD Seagull 38kWh tiene una potencia máxima de 55 KW (75 hp/74 bhp). El par total es 135 nm (100 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 13 segundos. La velocidad máxima es 130 km/h.
+El BYD Seagull 38kWh kWh ofrece un rendimiento básico con una potencia máxima de 55 kW (75 hp) y un par total de 135 Nm. Acelera de 0 a 100 km/h en 13 segundos y alcanza una velocidad máxima de 130 km/h, lo que es más comparable a los modelos de entrada de vehículos tradicionales de motor de combustión interna.
 
 ## Batería, autonomía y carga
 

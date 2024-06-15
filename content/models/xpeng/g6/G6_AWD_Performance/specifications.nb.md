@@ -649,7 +649,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

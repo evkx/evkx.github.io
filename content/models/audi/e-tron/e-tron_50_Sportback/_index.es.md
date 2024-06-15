@@ -35,7 +35,7 @@ Este modelo ha sido reemplazado por [Audi Q8 Sportback 50 e-tron](/models/audi/q
 
 ## Rendimiento
 
-El Audi e-tron 50 Sportback ofrece un rendimiento modesto con una potencia máxima de 230 kW (156 hp) y un par total de 540 Nm. Acelera de 0 a 100 km/h en 6,8 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Audi e-tron 50 Sportback ofrece un rendimiento modesto con una potencia máxima de 230 kW (313 hp) y un par total de 540 Nm. Acelera de 0 a 100 km/h en 6,8 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Tesla Model Y Long Range en secciones. Si desea
 
 ## Rendimiento
 
-El Tesla Model Y Long Range ofrece un rendimiento modesto con una potencia máxima de 324 kW (156 hp) y un par total de 493 Nm. Acelera de 0 a 100 km/h en 5 segundos y tiene una velocidad máxima 217 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Tesla Model Y Long Range ofrece un rendimiento modesto con una potencia máxima de 324 kW (441 hp) y un par total de 493 Nm. Acelera de 0 a 100 km/h en 5 segundos y tiene una velocidad máxima 217 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

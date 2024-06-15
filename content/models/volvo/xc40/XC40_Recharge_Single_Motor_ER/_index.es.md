@@ -35,7 +35,7 @@ Este modelo ha sido reemplazado por [Volvo EX40 Single Motor ER](/models/volvo/e
 
 ## Rendimiento
 
-El Volvo XC40 Recharge Single Motor ER ofrece un rendimiento modesto con una potencia máxima de 185 kW (156 hp) y un par total de 420 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Volvo XC40 Recharge Single Motor ER ofrece un rendimiento modesto con una potencia máxima de 185 kW (252 hp) y un par total de 420 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

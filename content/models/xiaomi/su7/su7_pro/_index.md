@@ -29,7 +29,7 @@ We have separated our Xiaomi SU7 Pro article into sections. If you want to wait 
 
 ## Performance
 
-The Xiaomi SU7 Pro offers modest performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 400 Nm (295 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and has a top speed of210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Xiaomi SU7 Pro offers modest performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 400 Nm (295 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

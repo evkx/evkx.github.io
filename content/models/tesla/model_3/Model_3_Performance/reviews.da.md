@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 Performance driving REVIEW with German Autobahn</h3>
+<p>Autogefühl: 14.06.2024</p>
+
+{{< youtube TQC7cY0YCkU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>NEW 2025 Tesla Model 3 PERFORMANCE Review: Supercar Slayer </h3>
 <p>AutoTrader: 23.04.2024</p>
 

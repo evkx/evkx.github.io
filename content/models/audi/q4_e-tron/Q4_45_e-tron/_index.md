@@ -29,7 +29,7 @@ We have separated our Audi Q4 45 e-tron article into sections. If you want to wa
 
 ## Performance
 
-The Audi Q4 45 e-tron offers modest performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and has a top speed of180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Audi Q4 45 e-tron offers modest performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

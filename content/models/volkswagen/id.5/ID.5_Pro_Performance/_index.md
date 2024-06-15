@@ -35,7 +35,7 @@ This model has been replaced by [Volkswagen ID.5 Pro](/models/volkswagen/id.5/id
 
 ## Performance
 
-The Volkswagen ID.5 Pro Performance offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.4 seconds and has a top speed of160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Volkswagen ID.5 Pro Performance offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.4 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

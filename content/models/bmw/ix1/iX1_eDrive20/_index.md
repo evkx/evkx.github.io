@@ -29,7 +29,7 @@ We have separated our BMW iX1 eDrive20 article into sections. If you want to wai
 
 ## Performance
 
-The BMW iX1 eDrive20 offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 250 Nm (184 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The BMW iX1 eDrive20 offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 250 Nm (184 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

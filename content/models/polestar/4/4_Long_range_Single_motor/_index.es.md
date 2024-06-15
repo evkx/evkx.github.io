@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Polestar 4 Long range Single motor en secciones
 
 ## Rendimiento
 
-El Polestar 4 Long range Single motor ofrece un rendimiento modesto con una potencia máxima de 200 kW (156 hp) y un par total de 343 Nm. Acelera de 0 a 100 km/h en 7,4 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Polestar 4 Long range Single motor ofrece un rendimiento modesto con una potencia máxima de 200 kW (272 hp) y un par total de 343 Nm. Acelera de 0 a 100 km/h en 7,4 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

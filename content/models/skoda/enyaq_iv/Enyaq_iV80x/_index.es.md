@@ -29,7 +29,7 @@ Hemos separado nuestro artículo SKODA Enyaq iV80x en secciones. Si desea espera
 
 ## Rendimiento
 
-El SKODA Enyaq iV80x ofrece un rendimiento modesto con una potencia máxima de 195 kW (156 hp) y un par total de 425 Nm. Acelera de 0 a 100 km/h en 6,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El SKODA Enyaq iV80x ofrece un rendimiento modesto con una potencia máxima de 195 kW (265 hp) y un par total de 425 Nm. Acelera de 0 a 100 km/h en 6,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

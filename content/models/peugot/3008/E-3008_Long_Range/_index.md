@@ -29,7 +29,7 @@ We have separated our Peugot E-3008 Long Range article into sections. If you wan
 
 ## Performance
 
-The Peugot E-3008 Long Range offers modest performance with a maximum power of 157 kW (214 hp / 211 bhp) and a total torque of 345 Nm (255 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Peugot E-3008 Long Range offers modest performance with a maximum power of 157 kW (214 hp / 211 bhp) and a total torque of 345 Nm (255 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We have separated our Tesla Model 3 article into sections. If you want to wait t
 
 ## Performance
 
-The Tesla Model 3 offers modest performance with a maximum power of 208 kW (283 hp / 279 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and has a top speed of225 km/h (140 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Tesla Model 3 offers modest performance with a maximum power of 208 kW (283 hp / 279 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and has a top speed of 225 km/h (140 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

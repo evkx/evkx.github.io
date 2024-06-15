@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Renault 5 E-Tech 52kWh 150hp en secciones. Si d
 
 ## Rendimiento
 
-El Renault 5 E-Tech 52kWh 150hp ofrece un rendimiento modesto con una potencia máxima de 110 kW (156 hp) y un par total de 245 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y tiene una velocidad máxima 150 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Renault 5 E-Tech 52kWh 150hp ofrece un rendimiento modesto con una potencia máxima de 110 kW (150 hp) y un par total de 245 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y tiene una velocidad máxima 150 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

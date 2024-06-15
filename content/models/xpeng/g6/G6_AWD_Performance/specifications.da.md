@@ -649,7 +649,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

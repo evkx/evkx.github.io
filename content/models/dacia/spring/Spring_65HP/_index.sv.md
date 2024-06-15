@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Dacia Spring 65HP i avsnitt. Om du vill vän
 
 ## Prestanda
 
-Dacia Spring 65HP har en maximal effekt på 48 KW (65hk). Totalt vridmoment är 113 Nm. Den gör sprinten 0-100 km/h på 13,7 sekunder. Topphastigheten är 125 km/h.
+Dacia Spring 65HP erbjuder grundläggande prestanda med en maximal effekt på 48 kW (65 hk) och ett totalt vridmoment på 113 Nm. Den accelererar från 0 till 100 km/h på 13,7 sekunder och når en topphastighet på 125 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Dacia Spring 65HP en secciones. Si desea espera
 
 ## Rendimiento
 
-El Dacia Spring 65HP tiene una potencia máxima de 48 KW (65 hp/64 bhp). El par total es 113 nm (83 ft-lb). Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 13,7 segundos. La velocidad máxima es 125 km/h.
+El Dacia Spring 65HP kWh ofrece un rendimiento básico con una potencia máxima de 48 kW (65 hp) y un par total de 113 Nm. Acelera de 0 a 100 km/h en 13,7 segundos y alcanza una velocidad máxima de 125 km/h, lo que es más comparable a los modelos de entrada de vehículos tradicionales de motor de combustión interna.
 
 ## Batería, autonomía y carga
 

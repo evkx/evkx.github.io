@@ -29,7 +29,7 @@ We have separated our Opel Mokka Electric article into sections. If you want to 
 
 ## Performance
 
-The Opel Mokka Electric offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.1 seconds and has a top speed of150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Opel Mokka Electric offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.1 seconds and has a top speed of 150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

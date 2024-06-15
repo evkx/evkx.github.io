@@ -29,7 +29,7 @@ We have separated our Ford Explorer Standard Range RWD article into sections. If
 
 ## Performance
 
-The Ford Explorer Standard Range RWD offers modest performance with a maximum power of 125 kW (170 hp / 168 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Ford Explorer Standard Range RWD offers modest performance with a maximum power of 125 kW (170 hp / 168 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

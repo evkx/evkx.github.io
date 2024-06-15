@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQB 300 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQB 300 4MATIC offers modest performance with a maximum power of 168 kW (228 hp / 225 bhp) and a total torque of 390 Nm (288 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8 seconds and has a top speed of160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Mercedes-EQ EQB 300 4MATIC offers modest performance with a maximum power of 168 kW (228 hp / 225 bhp) and a total torque of 390 Nm (288 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

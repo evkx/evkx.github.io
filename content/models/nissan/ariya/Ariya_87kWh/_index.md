@@ -29,7 +29,7 @@ We have separated our Nissan Ariya 87kWh article into sections. If you want to w
 
 ## Performance
 
-The Nissan Ariya 87kWh offers modest performance with a maximum power of 178 kW (242 hp / 239 bhp) and a total torque of 300 Nm (221 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Nissan Ariya 87kWh offers modest performance with a maximum power of 178 kW (242 hp / 239 bhp) and a total torque of 300 Nm (221 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

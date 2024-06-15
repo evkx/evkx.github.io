@@ -29,7 +29,7 @@ Vi har opdelt vores BYD Seagull 38kWh artikel i sektioner. Hvis du vil vente med
 
 ## Ydeevne
 
-BYD Seagull 38kWh har en maksimal effekt på 55 KW (75 hk/74 hk). Det samlede drejningsmoment er 135 nm (100 ft-lb). Den udfører sprinten 0-100 km/t (0-62 mph) på 13 sekunder. Tophastigheden er 130 km/t.
+BYD Seagull 38kWh kWh leverer grundlæggende ydeevne med en maksimal effekt på 55 kW (75 hk) og et samlet drejningsmoment på 135 Nm. Den accelererer fra 0 til 100 km/t på 13 sekunder og når en topfart på 130 km/t, hvilket er mere sammenligneligt med indgangsmodeller af traditionelle forbrændingsmotorbiler.
 
 ## Batteri, rækkevidde og opladning
 

@@ -29,7 +29,7 @@ We have separated our Peugot E-308 SW article into sections. If you want to wait
 
 ## Performance
 
-The Peugot E-308 SW offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 10.5 seconds and has a top speed of170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Peugot E-308 SW offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 10.5 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Lexus UX 300e en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El Lexus UX 300e ofrece un rendimiento modesto con una potencia máxima de 150 kW (156 hp) y un par total de 300 Nm. Acelera de 0 a 100 km/h en 7,5 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Lexus UX 300e ofrece un rendimiento modesto con una potencia máxima de 150 kW (204 hp) y un par total de 300 Nm. Acelera de 0 a 100 km/h en 7,5 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

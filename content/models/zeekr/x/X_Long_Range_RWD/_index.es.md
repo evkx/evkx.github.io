@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Zeekr X Long Range RWD en secciones. Si desea e
 
 ## Rendimiento
 
-El Zeekr X Long Range RWD ofrece un rendimiento modesto con una potencia máxima de 200 kW (156 hp) y un par total de 343 Nm. Acelera de 0 a 100 km/h en 5,6 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Zeekr X Long Range RWD ofrece un rendimiento modesto con una potencia máxima de 200 kW (272 hp) y un par total de 343 Nm. Acelera de 0 a 100 km/h en 5,6 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

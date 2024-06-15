@@ -29,7 +29,7 @@ Hemos separado nuestro artículo CUPRA BORN 58 en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El CUPRA BORN 58 ofrece un rendimiento modesto con una potencia máxima de 150 kW (156 hp) y un par total de 310 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El CUPRA BORN 58 ofrece un rendimiento modesto con una potencia máxima de 150 kW (204 hp) y un par total de 310 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

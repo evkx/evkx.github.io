@@ -29,7 +29,7 @@ We have separated our VinFast VF8 Eco article into sections. If you want to wait
 
 ## Performance
 
-The VinFast VF8 Eco offers modest performance with a maximum power of 260 kW (354 hp / 349 bhp) and a total torque of 500 Nm (369 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and has a top speed of200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
+The VinFast VF8 Eco offers modest performance with a maximum power of 260 kW (354 hp / 349 bhp) and a total torque of 500 Nm (369 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

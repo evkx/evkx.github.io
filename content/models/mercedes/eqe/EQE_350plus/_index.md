@@ -29,7 +29,7 @@ We have separated our Mercedes-EQ EQE 350+ article into sections. If you want to
 
 ## Performance
 
-The Mercedes-EQ EQE 350+ offers modest performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 565 Nm (417 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.4 seconds and has a top speed of210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Mercedes-EQ EQE 350+ offers modest performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 565 Nm (417 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.4 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

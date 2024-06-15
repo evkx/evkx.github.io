@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Subaru Solterra AWD en secciones. Si desea espe
 
 ## Rendimiento
 
-El Subaru Solterra AWD ofrece un rendimiento modesto con una potencia máxima de 160 kW (156 hp) y un par total de 337 Nm. Acelera de 0 a 100 km/h en 6,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Subaru Solterra AWD ofrece un rendimiento modesto con una potencia máxima de 160 kW (218 hp) y un par total de 337 Nm. Acelera de 0 a 100 km/h en 6,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Hyundai Ioniq 6 Long Range RWD en secciones. Si
 
 ## Rendimiento
 
-El Hyundai Ioniq 6 Long Range RWD ofrece un rendimiento modesto con una potencia máxima de 168 kW (156 hp) y un par total de 350 Nm. Acelera de 0 a 100 km/h en 7,4 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Hyundai Ioniq 6 Long Range RWD ofrece un rendimiento modesto con una potencia máxima de 168 kW (228 hp) y un par total de 350 Nm. Acelera de 0 a 100 km/h en 7,4 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

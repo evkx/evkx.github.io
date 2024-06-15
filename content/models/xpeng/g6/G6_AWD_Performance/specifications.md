@@ -649,7 +649,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>

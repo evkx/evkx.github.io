@@ -29,7 +29,7 @@ Hemos separado nuestro artículo BMW iX2 eDrive20 en secciones. Si desea esperar
 
 ## Rendimiento
 
-El BMW iX2 eDrive20 ofrece un rendimiento modesto con una potencia máxima de 150 kW (156 hp) y un par total de 247 Nm. Acelera de 0 a 100 km/h en 8,6 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El BMW iX2 eDrive20 ofrece un rendimiento modesto con una potencia máxima de 150 kW (204 hp) y un par total de 247 Nm. Acelera de 0 a 100 km/h en 8,6 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

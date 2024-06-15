@@ -31,7 +31,7 @@ Hemos separado nuestro artículo Porsche Taycan en secciones. Si desea esperar p
 
 
 
-Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. El Porsche Taycan ofrece un rendimiento modesto con una potencia máxima de 320 kW (156 hp) y un par total de 420 Nm. Acelera de 0 a 100 km/h en 4,8 segundos y tiene una velocidad máxima 230 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales. El Porsche Taycan ofrece un rendimiento modesto con una potencia máxima de 300 kW (156 hp) y un par total de 410 Nm. Acelera de 0 a 100 km/h en 4,8 segundos y tiene una velocidad máxima 230 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. El Porsche Taycan ofrece un rendimiento modesto con una potencia máxima de 320 kW (435 hp) y un par total de 420 Nm. Acelera de 0 a 100 km/h en 4,8 segundos y tiene una velocidad máxima 230 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales. El Porsche Taycan ofrece un rendimiento modesto con una potencia máxima de 300 kW (408 hp) y un par total de 410 Nm. Acelera de 0 a 100 km/h en 4,8 segundos y tiene una velocidad máxima 230 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

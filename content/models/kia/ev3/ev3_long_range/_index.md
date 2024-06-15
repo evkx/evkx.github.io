@@ -29,7 +29,7 @@ We have separated our Kia EV3 Long Range article into sections. If you want to w
 
 ## Performance
 
-The Kia EV3 Long Range offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 283 Nm (209 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Kia EV3 Long Range offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 283 Nm (209 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

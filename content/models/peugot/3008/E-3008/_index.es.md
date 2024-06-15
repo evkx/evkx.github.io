@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Peugot E-3008 en secciones. Si desea esperar pa
 
 ## Rendimiento
 
-El Peugot E-3008 ofrece un rendimiento modesto con una potencia máxima de 157 kW (156 hp) y un par total de 345 Nm. Acelera de 0 a 100 km/h en 8,8 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Peugot E-3008 ofrece un rendimiento modesto con una potencia máxima de 157 kW (214 hp) y un par total de 345 Nm. Acelera de 0 a 100 km/h en 8,8 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

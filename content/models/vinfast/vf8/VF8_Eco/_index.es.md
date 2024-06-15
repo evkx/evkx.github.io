@@ -29,7 +29,7 @@ Hemos separado nuestro artículo VinFast VF8 Eco en secciones. Si desea esperar 
 
 ## Rendimiento
 
-El VinFast VF8 Eco ofrece un rendimiento modesto con una potencia máxima de 260 kW (156 hp) y un par total de 500 Nm. Acelera de 0 a 100 km/h en 5,9 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El VinFast VF8 Eco ofrece un rendimiento modesto con una potencia máxima de 260 kW (354 hp) y un par total de 500 Nm. Acelera de 0 a 100 km/h en 5,9 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

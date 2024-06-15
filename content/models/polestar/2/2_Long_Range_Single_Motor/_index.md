@@ -29,7 +29,7 @@ We have separated our Polestar 2 Long Range Single Motor article into sections. 
 
 ## Performance
 
-The Polestar 2 Long Range Single Motor offers modest performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 490 Nm (362 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and has a top speed of205 km/h (127 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Polestar 2 Long Range Single Motor offers modest performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 490 Nm (362 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and has a top speed of 205 km/h (127 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We have separated our Renault 5 E-Tech 52kWh 150hp article into sections. If you
 
 ## Performance
 
-The Renault 5 E-Tech 52kWh 150hp offers modest performance with a maximum power of 110 kW (150 hp / 148 bhp) and a total torque of 245 Nm (181 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and has a top speed of150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Renault 5 E-Tech 52kWh 150hp offers modest performance with a maximum power of 110 kW (150 hp / 148 bhp) and a total torque of 245 Nm (181 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and has a top speed of 150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

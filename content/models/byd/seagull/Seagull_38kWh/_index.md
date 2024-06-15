@@ -29,7 +29,7 @@ We have separated our BYD Seagull 38kWh article into sections. If you want to wa
 
 ## Performance
 
-The BYD Seagull 38kWh has a maximum power of 55 KW (75 hp/74 bhp) and a total torque of 135 nm (100 ft-lb). It can sprint from 0 to 100km/h (0 to 62mph) in 13 seconds and has a top speed of 130 km/h (81 mph).
+The BYD Seagull 38kWh kWh provides basic performance with a maximum power of 55 kW (75 hp / 74 bhp) and a total torque of 135 Nm (100 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 13 seconds and reaches a top speed of 130 km/h (81 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

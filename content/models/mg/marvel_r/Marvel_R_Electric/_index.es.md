@@ -29,7 +29,7 @@ Hemos separado nuestro artículo MG Marvel R Electric en secciones. Si desea esp
 
 ## Rendimiento
 
-El MG Marvel R Electric ofrece un rendimiento modesto con una potencia máxima de 132 kW (156 hp) y un par total de 410 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El MG Marvel R Electric ofrece un rendimiento modesto con una potencia máxima de 132 kW (180 hp) y un par total de 410 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

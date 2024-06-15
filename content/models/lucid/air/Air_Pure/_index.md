@@ -29,7 +29,7 @@ We have separated our Lucid Air Pure article into sections. If you want to wait 
 
 ## Performance
 
-The Lucid Air Pure offers modest performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 400 Nm (295 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and has a top speed of200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Lucid Air Pure offers modest performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 400 Nm (295 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

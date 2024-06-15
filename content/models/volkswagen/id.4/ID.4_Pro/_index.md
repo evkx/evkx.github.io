@@ -29,7 +29,7 @@ We have separated our Volkswagen ID.4 Pro article into sections. If you want to 
 
 ## Performance
 
-The Volkswagen ID.4 Pro offers modest performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and has a top speed of160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Volkswagen ID.4 Pro offers modest performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

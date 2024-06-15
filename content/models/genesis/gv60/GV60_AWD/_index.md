@@ -29,7 +29,7 @@ We have separated our Genesis GV60 AWD article into sections. If you want to wai
 
 ## Performance
 
-The Genesis GV60 AWD offers modest performance with a maximum power of 234 kW (318 hp / 314 bhp) and a total torque of 605 Nm (446 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and has a top speed of185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Genesis GV60 AWD offers modest performance with a maximum power of 234 kW (318 hp / 314 bhp) and a total torque of 605 Nm (446 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

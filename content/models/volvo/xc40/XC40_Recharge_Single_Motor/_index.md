@@ -35,7 +35,7 @@ This model has been replaced by [Volvo EX40 Single Motor](/models/volvo/ex40/ex4
 
 ## Performance
 
-The Volvo XC40 Recharge Single Motor offers modest performance with a maximum power of 175 kW (238 hp / 235 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Volvo XC40 Recharge Single Motor offers modest performance with a maximum power of 175 kW (238 hp / 235 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 

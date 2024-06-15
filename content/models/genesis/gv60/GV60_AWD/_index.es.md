@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Genesis GV60 AWD en secciones. Si desea esperar
 
 ## Rendimiento
 
-El Genesis GV60 AWD ofrece un rendimiento modesto con una potencia máxima de 234 kW (156 hp) y un par total de 605 Nm. Acelera de 0 a 100 km/h en 5,5 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Genesis GV60 AWD ofrece un rendimiento modesto con una potencia máxima de 234 kW (318 hp) y un par total de 605 Nm. Acelera de 0 a 100 km/h en 5,5 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 

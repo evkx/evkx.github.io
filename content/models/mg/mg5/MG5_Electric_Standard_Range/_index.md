@@ -29,7 +29,7 @@ We have separated our MG MG5 Electric Standard Range article into sections. If y
 
 ## Performance
 
-The MG MG5 Electric Standard Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.3 seconds and has a top speed of185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The MG MG5 Electric Standard Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.3 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
