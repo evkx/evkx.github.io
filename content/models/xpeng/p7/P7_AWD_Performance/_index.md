@@ -35,7 +35,7 @@ The XPENG P7 AWD Performance packs an impressive punch with a maximum power of 4
 
 The electric vehicle features a high-capacity battery with a gross capacity of 86,2 kWh and a net usable capacity of 82,7 kWh, providing an 3,5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 505 km (314 mi). The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 505 km (314 mi). The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 175 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 23 minutes with an average charging speed at 150 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 53%. This results in an effective charging speed, including time lost, of 149 kW, with each charging session taking about 17 minutes and 21 seconds..
 

@@ -35,7 +35,7 @@ The MG ZS EV Long Range offers modest performance with a maximum power of 115 kW
 
 The electric vehicle features a high-capacity battery with a gross capacity of 72,6 kWh and a net usable capacity of 68,3 kWh, providing an 4,3 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 440 km (274 mi). The consumption is 15.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 440 km (274 mi). The consumption is 15.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 94 kW. Charging from 0% to 100% takes approximately 112 minutes, while a more typical charging scenario from 10% to 80% takes 42 minutes with an average charging speed at 69 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 61%. This results in an effective charging speed, including time lost, of 63 kW, with each charging session taking about 34 minutes and 23 seconds..
 

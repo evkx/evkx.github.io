@@ -35,7 +35,7 @@ The Renault 5 E-Tech 52kWh 150hp offers modest performance with a maximum power 
 
 The electric vehicle features a high-capacity battery with a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing an 3 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 400 km (249 mi). The consumption is 13.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 mi). The consumption is 13.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 68 minutes, while a more typical charging scenario from 10% to 80% takes 29 minutes with an average charging speed at 75 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 58%. This results in an effective charging speed, including time lost, of 69 kW, with each charging session taking about 24 minutes and 2 seconds..
 

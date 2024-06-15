@@ -35,7 +35,7 @@ The Genesis GV60 2WD offers modest performance with a maximum power of 168 kW (2
 
 The electric vehicle features a high-capacity battery with a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 517 km (321 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 517 km (321 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical charging scenario from 10% to 80% takes 16 minutes with an average charging speed at 192 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 76%. This results in an effective charging speed, including time lost, of 152 kW, with each charging session taking about 22 minutes and 59 seconds..
 

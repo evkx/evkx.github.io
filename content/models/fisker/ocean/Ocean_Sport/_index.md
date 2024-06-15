@@ -35,7 +35,7 @@ With overboost, the Fisker Ocean Sport achieves a maximum power of 209 kW (284 h
 
 The electric vehicle features a high-capacity battery with a gross capacity of 73 kWh and a net usable capacity of 70 kWh, providing an 3 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 464 km (288 mi). The consumption is 15.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 464 km (288 mi). The consumption is 15.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 125 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 91 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 63%. This results in an effective charging speed, including time lost, of 86 kW, with each charging session taking about 30 minutes and 40 seconds..
 

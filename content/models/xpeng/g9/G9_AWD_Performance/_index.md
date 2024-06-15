@@ -35,7 +35,7 @@ The XPENG G9 AWD Performance packs an impressive punch with a maximum power of 4
 
 The electric vehicle features a high-capacity battery with a gross capacity of 98 kWh and a net usable capacity of 93,6 kWh, providing an 4,4 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi). The consumption is 18.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 mi). The consumption is 18.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 19 minutes with an average charging speed at 207 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 60%. This results in an effective charging speed, including time lost, of 169 kW, with each charging session taking about 18 minutes and 36 seconds..
 

@@ -35,7 +35,7 @@ The BYD Seal AWD delivers a solid performance with a maximum power of 390 kW (53
 
 The electric vehicle features a high-capacity battery with a gross capacity of 85,4 kWh and a net usable capacity of 82,5 kWh, providing an 2,9 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 520 km (323 mi). The consumption is 15.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 mi). The consumption is 15.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 64 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed at 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 59%. This results in an effective charging speed, including time lost, of 92 kW, with each charging session taking about 29 minutes and 27 seconds..
 

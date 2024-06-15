@@ -35,7 +35,7 @@ The Hyundai Kona Standard Range offers modest performance with a maximum power o
 
 The electric vehicle features a high-capacity battery with a gross capacity of 51 kWh and a net usable capacity of 48,4 kWh, providing an 2,6 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 377 km (234 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 377 km (234 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 74 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 66%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 28 minutes and 49 seconds..
 

@@ -35,7 +35,7 @@ The XPENG G3i offers modest performance with a maximum power of 145 kW (197 hp /
 
 The electric vehicle features a high-capacity battery with a gross capacity of 66 kWh and a net usable capacity of 55,9 kWh, providing an 10,1 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 420 km (261 mi). The consumption is 13.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 420 km (261 mi). The consumption is 13.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 89 minutes, while a more typical charging scenario from 10% to 80% takes 51 minutes with an average charging speed at 46 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 79%. This results in an effective charging speed, including time lost, of 42 kW, with each charging session taking about 57 minutes and 43 seconds..
 

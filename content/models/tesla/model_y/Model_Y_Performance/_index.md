@@ -35,7 +35,7 @@ The Tesla Model Y Performance delivers a solid performance with a maximum power 
 
 The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 75 kWh, providing an 7 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 514 km (320 mi). The consumption is 14.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 514 km (320 mi). The consumption is 14.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 101 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 46%. This results in an effective charging speed, including time lost, of 109 kW, with each charging session taking about 17 minutes and 55 seconds..
 

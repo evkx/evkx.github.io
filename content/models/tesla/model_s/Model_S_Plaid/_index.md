@@ -35,7 +35,7 @@ The Tesla Model S Plaid delivers a jaw-dropping maximum power of 760 KW (1033 hp
 
 The electric vehicle features a high-capacity battery with a gross capacity of 104,96 kWh and a net usable capacity of 96 kWh, providing an 8,96 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 600 km (373 mi). The consumption is 16.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 mi). The consumption is 16.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 80 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 132 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 47%. This results in an effective charging speed, including time lost, of 143 kW, with each charging session taking about 16 minutes and 9 seconds..
 

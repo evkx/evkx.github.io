@@ -35,7 +35,7 @@ With overboost, the Hyundai Ioniq 5 N reaches a maximum power of 478 kW (650 hp 
 
 The electric vehicle features a high-capacity battery with a gross capacity of 84 kWh and a net usable capacity of 80 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 450 km (280 mi). The consumption is 17.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 450 km (280 mi). The consumption is 17.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 41 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 192 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 76%. This results in an effective charging speed, including time lost, of 154 kW, with each charging session taking about 23 minutes and 21 seconds..
 

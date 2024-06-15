@@ -35,7 +35,7 @@ The BYD Dolphin 60.4kWh offers modest performance with a maximum power of 150 kW
 
 The electric vehicle features a high-capacity battery with a gross capacity of 60,4 kWh and a net usable capacity of 62 kWh, providing an -1,6 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [WLTP range](../../../../guides/understandingrange/wltp/) is 427 km (265 mi). The consumption is 14.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 427 km (265 mi). The consumption is 14.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 88 kW. Charging from 0% to 100% takes approximately 70 minutes, while a more typical charging scenario from 10% to 80% takes 40 minutes with an average charging speed at 65 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 63 kW, with each charging session taking about 24 minutes and 2 seconds..
 
