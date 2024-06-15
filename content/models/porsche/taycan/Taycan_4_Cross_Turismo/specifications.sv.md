@@ -60,7 +60,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4 Cross
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,1 s

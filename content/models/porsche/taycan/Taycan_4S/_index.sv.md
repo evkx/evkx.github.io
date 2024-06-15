@@ -29,9 +29,9 @@ Vi har delat in vår beskrivning av Porsche Taycan 4S i avsnitt. Om du vill vän
 
 ## Prestanda
 
-Med overboost har Porsche Taycan 4S en maximal effekt på 390 KW (530hk). Utan overboost är det 320KW (435hp). Vridmomentet är 640 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4 sekunder. Topphastigheten är 230 km/h.
+Med overboost når Porsche Taycan 4S en maximal effekt på 390 kW (530 hk). Utan overboost levererar den 320 kW (435 hk). Det maximala vridmomentet är 640 Nm. Den kan accelerera från 0 till 100 km/h på 4 sekunder och når en topphastighet på 230 km/h, vilket demonstrerar dess solida prestanda.
 
-Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan 4S en maximal effekt på 420 KW (571hk). Utan overboost är det 320KW (435hp). Vridmomentet är 650 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 4 sekunder. Topphastigheten är 250 km/h.
+Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med överboost når Porsche Taycan 4S en maximal effekt på 420 kW (571 hk). Utan överboost ger den en stark effekt på 320 kW (435 hk). Det maximala vridmomentet är 650 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 4 sekunder och har en topphastighet på 250 km/h, vilket visar dess imponerande prestanda.
 
 ## Batteri, räckvidd och laddning
 

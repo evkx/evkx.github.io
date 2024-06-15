@@ -68,7 +68,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Fisker Oc
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph)
+				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
 				4,2 s

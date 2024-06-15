@@ -31,7 +31,7 @@ Vi har delt vår beskrivelse av Porsche Taycan GTS Sport Turismo i seksjoner. Hv
 
 
 
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan GTS Sport Turismo en maksimal effekt på 440 KW (598hk). Uten overboost er den 420KW (571hk). Dreiemomentet er 850 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 250 km/t.
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan GTS Sport Turismo en maksimal effekt på 440 kW (598 hk / 590 bhp). Uten overboost leverer den solide 420 kW (571 hk). Maksimalt dreiemoment er på 850 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 3,7 sekunder og har en topphastighet på 250 km/t, som viser frem dens imponerende ytelse.
 
 ## Batteri, rekkevidde og lading
 

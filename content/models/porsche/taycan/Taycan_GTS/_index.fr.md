@@ -31,7 +31,7 @@ Nous avons séparé notre article Porsche Taycan GTS en sections. Si vous souhai
 
 
 
-Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, le Porsche Taycan GTS a une puissance maximale de 440 KW (598 ch / 590 ch). Sans overboost, il est de 320 KW (435 ch / 435 ch). Le couple est de 850 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,7 secondes. La vitesse maximale est de 250 km/h.
+Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec l'overboost, la Porsche Taycan GTS atteint une puissance maximale de 440 kW (598 ch). Sans overboost, elle offre une puissance solide de 320 kW (435 ch). Le couple maximal est de 850 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 3,7 secondes et atteint une vitesse maximale de 250 km/h, démontrant ses performances impressionnantes.
 
 ## Batterie, autonomie et charge
 

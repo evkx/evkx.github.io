@@ -68,7 +68,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4. H
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,2 s

@@ -68,7 +68,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Fisker Ocean Sport.
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				7,9 s

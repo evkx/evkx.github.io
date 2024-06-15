@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Fisker Ocean Ultra i avsnitt. Om du vill vä
 
 ## Prestanda
 
-Fisker Ocean Ultra levererar en solid prestanda med en maximal effekt på 344 kW (468 hk) och ett totalt vridmoment på 696 Nm. Den kan accelerera från 0 till 100 km/h på 4,2 sekunder och når en topphastighet på 205 km/h, vilket gör den konkurrenskraftig i sin klass.
+Med överboost når Fisker Ocean Ultra en maximal effekt på 400 kW (544 hk). Utan överboost ger den en stark effekt på 344 kW (468 hk). Det maximala vridmomentet är 737 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 4,2 sekunder och har en topphastighet på 205 km/h, vilket visar dess imponerande prestanda.
 
 ## Batteri, räckvidd och laddning
 

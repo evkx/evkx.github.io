@@ -35,9 +35,9 @@ Denne modellen er erstattet av [Porsche Taycan 4S Sport Turismo](/models/porsche
 
 ## Ytelse
 
-Med overboost har Porsche Taycan 4S Sport Turismo (GEN1) en maksimal effekt på 390 KW (530hk). Uten overboost er den 320KW (435hk). Dreiemomentet er 640 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 4 sekunder. Topphastigheten er 230 km/t.
+Med overboost når Porsche Taycan 4S Sport Turismo (GEN1)en maksimal effekt på 390 kW (530 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 640 Nm. Den kan akselerere fra 0 til 100 km/t på 4 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
 
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan 4S Sport Turismo (GEN1) en maksimal effekt på 420 KW (571hk). Uten overboost er den 320KW (435hk). Dreiemomentet er 650 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 4 sekunder. Topphastigheten er 250 km/t.
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan 4S Sport Turismo (GEN1) en maksimal effekt på 420 kW (571 hk / 563 bhp). Uten overboost leverer den solide 320 kW (435 hk). Maksimalt dreiemoment er på 650 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 4 sekunder og har en topphastighet på 250 km/t, som viser frem dens imponerende ytelse.
 
 ## Batteri, rekkevidde og lading
 

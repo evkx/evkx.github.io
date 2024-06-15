@@ -31,7 +31,7 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo (GEN1) i seksjoner. Hvis du
 
 
 
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan Turbo (GEN1) en maksimal effekt på 500 KW (680hk). Uten overboost er den 460KW (625hk). Dreiemomentet er 850 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 3,2 sekunder. Topphastigheten er 260 km/t.
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan Turbo (GEN1) en maksimal effekt på 500 kW (680 hk / 671 bhp). Uten overboost leverer den solide 460 kW (625 hk). Maksimalt dreiemoment er på 850 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 3,2 sekunder og har en topphastighet på 260 km/t, som viser frem dens imponerende ytelse.
 
 ## Batteri, rekkevidde og lading
 

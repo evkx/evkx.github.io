@@ -37,7 +37,7 @@ Este modelo ha sido reemplazado por [Porsche Taycan Turbo Cross Turismo](/models
 
 
 
-Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan Turbo Cross Turismo (GEN1) tiene una potencia máxima de 500 KW (680 hp / 671 bhp). Sin overboost, es de 460 KW (625 CV / 625 CV). El par es 850 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 3,3 segundos. La velocidad máxima es 250 km/h.
+Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan Turbo Cross Turismo (GEN1) alcanza una potencia máxima de 500 kW (680 hp). Sin overboost, proporciona una sólida potencia de 460 kW (625 hp). El par máximo es de 850 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 3,3 segundos y alcanza una velocidad máxima de 250 km/h, mostrando su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 

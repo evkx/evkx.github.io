@@ -60,7 +60,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan (GE
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -116,7 +116,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan (GE
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s

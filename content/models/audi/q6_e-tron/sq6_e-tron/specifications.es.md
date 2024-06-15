@@ -68,7 +68,7 @@ EVKX.net busca tener las especificaciones más completas para Audi SQ6 e-tron. H
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				4,4 s

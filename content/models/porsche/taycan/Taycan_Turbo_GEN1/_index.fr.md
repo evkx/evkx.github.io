@@ -31,7 +31,7 @@ Nous avons séparé notre article Porsche Taycan Turbo (GEN1) en sections. Si vo
 
 
 
-Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, le Porsche Taycan Turbo (GEN1) a une puissance maximale de 500 KW (680 ch / 671 ch). Sans overboost, il est de 460 KW (625 ch / 625 ch). Le couple est de 850 nm avec overboost et de  sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 3,2 secondes. La vitesse maximale est de 260 km/h.
+Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec l'overboost, la Porsche Taycan Turbo (GEN1) atteint une puissance maximale de 500 kW (680 ch). Sans overboost, elle offre une puissance solide de 460 kW (625 ch). Le couple maximal est de 850 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 3,2 secondes et atteint une vitesse maximale de 260 km/h, démontrant ses performances impressionnantes.
 
 ## Batterie, autonomie et charge
 

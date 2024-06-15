@@ -60,7 +60,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s
@@ -116,7 +116,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

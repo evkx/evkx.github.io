@@ -60,7 +60,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4S Spor
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				3,7 s
@@ -116,7 +116,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4S Spor
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				4 s

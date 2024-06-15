@@ -31,7 +31,7 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo i seksjoner. Hvis du vil ve
 
 
 
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan Turbo en maksimal effekt på 650 KW (884hk). Uten overboost er den 520KW (707hk). Dreiemomentet er 890 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,7 sekunder. Topphastigheten er 260 km/t.
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan Turbo en maksimal effekt på 650 kW (884 hk / 872 bhp). Uten overboost leverer den solide 520 kW (707 hk). Maksimalt dreiemoment er på 890 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 2,7 sekunder og har en topphastighet på 260 km/t, som viser frem dens imponerende ytelse.
 
 ## Batteri, rekkevidde og lading
 

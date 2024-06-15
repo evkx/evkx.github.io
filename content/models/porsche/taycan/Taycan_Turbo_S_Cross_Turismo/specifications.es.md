@@ -60,7 +60,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				2,5 s

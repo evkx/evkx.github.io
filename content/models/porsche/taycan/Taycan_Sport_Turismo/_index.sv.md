@@ -29,9 +29,9 @@ Vi har delat in vår beskrivning av Porsche Taycan Sport Turismo i avsnitt. Om d
 
 ## Prestanda
 
-Med overboost har Porsche Taycan Sport Turismo en maximal effekt på 300 KW (408hk). Utan overboost är det 240KW (326hp). Vridmomentet är 345 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 5,4 sekunder. Topphastigheten är 230 km/h.
+Med overboost har Porsche Taycan Sport Turismo en maximal effekt på 300 KW (408hk). Utan overboost är det 240KW (326hp). Vridmomentet är 345 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 5,4 sekunder med överboost och  sekunder utan överboost. Topphastigheten är 230 km/h.
 
-Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan Sport Turismo en maximal effekt på 350 KW (476hk). Utan overboost är det 280KW (381hp). Vridmomentet är 357 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 5,4 sekunder. Topphastigheten är 230 km/h.
+Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med overboost har Porsche Taycan Sport Turismo en maximal effekt på 350 KW (476hk). Utan overboost är det 280KW (381hp). Vridmomentet är 357 Nm med överboost och  utan överboost. Den gör sprinten 0-100 km/h på 5,4 sekunder med överboost och  sekunder utan överboost. Topphastigheten är 230 km/h.
 
 ## Batteri, räckvidd och laddning
 

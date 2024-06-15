@@ -29,9 +29,9 @@ Vi har delt vår beskrivelse av Porsche Taycan 4S Sport Turismo i seksjoner. Hvi
 
 ## Ytelse
 
-Med overboost har Porsche Taycan 4S Sport Turismo en maksimal effekt på 400 KW (544hk). Uten overboost er den 340KW (462hk). Dreiemomentet er 695 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 3,7 sekunder. Topphastigheten er 250 km/t.
+Med overboost når Porsche Taycan 4S Sport Turismo en maksimal effekt på 400 kW (544 hk / 536 bhp). Uten overboost leverer den solide 340 kW (462 hk). Maksimalt dreiemoment er på 695 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 3,7 sekunder og har en topphastighet på 250 km/t, som viser frem dens imponerende ytelse.
 
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost har Porsche Taycan 4S Sport Turismo en maksimal effekt på 440 KW (598hk). Uten overboost er den 380KW (517hk). Dreiemomentet er 710 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 4 sekunder. Topphastigheten er 250 km/t.
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan 4S Sport Turismo en maksimal effekt på 440 kW (598 hk / 590 bhp). Uten overboost leverer den solide 380 kW (517 hk). Maksimalt dreiemoment er på 710 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 4 sekunder og har en topphastighet på 250 km/t, som viser frem dens imponerende ytelse.
 
 ## Batteri, rekkevidde og lading
 

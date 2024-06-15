@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Porsche Taycan 4 Cross Turismo en secciones. Si
 
 ## Rendimiento
 
-Con overboost, el Porsche Taycan 4 Cross Turismo tiene una potencia máxima de 350 KW (476 hp / 469 bhp). Sin overboost, es de 280 KW (381 CV / 381 CV). El par es 500 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,1 segundos. La velocidad máxima es 220 km/h.
+Con overboost, el Porsche Taycan 4 Cross Turismo tiene una potencia máxima de 350 KW (476 hp / 469 bhp). Sin overboost, es de 280 KW (381 CV / 381 CV). El par es 500 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,1 segundos con overboost y  segundos sin overboost. La velocidad máxima es 220 km/h.
 
 ## Batería, autonomía y carga
 

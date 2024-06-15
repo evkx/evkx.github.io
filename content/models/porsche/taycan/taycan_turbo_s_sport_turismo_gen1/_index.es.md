@@ -35,7 +35,7 @@ Este modelo ha sido reemplazado por [Porsche Taycan Turbo S Sport Turismo](/mode
 
 ## Rendimiento
 
-Con overboost, el Porsche Taycan Turbo S Sport Turismo (GEN1) tiene una potencia máxima de 560 KW (761 hp / 751 bhp). Sin overboost, es de 460 KW (625 CV / 625 CV). El par es 850 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,8 segundos. La velocidad máxima es 260 km/h.
+Con overboost, el Porsche Taycan Turbo S Sport Turismo (GEN1) alcanza una potencia máxima de 560 kW (761 hp). Sin overboost, proporciona una sólida potencia de 460 kW (625 hp). El par máximo es de 850 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 2,8 segundos y alcanza una velocidad máxima de 260 km/h, mostrando su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 

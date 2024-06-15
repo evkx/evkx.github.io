@@ -60,7 +60,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. C
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph)
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				4 s
@@ -116,7 +116,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. C
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph)
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				4 s

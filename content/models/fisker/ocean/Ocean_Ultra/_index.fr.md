@@ -29,7 +29,7 @@ Nous avons séparé notre article Fisker Ocean Ultra en sections. Si vous souhai
 
 ## Performances
 
-La Fisker Ocean Ultra offre des performances solides avec une puissance maximale de 344 kW (468 ch) et un couple total de 696 Nm. Elle peut accélérer de 0 à 100 km/h en 4,2 secondes et atteindre une vitesse maximale de 205 km/h, ce qui la rend compétitive dans sa catégorie.
+Avec l'overboost, la Fisker Ocean Ultra atteint une puissance maximale de 400 kW (544 ch). Sans overboost, elle offre une puissance solide de 344 kW (468 ch). Le couple maximal est de 737 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 4,2 secondes et atteint une vitesse maximale de 205 km/h, démontrant ses performances impressionnantes.
 
 ## Batterie, autonomie et charge
 

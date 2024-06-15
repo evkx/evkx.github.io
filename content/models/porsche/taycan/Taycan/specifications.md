@@ -68,7 +68,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph)
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				4,8 s
@@ -132,7 +132,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan. Clic
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph)
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				4,8 s

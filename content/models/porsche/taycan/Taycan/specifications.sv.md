@@ -68,7 +68,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				4,8 s
@@ -132,7 +132,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				4,8 s

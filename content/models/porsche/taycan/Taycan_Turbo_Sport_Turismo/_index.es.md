@@ -31,7 +31,7 @@ Hemos separado nuestro artículo Porsche Taycan Turbo Sport Turismo en secciones
 
 
 
-Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan Turbo Sport Turismo tiene una potencia máxima de 650 KW (884 hp / 872 bhp). Sin overboost, es de 520 KW (707 CV / 707 CV). El par es 940 nm con overboost y  sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 2,7 segundos. La velocidad máxima es 260 km/h.
+Con la batería Performance Battery Plus opcional, obtienes otros números de rendimiento. Con overboost, el Porsche Taycan Turbo Sport Turismo alcanza una potencia máxima de 650 kW (884 hp). Sin overboost, proporciona una sólida potencia de 520 kW (707 hp). El par máximo es de 940 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 2,7 segundos y alcanza una velocidad máxima de 260 km/h, mostrando su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 

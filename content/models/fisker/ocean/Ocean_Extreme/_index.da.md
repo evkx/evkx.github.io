@@ -29,7 +29,7 @@ Vi har opdelt vores Fisker Ocean Extreme artikel i sektioner. Hvis du vil vente 
 
 ## Ydeevne
 
-Fisker Ocean Extreme leverer en solid præstation med en maksimal effekt på 344 kW (468 hk) og et totalt drejningsmoment på 696 Nm. Den kan accelerere fra 0 til 100 km/t på 4 sekunder og når en topfart på 205 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Med overboost når Fisker Ocean Extreme en maksimal effekt på 415 kW (564 hk). Uden overboost leverer den en stærk 344 kW (468 hk). Det maksimale drejningsmoment er på 737 Nm. Denne kraftkarl kan accelerere fra 0 til 100 km/t på blot 4 sekunder og har en topfart på 205 km/t, hvilket fremhæver dens imponerende præstationer.
 
 ## Batteri, rækkevidde og opladning
 

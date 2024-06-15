@@ -60,7 +60,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4 C
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,1 s

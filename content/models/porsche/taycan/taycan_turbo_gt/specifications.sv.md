@@ -60,7 +60,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Turbo G
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				2,3 s
@@ -116,7 +116,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Turbo G
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				2,2 s

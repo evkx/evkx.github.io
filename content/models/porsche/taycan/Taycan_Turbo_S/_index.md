@@ -29,7 +29,7 @@ We have separated our Porsche Taycan Turbo S article into sections. If you want 
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo S has a maximum power of 700 KW (952 hp / 939 bhp). Without overboost, it is 620 KW (843 hp / 843 bhp) The torque is 1110 nm with overboost and  without overboost. It can sprint from 0 to 100km/h (0 to 62mph) in 2.4 seconds and has a top speed of 260 km/h (162 mph).
+With overboost, the Porsche Taycan Turbo S reaches a maximum power of 700 kW (952 hp / 939 bhp). Without overboost, it provides a strong 620 kW (843 hp / 831 bhp). The maxium torque is at 1110 Nm (819 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 2.4 seconds and reaches a top speed of 260 km/h (162 mph), showcasing its impressive performance.
 
 ## Battery, range, and charging
 

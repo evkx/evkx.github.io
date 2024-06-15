@@ -29,7 +29,7 @@ Vi har opdelt vores Porsche Taycan Turbo S Cross Turismo artikel i sektioner. Hv
 
 ## Ydeevne
 
-Med overboost har Porsche Taycan Turbo S Cross Turismo en maksimal effekt på 700 KW (952 hk / 775 bhp). Uden overboost er den 570 KW (775 hk / 939 hk). Momentet er 1110 nm med overboost og  uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 2,5 sekunder. Tophastigheden er 250 km/t.
+Med overboost når Porsche Taycan Turbo S Cross Turismo en maksimal effekt på 700 kW (952 hk). Uden overboost leverer den en stærk 570 kW (775 hk). Det maksimale drejningsmoment er på 1110 Nm. Denne kraftkarl kan accelerere fra 0 til 100 km/t på blot 2,5 sekunder og har en topfart på 250 km/t, hvilket fremhæver dens imponerende præstationer.
 
 ## Batteri, rækkevidde og opladning
 

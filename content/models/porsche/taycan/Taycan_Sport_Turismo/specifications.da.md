@@ -60,7 +60,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s
@@ -116,7 +116,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

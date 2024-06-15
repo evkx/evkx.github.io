@@ -60,7 +60,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph)
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s
@@ -116,7 +116,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph)
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s

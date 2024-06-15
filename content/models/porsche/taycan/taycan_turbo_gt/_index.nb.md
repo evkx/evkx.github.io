@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo GT i seksjoner. Hvis du vil
 
 ## Ytelse
 
-Med overboost har Porsche Taycan Turbo GT en maksimal effekt på 815 KW (1108hk). Uten overboost er den 815KW (1108hk). Dreiemomentet er 1340 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,3 sekunder. Topphastigheten er 300 km/t. Med overboost har Porsche Taycan Turbo GT en maksimal effekt på 815 KW (1108hk). Uten overboost er den 815KW (1108hk). Dreiemomentet er 1340 nm med overboost og  uten overboost. Den utfører sprinten 0-100 km/t på 2,2 sekunder. Topphastigheten er 300 km/t.
+Med overboost når Porsche Taycan Turbo GT en maksimal effekt på 815 kW (1108 hk / 1093 bhp). Uten overboost leverer den solide 815 kW (1108 hk). Maksimalt dreiemoment er på 1340 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 2,3 sekunder og har en topphastighet på 300 km/t, som viser frem dens imponerende ytelse. Med overboost når Porsche Taycan Turbo GT en maksimal effekt på 815 kW (1108 hk / 1093 bhp). Uten overboost leverer den solide 815 kW (1108 hk). Maksimalt dreiemoment er på 1340 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 2,2 sekunder og har en topphastighet på 300 km/t, som viser frem dens imponerende ytelse.
 
 ## Batteri, rekkevidde og lading
 

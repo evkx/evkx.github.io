@@ -68,7 +68,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Fisker Ocean Extreme. 
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				4 s
