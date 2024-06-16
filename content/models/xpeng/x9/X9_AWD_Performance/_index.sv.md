@@ -37,7 +37,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 101,5 kWh och en nettoanvänd
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 640 km ( miles). Förbrukningen är 15,3kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 52 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 171kW. Varje laddningssession tar 18 minuter och 12 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 52 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 171kW. Varje laddningssession tar 18 minuter och 12 sekunder. Denna exceptionellt snabba laddningskapacitet gör XPENG X9 AWD Performance till en av de mest effektiva och bekväma elbilarna för långresor.
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 9 timmar och 13 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 59%, med en total laddningstid på 54 minuter.
 

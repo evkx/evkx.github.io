@@ -37,7 +37,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 98 kWh och en nettoanvändbar
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 520 km (199 miles), med en energiförbrukningshastighet på 18,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 169kW. Varje laddningssession tar 18 minuter och 36 sekunder.
+Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 169kW. Varje laddningssession tar 18 minuter och 36 sekunder. Denna exceptionellt snabba laddningskapacitet gör XPENG G9 AWD Performance till en av de mest effektiva och bekväma elbilarna för långresor.
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 26 kWh/100 km, skulle resan ta ungefär 9 timmar och 20 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 67%, med en total laddningstid på 60 minuter.
 

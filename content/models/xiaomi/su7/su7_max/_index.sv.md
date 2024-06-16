@@ -37,7 +37,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 101 kWh och en nettoanvändba
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 800 km ( miles). Förbrukningen är 12,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 40 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 182kW. Varje laddningssession tar 23 minuter och 12 sekunder.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 40 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 182kW. Varje laddningssession tar 23 minuter och 12 sekunder. Denna exceptionellt snabba laddningskapacitet gör Xiaomi SU7 Max till en av de mest effektiva och bekväma elbilarna för långresor.
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 17 kWh/100 km, skulle resan ta ungefär 8 timmar och 43 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 75%, med en total laddningstid på 24 minuter.
 

@@ -37,7 +37,7 @@ Det højkapacitetsbatteri har en bruttokapacitet på 102,7 kWh og en nettoanvend
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruget er 14,1kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 520kW. En fuld opladning fra 0 - 100 % ville tage 22 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 11 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 80%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 283kW. Hver opladningssession ville tage 17 minutter og 44 sekunder.
+Den maksimale DC-opladningshastighed er 520kW. En fuld opladning fra 0 - 100 % ville tage 22 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 11 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 80%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 283kW. Hver opladningssession ville tage 17 minutter og 44 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Li Auto MEGA til en af de mest effektive og bekvemme elbiler til langdistancerejser.
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 8 timer og 48 minutter. Denne rejse ville kræve to opladningsstop fra 2% til 67%, med en samlet opladningstid på 28 minutter
 
