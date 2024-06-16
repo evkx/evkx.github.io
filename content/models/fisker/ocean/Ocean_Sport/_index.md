@@ -29,11 +29,11 @@ We have separated our Fisker Ocean Sport article into sections. If you want to w
 
 ## Performance
 
-With overboost, the Fisker Ocean Sport achieves a maximum power of 209 kW (284 hp / 280 bhp). Without overboost, it delivers 180 kW (245 hp / 241 bhp). The maximum torque is 386 Nm (285 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and reaches a top speed of 188 km/h (117 mph), offering performance more akin to traditional internal combustion engine vehicles.
+With overboost, the Fisker Ocean Sport achieves a maximum power of 209 kW (284 hp / 280 bhp). Without overboost, it delivers 180 kW (245 hp / 241 bhp). The maximum torque is 386 Nm (285 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and reaches a top speed of 188 km/h (117 mph), offering performance more akin to traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 73 kWh and a net usable capacity of 70 kWh, providing an 3 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 73 kWh and a net usable capacity of 70 kWh, providing an 3 kWh buffer (4.1%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 464 km (288 mi). The consumption is 15.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

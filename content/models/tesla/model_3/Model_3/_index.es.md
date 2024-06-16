@@ -33,13 +33,13 @@ El Tesla Model 3 ofrece un rendimiento modesto con una potencia máxima de 208 k
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 59kWh, lo que significa que tienes un buffer de 1kWh para protección. (1,7%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 59 kWh, proporcionando un buffer de 1 kWh (1,7%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 513 km (319 mi). El consumo es de 11,5kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 513 km (319 mi). El consumo es de 11,5kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 170kW. Una carga completa del 0 al 100 % tardaría 70 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 49%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 83kW. Cada sesión de carga tardaría 20 minutos y 31 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 17kWh/100 km, 1000 km tomarán 9 horas y 41 minutos. Este viaje requerirá cuatro sesiones de carga del 3 % al 51 %. El tiempo total perdido para cargar la batería será de 82 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 17 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 41 minutos. Este viaje requeriría dos paradas de carga del 3% al 51%, con un tiempo total de carga de 82 minutos.
 
 ### Cargador a bordo
 

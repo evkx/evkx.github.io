@@ -29,11 +29,11 @@ We have separated our Hyundai Kona Standard Range article into sections. If you 
 
 ## Performance
 
-The Hyundai Kona Standard Range offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 255 Nm (188 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Hyundai Kona Standard Range offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 255 Nm (188 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 51 kWh and a net usable capacity of 48,4 kWh, providing an 2,6 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 51 kWh and a net usable capacity of 48,4 kWh, providing an 2,6 kWh buffer (5.1%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 377 km (234 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

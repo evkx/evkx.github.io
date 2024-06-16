@@ -29,11 +29,11 @@ We have separated our Aion Hyper GT 710 Supercharged article into sections. If y
 
 ## Performance
 
-The Aion Hyper GT 710 Supercharged delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 430 Nm (317 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.9 seconds and reaches a top speed of 257 km/h (160 mph), making it competitive within its class.
+The Aion Hyper GT 710 Supercharged delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 430 Nm (317 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.9 seconds and reaches a top speed of 257 km/h (160 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 80,1 kWh and a net usable capacity of 77 kWh, providing an 3,1 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 80,1 kWh and a net usable capacity of 77 kWh, providing an 3,1 kWh buffer (3.9%) for battery protection.
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 710 km ( miles). The consumption is 10.8kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

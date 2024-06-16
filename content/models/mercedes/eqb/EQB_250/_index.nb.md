@@ -33,13 +33,13 @@ Mercedes-EQ EQB 250 tilbyr beskjedne ytelser med en maksimal effekt på 140 kW (
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 69,7kWh og en nettokapasitet på 66,5kWh, noe som betyr at du har et 3,2kWh-buffer for beskyttelse. (4,6%).
+Høykapasitetsbatteriet har en brutto kapasitet på 69,7 kWh og en netto brukbar kapasitet på 66,5 kWh, som gir en buffer på 3,2 kWh (4,6%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 474 til 423 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,0kWh/100 km for basisversjonen og 15,7kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 474 og 423 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,0 kWh/100 km for basismodellen og 15,7 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 112 kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 70%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 84kW. Hver ladeøkt vil ta 31 minutter og 19 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 25kWh/100km, vil 1000km ta 10 timer og 31 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 4% til 73%. Totalt tapt tid for å lade opp batteriet vil være 131 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 10 timer og 31 minutter. Denne reisen ville kreve to ladestopp fra 4% til 73%, med en total ladetid på 131 minutter.
 
 ### Ombordlader
 

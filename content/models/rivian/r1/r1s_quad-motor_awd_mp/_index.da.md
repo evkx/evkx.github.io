@@ -33,13 +33,13 @@ Rivian R1S Quad-Motor AWD MP leverer en imponerende maksimal effekt på 764 KW (
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 149kWh og en nettokapacitet på 141,5kWh, hvilket betyder, at du har en 7,5kWh buffer til beskyttelse. (5,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 149 kWh og en nettoanvendelig kapacitet på 141,5 kWh, hvilket giver en buffer på 7,5 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 321 til 340 miles (516-547 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 2,3mi/kWh for basisversionen og 2,4mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 321 til 340 miles (516-547 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 2,3mi/kWh for basisversionen og 2,4mi/kWh for toptrim-versionen for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 220kW. En fuld opladning fra 0 - 100 % ville tage 127 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 46 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 141kW. Hver opladningssession ville tage 27 minutter og 5 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 30kWh/100 km, vil 1000 km tage 9 timer og 29 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 0 % til 38%. Den samlede tid, der går tabt for at oplade batteriet, vil være 69 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 30 kWh/100 km, ville turen tage cirka 9 timer og 29 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 38%, med en samlet opladningstid på 69 minutter
 
 ### Indbygget oplader
 

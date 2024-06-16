@@ -33,9 +33,9 @@ El VinFast VF8 Plus ofrece un rendimiento sólido con una potencia máxima de 30
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 94kWh y una capacidad neta de 87,7kWh, lo que significa que tienes un buffer de 6,3kWh para protección. (6,7%).
+La batería de alta capacidad tiene una capacidad bruta de 94 kWh y una capacidad neta utilizable de 87,7 kWh, proporcionando un buffer de 6,3 kWh (6,7%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 447 km (278 mi). El consumo es de 19,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 447 km (278 mi). El consumo es de 19,6kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 110kW. Una carga completa del 0 al 100 % tardaría 105 minutos, mientras que un escenario más común del 10 al 80 % tardaría 44 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 11% al 70%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 77kW. Cada sesión de carga tardaría 40 minutos y 4 segundos.
 

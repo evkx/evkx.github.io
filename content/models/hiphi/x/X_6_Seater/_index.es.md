@@ -33,13 +33,13 @@ El HiPhi X 6 Seater impresiona con una potencia máxima de 433 kW (589 hp) y un 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 101kWh y una capacidad neta de 97kWh, lo que significa que tienes un buffer de 4kWh para protección. (4,0%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 101 kWh y una capacidad neta utilizable de 97 kWh, proporcionando un buffer de 4 kWh (4,0%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 460 km (286 mi). El consumo es de 21,1kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 460 km (286 mi). El consumo es de 21,1kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 79 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 51%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 100kW. Cada sesión de carga tardaría 27 minutos y 19 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 28kWh/100 km, 1000 km tomarán 10 horas y 11 minutos. Este viaje requerirá cinco sesiones de carga del 5 % al 43 %. El tiempo total perdido para cargar la batería será de 111 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 28 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 11 minutos. Este viaje requeriría dos paradas de carga del 5% al 43%, con un tiempo total de carga de 111 minutos.
 
 ### Cargador a bordo
 

@@ -29,11 +29,11 @@ We have separated our BMW iX M60 article into sections. If you want to wait to r
 
 ## Performance
 
-The BMW iX M60 packs an impressive punch with a maximum power of 455 kW (619 hp / 610 bhp) and a commanding total torque of 765 Nm (565 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
+The BMW iX M60 packs an impressive punch with a maximum power of 455 kW (619 hp / 610 bhp) and a commanding total torque of 765 Nm (565 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 111 kWh and a net usable capacity of 105,2 kWh, providing an 5,8 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 111 kWh and a net usable capacity of 105,2 kWh, providing an 5,8 kWh buffer (5.2%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 561 to 502 km (349-312 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.8 kWh/100 km for the base model and 21.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

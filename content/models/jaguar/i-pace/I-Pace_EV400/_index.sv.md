@@ -33,13 +33,13 @@ Jaguar I-Pace EV400 levererar en solid prestanda med en maximal effekt på 294 k
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 90kWh och en nettokapacitet på 84,7kWh, vilket innebär att du har en 5,3kWh buffert för skydd. (5,9%).
+Högkapacitetsbatteriet har en bruttokapacitet på 90 kWh och en nettoanvändbar kapacitet på 84,7 kWh, vilket ger en buffert på 5,3 kWh (5,9%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 470 till 408 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 18,0kWh/100 km för basversionen och 20,8kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 470 och 408 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 18,0 kWh/100 km för basmodellen och 20,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 104 kW. En full laddning från 0 - 100 % tar 105 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 76kW. Varje laddningssession tar 26 minuter och 2 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26,9kWh/100km, tar 1000km 10 timmar och 47 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 6% till 50%. Total tid som går förlorad för att ladda batteriet kommer att vara 148 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 26,9 kWh/100 km, skulle resan ta ungefär 10 timmar och 47 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 50%, med en total laddningstid på 148 minuter.
 
 ### Inbyggd laddare
 

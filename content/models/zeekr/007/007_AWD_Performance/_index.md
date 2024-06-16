@@ -29,11 +29,11 @@ We have separated our Zeekr 007 AWD Performance article into sections. If you wa
 
 ## Performance
 
-The Zeekr 007 AWD Performance packs an impressive punch with a maximum power of 475 kW (646 hp / 637 bhp) and a commanding total torque of 710 Nm (524 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 2.84 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+The Zeekr 007 AWD Performance packs an impressive punch with a maximum power of 475 kW (646 hp / 637 bhp) and a commanding total torque of 710 Nm (524 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 2.84 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 100 kWh and a net usable capacity of 95 kWh, providing an 5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 95 kWh, providing an 5 kWh buffer (5.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 660 km ( miles). The consumption is 14.4kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our VOYAH FREE article into sections. If you want to wait to r
 
 ## Performance
 
-The VOYAH FREE delivers a solid performance with a maximum power of 360 kW (490 hp / 483 bhp) and a total torque of 720 Nm (531 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The VOYAH FREE delivers a solid performance with a maximum power of 360 kW (490 hp / 483 bhp) and a total torque of 720 Nm (531 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 106 kWh and a net usable capacity of 100 kWh, providing an 6 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 106 kWh and a net usable capacity of 100 kWh, providing an 6 kWh buffer (5.7%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 500 km (311 mi). The consumption is 20.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

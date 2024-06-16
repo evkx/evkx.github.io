@@ -33,13 +33,13 @@ El Lucid Air Sapphire entrega una impresionante potencia máxima de 920 kW (1251
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 118kWh y una capacidad neta de 117kWh, lo que significa que tienes un buffer de 1kWh para protección. (0,8%).
+La batería de alta capacidad tiene una capacidad bruta de 118 kWh y una capacidad neta utilizable de 117 kWh, proporcionando un buffer de 1 kWh (0,8%) para la protección de la batería.
 
-El [rango EPA](../../../../guides/understandingrange/epa/) es 427 millas (687 km). El consumo es 3,6mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango EPA](../../../../guides/understandingrange/epa/) es 427 millas (687 km). El consumo es 3,6mi/kWh para la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 300kW. Una carga completa del 0 al 100 % tardaría 77 minutos, mientras que un escenario más común del 10 al 80 % tardaría 33 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 46%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 174kW. Cada sesión de carga tardaría 18 minutos y 7 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21kWh/100 km, 1000 km tomarán 8 horas y 52 minutos. Este viaje requerirá dos sesiones de carga del 1 % al 41 %. El tiempo total perdido para cargar la batería será de 32 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 52 minutos. Este viaje requeriría dos paradas de carga del 1% al 41%, con un tiempo total de carga de 32 minutos.
 
 ### Cargador a bordo
 

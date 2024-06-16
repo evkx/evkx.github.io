@@ -33,13 +33,13 @@ Neta GT 580 AWD leverer en solid præstation med en maksimal effekt på 340 kW (
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 78kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (3,8%).
+Det højkapacitetsbatteri har en bruttokapacitet på 78 kWh og en nettoanvendelig kapacitet på 75 kWh, hvilket giver en buffer på 3 kWh (3%) til batteribeskyttelse.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 580 km ( miles). Forbruget er 12,9kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 580 km ( miles). Forbruget er 12,9kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 120kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 90kW. Hver opladningssession ville tage 36 minutter og 6 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 23kWh/100 km, vil 1000 km tage 10 timer og 3 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 5 % til 74%. Den samlede tid, der går tabt for at oplade batteriet, vil være 104 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 10 timer og 3 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 74%, med en samlet opladningstid på 104 minutter
 
 ### Indbygget oplader
 

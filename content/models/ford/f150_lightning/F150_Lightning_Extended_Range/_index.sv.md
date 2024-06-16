@@ -33,13 +33,13 @@ Ford F150 Lightning Extended Range imponerar med en imponerande kraft på 433 kW
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 150kWh och en nettokapacitet på 130kWh, vilket innebär att du har en 20kWh buffert för skydd. (13,3%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 150 kWh och en nettoanvändbar kapacitet på 130 kWh, vilket ger en buffert på 20 kWh (13,3%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 320 till 300 miles (515-483 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2,5mi/kWh för basversionen och 2,3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 320 till 300 miles (515-483 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2,5mi/kWh för basversionen och 2,3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 155 kW. En full laddning från 0 - 100 % tar 129 minuter, medan ett vanligare scenario på 10-80 % tar 49 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 106kW. Varje laddningssession tar 46 minuter och 35 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 33kWh/100km, tar 1000km 10 timmar och 13 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 0% till 77%. Total tid som går förlorad för att ladda batteriet kommer att vara 114 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 33 kWh/100 km, skulle resan ta ungefär 10 timmar och 13 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 77%, med en total laddningstid på 114 minuter.
 
 ### Inbyggd laddare
 

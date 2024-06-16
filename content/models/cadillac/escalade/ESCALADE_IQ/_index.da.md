@@ -33,13 +33,13 @@ Cadillac ESCALADE IQ imponerer med en maksimal effekt på 560 kW (761 hk) og et 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 215kWh og en nettokapacitet på 200kWh, hvilket betyder, at du har en 15kWh buffer til beskyttelse. (7,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 215 kWh og en nettoanvendelig kapacitet på 200 kWh, hvilket giver en buffer på 15 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruget er 2,3mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 450 miles (724 km). Forbruget er 2,3mi/kWh for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 130 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 45 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 53%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 242kW. Hver opladningssession ville tage 26 minutter og 49 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 35kWh/100 km, vil 1000 km tage 8 timer og 58 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 39%. Den samlede tid, der går tabt for at oplade batteriet, vil være 39 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 35 kWh/100 km, ville turen tage cirka 8 timer og 58 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 39%, med en samlet opladningstid på 39 minutter
 
 ### Indbygget oplader
 

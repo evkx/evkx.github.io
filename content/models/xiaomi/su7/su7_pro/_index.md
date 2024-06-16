@@ -29,11 +29,11 @@ We have separated our Xiaomi SU7 Pro article into sections. If you want to wait 
 
 ## Performance
 
-The Xiaomi SU7 Pro offers modest performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 400 Nm (295 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Xiaomi SU7 Pro offers modest performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 400 Nm (295 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 94,3 kWh and a net usable capacity of 92 kWh, providing an 2,3 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 94,3 kWh and a net usable capacity of 92 kWh, providing an 2,3 kWh buffer (2.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 830 km ( miles). The consumption is 11.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

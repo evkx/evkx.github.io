@@ -33,13 +33,13 @@ El Honda e:Ny1 ofrece un rendimiento modesto con una potencia máxima de 150 kW 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 68,8kWh y una capacidad neta de 61,9kWh, lo que significa que tienes un buffer de 6,9kWh para protección. (10,0%).
+La batería de alta capacidad tiene una capacidad bruta de 68,8 kWh y una capacidad neta utilizable de 61,9 kWh, proporcionando un buffer de 6,9 kWh (10,0%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 412 km (256 mi). El consumo es de 15,0kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 412 km (256 mi). El consumo es de 15,0kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 38 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 92%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 62kW. Cada sesión de carga tardaría 51 minutos y 28 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 24,5kWh/100 km, 1000 km tomarán 11 horas y 18 minutos. Este viaje requerirá cuatro sesiones de carga del 16 % al 90 %. El tiempo total perdido para cargar la batería será de 179 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24,5 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 18 minutos. Este viaje requeriría dos paradas de carga del 16% al 90%, con un tiempo total de carga de 179 minutos.
 
 ### Cargador a bordo
 

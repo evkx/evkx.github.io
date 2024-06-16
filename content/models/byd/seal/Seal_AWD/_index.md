@@ -29,11 +29,11 @@ We have separated our BYD Seal AWD article into sections. If you want to wait to
 
 ## Performance
 
-The BYD Seal AWD delivers a solid performance with a maximum power of 390 kW (530 hp / 523 bhp) and a total torque of 670 Nm (494 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The BYD Seal AWD delivers a solid performance with a maximum power of 390 kW (530 hp / 523 bhp) and a total torque of 670 Nm (494 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 85,4 kWh and a net usable capacity of 82,5 kWh, providing an 2,9 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 85,4 kWh and a net usable capacity of 82,5 kWh, providing an 2,9 kWh buffer (3.4%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 mi). The consumption is 15.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,9 +33,9 @@ L'Mini Cooper SE offre des performances modestes avec une puissance maximale de 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 54,2kWh et une capacité nette de 49kWh, ce qui signifie que vous disposez d'une réserve de 5,2kWh pour la protection. (9,6%).
+La batterie haute capacité a une capacité brute de 54,2 kWh et une capacité nette utilisable de 49 kWh, offrant une réserve de 5,2 kWh (9,6%) pour la protection de la batterie.
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 402 à 377 km (250-234 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 12,2kWh/100km pour la version de base et 13,0kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 402 et 377 km (345-347 miles), en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,2 kWh/100 km pour le modèle de base et à 13,0 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 95kW. Une charge complète de 0 à 100 % prendrait 61 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 58 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 62kW. Chaque session de charge prendrait 24 minutes et 12 secondes.
 

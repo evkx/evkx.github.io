@@ -33,13 +33,13 @@ BYD Seal RWD erbjuder blygsamma prestanda med en maximal effekt på 230 kW (313 
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 85,4kWh och en nettokapacitet på 82,5kWh, vilket innebär att du har en 2,9kWh buffert för skydd. (3,4%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 85,4 kWh och en nettoanvändbar kapacitet på 82,5 kWh, vilket ger en buffert på 2,9 kWh (3,4%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 520 km. Förbrukningen är 15,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 520 km. Förbrukningen är 15,9kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 64 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 92kW. Varje laddningssession tar 29 minuter och 27 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 10 timmar och 10 minuter. Den här resan kommer att kräva fyra laddningssession(er) laddning från 8% till 59%. Total tid som går förlorad för att ladda batteriet kommer att vara 110 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 10 timmar och 10 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 59%, med en total laddningstid på 110 minuter.
 
 ### Inbyggd laddare
 

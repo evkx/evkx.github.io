@@ -33,13 +33,13 @@ Volvo EM90 erbjuder blygsamma prestanda med en maximal effekt på 200 kW (272 hk
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 116kWh och en nettokapacitet på 110kWh, vilket innebär att du har en 6kWh buffert för skydd. (5,2%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 116 kWh och en nettoanvändbar kapacitet på 110 kWh, vilket ger en buffert på 6 kWh (5,2%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 738 km ( miles). Förbrukningen är 14,9kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 738 km ( miles). Förbrukningen är 14,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 139kW. Varje laddningssession tar 24 minuter och 48 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28kWh/100km, tar 1000km 9 timmar och 34 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 4% till 56%. Total tid som går förlorad för att ladda batteriet kommer att vara 74 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 28 kWh/100 km, skulle resan ta ungefär 9 timmar och 34 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 56%, med en total laddningstid på 74 minuter.
 
 ### Inbyggd laddare
 

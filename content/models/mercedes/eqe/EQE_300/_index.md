@@ -29,11 +29,11 @@ We have separated our Mercedes-EQ EQE 300 article into sections. If you want to 
 
 ## Performance
 
-The Mercedes-EQ EQE 300 offers modest performance with a maximum power of 180 kW (245 hp / 241 bhp) and a total torque of 565 Nm (417 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Mercedes-EQ EQE 300 offers modest performance with a maximum power of 180 kW (245 hp / 241 bhp) and a total torque of 565 Nm (417 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 96,12 kWh and a net usable capacity of 90,6 kWh, providing an 5,52 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 96,12 kWh and a net usable capacity of 90,6 kWh, providing an 5,52 kWh buffer (5.7%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 639 to 550 km (397-342 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.2 kWh/100 km for the base model and 16.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

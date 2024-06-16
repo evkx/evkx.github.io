@@ -29,11 +29,11 @@ We have separated our Volkswagen ID. Buzz GTX LWB article into sections. If you 
 
 ## Performance
 
-The Volkswagen ID. Buzz GTX LWB delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 560 Nm (413 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.5 seconds and reaches a top speed of 160 km/h (99 mph), making it competitive within its class.
+The Volkswagen ID. Buzz GTX LWB delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 560 Nm (413 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.5 seconds and reaches a top speed of 160 km/h (99 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 91 kWh and a net usable capacity of 86 kWh, providing an 5 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 91 kWh and a net usable capacity of 86 kWh, providing an 5 kWh buffer (5.5%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 450 km (280 mi). The consumption is 19.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

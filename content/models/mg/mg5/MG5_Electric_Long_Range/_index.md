@@ -29,11 +29,11 @@ We have separated our MG MG5 Electric Long Range article into sections. If you w
 
 ## Performance
 
-The MG MG5 Electric Long Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.3 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The MG MG5 Electric Long Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.3 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 61,1 kWh and a net usable capacity of 57,4 kWh, providing an 3,7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 61,1 kWh and a net usable capacity of 57,4 kWh, providing an 3,7 kWh buffer (6.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 400 to 380 km (249-236 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.4 kWh/100 km for the base model and 15.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

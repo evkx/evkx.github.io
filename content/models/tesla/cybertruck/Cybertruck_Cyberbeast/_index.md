@@ -29,11 +29,11 @@ We have separated our Tesla Cybertruck Cyberbeast article into sections. If you 
 
 ## Performance
 
-The Tesla Cybertruck Cyberbeast delivers a jaw-dropping maximum power of 630 KW (857 hp/845 bhp) and a massive total torque of 930 Nm (686 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.7 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 209 km/h (130 mph), making it a true marvel of engineering and performance.
+The Tesla Cybertruck Cyberbeast delivers a jaw-dropping maximum power of 630 KW (857 hp/845 bhp) and a massive total torque of 930 Nm (686 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.7 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 209 km/h (130 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 123 kWh and a net usable capacity of 122,5 kWh, providing an 0,5 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 123 kWh and a net usable capacity of 122,5 kWh, providing an 0,5 kWh buffer (0.4%) for battery protection.
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 320 miles (515 km). The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,13 +33,13 @@ BMW i4 eDrive35 leverer en solid præstation med en maksimal effekt på 250 kW (
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 70,2kWh og en nettokapacitet på 66kWh, hvilket betyder, at du har en 4,2kWh buffer til beskyttelse. (6,0%).
+Det højkapacitetsbatteri har en bruttokapacitet på 70,2 kWh og en nettoanvendelig kapacitet på 66 kWh, hvilket giver en buffer på 4,2 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 490 til 406 km (305-252 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 13,5kWh/100 km for basisversionen og 16,3kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 490 og 406 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 13,5 kWh/100 km for basismodellen og 16,3 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 51%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 111kW. Hver opladningssession ville tage 17 minutter og 4 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 18kWh/100 km, vil 1000 km tage 9 timer og 22 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 2 % til 60%. Den samlede tid, der går tabt for at oplade batteriet, vil være 63 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 18 kWh/100 km, ville turen tage cirka 9 timer og 22 minutter. Denne rejse ville kræve to opladningsstop fra 2% til 60%, med en samlet opladningstid på 63 minutter
 
 ### Indbygget oplader
 

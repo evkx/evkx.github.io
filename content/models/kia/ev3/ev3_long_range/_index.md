@@ -29,11 +29,11 @@ We have separated our Kia EV3 Long Range article into sections. If you want to w
 
 ## Performance
 
-The Kia EV3 Long Range offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 283 Nm (209 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Kia EV3 Long Range offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 283 Nm (209 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 81,4 kWh and a net usable capacity of 77 kWh, providing an 4,4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 81,4 kWh and a net usable capacity of 77 kWh, providing an 4,4 kWh buffer (5.4%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

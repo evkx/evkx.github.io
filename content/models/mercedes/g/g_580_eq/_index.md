@@ -29,11 +29,11 @@ We have separated our Mercedes-EQ G 580 EQ article into sections. If you want to
 
 ## Performance
 
-The Mercedes-EQ G 580 EQ packs an impressive punch with a maximum power of 432 kW (587 hp / 579 bhp) and a commanding total torque of 1164 Nm (859 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.7 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
+The Mercedes-EQ G 580 EQ packs an impressive punch with a maximum power of 432 kW (587 hp / 579 bhp) and a commanding total torque of 1164 Nm (859 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.7 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 120 kWh and a net usable capacity of 116 kWh, providing an 4 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 116 kWh, providing an 4 kWh buffer (3.3%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 473 to 434 km (294-270 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 24.5 kWh/100 km for the base model and 26.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

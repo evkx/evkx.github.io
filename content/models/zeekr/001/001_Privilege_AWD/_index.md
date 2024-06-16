@@ -29,11 +29,11 @@ We have separated our Zeekr 001 Privilege AWD article into sections. If you want
 
 ## Performance
 
-The Zeekr 001 Privilege AWD packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 686 Nm (506 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+The Zeekr 001 Privilege AWD packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 686 Nm (506 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 100 kWh and a net usable capacity of 95 kWh, providing an 5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 95 kWh, providing an 5 kWh buffer (5.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 580 km (361 mi). The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

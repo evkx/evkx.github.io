@@ -33,13 +33,13 @@ La Mercedes-EQ EQS 580 4MATIC offre des performances solides avec une puissance 
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 125kWh et une capacité nette de 118kWh, ce qui signifie que vous disposez d'une réserve de 7kWh pour la protection. (5,6%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 125 kWh et une capacité nette utilisable de 118 kWh, offrant une réserve de 7 kWh (5,6%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 792 à 683 km (492-425 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,9kWh/100km pour la version de base et 17,3kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 792 et 683 km (345-347 miles), en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,9 kWh/100 km pour le modèle de base et à 17,3 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 210kW. Une charge complète de 0 à 100 % prendrait 89 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 55 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 144kW. Chaque session de charge prendrait 27 minutes et 31 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 22kWh/100 km, 1 000 km prendront 9 heures et 3 minutes. Ce trajet nécessitera deux sessions de charge de 1 % à 45 %. Le temps total perdu pour charger la batterie sera de 44 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 9 heures et 3 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 45%, avec un temps de recharge total de 44 minutes.
 
 ### Chargeur embarqué
 

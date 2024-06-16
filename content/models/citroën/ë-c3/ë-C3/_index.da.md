@@ -33,13 +33,13 @@ Citroën ë-C3 kWh leverer grundlæggende ydeevne med en maksimal effekt på 83 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 44kWh og en nettokapacitet på 43kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (2,3%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 44 kWh og en nettoanvendelig kapacitet på 43 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 320 km (199 mi). Forbruget er 13,4kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 320 km (199 mi). Forbruget er 13,4kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 64 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 13% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 64kW. Hver opladningssession ville tage 23 minutter og 34 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24kWh/100 km, vil 1000 km tage 11 timer og 25 minutter. Denne tur vil kræve ni opladningssession(er) opladning fra 15 % til 66%. Den samlede tid, der går tabt for at oplade batteriet, vil være 186 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 11 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 15% til 66%, med en samlet opladningstid på 186 minutter
 
 ### Indbygget oplader
 

@@ -35,11 +35,11 @@ This model has been replaced by [Audi Q4 Sportback 45 e-tron quattro](/models/au
 
 ## Performance
 
-The Audi Q4 Sportback 45 e-tron quattro (GEN1) offers modest performance with a maximum power of 195 kW (265 hp / 262 bhp) and a total torque of 425 Nm (314 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Audi Q4 Sportback 45 e-tron quattro (GEN1) offers modest performance with a maximum power of 195 kW (265 hp / 262 bhp) and a total torque of 425 Nm (314 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 76,6 kWh, providing an 5,4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 76,6 kWh, providing an 5,4 kWh buffer (6.6%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 524 to 446 km (326-277 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.6 kWh/100 km for the base model and 17.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

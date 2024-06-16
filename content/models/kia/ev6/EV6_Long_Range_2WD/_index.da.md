@@ -33,13 +33,13 @@ Kia EV6 Long Range 2WD tilbyder beskedne præstationer med en maksimal effekt p�
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 77,4kWh og en nettokapacitet på 74kWh, hvilket betyder, at du har en 3,4kWh buffer til beskyttelse. (4,4%).
+Det højkapacitetsbatteri har en bruttokapacitet på 77,4 kWh og en nettoanvendelig kapacitet på 74 kWh, hvilket giver en buffer på 3,4 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 528 til 504 km (328-313 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,0kWh/100 km for basisversionen og 14,7kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 528 og 504 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,0 kWh/100 km for basismodellen og 14,7 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 22 minutter og 59 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 20kWh/100 km, vil 1000 km tage 9 timer og 11 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 0 % til 86%. Den samlede tid, der går tabt for at oplade batteriet, vil være 51 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 20 kWh/100 km, ville turen tage cirka 9 timer og 11 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 86%, med en samlet opladningstid på 51 minutter
 
 ### Indbygget oplader
 

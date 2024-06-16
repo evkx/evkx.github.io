@@ -29,11 +29,11 @@ We have separated our Lucid Air Sapphire article into sections. If you want to w
 
 ## Performance
 
-The Lucid Air Sapphire delivers a jaw-dropping maximum power of 920 KW (1251 hp/1234 bhp) and a massive total torque of 1390 Nm (1026 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 1.95 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 330 km/h (205 mph), making it a true marvel of engineering and performance.
+The Lucid Air Sapphire delivers a jaw-dropping maximum power of 920 KW (1251 hp/1234 bhp) and a massive total torque of 1390 Nm (1026 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 1.95 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 330 km/h (205 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (0.8%) for battery protection.
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 427 miles (687 km). The consumption is 3.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,13 +33,13 @@ Chevrolet Silverado EV SRT imponerer med en imponerende kraft på 562 kW (764 hk
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 240kWh og en nettokapasitet på 215kWh, noe som betyr at du har et 25kWh-buffer for beskyttelse. (10,4%). Litium-ion-batteriet bruker [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 240 kWh og en netto brukbar kapasitet på 215 kWh, som gir en buffer på 25 kWh (10,4%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 2,0mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 440 miles (708 km). Forbruket er 2,0mi/kWh for EPA-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 140 minutter, mens et mer vanlig scenario på 10-80 % vil ta 49 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 52%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 245kW. Hver ladeøkt vil ta 27 minutter og 51 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 38kWh/100km, vil 1000km ta 9 timer og 1 minutter. Denne turen vil kreve to ladeøkt(er) lading fra 1% til 40%. Totalt tapt tid for å lade opp batteriet vil være 42 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 38 kWh/100 km, ville turen ta omtrent 9 timer og 1 minutter. Denne reisen ville kreve to ladestopp fra 1% til 40%, med en total ladetid på 42 minutter.
 
 ### Ombordlader
 

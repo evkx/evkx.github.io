@@ -29,11 +29,11 @@ We have separated our CUPRA Tavascan Endurance article into sections. If you wan
 
 ## Performance
 
-The CUPRA Tavascan Endurance offers modest performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+The CUPRA Tavascan Endurance offers modest performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (6.1%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 547 km (340 mi). The consumption is 14.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

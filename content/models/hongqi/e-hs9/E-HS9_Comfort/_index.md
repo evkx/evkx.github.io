@@ -29,11 +29,11 @@ We have separated our Hongqi E-HS9 Comfort article into sections. If you want to
 
 ## Performance
 
-The Hongqi E-HS9 Comfort offers modest performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 300 Nm (221 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.5 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Hongqi E-HS9 Comfort offers modest performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 300 Nm (221 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.5 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 84 kWh and a net usable capacity of 81,7 kWh, providing an 2,3 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 84 kWh and a net usable capacity of 81,7 kWh, providing an 2,3 kWh buffer (2.7%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 396 km (246 mi). The consumption is 20.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,9 +33,9 @@ Mini Cooper SE erbjuder blygsamma prestanda med en maximal effekt på 160 kW (21
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 54,2kWh och en nettokapacitet på 49kWh, vilket innebär att du har en 5,2kWh buffert för skydd. (9,6%).
+Högkapacitetsbatteriet har en bruttokapacitet på 54,2 kWh och en nettoanvändbar kapacitet på 49 kWh, vilket ger en buffert på 5,2 kWh (9,6%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 402 till 377 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 12,2kWh/100 km för basversionen och 13,0kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 402 och 377 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,2 kWh/100 km för basmodellen och 13,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 95 kW. En full laddning från 0 - 100 % tar 61 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 62kW. Varje laddningssession tar 24 minuter och 12 sekunder.
 

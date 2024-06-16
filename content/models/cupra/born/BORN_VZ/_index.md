@@ -29,11 +29,11 @@ We have separated our CUPRA BORN VZ article into sections. If you want to wait t
 
 ## Performance
 
-The CUPRA BORN VZ offers modest performance with a maximum power of 240 kW (326 hp / 322 bhp) and a total torque of 545 Nm (402 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
+The CUPRA BORN VZ offers modest performance with a maximum power of 240 kW (326 hp / 322 bhp) and a total torque of 545 Nm (402 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.7%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 570 km (354 mi). The consumption is 13.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,13 +33,13 @@ Xiaomi SU7 Max imponerer med en maksimal effekt på 495 kW (673 hk) og et impone
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 101kWh og en nettokapacitet på 99kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 101 kWh og en nettoanvendelig kapacitet på 99 kWh, hvilket giver en buffer på 2 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 800 km ( miles). Forbruget er 12,4kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 800 km ( miles). Forbruget er 12,4kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 40 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 74%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 182kW. Hver opladningssession ville tage 23 minutter og 12 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 17kWh/100 km, vil 1000 km tage 8 timer og 43 minutter. Denne tur vil kræve én opladningssession(er) opladning fra 3 % til 75%. Den samlede tid, der går tabt for at oplade batteriet, vil være 24 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 17 kWh/100 km, ville turen tage cirka 8 timer og 43 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 75%, med en samlet opladningstid på 24 minutter
 
 ### Indbygget oplader
 

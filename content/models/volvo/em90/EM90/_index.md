@@ -29,11 +29,11 @@ We have separated our Volvo EM90 article into sections. If you want to wait to r
 
 ## Performance
 
-The Volvo EM90 offers modest performance with a maximum power of 200 kW (272 hp / 268 bhp) and a total torque of 686 Nm (506 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.3 seconds and has a top speed of 190 km/h (118 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Volvo EM90 offers modest performance with a maximum power of 200 kW (272 hp / 268 bhp) and a total torque of 686 Nm (506 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.3 seconds and has a top speed of 190 km/h (118 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 116 kWh and a net usable capacity of 110 kWh, providing an 6 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 116 kWh and a net usable capacity of 110 kWh, providing an 6 kWh buffer (5.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 738 km ( miles). The consumption is 14.9kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

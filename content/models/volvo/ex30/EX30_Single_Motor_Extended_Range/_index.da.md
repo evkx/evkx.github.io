@@ -33,13 +33,13 @@ Volvo EX30 Single Motor Extended Range tilbyder beskedne præstationer med en ma
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69kWh og en nettokapacitet på 64kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (7,2%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 69 kWh og en nettoanvendelig kapacitet på 64 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 460 km (286 mi). Forbruget er 13,9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 460 km (286 mi). Forbruget er 13,9kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 153kW. En fuld opladning fra 0 - 100 % ville tage 71 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 11% til 52%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 92kW. Hver opladningssession ville tage 17 minutter og 10 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 220kWh/100 km, vil 1000 km tage 7 timer og 44 minutter. Denne tur vil kræve 88 opladningssession(er) opladning fra 11 % til 49%. Den samlede tid, der går tabt for at oplade batteriet, vil være 1405 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 220 kWh/100 km, ville turen tage cirka 7 timer og 44 minutter. Denne rejse ville kræve to opladningsstop fra 11% til 49%, med en samlet opladningstid på 1405 minutter
 
 ### Indbygget oplader
 

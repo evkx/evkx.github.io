@@ -33,13 +33,13 @@ XPENG G3i erbjuder blygsamma prestanda med en maximal effekt på 145 kW (197 hk)
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 66kWh och en nettokapacitet på 55,9kWh, vilket innebär att du har en 10,1kWh buffert för skydd. (15,3%).
+Högkapacitetsbatteriet har en bruttokapacitet på 66 kWh och en nettoanvändbar kapacitet på 55,9 kWh, vilket ger en buffert på 10,1 kWh (15,3%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 420 km. Förbrukningen är 13,3kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 420 km. Förbrukningen är 13,3kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 89 minuter, medan ett vanligare scenario på 10-80 % tar 51 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 79%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 42kW. Varje laddningssession tar 57 minuter och 43 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 12 timmar och 59 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 9% till 79%. Total tid som går förlorad för att ladda batteriet kommer att vara 280 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 12 timmar och 59 minuter. Denna resa skulle kräva två laddningsstopp från 12% till 79%, med en total laddningstid på 280 minuter.
 
 ### Inbyggd laddare
 

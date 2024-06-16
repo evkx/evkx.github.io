@@ -33,13 +33,13 @@ Audi Q4 Sportback 35 e-tron tilbyder beskedne præstationer med en maksimal effe
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 55kWh og en nettokapacitet på 51,5kWh, hvilket betyder, at du har en 3,5kWh buffer til beskyttelse. (6,4%).
+Det højkapacitetsbatteri har en bruttokapacitet på 55 kWh og en nettoanvendelig kapacitet på 51,5 kWh, hvilket giver en buffer på 3,5 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 349 til 317 km (217-197 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 14,8kWh/100 km for basisversionen og 16,2kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 349 og 317 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,8 kWh/100 km for basismodellen og 16,2 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 125kW. En fuld opladning fra 0 - 100 % ville tage 44 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 24 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 57%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 81kW. Hver opladningssession ville tage 19 minutter og 21 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21kWh/100 km, vil 1000 km tage 10 timer og 18 minutter. Denne tur vil kræve syv opladningssession(er) opladning fra 6 % til 50%. Den samlede tid, der går tabt for at oplade batteriet, vil være 118 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 10 timer og 18 minutter. Denne rejse ville kræve to opladningsstop fra 6% til 50%, med en samlet opladningstid på 118 minutter
 
 ### Indbygget oplader
 

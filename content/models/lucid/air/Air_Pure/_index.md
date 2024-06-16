@@ -29,11 +29,11 @@ We have separated our Lucid Air Pure article into sections. If you want to wait 
 
 ## Performance
 
-The Lucid Air Pure delivers a solid performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 400 Nm (295 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The Lucid Air Pure delivers a solid performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 400 Nm (295 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 94 kWh and a net usable capacity of 92 kWh, providing an 2 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 94 kWh and a net usable capacity of 92 kWh, providing an 2 kWh buffer (2.1%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 747 to 708 km (464-440 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.3 kWh/100 km for the base model and 13.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

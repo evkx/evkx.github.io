@@ -33,13 +33,13 @@ Lucid Air Pure leverer en solid præstation med en maksimal effekt på 320 kW (4
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 94kWh og en nettokapacitet på 92kWh, hvilket betyder, at du har en 2kWh buffer til beskyttelse. (2,1%).
+Det højkapacitetsbatteri har en bruttokapacitet på 94 kWh og en nettoanvendelig kapacitet på 92 kWh, hvilket giver en buffer på 2 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 747 til 708 km (464-440 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12,3kWh/100 km for basisversionen og 13,0kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 747 og 708 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,3 kWh/100 km for basismodellen og 13,0 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 26 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 163kW. Hver opladningssession ville tage 16 minutter og 18 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19kWh/100 km, vil 1000 km tage 8 timer og 56 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 0 % til 54%. Den samlede tid, der går tabt for at oplade batteriet, vil være 37 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19 kWh/100 km, ville turen tage cirka 8 timer og 56 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 54%, med en samlet opladningstid på 37 minutter
 
 ### Indbygget oplader
 

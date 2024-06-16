@@ -33,13 +33,13 @@ El Ford F150 Lightning Extended Range impresiona con una potencia máxima de 433
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 150kWh y una capacidad neta de 130kWh, lo que significa que tienes un buffer de 20kWh para protección. (13,3%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 150 kWh y una capacidad neta utilizable de 130 kWh, proporcionando un buffer de 20 kWh (13,3%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango EPA](../../../../guides/understandingrange/epa/) varía de 320 a 300 millas (515-483 km), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 2,5mi/kWh para la versión básica y 2,3mi/kWh para la versión superior según la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango EPA](../../../../guides/understandingrange/epa/) varía de 320 a 300 millas (515-483 km), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 2,5mi/kWh para la versión básica y 2,3mi/kWh para la versión superior según la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 155kW. Una carga completa del 0 al 100 % tardaría 129 minutos, mientras que un escenario más común del 10 al 80 % tardaría 49 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 62%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 106kW. Cada sesión de carga tardaría 46 minutos y 35 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 33kWh/100 km, 1000 km tomarán 10 horas y 13 minutos. Este viaje requerirá dos sesiones de carga del 0 % al 77 %. El tiempo total perdido para cargar la batería será de 114 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 33 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 13 minutos. Este viaje requeriría dos paradas de carga del 0% al 77%, con un tiempo total de carga de 114 minutos.
 
 ### Cargador a bordo
 

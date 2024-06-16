@@ -33,9 +33,9 @@ La Dacia Spring 65HP kWh offre des performances de base avec une puissance maxim
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 26,8kWh et une capacité nette de 25kWh, ce qui signifie que vous disposez d'une réserve de 1,8kWh pour la protection. (6,7%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 26,8 kWh et une capacité nette utilisable de 25 kWh, offrant une réserve de 1,8 kWh (6,7%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 220 km (137 mi). La consommation est de 11,4kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 220 km (137 mi). La consommation est de 11,4kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 30kW. Une charge complète de 0 à 100 % prendrait 80 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 40 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 67 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 25kW. Chaque session de charge prendrait 39 minutes et 30 secondes.
 

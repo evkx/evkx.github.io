@@ -40,10 +40,10 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				</a>
 			</td>
 			<td>
-				555 km / 345 mi
+				558 km / 347 mi
 			</td>
 			<td>
-				17,48kWh/100km / 3,6 mi/kWh
+				17,38kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				</a>
 			</td>
 			<td>
-				558 km / 347 mi
+				555 km / 345 mi
 			</td>
 			<td>
-				17,38 kWh/100km / 3,6 mi/kWh
+				17,48 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture de base de la gamme WLTP avec 2KW AC
 			</td>
 			<td>
-				 445km / 277 mi 
+				 447km / 278 mi 
 			</td>
 			<td>
-				-19,8%
+				-19,9%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture supérieure de gamme WLTP avec 2KW AC
 			</td>
 			<td>
-				447 km / 278 mi
+				445 km / 277 mi
 			</td>
 			<td>
-				-19,9%
+				-19,8%
 			</td>
 		</tr>
 	</tbody>

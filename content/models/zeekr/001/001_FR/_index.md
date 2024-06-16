@@ -29,11 +29,11 @@ We have separated our Zeekr 001 FR article into sections. If you want to wait to
 
 ## Performance
 
-The Zeekr 001 FR delivers a jaw-dropping maximum power of 930 KW (1264 hp/1247 bhp) and a massive total torque of 1200 Nm (886 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.02 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 280 km/h (174 mph), making it a true marvel of engineering and performance.
+The Zeekr 001 FR delivers a jaw-dropping maximum power of 930 KW (1264 hp/1247 bhp) and a massive total torque of 1200 Nm (886 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.02 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 280 km/h (174 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 100 kWh and a net usable capacity of 95 kWh, providing an 5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 95 kWh, providing an 5 kWh buffer (5.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 580 km (361 mi). The consumption is 16.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our Porsche Macan Turbo article into sections. If you want to 
 
 ## Performance
 
-With overboost, the Porsche Macan Turbo reaches a maximum power of 470 kW (639 hp / 630 bhp). Without overboost, it provides a strong 430 kW (585 hp / 577 bhp). The maxium torque is at 1130 Nm (834 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.3 seconds and reaches a top speed of 260 km/h (162 mph), showcasing its impressive performance.
+With overboost, the Porsche Macan Turbo reaches a maximum power of 470 kW (639 hp / 630 bhp). Without overboost, it provides a strong 430 kW (585 hp / 577 bhp). The maxium torque is at 1130 Nm (834 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.3 seconds and reaches a top speed of 260 km/h (162 mph), showcasing its impressive performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 100 kWh and a net usable capacity of 96,8 kWh, providing an 3,2 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 96,8 kWh, providing an 3,2 kWh buffer (3.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 591 to 518 km (367-322 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.4 kWh/100 km for the base model and 18.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

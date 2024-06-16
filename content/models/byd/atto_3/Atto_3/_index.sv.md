@@ -33,13 +33,13 @@ BYD Atto 3 erbjuder blygsamma prestanda med en maximal effekt på 150 kW (204 hk
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 60,5kWh och en nettokapacitet på 58kWh, vilket innebär att du har en 2,5kWh buffert för skydd. (4,1%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 60,5 kWh och en nettoanvändbar kapacitet på 58 kWh, vilket ger en buffert på 2,5 kWh (4,1%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 420 km. Förbrukningen är 13,8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 420 km. Förbrukningen är 13,8kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 88 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 67kW. Varje laddningssession tar 32 minuter och 40 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 23kWh/100km, tar 1000km 10 timmar och 55 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 3% till 63%. Total tid som går förlorad för att ladda batteriet kommer att vara 156 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 10 timmar och 55 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 63%, med en total laddningstid på 156 minuter.
 
 ### Inbyggd laddare
 

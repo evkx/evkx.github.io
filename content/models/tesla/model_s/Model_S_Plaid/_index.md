@@ -29,11 +29,11 @@ We have separated our Tesla Model S Plaid article into sections. If you want to 
 
 ## Performance
 
-The Tesla Model S Plaid delivers a jaw-dropping maximum power of 760 KW (1033 hp/1019 bhp) and a massive total torque of 1420 Nm (1048 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.1 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 322 km/h (200 mph), making it a true marvel of engineering and performance.
+The Tesla Model S Plaid delivers a jaw-dropping maximum power of 760 KW (1033 hp/1019 bhp) and a massive total torque of 1420 Nm (1048 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.1 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 322 km/h (200 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 104,96 kWh and a net usable capacity of 96 kWh, providing an 8,96 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 104,96 kWh and a net usable capacity of 96 kWh, providing an 8,96 kWh buffer (8.5%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 mi). The consumption is 16.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

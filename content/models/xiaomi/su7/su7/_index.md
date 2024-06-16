@@ -29,11 +29,11 @@ We have separated our Xiaomi SU7 article into sections. If you want to wait to r
 
 ## Performance
 
-The Xiaomi SU7 offers modest performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 400 Nm (295 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.28 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Xiaomi SU7 offers modest performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 400 Nm (295 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.28 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 73,6 kWh and a net usable capacity of 73 kWh, providing an 0,6 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 73,6 kWh and a net usable capacity of 73 kWh, providing an 0,6 kWh buffer (0.8%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 10.4kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

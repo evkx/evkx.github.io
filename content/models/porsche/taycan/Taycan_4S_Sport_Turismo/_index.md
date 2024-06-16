@@ -29,16 +29,16 @@ We have separated our Porsche Taycan 4S Sport Turismo article into sections. If 
 
 ## Performance
 
-With overboost, the Porsche Taycan 4S Sport Turismo reaches a maximum power of 400 kW (544 hp / 536 bhp). Without overboost, it provides a strong 340 kW (462 hp / 456 bhp). The maxium torque is at 695 Nm (513 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
+With overboost, the Porsche Taycan 4S Sport Turismo reaches a maximum power of 400 kW (544 hp / 536 bhp). Without overboost, it provides a strong 340 kW (462 hp / 456 bhp). The maxium torque is at 695 Nm (513 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan 4S Sport Turismo reaches a maximum power of 440 kW (598 hp / 590 bhp). Without overboost, it provides a strong 380 kW (517 hp / 510 bhp). The maxium torque is at 710 Nm (524 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 4 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan 4S Sport Turismo reaches a maximum power of 440 kW (598 hp / 590 bhp). Without overboost, it provides a strong 380 kW (517 hp / 510 bhp). The maxium torque is at 710 Nm (524 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 4 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
 
 ## Battery, range, and charging
 
 Porsche Taycan 4S Sport Turismo has two battery options with different specifications. Below you see how this affects range and charging.
 ### Performance Battery
 
-The electric vehicle features a high-capacity battery with a gross capacity of 89 kWh and a net usable capacity of 83,6 kWh, providing an 5,4 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 83,6 kWh, providing an 5,4 kWh buffer (6.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 534 to 449 km (332-279 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.7 kWh/100 km for the base model and 18.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -47,7 +47,7 @@ The vehicle supports fast DC charging with a maximum power of 270 kW. Charging f
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 7 minutes. This journey would require three charging stops from 4% to 55%, with a total charging time of 47 minutes.
 ### Performance Battery Plus
 
-The electric vehicle features a high-capacity battery with a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (7.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 616 to 522 km (383-324 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.7 kWh/100 km for the base model and 18.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our HiPhi Y Performance article into sections. If you want to 
 
 ## Performance
 
-The HiPhi Y Performance delivers a solid performance with a maximum power of 371 kW (504 hp / 498 bhp) and a total torque of 620 Nm (458 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The HiPhi Y Performance delivers a solid performance with a maximum power of 371 kW (504 hp / 498 bhp) and a total torque of 620 Nm (458 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 115 kWh and a net usable capacity of 109 kWh, providing an 6 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 115 kWh and a net usable capacity of 109 kWh, providing an 6 kWh buffer (5.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 620 km (385 mi). The consumption is 17.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

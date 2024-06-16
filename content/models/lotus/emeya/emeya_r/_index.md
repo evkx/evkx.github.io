@@ -29,11 +29,11 @@ We have separated our Lotus Emeya R article into sections. If you want to wait t
 
 ## Performance
 
-The Lotus Emeya R delivers a jaw-dropping maximum power of 675 KW (918 hp/905 bhp) and a massive total torque of 985 Nm (727 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.78 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 256 km/h (159 mph), making it a true marvel of engineering and performance.
+The Lotus Emeya R delivers a jaw-dropping maximum power of 675 KW (918 hp/905 bhp) and a massive total torque of 985 Nm (727 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.78 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 256 km/h (159 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 102 kWh and a net usable capacity of 100 kWh, providing an 2 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 102 kWh and a net usable capacity of 100 kWh, providing an 2 kWh buffer (2.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 535 to 490 km (333-305 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.7 kWh/100 km for the base model and 20.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

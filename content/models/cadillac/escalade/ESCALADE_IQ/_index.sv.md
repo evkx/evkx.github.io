@@ -33,13 +33,13 @@ Cadillac ESCALADE IQ imponerar med en imponerande kraft på 560 kW (761 hk) och 
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 215kWh och en nettokapacitet på 200kWh, vilket innebär att du har en 15kWh buffert för skydd. (7,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 215 kWh och en nettoanvändbar kapacitet på 200 kWh, vilket ger en buffert på 15 kWh (7,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 450 miles (724 km). Förbrukningen är 2,3mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 450 miles (724 km). Förbrukningen är 2,3mi/kWh för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 130 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 242kW. Varje laddningssession tar 26 minuter och 49 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 35kWh/100km, tar 1000km 8 timmar och 58 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 1% till 39%. Total tid som går förlorad för att ladda batteriet kommer att vara 39 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 35 kWh/100 km, skulle resan ta ungefär 8 timmar och 58 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 39%, med en total laddningstid på 39 minuter.
 
 ### Inbyggd laddare
 

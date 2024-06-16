@@ -33,13 +33,13 @@ Volvo EX30 Single Motor erbjuder blygsamma prestanda med en maximal effekt på 2
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 51kWh och en nettokapacitet på 49kWh, vilket innebär att du har en 2kWh buffert för skydd. (3,9%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 51 kWh och en nettoanvändbar kapacitet på 49 kWh, vilket ger en buffert på 2 kWh (3,9%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 344 km. Förbrukningen är 14,2kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 344 km. Förbrukningen är 14,2kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 153 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 24 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 84kW. Varje laddningssession tar 18 minuter och 15 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 28kWh/100km, tar 1000km 11 timmar och 7 minuter. Den här resan kommer att kräva åtta laddningssession(er) laddning från 3% till 62%. Total tid som går förlorad för att ladda batteriet kommer att vara 167 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 28 kWh/100 km, skulle resan ta ungefär 11 timmar och 7 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 62%, med en total laddningstid på 167 minuter.
 
 ### Inbyggd laddare
 

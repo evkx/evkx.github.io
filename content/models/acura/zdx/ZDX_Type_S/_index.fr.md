@@ -33,13 +33,13 @@ La Acura ZDX Type S offre des performances solides avec une puissance maximale d
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 110kWh et une capacité nette de 102kWh, ce qui signifie que vous disposez d'une réserve de 8kWh pour la protection. (7,3%).
+La batterie haute capacité a une capacité brute de 110 kWh et une capacité nette utilisable de 102 kWh, offrant une réserve de 8 kWh (7,3%) pour la protection de la batterie.
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 288 miles (463 km). La consommation est de 2,8mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage EPA](../../../../guides/understandingrange/epa/) est de 288 miles (463 km). La consommation est de 2,8mi/kWh pour le test standard de l'EPA. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 176 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 120kW. Chaque session de charge prendrait 29 minutes et 59 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 25kWh/100 km, 1 000 km prendront 9 heures et 35 minutes. Ce trajet nécessitera trois sessions de charge de 8 % à 57 %. Le temps total perdu pour charger la batterie sera de 75 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 9 heures et 35 minutes. Ce trajet nécessiterait deux arrêts de recharge de 8% à 57%, avec un temps de recharge total de 75 minutes.
 
 ### Chargeur embarqué
 

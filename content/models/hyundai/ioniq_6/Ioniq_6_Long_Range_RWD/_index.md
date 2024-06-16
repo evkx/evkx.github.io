@@ -29,11 +29,11 @@ We have separated our Hyundai Ioniq 6 Long Range RWD article into sections. If y
 
 ## Performance
 
-The Hyundai Ioniq 6 Long Range RWD offers modest performance with a maximum power of 168 kW (228 hp / 225 bhp) and a total torque of 350 Nm (258 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.4 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Hyundai Ioniq 6 Long Range RWD offers modest performance with a maximum power of 168 kW (228 hp / 225 bhp) and a total torque of 350 Nm (258 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.4 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (4.4%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 614 to 545 km (382-339 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.1 kWh/100 km for the base model and 13.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

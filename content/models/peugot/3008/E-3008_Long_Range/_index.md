@@ -29,11 +29,11 @@ We have separated our Peugot E-3008 Long Range article into sections. If you wan
 
 ## Performance
 
-The Peugot E-3008 Long Range offers modest performance with a maximum power of 157 kW (214 hp / 211 bhp) and a total torque of 345 Nm (255 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Peugot E-3008 Long Range offers modest performance with a maximum power of 157 kW (214 hp / 211 bhp) and a total torque of 345 Nm (255 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 98 kWh and a net usable capacity of 98 kWh, providing an 0 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 98 kWh and a net usable capacity of 98 kWh, providing an 0 kWh buffer (0.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 700 km (435 mi). The consumption is 14.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

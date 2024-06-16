@@ -29,11 +29,11 @@ We have separated our Honda Prologue FWD article into sections. If you want to w
 
 ## Performance
 
-The Honda Prologue FWD offers modest performance with a maximum power of 158 kW (215 hp / 212 bhp) and a total torque of 320 Nm (236 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of 182 km/h (113 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Honda Prologue FWD offers modest performance with a maximum power of 158 kW (215 hp / 212 bhp) and a total torque of 320 Nm (236 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of 182 km/h (113 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (4.5%) for battery protection.
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 296 miles (476 km). The consumption is 3.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

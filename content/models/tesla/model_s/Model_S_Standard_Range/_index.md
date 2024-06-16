@@ -29,11 +29,11 @@ We have separated our Tesla Model S Standard Range article into sections. If you
 
 ## Performance
 
-The Tesla Model S Standard Range delivers a solid performance with a maximum power of 381 kW (518 hp / 511 bhp) and a total torque of 700 Nm (517 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.9 seconds and reaches a top speed of 250 km/h (155 mph), making it competitive within its class.
+The Tesla Model S Standard Range delivers a solid performance with a maximum power of 381 kW (518 hp / 511 bhp) and a total torque of 700 Nm (517 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.9 seconds and reaches a top speed of 250 km/h (155 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 100 kWh and a net usable capacity of 75 kWh, providing an 25 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 75 kWh, providing an 25 kWh buffer (25.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 512 to 500 km (318-311 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.6 kWh/100 km for the base model and 15.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

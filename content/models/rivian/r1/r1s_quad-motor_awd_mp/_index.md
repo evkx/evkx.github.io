@@ -29,11 +29,11 @@ We have separated our Rivian R1S Quad-Motor AWD MP article into sections. If you
 
 ## Performance
 
-The Rivian R1S Quad-Motor AWD MP delivers a jaw-dropping maximum power of 764 KW (1039 hp/1025 bhp) and a massive total torque of 1623 Nm (1198 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.6 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 201 km/h (125 mph), making it a true marvel of engineering and performance.
+The Rivian R1S Quad-Motor AWD MP delivers a jaw-dropping maximum power of 764 KW (1039 hp/1025 bhp) and a massive total torque of 1623 Nm (1198 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.6 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 201 km/h (125 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 149 kWh and a net usable capacity of 141,5 kWh, providing an 7,5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 141,5 kWh, providing an 7,5 kWh buffer (5.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) varies from 321 to 340 miles (516-547 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 2.3mi/kWh for the basic version and 2.4mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our BYD Tang EV600 article into sections. If you want to wait 
 
 ## Performance
 
-The BYD Tang EV600 delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 680 Nm (502 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The BYD Tang EV600 delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 680 Nm (502 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 90 kWh and a net usable capacity of 86,4 kWh, providing an 3,6 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 90 kWh and a net usable capacity of 86,4 kWh, providing an 3,6 kWh buffer (4.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 mi). The consumption is 21.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

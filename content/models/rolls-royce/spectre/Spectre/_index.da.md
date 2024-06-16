@@ -33,13 +33,13 @@ Rolls-Royce Spectre imponerer med en maksimal effekt på 430 kW (585 hk) og et i
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 105,7kWh og en nettokapacitet på 102kWh, hvilket betyder, at du har en 3,7kWh buffer til beskyttelse. (3,5%).
+Det højkapacitetsbatteri har en bruttokapacitet på 105,7 kWh og en nettoanvendelig kapacitet på 102 kWh, hvilket giver en buffer på 3,7 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 530 km (329 mi). Forbruget er 19,2kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 530 km (329 mi). Forbruget er 19,2kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 205kW. En fuld opladning fra 0 - 100 % ville tage 72 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 36 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 132kW. Hver opladningssession ville tage 21 minutter og 54 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 26kWh/100 km, vil 1000 km tage 9 timer og 33 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 1 % til 40%. Den samlede tid, der går tabt for at oplade batteriet, vil være 73 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 26 kWh/100 km, ville turen tage cirka 9 timer og 33 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 40%, med en samlet opladningstid på 73 minutter
 
 ### Indbygget oplader
 

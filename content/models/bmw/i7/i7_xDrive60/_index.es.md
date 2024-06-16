@@ -33,13 +33,13 @@ El BMW i7 xDrive60 impresiona con una potencia máxima de 400 kW (544 hp) y un i
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 105,7kWh y una capacidad neta de 101,7kWh, lo que significa que tienes un buffer de 4,0kWh para protección. (3,8%).
+La batería de alta capacidad tiene una capacidad bruta de 105,7 kWh y una capacidad neta utilizable de 101,7 kWh, proporcionando un buffer de 4,0 kWh (3,8%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 625 a 591 km (388-367 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 16,3kWh/100 km para la versión básica y 17,2kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 625 y 591 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,3 kWh/100 km para el modelo base y 17,2 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 195kW. Una carga completa del 0 al 100 % tardaría 56 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 53%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 135kW. Cada sesión de carga tardaría 23 minutos y 4 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 9 horas y 26 minutos. Este viaje requerirá tres sesiones de carga del 3 % al 52 %. El tiempo total perdido para cargar la batería será de 67 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 26 minutos. Este viaje requeriría dos paradas de carga del 3% al 52%, con un tiempo total de carga de 67 minutos.
 
 ### Cargador a bordo
 

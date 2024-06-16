@@ -33,13 +33,13 @@ El MG ZS EV Long Range ofrece un rendimiento modesto con una potencia máxima de
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 72,6kWh y una capacidad neta de 68,3kWh, lo que significa que tienes un buffer de 4,3kWh para protección. (5,9%).
+La batería de alta capacidad tiene una capacidad bruta de 72,6 kWh y una capacidad neta utilizable de 68,3 kWh, proporcionando un buffer de 4,3 kWh (5,9%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 440 km (274 mi). El consumo es de 15,5kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 440 km (274 mi). El consumo es de 15,5kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 94kW. Una carga completa del 0 al 100 % tardaría 112 minutos, mientras que un escenario más común del 10 al 80 % tardaría 42 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 61%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 63kW. Cada sesión de carga tardaría 34 minutos y 23 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 24kWh/100 km, 1000 km tomarán 11 horas y 4 minutos. Este viaje requerirá cuatro sesiones de carga del 7 % al 70 %. El tiempo total perdido para cargar la batería será de 165 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 4 minutos. Este viaje requeriría dos paradas de carga del 7% al 70%, con un tiempo total de carga de 165 minutos.
 
 ### Cargador a bordo
 

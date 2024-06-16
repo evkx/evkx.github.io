@@ -29,11 +29,11 @@ We have separated our Audi Q8 55 e-tron article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the Audi Q8 55 e-tron reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 265 kW (360 hp / 355 bhp). The maximum torque is 664 Nm (490 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.6 seconds and reaches a top speed of 200 km/h (124 mph), demonstrating its solid performance.
+With overboost, the Audi Q8 55 e-tron reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 265 kW (360 hp / 355 bhp). The maximum torque is 664 Nm (490 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.6 seconds and reaches a top speed of 200 km/h (124 mph), demonstrating its solid performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 114 kWh and a net usable capacity of 106 kWh, providing an 8 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 114 kWh and a net usable capacity of 106 kWh, providing an 8 kWh buffer (7.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 582 to 487 km (362-303 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.2 kWh/100 km for the base model and 21.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

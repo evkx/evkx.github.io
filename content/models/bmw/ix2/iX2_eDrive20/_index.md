@@ -29,11 +29,11 @@ We have separated our BMW iX2 eDrive20 article into sections. If you want to wai
 
 ## Performance
 
-The BMW iX2 eDrive20 offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 247 Nm (182 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The BMW iX2 eDrive20 offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 247 Nm (182 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 68 kWh and a net usable capacity of 64,7 kWh, providing an 3,3 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 68 kWh and a net usable capacity of 64,7 kWh, providing an 3,3 kWh buffer (4.9%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 449 to 417 km (279-259 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.4 kWh/100 km for the base model and 15.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

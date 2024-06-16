@@ -33,13 +33,13 @@ Honda e:Ny1 tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 68,8kWh og en nettokapasitet på 61,9kWh, noe som betyr at du har et 6,9kWh-buffer for beskyttelse. (10,0%).
+Høykapasitetsbatteriet har en brutto kapasitet på 68,8 kWh og en netto brukbar kapasitet på 61,9 kWh, som gir en buffer på 6,9 kWh (10,0%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 412 km. Forbruket er 15,0kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 412 km. Forbruket er 15,0kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 38 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 92%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 62kW. Hver ladeøkt vil ta 51 minutter og 28 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 24,5kWh/100km, vil 1000km ta 11 timer og 18 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 16% til 90%. Totalt tapt tid for å lade opp batteriet vil være 179 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 24,5 kWh/100 km, ville turen ta omtrent 11 timer og 18 minutter. Denne reisen ville kreve to ladestopp fra 16% til 90%, med en total ladetid på 179 minutter.
 
 ### Ombordlader
 

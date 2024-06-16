@@ -29,11 +29,11 @@ We have separated our MG Marvel R Electric article into sections. If you want to
 
 ## Performance
 
-The MG Marvel R Electric offers modest performance with a maximum power of 132 kW (180 hp / 177 bhp) and a total torque of 410 Nm (303 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The MG Marvel R Electric offers modest performance with a maximum power of 132 kW (180 hp / 177 bhp) and a total torque of 410 Nm (303 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 75 kWh and a net usable capacity of 70 kWh, providing an 5 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70 kWh, providing an 5 kWh buffer (6.7%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 402 km (250 mi). The consumption is 17.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

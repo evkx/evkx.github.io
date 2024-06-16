@@ -33,13 +33,13 @@ Rivian R1T Performance Dual-Motor AWD LP imponerer med en imponerende kraft på 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 136kWh og en nettokapasitet på 135kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (0,7%).
+Høykapasitetsbatteriet har en brutto kapasitet på 136 kWh og en netto brukbar kapasitet på 135 kWh, som gir en buffer på 1 kWh (0,7%) for batteribeskyttelse.
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 352 miles (566 km). Forbruket er 2,6mi/kWh for EPA-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 352 miles (566 km). Forbruket er 2,6mi/kWh for EPA-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 113 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 140kW. Hver ladeøkt vil ta 26 minutter og 4 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 30kWh/100km, vil 1000km ta 9 timer og 31 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 0% til 41%. Totalt tapt tid for å lade opp batteriet vil være 72 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 30 kWh/100 km, ville turen ta omtrent 9 timer og 31 minutter. Denne reisen ville kreve to ladestopp fra 0% til 41%, med en total ladetid på 72 minutter.
 
 ### Ombordlader
 

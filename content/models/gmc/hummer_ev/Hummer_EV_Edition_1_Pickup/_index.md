@@ -29,11 +29,11 @@ We have separated our GMC Hummer EV Edition 1 Pickup article into sections. If y
 
 ## Performance
 
-The GMC Hummer EV Edition 1 Pickup delivers a jaw-dropping maximum power of 746 KW (1014 hp/1000 bhp) and a massive total torque of 1150 Nm (849 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 170 km/h (106 mph), making it a true marvel of engineering and performance.
+The GMC Hummer EV Edition 1 Pickup delivers a jaw-dropping maximum power of 746 KW (1014 hp/1000 bhp) and a massive total torque of 1150 Nm (849 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 170 km/h (106 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 220 kWh and a net usable capacity of 213 kWh, providing an 7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 220 kWh and a net usable capacity of 213 kWh, providing an 7 kWh buffer (3.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 329 miles (529 km). The consumption is 1.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

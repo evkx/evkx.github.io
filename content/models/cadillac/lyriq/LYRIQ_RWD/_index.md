@@ -29,11 +29,11 @@ We have separated our Cadillac LYRIQ RWD article into sections. If you want to w
 
 ## Performance
 
-The Cadillac LYRIQ RWD delivers a solid performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 450 Nm (332 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
+The Cadillac LYRIQ RWD delivers a solid performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 450 Nm (332 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 110 kWh and a net usable capacity of 102 kWh, providing an 8 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 102 kWh, providing an 8 kWh buffer (7.3%) for battery protection.
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 312 miles (502 km). The consumption is 3.1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

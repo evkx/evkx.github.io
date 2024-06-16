@@ -29,11 +29,11 @@ We have separated our BYD Seagull 38kWh article into sections. If you want to wa
 
 ## Performance
 
-The BYD Seagull 38kWh kWh provides basic performance with a maximum power of 55 kW (75 hp / 74 bhp) and a total torque of 135 Nm (100 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 13 seconds and reaches a top speed of 130 km/h (81 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
+The BYD Seagull 38kWh kWh provides basic performance with a maximum power of 55 kW (75 hp / 74 bhp) and a total torque of 135 Nm (100 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 13 seconds and reaches a top speed of 130 km/h (81 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 38,8 kWh and a net usable capacity of 37 kWh, providing an 1,8 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 38,8 kWh and a net usable capacity of 37 kWh, providing an 1,8 kWh buffer (4.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 405 km ( miles). The consumption is 9.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,13 +33,13 @@ El BYD Tang EV600 ofrece un rendimiento sólido con una potencia máxima de 380 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 90kWh y una capacidad neta de 86,4kWh, lo que significa que tienes un buffer de 3,6kWh para protección. (4,0%).
+La batería de alta capacidad tiene una capacidad bruta de 90 kWh y una capacidad neta utilizable de 86,4 kWh, proporcionando un buffer de 3,6 kWh (4,0%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 21,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 21,6kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 110kW. Una carga completa del 0 al 100 % tardaría 67 minutos, mientras que un escenario más común del 10 al 80 % tardaría 36 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 93kW. Cada sesión de carga tardaría 31 minutos y 37 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 31,7kWh/100 km, 1000 km tomarán 10 horas y 50 minutos. Este viaje requerirá cinco sesiones de carga del 5 % al 59 %. El tiempo total perdido para cargar la batería será de 150 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 31,7 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 50 minutos. Este viaje requeriría dos paradas de carga del 5% al 59%, con un tiempo total de carga de 150 minutos.
 
 ### Cargador a bordo
 

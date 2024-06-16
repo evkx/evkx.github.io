@@ -33,13 +33,13 @@ L'Volvo EX30 Single Motor offre des performances modestes avec une puissance max
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 51kWh et une capacité nette de 49kWh, ce qui signifie que vous disposez d'une réserve de 2kWh pour la protection. (3,9%). La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 51 kWh et une capacité nette utilisable de 49 kWh, offrant une réserve de 2 kWh (3,9%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 344 km (214 mi). La consommation est de 14,2kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 344 km (214 mi). La consommation est de 14,2kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 153kW. Une charge complète de 0 à 100 % prendrait 63 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 24 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 56 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 84kW. Chaque session de charge prendrait 18 minutes et 15 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 28kWh/100 km, 1 000 km prendront 11 heures et 7 minutes. Ce trajet nécessitera huit sessions de charge de 3 % à 62 %. Le temps total perdu pour charger la batterie sera de 167 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 28 kWh/100 km, le voyage prendrait environ 11 heures et 7 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 62%, avec un temps de recharge total de 167 minutes.
 
 ### Chargeur embarqué
 

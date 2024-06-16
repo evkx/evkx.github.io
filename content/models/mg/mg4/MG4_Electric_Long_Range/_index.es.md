@@ -33,13 +33,13 @@ El MG MG4 Electric Long Range ofrece un rendimiento modesto con una potencia má
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 64kWh y una capacidad neta de 61,7kWh, lo que significa que tienes un buffer de 2,3kWh para protección. (3,6%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 64 kWh y una capacidad neta utilizable de 61,7 kWh, proporcionando un buffer de 2,3 kWh (3,6%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 435 km (270 mi). El consumo es de 14,2kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 435 km (270 mi). El consumo es de 14,2kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 27 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 96kW. Cada sesión de carga tardaría 21 minutos y 12 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21kWh/100 km, 1000 km tomarán 9 horas y 55 minutos. Este viaje requerirá cuatro sesiones de carga del 2 % al 63 %. El tiempo total perdido para cargar la batería será de 95 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 2% al 63%, con un tiempo total de carga de 95 minutos.
 
 ### Cargador a bordo
 

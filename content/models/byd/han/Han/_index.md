@@ -29,11 +29,11 @@ We have separated our BYD Han article into sections. If you want to wait to read
 
 ## Performance
 
-The BYD Han delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 700 Nm (517 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.9 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The BYD Han delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 700 Nm (517 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.9 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 85,4 kWh and a net usable capacity of 83 kWh, providing an 2,4 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 85,4 kWh and a net usable capacity of 83 kWh, providing an 2,4 kWh buffer (2.8%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 521 km (324 mi). The consumption is 15.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our Mercedes-EQ EQE 350 4MATIC SUV article into sections. If y
 
 ## Performance
 
-The Mercedes-EQ EQE 350 4MATIC SUV offers modest performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 765 Nm (565 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.6 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Mercedes-EQ EQE 350 4MATIC SUV offers modest performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 765 Nm (565 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.6 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 96,12 kWh and a net usable capacity of 90,6 kWh, providing an 5,52 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 96,12 kWh and a net usable capacity of 90,6 kWh, providing an 5,52 kWh buffer (5.7%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 547 to 460 km (340-286 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.6 kWh/100 km for the base model and 19.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our Mercedes-EQ EQS 450+ SUV article into sections. If you wan
 
 ## Performance
 
-The Mercedes-EQ EQS 450+ SUV delivers a solid performance with a maximum power of 265 kW (360 hp / 355 bhp) and a total torque of 568 Nm (419 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
+The Mercedes-EQ EQS 450+ SUV delivers a solid performance with a maximum power of 265 kW (360 hp / 355 bhp) and a total torque of 568 Nm (419 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 120 kWh and a net usable capacity of 108,4 kWh, providing an 11,6 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 108,4 kWh, providing an 11,6 kWh buffer (9.7%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 672 to 540 km (418-336 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.1 kWh/100 km for the base model and 20.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

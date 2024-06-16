@@ -33,13 +33,13 @@ El XPENG X9 AWD Performance ofrece un rendimiento sólido con una potencia máxi
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 101,5kWh y una capacidad neta de 98kWh, lo que significa que tienes un buffer de 3,5kWh para protección. (3,4%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 101,5 kWh y una capacidad neta utilizable de 98 kWh, proporcionando un buffer de 3,5 kWh (3,4%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 640 km ( millas). El consumo es de 15,3kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 640 km ( millas). El consumo es de 15,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 52 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 60%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 171kW. Cada sesión de carga tardaría 18 minutos y 12 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 9 horas y 13 minutos. Este viaje requerirá tres sesiones de carga del 7 % al 59 %. El tiempo total perdido para cargar la batería será de 54 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 13 minutos. Este viaje requeriría dos paradas de carga del 7% al 59%, con un tiempo total de carga de 54 minutos.
 
 ### Cargador a bordo
 

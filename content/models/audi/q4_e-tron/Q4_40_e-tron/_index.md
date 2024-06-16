@@ -35,11 +35,11 @@ This model has been replaced by [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45
 
 ## Performance
 
-The Audi Q4 40 e-tron offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.5 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Audi Q4 40 e-tron offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.5 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 76,6 kWh, providing an 5,4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 76,6 kWh, providing an 5,4 kWh buffer (6.6%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 521 to 447 km (324-278 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.7 kWh/100 km for the base model and 17.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

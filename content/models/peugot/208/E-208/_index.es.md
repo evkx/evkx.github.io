@@ -33,13 +33,13 @@ El Peugot E-208 ofrece un rendimiento modesto con una potencia máxima de 115 kW
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 51kWh y una capacidad neta de 48,1kWh, lo que significa que tienes un buffer de 2,9kWh para protección. (5,7%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 51 kWh y una capacidad neta utilizable de 48,1 kWh, proporcionando un buffer de 2,9 kWh (5,7%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 12,0kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 12,0kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 54 minutos, mientras que un escenario más común del 10 al 80 % tardaría 27 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 57%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 65kW. Cada sesión de carga tardaría 23 minutos y 23 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 11 horas y 26 minutos. Este viaje requerirá siete sesiones de carga del 3 % al 63 %. El tiempo total perdido para cargar la batería será de 186 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 26 minutos. Este viaje requeriría dos paradas de carga del 3% al 63%, con un tiempo total de carga de 186 minutos.
 
 ### Cargador a bordo
 

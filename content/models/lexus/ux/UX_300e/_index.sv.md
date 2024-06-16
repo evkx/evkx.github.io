@@ -33,13 +33,13 @@ Lexus UX 300e erbjuder blygsamma prestanda med en maximal effekt på 150 kW (204
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 71,4kWh och en nettokapacitet på 64kWh, vilket innebär att du har en 7,4kWh buffert för skydd. (10,4%).
+Högkapacitetsbatteriet har en bruttokapacitet på 71,4 kWh och en nettoanvändbar kapacitet på 64 kWh, vilket ger en buffert på 7,4 kWh (10,4%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 450 till 440 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 14,2kWh/100 km för basversionen och 14,5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 450 och 440 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,2 kWh/100 km för basmodellen och 14,5 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 50 kW. En full laddning från 0 - 100 % tar 204 minuter, medan ett vanligare scenario på 10-80 % tar 90 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 35%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 34kW. Varje laddningssession tar 36 minuter och 14 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 13 timmar och 54 minuter. Den här resan kommer att kräva sju laddningssession(er) laddning från 3% till 45%. Total tid som går förlorad för att ladda batteriet kommer att vara 334 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 13 timmar och 54 minuter. Denna resa skulle kräva två laddningsstopp från 13% till 45%, med en total laddningstid på 334 minuter.
 
 ### Inbyggd laddare
 

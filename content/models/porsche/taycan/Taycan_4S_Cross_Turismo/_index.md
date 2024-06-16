@@ -29,11 +29,11 @@ We have separated our Porsche Taycan 4S Cross Turismo article into sections. If 
 
 ## Performance
 
-With overboost, the Porsche Taycan 4S Cross Turismo reaches a maximum power of 420 kW (571 hp / 563 bhp). Without overboost, it provides a strong 360 kW (490 hp / 483 bhp). The maxium torque is at 650 Nm (480 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 4.1 seconds and reaches a top speed of 240 km/h (149 mph), showcasing its impressive performance.
+With overboost, the Porsche Taycan 4S Cross Turismo reaches a maximum power of 420 kW (571 hp / 563 bhp). Without overboost, it provides a strong 360 kW (490 hp / 483 bhp). The maxium torque is at 650 Nm (480 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 4.1 seconds and reaches a top speed of 240 km/h (149 mph), showcasing its impressive performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 93,4 kWh and a net usable capacity of 83,7 kWh, providing an 9,7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 93,4 kWh and a net usable capacity of 83,7 kWh, providing an 9,7 kWh buffer (10.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 490 to 415 km (305-258 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.1 kWh/100 km for the base model and 20.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our Chevrolet Silverado EV SRT article into sections. If you w
 
 ## Performance
 
-The Chevrolet Silverado EV SRT packs an impressive punch with a maximum power of 562 kW (764 hp / 754 bhp) and a commanding total torque of 1064 Nm (785 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 170 km/h (106 mph), making it a standout in its class.
+The Chevrolet Silverado EV SRT packs an impressive punch with a maximum power of 562 kW (764 hp / 754 bhp) and a commanding total torque of 1064 Nm (785 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 170 km/h (106 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 240 kWh and a net usable capacity of 215 kWh, providing an 25 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 240 kWh and a net usable capacity of 215 kWh, providing an 25 kWh buffer (10.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km). The consumption is 2.0mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

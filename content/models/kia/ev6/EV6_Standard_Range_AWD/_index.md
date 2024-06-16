@@ -29,11 +29,11 @@ We have separated our Kia EV6 Standard Range AWD article into sections. If you w
 
 ## Performance
 
-The Kia EV6 Standard Range AWD offers modest performance with a maximum power of 173 kW (235 hp / 232 bhp) and a total torque of 605 Nm (446 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Kia EV6 Standard Range AWD offers modest performance with a maximum power of 173 kW (235 hp / 232 bhp) and a total torque of 605 Nm (446 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 58 kWh and a net usable capacity of 54 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 58 kWh and a net usable capacity of 54 kWh, providing an 4 kWh buffer (6.9%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 371 km (231 mi). The consumption is 14.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

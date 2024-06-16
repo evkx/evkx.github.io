@@ -29,11 +29,11 @@ We have separated our Rivian R1T Performance Dual-Motor AWD MP article into sect
 
 ## Performance
 
-The Rivian R1T Performance Dual-Motor AWD MP packs an impressive punch with a maximum power of 495 kW (673 hp / 664 bhp) and a commanding total torque of 1124 Nm (830 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 201 km/h (125 mph), making it a standout in its class.
+The Rivian R1T Performance Dual-Motor AWD MP packs an impressive punch with a maximum power of 495 kW (673 hp / 664 bhp) and a commanding total torque of 1124 Nm (830 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 201 km/h (125 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 149 kWh and a net usable capacity of 143 kWh, providing an 6 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 143 kWh, providing an 6 kWh buffer (4.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 410 miles (660 km). The consumption is 2.9mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our XPENG G6 RWD Long Range article into sections. If you want
 
 ## Performance
 
-The XPENG G6 RWD Long Range offers modest performance with a maximum power of 218 kW (296 hp / 292 bhp) and a total torque of 440 Nm (325 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and has a top speed of 202 km/h (126 mph), aligning more closely with traditional internal combustion engine vehicles.
+The XPENG G6 RWD Long Range offers modest performance with a maximum power of 218 kW (296 hp / 292 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and has a top speed of 202 km/h (126 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 92 kWh and a net usable capacity of 87,5 kWh, providing an 4,5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 92 kWh and a net usable capacity of 87,5 kWh, providing an 4,5 kWh buffer (4.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 755 km ( miles). The consumption is 11.6kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

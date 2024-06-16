@@ -33,13 +33,13 @@ Volkswagen ID.7 GTX Tourer leverer en solid præstation med en maksimal effekt p
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 91kWh og en nettokapacitet på 86kWh, hvilket betyder, at du har en 5kWh buffer til beskyttelse. (5,5%).
+Det højkapacitetsbatteri har en bruttokapacitet på 91 kWh og en nettoanvendelig kapacitet på 86 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 685 til 622 km (426-387 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 12,6kWh/100 km for basisversionen og 13,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 685 og 622 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,6 kWh/100 km for basismodellen og 13,8 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 200kW. En fuld opladning fra 0 - 100 % ville tage 70 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 39 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 42%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 104kW. Hver opladningssession ville tage 20 minutter og 49 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19kWh/100 km, vil 1000 km tage 9 timer og 20 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 2 % til 43%. Den samlede tid, der går tabt for at oplade batteriet, vil være 61 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19 kWh/100 km, ville turen tage cirka 9 timer og 20 minutter. Denne rejse ville kræve to opladningsstop fra 2% til 43%, med en samlet opladningstid på 61 minutter
 
 ### Indbygget oplader
 

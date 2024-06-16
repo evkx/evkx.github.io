@@ -29,11 +29,11 @@ We have separated our MG ZS EV Standard Range article into sections. If you want
 
 ## Performance
 
-The MG ZS EV Standard Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 175 km/h (109 mph), aligning more closely with traditional internal combustion engine vehicles.
+The MG ZS EV Standard Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 175 km/h (109 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 51,1 kWh and a net usable capacity of 49 kWh, providing an 2,1 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 51,1 kWh and a net usable capacity of 49 kWh, providing an 2,1 kWh buffer (4.1%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 320 km (199 mi). The consumption is 15.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

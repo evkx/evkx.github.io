@@ -29,11 +29,11 @@ We have separated our Chevrolet Silverado EV 3WT article into sections. If you w
 
 ## Performance
 
-The Chevrolet Silverado EV 3WT delivers a solid performance with a maximum power of 375 kW (510 hp / 503 bhp) and a total torque of 834 Nm (615 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 170 km/h (106 mph), making it competitive within its class.
+The Chevrolet Silverado EV 3WT delivers a solid performance with a maximum power of 375 kW (510 hp / 503 bhp) and a total torque of 834 Nm (615 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 170 km/h (106 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 200 kWh and a net usable capacity of 190 kWh, providing an 10 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 200 kWh and a net usable capacity of 190 kWh, providing an 10 kWh buffer (5.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 393 miles (632 km). The consumption is 2.1mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

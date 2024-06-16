@@ -29,11 +29,11 @@ We have separated our VinFast VF8 Eco article into sections. If you want to wait
 
 ## Performance
 
-The VinFast VF8 Eco delivers a solid performance with a maximum power of 260 kW (354 hp / 349 bhp) and a total torque of 500 Nm (369 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The VinFast VF8 Eco delivers a solid performance with a maximum power of 260 kW (354 hp / 349 bhp) and a total torque of 500 Nm (369 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 94 kWh and a net usable capacity of 87,7 kWh, providing an 6,3 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 94 kWh and a net usable capacity of 87,7 kWh, providing an 6,3 kWh buffer (6.7%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 471 km (293 mi). The consumption is 18.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our Polestar 3 Long Range Dual Motor Performance article into 
 
 ## Performance
 
-The Polestar 3 Long Range Dual Motor Performance delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 910 Nm (672 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.7 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
+The Polestar 3 Long Range Dual Motor Performance delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 910 Nm (672 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.7 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 111 kWh and a net usable capacity of 107 kWh, providing an 4 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 111 kWh and a net usable capacity of 107 kWh, providing an 4 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 560 km (348 mi). The consumption is 19.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

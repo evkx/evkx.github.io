@@ -33,13 +33,13 @@ Kia EV9 RWD tilbyder beskedne præstationer med en maksimal effekt på 160 kW (2
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 76,1kWh og en nettokapacitet på 75kWh, hvilket betyder, at du har en 1,1kWh buffer til beskyttelse. (1,4%).
+Det højkapacitetsbatteri har en bruttokapacitet på 76,1 kWh og en nettoanvendelig kapacitet på 75 kWh, hvilket giver en buffer på 1,1 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 443 km (275 mi). Forbruget er 16,9kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 443 km (275 mi). Forbruget er 16,9kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 22 minutter og 12 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 9 timer og 29 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 1 % til 79%. Den samlede tid, der går tabt for at oplade batteriet, vil være 69 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 29 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 79%, med en samlet opladningstid på 69 minutter
 
 ### Indbygget oplader
 

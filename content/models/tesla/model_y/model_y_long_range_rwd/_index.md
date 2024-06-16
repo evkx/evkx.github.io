@@ -29,11 +29,11 @@ We have separated our Tesla Model Y Long Range RWD article into sections. If you
 
 ## Performance
 
-The Tesla Model Y Long Range RWD delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 450 Nm (332 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 217 km/h (135 mph), making it competitive within its class.
+The Tesla Model Y Long Range RWD delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 450 Nm (332 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 217 km/h (135 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.7%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 mi). The consumption is 13.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

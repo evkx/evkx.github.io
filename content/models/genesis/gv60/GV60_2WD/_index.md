@@ -29,11 +29,11 @@ We have separated our Genesis GV60 2WD article into sections. If you want to wai
 
 ## Performance
 
-The Genesis GV60 2WD offers modest performance with a maximum power of 168 kW (228 hp / 225 bhp) and a total torque of 350 Nm (258 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Genesis GV60 2WD offers modest performance with a maximum power of 168 kW (228 hp / 225 bhp) and a total torque of 350 Nm (258 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (4.4%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 517 km (321 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

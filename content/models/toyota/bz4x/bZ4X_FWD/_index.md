@@ -29,11 +29,11 @@ We have separated our Toyota bZ4X FWD article into sections. If you want to wait
 
 ## Performance
 
-The Toyota bZ4X FWD offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 337 Nm (249 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Toyota bZ4X FWD offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 337 Nm (249 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 71,4 kWh and a net usable capacity of 58 kWh, providing an 13,4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 71,4 kWh and a net usable capacity of 58 kWh, providing an 13,4 kWh buffer (18.8%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 516 to 442 km (321-275 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 11.2 kWh/100 km for the base model and 13.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

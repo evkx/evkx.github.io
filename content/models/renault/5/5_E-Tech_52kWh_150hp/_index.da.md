@@ -33,13 +33,13 @@ Renault 5 E-Tech 52kWh 150hp tilbyder beskedne præstationer med en maksimal eff
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 55kWh og en nettokapacitet på 52kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (5,5%).
+Det højkapacitetsbatteri har en bruttokapacitet på 55 kWh og en nettoanvendelig kapacitet på 52 kWh, hvilket giver en buffer på 3 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 400 km (249 mi). Forbruget er 13,0kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 400 km (249 mi). Forbruget er 13,0kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 58%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 69kW. Hver opladningssession ville tage 24 minutter og 2 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 19,9kWh/100 km, vil 1000 km tage 10 timer og 29 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 4 % til 61%. Den samlede tid, der går tabt for at oplade batteriet, vil være 130 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19,9 kWh/100 km, ville turen tage cirka 10 timer og 29 minutter. Denne rejse ville kræve to opladningsstop fra 4% til 61%, med en samlet opladningstid på 130 minutter
 
 ### Indbygget oplader
 

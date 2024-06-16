@@ -33,13 +33,13 @@ Ford Explorer Standard Range RWD erbjuder blygsamma prestanda med en maximal eff
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 55kWh och en nettokapacitet på 52kWh, vilket innebär att du har en 3kWh buffert för skydd. (5,5%).
+Högkapacitetsbatteriet har en bruttokapacitet på 55 kWh och en nettoanvändbar kapacitet på 52 kWh, vilket ger en buffert på 3 kWh (5,5%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 380 km. Förbrukningen är 13,7kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 380 km. Förbrukningen är 13,7kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 56 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 75kW. Varje laddningssession tar 19 minuter och 47 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 10 timmar och 36 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 0% till 54%. Total tid som går förlorad för att ladda batteriet kommer att vara 137 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 10 timmar och 36 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 54%, med en total laddningstid på 137 minuter.
 
 ### Inbyggd laddare
 

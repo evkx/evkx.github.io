@@ -29,11 +29,11 @@ We have separated our Honda Prologue AWD article into sections. If you want to w
 
 ## Performance
 
-The Honda Prologue AWD offers modest performance with a maximum power of 214 kW (291 hp / 287 bhp) and a total torque of 451 Nm (333 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Honda Prologue AWD offers modest performance with a maximum power of 214 kW (291 hp / 287 bhp) and a total torque of 451 Nm (333 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (4.5%) for battery protection.
 
 The [EPA range](../../../../guides/understandingrange/epa/) varies from 281 to 273 miles (452-439 km), depending on car options. Bigger wheels are an example of an equipment option that increases consumption and reduces the electric range. The consumption is between 3.3mi/kWh for the basic version and 3.2mi/kWh for the top trim version for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

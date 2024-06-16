@@ -33,13 +33,13 @@ Tesla Model 3 tilbyr beskjedne ytelser med en maksimal effekt på 208 kW (283 hk
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 60kWh og en nettokapasitet på 59kWh, noe som betyr at du har et 1kWh-buffer for beskyttelse. (1,7%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 60 kWh og en netto brukbar kapasitet på 59 kWh, som gir en buffer på 1 kWh (1,7%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 513 km. Forbruket er 11,5kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 513 km. Forbruket er 11,5kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 20 minutter og 31 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 17kWh/100km, vil 1000km ta 9 timer og 41 minutter. Denne turen vil kreve fire ladeøkt(er) lading fra 3% til 51%. Totalt tapt tid for å lade opp batteriet vil være 82 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 17 kWh/100 km, ville turen ta omtrent 9 timer og 41 minutter. Denne reisen ville kreve to ladestopp fra 3% til 51%, med en total ladetid på 82 minutter.
 
 ### Ombordlader
 

@@ -29,11 +29,11 @@ We have separated our Audi Q8 50 e-tron article into sections. If you want to wa
 
 ## Performance
 
-The Audi Q8 50 e-tron offers modest performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 540 Nm (399 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Audi Q8 50 e-tron offers modest performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 540 Nm (399 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 95 kWh and a net usable capacity of 89 kWh, providing an 6 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 95 kWh and a net usable capacity of 89 kWh, providing an 6 kWh buffer (6.3%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 491 to 406 km (305-252 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.1 kWh/100 km for the base model and 21.9 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

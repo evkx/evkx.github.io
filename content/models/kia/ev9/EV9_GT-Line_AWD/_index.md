@@ -29,11 +29,11 @@ We have separated our Kia EV9 GT-Line AWD article into sections. If you want to 
 
 ## Performance
 
-The Kia EV9 GT-Line AWD delivers a solid performance with a maximum power of 283 kW (385 hp / 380 bhp) and a total torque of 700 Nm (517 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.3 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The Kia EV9 GT-Line AWD delivers a solid performance with a maximum power of 283 kW (385 hp / 380 bhp) and a total torque of 700 Nm (517 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.3 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 99,8 kWh and a net usable capacity of 98 kWh, providing an 1,8 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 99,8 kWh and a net usable capacity of 98 kWh, providing an 1,8 kWh buffer (1.8%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 512 to 505 km (318-314 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 19.1 kWh/100 km for the base model and 19.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

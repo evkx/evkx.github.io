@@ -29,11 +29,11 @@ We have separated our Tesla Model 3 Performance article into sections. If you wa
 
 ## Performance
 
-The Tesla Model 3 Performance delivers a solid performance with a maximum power of 393 kW (534 hp / 527 bhp) and a total torque of 660 Nm (487 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.3 seconds and reaches a top speed of 261 km/h (162 mph), making it competitive within its class.
+The Tesla Model 3 Performance delivers a solid performance with a maximum power of 393 kW (534 hp / 527 bhp) and a total torque of 660 Nm (487 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.3 seconds and reaches a top speed of 261 km/h (162 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 78,1 kWh and a net usable capacity of 75 kWh, providing an 3,1 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 78,1 kWh and a net usable capacity of 75 kWh, providing an 3,1 kWh buffer (4.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 528 km (328 mi). The consumption is 14.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

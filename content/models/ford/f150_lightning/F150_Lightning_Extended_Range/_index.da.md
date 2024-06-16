@@ -33,13 +33,13 @@ Ford F150 Lightning Extended Range imponerer med en maksimal effekt på 433 kW (
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 150kWh og en nettokapacitet på 130kWh, hvilket betyder, at du har en 20kWh buffer til beskyttelse. (13,3%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 150 kWh og en nettoanvendelig kapacitet på 130 kWh, hvilket giver en buffer på 20 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 320 til 300 miles (515-483 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 2,5mi/kWh for basisversionen og 2,3mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 320 til 300 miles (515-483 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 2,5mi/kWh for basisversionen og 2,3mi/kWh for toptrim-versionen for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 155kW. En fuld opladning fra 0 - 100 % ville tage 129 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 49 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 106kW. Hver opladningssession ville tage 46 minutter og 35 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 33kWh/100 km, vil 1000 km tage 10 timer og 13 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 0 % til 77%. Den samlede tid, der går tabt for at oplade batteriet, vil være 114 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 33 kWh/100 km, ville turen tage cirka 10 timer og 13 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 77%, med en samlet opladningstid på 114 minutter
 
 ### Indbygget oplader
 

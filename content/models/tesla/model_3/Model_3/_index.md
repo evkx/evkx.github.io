@@ -29,11 +29,11 @@ We have separated our Tesla Model 3 article into sections. If you want to wait t
 
 ## Performance
 
-The Tesla Model 3 offers modest performance with a maximum power of 208 kW (283 hp / 279 bhp) and a total torque of 420 Nm (310 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and has a top speed of 225 km/h (140 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Tesla Model 3 offers modest performance with a maximum power of 208 kW (283 hp / 279 bhp) and a total torque of 420 Nm (310 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and has a top speed of 225 km/h (140 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 60 kWh and a net usable capacity of 59 kWh, providing an 1 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 59 kWh, providing an 1 kWh buffer (1.7%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 513 km (319 mi). The consumption is 11.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

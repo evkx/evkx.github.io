@@ -33,13 +33,13 @@ La Jaguar I-Pace EV400 offre des performances solides avec une puissance maximal
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 90kWh et une capacité nette de 84,7kWh, ce qui signifie que vous disposez d'une réserve de 5,3kWh pour la protection. (5,9%).
+La batterie haute capacité a une capacité brute de 90 kWh et une capacité nette utilisable de 84,7 kWh, offrant une réserve de 5,3 kWh (5,9%) pour la protection de la batterie.
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 470 à 408 km (292-254 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 18,0kWh/100km pour la version de base et 20,8kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 470 et 408 km (345-347 miles), en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 18,0 kWh/100 km pour le modèle de base et à 20,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 104kW. Une charge complète de 0 à 100 % prendrait 105 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 49 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 46 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 76kW. Chaque session de charge prendrait 26 minutes et 2 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 26,9kWh/100 km, 1 000 km prendront 10 heures et 47 minutes. Ce trajet nécessitera cinq sessions de charge de 6 % à 50 %. Le temps total perdu pour charger la batterie sera de 148 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 26,9 kWh/100 km, le voyage prendrait environ 10 heures et 47 minutes. Ce trajet nécessiterait deux arrêts de recharge de 6% à 50%, avec un temps de recharge total de 148 minutes.
 
 ### Chargeur embarqué
 

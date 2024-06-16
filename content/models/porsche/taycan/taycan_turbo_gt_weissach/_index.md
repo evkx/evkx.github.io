@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Turbo GT Weissach
 linktitle: "Taycan Turbo GT Weissach"
-description: "Porsche Taycan Turbo GT Weissach is an all-electric luxury sedan with a WLTP range of up to 555 km (345 miles). EVKX.net has all the details."
+description: "Porsche Taycan Turbo GT Weissach is an all-electric luxury sedan with a WLTP range of up to 558 km (347 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ We have separated our Porsche Taycan Turbo GT Weissach article into sections. If
 
 ## Performance
 
-With overboost, the Porsche Taycan Turbo GT Weissach delivers an astonishing maximum power of 815 kW (1108 hp / 1093 bhp). Even without overboost, it boasts a formidable 815 kW (1108 hp / 1093 bhp). The maximum torque reaches an incredible 1340 Nm (989 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.2 seconds and achieves a top speed of 300 km/h (186 mph), underscoring its breathtaking performance.
+With overboost, the Porsche Taycan Turbo GT Weissach delivers an astonishing maximum power of 815 kW (1108 hp / 1093 bhp). Even without overboost, it boasts a formidable 815 kW (1108 hp / 1093 bhp). The maximum torque reaches an incredible 1340 Nm (989 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.2 seconds and achieves a top speed of 300 km/h (186 mph), underscoring its breathtaking performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (7.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 555 to 558 km (345-347 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.5 kWh/100 km for the base model and 17.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 558 to 555 km (347-345 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.4 kWh/100 km for the base model and 17.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 15 minutes with an average charging speed at 265 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 212 kW, with each charging session taking about 18 minutes and 32 seconds..
 

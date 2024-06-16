@@ -29,11 +29,11 @@ We have separated our Rolls-Royce Spectre article into sections. If you want to 
 
 ## Performance
 
-The Rolls-Royce Spectre packs an impressive punch with a maximum power of 430 kW (585 hp / 577 bhp) and a commanding total torque of 900 Nm (664 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
+The Rolls-Royce Spectre packs an impressive punch with a maximum power of 430 kW (585 hp / 577 bhp) and a commanding total torque of 900 Nm (664 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 105,7 kWh and a net usable capacity of 102 kWh, providing an 3,7 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 105,7 kWh and a net usable capacity of 102 kWh, providing an 3,7 kWh buffer (3.5%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 530 km (329 mi). The consumption is 19.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

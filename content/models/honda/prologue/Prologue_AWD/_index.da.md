@@ -33,13 +33,13 @@ Honda Prologue AWD tilbyder beskedne præstationer med en maksimal effekt på 21
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 89kWh og en nettokapacitet på 85kWh, hvilket betyder, at du har en 4kWh buffer til beskyttelse. (4,5%).
+Det højkapacitetsbatteri har en bruttokapacitet på 89 kWh og en nettoanvendelig kapacitet på 85 kWh, hvilket giver en buffer på 4 kWh (3%) til batteribeskyttelse.
 
-[EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 281 til 273 miles (452-439 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 3,3mi/kWh for basisversionen og 3,2mi/kWh for toptrim-versionen for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidde](../../../../guides/understandingrange/epa/) varierer fra 281 til 273 miles (452-439 km), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 3,3mi/kWh for basisversionen og 3,2mi/kWh for toptrim-versionen for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 66 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 102kW. Hver opladningssession ville tage 25 minutter og 56 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 9 timer og 57 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 6 % til 55%. Den samlede tid, der går tabt for at oplade batteriet, vil være 98 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 57 minutter. Denne rejse ville kræve to opladningsstop fra 6% til 55%, med en samlet opladningstid på 98 minutter
 
 ### Indbygget oplader
 

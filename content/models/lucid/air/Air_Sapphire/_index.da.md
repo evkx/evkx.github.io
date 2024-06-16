@@ -33,13 +33,13 @@ Lucid Air Sapphire leverer en imponerende maksimal effekt på 920 KW (1251 hk) o
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 118kWh og en nettokapacitet på 117kWh, hvilket betyder, at du har en 1kWh buffer til beskyttelse. (0,8%).
+Det højkapacitetsbatteri har en bruttokapacitet på 118 kWh og en nettoanvendelig kapacitet på 117 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse.
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 427 miles (687 km). Forbruget er 3,6mi/kWh for EPA-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 427 miles (687 km). Forbruget er 3,6mi/kWh for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 77 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 46%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 174kW. Hver opladningssession ville tage 18 minutter og 7 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21kWh/100 km, vil 1000 km tage 8 timer og 52 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 1 % til 41%. Den samlede tid, der går tabt for at oplade batteriet, vil være 32 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 8 timer og 52 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 41%, med en samlet opladningstid på 32 minutter
 
 ### Indbygget oplader
 

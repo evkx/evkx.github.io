@@ -29,11 +29,11 @@ We have separated our Honda e:Ny1 article into sections. If you want to wait to 
 
 ## Performance
 
-The Honda e:Ny1 offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.7 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Honda e:Ny1 offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.7 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 68,8 kWh and a net usable capacity of 61,9 kWh, providing an 6,9 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 68,8 kWh and a net usable capacity of 61,9 kWh, providing an 6,9 kWh buffer (10.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 412 km (256 mi). The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,13 +33,13 @@ El SKODA Enyaq iV80 ofrece un rendimiento modesto con una potencia máxima de 15
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 82kWh y una capacidad neta de 77kWh, lo que significa que tienes un buffer de 5kWh para protección. (6,1%).
+La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 77 kWh, proporcionando un buffer de 5 kWh (6,1%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 534 a 510 km (332-317 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 14,4kWh/100 km para la versión básica y 15,1kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 534 y 510 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,4 kWh/100 km para el modelo base y 15,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 66 minutos, mientras que un escenario más común del 10 al 80 % tardaría 36 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 53%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 89kW. Cada sesión de carga tardaría 24 minutos y 17 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 9 horas y 57 minutos. Este viaje requerirá cuatro sesiones de carga del 6 % al 53 %. El tiempo total perdido para cargar la batería será de 97 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 57 minutos. Este viaje requeriría dos paradas de carga del 6% al 53%, con un tiempo total de carga de 97 minutos.
 
 ### Cargador a bordo
 

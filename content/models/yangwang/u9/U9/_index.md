@@ -29,11 +29,11 @@ We have separated our YangWang U9 article into sections. If you want to wait to 
 
 ## Performance
 
-The YangWang U9 delivers a jaw-dropping maximum power of 960 KW (1305 hp/1287 bhp) and a massive total torque of 1680 Nm (1240 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.36 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 309 km/h (192 mph), making it a true marvel of engineering and performance.
+The YangWang U9 delivers a jaw-dropping maximum power of 960 KW (1305 hp/1287 bhp) and a massive total torque of 1680 Nm (1240 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.36 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 309 km/h (192 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 83 kWh and a net usable capacity of 80 kWh, providing an 3 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 83 kWh and a net usable capacity of 80 kWh, providing an 3 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 465 km ( miles). The consumption is 17.2kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

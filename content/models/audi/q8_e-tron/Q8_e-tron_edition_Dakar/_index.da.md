@@ -33,13 +33,13 @@ Med overboost når Audi Q8 e-tron edition Dakar en maksimal effekt på 300 kW (4
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 114kWh og en nettokapacitet på 106kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (7,0%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 114 kWh og en nettoanvendelig kapacitet på 106 kWh, hvilket giver en buffer på 8 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 487 km (303 mi). Forbruget er 21,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 487 km (303 mi). Forbruget er 21,8kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 170kW. En fuld opladning fra 0 - 100 % ville tage 66 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 74%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 122kW. Hver opladningssession ville tage 37 minutter og 58 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 27kWh/100 km, vil 1000 km tage 9 timer og 41 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 0 % til 78%. Den samlede tid, der går tabt for at oplade batteriet, vil være 82 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 27 kWh/100 km, ville turen tage cirka 9 timer og 41 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 78%, med en samlet opladningstid på 82 minutter
 
 ### Indbygget oplader
 

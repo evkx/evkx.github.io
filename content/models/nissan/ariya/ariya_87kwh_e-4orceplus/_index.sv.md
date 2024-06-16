@@ -33,13 +33,13 @@ Nissan Ariya 87kWh e-4ORCE+ levererar en solid prestanda med en maximal effekt p
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 91kWh och en nettokapacitet på 87kWh, vilket innebär att du har en 4kWh buffert för skydd. (4,4%).
+Högkapacitetsbatteriet har en bruttokapacitet på 91 kWh och en nettoanvändbar kapacitet på 87 kWh, vilket ger en buffert på 4 kWh (4,4%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 507 till 498 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 17,2kWh/100 km för basversionen och 17,5kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 507 och 498 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 17,2 kWh/100 km för basmodellen och 17,5 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 130 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 98kW. Varje laddningssession tar 28 minuter och 18 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24,5kWh/100km, tar 1000km 9 timmar och 58 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 6% till 67%. Total tid som går förlorad för att ladda batteriet kommer att vara 98 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 58 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 67%, med en total laddningstid på 98 minuter.
 
 ### Inbyggd laddare
 

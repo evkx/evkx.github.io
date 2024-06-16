@@ -33,13 +33,13 @@ Ford Mustang Mach-E Standard Range RWD levererar en solid prestanda med en maxim
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 75,7kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 5,7kWh buffert för skydd. (7,5%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 75,7 kWh och en nettoanvändbar kapacitet på 70 kWh, vilket ger en buffert på 5,7 kWh (7,5%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 440 km. Förbrukningen är 15,9kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 440 km. Förbrukningen är 15,9kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 117 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 80kW. Varje laddningssession tar 22 minuter och 3 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 10 timmar och 12 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 4% till 47%. Total tid som går förlorad för att ladda batteriet kommer att vara 113 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 10 timmar och 12 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 47%, med en total laddningstid på 113 minuter.
 
 ### Inbyggd laddare
 

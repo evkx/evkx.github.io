@@ -33,13 +33,13 @@ Ford Explorer Standard Range RWD tilbyr beskjedne ytelser med en maksimal effekt
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 55kWh og en nettokapasitet på 52kWh, noe som betyr at du har et 3kWh-buffer for beskyttelse. (5,5%).
+Høykapasitetsbatteriet har en brutto kapasitet på 55 kWh og en netto brukbar kapasitet på 52 kWh, som gir en buffer på 3 kWh (5,5%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 380 km. Forbruket er 13,7kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 380 km. Forbruket er 13,7kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 56 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 75kW. Hver ladeøkt vil ta 19 minutter og 47 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 10 timer og 36 minutter. Denne turen vil kreve seks ladeøkt(er) lading fra 0% til 54%. Totalt tapt tid for å lade opp batteriet vil være 137 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 22 kWh/100 km, ville turen ta omtrent 10 timer og 36 minutter. Denne reisen ville kreve to ladestopp fra 0% til 54%, med en total ladetid på 137 minutter.
 
 ### Ombordlader
 

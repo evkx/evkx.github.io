@@ -33,13 +33,13 @@ BYD Seagull 38kWh gir grunnleggende ytelse med en maksimal effekt på 55 kW (75 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 38,8kWh og en nettokapasitet på 37kWh, noe som betyr at du har et 1,8kWh-buffer for beskyttelse. (4,6%). Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 38,8 kWh og en netto brukbar kapasitet på 37 kWh, som gir en buffer på 1,8 kWh (4,6%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 405 km ( miles). Forbruket er 9,1kWh/100 km for CLTC-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 405 km ( miles). Forbruket er 9,1kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 40 kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 12% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 33kW. Hver ladeøkt vil ta 42 minutter og 9 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 19kWh/100km, vil 1000km ta 12 timer og 58 minutter. Denne turen vil kreve seks ladeøkt(er) lading fra 10% til 79%. Totalt tapt tid for å lade opp batteriet vil være 279 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19 kWh/100 km, ville turen ta omtrent 12 timer og 58 minutter. Denne reisen ville kreve to ladestopp fra 10% til 79%, med en total ladetid på 279 minutter.
 
 ### Ombordlader
 

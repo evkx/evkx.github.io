@@ -29,11 +29,11 @@ We have separated our Dacia Spring 65HP article into sections. If you want to wa
 
 ## Performance
 
-The Dacia Spring 65HP kWh provides basic performance with a maximum power of 48 kW (65 hp / 64 bhp) and a total torque of 113 Nm (83 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 13.7 seconds and reaches a top speed of 125 km/h (78 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
+The Dacia Spring 65HP kWh provides basic performance with a maximum power of 48 kW (65 hp / 64 bhp) and a total torque of 113 Nm (83 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 13.7 seconds and reaches a top speed of 125 km/h (78 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 26,8 kWh and a net usable capacity of 25 kWh, providing an 1,8 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 26,8 kWh and a net usable capacity of 25 kWh, providing an 1,8 kWh buffer (6.7%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 220 km (137 mi). The consumption is 11.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our Audi Q4 55 e-tron quattro article into sections. If you wa
 
 ## Performance
 
-The Audi Q4 55 e-tron quattro delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 679 Nm (501 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The Audi Q4 55 e-tron quattro delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 679 Nm (501 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 76,6 kWh, providing an 5,4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 76,6 kWh, providing an 5,4 kWh buffer (6.6%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 523 to 450 km (325-280 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.6 kWh/100 km for the base model and 17.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

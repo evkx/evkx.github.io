@@ -33,13 +33,13 @@ Fiat 600e erbjuder blygsamma prestanda med en maximal effekt på 115 kW (156 hk)
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 54kWh och en nettokapacitet på 50,8kWh, vilket innebär att du har en 3,2kWh buffert för skydd. (5,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 54 kWh och en nettoanvändbar kapacitet på 50,8 kWh, vilket ger en buffert på 3,2 kWh (5,9%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 409 km. Förbrukningen är 12,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 409 km. Förbrukningen är 12,4kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 53 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 61%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 69kW. Varje laddningssession tar 26 minuter och 10 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 11 timmar och 7 minuter. Den här resan kommer att kräva sex laddningssession(er) laddning från 2% till 65%. Total tid som går förlorad för att ladda batteriet kommer att vara 168 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 11 timmar och 7 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 65%, med en total laddningstid på 168 minuter.
 
 ### Inbyggd laddare
 

@@ -29,11 +29,11 @@ We have separated our Renault 5 E-Tech 52kWh 150hp article into sections. If you
 
 ## Performance
 
-The Renault 5 E-Tech 52kWh 150hp offers modest performance with a maximum power of 110 kW (150 hp / 148 bhp) and a total torque of 245 Nm (181 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and has a top speed of 150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Renault 5 E-Tech 52kWh 150hp offers modest performance with a maximum power of 110 kW (150 hp / 148 bhp) and a total torque of 245 Nm (181 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and has a top speed of 150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing an 3 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing an 3 kWh buffer (5.5%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 mi). The consumption is 13.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

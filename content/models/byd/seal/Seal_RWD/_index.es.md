@@ -33,13 +33,13 @@ El BYD Seal RWD ofrece un rendimiento modesto con una potencia máxima de 230 kW
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 85,4kWh y una capacidad neta de 82,5kWh, lo que significa que tienes un buffer de 2,9kWh para protección. (3,4%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 85,4 kWh y una capacidad neta utilizable de 82,5 kWh, proporcionando un buffer de 2,9 kWh (3,4%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 520 km (323 mi). El consumo es de 15,9kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 520 km (323 mi). El consumo es de 15,9kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 64 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 92kW. Cada sesión de carga tardaría 29 minutos y 27 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 10 horas y 10 minutos. Este viaje requerirá cuatro sesiones de carga del 8 % al 59 %. El tiempo total perdido para cargar la batería será de 110 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 10 minutos. Este viaje requeriría dos paradas de carga del 8% al 59%, con un tiempo total de carga de 110 minutos.
 
 ### Cargador a bordo
 

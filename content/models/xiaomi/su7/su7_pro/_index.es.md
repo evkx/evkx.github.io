@@ -33,13 +33,13 @@ El Xiaomi SU7 Pro ofrece un rendimiento modesto con una potencia máxima de 220 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 94,3kWh y una capacidad neta de 92kWh, lo que significa que tienes un buffer de 2,3kWh para protección. (2,4%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 94,3 kWh y una capacidad neta utilizable de 92 kWh, proporcionando un buffer de 2,3 kWh (2,4%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 830 km ( millas). El consumo es de 11,1kWh/100 km para la prueba estándar CLTC. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 830 km ( millas). El consumo es de 11,1kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 56 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 71%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 116kW. Cada sesión de carga tardaría 32 minutos y 24 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 16kWh/100 km, 1000 km tomarán 8 horas y 55 minutos. Este viaje requerirá uno sesiones de carga del 2 % al 76 %. El tiempo total perdido para cargar la batería será de 35 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 16 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 2% al 76%, con un tiempo total de carga de 35 minutos.
 
 ### Cargador a bordo
 

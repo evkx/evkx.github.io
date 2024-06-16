@@ -33,13 +33,13 @@ Med overboost oppnår CUPRA BORN 58 e-BOOST en maksimal effekt på 170 kW (231 h
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 62kWh og en nettokapasitet på 58kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (6,5%).
+Høykapasitetsbatteriet har en brutto kapasitet på 62 kWh og en netto brukbar kapasitet på 58 kWh, som gir en buffer på 4 kWh (6,5%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 420 til 362 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 13,8kWh/100 km for basisversjonen og 16,0kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 420 og 362 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,8 kWh/100 km for basismodellen og 16,0 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 120 kW. En full lading fra 0 - 100 % vil ta 63 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 77kW. Hver ladeøkt vil ta 19 minutter og 28 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 22kWh/100km, vil 1000km ta 10 timer og 26 minutter. Denne turen vil kreve syv ladeøkt(er) lading fra 0% til 40%. Totalt tapt tid for å lade opp batteriet vil være 127 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 22 kWh/100 km, ville turen ta omtrent 10 timer og 26 minutter. Denne reisen ville kreve to ladestopp fra 0% til 40%, med en total ladetid på 127 minutter.
 
 ### Ombordlader
 

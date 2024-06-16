@@ -33,13 +33,13 @@ Automobili Pininfarina Battista levererar en häpnadsväckande maximal effekt p�
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 106,8kWh, vilket innebär att du har en 13,2kWh buffert för skydd. (11,0%).
+Högkapacitetsbatteriet har en bruttokapacitet på 120 kWh och en nettoanvändbar kapacitet på 106,8 kWh, vilket ger en buffert på 13,2 kWh (11,0%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 490 km. Förbrukningen är 21,8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 490 km. Förbrukningen är 21,8kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 500 kW. En full laddning från 0 - 100 % tar 34 minuter, medan ett vanligare scenario på 10-80 % tar 16 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 222kW. Varje laddningssession tar 20 minuter och 54 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 8 timmar och 56 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 3% till 66%. Total tid som går förlorad för att ladda batteriet kommer att vara 37 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 8 timmar och 56 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 66%, med en total laddningstid på 37 minuter.
 
 ### Inbyggd laddare
 

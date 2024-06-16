@@ -29,11 +29,11 @@ We have separated our XPENG G9 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG G9 AWD Performance packs an impressive punch with a maximum power of 405 kW (551 hp / 543 bhp) and a commanding total torque of 717 Nm (529 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds, and it reaches a top speed of 205 km/h (127 mph), making it a standout in its class.
+The XPENG G9 AWD Performance packs an impressive punch with a maximum power of 405 kW (551 hp / 543 bhp) and a commanding total torque of 717 Nm (529 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds, and it reaches a top speed of 205 km/h (127 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 98 kWh and a net usable capacity of 93,6 kWh, providing an 4,4 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 98 kWh and a net usable capacity of 93,6 kWh, providing an 4,4 kWh buffer (4.5%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 mi). The consumption is 18.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -29,11 +29,11 @@ We have separated our Li Auto MEGA article into sections. If you want to wait to
 
 ## Performance
 
-The Li Auto MEGA delivers a solid performance with a maximum power of 400 kW (544 hp / 536 bhp) and a total torque of 542 Nm (400 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
+The Li Auto MEGA delivers a solid performance with a maximum power of 400 kW (544 hp / 536 bhp) and a total torque of 542 Nm (400 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 102,7 kWh and a net usable capacity of 100 kWh, providing an 2,7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 102,7 kWh and a net usable capacity of 100 kWh, providing an 2,7 kWh buffer (2.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 710 km ( miles). The consumption is 14.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

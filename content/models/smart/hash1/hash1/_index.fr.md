@@ -33,13 +33,13 @@ La Smart #1 offre des performances solides avec une puissance maximale de 315 kW
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 66kWh et une capacité nette de 62kWh, ce qui signifie que vous disposez d'une réserve de 4kWh pour la protection. (6,1%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 66 kWh et une capacité nette utilisable de 62 kWh, offrant une réserve de 4 kWh (6,1%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [portée WLTP](../../../../guides/understandingrange/wltp/) varie de 440 à 420 km (274-261 mi), en fonction des options de la voiture. Les roues plus grandes sont un exemple d'option d'équipement qui augmente la consommation et réduit l'autonomie électrique. La consommation est comprise entre 14,1kWh/100km pour la version de base et 14,8kWh/100km pour la version haut de gamme pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 440 et 420 km (345-347 miles), en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,1 kWh/100 km pour le modèle de base et à 14,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 150kW. Une charge complète de 0 à 100 % prendrait 80 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 30 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 89kW. Chaque session de charge prendrait 20 minutes et 29 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 26kWh/100 km, 1 000 km prendront 10 heures et 34 minutes. Ce trajet nécessitera sept sessions de charge de 5 % à 51 %. Le temps total perdu pour charger la batterie sera de 135 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 26 kWh/100 km, le voyage prendrait environ 10 heures et 34 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 51%, avec un temps de recharge total de 135 minutes.
 
 ### Chargeur embarqué
 

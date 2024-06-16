@@ -29,11 +29,11 @@ We have separated our XPENG X9 AWD Performance article into sections. If you wan
 
 ## Performance
 
-The XPENG X9 AWD Performance delivers a solid performance with a maximum power of 370 kW (503 hp / 496 bhp) and a total torque of 640 Nm (472 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The XPENG X9 AWD Performance delivers a solid performance with a maximum power of 370 kW (503 hp / 496 bhp) and a total torque of 640 Nm (472 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 101,5 kWh and a net usable capacity of 98 kWh, providing an 3,5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 101,5 kWh and a net usable capacity of 98 kWh, providing an 3,5 kWh buffer (3.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 640 km ( miles). The consumption is 15.3kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

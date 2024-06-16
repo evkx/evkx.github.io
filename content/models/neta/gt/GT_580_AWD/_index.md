@@ -29,11 +29,11 @@ We have separated our Neta GT 580 AWD article into sections. If you want to wait
 
 ## Performance
 
-The Neta GT 580 AWD delivers a solid performance with a maximum power of 340 kW (462 hp / 456 bhp) and a total torque of 620 Nm (458 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
+The Neta GT 580 AWD delivers a solid performance with a maximum power of 340 kW (462 hp / 456 bhp) and a total torque of 620 Nm (458 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 78 kWh and a net usable capacity of 75 kWh, providing an 3 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 78 kWh and a net usable capacity of 75 kWh, providing an 3 kWh buffer (3.8%) for battery protection.
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 580 km ( miles). The consumption is 12.9kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

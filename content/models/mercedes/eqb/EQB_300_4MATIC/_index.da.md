@@ -33,13 +33,13 @@ Mercedes-EQ EQB 300 4MATIC tilbyder beskedne præstationer med en maksimal effek
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 69,7kWh og en nettokapacitet på 66,5kWh, hvilket betyder, at du har en 3,2kWh buffer til beskyttelse. (4,6%).
+Det højkapacitetsbatteri har en bruttokapacitet på 69,7 kWh og en nettoanvendelig kapacitet på 66,5 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 423 til 388 km (263-241 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 15,7kWh/100 km for basisversionen og 17,1kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 423 og 388 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 15,7 kWh/100 km for basismodellen og 17,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 112kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 29 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 70%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 84kW. Hver opladningssession ville tage 31 minutter og 19 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 25kWh/100 km, vil 1000 km tage 10 timer og 31 minutter. Denne tur vil kræve fire opladningssession(er) opladning fra 4 % til 73%. Den samlede tid, der går tabt for at oplade batteriet, vil være 131 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 10 timer og 31 minutter. Denne rejse ville kræve to opladningsstop fra 4% til 73%, med en samlet opladningstid på 131 minutter
 
 ### Indbygget oplader
 

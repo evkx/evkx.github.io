@@ -29,11 +29,11 @@ We have separated our Kia EV6 GT article into sections. If you want to wait to r
 
 ## Performance
 
-The Kia EV6 GT packs an impressive punch with a maximum power of 430 kW (585 hp / 577 bhp) and a commanding total torque of 740 Nm (546 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 260 km/h (162 mph), making it a standout in its class.
+The Kia EV6 GT packs an impressive punch with a maximum power of 430 kW (585 hp / 577 bhp) and a commanding total torque of 740 Nm (546 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 260 km/h (162 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (4.4%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 424 km (264 mi). The consumption is 17.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

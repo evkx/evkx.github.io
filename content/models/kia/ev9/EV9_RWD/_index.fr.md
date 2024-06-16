@@ -33,13 +33,13 @@ L'Kia EV9 RWD offre des performances modestes avec une puissance maximale de 160
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 76,1kWh et une capacité nette de 75kWh, ce qui signifie que vous disposez d'une réserve de 1,1kWh pour la protection. (1,4%).
+La batterie haute capacité a une capacité brute de 76,1 kWh et une capacité nette utilisable de 75 kWh, offrant une réserve de 1,1 kWh (1,4%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 443 km (275 mi). La consommation est de 16,9kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 443 km (275 mi). La consommation est de 16,9kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 38 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 16 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 152kW. Chaque session de charge prendrait 22 minutes et 12 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 25kWh/100 km, 1 000 km prendront 9 heures et 29 minutes. Ce trajet nécessitera trois sessions de charge de 1 % à 79 %. Le temps total perdu pour charger la batterie sera de 69 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 9 heures et 29 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 79%, avec un temps de recharge total de 69 minutes.
 
 ### Chargeur embarqué
 

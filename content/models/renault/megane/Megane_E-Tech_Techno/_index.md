@@ -29,11 +29,11 @@ We have separated our Renault Megane E-Tech Techno article into sections. If you
 
 ## Performance
 
-The Renault Megane E-Tech Techno offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 300 Nm (221 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.4 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Renault Megane E-Tech Techno offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 300 Nm (221 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.4 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 65 kWh and a net usable capacity of 60 kWh, providing an 5 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 65 kWh and a net usable capacity of 60 kWh, providing an 5 kWh buffer (7.7%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 450 to 429 km (280-267 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.3 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

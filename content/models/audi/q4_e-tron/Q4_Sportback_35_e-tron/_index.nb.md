@@ -33,13 +33,13 @@ Audi Q4 Sportback 35 e-tron tilbyr beskjedne ytelser med en maksimal effekt på 
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 55kWh og en nettokapasitet på 51,5kWh, noe som betyr at du har et 3,5kWh-buffer for beskyttelse. (6,4%).
+Høykapasitetsbatteriet har en brutto kapasitet på 55 kWh og en netto brukbar kapasitet på 51,5 kWh, som gir en buffer på 3,5 kWh (6,4%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) varierer fra 349 til 317 km, avhengig av utstyrsnivå. Større hjul er et eksempel på et utstyrsalternativ som øker forbruket og reduserer den elektriske rekkevidden. Forbruket er mellom 14,8kWh/100 km for basisversjonen og 16,2kWh/100 km for topputstyrt versjon for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 349 og 317 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,8 kWh/100 km for basismodellen og 16,2 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 125 kW. En full lading fra 0 - 100 % vil ta 44 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 57%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 81kW. Hver ladeøkt vil ta 19 minutter og 21 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 21kWh/100km, vil 1000km ta 10 timer og 18 minutter. Denne turen vil kreve syv ladeøkt(er) lading fra 6% til 50%. Totalt tapt tid for å lade opp batteriet vil være 118 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 10 timer og 18 minutter. Denne reisen ville kreve to ladestopp fra 6% til 50%, med en total ladetid på 118 minutter.
 
 ### Ombordlader
 

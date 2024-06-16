@@ -36,40 +36,40 @@ El Tesla Model Y Standard Range ofrece un rendimiento sólido con una potencia m
 Tesla Model Y Standard Range tiene cuatro opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
 ### CATL LFP Europa/China market
 
-La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 55kWh, lo que significa que tienes un buffer de 5kWh para protección. (8,3%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 55 kWh, proporcionando un buffer de 5 kWh (8,3%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 52 minutos, mientras que un escenario más común del 10 al 80 % tardaría 27 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 47%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 89kW. Cada sesión de carga tardaría 17 minutos y 30 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 19,5kWh/100 km, 1000 km tomarán 9 horas y 55 minutos. Este viaje requerirá cinco sesiones de carga del 0 % al 51 %. El tiempo total perdido para cargar la batería será de 95 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 0% al 51%, con un tiempo total de carga de 95 minutos.
 ### BYD LFP Europa/China market
 
-La batería tiene una capacidad bruta de 60kWh y una capacidad neta de 55kWh, lo que significa que tienes un buffer de 5kWh para protección. (8,3%). La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 55 kWh, proporcionando un buffer de 5 kWh (8,3%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 37 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 113kW. Cada sesión de carga tardaría 18 minutos y 28 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 19,5kWh/100 km, 1000 km tomarán 9 horas y 35 minutos. Este viaje requerirá cuatro sesiones de carga del 0 % al 64 %. El tiempo total perdido para cargar la batería será de 75 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 35 minutos. Este viaje requeriría dos paradas de carga del 0% al 64%, con un tiempo total de carga de 75 minutos.
 ### NMC 4850 US Market
 
-La batería tiene una capacidad bruta de 70kWh y una capacidad neta de 68,5kWh, lo que significa que tienes un buffer de 1,5kWh para protección. (2,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 70 kWh y una capacidad neta utilizable de 68,5 kWh, proporcionando un buffer de 1,5 kWh (2,1%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 36%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 82kW. Cada sesión de carga tardaría 18 minutos y 60 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 19,5kWh/100 km, 1000 km tomarán 9 horas y 52 minutos. Este viaje requerirá cinco sesiones de carga del 0 % al 37 %. El tiempo total perdido para cargar la batería será de 93 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 52 minutos. Este viaje requeriría dos paradas de carga del 0% al 37%, con un tiempo total de carga de 93 minutos.
 ### NMC 21700 US Market Software locked
 
-La batería tiene una capacidad bruta de 70kWh y una capacidad neta de 68,5kWh, lo que significa que tienes un buffer de 1,5kWh para protección. (2,1%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 70 kWh y una capacidad neta utilizable de 68,5 kWh, proporcionando un buffer de 1,5 kWh (2,1%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 430 km (267 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 40 minutos, mientras que un escenario más común del 10 al 80 % tardaría 23 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 111kW. Cada sesión de carga tardaría 22 minutos y 49 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 19,5kWh/100 km, 1000 km tomarán 9 horas y 28 minutos. Este viaje requerirá tres sesiones de carga del 0 % al 62 %. El tiempo total perdido para cargar la batería será de 69 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 28 minutos. Este viaje requeriría dos paradas de carga del 0% al 62%, con un tiempo total de carga de 69 minutos.
 
 ### Cargador a bordo
 

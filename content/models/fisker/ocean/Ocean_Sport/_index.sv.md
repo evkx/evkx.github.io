@@ -33,13 +33,13 @@ Med overboost når Fisker Ocean Sport en maximal effekt på 209 kW (284 hk). Uta
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 73kWh och en nettokapacitet på 70kWh, vilket innebär att du har en 3kWh buffert för skydd. (4,1%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 73 kWh och en nettoanvändbar kapacitet på 70 kWh, vilket ger en buffert på 3 kWh (4,1%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 464 km. Förbrukningen är 15,1kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 464 km. Förbrukningen är 15,1kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 125 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 86kW. Varje laddningssession tar 30 minuter och 40 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 29kWh/100km, tar 1000km 10 timmar och 53 minuter. Den här resan kommer att kräva fem laddningssession(er) laddning från 1% till 64%. Total tid som går förlorad för att ladda batteriet kommer att vara 154 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 29 kWh/100 km, skulle resan ta ungefär 10 timmar och 53 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 64%, med en total laddningstid på 154 minuter.
 
 ### Inbyggd laddare
 

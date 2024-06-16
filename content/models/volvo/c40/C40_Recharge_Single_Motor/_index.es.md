@@ -39,13 +39,13 @@ El Volvo C40 Recharge Single Motor ofrece un rendimiento modesto con una potenci
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 69kWh y una capacidad neta de 66kWh, lo que significa que tienes un buffer de 3kWh para protección. (4,3%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 69 kWh y una capacidad neta utilizable de 66 kWh, proporcionando un buffer de 3 kWh (4,3%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 478 a 466 km (297-290 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 13,8kWh/100 km para la versión básica y 14,2kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 478 y 466 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,8 kWh/100 km para el modelo base y 14,2 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 205kW. Una carga completa del 0 al 100 % tardaría 85 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 54%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 90kW. Cada sesión de carga tardaría 21 minutos y 28 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 28kWh/100 km, 1000 km tomarán 10 horas y 44 minutos. Este viaje requerirá siete sesiones de carga del 5 % al 52 %. El tiempo total perdido para cargar la batería será de 144 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 28 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 44 minutos. Este viaje requeriría dos paradas de carga del 5% al 52%, con un tiempo total de carga de 144 minutos.
 
 ### Cargador a bordo
 

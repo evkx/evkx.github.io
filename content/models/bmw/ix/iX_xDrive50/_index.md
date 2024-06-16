@@ -29,11 +29,11 @@ We have separated our BMW iX xDrive50 article into sections. If you want to wait
 
 ## Performance
 
-The BMW iX xDrive50 delivers a solid performance with a maximum power of 385 kW (524 hp / 516 bhp) and a total torque of 765 Nm (565 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The BMW iX xDrive50 delivers a solid performance with a maximum power of 385 kW (524 hp / 516 bhp) and a total torque of 765 Nm (565 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 111 kWh and a net usable capacity of 105,2 kWh, providing an 5,8 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 111 kWh and a net usable capacity of 105,2 kWh, providing an 5,8 kWh buffer (5.2%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 631 to 550 km (392-342 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.7 kWh/100 km for the base model and 19.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

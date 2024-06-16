@@ -33,13 +33,13 @@ El Nio ET9 impresiona con una potencia máxima de 520 kW (707 hp) y un impresion
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 120kWh y una capacidad neta de 112kWh, lo que significa que tienes un buffer de 8kWh para protección. (6,7%).
+La batería de alta capacidad tiene una capacidad bruta de 120 kWh y una capacidad neta utilizable de 112 kWh, proporcionando un buffer de 8 kWh (6,7%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 720 km (448 mi). El consumo es de 15,6kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 720 km (448 mi). El consumo es de 15,6kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 600kW. Una carga completa del 0 al 100 % tardaría 31 minutos, mientras que un escenario más común del 10 al 80 % tardaría 14 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 266kW. Cada sesión de carga tardaría 15 minutos y 41 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 8 horas y 45 minutos. Este viaje requerirá dos sesiones de carga del 6 % al 55 %. El tiempo total perdido para cargar la batería será de 25 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 45 minutos. Este viaje requeriría dos paradas de carga del 6% al 55%, con un tiempo total de carga de 25 minutos.
 
 ### Cargador a bordo
 

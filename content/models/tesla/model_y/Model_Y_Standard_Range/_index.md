@@ -29,14 +29,14 @@ We have separated our Tesla Model Y Standard Range article into sections. If you
 
 ## Performance
 
-The Tesla Model Y Standard Range delivers a solid performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 420 Nm (310 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and reaches a top speed of 217 km/h (135 mph), making it competitive within its class.
+The Tesla Model Y Standard Range delivers a solid performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 420 Nm (310 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and reaches a top speed of 217 km/h (135 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
 Tesla Model Y Standard Range has four battery options with different specifications. Below you see how this affects range and charging.
 ### CATL LFP Europa/China market
 
-The electric vehicle features a high-capacity battery with a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing an 5 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing an 5 kWh buffer (8.3%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -45,7 +45,7 @@ The vehicle supports fast DC charging with a maximum power of 250 kW. Charging f
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 55 minutes. This journey would require five charging stops from 0% to 51%, with a total charging time of 95 minutes.
 ### BYD LFP Europa/China market
 
-The electric vehicle features a high-capacity battery with a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing an 5 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing an 5 kWh buffer (8.3%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -54,7 +54,7 @@ The vehicle supports fast DC charging with a maximum power of 250 kW. Charging f
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 35 minutes. This journey would require four charging stops from 0% to 64%, with a total charging time of 75 minutes.
 ### NMC 4850 US Market
 
-The electric vehicle features a high-capacity battery with a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing an 1,5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing an 1,5 kWh buffer (2.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -63,7 +63,7 @@ The vehicle supports fast DC charging with a maximum power of 250 kW. Charging f
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 52 minutes. This journey would require five charging stops from 0% to 37%, with a total charging time of 93 minutes.
 ### NMC 21700 US Market Software locked
 
-The electric vehicle features a high-capacity battery with a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing an 1,5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing an 1,5 kWh buffer (2.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 mi). The consumption is 12.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

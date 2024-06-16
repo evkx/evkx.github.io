@@ -29,11 +29,11 @@ We have separated our XPENG G3i article into sections. If you want to wait to re
 
 ## Performance
 
-The XPENG G3i offers modest performance with a maximum power of 145 kW (197 hp / 194 bhp) and a total torque of 300 Nm (221 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
+The XPENG G3i offers modest performance with a maximum power of 145 kW (197 hp / 194 bhp) and a total torque of 300 Nm (221 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 66 kWh and a net usable capacity of 55,9 kWh, providing an 10,1 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 66 kWh and a net usable capacity of 55,9 kWh, providing an 10,1 kWh buffer (15.3%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 420 km (261 mi). The consumption is 13.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

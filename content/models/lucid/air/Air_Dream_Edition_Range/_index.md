@@ -29,11 +29,11 @@ We have separated our Lucid Air Dream Edition Range article into sections. If yo
 
 ## Performance
 
-The Lucid Air Dream Edition Range delivers a jaw-dropping maximum power of 696 KW (946 hp/933 bhp) and a massive total torque of 1390 Nm (1026 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.9 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 270 km/h (168 mph), making it a true marvel of engineering and performance.
+The Lucid Air Dream Edition Range delivers a jaw-dropping maximum power of 696 KW (946 hp/933 bhp) and a massive total torque of 1390 Nm (1026 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.9 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 270 km/h (168 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (0.8%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 883 to 828 km (549-515 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.3 kWh/100 km for the base model and 14.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

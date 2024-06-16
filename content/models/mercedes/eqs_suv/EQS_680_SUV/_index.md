@@ -29,11 +29,11 @@ We have separated our Mercedes-Maybach EQS 680 SUV article into sections. If you
 
 ## Performance
 
-The Mercedes-Maybach EQS 680 SUV packs an impressive punch with a maximum power of 484 kW (658 hp / 649 bhp) and a commanding total torque of 950 Nm (701 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.4 seconds, and it reaches a top speed of 210 km/h (131 mph), making it a standout in its class.
+The Mercedes-Maybach EQS 680 SUV packs an impressive punch with a maximum power of 484 kW (658 hp / 649 bhp) and a commanding total torque of 950 Nm (701 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.4 seconds, and it reaches a top speed of 210 km/h (131 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 125 kWh and a net usable capacity of 118 kWh, providing an 7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 125 kWh and a net usable capacity of 118 kWh, providing an 7 kWh buffer (5.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 612 to 560 km (380-348 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 19.3 kWh/100 km for the base model and 21.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

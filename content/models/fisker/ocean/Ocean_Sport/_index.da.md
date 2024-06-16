@@ -33,13 +33,13 @@ Med overboost når Fisker Ocean Sport en maksimal effekt på 209 kW (284 hk). Ud
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 73kWh og en nettokapacitet på 70kWh, hvilket betyder, at du har en 3kWh buffer til beskyttelse. (4,1%). Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 73 kWh og en nettoanvendelig kapacitet på 70 kWh, hvilket giver en buffer på 3 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 464 km (288 mi). Forbruget er 15,1kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 464 km (288 mi). Forbruget er 15,1kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 125kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 86kW. Hver opladningssession ville tage 30 minutter og 40 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 29kWh/100 km, vil 1000 km tage 10 timer og 53 minutter. Denne tur vil kræve fem opladningssession(er) opladning fra 1 % til 64%. Den samlede tid, der går tabt for at oplade batteriet, vil være 154 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 29 kWh/100 km, ville turen tage cirka 10 timer og 53 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 64%, med en samlet opladningstid på 154 minutter
 
 ### Indbygget oplader
 

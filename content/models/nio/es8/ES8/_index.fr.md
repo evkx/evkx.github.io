@@ -36,22 +36,22 @@ La Nio ES8 impressionne avec une puissance maximale de 400 kW (544 ch) et un cou
 Nio ES8 propose deux options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
 ### 100kWh
 
-La batterie a une capacité brute de 100kWh et une capacité nette de 90kWh, ce qui signifie que vous disposez d'une réserve de 10kWh pour la protection. (10,0%).
+La batterie haute capacité a une capacité brute de 100 kWh et une capacité nette utilisable de 90 kWh, offrant une réserve de 10 kWh (10,0%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 460 km (286 mi). La consommation est de 19,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 460 km (286 mi). La consommation est de 19,6kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 126kW. Une charge complète de 0 à 100 % prendrait 83 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 43 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 72 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 79kW. Chaque session de charge prendrait 44 minutes et 24 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 30kWh/100 km, 1 000 km prendront 11 heures et 1 minutes. Ce trajet nécessitera quatre sessions de charge de 8 % à 67 %. Le temps total perdu pour charger la batterie sera de 162 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 11 heures et 1 minutes. Ce trajet nécessiterait deux arrêts de recharge de 8% à 67%, avec un temps de recharge total de 162 minutes.
 ### 75kWh
 
-La batterie a une capacité brute de 75kWh et une capacité nette de 70,5kWh, ce qui signifie que vous disposez d'une réserve de 4,5kWh pour la protection. (6,0%).
+La batterie haute capacité a une capacité brute de 75 kWh et une capacité nette utilisable de 70,5 kWh, offrant une réserve de 4,5 kWh (6,0%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 350 km (218 mi). La consommation est de 19,6kWh/100km pour le test standard WLTP. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 350 km (218 mi). La consommation est de 19,6kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 140kW. Une charge complète de 0 à 100 % prendrait 65 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 74 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 77kW. Chaque session de charge prendrait 37 minutes et 57 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 30kWh/100 km, 1 000 km prendront 11 heures et 22 minutes. Ce trajet nécessitera cinq sessions de charge de 7 % à 73 %. Le temps total perdu pour charger la batterie sera de 182 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 11 heures et 22 minutes. Ce trajet nécessiterait deux arrêts de recharge de 7% à 73%, avec un temps de recharge total de 182 minutes.
 
 ### Chargeur embarqué
 

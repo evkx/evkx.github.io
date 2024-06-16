@@ -33,13 +33,13 @@ Xiaomi SU7 Max imponerar med en imponerande kraft på 495 kW (673 hk) och ett im
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 101kWh och en nettokapacitet på 99kWh, vilket innebär att du har en 2kWh buffert för skydd. (2,0%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 101 kWh och en nettoanvändbar kapacitet på 99 kWh, vilket ger en buffert på 2 kWh (2,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 800 km ( miles). Förbrukningen är 12,4kw/100km för CLTC-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 800 km ( miles). Förbrukningen är 12,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 40 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 182kW. Varje laddningssession tar 23 minuter och 12 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 17kWh/100km, tar 1000km 8 timmar och 43 minuter. Den här resan kommer att kräva en laddningssession(er) laddning från 3% till 75%. Total tid som går förlorad för att ladda batteriet kommer att vara 24 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 17 kWh/100 km, skulle resan ta ungefär 8 timmar och 43 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 75%, med en total laddningstid på 24 minuter.
 
 ### Inbyggd laddare
 

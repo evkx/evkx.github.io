@@ -29,11 +29,11 @@ We have separated our Hyundai Ioniq 5 N article into sections. If you want to wa
 
 ## Performance
 
-With overboost, the Hyundai Ioniq 5 N reaches a maximum power of 478 kW (650 hp / 641 bhp). Without overboost, it provides a strong 448 kW (609 hp / 601 bhp). The maxium torque is at 770 Nm (568 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.4 seconds and reaches a top speed of 260 km/h (162 mph), showcasing its impressive performance.
+With overboost, the Hyundai Ioniq 5 N reaches a maximum power of 478 kW (650 hp / 641 bhp). Without overboost, it provides a strong 448 kW (609 hp / 601 bhp). The maxium torque is at 770 Nm (568 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.4 seconds and reaches a top speed of 260 km/h (162 mph), showcasing its impressive performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 84 kWh and a net usable capacity of 80 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 84 kWh and a net usable capacity of 80 kWh, providing an 4 kWh buffer (4.8%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 450 km (280 mi). The consumption is 17.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

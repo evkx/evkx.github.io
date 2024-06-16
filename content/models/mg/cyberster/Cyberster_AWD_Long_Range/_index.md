@@ -29,11 +29,11 @@ We have separated our MG Cyberster AWD Long Range article into sections. If you 
 
 ## Performance
 
-The MG Cyberster AWD Long Range packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 725 Nm (535 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.2 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+The MG Cyberster AWD Long Range packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 725 Nm (535 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.2 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 77 kWh and a net usable capacity of 74,4 kWh, providing an 2,6 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 77 kWh and a net usable capacity of 74,4 kWh, providing an 2,6 kWh buffer (3.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [CLTC range](../../../../guides/understandingrange/cltc/) is 520 km ( miles). The consumption is 14.3kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

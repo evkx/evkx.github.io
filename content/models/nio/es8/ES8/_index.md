@@ -29,14 +29,14 @@ We have separated our Nio ES8 article into sections. If you want to wait to read
 
 ## Performance
 
-The Nio ES8 packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 725 Nm (535 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+The Nio ES8 packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 725 Nm (535 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
 Nio ES8 has two battery options with different specifications. Below you see how this affects range and charging.
 ### 100kWh
 
-The electric vehicle features a high-capacity battery with a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing an 10 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing an 10 kWh buffer (10.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 460 km (286 mi). The consumption is 19.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -45,7 +45,7 @@ The vehicle supports fast DC charging with a maximum power of 126 kW. Charging f
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 11 hours and 1 minutes. This journey would require four charging stops from 8% to 67%, with a total charging time of 162 minutes.
 ### 75kWh
 
-The electric vehicle features a high-capacity battery with a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing an 4,5 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing an 4,5 kWh buffer (6.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 350 km (218 mi). The consumption is 19.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

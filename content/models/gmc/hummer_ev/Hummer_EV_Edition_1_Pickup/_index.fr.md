@@ -33,13 +33,13 @@ La GMC Hummer EV Edition 1 Pickup délivre une puissance maximale impressionnant
 
 ## Batterie, autonomie et charge
 
-La batterie a une capacité brute de 220kWh et une capacité nette de 213kWh, ce qui signifie que vous disposez d'une réserve de 7kWh pour la protection. (3,2%). La batterie Lithium-Ion utilise la [technologie NMC.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 220 kWh et une capacité nette utilisable de 213 kWh, offrant une réserve de 7 kWh (3,2%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 329 miles (529 km). La consommation est de 1,5mi/kWh pour le test standard de l'EPA. Pour plus de détails sur l'autonomie, consultez les données réelles et la liste de l'autonomie sur la page [autonomie et consommation](autonomie et consommation/) de ce modèle.
+La [plage EPA](../../../../guides/understandingrange/epa/) est de 329 miles (529 km). La consommation est de 1,5mi/kWh pour le test standard de l'EPA. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 139 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 48 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 52 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 245kW. Chaque session de charge prendrait 27 minutes et 39 secondes.
 
-Pour le défi théorique de 1 000 km, en commençant avec une batterie pleine et en roulant à 120 km/h (75 mph), en supposant des conditions de conduite optimales et une consommation de 43kWh/100 km, 1 000 km prendront 9 heures et 13 minutes. Ce trajet nécessitera deux sessions de charge de 1 % à 52 %. Le temps total perdu pour charger la batterie sera de 53 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 43 kWh/100 km, le voyage prendrait environ 9 heures et 13 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 52%, avec un temps de recharge total de 53 minutes.
 
 ### Chargeur embarqué
 

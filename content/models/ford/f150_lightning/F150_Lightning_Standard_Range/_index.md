@@ -29,11 +29,11 @@ We have separated our Ford F150 Lightning Standard Range article into sections. 
 
 ## Performance
 
-The Ford F150 Lightning Standard Range packs an impressive punch with a maximum power of 433 kW (589 hp / 581 bhp) and a commanding total torque of 1050 Nm (775 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.2 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
+The Ford F150 Lightning Standard Range packs an impressive punch with a maximum power of 433 kW (589 hp / 581 bhp) and a commanding total torque of 1050 Nm (775 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.2 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 110 kWh and a net usable capacity of 98 kWh, providing an 12 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 98 kWh, providing an 12 kWh buffer (10.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 427 km (265 mi). The consumption is 23.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

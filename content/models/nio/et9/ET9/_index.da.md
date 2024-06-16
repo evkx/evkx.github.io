@@ -33,13 +33,13 @@ Nio ET9 imponerer med en maksimal effekt på 520 kW (707 hk) og et imponerende s
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 112kWh, hvilket betyder, at du har en 8kWh buffer til beskyttelse. (6,7%).
+Det højkapacitetsbatteri har en bruttokapacitet på 120 kWh og en nettoanvendelig kapacitet på 112 kWh, hvilket giver en buffer på 8 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 720 km (448 mi). Forbruget er 15,6kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 720 km (448 mi). Forbruget er 15,6kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 600kW. En fuld opladning fra 0 - 100 % ville tage 31 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 14 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 266kW. Hver opladningssession ville tage 15 minutter og 41 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 22kWh/100 km, vil 1000 km tage 8 timer og 45 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 6 % til 55%. Den samlede tid, der går tabt for at oplade batteriet, vil være 25 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 8 timer og 45 minutter. Denne rejse ville kræve to opladningsstop fra 6% til 55%, med en samlet opladningstid på 25 minutter
 
 ### Indbygget oplader
 

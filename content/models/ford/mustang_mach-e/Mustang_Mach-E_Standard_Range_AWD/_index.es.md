@@ -33,13 +33,13 @@ El Ford Mustang Mach-E Standard Range AWD ofrece un rendimiento sólido con una 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 75,7kWh y una capacidad neta de 70kWh, lo que significa que tienes un buffer de 5,7kWh para protección. (7,5%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 75,7 kWh y una capacidad neta utilizable de 70 kWh, proporcionando un buffer de 5,7 kWh (7,5%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 17,5kWh/100 km para la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango WLTP](../../../../guides/understandingrange/wltp/) es 400 km (249 mi). El consumo es de 17,5kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 117 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 46%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 80kW. Cada sesión de carga tardaría 22 minutos y 3 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 24kWh/100 km, 1000 km tomarán 10 horas y 29 minutos. Este viaje requerirá seis sesiones de carga del 5 % al 46 %. El tiempo total perdido para cargar la batería será de 129 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 29 minutos. Este viaje requeriría dos paradas de carga del 5% al 46%, con un tiempo total de carga de 129 minutos.
 
 ### Cargador a bordo
 

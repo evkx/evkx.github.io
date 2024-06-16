@@ -29,11 +29,11 @@ We have separated our Lucid Gravity Dream Edition article into sections. If you 
 
 ## Performance
 
-The Lucid Gravity Dream Edition packs an impressive punch with a maximum power of 600 kW (816 hp / 805 bhp) and a commanding total torque of 1000 Nm (738 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
+The Lucid Gravity Dream Edition packs an impressive punch with a maximum power of 600 kW (816 hp / 805 bhp) and a commanding total torque of 1000 Nm (738 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 124 kWh and a net usable capacity of 122 kWh, providing an 2 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 124 kWh and a net usable capacity of 122 kWh, providing an 2 kWh buffer (1.6%) for battery protection.
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 440 miles (708 km). The consumption is 3.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

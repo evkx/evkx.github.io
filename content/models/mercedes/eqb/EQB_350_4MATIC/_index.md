@@ -29,11 +29,11 @@ We have separated our Mercedes-EQ EQB 350 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQB 350 4MATIC offers modest performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 520 Nm (384 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Mercedes-EQ EQB 350 4MATIC offers modest performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 520 Nm (384 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 69,7 kWh and a net usable capacity of 66,5 kWh, providing an 3,2 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 69,7 kWh and a net usable capacity of 66,5 kWh, providing an 3,2 kWh buffer (4.6%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 423 to 388 km (263-241 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.7 kWh/100 km for the base model and 17.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

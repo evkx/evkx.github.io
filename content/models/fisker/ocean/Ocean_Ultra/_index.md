@@ -29,11 +29,11 @@ We have separated our Fisker Ocean Ultra article into sections. If you want to w
 
 ## Performance
 
-With overboost, the Fisker Ocean Ultra reaches a maximum power of 400 kW (544 hp / 536 bhp). Without overboost, it provides a strong 344 kW (468 hp / 461 bhp). The maxium torque is at 737 Nm (544 ft-lb). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 4.2 seconds and reaches a top speed of 205 km/h (127 mph), showcasing its impressive performance.
+With overboost, the Fisker Ocean Ultra reaches a maximum power of 400 kW (544 hp / 536 bhp). Without overboost, it provides a strong 344 kW (468 hp / 461 bhp). The maxium torque is at 737 Nm (544 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 4.2 seconds and reaches a top speed of 205 km/h (127 mph), showcasing its impressive performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 113 kWh and a net usable capacity of 106,5 kWh, providing an 6,5 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 113 kWh and a net usable capacity of 106,5 kWh, providing an 6,5 kWh buffer (5.8%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 690 km (429 mi). The consumption is 15.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

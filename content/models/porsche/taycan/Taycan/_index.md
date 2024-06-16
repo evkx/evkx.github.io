@@ -31,14 +31,14 @@ We have separated our Porsche Taycan article into sections. If you want to wait 
 
 
 
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan reaches a maximum power of 320 kW (435 hp / 429 bhp). Without overboost, it delivers 320 kW (435 hp / 429 bhp). The maximum torque is 420 Nm (310 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance. With overboost, the Porsche Taycan reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 300 kW (408 hp / 402 bhp). The maximum torque is 410 Nm (303 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan reaches a maximum power of 320 kW (435 hp / 429 bhp). Without overboost, it delivers 320 kW (435 hp / 429 bhp). The maximum torque is 420 Nm (310 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance. With overboost, the Porsche Taycan reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 300 kW (408 hp / 402 bhp). The maximum torque is 410 Nm (303 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
 
 ## Battery, range, and charging
 
 Porsche Taycan has two battery options with different specifications. Below you see how this affects range and charging.
 ### Performance Battery Plus
 
-The electric vehicle features a high-capacity battery with a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (7.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 678 to 579 km (421-360 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.3 kWh/100 km for the base model and 16.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -47,7 +47,7 @@ The vehicle supports fast DC charging with a maximum power of 320 kW. Charging f
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 8 hours and 52 minutes. This journey would require two charging stops from 5% to 64%, with a total charging time of 33 minutes.
 ### Performance Battery
 
-The electric vehicle features a high-capacity battery with a gross capacity of 89 kWh and a net usable capacity of 83,6 kWh, providing an 5,4 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 83,6 kWh, providing an 5,4 kWh buffer (6.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 590 to 503 km (367-313 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.3 kWh/100 km for the base model and 16.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,13 +33,13 @@ Peugot E-5008 Long Range erbjuder blygsamma prestanda med en maximal effekt på 
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 103kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 5kWh buffert för skydd. (4,9%). Litiumjonbatteriet använder [NMC-teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 103 kWh och en nettoanvändbar kapacitet på 98 kWh, vilket ger en buffert på 5 kWh (4,9%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 660 km. Förbrukningen är 14,8kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 660 km. Förbrukningen är 14,8kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 160 kW. En full laddning från 0 - 100 % tar 110 minuter, medan ett vanligare scenario på 10-80 % tar 56 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 56%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 74kW. Varje laddningssession tar 41 minuter och 45 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 25kWh/100km, tar 1000km 10 timmar och 24 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 5% till 57%. Total tid som går förlorad för att ladda batteriet kommer att vara 125 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 10 timmar och 24 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 57%, med en total laddningstid på 125 minuter.
 
 ### Inbyggd laddare
 

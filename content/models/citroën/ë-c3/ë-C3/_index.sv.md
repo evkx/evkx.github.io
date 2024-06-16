@@ -33,13 +33,13 @@ Citroën ë-C3 erbjuder grundläggande prestanda med en maximal effekt på 83 kW
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 44kWh och en nettokapacitet på 43kWh, vilket innebär att du har en 1kWh buffert för skydd. (2,3%). Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 44 kWh och en nettoanvändbar kapacitet på 43 kWh, vilket ger en buffert på 1 kWh (2,3%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 320 km. Förbrukningen är 13,4kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 320 km. Förbrukningen är 13,4kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 64 minuter, medan ett vanligare scenario på 10-80 % tar 25 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 13% till 69%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 64kW. Varje laddningssession tar 23 minuter och 34 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 11 timmar och 25 minuter. Den här resan kommer att kräva nio laddningssession(er) laddning från 15% till 66%. Total tid som går förlorad för att ladda batteriet kommer att vara 186 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 11 timmar och 25 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 66%, med en total laddningstid på 186 minuter.
 
 ### Inbyggd laddare
 

@@ -33,13 +33,13 @@ Med overboost når Hyundai Ioniq 5 N en maksimal effekt på 478 kW (650 hk / 641
 
 ## Batteri, rekkevidde og lading
 
-Batteriet har en bruttokapasitet på 84kWh og en nettokapasitet på 80kWh, noe som betyr at du har et 4kWh-buffer for beskyttelse. (4,8%).
+Høykapasitetsbatteriet har en brutto kapasitet på 84 kWh og en netto brukbar kapasitet på 80 kWh, som gir en buffer på 4 kWh (4,8%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 450 km. Forbruket er 17,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rekkevidden, se virkelige data og rekkevidde på denne modellens [rekkevidde og forbruk](rangeandconsumption/)-side.
+[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 450 km. Forbruket er 17,8kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 41 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 76%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 154kW. Hver ladeøkt vil ta 23 minutter og 21 sekunder.
 
-For den teoretiske 1000km-utfordringen, å starte med fullt batteri og kjøre i 120km/t (75 mph), forutsatt optimale kjøreforhold og forbruk på 26kWh/100km, vil 1000km ta 9 timer og 30 minutter. Denne turen vil kreve tre ladeøkt(er) lading fra 1% til 76%. Totalt tapt tid for å lade opp batteriet vil være 70 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 26 kWh/100 km, ville turen ta omtrent 9 timer og 30 minutter. Denne reisen ville kreve to ladestopp fra 1% til 76%, med en total ladetid på 70 minutter.
 
 ### Ombordlader
 

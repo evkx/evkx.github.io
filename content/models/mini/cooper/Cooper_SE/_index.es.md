@@ -33,9 +33,9 @@ El Mini Cooper SE ofrece un rendimiento modesto con una potencia máxima de 160 
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 54,2kWh y una capacidad neta de 49kWh, lo que significa que tienes un buffer de 5,2kWh para protección. (9,6%).
+La batería de alta capacidad tiene una capacidad bruta de 54,2 kWh y una capacidad neta utilizable de 49 kWh, proporcionando un buffer de 5,2 kWh (9,6%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 402 a 377 km (250-234 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 12,2kWh/100 km para la versión básica y 13,0kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 402 y 377 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,2 kWh/100 km para el modelo base y 13,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 95kW. Una carga completa del 0 al 100 % tardaría 61 minutos, mientras que un escenario más común del 10 al 80 % tardaría 31 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 58%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 62kW. Cada sesión de carga tardaría 24 minutos y 12 segundos.
 

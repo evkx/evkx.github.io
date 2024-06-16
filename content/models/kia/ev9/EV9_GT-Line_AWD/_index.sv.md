@@ -33,13 +33,13 @@ Kia EV9 GT-Line AWD levererar en solid prestanda med en maximal effekt på 283 k
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 99,8kWh och en nettokapacitet på 98kWh, vilket innebär att du har en 1,8kWh buffert för skydd. (1,8%).
+Högkapacitetsbatteriet har en bruttokapacitet på 99,8 kWh och en nettoanvändbar kapacitet på 98 kWh, vilket ger en buffert på 1,8 kWh (1,8%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) varierar från 512 till 505 km, beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 19,1kWh/100 km för basversionen och 19,4kWh/100 km för den topputrustade versionen för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 512 och 505 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 19,1 kWh/100 km för basmodellen och 19,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 161kW. Varje laddningssession tar 26 minuter och 38 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 26kWh/100km, tar 1000km 9 timmar och 21 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 0% till 83%. Total tid som går förlorad för att ladda batteriet kommer att vara 62 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 26 kWh/100 km, skulle resan ta ungefär 9 timmar och 21 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 83%, med en total laddningstid på 62 minuter.
 
 ### Inbyggd laddare
 

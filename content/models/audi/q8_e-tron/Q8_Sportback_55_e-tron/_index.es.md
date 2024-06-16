@@ -33,13 +33,13 @@ Con overboost, el Audi Q8 Sportback 55 e-tron alcanza una potencia máxima de 30
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 114kWh y una capacidad neta de 104kWh, lo que significa que tienes un buffer de 10kWh para protección. (8,8%). La batería de iones de litio utiliza [tecnología NMC.](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 114 kWh y una capacidad neta utilizable de 104 kWh, proporcionando un buffer de 10 kWh (8,8%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 600 a 495 km (373-308 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 17,3kWh/100 km para la versión básica y 21,0kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 600 y 495 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 17,3 kWh/100 km para el modelo base y 21,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 170kW. Una carga completa del 0 al 100 % tardaría 65 minutos, mientras que un escenario más común del 10 al 80 % tardaría 31 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 74%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 122kW. Cada sesión de carga tardaría 36 minutos y 22 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 25kWh/100 km, 1000 km tomarán 9 horas y 32 minutos. Este viaje requerirá dos sesiones de carga del 3 % al 74 %. El tiempo total perdido para cargar la batería será de 73 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 32 minutos. Este viaje requeriría dos paradas de carga del 3% al 74%, con un tiempo total de carga de 73 minutos.
 
 ### Cargador a bordo
 

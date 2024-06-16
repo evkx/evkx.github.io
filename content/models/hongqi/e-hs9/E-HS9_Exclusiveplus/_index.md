@@ -29,11 +29,11 @@ We have separated our Hongqi E-HS9 Exclusive+ article into sections. If you want
 
 ## Performance
 
-The Hongqi E-HS9 Exclusive+ packs an impressive punch with a maximum power of 405 kW (551 hp / 543 bhp) and a commanding total torque of 670 Nm (494 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+The Hongqi E-HS9 Exclusive+ packs an impressive punch with a maximum power of 405 kW (551 hp / 543 bhp) and a commanding total torque of 670 Nm (494 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 120 kWh and a net usable capacity of 110 kWh, providing an 10 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 110 kWh, providing an 10 kWh buffer (8.3%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 515 km (320 mi). The consumption is 21.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

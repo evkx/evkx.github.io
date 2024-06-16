@@ -29,11 +29,11 @@ We have separated our Ford Mustang Mach-E Long Range RWD article into sections. 
 
 ## Performance
 
-The Ford Mustang Mach-E Long Range RWD offers modest performance with a maximum power of 216 kW (294 hp / 290 bhp) and a total torque of 430 Nm (317 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Ford Mustang Mach-E Long Range RWD offers modest performance with a maximum power of 216 kW (294 hp / 290 bhp) and a total torque of 430 Nm (317 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 98,8 kWh and a net usable capacity of 92 kWh, providing an 6,8 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 98,8 kWh and a net usable capacity of 92 kWh, providing an 6,8 kWh buffer (6.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 mi). The consumption is 15.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

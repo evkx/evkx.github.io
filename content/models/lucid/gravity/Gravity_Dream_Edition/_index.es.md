@@ -33,13 +33,13 @@ El Lucid Gravity Dream Edition impresiona con una potencia máxima de 600 kW (81
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 124kWh y una capacidad neta de 122kWh, lo que significa que tienes un buffer de 2kWh para protección. (1,6%).
+La batería de alta capacidad tiene una capacidad bruta de 124 kWh y una capacidad neta utilizable de 122 kWh, proporcionando un buffer de 2 kWh (1,6%) para la protección de la batería.
 
-El [rango EPA](../../../../guides/understandingrange/epa/) es 440 millas (708 km). El consumo es 3,6mi/kWh para la prueba estándar de la EPA. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+El [rango EPA](../../../../guides/understandingrange/epa/) es 440 millas (708 km). El consumo es 3,6mi/kWh para la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 81 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 176kW. Cada sesión de carga tardaría 18 minutos y 16 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 21kWh/100 km, 1000 km tomarán 8 horas y 51 minutos. Este viaje requerirá dos sesiones de carga del 1 % al 38 %. El tiempo total perdido para cargar la batería será de 31 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 51 minutos. Este viaje requeriría dos paradas de carga del 1% al 38%, con un tiempo total de carga de 31 minutos.
 
 ### Cargador a bordo
 

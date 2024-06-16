@@ -33,13 +33,13 @@ El Toyota bZ4X FWD ofrece un rendimiento modesto con una potencia máxima de 160
 
 ## Batería, autonomía y carga
 
-La batería tiene una capacidad bruta de 71,4kWh y una capacidad neta de 58kWh, lo que significa que tienes un buffer de 13,4kWh para protección. (18,8%).
+La batería de alta capacidad tiene una capacidad bruta de 71,4 kWh y una capacidad neta utilizable de 58 kWh, proporcionando un buffer de 13,4 kWh (18,8%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) varía de 516 a 442 km (321-275 mi), dependiendo de las opciones del coche. Las ruedas más grandes son un ejemplo de una opción de equipamiento que aumenta el consumo y reduce la autonomía eléctrica. El consumo está entre 11,2kWh/100 km para la versión básica y 13,1kWh/100 km para la versión superior según la prueba estándar WLTP. Para obtener más detalles sobre el alcance, consulte los datos del mundo real y el listado de alcance en la página [rango y consumo](rangeandconsumption/) de este modelo.
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 516 y 442 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 11,2 kWh/100 km para el modelo base y 13,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 147kW. Una carga completa del 0 al 100 % tardaría 74 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 50%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 78kW. Cada sesión de carga tardaría 21 minutos y 27 segundos.
 
-Para el desafío teórico de 1000 km, comenzando con la batería llena y conduciendo a 120 km/h (75 mph), suponiendo condiciones de conducción óptimas y un consumo de 22kWh/100 km, 1000 km tomarán 10 horas y 25 minutos. Este viaje requerirá siete sesiones de carga del 6 % al 46 %. El tiempo total perdido para cargar la batería será de 126 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 25 minutos. Este viaje requeriría dos paradas de carga del 6% al 46%, con un tiempo total de carga de 126 minutos.
 
 ### Cargador a bordo
 

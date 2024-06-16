@@ -29,11 +29,11 @@ We have separated our Rimac Nevera article into sections. If you want to wait to
 
 ## Performance
 
-The Rimac Nevera delivers a jaw-dropping maximum power of 1400 KW (1904 hp/1877 bhp) and a massive total torque of 2340 Nm (1727 ft-lb). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 1.81 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 412 km/h (256 mph), making it a true marvel of engineering and performance.
+The Rimac Nevera delivers a jaw-dropping maximum power of 1400 KW (1904 hp/1877 bhp) and a massive total torque of 2340 Nm (1727 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 1.81 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 412 km/h (256 mph), making it a true marvel of engineering and performance.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 120 kWh and a net usable capacity of 106,8 kWh, providing an 13,2 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 106,8 kWh, providing an 13,2 kWh buffer (11.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 490 km (305 mi). The consumption is 21.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,13 +33,13 @@ Rivian R1S Quad-Motor AWD levererar en häpnadsväckande maximal effekt på 620 
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 135kWh och en nettokapacitet på 125kWh, vilket innebär att du har en 10kWh buffert för skydd. (7,4%).
+Högkapacitetsbatteriet har en bruttokapacitet på 135 kWh och en nettoanvändbar kapacitet på 125 kWh, vilket ger en buffert på 10 kWh (7,4%) för batteriskydd.
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 321 till 289 miles (516-465 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2,6mi/kWh för basversionen och 2,3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) sträcker sig från 321 till 289 miles (516-465 km) ) ), beroende på utrustningsnivå. Större hjul är ett exempel på ett utrustningsalternativ som ökar förbrukningen och minskar den elektriska räckvidden. Förbrukningen är mellan 2,6mi/kWh för basversionen och 2,3mi/kWh för toppspecifika versionen för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 104 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 138kW. Varje laddningssession tar 25 minuter och 30 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 30kWh/100km, tar 1000km 9 timmar och 36 minuter. Den här resan kommer att kräva tre laddningssession(er) laddning från 0% till 47%. Total tid som går förlorad för att ladda batteriet kommer att vara 77 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 30 kWh/100 km, skulle resan ta ungefär 9 timmar och 36 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 47%, med en total laddningstid på 77 minuter.
 
 ### Inbyggd laddare
 

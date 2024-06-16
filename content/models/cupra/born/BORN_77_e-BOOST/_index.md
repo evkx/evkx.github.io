@@ -29,11 +29,11 @@ We have separated our CUPRA BORN 77 e-BOOST article into sections. If you want t
 
 ## Performance
 
-With overboost, the CUPRA BORN 77 e-BOOST achieves a maximum power of 170 kW (231 hp / 228 bhp). Without overboost, it delivers 150 kW (204 hp / 201 bhp). The maximum torque is 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7 seconds and reaches a top speed of 160 km/h (99 mph), offering performance more akin to traditional internal combustion engine vehicles.
+With overboost, the CUPRA BORN 77 e-BOOST achieves a maximum power of 170 kW (231 hp / 228 bhp). Without overboost, it delivers 150 kW (204 hp / 201 bhp). The maximum torque is 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7 seconds and reaches a top speed of 160 km/h (99 mph), offering performance more akin to traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (6.1%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 548 to 492 km (341-306 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.1 kWh/100 km for the base model and 15.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

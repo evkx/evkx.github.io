@@ -33,13 +33,13 @@ Nio ET9 imponerar med en imponerande kraft på 520 kW (707 hk) och ett imponeran
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 120kWh och en nettokapacitet på 112kWh, vilket innebär att du har en 8kWh buffert för skydd. (6,7%).
+Högkapacitetsbatteriet har en bruttokapacitet på 120 kWh och en nettoanvändbar kapacitet på 112 kWh, vilket ger en buffert på 8 kWh (6,7%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 720 km. Förbrukningen är 15,6kWh/100 km för WLTP-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 720 km. Förbrukningen är 15,6kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 600 kW. En full laddning från 0 - 100 % tar 31 minuter, medan ett vanligare scenario på 10-80 % tar 14 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 266kW. Varje laddningssession tar 15 minuter och 41 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 22kWh/100km, tar 1000km 8 timmar och 45 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 6% till 55%. Total tid som går förlorad för att ladda batteriet kommer att vara 25 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 8 timmar och 45 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 55%, med en total laddningstid på 25 minuter.
 
 ### Inbyggd laddare
 

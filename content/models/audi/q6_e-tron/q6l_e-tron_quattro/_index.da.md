@@ -33,13 +33,13 @@ Audi Q6L e-tron quattro leverer en solid præstation med en maksimal effekt på 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 107kWh og en nettokapacitet på 101,5kWh, hvilket betyder, at du har en 5,5kWh buffer til beskyttelse. (5,1%). Lithium-ion-batteriet bruger [NMC-teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 107 kWh og en nettoanvendelig kapacitet på 101,5 kWh, hvilket giver en buffer på 5,5 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) varierer fra 625 til 540 km (388-336 mi), afhængig af bilmuligheder. Større hjul er et eksempel på en udstyrsmulighed, der øger forbruget og reducerer den elektriske rækkevidde. Forbruget er mellem 16,2kWh/100 km for basisversionen og 18,8kWh/100 km for toptrim-versionen til WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 625 og 540 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,2 kWh/100 km for basismodellen og 18,8 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 22 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 173kW. Hver opladningssession ville tage 20 minutter og 24 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 21,5kWh/100 km, vil 1000 km tage 8 timer og 59 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 3 % til 59%. Den samlede tid, der går tabt for at oplade batteriet, vil være 39 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21,5 kWh/100 km, ville turen tage cirka 8 timer og 59 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 59%, med en samlet opladningstid på 39 minutter
 
 ### Indbygget oplader
 

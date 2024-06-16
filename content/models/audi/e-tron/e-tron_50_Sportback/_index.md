@@ -35,11 +35,11 @@ This model has been replaced by [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-
 
 ## Performance
 
-The Audi e-tron 50 Sportback offers modest performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 540 Nm (399 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Audi e-tron 50 Sportback offers modest performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 540 Nm (399 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 71 kWh and a net usable capacity of 64 kWh, providing an 7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 71 kWh and a net usable capacity of 64 kWh, providing an 7 kWh buffer (9.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 351 to 286 km (218-178 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.2 kWh/100 km for the base model and 22.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

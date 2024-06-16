@@ -29,11 +29,11 @@ We have separated our Tesla Model 3 Long Range article into sections. If you wan
 
 ## Performance
 
-The Tesla Model 3 Long Range delivers a solid performance with a maximum power of 324 kW (441 hp / 435 bhp) and a total torque of 493 Nm (364 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 201 km/h (125 mph), making it competitive within its class.
+The Tesla Model 3 Long Range delivers a solid performance with a maximum power of 324 kW (441 hp / 435 bhp) and a total torque of 493 Nm (364 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 201 km/h (125 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 82 kWh and a net usable capacity of 75 kWh, providing an 7 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 75 kWh, providing an 7 kWh buffer (8.5%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 629 km (391 mi). The consumption is 11.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

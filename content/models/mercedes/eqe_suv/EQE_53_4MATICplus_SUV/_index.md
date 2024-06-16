@@ -29,13 +29,13 @@ We have separated our Mercedes-AMG EQE 53 4MATIC+ SUV article into sections. If 
 
 ## Performance
 
-The Mercedes-AMG EQE 53 4MATIC+ SUV packs an impressive punch with a maximum power of 460 kW (625 hp / 617 bhp) and a commanding total torque of 950 Nm (701 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds, and it reaches a top speed of 220 km/h (137 mph), making it a standout in its class.
+The Mercedes-AMG EQE 53 4MATIC+ SUV packs an impressive punch with a maximum power of 460 kW (625 hp / 617 bhp) and a commanding total torque of 950 Nm (701 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds, and it reaches a top speed of 220 km/h (137 mph), making it a standout in its class.
 
-If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ SUV packs an impressive punch with a maximum power of 505 kW (687 hp / 677 bhp) and a commanding total torque of 1000 Nm (738 ft-lb). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 240 km/h (149 mph), making it a standout in its class.
+If you are not happy enough with the standard performance, you can add the AMG Dynamic Plus performance option. Then the numbers are improved. The Mercedes-AMG EQE 53 4MATIC+ SUV packs an impressive punch with a maximum power of 505 kW (687 hp / 677 bhp) and a commanding total torque of 1000 Nm (738 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 240 km/h (149 mph), making it a standout in its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 96,12 kWh and a net usable capacity of 90,6 kWh, providing an 5,52 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 96,12 kWh and a net usable capacity of 90,6 kWh, providing an 5,52 kWh buffer (5.7%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 470 to 375 km (292-233 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 19.3 kWh/100 km for the base model and 24.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

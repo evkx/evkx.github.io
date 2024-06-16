@@ -29,11 +29,11 @@ We have separated our Mercedes-EQ EQS 580 4MATIC article into sections. If you w
 
 ## Performance
 
-The Mercedes-EQ EQS 580 4MATIC delivers a solid performance with a maximum power of 385 kW (524 hp / 516 bhp) and a total torque of 858 Nm (633 ft-lb). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.3 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
+The Mercedes-EQ EQS 580 4MATIC delivers a solid performance with a maximum power of 385 kW (524 hp / 516 bhp) and a total torque of 858 Nm (633 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.3 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 125 kWh and a net usable capacity of 118 kWh, providing an 7 kWh buffer (3.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 125 kWh and a net usable capacity of 118 kWh, providing an 7 kWh buffer (5.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 792 to 683 km (492-425 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.9 kWh/100 km for the base model and 17.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

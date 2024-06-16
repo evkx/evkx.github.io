@@ -33,13 +33,13 @@ Aion Hyper GT 710 Supercharged leverer en solid præstation med en maksimal effe
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 80,1kWh og en nettokapacitet på 77kWh, hvilket betyder, at du har en 3,1kWh buffer til beskyttelse. (3,9%).
+Det højkapacitetsbatteri har en bruttokapacitet på 80,1 kWh og en nettoanvendelig kapacitet på 77 kWh, hvilket giver en buffer på 3,1 kWh (3%) til batteribeskyttelse.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruget er 10,8kWh/100 km for CLTC-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruget er 10,8kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 16 minutter og 50 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 20kWh/100 km, vil 1000 km tage 9 timer og 9 minutter. Denne tur vil kræve tre opladningssession(er) opladning fra 2 % til 56%. Den samlede tid, der går tabt for at oplade batteriet, vil være 49 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 20 kWh/100 km, ville turen tage cirka 9 timer og 9 minutter. Denne rejse ville kræve to opladningsstop fra 2% til 56%, med en samlet opladningstid på 49 minutter
 
 ### Indbygget oplader
 

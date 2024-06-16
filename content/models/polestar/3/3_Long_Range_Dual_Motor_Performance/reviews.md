@@ -30,10 +30,17 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>FIRST DRIVE: Polestar 3 - worth the wait? | Electrifying</h3>
+<h3>FIRST DRIVE: Polestar 3 - worth the wait?</h3>
 <p>Electrifying: 10.06.2024</p>
 
 {{< youtube C3VMckSlPTE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: Polestar 3 – Swede’s luxe SUV targets BMW iX</h3>
+<p>Top Gear: 10.06.2024</p>
+
+{{< youtube IHCx-AzBXwk >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">

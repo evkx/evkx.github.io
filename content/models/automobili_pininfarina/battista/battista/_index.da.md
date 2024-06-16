@@ -33,13 +33,13 @@ Automobili Pininfarina Battista leverer en imponerende maksimal effekt på 1400 
 
 ## Batteri, rækkevidde og opladning
 
-Batteriet har en bruttokapacitet på 120kWh og en nettokapacitet på 106,8kWh, hvilket betyder, at du har en 13,2kWh buffer til beskyttelse. (11,0%).
+Det højkapacitetsbatteri har en bruttokapacitet på 120 kWh og en nettoanvendelig kapacitet på 106,8 kWh, hvilket giver en buffer på 13,2 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 21,8kWh/100 km for WLTP-standardtesten. For flere detaljer om rækkevidden, se virkelige data og rækkevidde på denne models [rækkevidde og forbrug](rangeandconsumption/) side.
+[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 21,8kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 34 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 222kW. Hver opladningssession ville tage 20 minutter og 54 sekunder.
 
-Til den teoretiske 1000 km-udfordring, der starter med fuldt batteri og kører med 120 km/t (75 mph), forudsat optimale køreforhold og forbrug på 24kWh/100 km, vil 1000 km tage 8 timer og 56 minutter. Denne tur vil kræve to opladningssession(er) opladning fra 3 % til 66%. Den samlede tid, der går tabt for at oplade batteriet, vil være 37 minutter.
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 8 timer og 56 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 66%, med en samlet opladningstid på 37 minutter
 
 ### Indbygget oplader
 

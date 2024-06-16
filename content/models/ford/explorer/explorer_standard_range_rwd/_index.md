@@ -29,11 +29,11 @@ We have separated our Ford Explorer Standard Range RWD article into sections. If
 
 ## Performance
 
-The Ford Explorer Standard Range RWD offers modest performance with a maximum power of 125 kW (170 hp / 168 bhp) and a total torque of 310 Nm (229 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Ford Explorer Standard Range RWD offers modest performance with a maximum power of 125 kW (170 hp / 168 bhp) and a total torque of 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing an 3 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing an 3 kWh buffer (5.5%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 380 km (236 mi). The consumption is 13.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

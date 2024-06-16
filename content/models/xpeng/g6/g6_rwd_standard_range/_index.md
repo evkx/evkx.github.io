@@ -29,11 +29,11 @@ We have separated our XPENG G6 RWD Standard Range article into sections. If you 
 
 ## Performance
 
-The XPENG G6 RWD Standard Range offers modest performance with a maximum power of 218 kW (296 hp / 292 bhp) and a total torque of 440 Nm (325 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and has a top speed of 202 km/h (126 mph), aligning more closely with traditional internal combustion engine vehicles.
+The XPENG G6 RWD Standard Range offers modest performance with a maximum power of 218 kW (296 hp / 292 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and has a top speed of 202 km/h (126 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 67 kWh and a net usable capacity of 66 kWh, providing an 1 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 67 kWh and a net usable capacity of 66 kWh, providing an 1 kWh buffer (1.5%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 435 km (270 mi). The consumption is 15.2kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

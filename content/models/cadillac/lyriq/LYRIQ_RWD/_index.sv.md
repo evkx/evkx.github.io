@@ -33,13 +33,13 @@ Cadillac LYRIQ RWD levererar en solid prestanda med en maximal effekt på 255 kW
 
 ## Batteri, räckvidd och laddning
 
-Batteriet har en bruttokapacitet på 110kWh och en nettokapacitet på 102kWh, vilket innebär att du har en 8kWh buffert för skydd. (7,3%).
+Högkapacitetsbatteriet har en bruttokapacitet på 110 kWh och en nettoanvändbar kapacitet på 102 kWh, vilket ger en buffert på 8 kWh (7,3%) för batteriskydd.
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 312 miles (502 km). Förbrukningen är 3,1mi/kWh för EPA-standardtestet. För mer information om sortimentet, se verkliga data och räckvidd på denna modells [räckvidd og förbruk](rangeandconsumption/) sida.
+[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 312 miles (502 km). Förbrukningen är 3,1mi/kWh för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 176 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 8% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 120kW. Varje laddningssession tar 29 minuter och 59 sekunder.
 
-För den teoretiska 1000km-utmaningen, att börja med fullt batteri och köra i 120km/h (75 mph), förutsatt optimala körförhållanden och förbrukning på 24kWh/100km, tar 1000km 9 timmar och 29 minuter. Den här resan kommer att kräva två laddningssession(er) laddning från 6% till 74%. Total tid som går förlorad för att ladda batteriet kommer att vara 70 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24 kWh/100 km, skulle resan ta ungefär 9 timmar och 29 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 74%, med en total laddningstid på 70 minuter.
 
 ### Inbyggd laddare
 

@@ -29,11 +29,11 @@ We have separated our Chevrolet Equinox EV FWD article into sections. If you wan
 
 ## Performance
 
-The Chevrolet Equinox EV FWD offers modest performance with a maximum power of 159 kW (216 hp / 213 bhp) and a total torque of 320 Nm (236 ft-lb). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7 seconds and has a top speed of 190 km/h (118 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Chevrolet Equinox EV FWD offers modest performance with a maximum power of 159 kW (216 hp / 213 bhp) and a total torque of 320 Nm (236 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7 seconds and has a top speed of 190 km/h (118 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, range, and charging
 
-The electric vehicle features a high-capacity battery with a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (3.6%) for battery protection.
+The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (4.5%) for battery protection.
 
 The [EPA range](../../../../guides/understandingrange/epa/) is 319 miles (513 km). The consumption is 3.8mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
