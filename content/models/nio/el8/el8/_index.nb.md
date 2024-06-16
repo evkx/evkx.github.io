@@ -140,7 +140,6 @@ Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner til
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 

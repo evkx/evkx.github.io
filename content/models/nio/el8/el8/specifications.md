@@ -912,7 +912,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +920,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ This model is available with a seat configuration with six seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>

@@ -140,7 +140,6 @@ La opción standard son dos sillas estilo capitán. Además, las siguientes func
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 

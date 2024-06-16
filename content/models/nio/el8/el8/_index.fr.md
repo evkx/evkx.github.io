@@ -140,7 +140,6 @@ L'option standard est deux sièges capitaine. De plus, les fonctionnalités suiv
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 L'option second est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 

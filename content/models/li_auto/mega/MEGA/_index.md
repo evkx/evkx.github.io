@@ -35,7 +35,7 @@ The Li Auto MEGA delivers a solid performance with a maximum power of 400 kW (54
 
 The high-capacity battery has a gross capacity of 102,7 kWh and a net usable capacity of 100 kWh, providing an 2,7 kWh buffer (2.6%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 710 km ( miles). The consumption is 14.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 710 km ( miles). he energy consumption is 14.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 520 kW. Charging from 0% to 100% takes approximately 22 minutes, while a more typical charging scenario from 10% to 80% takes 11 minutes with an average charging speed at 397 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 80%. This results in an effective charging speed, including time lost, of 283 kW, with each charging session taking about 17 minutes and 44 seconds..
 

@@ -35,7 +35,7 @@ The YangWang U9 delivers a jaw-dropping maximum power of 960 KW (1305 hp/1287 bh
 
 The high-capacity battery has a gross capacity of 83 kWh and a net usable capacity of 80 kWh, providing an 3 kWh buffer (3.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 465 km ( miles). The consumption is 17.2kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 465 km ( miles). he energy consumption is 17.2 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 500 kW. Charging from 0% to 100% takes approximately 44 minutes, while a more typical charging scenario from 10% to 80% takes 23 minutes with an average charging speed at 148 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 69%. This results in an effective charging speed, including time lost, of 130 kW, with each charging session taking about 25 minutes and 5 seconds..
 

@@ -912,7 +912,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +920,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

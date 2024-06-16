@@ -35,7 +35,7 @@ The BYD Seagull 38kWh kWh provides basic performance with a maximum power of 55 
 
 The high-capacity battery has a gross capacity of 38,8 kWh and a net usable capacity of 37 kWh, providing an 1,8 kWh buffer (4.6%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 405 km ( miles). The consumption is 9.1kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 405 km ( miles). he energy consumption is 9.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 40 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 42 minutes with an average charging speed at 37 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 12% to 75%. This results in an effective charging speed, including time lost, of 33 kW, with each charging session taking about 42 minutes and 9 seconds..
 

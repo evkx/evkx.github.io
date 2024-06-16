@@ -140,7 +140,6 @@ Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 

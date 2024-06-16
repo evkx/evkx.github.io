@@ -35,7 +35,7 @@ The Xiaomi SU7 offers modest performance with a maximum power of 220 kW (299 hp 
 
 The high-capacity battery has a gross capacity of 73,6 kWh and a net usable capacity of 73 kWh, providing an 0,6 kWh buffer (0.8%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-The [CLTC range](../../../../guides/understandingrange/cltc/) is 700 km ( miles). The consumption is 10.4kWh/100km for the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km ( miles). he energy consumption is 10.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical charging scenario from 10% to 80% takes 25 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 72%. This results in an effective charging speed, including time lost, of 108 kW, with each charging session taking about 28 minutes and 1 seconds..
 

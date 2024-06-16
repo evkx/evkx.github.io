@@ -912,7 +912,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +920,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

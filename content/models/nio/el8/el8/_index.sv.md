@@ -140,7 +140,6 @@ Alternativ standard är två kaptensstolar. Dessutom är följande funktioner ti
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 

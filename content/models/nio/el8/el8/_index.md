@@ -140,7 +140,6 @@ The standard option is two captain chairs. In addition, the following functional
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
-- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 The second option is two captain chairs. In addition, the following functionalities are available.
 

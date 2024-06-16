@@ -912,7 +912,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -920,7 +920,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Este modelo está disponible con una configuración de seis asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
