@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/main_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2018"  >}}
 
-We have separated our Honda Prologue AWD article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -35,7 +35,8 @@ The Honda Prologue AWD offers modest performance with a maximum power of 214 kW 
 
 The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (4.5%) for battery protection.
 
-The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 281 to 273 miles (452-439 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range. The energy consumption rates are 3.3 mi/kWh for the base model and 3.2 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 281 to 273 miles (452-439 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
+The energy consumption rates are 3.3 mi/kWh for the base model and 3.2 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 113 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 56%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 25 minutes and 56 seconds..
 

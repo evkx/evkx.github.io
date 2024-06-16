@@ -13,7 +13,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/main_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
-We have separated our Rivian R1S Quad-Motor AWD MP article into sections. If you want to wait to read the full article, click the links below to the different areas. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
 - [Battery, range, and charging](#battery-range-and-charging)
@@ -35,7 +35,8 @@ The Rivian R1S Quad-Motor AWD MP delivers a jaw-dropping maximum power of 764 KW
 
 The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 141,5 kWh, providing an 7,5 kWh buffer (5.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 321 to 340 miles (516-547 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range. The energy consumption rates are 2.3 mi/kWh for the base model and 2.4 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 321 to 340 miles (516-547 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
+The energy consumption rates are 2.3 mi/kWh for the base model and 2.4 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 220 kW. Charging from 0% to 100% takes approximately 127 minutes, while a more typical charging scenario from 10% to 80% takes 46 minutes with an average charging speed at 130 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 141 kW, with each charging session taking about 27 minutes and 5 seconds..
 

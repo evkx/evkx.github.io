@@ -35,7 +35,8 @@ Rivian R1S Quad-Motor AWD levererar en häpnadsväckande maximal effekt på 620 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 135 kWh och en nettoanvändbar kapacitet på 125 kWh, vilket ger en buffert på 10 kWh (7,4%) för batteriskydd.
 
-[EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) uppskattade räckvidd varierar mellan 321 och 289 miles (516-465 km), beroende på fordonets konfiguration och alternativ. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden. Energikonsumtionsnivåerna är 2,6 mi/kWh för basmodellen och 2,3 mi/kWh för toppmodellen, enligt EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) uppskattade räckvidd varierar mellan 321 och 289 miles (516-465 km), beroende på fordonets konfiguration och alternativ. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden.
+Energikonsumtionsnivåerna är 2,6 mi/kWh för basmodellen och 2,3 mi/kWh för toppmodellen, enligt EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 104 minuter, medan ett vanligare scenario på 10-80 % tar 42 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 138kW. Varje laddningssession tar 25 minuter och 30 sekunder.
 

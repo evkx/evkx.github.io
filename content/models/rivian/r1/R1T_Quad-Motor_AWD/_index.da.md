@@ -35,7 +35,8 @@ Rivian R1T Quad-Motor AWD leverer en imponerende maksimal effekt på 620 KW (843
 
 Det højkapacitetsbatteri har en bruttokapacitet på 135 kWh og en nettoanvendelig kapacitet på 125 kWh, hvilket giver en buffer på 10 kWh (3%) til batteribeskyttelse.
 
-[EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimerede rækkevidde varierer mellem 321 til 289 miles (516-465 km), afhængigt af bilens konfiguration og muligheder. For eksempel kan større hjul øge energiforbruget og reducere den samlede rækkevidde. Energiforbrugsraterne er 2,6 mi/kWh for basismodellen og 2,3 mi/kWh for topmodellen, ifølge EPA standardtest. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+[EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimerede rækkevidde varierer mellem 321 til 289 miles (516-465 km), afhængigt af bilens konfiguration og muligheder. For eksempel kan større hjul øge energiforbruget og reducere den samlede rækkevidde.
+Energiforbrugsraterne er 2,6 mi/kWh for basismodellen og 2,3 mi/kWh for topmodellen, ifølge EPA standardtest. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 104 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 42 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 138kW. Hver opladningssession ville tage 25 minutter og 30 sekunder.
 
