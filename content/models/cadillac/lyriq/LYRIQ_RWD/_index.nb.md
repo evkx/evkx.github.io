@@ -35,7 +35,7 @@ Cadillac LYRIQ RWD leverer solid ytelse med en maksimal effekt på 255 kW (347 h
 
 Høykapasitetsbatteriet har en brutto kapasitet på 110 kWh og en netto brukbar kapasitet på 102 kWh, som gir en buffer på 8 kWh (7,3%) for batteribeskyttelse.
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 312 miles (502 km). Forbruket er 3,1mi/kWh for EPA-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 502 km med en energiforbrukshastighet på 20,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 176 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 120kW. Hver ladeøkt vil ta 29 minutter og 59 sekunder.
 

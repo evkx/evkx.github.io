@@ -35,7 +35,7 @@ Chevrolet Silverado EV 3WT leverer en solid præstation med en maksimal effekt p
 
 Det højkapacitetsbatteri har en bruttokapacitet på 200 kWh og en nettoanvendelig kapacitet på 190 kWh, hvilket giver en buffer på 10 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 393 miles (632 km). Forbruget er 2,1mi/kWh for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 632 km med en energiforbrugsrate på 30,0 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 124 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 43 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 240kW. Hver opladningssession ville tage 29 minutter og 2 sekunder.
 

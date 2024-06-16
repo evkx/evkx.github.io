@@ -35,7 +35,7 @@ Tesla Cybertruck AWD imponerer med en maksimal effekt på 448 kW (609 hk) og et 
 
 Det højkapacitetsbatteri har en bruttokapacitet på 123 kWh og en nettoanvendelig kapacitet på 122,5 kWh, hvilket giver en buffer på 0,5 kWh (3%) til batteribeskyttelse.
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 340 miles (547 km). Forbruget er 2,8mi/kWh for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 547 km med en energiforbrugsrate på 22,4 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 77 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 37%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 157kW. Hver opladningssession ville tage 17 minutter og 22 sekunder.
 

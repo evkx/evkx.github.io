@@ -35,7 +35,7 @@ The Honda Prologue FWD offers modest performance with a maximum power of 158 kW 
 
 The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (4.5%) for battery protection.
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 296 miles (476 km). The consumption is 3.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 296 miles (476 km) with an energy consumption rate of 3.5 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 113 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 56%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 25 minutes and 56 seconds..
 

@@ -35,7 +35,7 @@ La Acura ZDX Type S offre des performances solides avec une puissance maximale d
 
 La batterie haute capacité a une capacité brute de 110 kWh et une capacité nette utilisable de 102 kWh, offrant une réserve de 8 kWh (7,3%) pour la protection de la batterie.
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 288 miles (463 km). La consommation est de 2,8mi/kWh pour le test standard de l'EPA. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 463 km avec un taux de consommation d'énergie de 22,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 176 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 120kW. Chaque session de charge prendrait 29 minutes et 59 secondes.
 

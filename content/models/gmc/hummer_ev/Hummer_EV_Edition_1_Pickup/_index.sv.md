@@ -35,7 +35,7 @@ GMC Hummer EV Edition 1 Pickup levererar en häpnadsväckande maximal effekt på
 
 Högkapacitetsbatteriet har en bruttokapacitet på 220 kWh och en nettoanvändbar kapacitet på 213 kWh, vilket ger en buffert på 7 kWh (3,2%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 329 miles (529 km). Förbrukningen är 1,5mi/kWh för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 529 km med en energiförbrukning på 40,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 139 minuter, medan ett vanligare scenario på 10-80 % tar 48 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 52%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 245kW. Varje laddningssession tar 27 minuter och 39 sekunder.
 

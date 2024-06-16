@@ -35,7 +35,7 @@ Rivian R1S Performance Dual-Motor AWD MP imponerar med en imponerande kraft på 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 149 kWh och en nettoanvändbar kapacitet på 142,3 kWh, vilket ger en buffert på 6,7 kWh (4,5%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 410 miles (660 km). Förbrukningen är 2,9mi/kWh för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 660 km med en energiförbrukning på 21,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 119 minuter, medan ett vanligare scenario på 10-80 % tar 48 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 141kW. Varje laddningssession tar 27 minuter och 12 sekunder.
 

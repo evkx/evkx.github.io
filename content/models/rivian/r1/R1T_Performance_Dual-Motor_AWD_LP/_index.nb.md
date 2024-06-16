@@ -35,7 +35,7 @@ Rivian R1T Performance Dual-Motor AWD LP imponerer med en imponerende kraft på 
 
 Høykapasitetsbatteriet har en brutto kapasitet på 136 kWh og en netto brukbar kapasitet på 135 kWh, som gir en buffer på 1 kWh (0,7%) for batteribeskyttelse.
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 352 miles (566 km). Forbruket er 2,6mi/kWh for EPA-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 566 km med en energiforbrukshastighet på 23,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 113 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 140kW. Hver ladeøkt vil ta 26 minutter og 4 sekunder.
 

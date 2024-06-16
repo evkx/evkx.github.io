@@ -35,7 +35,7 @@ Tesla Cybertruck Cyberbeast levererar en häpnadsväckande maximal effekt på 63
 
 Högkapacitetsbatteriet har en bruttokapacitet på 123 kWh och en nettoanvändbar kapacitet på 122,5 kWh, vilket ger en buffert på 0,5 kWh (0,4%) för batteriskydd.
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 320 miles (515 km). Förbrukningen är 2,6mi/kWh för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 515 km med en energiförbrukning på 23,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 37%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 157kW. Varje laddningssession tar 17 minuter och 22 sekunder.
 

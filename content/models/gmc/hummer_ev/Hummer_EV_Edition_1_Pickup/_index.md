@@ -35,7 +35,7 @@ The GMC Hummer EV Edition 1 Pickup delivers a jaw-dropping maximum power of 746 
 
 The high-capacity battery has a gross capacity of 220 kWh and a net usable capacity of 213 kWh, providing an 7 kWh buffer (3.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 329 miles (529 km). The consumption is 1.5mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 329 miles (529 km) with an energy consumption rate of 1.5 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 139 minutes, while a more typical charging scenario from 10% to 80% takes 48 minutes with an average charging speed at 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 52%. This results in an effective charging speed, including time lost, of 245 kW, with each charging session taking about 27 minutes and 39 seconds..
 

@@ -35,7 +35,7 @@ The Rivian R1T Performance Dual-Motor AWD LP packs an impressive punch with a ma
 
 The high-capacity battery has a gross capacity of 136 kWh and a net usable capacity of 135 kWh, providing an 1 kWh buffer (0.7%) for battery protection.
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 352 miles (566 km). The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 352 miles (566 km) with an energy consumption rate of 2.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 113 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed at 125 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 140 kW, with each charging session taking about 26 minutes and 4 seconds..
 

@@ -35,7 +35,7 @@ Chevrolet Equinox EV FWD tilbyr beskjedne ytelser med en maksimal effekt på 159
 
 Høykapasitetsbatteriet har en brutto kapasitet på 89 kWh og en netto brukbar kapasitet på 85 kWh, som gir en buffer på 4 kWh (4,5%) for batteribeskyttelse.
 
-[EPA-rekkevidden](../../../../guides/understandingrange/epa/) er 319 miles (513 km). Forbruket er 3,8mi/kWh for EPA-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 513 km med en energiforbrukshastighet på 16,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 150 kW. En full lading fra 0 - 100 % vil ta 71 minutter, mens et mer vanlig scenario på 10-80 % vil ta 37 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 26 minutter og 23 sekunder.
 

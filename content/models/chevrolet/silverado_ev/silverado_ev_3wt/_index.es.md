@@ -35,7 +35,7 @@ El Chevrolet Silverado EV 3WT ofrece un rendimiento sólido con una potencia má
 
 La batería de alta capacidad tiene una capacidad bruta de 200 kWh y una capacidad neta utilizable de 190 kWh, proporcionando un buffer de 10 kWh (5,0%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango EPA](../../../../guides/understandingrange/epa/) es 393 millas (632 km). El consumo es 2,1mi/kWh para la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 632 km con una tasa de consumo de energía de 30,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 350kW. Una carga completa del 0 al 100 % tardaría 124 minutos, mientras que un escenario más común del 10 al 80 % tardaría 43 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 62%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 240kW. Cada sesión de carga tardaría 29 minutos y 2 segundos.
 

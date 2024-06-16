@@ -35,7 +35,7 @@ Lucid Air Sapphire levererar en häpnadsväckande maximal effekt på 920 KW (125
 
 Högkapacitetsbatteriet har en bruttokapacitet på 118 kWh och en nettoanvändbar kapacitet på 117 kWh, vilket ger en buffert på 1 kWh (0,8%) för batteriskydd.
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 427 miles (687 km). Förbrukningen är 3,6mi/kWh för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 687 km med en energiförbrukning på 17,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 300 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 174kW. Varje laddningssession tar 18 minuter och 7 sekunder.
 

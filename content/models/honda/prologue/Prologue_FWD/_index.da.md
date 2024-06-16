@@ -35,7 +35,7 @@ Honda Prologue FWD tilbyder beskedne præstationer med en maksimal effekt på 15
 
 Det højkapacitetsbatteri har en bruttokapacitet på 89 kWh og en nettoanvendelig kapacitet på 85 kWh, hvilket giver en buffer på 4 kWh (3%) til batteribeskyttelse.
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 296 miles (476 km). Forbruget er 3,5mi/kWh for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 476 km med en energiforbrugsrate på 17,8 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 66 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 102kW. Hver opladningssession ville tage 25 minutter og 56 sekunder.
 

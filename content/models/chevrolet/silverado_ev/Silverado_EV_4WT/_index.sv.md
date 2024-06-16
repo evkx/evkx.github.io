@@ -35,7 +35,7 @@ Chevrolet Silverado EV 4WT levererar en solid prestanda med en maximal effekt p�
 
 Högkapacitetsbatteriet har en bruttokapacitet på 240 kWh och en nettoanvändbar kapacitet på 215 kWh, vilket ger en buffert på 25 kWh (10,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[EPA-räckvidd](../../../../guides/understandingrange/epa/) är 450 miles (724 km). Förbrukningen är 2,1mi/kWh för EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 724 km med en energiförbrukning på 29,7 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 83 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 253kW. Varje laddningssession tar 29 minuter och 1 sekunder.
 

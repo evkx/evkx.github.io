@@ -35,7 +35,7 @@ The Lucid Air Sapphire delivers a jaw-dropping maximum power of 920 KW (1251 hp/
 
 The high-capacity battery has a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (0.8%) for battery protection.
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 427 miles (687 km). The consumption is 3.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 427 miles (687 km) with an energy consumption rate of 3.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 77 minutes, while a more typical charging scenario from 10% to 80% takes 33 minutes with an average charging speed at 150 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 46%. This results in an effective charging speed, including time lost, of 174 kW, with each charging session taking about 18 minutes and 7 seconds..
 

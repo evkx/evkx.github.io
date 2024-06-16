@@ -35,7 +35,7 @@ The Tesla Cybertruck Cyberbeast delivers a jaw-dropping maximum power of 630 KW 
 
 The high-capacity battery has a gross capacity of 123 kWh and a net usable capacity of 122,5 kWh, providing an 0,5 kWh buffer (0.4%) for battery protection.
 
-The [EPA range](../../../../guides/understandingrange/epa/) is 320 miles (515 km). The consumption is 2.6mi/kWh for the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 320 miles (515 km) with an energy consumption rate of 2.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 77 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 37%. This results in an effective charging speed, including time lost, of 157 kW, with each charging session taking about 17 minutes and 22 seconds..
 

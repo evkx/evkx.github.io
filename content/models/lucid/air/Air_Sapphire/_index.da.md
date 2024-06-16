@@ -35,7 +35,7 @@ Lucid Air Sapphire leverer en imponerende maksimal effekt på 920 KW (1251 hk) o
 
 Det højkapacitetsbatteri har en bruttokapacitet på 118 kWh og en nettoanvendelig kapacitet på 117 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse.
 
-[EPA-rækkevidden](../../../../guides/understandingrange/epa/) er 427 miles (687 km). Forbruget er 3,6mi/kWh for EPA-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 687 km med en energiforbrugsrate på 17,0 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 77 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 33 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 46%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 174kW. Hver opladningssession ville tage 18 minutter og 7 sekunder.
 

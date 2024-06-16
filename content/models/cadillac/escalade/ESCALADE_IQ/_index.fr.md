@@ -35,7 +35,7 @@ La Cadillac ESCALADE IQ impressionne avec une puissance maximale de 560 kW (761 
 
 La batterie haute capacité a une capacité brute de 215 kWh et une capacité nette utilisable de 200 kWh, offrant une réserve de 15 kWh (7,0%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage EPA](../../../../guides/understandingrange/epa/) est de 450 miles (724 km). La consommation est de 2,3mi/kWh pour le test standard de l'EPA. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 724 km avec un taux de consommation d'énergie de 27,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 130 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 45 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 53 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 242kW. Chaque session de charge prendrait 26 minutes et 49 secondes.
 

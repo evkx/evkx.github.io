@@ -35,7 +35,7 @@ El Rivian R1S Performance Dual-Motor AWD MP impresiona con una potencia máxima 
 
 La batería de alta capacidad tiene una capacidad bruta de 149 kWh y una capacidad neta utilizable de 142,3 kWh, proporcionando un buffer de 6,7 kWh (4,5%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango EPA](../../../../guides/understandingrange/epa/) es 410 millas (660 km). El consumo es 2,9mi/kWh para la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 660 km con una tasa de consumo de energía de 21,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 119 minutos, mientras que un escenario más común del 10 al 80 % tardaría 48 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 141kW. Cada sesión de carga tardaría 27 minutos y 12 segundos.
 
