@@ -35,7 +35,7 @@ XPENG G3i tilbyder beskedne præstationer med en maksimal effekt på 145 kW (197
 
 Det højkapacitetsbatteri har en bruttokapacitet på 66 kWh og en nettoanvendelig kapacitet på 55,9 kWh, hvilket giver en buffer på 10,1 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 420 km (261 mi). Forbruget er 13,3kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 420 km, med et energiforbrugsrate på 13,3 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 89 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 51 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 79%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 42kW. Hver opladningssession ville tage 57 minutter og 43 sekunder.
 

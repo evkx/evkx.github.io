@@ -35,7 +35,7 @@ Hongqi E-HS9 Premium imponerer med en maksimal effekt på 405 kW (551 hk) og et 
 
 Det højkapacitetsbatteri har en bruttokapacitet på 99 kWh og en nettoanvendelig kapacitet på 95,3 kWh, hvilket giver en buffer på 3,7 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 465 km (289 mi). Forbruget er 20,5kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 465 km, med et energiforbrugsrate på 20,5 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 78 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 37 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 68%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 96kW. Hver opladningssession ville tage 36 minutter og 50 sekunder.
 

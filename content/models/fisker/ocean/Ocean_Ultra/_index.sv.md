@@ -35,7 +35,7 @@ Med överboost når Fisker Ocean Ultra en maximal effekt på 400 kW (544 hk). Ut
 
 Högkapacitetsbatteriet har en bruttokapacitet på 113 kWh och en nettoanvändbar kapacitet på 106,5 kWh, vilket ger en buffert på 6,5 kWh (5,8%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 690 km. Förbrukningen är 15,4kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 690 km (199 miles), med en energiförbrukningshastighet på 15,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 77 minuter, medan ett vanligare scenario på 10-80 % tar 38 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 115kW. Varje laddningssession tar 24 minuter och 22 sekunder.
 

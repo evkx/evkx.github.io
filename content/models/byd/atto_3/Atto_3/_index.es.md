@@ -35,7 +35,7 @@ El BYD Atto 3 ofrece un rendimiento modesto con una potencia máxima de 150 kW (
 
 La batería de alta capacidad tiene una capacidad bruta de 60,5 kWh y una capacidad neta utilizable de 58 kWh, proporcionando un buffer de 2,5 kWh (4,1%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 420 km (261 mi). El consumo es de 13,8kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 420 km, con una tasa de consumo de energía de 13,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 88kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 67kW. Cada sesión de carga tardaría 32 minutos y 40 segundos.
 

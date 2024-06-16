@@ -41,7 +41,7 @@ Tesla Model 3 Long Range (GEN1) levererar en solid prestanda med en maximal effe
 
 Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 75 kWh, vilket ger en buffert på 7 kWh (8,5%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 602 km. Förbrukningen är 12,5kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 602 km (199 miles), med en energiförbrukningshastighet på 12,5 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 118kW. Varje laddningssession tar 15 minuter och 33 sekunder.
 

@@ -35,7 +35,7 @@ The HiPhi Y Performance delivers a solid performance with a maximum power of 371
 
 The high-capacity battery has a gross capacity of 115 kWh and a net usable capacity of 109 kWh, providing an 6 kWh buffer (5.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 620 km (385 mi). The consumption is 17.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 620 km (385 miles), with an energy consumption rate of 17.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 91 minutes, while a more typical charging scenario from 10% to 80% takes 47 minutes with an average charging speed at 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 49%. This results in an effective charging speed, including time lost, of 98 kW, with each charging session taking about 30 minutes and 56 seconds..
 

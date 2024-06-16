@@ -35,7 +35,7 @@ Volvo EX30 Single Motor Extended Range tilbyr beskjedne ytelser med en maksimal 
 
 Høykapasitetsbatteriet har en brutto kapasitet på 69 kWh og en netto brukbar kapasitet på 64 kWh, som gir en buffer på 5 kWh (7,2%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 460 km. Forbruket er 13,9kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 460 km, med et energiforbruk på 13,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 153 kW. En full lading fra 0 - 100 % vil ta 71 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 11% til 52%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 92kW. Hver ladeøkt vil ta 17 minutter og 10 sekunder.
 

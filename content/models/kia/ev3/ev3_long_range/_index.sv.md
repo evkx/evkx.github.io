@@ -35,7 +35,7 @@ Kia EV3 Long Range erbjuder blygsamma prestanda med en maximal effekt på 150 kW
 
 Högkapacitetsbatteriet har en bruttokapacitet på 81,4 kWh och en nettoanvändbar kapacitet på 77 kWh, vilket ger en buffert på 4,4 kWh (5,4%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 600 km. Förbrukningen är 12,8kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (199 miles), med en energiförbrukningshastighet på 12,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 110 minuter, medan ett vanligare scenario på 10-80 % tar 53 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 62kW. Varje laddningssession tar 29 minuter och 1 sekunder.
 

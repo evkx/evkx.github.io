@@ -35,7 +35,7 @@ Seres 5 4WD Premium imponerer med en maksimal effekt på 430 kW (585 hk) og et i
 
 Det højkapacitetsbatteri har en bruttokapacitet på 80 kWh og en nettoanvendelig kapacitet på 78 kWh, hvilket giver en buffer på 2 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 483 km (300 mi). Forbruget er 16,1kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 483 km, med et energiforbrugsrate på 16,1 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 91 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 79kW. Hver opladningssession ville tage 32 minutter og 51 sekunder.
 

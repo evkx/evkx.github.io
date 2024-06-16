@@ -35,7 +35,7 @@ La Rimac Nevera délivre une puissance maximale impressionnante de 1400 kW (1904
 
 La batterie haute capacité a une capacité brute de 120 kWh et une capacité nette utilisable de 106,8 kWh, offrant une réserve de 13,2 kWh (11,0%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 490 km (305 mi). La consommation est de 21,8kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 490 km, avec une consommation d'énergie de 21,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 500kW. Une charge complète de 0 à 100 % prendrait 34 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 16 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 71 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 222kW. Chaque session de charge prendrait 20 minutes et 54 secondes.
 

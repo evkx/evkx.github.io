@@ -35,7 +35,7 @@ Renault 5 E-Tech 52kWh 150hp tilbyr beskjedne ytelser med en maksimal effekt på
 
 Høykapasitetsbatteriet har en brutto kapasitet på 55 kWh og en netto brukbar kapasitet på 52 kWh, som gir en buffer på 3 kWh (5,5%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 400 km. Forbruket er 13,0kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 400 km, med et energiforbruk på 13,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 68 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 5% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 69kW. Hver ladeøkt vil ta 24 minutter og 2 sekunder.
 

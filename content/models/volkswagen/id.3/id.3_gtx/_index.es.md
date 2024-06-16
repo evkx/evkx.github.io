@@ -35,7 +35,7 @@ El Volkswagen ID.3 GTX ofrece un rendimiento modesto con una potencia máxima de
 
 La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 79 kWh, proporcionando un buffer de 3 kWh (3,7%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 600 km (373 mi). El consumo es de 13,2kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 600 km, con una tasa de consumo de energía de 13,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 175kW. Una carga completa del 0 al 100 % tardaría 64 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 102kW. Cada sesión de carga tardaría 19 minutos y 4 segundos.
 

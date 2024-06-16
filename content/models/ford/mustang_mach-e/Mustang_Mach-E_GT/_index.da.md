@@ -35,7 +35,7 @@ Ford Mustang Mach-E GT leverer en solid præstation med en maksimal effekt på 3
 
 Det højkapacitetsbatteri har en bruttokapacitet på 98,8 kWh og en nettoanvendelig kapacitet på 92 kWh, hvilket giver en buffer på 6,8 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 18,8kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 490 km, med et energiforbrugsrate på 18,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 150kW. En fuld opladning fra 0 - 100 % ville tage 154 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 45 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 85kW. Hver opladningssession ville tage 26 minutter og 4 sekunder.
 

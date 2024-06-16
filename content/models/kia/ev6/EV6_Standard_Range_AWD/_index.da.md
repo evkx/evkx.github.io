@@ -35,7 +35,7 @@ Kia EV6 Standard Range AWD tilbyder beskedne præstationer med en maksimal effek
 
 Det højkapacitetsbatteri har en bruttokapacitet på 58 kWh og en nettoanvendelig kapacitet på 54 kWh, hvilket giver en buffer på 4 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 371 km (231 mi). Forbruget er 14,6kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 371 km, med et energiforbrugsrate på 14,6 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 42 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 17 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 109kW. Hver opladningssession ville tage 19 minutter og 45 sekunder.
 

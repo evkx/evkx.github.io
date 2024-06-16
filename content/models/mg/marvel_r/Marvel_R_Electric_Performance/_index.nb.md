@@ -35,7 +35,7 @@ MG Marvel R Electric Performance tilbyr beskjedne ytelser med en maksimal effekt
 
 Høykapasitetsbatteriet har en brutto kapasitet på 75 kWh og en netto brukbar kapasitet på 70 kWh, som gir en buffer på 5 kWh (6,7%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 370 km. Forbruket er 18,9kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 370 km, med et energiforbruk på 18,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 94 kW. En full lading fra 0 - 100 % vil ta 114 minutter, mens et mer vanlig scenario på 10-80 % vil ta 43 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 63kW. Hver ladeøkt vil ta 35 minutter og 7 sekunder.
 

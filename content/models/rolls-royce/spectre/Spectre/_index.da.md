@@ -35,7 +35,7 @@ Rolls-Royce Spectre imponerer med en maksimal effekt på 430 kW (585 hk) og et i
 
 Det højkapacitetsbatteri har en bruttokapacitet på 105,7 kWh og en nettoanvendelig kapacitet på 102 kWh, hvilket giver en buffer på 3,7 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 530 km (329 mi). Forbruget er 19,2kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 530 km, med et energiforbrugsrate på 19,2 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 205kW. En fuld opladning fra 0 - 100 % ville tage 72 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 36 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 132kW. Hver opladningssession ville tage 21 minutter og 54 sekunder.
 

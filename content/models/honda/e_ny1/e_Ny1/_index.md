@@ -35,7 +35,7 @@ The Honda e:Ny1 offers modest performance with a maximum power of 150 kW (204 hp
 
 The high-capacity battery has a gross capacity of 68,8 kWh and a net usable capacity of 61,9 kWh, providing an 6,9 kWh buffer (10.0%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 412 km (256 mi). The consumption is 15.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 412 km (256 miles), with an energy consumption rate of 15.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 38 minutes with an average charging speed at 69 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 92%. This results in an effective charging speed, including time lost, of 62 kW, with each charging session taking about 51 minutes and 28 seconds..
 

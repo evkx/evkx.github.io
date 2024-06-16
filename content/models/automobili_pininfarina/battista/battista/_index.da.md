@@ -35,7 +35,7 @@ Automobili Pininfarina Battista leverer en imponerende maksimal effekt på 1400 
 
 Det højkapacitetsbatteri har en bruttokapacitet på 120 kWh og en nettoanvendelig kapacitet på 106,8 kWh, hvilket giver en buffer på 13,2 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 490 km (305 mi). Forbruget er 21,8kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 490 km, med et energiforbrugsrate på 21,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 34 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 71%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 222kW. Hver opladningssession ville tage 20 minutter og 54 sekunder.
 

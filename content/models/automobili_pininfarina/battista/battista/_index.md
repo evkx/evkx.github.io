@@ -35,7 +35,7 @@ The Automobili Pininfarina Battista delivers a jaw-dropping maximum power of 140
 
 The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 106,8 kWh, providing an 13,2 kWh buffer (11.0%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 490 km (305 mi). The consumption is 21.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 490 km (305 miles), with an energy consumption rate of 21.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 500 kW. Charging from 0% to 100% takes approximately 34 minutes, while a more typical charging scenario from 10% to 80% takes 16 minutes with an average charging speed at 274 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 71%. This results in an effective charging speed, including time lost, of 222 kW, with each charging session taking about 20 minutes and 54 seconds..
 

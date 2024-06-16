@@ -35,7 +35,7 @@ Ford F150 Lightning Standard Range imponerer med en imponerende kraft på 433 kW
 
 Høykapasitetsbatteriet har en brutto kapasitet på 110 kWh og en netto brukbar kapasitet på 98 kWh, som gir en buffer på 12 kWh (10,9%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 427 km. Forbruket er 23,0kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 427 km, med et energiforbruk på 23,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 155 kW. En full lading fra 0 - 100 % vil ta 97 minutter, mens et mer vanlig scenario på 10-80 % vil ta 37 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 103kW. Hver ladeøkt vil ta 41 minutter og 14 sekunder.
 

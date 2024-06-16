@@ -35,7 +35,7 @@ L'Renault 5 E-Tech 52kWh 150hp offre des performances modestes avec une puissanc
 
 La batterie haute capacité a une capacité brute de 55 kWh et une capacité nette utilisable de 52 kWh, offrant une réserve de 3 kWh (5,5%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 400 km (249 mi). La consommation est de 13,0kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 400 km, avec une consommation d'énergie de 13,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 100kW. Une charge complète de 0 à 100 % prendrait 68 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 29 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 58 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 69kW. Chaque session de charge prendrait 24 minutes et 2 secondes.
 

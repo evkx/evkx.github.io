@@ -35,7 +35,7 @@ L'Genesis GV60 AWD offre des performances modestes avec une puissance maximale d
 
 La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74 kWh, offrant une réserve de 3,4 kWh (4,4%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 470 km (292 mi). La consommation est de 15,7kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 470 km, avec une consommation d'énergie de 15,7 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 38 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 16 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 152kW. Chaque session de charge prendrait 22 minutes et 59 secondes.
 

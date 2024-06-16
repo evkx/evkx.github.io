@@ -35,7 +35,7 @@ El MG MG4 Electric Standard ofrece un rendimiento modesto con una potencia máxi
 
 La batería de alta capacidad tiene una capacidad bruta de 51 kWh y una capacidad neta utilizable de 50,8 kWh, proporcionando un buffer de 0,2 kWh (0,4%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 350 km (218 mi). El consumo es de 14,5kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 350 km, con una tasa de consumo de energía de 14,5 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 45 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 61%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 94kW. Cada sesión de carga tardaría 19 minutos y 54 segundos.
 

@@ -35,7 +35,7 @@ The Peugot E-5008 Long Range offers modest performance with a maximum power of 1
 
 The high-capacity battery has a gross capacity of 103 kWh and a net usable capacity of 98 kWh, providing an 5 kWh buffer (4.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 660 km (410 mi). The consumption is 14.8kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 660 km (410 miles), with an energy consumption rate of 14.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 160 kW. Charging from 0% to 100% takes approximately 110 minutes, while a more typical charging scenario from 10% to 80% takes 56 minutes with an average charging speed at 74 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 56%. This results in an effective charging speed, including time lost, of 74 kW, with each charging session taking about 41 minutes and 45 seconds..
 

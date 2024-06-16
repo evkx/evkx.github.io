@@ -35,7 +35,7 @@ VOYAH FREE leverer en solid præstation med en maksimal effekt på 360 kW (490 h
 
 Det højkapacitetsbatteri har en bruttokapacitet på 106 kWh og en nettoanvendelig kapacitet på 100 kWh, hvilket giver en buffer på 6 kWh (3%) til batteribeskyttelse.
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 500 km (311 mi). Forbruget er 20,0kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 500 km, med et energiforbrugsrate på 20,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 97 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 60 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 15% til 83%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 65kW. Hver opladningssession ville tage 63 minutter og 34 sekunder.
 

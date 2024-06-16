@@ -35,7 +35,7 @@ The Hongqi E-HS9 Exclusive+ packs an impressive punch with a maximum power of 40
 
 The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 110 kWh, providing an 10 kWh buffer (8.3%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 515 km (320 mi). The consumption is 21.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 515 km (320 miles), with an energy consumption rate of 21.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 114 minutes, while a more typical charging scenario from 10% to 80% takes 62 minutes with an average charging speed at 74 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 39%. This results in an effective charging speed, including time lost, of 87 kW, with each charging session taking about 30 minutes and 35 seconds..
 

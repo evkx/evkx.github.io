@@ -35,7 +35,7 @@ El Rolls-Royce Spectre impresiona con una potencia máxima de 430 kW (585 hp) y 
 
 La batería de alta capacidad tiene una capacidad bruta de 105,7 kWh y una capacidad neta utilizable de 102 kWh, proporcionando un buffer de 3,7 kWh (3,5%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 530 km (329 mi). El consumo es de 19,2kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 530 km, con una tasa de consumo de energía de 19,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 205kW. Una carga completa del 0 al 100 % tardaría 72 minutos, mientras que un escenario más común del 10 al 80 % tardaría 36 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 132kW. Cada sesión de carga tardaría 21 minutos y 54 segundos.
 

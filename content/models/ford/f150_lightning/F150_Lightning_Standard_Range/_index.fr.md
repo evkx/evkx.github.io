@@ -35,7 +35,7 @@ La Ford F150 Lightning Standard Range impressionne avec une puissance maximale d
 
 La batterie haute capacité a une capacité brute de 110 kWh et une capacité nette utilisable de 98 kWh, offrant une réserve de 12 kWh (10,9%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 427 km (265 mi). La consommation est de 23,0kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 427 km, avec une consommation d'énergie de 23,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 155kW. Une charge complète de 0 à 100 % prendrait 97 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 37 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 72 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 103kW. Chaque session de charge prendrait 41 minutes et 14 secondes.
 

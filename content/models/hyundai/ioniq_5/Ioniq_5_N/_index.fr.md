@@ -35,7 +35,7 @@ Avec l'overboost, la Hyundai Ioniq 5 N atteint une puissance maximale de 478 kW 
 
 La batterie haute capacité a une capacité brute de 84 kWh et une capacité nette utilisable de 80 kWh, offrant une réserve de 4 kWh (4,8%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 450 km (280 mi). La consommation est de 17,8kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 450 km, avec une consommation d'énergie de 17,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 41 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 154kW. Chaque session de charge prendrait 23 minutes et 21 secondes.
 

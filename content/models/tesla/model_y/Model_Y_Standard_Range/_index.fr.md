@@ -38,7 +38,7 @@ Tesla Model Y Standard Range propose quatre options de batterie avec des spécif
 
 La batterie haute capacité a une capacité brute de 60 kWh et une capacité nette utilisable de 55 kWh, offrant une réserve de 5 kWh (8,3%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 430 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 52 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 47 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 89kW. Chaque session de charge prendrait 17 minutes et 30 secondes.
 
@@ -47,7 +47,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 La batterie haute capacité a une capacité brute de 60 kWh et une capacité nette utilisable de 55 kWh, offrant une réserve de 5 kWh (8,3%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 430 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 37 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 63 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 113kW. Chaque session de charge prendrait 18 minutes et 28 secondes.
 
@@ -56,7 +56,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 La batterie haute capacité a une capacité brute de 70 kWh et une capacité nette utilisable de 68,5 kWh, offrant une réserve de 1,5 kWh (2,1%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 430 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 36 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 82kW. Chaque session de charge prendrait 18 minutes et 60 secondes.
 
@@ -65,7 +65,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 La batterie haute capacité a une capacité brute de 70 kWh et une capacité nette utilisable de 68,5 kWh, offrant une réserve de 1,5 kWh (2,1%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 430 km (267 mi). La consommation est de 12,8kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 430 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 40 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 23 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 59 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 111kW. Chaque session de charge prendrait 22 minutes et 49 secondes.
 

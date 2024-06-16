@@ -35,7 +35,7 @@ El Kia EV3 Long Range ofrece un rendimiento modesto con una potencia máxima de 
 
 La batería de alta capacidad tiene una capacidad bruta de 81,4 kWh y una capacidad neta utilizable de 77 kWh, proporcionando un buffer de 4,4 kWh (5,4%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 600 km (373 mi). El consumo es de 12,8kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 600 km, con una tasa de consumo de energía de 12,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 233kW. Una carga completa del 0 al 100 % tardaría 110 minutos, mientras que un escenario más común del 10 al 80 % tardaría 53 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 62kW. Cada sesión de carga tardaría 29 minutos y 1 segundos.
 

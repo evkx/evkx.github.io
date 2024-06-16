@@ -35,7 +35,7 @@ La Tesla Model S Plaid délivre une puissance maximale impressionnante de 760 kW
 
 La batterie haute capacité a une capacité brute de 104,96 kWh et une capacité nette utilisable de 96 kWh, offrant une réserve de 8,96 kWh (8,5%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 600 km (373 mi). La consommation est de 16,0kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 600 km, avec une consommation d'énergie de 16,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 80 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 47 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 143kW. Chaque session de charge prendrait 16 minutes et 9 secondes.
 

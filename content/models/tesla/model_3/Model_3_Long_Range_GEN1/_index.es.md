@@ -41,7 +41,7 @@ El Tesla Model 3 Long Range (GEN1) ofrece un rendimiento sólido con una potenci
 
 La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 75 kWh, proporcionando un buffer de 7 kWh (8,5%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 602 km (374 mi). El consumo es de 12,5kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 602 km, con una tasa de consumo de energía de 12,5 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 67 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 118kW. Cada sesión de carga tardaría 15 minutos y 33 segundos.
 

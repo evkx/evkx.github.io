@@ -35,7 +35,7 @@ HiPhi Y Performance leverer en solid præstation med en maksimal effekt på 371 
 
 Det højkapacitetsbatteri har en bruttokapacitet på 115 kWh og en nettoanvendelig kapacitet på 109 kWh, hvilket giver en buffer på 6 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 620 km (385 mi). Forbruget er 17,6kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 620 km, med et energiforbrugsrate på 17,6 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 91 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 47 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 49%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 98kW. Hver opladningssession ville tage 30 minutter og 56 sekunder.
 

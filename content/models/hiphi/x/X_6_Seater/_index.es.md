@@ -35,7 +35,7 @@ El HiPhi X 6 Seater impresiona con una potencia máxima de 433 kW (589 hp) y un 
 
 La batería de alta capacidad tiene una capacidad bruta de 101 kWh y una capacidad neta utilizable de 97 kWh, proporcionando un buffer de 4 kWh (4,0%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 460 km (286 mi). El consumo es de 21,1kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 460 km, con una tasa de consumo de energía de 21,1 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 79 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 51%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 100kW. Cada sesión de carga tardaría 27 minutos y 19 segundos.
 

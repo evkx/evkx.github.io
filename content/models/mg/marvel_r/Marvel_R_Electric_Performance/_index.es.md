@@ -35,7 +35,7 @@ El MG Marvel R Electric Performance ofrece un rendimiento modesto con una potenc
 
 La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70 kWh, proporcionando un buffer de 5 kWh (6,7%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 370 km (230 mi). El consumo es de 18,9kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 370 km, con una tasa de consumo de energía de 18,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 94kW. Una carga completa del 0 al 100 % tardaría 114 minutos, mientras que un escenario más común del 10 al 80 % tardaría 43 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 61%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 63kW. Cada sesión de carga tardaría 35 minutos y 7 segundos.
 

@@ -35,7 +35,7 @@ The Ford Mustang Mach-E Long Range AWD delivers a solid performance with a maxim
 
 The high-capacity battery has a gross capacity of 98,8 kWh and a net usable capacity of 92 kWh, providing an 6,8 kWh buffer (6.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 550 km (342 mi). The consumption is 16.7kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 550 km (342 miles), with an energy consumption rate of 16.7 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 154 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed at 86 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 45%. This results in an effective charging speed, including time lost, of 85 kW, with each charging session taking about 26 minutes and 4 seconds..
 

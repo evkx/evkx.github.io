@@ -35,7 +35,7 @@ VinFast VF8 Eco levererar en solid prestanda med en maximal effekt på 260 kW (3
 
 Högkapacitetsbatteriet har en bruttokapacitet på 94 kWh och en nettoanvändbar kapacitet på 87,7 kWh, vilket ger en buffert på 6,3 kWh (6,7%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 471 km. Förbrukningen är 18,6kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 471 km (199 miles), med en energiförbrukningshastighet på 18,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 105 minuter, medan ett vanligare scenario på 10-80 % tar 44 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 11% till 70%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 40 minuter och 4 sekunder.
 

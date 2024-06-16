@@ -35,7 +35,7 @@ The Volkswagen ID. Buzz GTX LWB delivers a solid performance with a maximum powe
 
 The high-capacity battery has a gross capacity of 91 kWh and a net usable capacity of 86 kWh, providing an 5 kWh buffer (5.5%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 450 km (280 mi). The consumption is 19.1kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 450 km (280 miles), with an energy consumption rate of 19.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 56 minutes, while a more typical charging scenario from 10% to 80% takes 33 minutes with an average charging speed at 111 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 42%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 19 minutes and 6 seconds..
 

@@ -35,7 +35,7 @@ Hongqi E-HS9 Comfort tilbyr beskjedne ytelser med en maksimal effekt på 320 kW 
 
 Høykapasitetsbatteriet har en brutto kapasitet på 84 kWh og en netto brukbar kapasitet på 81,7 kWh, som gir en buffer på 2,3 kWh (2,7%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 396 km. Forbruket er 20,6kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 396 km, med et energiforbruk på 20,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 94kW. Hver ladeøkt vil ta 34 minutter og 1 sekunder.
 

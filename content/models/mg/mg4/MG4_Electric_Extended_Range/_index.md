@@ -35,7 +35,7 @@ The MG MG4 Electric Extended Range offers modest performance with a maximum powe
 
 The high-capacity battery has a gross capacity of 77 kWh and a net usable capacity of 74,4 kWh, providing an 2,6 kWh buffer (3.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 mi). The consumption is 14.3kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 miles), with an energy consumption rate of 14.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 101 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 96 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 58%. This results in an effective charging speed, including time lost, of 100 kW, with each charging session taking about 25 minutes and 33 seconds..
 

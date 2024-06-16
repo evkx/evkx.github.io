@@ -35,7 +35,7 @@ El Nio ET9 impresiona con una potencia máxima de 520 kW (707 hp) y un impresion
 
 La batería de alta capacidad tiene una capacidad bruta de 120 kWh y una capacidad neta utilizable de 112 kWh, proporcionando un buffer de 8 kWh (6,7%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 720 km (448 mi). El consumo es de 15,6kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 720 km, con una tasa de consumo de energía de 15,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 600kW. Una carga completa del 0 al 100 % tardaría 31 minutos, mientras que un escenario más común del 10 al 80 % tardaría 14 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 266kW. Cada sesión de carga tardaría 15 minutos y 41 segundos.
 

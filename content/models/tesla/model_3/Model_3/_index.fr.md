@@ -35,7 +35,7 @@ L'Tesla Model 3 offre des performances modestes avec une puissance maximale de 2
 
 La batterie haute capacité a une capacité brute de 60 kWh et une capacité nette utilisable de 59 kWh, offrant une réserve de 1 kWh (1,7%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 513 km (319 mi). La consommation est de 11,5kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 513 km, avec une consommation d'énergie de 11,5 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 170kW. Une charge complète de 0 à 100 % prendrait 70 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 49 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 83kW. Chaque session de charge prendrait 20 minutes et 31 secondes.
 

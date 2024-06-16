@@ -35,7 +35,7 @@ El Volkswagen ID.4 Pro 4MOTION ofrece un rendimiento modesto con una potencia m�
 
 La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 77 kWh, proporcionando un buffer de 5 kWh (6,1%) para la protección de la batería.
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 527 km (328 mi). El consumo es de 14,6kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 527 km, con una tasa de consumo de energía de 14,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
 

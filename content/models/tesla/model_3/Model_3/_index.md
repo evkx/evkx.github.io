@@ -35,7 +35,7 @@ The Tesla Model 3 offers modest performance with a maximum power of 208 kW (283 
 
 The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 59 kWh, providing an 1 kWh buffer (1.7%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 513 km (319 mi). The consumption is 11.5kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 513 km (319 miles), with an energy consumption rate of 11.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 70 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 78 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 49%. This results in an effective charging speed, including time lost, of 83 kW, with each charging session taking about 20 minutes and 31 seconds..
 

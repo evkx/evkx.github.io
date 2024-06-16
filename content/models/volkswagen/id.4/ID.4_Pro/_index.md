@@ -35,7 +35,7 @@ The Volkswagen ID.4 Pro offers modest performance with a maximum power of 210 kW
 
 The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (6.1%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 529 km (329 mi). The consumption is 14.6kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 529 km (329 miles), with an energy consumption rate of 14.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed at 114 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 71%. This results in an effective charging speed, including time lost, of 99 kW, with each charging session taking about 29 minutes and 20 seconds..
 

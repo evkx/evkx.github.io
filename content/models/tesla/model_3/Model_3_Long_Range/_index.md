@@ -35,7 +35,7 @@ The Tesla Model 3 Long Range delivers a solid performance with a maximum power o
 
 The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 75 kWh, providing an 7 kWh buffer (8.5%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 629 km (391 mi). The consumption is 11.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 629 km (391 miles), with an energy consumption rate of 11.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 68 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 43%. This results in an effective charging speed, including time lost, of 119 kW, with each charging session taking about 14 minutes and 23 seconds..
 

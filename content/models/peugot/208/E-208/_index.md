@@ -35,7 +35,7 @@ The Peugot E-208 offers modest performance with a maximum power of 115 kW (156 h
 
 The high-capacity battery has a gross capacity of 51 kWh and a net usable capacity of 48,1 kWh, providing an 2,9 kWh buffer (5.7%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 mi). The consumption is 12.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 12.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 74 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 57%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 23 minutes and 23 seconds..
 

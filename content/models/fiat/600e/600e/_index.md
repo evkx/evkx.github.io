@@ -35,7 +35,7 @@ The Fiat 600e offers modest performance with a maximum power of 115 kW (156 hp /
 
 The high-capacity battery has a gross capacity of 54 kWh and a net usable capacity of 50,8 kWh, providing an 3,2 kWh buffer (5.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 409 km (254 mi). The consumption is 12.4kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 409 km (254 miles), with an energy consumption rate of 12.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed at 75 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 61%. This results in an effective charging speed, including time lost, of 69 kW, with each charging session taking about 26 minutes and 10 seconds..
 

@@ -35,7 +35,7 @@ Kia EV9 Long Range RWD tilbyr beskjedne ytelser med en maksimal effekt på 150 k
 
 Høykapasitetsbatteriet har en brutto kapasitet på 99,8 kWh og en netto brukbar kapasitet på 98 kWh, som gir en buffer på 1,8 kWh (1,8%) for batteribeskyttelse.
 
-[WLTP-rekkevidden](../../../../guides/understandingrange/wltp/) er 563 km. Forbruket er 17,4kWh/100 km for WLTP-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 563 km, med et energiforbruk på 17,4 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 233 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 71%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 161kW. Hver ladeøkt vil ta 26 minutter og 38 sekunder.
 

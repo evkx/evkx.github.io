@@ -35,7 +35,7 @@ The VOYAH FREE delivers a solid performance with a maximum power of 360 kW (490 
 
 The high-capacity battery has a gross capacity of 106 kWh and a net usable capacity of 100 kWh, providing an 6 kWh buffer (5.7%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 500 km (311 mi). The consumption is 20.0kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 500 km (311 miles), with an energy consumption rate of 20.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 97 minutes, while a more typical charging scenario from 10% to 80% takes 60 minutes with an average charging speed at 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 15% to 83%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 63 minutes and 34 seconds..
 

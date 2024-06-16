@@ -35,7 +35,7 @@ Peugot E-5008 Long Range tilbyder beskedne præstationer med en maksimal effekt 
 
 Det højkapacitetsbatteri har en bruttokapacitet på 103 kWh og en nettoanvendelig kapacitet på 98 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[WLTP-rækkevidde](../../../../guides/understandingrange/wltp/) er 660 km (410 mi). Forbruget er 14,8kWh/100 km for WLTP-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 660 km, med et energiforbrugsrate på 14,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 160kW. En fuld opladning fra 0 - 100 % ville tage 110 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 56 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 5% til 56%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 74kW. Hver opladningssession ville tage 41 minutter og 45 sekunder.
 

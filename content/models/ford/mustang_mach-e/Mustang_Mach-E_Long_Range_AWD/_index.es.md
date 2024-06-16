@@ -35,7 +35,7 @@ El Ford Mustang Mach-E Long Range AWD ofrece un rendimiento sólido con una pote
 
 La batería de alta capacidad tiene una capacidad bruta de 98,8 kWh y una capacidad neta utilizable de 92 kWh, proporcionando un buffer de 6,8 kWh (6,9%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-El [rango WLTP](../../../../guides/understandingrange/wltp/) es 550 km (342 mi). El consumo es de 16,7kWh/100 km para la prueba estándar WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 550 km, con una tasa de consumo de energía de 16,7 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 150kW. Una carga completa del 0 al 100 % tardaría 154 minutos, mientras que un escenario más común del 10 al 80 % tardaría 45 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 5% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 85kW. Cada sesión de carga tardaría 26 minutos y 4 segundos.
 

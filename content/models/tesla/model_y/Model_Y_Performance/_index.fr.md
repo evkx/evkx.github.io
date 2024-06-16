@@ -35,7 +35,7 @@ La Tesla Model Y Performance offre des performances solides avec une puissance m
 
 La batterie haute capacité a une capacité brute de 82 kWh et une capacité nette utilisable de 75 kWh, offrant une réserve de 7 kWh (8,5%) pour la protection de la batterie.
 
-La [plage WLTP](../../../../guides/understandingrange/wltp/) est de 514 km (320 mi). La consommation est de 14,6kWh/100km pour le test standard WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 514 km, avec une consommation d'énergie de 14,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 62 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 5 % et 46 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 109kW. Chaque session de charge prendrait 17 minutes et 55 secondes.
 

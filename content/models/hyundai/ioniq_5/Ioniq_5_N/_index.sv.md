@@ -35,7 +35,7 @@ Med överboost når Hyundai Ioniq 5 N en maximal effekt på 478 kW (650 hk). Uta
 
 Högkapacitetsbatteriet har en bruttokapacitet på 84 kWh och en nettoanvändbar kapacitet på 80 kWh, vilket ger en buffert på 4 kWh (4,8%) för batteriskydd.
 
-[WLTP-räckvidd](../../../../guides/understandingrange/wltp/) är 450 km. Förbrukningen är 17,8kWh/100 km för WLTP-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 450 km (199 miles), med en energiförbrukningshastighet på 17,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 233 kW. En full laddning från 0 - 100 % tar 41 minuter, medan ett vanligare scenario på 10-80 % tar 18 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 76%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 154kW. Varje laddningssession tar 23 minuter och 21 sekunder.
 

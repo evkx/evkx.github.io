@@ -35,7 +35,7 @@ The MG Marvel R Electric Performance offers modest performance with a maximum po
 
 The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70 kWh, providing an 5 kWh buffer (6.7%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 370 km (230 mi). The consumption is 18.9kWh/100km for the WLTP standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 370 km (230 miles), with an energy consumption rate of 18.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 94 kW. Charging from 0% to 100% takes approximately 114 minutes, while a more typical charging scenario from 10% to 80% takes 43 minutes with an average charging speed at 69 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 61%. This results in an effective charging speed, including time lost, of 63 kW, with each charging session taking about 35 minutes and 7 seconds..
 
