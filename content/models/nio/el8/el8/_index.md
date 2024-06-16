@@ -252,7 +252,7 @@ Up to one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), five
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 552 liters. With the third-row seat down, it is 810 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2190 kg (4828 lbs), and with the base weight of 2612 kg (5758 lbs), you can max load -422 kg (-930 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. -422kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 552 liters. With the third-row seat down, it is 810 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3190 kg (7033 lbs), and with the base weight of 2612 kg (5758 lbs), you can max load 578 kg (1274 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
 ### Availability & Pricing

@@ -252,7 +252,7 @@ Hasta uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cin
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 552 litros. Con el asiento de la tercera fila abatido, es de 810 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2190 kg (4828 lbs), y con el peso base de 2612 kg (5758 lbs), puedes cargar como máximo -422 kg (-930 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. -422kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
+La capacidad de carga en el maletero es de 552 litros. Con el asiento de la tercera fila abatido, es de 810 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3190 kg (7033 lbs), y con el peso base de 2612 kg (5758 lbs), puedes cargar como máximo 578 kg (1274 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
 ### Disponibilidad y precios

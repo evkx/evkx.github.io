@@ -252,7 +252,7 @@ Opptil en [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), fem 
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 552 liter. Med setet på tredje rad nede er det 810 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2190 kg, og med basisvekten på 2612 kg kan du maksimalt laste -422 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. -422 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Lastkapasiteten i bagasjerommet er 552 liter. Med setet på tredje rad nede er det 810 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3190 kg, og med basisvekten på 2612 kg kan du maksimalt laste 578 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
 ### Tilgjengelighet & pris
