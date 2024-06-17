@@ -37,7 +37,7 @@ Det højkapacitetsbatteri har en bruttokapacitet på 67 kWh og en nettoanvendeli
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 435 km, med et energiforbrugsrate på 15,2 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 215kW. En fuld opladning fra 0 - 100 % ville tage 43 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 124kW. Hver opladningssession ville tage 17 minutter og 54 sekunder.
+Den maksimale DC-opladningshastighed er 215kW. En fuld opladning fra 0 - 100 % ville tage 43 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 124kW. Hver opladningssession ville tage 17 minutter og 54 sekunder. Denne effektive opladningskapacitet gør XPENG G6 RWD Standard Range til et praktisk valg til langdistancerejser.
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 49 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 63%, med en samlet opladningstid på 89 minutter
 

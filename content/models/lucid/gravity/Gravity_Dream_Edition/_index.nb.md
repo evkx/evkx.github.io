@@ -37,7 +37,7 @@ Høykapasitetsbatteriet har en brutto kapasitet på 124 kWh og en netto brukbar 
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 708 km med en energiforbrukshastighet på 17,2 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 81 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 176kW. Hver ladeøkt vil ta 18 minutter og 16 sekunder.
+Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 81 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 176kW. Hver ladeøkt vil ta 18 minutter og 16 sekunder. Denne effektive ladekapasiteten gjør Lucid Gravity Dream Edition til et praktisk valg for langdistansereiser.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 8 timer og 51 minutter. Denne reisen ville kreve to ladestopp fra 1% til 38%, med en total ladetid på 31 minutter.
 

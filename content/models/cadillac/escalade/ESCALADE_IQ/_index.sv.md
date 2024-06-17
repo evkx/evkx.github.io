@@ -37,7 +37,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 215 kWh och en nettoanvändba
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 724 km med en energiförbrukning på 27,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 130 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 242kW. Varje laddningssession tar 26 minuter och 49 sekunder.
+Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 130 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 242kW. Varje laddningssession tar 26 minuter och 49 sekunder. Denna effektiva laddningskapacitet gör Cadillac ESCALADE IQ till ett bekvämt alternativ för långdistansresor.
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 35 kWh/100 km, skulle resan ta ungefär 8 timmar och 58 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 39%, med en total laddningstid på 39 minuter.
 
